@@ -2,18 +2,18 @@
 	<List>
 		<Text Name="Rpg_Tower_0_Talk1">
 			<Nodes.0.Text>Entrance</Nodes.0.Text>
-			<Nodes.1.Text>So, you've come from afar. How can I help you?</Nodes.1.Text>
-			<Nodes.2.Text>The village of nowhere? What is this place?</Nodes.2.Text>
-			<Nodes.3.Text>What can I do here?</Nodes.3.Text>
-			<Nodes.4.Text>I want to go down and take a look!</Nodes.4.Text>
-			<Nodes.5.Text>Goodbye!</Nodes.5.Text>
-			<Nodes.6.Text>Oh, there are only piles of remains. How do I put it? Everything in the past that couldn't be digested by time would hold on to the world and gather here. Now do you understand?</Nodes.6.Text>
-			<Nodes.7.Text>Huh? How long has it been? A stranger in the village of nowhere? How unusual!</Nodes.7.Text>
-			<Nodes.8.Text>Do what? If I were you, I would do nothing and just rest here. But if you are really bored, you can go down and take a look. Listen, it will do you no good. There is nothing but piles of undigested remains down there.</Nodes.8.Text>
-			<Nodes.9.Text>All right, I know. But be careful. Those remains are not as peace-loving as I am.</Nodes.9.Text>
-			<Nodes.10.Text>Oh? Are you leaving? Come visit me more often. It's been so long since I saw a living being.</Nodes.10.Text>
-			<Nodes.12.Text>Can you tell me how deep I am?</Nodes.12.Text>
-			<Nodes.13.Text>Well, how deep you are? Let me see.
+			<Nodes.1.Text>Então, você veio de longe. Como posso ajudá-lo?</Nodes.1.Text>
+			<Nodes.2.Text>The village of nowhere? Que lugar é esse?</Nodes.2.Text>
+			<Nodes.3.Text>O que posso fazer aqui?</Nodes.3.Text>
+			<Nodes.4.Text>Eu quero descer e dar uma olhada!</Nodes.4.Text>
+			<Nodes.5.Text>Adeus!</Nodes.5.Text>
+			<Nodes.6.Text>Oh, há apenas pilhas de restos. Como eu coloco isso? Tudo no passado que não pudesse ser digerido pelo tempo iria se apegar ao mundo e se reunir aqui. Agora você entende?</Nodes.6.Text>
+			<Nodes.7.Text>Huh? Quanto tempo já passou? Um estranho na The village of nowhere? Que incomum!</Nodes.7.Text>
+			<Nodes.8.Text>Fazer o que? Se eu fosse você, não faria nada e apenas descansaria aqui. Mas se você estiver realmente entediado, pode descer e dar uma olhada. Ouça, isso não vai lhe fazer bem. Não há nada além de pilhas de restos não digeridos lá embaixo.</Nodes.8.Text>
+			<Nodes.9.Text>Tudo bem, eu sei. Mas tenha cuidado. Esses restos não são tão pacíficos quanto eu.</Nodes.9.Text>
+			<Nodes.10.Text>Oh? Você está saindo? Venha me visitar mais vezes. Faz tanto tempo desde que eu vi um ser vivo.</Nodes.10.Text>
+			<Nodes.12.Text>Você pode me dizer o quão profundo eu sou?</Nodes.12.Text>
+			<Nodes.13.Text>Bem, quão profundo você é? Deixe-me ver.
 Current Depth: [LUA=WorldLua:GetWorldFlag(5000)]</Nodes.13.Text>
 		</Text>
 	</List>
