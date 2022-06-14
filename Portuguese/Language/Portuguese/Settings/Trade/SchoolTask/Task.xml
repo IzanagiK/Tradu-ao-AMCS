@@ -1,0 +1,152 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="War1">
+			<DisplayName>Battle Against Evil</DisplayName>
+			<Desc>A disciple of {0} was killed by some evil-doer on their adventure. The sect wishes you can help to get their revenge as they cannot do it themselves considering their reputation.</Desc>
+		</Text>
+		<Text Name="War2">
+			<DisplayName>Purge Spies</DisplayName>
+			<Desc>{0} found out that one of their own disciples was a spy. The sect cannot do anything to them as they are too busy with their sect affairs. They are counting on someone else to kill the spy.</Desc>
+		</Text>
+		<Text Name="War3">
+			<DisplayName>Kill a Traitor</DisplayName>
+			<Desc>A disciple of {0} has broke their commandment and fled. They hope to find someone willing to help them with this problem.</Desc>
+		</Text>
+		<Text Name="Rest1">
+			<DisplayName>Heal the Disciple</DisplayName>
+			<Desc>{0}'s senior disciple suffers from severe Earth injuries, but the whole sect doesn't have any elixirs for treatment. Any outside help is appreciated right now.</Desc>
+		</Text>
+		<Text Name="Rest2">
+			<DisplayName>Heal the Disciple</DisplayName>
+			<Desc>{0}'s senior disciple suffers from severe Wood injuries, but the whole sect doesn't have any elixirs for treatment. Any outside help is appreciated right now.</Desc>
+		</Text>
+		<Text Name="Rest3">
+			<DisplayName>Heal the Disciple</DisplayName>
+			<Desc>{0}'s senior disciple suffers from severe Fire injuries, but the whole sect doesn't have any elixirs for treatment. Any outside help is appreciated right now.</Desc>
+		</Text>
+		<Text Name="Rest4">
+			<DisplayName>Heal the Disciple</DisplayName>
+			<Desc>{0}'s senior disciple suffers from severe Metal injuries, but the whole sect doesn't have any elixirs for treatment. Any outside help is appreciated right now.</Desc>
+		</Text>
+		<Text Name="Rest5">
+			<DisplayName>Heal the Disciple</DisplayName>
+			<Desc>{0}'s senior disciple suffers from severe Water injuries, but the whole sect doesn't have any elixirs for treatment. Any outside help is appreciated right now.</Desc>
+		</Text>
+		<Text Name="Rest6">
+			<DisplayName>Heal the Elder</DisplayName>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Water Qi. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Rest7">
+			<DisplayName>Heal the Elder</DisplayName>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Fire Qi. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Rest8">
+			<DisplayName>Heal the Elder</DisplayName>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Metal Qi. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Rest9">
+			<DisplayName>Heal the Elder</DisplayName>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Wood Qi. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Rest10">
+			<DisplayName>Heal the Elder</DisplayName>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Earth Qi. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Rest11">
+			<DisplayName>Delay the Tribulation</DisplayName>
+			<Desc>{0}'s elder needs to complete an urgent task, but the Tribulation Day is around the corner, and it will be too embarrassing to ask for help from another sect. If anyone is willing to help out, they will be greatly rewarded afterwards.</Desc>
+		</Text>
+		<Text Name="Rest12">
+			<DisplayName>Delay the Tribulation</DisplayName>
+			<Desc>{0}'s elder lacks the necessary cultivation before the upcoming Heavenly Tribulation, and needs any elixirs to prolong life and avoid the Tribulation.</Desc>
+		</Text>
+		<Text Name="Rest13">
+			<DisplayName>Life Fading</DisplayName>
+			<Desc>{0}'s senior disciple has consumed a large amount of lifespan due to tasks in the mortal realm and is facing the end of their life. An elixir is needed to prolong their life, but there is none in the sect right now.</Desc>
+		</Text>
+		<Text Name="Rest14">
+			<DisplayName>Life Fading</DisplayName>
+			<Desc>{0}'s elder has consumed a large amount of lifespan due to tasks in the mortal realm and is facing the end of their life. Unwilling to reincarnate, they are now seeking help from all immortals.</Desc>
+		</Text>
+		<Text Name="Rest15">
+			<DisplayName>Breakthrough</DisplayName>
+			<Desc>{0}'s elder was breakthroughing while Water Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Rest16">
+			<DisplayName>Breakthrough</DisplayName>
+			<Desc>{0}'s elder was breakthroughing while Fire Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Rest17">
+			<DisplayName>Breakthrough</DisplayName>
+			<Desc>{0}'s elder was breakthroughing while Metal Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Rest18">
+			<DisplayName>Breakthrough</DisplayName>
+			<Desc>{0}'s elder was breakthroughing while Wood Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Rest19">
+			<DisplayName>Breakthrough</DisplayName>
+			<Desc>{0}'s elder was breakthroughing while Earth Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+		</Text>
+		<Text Name="Build1">
+			<DisplayName>Sect Building</DisplayName>
+			<Desc>{0} is about to fail at completing a wonder for the lack of the key material, Holy Stone, due to a calculation error. Any timely help will be greatly appreciated and rewarded.</Desc>
+		</Text>
+		<Text Name="Build2">
+			<DisplayName>Sect Building</DisplayName>
+			<Desc>{0} is about to fail at completing a wonder for the lack of the key material, lumina core, due to a calculation error. Any timely help will be greatly appreciated and rewarded.</Desc>
+		</Text>
+		<Text Name="Build3">
+			<DisplayName>Sect Building</DisplayName>
+			<Desc>{0} is building a new entrance hall, but doesn't have enough stone essence. Any timely help will be greatly rewarded.</Desc>
+		</Text>
+		<Text Name="Build4">
+			<DisplayName>Sect Building</DisplayName>
+			<Desc>{0} is building a new bathing pool, but doesn't have enough Jade Essence. Any help from all the sects will be appreciated.</Desc>
+		</Text>
+		<Text Name="Build5">
+			<DisplayName>Sect Building</DisplayName>
+			<Desc>{0} needs a large amount of Igneocopper Ores to build an alchemy furnace, but there is a lack of necessary materials in the whole sect right now.</Desc>
+		</Text>
+		<Text Name="Build6">
+			<DisplayName>Sect Building</DisplayName>
+			<Desc>{0} needs a large amount of Ice Crystal Ores to build an alchemy furnace, but there is a lack of necessary materials in the whole sect right now.</Desc>
+		</Text>
+		<Text Name="Build7">
+			<DisplayName>Sect Building</DisplayName>
+			<Desc>{0} was renovating the hall when the storage suddenly caught on fire, and all of their Goldwood turned to ashes. But they cannot stop renovating the hall. Any timely help will be appreciated.</Desc>
+		</Text>
+		<Text Name="Build8">
+			<DisplayName>Sect Building</DisplayName>
+			<Desc>{0} needs to expand the dining hall, but the wood stored in their sect has been mishandled and corroded by insects. Any timely help will be appreciated.</Desc>
+		</Text>
+		<Text Name="Build9">
+			<DisplayName>Resource Shortage</DisplayName>
+			<Desc>{0}'s sect gate suddenly collapsed. Holy Stones are urgently needed to repair it, or their reputation will be ruined. Any timely help will be greatly appreciated and rewarded.</Desc>
+		</Text>
+		<Text Name="Build10">
+			<DisplayName>Resource Shortage</DisplayName>
+			<Desc>{0}'s artifact is broken due to a momentary mistake during the crafting. Lumina cores are urgently needed to repair it. Any timely help will be greatly appreciated and rewarded.</Desc>
+		</Text>
+		<Text Name="Build11">
+			<DisplayName>Resource Shortage</DisplayName>
+			<Desc>{0}'s ground foundation is damaged, and a large amount of stone essence is needed to fill the gaps. Any timely help will be greatly rewarded.</Desc>
+		</Text>
+		<Text Name="Build12">
+			<DisplayName>Resource Shortage</DisplayName>
+			<Desc>{0} needs a large amount of Jade Essence to build a statue, but there is not enough in the whole sect. Any help from all the sects will be appreciated.</Desc>
+		</Text>
+		<Text Name="Build13">
+			<DisplayName>Resource Shortage</DisplayName>
+			<Desc>{0} needs to build a room of extreme heat for Tribulation Survival, but there is a shortage of available Igneocopper Ores in the sect. Any help will be appreciated.</Desc>
+		</Text>
+		<Text Name="Build14">
+			<DisplayName>Resource Shortage</DisplayName>
+			<Desc>{0} needs to build a room of extreme cold for Tribulation Survival, but there is a shortage of available Ice Crystal Ores in the sect. Any help will be appreciated.</Desc>
+		</Text>
+		<Text Name="Build15">
+			<DisplayName>Resource Shortage</DisplayName>
+			<Desc>{0} wants to study talisman cultivation, and a large amount of Cinnabar are needed to draw all kinds of divine talismans, but the sect has not stored this material. Any timely help will be much appreciated.</Desc>
+		</Text>
+	</List>
+</Texts>

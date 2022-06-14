@@ -1,0 +1,65 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="God_Xiuwei">
+			<DisplayName>Celestial Meditation</DisplayName>
+			<Desc>Sit quietly while converting your accumulated Belief into Cultivation.</Desc>
+		</Text>
+		<Text Name="God_Xiuwei1">
+			<DisplayName>Meditation of Divinity</DisplayName>
+			<Desc>Sit quietly while converting your accumulated Belief into Cultivation, but with a rather low conversion rate.</Desc>
+		</Text>
+		<Text Name="God_Xiuwei2">
+			<DisplayName>Meditation of Unification</DisplayName>
+			<Desc>Sit quietly while converting your accumulated Belief into Cultivation, but with a slightly low conversion rate.</Desc>
+		</Text>
+		<Text Name="God_XinZhai">
+			<DisplayName>Mind Fasting</DisplayName>
+			<Desc>Enter Mind Fasting, which gradually reduce the impact of emotions on your Mood, and continues for a period of time after completion. The length of time the effect persists after its completion is equivalent to the time you spent in Mind Fasting.</Desc>
+		</Text>
+		<Text Name="God_ResurrectionA">
+			<DisplayName>Resurrection Spell</DisplayName>
+			<Desc>Resurrects a dying or dead character. You receive 10 Divinity.</Desc>
+			<TargetDesc>Select a dead or dying character.</TargetDesc>
+		</Text>
+		<Text Name="God_ResurrectionB">
+			<DisplayName>Yin Yang Reversal</DisplayName>
+			<Desc>Resurrects all dying and fallen character on your side within the scene. You receive 100 Divinity.</Desc>
+		</Text>
+		<Text Name="God_DefuseZhinian">
+			<DisplayName>Clean Mind</DisplayName>
+			<Desc>Resolve an Obsession for the character, and obtain an Obsession Gem.</Desc>
+			<TargetDesc>Select a character whose Obsession has already manifested.</TargetDesc>
+		</Text>
+		<Text Name="God_GodLike">
+			<DisplayName>Deification</DisplayName>
+			<Desc>Cast a spell to temporarily raise your Divinity to extreme. However, each usage will permanently increase your Divinity by 1.</Desc>
+		</Text>
+		<Text Name="God_BeliveMe">
+			<DisplayName>Persuasion</DisplayName>
+			<Desc>Persuade ally or neutral Inner disciple characters to try to convert them into Core Followers.</Desc>
+			<TargetDesc>Select a character that needs persuasion.</TargetDesc>
+		</Text>
+		<Text Name="God_Jingxin">
+			<DisplayName>Pacification</DisplayName>
+			<Desc>Release on a non-Shendao cultivating character and reduce its Mood multiplier by 25%, lasting 7 days.</Desc>
+			<TargetDesc>Select a non-Shendao character to release on.</TargetDesc>
+		</Text>
+		<Text Name="God_ProductUp1">
+			<DisplayName>Divine Rallying Spell</DisplayName>
+			<Desc>Increase the base material output of your god-possessed area by 100% within 10 days.</Desc>
+		</Text>
+		<Text Name="God_ProductUp2">
+			<DisplayName>Wish-fulfilling Spell</DisplayName>
+			<Desc>Increase the base material output of your god-possessed area by 200% within 4 days.</Desc>
+		</Text>
+		<Text Name="God_ProductUp3">
+			<DisplayName>Sole Reverence Spell</DisplayName>
+			<Desc>Increase the base material output of your god-possessed area by 500% within 1 day.</Desc>
+		</Text>
+		<Text Name="God_TongLing_Plant">
+			<DisplayName>Divine Mercy</DisplayName>
+			<Desc>Plants are alive but have no mercy. To illuminate a plant needs 1 Humanity as primer. Costs 9 Obsession Gems and 1 Primordial Soul Gem to try to illuminate its psychic power. The illumination result will need some time to appear. The plant cannot be illuminated with psychic power again while in an illumination session. The higher the spell caster's divinity, and the more times the plant has been illuminated, the easier it is for the item to be illuminated successfully.</Desc>
+			<TargetDesc>Select a plant.</TargetDesc>
+		</Text>
+	</List>
+</Texts>

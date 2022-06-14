@@ -1,0 +1,272 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Dan_BasePracticeDrug">
+			<DisplayName>Forming Pill</DisplayName>
+			<Desc>Unlock your body's potential, temporarily increasing Perception, Constitution and Intelligence by 30% each.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan">
+			<DisplayName>Stamina Pill</DisplayName>
+			<Desc>By consuming the Stamina Pill, the ability of one's body to generate Stamina is improved within 7 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan2">
+			<DisplayName>Ginseng Pill</DisplayName>
+			<Desc>By consuming the Ginseng Pill, the ability of one's body to generate Stamina is improved within 14 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_JingYuan3">
+			<DisplayName>Resin Essence Powder</DisplayName>
+			<Desc>By consuming the Resin Essence Powder, the ability of one's body to generate Stamina is improved within 28 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
+		</Text>
+		<Text Name="Dan_Ling1">
+			<DisplayName>Qi Regen Pill</DisplayName>
+			<Desc>Increases Qi recovery rate by 2,000%.</Desc>
+		</Text>
+		<Text Name="Dan_Ling2">
+			<DisplayName>Sun Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Ling3">
+			<DisplayName>Divine Powder</DisplayName>
+			<Desc>Increases Max Qi by 100,000.</Desc>
+		</Text>
+		<Text Name="Dan_Defense">
+			<DisplayName>Shield Pill</DisplayName>
+			<Desc>Increases your base Protection strength by 30%.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBaseFromLife">
+			<DisplayName>Pill of the Five Clingings</DisplayName>
+		</Text>
+		<Text Name="Dan_FiveBase1">
+			<DisplayName>Heavenly Pill</DisplayName>
+			<Desc>Increases Perception by 30% for 48 hours.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase2">
+			<DisplayName>Earthly Pill</DisplayName>
+			<Desc>Increases Constitution by 30% for 48 hours.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase3">
+			<DisplayName>Ether Pill</DisplayName>
+			<Desc>Increases Charisma by 30% for 48 hours.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase4">
+			<DisplayName>Wisdom Pill</DisplayName>
+			<Desc>Increases Intelligence by 30% for 48 hours.</Desc>
+		</Text>
+		<Text Name="Dan_FiveBase5">
+			<DisplayName>Blessed Pill</DisplayName>
+			<Desc>Increases Luck by 30% for 48 hours.</Desc>
+		</Text>
+		<Text Name="Dan_PracticeRate">
+			<DisplayName>Increases the chance of successfully breakthroughing.</DisplayName>
+		</Text>
+		<Text Name="Dan_PracticeSpeed">
+			<DisplayName>Increases Cultivation speed (Yellowbud).</DisplayName>
+		</Text>
+		<Text Name="Dan_HundredRefine">
+			<DisplayName>Increases Cultivation speed (Samsara).</DisplayName>
+		</Text>
+		<Text Name="Dan_CalmDown">
+			<DisplayName>Purity Pill</DisplayName>
+			<Desc>Consumption of the Purity Pill will calm one's Mental State to a certain extent, and reduces the fluctuation of mood within one day.</Desc>
+		</Text>
+		<Text Name="Dan_Happiness">
+			<DisplayName>Euphoria Pill</DisplayName>
+			<Desc>Consumption of the Euphoria Pill will immerse one in happiness within two days, but it greatly hinders work efficiency.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger">
+			<DisplayName>Inedia Pill</DisplayName>
+			<Desc>Consumption of Inedia Pill grants one the ability of Qi Absorption for two days, enabling auto-replenishment of Hunger.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger1">
+			<DisplayName>Nourish Pill</DisplayName>
+			<Desc>Consumption of the Nourish Pill decreases one's Hunger and Fatigue rates within two days.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger2">
+			<DisplayName>Fasting Pill</DisplayName>
+			<Desc>Consumption of Fasting Pill will significantly decrease the speed at which one consumes food and water.</Desc>
+		</Text>
+		<Text Name="Dan_LostSoul">
+			<DisplayName>Sedation Pill</DisplayName>
+			<Desc>Very basic mineral-based pill. Consuming this pill will cause one's brain function to be repressed and fell into a coma for 3 whole days.</Desc>
+		</Text>
+		<Text Name="Dan_IncreaseLife1">
+			<DisplayName>Life Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife2">
+			<DisplayName>Vitata Elixir</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife3">
+			<DisplayName>Eternity Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife4">
+			<DisplayName>Regen Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife5">
+			<DisplayName>Morrow Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife6">
+			<DisplayName>Life Spring</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife7">
+			<DisplayName>Lingzhi</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseLife8">
+			<DisplayName>Ganoderma</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Anodyne">
+			<DisplayName>Painkiller</DisplayName>
+			<Desc>Relieve pain. Its effect will last around 5 days.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Mint">
+			<DisplayName>Purity Leaf</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence">
+			<DisplayName>Earth Flux</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence1">
+			<DisplayName>Wicked Flux</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence_1">
+			<DisplayName>Holy Essence</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_EarthEssence1_1">
+			<DisplayName>Evil Essence</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Ginseng">
+			<DisplayName>Ginseng</DisplayName>
+			<Desc>Improves natural resilience for a short period of time.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_RedGinseng">
+			<DisplayName>Red Ginseng</DisplayName>
+			<Desc>Significantly improves natural resilience for a short period of time.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_RedGinseng1">
+			<DisplayName>Red Ginseng (Fruit)</DisplayName>
+			<Desc>Increases Max Qi.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Laxative">
+			<DisplayName>Laxative Pill</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Laxative1">
+			<DisplayName>Weakening</DisplayName>
+			<Desc>After taking the Laxative Pill, one would be considerably weakened and has a very low work efficiency.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_LongXianGuo">
+			<DisplayName>Amber Fruit</DisplayName>
+			<Desc>By consuming the Amber Fruit, one becomes immune to hunger and fatigue within half a day.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_LingWater">
+			<DisplayName>Spirit Dew</DisplayName>
+			<Desc>Consumption of Spirit Dew will greatly improve one's recovery rate from wound for a short period of time.</Desc>
+		</Text>
+		<Text Name="Dan_LingStone">
+			<DisplayName>Advanced Qi Resonance</DisplayName>
+			<Desc>Use spirit stone in cultivation to resonate with Qi energies, greatly increasing one's Qi Recovery Rate and Cultivation Speed.</Desc>
+		</Text>
+		<Text Name="Dan_LingCrystal">
+			<DisplayName>Advanced Qi Resonance</DisplayName>
+			<Desc>Use Spirit Crystal in cultivation to deeply resonate with Qi energies, greatly increasing one's Qi Recovery Rate and Cultivation Speed.</Desc>
+		</Text>
+		<Text Name="Dan_IncreaseNeckCountdown1">
+			<DisplayName>Harmony Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_IncreaseNeckCountdown2">
+			<DisplayName>Justice Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail1">
+			<DisplayName>Junk Pill</DisplayName>
+			<Desc>After taking that strange elixir pill, my body was suddenly shrunk.</Desc>
+		</Text>
+		<Text Name="Dan_Fail2">
+			<DisplayName>Junk Pill</DisplayName>
+			<Desc>After taking that strange elixir pill, my body was suddenly enlarged.</Desc>
+		</Text>
+		<Text Name="Dan_Fail3">
+			<DisplayName>Junk Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail4">
+			<DisplayName>Junk Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Fail5">
+			<DisplayName>Junk Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul1">
+			<DisplayName>Anguish Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul2">
+			<DisplayName>Soulrend Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul3">
+			<DisplayName>Serene Pill</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul4">
+			<DisplayName>Scorch Pill</DisplayName>
+			<Desc>Consume part of your lifespan to gain superb intelligence for 2 hours, but it will leave permanent damage to intelligence afterwards.</Desc>
+		</Text>
+		<Text Name="Dan_Soul4_D">
+			<DisplayName>Scorch Pill Negative</DisplayName>
+		</Text>
+		<Text Name="Dan_LunHui1">
+			<DisplayName>Touched</DisplayName>
+			<Desc>Touched by this section of memory from a different world.</Desc>
+		</Text>
+		<Text Name="Dan_XianBone">
+			<DisplayName>Divine Bones</DisplayName>
+		</Text>
+		<Text Name="Dan_XianBoneBall">
+			<DisplayName>Sarira</DisplayName>
+		</Text>
+		<Text Name="Dan_LingYuanZhong">
+			<DisplayName>Spirit Seed (Consumable)</DisplayName>
+		</Text>
+		<Text Name="Dan_LingYuanZhong_Equip">
+			<DisplayName>Spirit Seed (Equipment)</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_YuanHunLu">
+			<DisplayName>Holy Nectar</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XieHunLu">
+			<DisplayName>Evil Nectar</DisplayName>
+			<Desc>By consuming the Evil Nectar, one's Intelligence and learning ability are increased.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_XieHunLu1">
+			<DisplayName>Evil Nectar (Damage)</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_YanDaoGuo">
+			<DisplayName>Insight Fruit</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_QieDaoGuo">
+			<DisplayName>Impose Fruit</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_ZaoHuaYuLu">
+			<DisplayName>Fortune Nectar</DisplayName>
+			<Desc>By consuming the Fortune Nectar, one's Primordial Spirit enters a state of oblivion.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_ZaoHuaYuLu1">
+			<DisplayName>Fortune Nectar Effects</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XianShiChongSheng">
+			<DisplayName>Rebirth of Divine Consciousness</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_XieShiChongSheng">
+			<DisplayName>Rebirth of Wicked Consciousness</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_Boss_Meat">
+			<DisplayName>Divine Beast Flesh</DisplayName>
+			<Desc>Greatly increases Max Qi and Lifespan.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_BossZhuLong_Meat">
+			<DisplayName>Primeval Flesh</DisplayName>
+			<Desc>Decreases Attainment and increases Lifespan.</Desc>
+		</Text>
+		<Text Name="Modifier_Item_Dan_FabaoNumAdd">
+			<DisplayName>Increases number of Artifacts by 1.</DisplayName>
+			<Desc>Increases maximum number of Artifacts by 1.</Desc>
+		</Text>
+		<Text Name="Modifier_Dan_LieShenDan">
+			<DisplayName>Division Pill</DisplayName>
+		</Text>
+		<Text Name="Modifier_Dan_TiShen">
+			<DisplayName>Clone Pill</DisplayName>
+			<Desc>Allows you to escape from an Auction.</Desc>
+		</Text>
+	</List>
+</Texts>

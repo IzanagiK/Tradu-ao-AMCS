@@ -1,0 +1,87 @@
+﻿<SpecialNames>
+	<List>
+		<SpecialItem Name="Item_HomeFood">
+			<Fish_SkyCrab>
+				<li Name="Steamed Crab" Desc=""></li>
+				<li Name="Crab Soup" Desc=""></li>
+				<li Name="Stir-fried Crab" Desc=""></li>
+				<li Name="Crab Meat Porridge" Desc=""></li>
+				<li Name="Braised Crab with Tofu" Desc=""></li>
+				<li Name="Spicy Crab" Desc=""></li>
+				<li Name="Spiced Crab" Desc=""></li>
+				<li Name="Fried Rice with Crab Meat" Desc=""></li>
+			</Fish_SkyCrab>
+			<Fish_SkySnake>
+				<li Name="Fish Risotto" Desc=""></li>
+				<li Name="Fish Pancake" Desc=""></li>
+				<li Name="Fish Rolls" Desc=""></li>
+				<li Name="Roasted Fish" Desc=""></li>
+				<li Name="Deep-fried Fish" Desc=""></li>
+				<li Name="Boiled Fish" Desc=""></li>
+				<li Name="Steamed Fish" Desc=""></li>
+				<li Name="Braised Fish" Desc=""></li>
+			</Fish_SkySnake>
+			<Fish_SkyFish>
+				<li Name="Fish Risotto" Desc=""></li>
+				<li Name="Fish Pancake" Desc=""></li>
+				<li Name="Fish Rolls" Desc=""></li>
+				<li Name="Roasted Fish" Desc=""></li>
+				<li Name="Deep-fried Fish" Desc=""></li>
+				<li Name="Boiled Fish" Desc=""></li>
+				<li Name="Steamed Fish" Desc=""></li>
+				<li Name="Braised Fish" Desc=""></li>
+			</Fish_SkyFish>
+		</SpecialItem>
+		<SpecialItem Name="Item_DeliciousFood">
+			<Fish_SkyCrab>
+				<li Name="Simmered Crab Meat" Desc=""></li>
+				<li Name="Spicy Crab" Desc=""></li>
+				<li Name="Steamed Crab Claws" Desc=""></li>
+				<li Name="Simmered Crab Roe with Glass Noodles" Desc=""></li>
+				<li Name="Drunken Crab" Desc=""></li>
+				<li Name="Crab Meat with Tofu" Desc=""></li>
+				<li Name="Quick-fried Crab Meat" Desc=""></li>
+			</Fish_SkyCrab>
+			<Fish_SkySnake>
+				<li Name="Stir-fried Fish" Desc=""></li>
+				<li Name="Claypot Rice with Fish" Desc=""></li>
+				<li Name="Fish in Chili Oil" Desc=""></li>
+				<li Name="Fish Balls" Desc=""></li>
+				<li Name="Fish Cakes" Desc=""></li>
+				<li Name="Spiced Fish Stew" Desc=""></li>
+				<li Name="Sour Fish Soup" Desc=""></li>
+				<li Name="Steamed Fish in Rice Wine" Desc=""></li>
+				<li Name="Fried Fish Fillets" Desc=""></li>
+				<li Name="Simmered Fish in Broth" Desc=""></li>
+				<li Name="Steamed Fish Head with Hot Pepper" Desc=""></li>
+			</Fish_SkySnake>
+			<Fish_SkyFish>
+				<li Name="Stir-fried Fish" Desc=""></li>
+				<li Name="Claypot Rice with Fish" Desc=""></li>
+				<li Name="Fish in Chili Oil" Desc=""></li>
+				<li Name="Fish Balls" Desc=""></li>
+				<li Name="Fish Cakes" Desc=""></li>
+				<li Name="Spiced Fish Stew" Desc=""></li>
+				<li Name="Sour Fish Soup" Desc=""></li>
+				<li Name="Steamed Fish in Rice Wine" Desc=""></li>
+				<li Name="Fried Fish Fillets" Desc=""></li>
+				<li Name="Simmered Fish in Broth" Desc=""></li>
+				<li Name="Steamed Fish Head with Hot Pepper" Desc=""></li>
+			</Fish_SkyFish>
+		</SpecialItem>
+		<SpecialItem Name="Item_DelicacyFood">
+			<Fish_SkyCrab>
+				<li Name="Emperor's Soup Bun" Desc="Mix fresh crab roe with meat and wrap them in thin, leavened dough. The whole inside will be filled with golden crab oil after steamed. It is said that there used to be an emperor who would give up his royal robe to eat this bun."></li>
+				<li Name="Crab Steamed with Shaoxing Wine" Desc="Use the finest Shaoxing wine to steam crabs of late autumn. The wine can expel the coldness in crabs. The smooth taste of Shaoxing wine mixes perfectly with the sweetness of crab meat."></li>
+			</Fish_SkyCrab>
+			<Fish_SkySnake>
+				<li Name="Stir-fried Shredded Fish" Desc="Cut fresh swamp eels into shreds and stir fry them with seasoning ingredients. Requires meticulous cutting skills and speed."></li>
+				<li Name="Stir-fried Fish with Onions" Desc="Boil fresh swamp eels till they are cooked, and then stir-fry with onions to remove the fishy smell. Gourmet food that is both healthy and tasty."></li>
+			</Fish_SkySnake>
+			<Fish_SkyFish>
+				<li Name="Dragon Soup" Desc="Taking the imagery of carp leaping over the dragon's gate, this soup is mostly depended on the intricate order of cooking and use of spice, making it taste far better than normal fish dishes."></li>
+				<li Name="Fish Hidden in Lamb" Desc="Stuff fish inside a large, sliced-open lamb, and cook it with condiments, creating a delicate taste. The flavor of fish combined with that of lamb makes it even more delicious. The lamb is soft and juicy, with tender and delicate fish stuffed inside."></li>
+			</Fish_SkyFish>
+		</SpecialItem>
+	</List>
+</SpecialNames>

@@ -1,0 +1,70 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="MakeLingSoil">
+			<DisplayName>Spiritual Soil of Creator</DisplayName>
+			<Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Spiritual Soil.</Desc>
+			<TargetDesc>Select an empty area on the ground.</TargetDesc>
+		</Text>
+		<Text Name="MakeFatSoil">
+			<DisplayName>Fertile Soil</DisplayName>
+			<Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Fertile Soil.</Desc>
+			<TargetDesc>Select an empty area on the ground.</TargetDesc>
+		</Text>
+		<Text Name="LcBrokeHeartLock">
+			<DisplayName>Act Playful</DisplayName>
+			<Desc>Costs intelligence to perceive the mind of a visitor or an outsider and act Playful to take down their guard.</Desc>
+			<TargetDesc>Select a target.</TargetDesc>
+		</Text>
+		<Text Name="LcClearHanyu">
+			<DisplayName>Cold Prison Dispelling</DisplayName>
+			<Desc>As the same type of creature as a Flood Dragon, it can dispel the Cold Prison that the Flood Dragons leave behind to acquire a large amount of nutrition.</Desc>
+			<TargetDesc>Select a target.</TargetDesc>
+		</Text>
+		<Text Name="LcStopColdWave">
+			<DisplayName>Scorching Breath</DisplayName>
+			<Desc>Uses the Phoenix's power from within to emit scorching breath and expel bitter cold.</Desc>
+			<TargetDesc>Select a target.</TargetDesc>
+		</Text>
+		<Text Name="LcStopHeatWave">
+			<DisplayName>Icy Breath</DisplayName>
+			<Desc>Uses the Flood Dragon's power from within to emit icy breath and expel scorching heat.</Desc>
+			<TargetDesc>Select a target.</TargetDesc>
+		</Text>
+		<Text Name="LcBaipiao">
+			<DisplayName>Act Playful</DisplayName>
+			<Desc>Costs some intelligence to guess Traveling Merchant's mind and act Playful in order to curry favor. Maybe the merchant is not as cold-hearted as imagined.</Desc>
+			<TargetDesc>Select a Traveling Merchant.</TargetDesc>
+		</Text>
+		<Text Name="LcSeeUnknown">
+			<DisplayName>Piercing Sight</DisplayName>
+			<Desc>Grants Piercing Sight to an inner disciple so that they will be able to see through to an item's true features while at an auction.</Desc>
+			<TargetDesc>Select a target.</TargetDesc>
+		</Text>
+		<Text Name="LcOutspreadAttractive">
+			<DisplayName>Auspicious Signs</DisplayName>
+			<Desc>Sends them to an agency and shows auspicious signs at the cost of their own growth and stats in order to increase our appeal.</Desc>
+			<sParam2>Auspicious</sParam2>
+		</Text>
+		<Text Name="LcOutspreadStability">
+			<DisplayName>Renowned Might</DisplayName>
+			<Desc>Sends them to an agency and shows divine might at the cost of their own growth and stats in order to increase stability of the place.</Desc>
+			<sParam2>Divine Might</sParam2>
+		</Text>
+		<Text Name="Magic_YG_RealPower">
+			<DisplayName>Origin Force (Power)</DisplayName>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the power of the artifacts and secret bodies. Release the skill again to stop this effect.</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealRecover">
+			<DisplayName>Origin Force (Nurture)</DisplayName>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the resilience, artifact Qi recovery rate and secret body True Qi recovery rate. Release the skill again to stop this effect.</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealWisdom">
+			<DisplayName>Origin Force (INT)</DisplayName>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the spell power, secret body attack accuracy, defense success rate, Qi barrier penetration and artifact suppression chance. Release the skill again to stop this effect.</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealShield">
+			<DisplayName>Origin Force (PCT)</DisplayName>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the Qi barrier and secret body endurance. Release the skill again to stop this effect.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,569 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Drink1">
+			<DisplayName>I drank dirty water.</DisplayName>
+			<Desc>It looked like there was something floating in that water.</Desc>
+			<StoryDesc>vomitting twice after drinking that water</StoryDesc>
+		</Text>
+		<Text Name="Dan_Happiness">
+			<DisplayName>Treading on Air</DisplayName>
+			<Desc>I feel happy, relaxed, and don't want to do anything at all.</Desc>
+			<StoryDesc>feeling difficult to be more content</StoryDesc>
+		</Text>
+		<Text Name="Eat1">
+			<DisplayName>Disgusting Food</DisplayName>
+			<Desc>Can this be eaten? Why must I eat this, it's gross...</Desc>
+			<StoryDesc>feeling difficult not to feel grossed out after eating this food</StoryDesc>
+		</Text>
+		<Text Name="Eat3">
+			<DisplayName>Tastes like Wax</DisplayName>
+			<Desc>What even is this flavor?</Desc>
+			<StoryDesc>feeling difficult not to feel downcast after eating whatever that was</StoryDesc>
+		</Text>
+		<Text Name="Eat4">
+			<DisplayName>Eating Uncooked Food</DisplayName>
+			<Desc>It's difficult to swallow food that isn't cooked.</Desc>
+			<StoryDesc>Eating uncooked food leaves one feeling uneasy</StoryDesc>
+		</Text>
+		<Text Name="Eat5">
+			<DisplayName>Dirt Eating</DisplayName>
+			<Desc>I'm entirely too hungry, but all there is dirt... How long could I even live on dirt?</Desc>
+			<StoryDesc>Feeling depleted after eating that dirt</StoryDesc>
+		</Text>
+		<Text Name="Eat6">
+			<DisplayName>Full Stomach</DisplayName>
+			<Desc>I'm soooo full after all of that.</Desc>
+			<StoryDesc>feeling comfortable</StoryDesc>
+		</Text>
+		<Text Name="Eat7">
+			<DisplayName>Home-cooked Meal</DisplayName>
+			<Desc>This tastes great!</Desc>
+			<StoryDesc>Feeling that the meal was so satisfying</StoryDesc>
+		</Text>
+		<Text Name="Eat8">
+			<DisplayName>Gourmet Food</DisplayName>
+			<Desc>[TXT] tastes divine. I doubt I could be more content.</Desc>
+			<StoryDesc>Feeling happy after a meal like that</StoryDesc>
+		</Text>
+		<Text Name="Eat9">
+			<DisplayName>Exquisite Meal</DisplayName>
+			<Desc>[TXT] is this really food made by humans or gods?! I don't even want to seeking Immortality anymore!</Desc>
+			<StoryDesc>Feeling dazing at how exquisite that meal was</StoryDesc>
+		</Text>
+		<Text Name="Eat10">
+			<DisplayName>Crude Meal</DisplayName>
+			<Desc>What a crude meal [TXT] was. I don't want to eat this again if I can help it.</Desc>
+			<StoryDesc>Not feeling satisfied after that meal</StoryDesc>
+		</Text>
+		<Text Name="Eat11">
+			<DisplayName>Not the Best of Meals</DisplayName>
+			<Desc>That [TXT] today...I've had better and really would prefer something better right about now.</Desc>
+			<StoryDesc>Not so satisfied with that meal</StoryDesc>
+		</Text>
+		<Text Name="Eat12">
+			<DisplayName>#$%^ Eater</DisplayName>
+			<Desc>What sin have I just committed...</Desc>
+			<StoryDesc>feeling difficult not to feel dazed after eating a pile of #$%^</StoryDesc>
+		</Text>
+		<Text Name="Sleep1">
+			<DisplayName>Well Rested</DisplayName>
+			<Desc>I feel full of energy after sleeping.</Desc>
+			<StoryDesc>Feeling energetic after a great night's rest</StoryDesc>
+		</Text>
+		<Text Name="Sleep2">
+			<DisplayName>A Nightmare</DisplayName>
+			<Desc>I didn't sleep well due to that nightmare.</Desc>
+			<StoryDesc>Feeling tired and weary after a sleep filled with nightmares leaves </StoryDesc>
+		</Text>
+		<Text Name="Sleep8">
+			<DisplayName>A Great Dream</DisplayName>
+			<Desc>What a great dream...</Desc>
+			<StoryDesc>feeling difficult not to bask in the glow of such a great dream</StoryDesc>
+		</Text>
+		<Text Name="Sleep3">
+			<DisplayName>Interrupted sleep</DisplayName>
+			<Desc>I kept being woken up because it always seemed like there was something moving around nearby.</Desc>
+			<StoryDesc>feeling difficult not to yawn after such a poor night's sleep</StoryDesc>
+		</Text>
+		<Text Name="Sleep4">
+			<DisplayName>Cold Sleep</DisplayName>
+			<Desc>I kept waking up because of how freezing it was.</Desc>
+			<StoryDesc>feeling difficult to have a lot of energy after such a poor night's sleep</StoryDesc>
+		</Text>
+		<Text Name="Sleep5">
+			<DisplayName>Too Hot to Sleep</DisplayName>
+			<Desc>It's so hot it's difficult to sleep.</Desc>
+			<StoryDesc>feeling difficult to have a lot of energy after such a poor night's sleep</StoryDesc>
+		</Text>
+		<Text Name="Sleep6">
+			<DisplayName>Slept on the Ground</DisplayName>
+			<Desc>I slept the whole night on the cold, hard ground. My body is aching all over.</Desc>
+			<StoryDesc>feeling difficult for your body not to be sore after sleeping on the ground</StoryDesc>
+		</Text>
+		<Text Name="Sleep7">
+			<DisplayName>Sleeping out in the Wilderness</DisplayName>
+			<Desc>I couldn't sleep well because I felt like something was stalking me all night long.</Desc>
+			<StoryDesc>Feeling good...other than that all one can do is complain about not wanting to sleep out in the wilderness again</StoryDesc>
+		</Text>
+		<Text Name="Work">
+			<DisplayName>An Interesting Job</DisplayName>
+			<Desc>I could work as a [TXT] all day long.</Desc>
+			<StoryDesc>Feeling satisfied about this job</StoryDesc>
+		</Text>
+		<Text Name="FavoriteWork">
+			<DisplayName>Obsessed with Work</DisplayName>
+			<Desc>[TXT] is entirely too interesting. Time flies by while working.</Desc>
+			<StoryDesc>Feeling that A job like this could be done all day and one would still come back for more</StoryDesc>
+		</Text>
+		<Text Name="SocialContact9">
+			<DisplayName>Cured</DisplayName>
+			<Desc>I've been cured by [TXT]. This is fantastic!</Desc>
+			<StoryDesc>Feeling that the healer is great</StoryDesc>
+		</Text>
+		<Text Name="SocialContact14">
+			<DisplayName>Rejected Confession</DisplayName>
+			<Desc>I confessed my love to [TXT] and was rejected.</Desc>
+			<StoryDesc>feeling hard not to feel down with such recent pain still so fresh</StoryDesc>
+		</Text>
+		<Text Name="SocialContact15">
+			<DisplayName>Lovers</DisplayName>
+			<Desc>[TXT] and I are now a couple, and, WOW, how great life is!</Desc>
+			<StoryDesc>feeling hard not to feel like a million bucks when you become a partner with someone who also loves you too</StoryDesc>
+		</Text>
+		<Text Name="Death1">
+			<DisplayName>Someone died.</DisplayName>
+			<Desc>Death is always such a tragedy.</Desc>
+			<StoryDesc>feeling difficult not to feel slightly distressed by the passing of another life</StoryDesc>
+		</Text>
+		<Text Name="Death2">
+			<DisplayName>The Death of a Fellow Pupil</DisplayName>
+			<Desc>A fellow pupil of my master died...</Desc>
+			<StoryDesc>Feeling that the passing of someone so close leaves those around grieving every time</StoryDesc>
+		</Text>
+		<Text Name="Death3">
+			<DisplayName>The Death of a Friend</DisplayName>
+			<Desc>[TXT]... How could you leave? I already miss our time together...</Desc>
+			<StoryDesc>Feeling that tears flow easily when friends pass</StoryDesc>
+		</Text>
+		<Text Name="Death4">
+			<DisplayName>Deceased Lover</DisplayName>
+			<Desc>Why!? Why?! Why take [TXT] from me!?</Desc>
+			<StoryDesc>Feeling that the passing of one's partner makes one question whether life is worth living..</StoryDesc>
+		</Text>
+		<Text Name="Death5">
+			<DisplayName>The Death of a Pet</DisplayName>
+			<Desc>My dear [TXT], how many years were you by my side?</Desc>
+			<StoryDesc>Feeling that what memories were shared between a master and a beloved companion?</StoryDesc>
+		</Text>
+		<Text Name="Death6">
+			<DisplayName>Deceased Relative</DisplayName>
+			<Desc>My [TXT] has passed... Now, I'm even more alone...</Desc>
+			<StoryDesc>Feeling that the anguish of losing a loved one is great</StoryDesc>
+		</Text>
+		<Text Name="Death7">
+			<DisplayName>The Death of an Enemy</DisplayName>
+			<Desc>[TXT] finally kicked the bucket.</Desc>
+			<StoryDesc>Feeling that one less enemy makes life easier</StoryDesc>
+		</Text>
+		<Text Name="Death8">
+			<DisplayName>The Death of a Fellow Pupil</DisplayName>
+			<Desc>My [TXT] finally left this world...</Desc>
+			<StoryDesc>Feeling that when someone so influential in one's life dies...the pain is great</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice1">
+			<DisplayName>Breakthrough</DisplayName>
+			<Desc>My world has just grown bigger!</Desc>
+			<StoryDesc>Feeling that a Breakthrough in training always leaves one elated</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice2">
+			<DisplayName>Successful Breakthrough</DisplayName>
+			<Desc>I've had a Breakthrough in training and wow does it feel great!</Desc>
+			<StoryDesc>Feeling that success can breed complacency..</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice3">
+			<DisplayName>Failed to Perform a Breakthrough</DisplayName>
+			<Desc>Regretfully, I failed to perform a Breakthrough...</Desc>
+			<StoryDesc>Feeling that you can't win all that time..</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice4">
+			<DisplayName>Heavenly Tribulation Draws Near</DisplayName>
+			<Desc>I feel that my Heavenly Tribulation is drawing near and it's making me uneasy.</Desc>
+			<StoryDesc>feeling difficult to put one's mind at ease in this type of situation</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice5">
+			<DisplayName>Survived the tribulation</DisplayName>
+			<Desc>I survived!</Desc>
+			<StoryDesc>Feeling that Surviving a tribulation really puts a smile on one's face!</StoryDesc>
+		</Text>
+		<Text Name="TaoismPractice6">
+			<DisplayName>Tribulation Failed</DisplayName>
+			<Desc>I lost....this was a significant loss...</Desc>
+			<StoryDesc>Feeling that Failing a tribulation leaves one completely downtrodden</StoryDesc>
+		</Text>
+		<Text Name="MakeArt">
+			<DisplayName>Work of Art</DisplayName>
+			<Desc>I put my heart and soul into this work!</Desc>
+			<StoryDesc>Feeling that Finished such a work of art really leaves one feeling satisfied</StoryDesc>
+		</Text>
+		<Text Name="Health1">
+			<DisplayName>Injured</DisplayName>
+			<Desc>I've been injured and it really hurts...</Desc>
+			<StoryDesc>Feeling that All one can do is grimace in pain</StoryDesc>
+		</Text>
+		<Text Name="Health2">
+			<DisplayName>Sick</DisplayName>
+			<Desc>I don't feel so good...</Desc>
+			<StoryDesc>Feeling that Nobody likes being sick and it's clear just by one look at a sick person</StoryDesc>
+		</Text>
+		<Text Name="Health3">
+			<DisplayName>Disabled</DisplayName>
+			<Desc>I'll never be able to get back what I've lost...</Desc>
+			<StoryDesc>Becoming disabled changes one's life completely..</StoryDesc>
+		</Text>
+		<Text Name="SeeSomething1">
+			<DisplayName>Seen a Corpse</DisplayName>
+			<Desc>I saw a corpse out in the open.</Desc>
+			<StoryDesc>Seeing a corpse leaves one ill at ease</StoryDesc>
+		</Text>
+		<Text Name="SeeSomething2">
+			<DisplayName>Seen Blood</DisplayName>
+			<Desc>The sight of blood makes me...uncomfortable.</Desc>
+			<StoryDesc>Feeling that Blood can leave one at least queasy</StoryDesc>
+		</Text>
+		<Text Name="NotBury">
+			<DisplayName>Not Buried Properly</DisplayName>
+			<Desc>We weren't able to bury [TXT] with dignity.</Desc>
+			<StoryDesc>Feeling that Someone close not being buried properly sets one ill at ease</StoryDesc>
+		</Text>
+		<Text Name="SayHi">
+			<DisplayName>Greeting</DisplayName>
+			<Desc>I greeted [TXT].</Desc>
+			<StoryDesc>Feeling that Greeting someone is always better than ignoring them, that's for sure</StoryDesc>
+		</Text>
+		<Text Name="AfterTalk">
+			<DisplayName>Chat</DisplayName>
+			<Desc>I had a pleasant chat with [TXT].</Desc>
+			<StoryDesc>feeling always good to catch up</StoryDesc>
+		</Text>
+		<Text Name="DeepTalk">
+			<DisplayName>Heart-to-heart Talk</DisplayName>
+			<Desc>I had a heart-to-heart with [TXT].</Desc>
+			<StoryDesc>feeling always great to have good heart-to-heart talk</StoryDesc>
+		</Text>
+		<Text Name="Neglect">
+			<DisplayName>Cold Shoulder</DisplayName>
+			<Desc>I spoke to [TXT], but [IT] didn't seem to want to give me the time of day, so I just returned the favor to [IT].</Desc>
+			<StoryDesc>Feeling that Receiving the cold shoulder can leave one...peeved</StoryDesc>
+		</Text>
+		<Text Name="Quarrel">
+			<DisplayName>Argument</DisplayName>
+			<Desc>I had an argument with [TXT], and I am pissed.</Desc>
+			<StoryDesc>Feeling that An argument can really leave both parties hot headed</StoryDesc>
+		</Text>
+		<Text Name="Insult">
+			<DisplayName>Humiliated</DisplayName>
+			<Desc>I was humiliated by [TXT].</Desc>
+			<StoryDesc>Feeling that Humiliation breeds resentment</StoryDesc>
+		</Text>
+		<Text Name="SayHiFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I was making small talk with [TXT] but for some reason things got all tense, and we started fighting. What a mess.</Desc>
+			<StoryDesc>Feeling that Sometimes we fight for no reason..</StoryDesc>
+		</Text>
+		<Text Name="AfterTalkFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I had a chat with [TXT] and we ended up fighting for no real reason.</Desc>
+			<StoryDesc>Feeling that Sometimes we fight for no reason..</StoryDesc>
+		</Text>
+		<Text Name="DeepTalkFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I opened my heart to [TXT] but we entered into a heated argument, and even ended up coming to blows. It's such a shame.</Desc>
+			<StoryDesc>Feeling that Fighting can easily lead to regret</StoryDesc>
+		</Text>
+		<Text Name="NeglectFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I started talking to [TXT] but they took offence to something I said, and we just ended up fighting each other.</Desc>
+			<StoryDesc>Feeling that Fighting breeds resentment</StoryDesc>
+		</Text>
+		<Text Name="QuarrelFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I had a quarrel with [TXT] that could only be resolved with fists.</Desc>
+			<StoryDesc>Feeling that Fighting breeds resentment</StoryDesc>
+		</Text>
+		<Text Name="InsultFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I traded insults with [TXT]. The belligerent idiot had to be taught a lesson, with my fists.</Desc>
+			<StoryDesc>Feeling that Nothing good ever comes from fighting</StoryDesc>
+		</Text>
+		<Text Name="Fighting">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I had a fight with [TXT]. [IT] really is such a jerk.</Desc>
+			<StoryDesc>Feeling that Nothing good ever comes from fighting</StoryDesc>
+		</Text>
+		<Text Name="BuildBody">
+			<DisplayName>Rebuilt</DisplayName>
+			<Desc>My body's all better now.</Desc>
+			<StoryDesc>Feeling that Having your body rebuilt after being disabled leaves one elated</StoryDesc>
+		</Text>
+		<Text Name="FailInLove">
+			<DisplayName>Smitten</DisplayName>
+			<Desc>I have fallen head over heels for [TXT].</Desc>
+			<StoryDesc>Feeling that We do dumb things when in love</StoryDesc>
+		</Text>
+		<Text Name="SleepWithWhat">
+			<DisplayName>Poor Planning</DisplayName>
+			<Desc>I can't sleep with that person.</Desc>
+			<StoryDesc>Feeling that Poor sleeping arrangements led to anger</StoryDesc>
+		</Text>
+		<Text Name="StayWithGood">
+			<DisplayName>Happy</DisplayName>
+			<Desc>I like spending time with [TXT].</Desc>
+			<StoryDesc>Feeling that How great it is to bask in the happiness of being able to spend time with a crush</StoryDesc>
+		</Text>
+		<Text Name="SleepWithSpouse">
+			<DisplayName>Attached</DisplayName>
+			<Desc>I am living together with [TXT].</Desc>
+			<StoryDesc>feeling easy to be happy when thinking of your significant other</StoryDesc>
+		</Text>
+		<Text Name="SleepWithLover">
+			<DisplayName>Bashful</DisplayName>
+			<Desc>I am living together with [TXT].</Desc>
+			<StoryDesc>Feeling that Some feel bashful about their significant others actually accepted them</StoryDesc>
+		</Text>
+		<Text Name="FoundOrganization1">
+			<DisplayName>Sect Established</DisplayName>
+			<Desc>We live here, in seclusion, practicing. We have now established a sect. This is a good beginning.</Desc>
+			<StoryDesc>Feeling that Enthusiasm is contagious with such an auspicious beginning</StoryDesc>
+		</Text>
+		<Text Name="FoundOrganization2">
+			<DisplayName>Strengthening Sect</DisplayName>
+			<Desc>Our sect has gradually earned its fame, which is not an easy task. Let's continue building it into a larger sect.</Desc>
+			<StoryDesc>Feeling that The sect's ascendancy makes one eager for a fight</StoryDesc>
+		</Text>
+		<Text Name="FoundOrganization3">
+			<DisplayName>Heavenly Abode Completed</DisplayName>
+			<Desc>This Heavenly Abode is our Paradise.</Desc>
+			<StoryDesc>Feeling that Pride abounds when a Sect becomes an Earthly Paradise</StoryDesc>
+		</Text>
+		<Text Name="BeSchoolMaster">
+			<DisplayName>Becoming Sect Leader</DisplayName>
+			<Desc>I will most assuredly lead everyone down the Law to immortality.</Desc>
+			<StoryDesc>Feeling that Becoming Sect Leader fills one with vigor</StoryDesc>
+		</Text>
+		<Text Name="INeedTrousersM">
+			<DisplayName>Pants MIA</DisplayName>
+			<Desc>The Sect doesn't even have pants?</Desc>
+			<StoryDesc>Feeling that Anger is contagious when there are no pants to be found</StoryDesc>
+		</Text>
+		<Text Name="INeedClothesF">
+			<DisplayName>Clothing Needed</DisplayName>
+			<Desc>AH! Where are my clothes!?</Desc>
+			<StoryDesc>Feeling that Shame abounds when one discovers to their surprise that they have naught but a birthday suit on</StoryDesc>
+		</Text>
+		<Text Name="INeedTrousersF">
+			<DisplayName>Pants MIA</DisplayName>
+			<Desc>AH! Why aren't there any...?!</Desc>
+			<StoryDesc>Feeling that Anger is contagious when there are no pants to be found</StoryDesc>
+		</Text>
+		<Text Name="Kick1">
+			<DisplayName>Expelled</DisplayName>
+			<Desc>Someone has been expelled.</Desc>
+			<StoryDesc>Feeling that Someone getting expelled tends to leave everyone feeling downtrodden</StoryDesc>
+		</Text>
+		<Text Name="Kick2">
+			<DisplayName>Fellow Member Expelled</DisplayName>
+			<Desc>Unfortunately a fellow member has been expelled.</Desc>
+			<StoryDesc>Feeling that A fellow member being expelled leaves everyone feeling less than pleased</StoryDesc>
+		</Text>
+		<Text Name="Kick3">
+			<DisplayName>Expelled Friend</DisplayName>
+			<Desc>What are you all doing!? Why is my friend, [TXT], leaving?!</Desc>
+			<StoryDesc>Feeling that A good friend getting expelled tends to leave those that remain at a loss</StoryDesc>
+		</Text>
+		<Text Name="Kick4">
+			<DisplayName>Expelled Lover</DisplayName>
+			<Desc>What are you all doing!? Why is my friend, [TXT], leaving?!</Desc>
+			<StoryDesc>Feeling that Anger becomes explosive when a significant other gets expelled</StoryDesc>
+		</Text>
+		<Text Name="Kick5">
+			<DisplayName>Expelled Family Member</DisplayName>
+			<Desc>What are you all doing!? Why is my friend, [TXT], leaving?!</Desc>
+			<StoryDesc>Feeling that A family member getting expelled tends to piss one off</StoryDesc>
+		</Text>
+		<Text Name="Kick6">
+			<DisplayName>Expelled Master</DisplayName>
+			<Desc>My master, [TXT], has been forced out...what went wrong?</Desc>
+			<StoryDesc>Feeling that A master getting expelled tends to piss one off</StoryDesc>
+		</Text>
+		<Text Name="Kick7">
+			<DisplayName>Expelled Enemy</DisplayName>
+			<Desc>[TXT] has been kicked out? HAHAHAHA!</Desc>
+			<StoryDesc>Feeling that An enemy getting expelled certainly brightens one's week</StoryDesc>
+		</Text>
+		<Text Name="Defection1">
+			<DisplayName>Defector</DisplayName>
+			<Desc>Someone has defected from the Sect...</Desc>
+			<StoryDesc>Feeling that Why would someone defect?</StoryDesc>
+		</Text>
+		<Text Name="Defection2">
+			<DisplayName>Family Member has Defected</DisplayName>
+			<Desc>My [TXT] has defected from the Sect, why...?</Desc>
+			<StoryDesc>Feeling that Rage and surprise abound at a family member's defection from the Sect</StoryDesc>
+		</Text>
+		<Text Name="Defection3">
+			<DisplayName>A Friend has Defected</DisplayName>
+			<Desc>My [TXT] has defected from the Sect, why...?</Desc>
+			<StoryDesc>Feeling that Rage and surprise abound at a friend's defection from the Sect</StoryDesc>
+		</Text>
+		<Text Name="Defection4">
+			<DisplayName>Lover's Defection</DisplayName>
+			<Desc>My [TXT] has defected from the Sect, why...?</Desc>
+			<StoryDesc>Feeling that A lover's defection from the sect is unfathomable</StoryDesc>
+		</Text>
+		<Text Name="Defection5">
+			<DisplayName>Enemy's Defection</DisplayName>
+			<Desc>[TXT] ran off? Looks like a hint was finally taken.</Desc>
+			<StoryDesc>Feeling that An enemy's defection makes for a great week</StoryDesc>
+		</Text>
+		<Text Name="DiscontentMood">
+			<DisplayName>Unhappy</DisplayName>
+			<Desc>I'm not so satisfied with the way things are...</Desc>
+			<StoryDesc>feeling easy to get upset when one is not satisfied with life</StoryDesc>
+		</Text>
+		<Text Name="Mood_BasePracticeAchievements1">
+			<DisplayName>Foundation Slightly Built</DisplayName>
+			<Desc>It seems like exercising is starting to pay off!</Desc>
+			<StoryDesc>feeling easy to get excited when gains become noticeable</StoryDesc>
+		</Text>
+		<Text Name="Mood_BasePracticeAchievements2">
+			<DisplayName>Foundation Moderately Built</DisplayName>
+			<Desc>It seems like exercising has really paid off!</Desc>
+			<StoryDesc>Feeling that Euphoria abounds when others start taking notice of one's gains</StoryDesc>
+		</Text>
+		<Text Name="BecomeDisciple">
+			<DisplayName>A New World</DisplayName>
+			<Desc>The road towards Immortality has begun.</Desc>
+			<StoryDesc>feeling best not to let gains breed complacency</StoryDesc>
+		</Text>
+		<Text Name="SeeGod">
+			<DisplayName>Witness to Ascension</DisplayName>
+			<Desc>Witnessing another's ascension is quite the motivation.</Desc>
+			<StoryDesc>Feeling that Witnessing an ascension can really put one's head on straight</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing1">
+			<DisplayName>Terrifying Experience</DisplayName>
+			<Desc>How could he have treated me like that?</Desc>
+			<StoryDesc>Feeling that A terrifying experience leaves one stricken with panic</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing2">
+			<DisplayName>Witness to a Terrifying Experience</DisplayName>
+			<Desc>I witnessed something terrifying happen to [TXT].</Desc>
+			<StoryDesc>Feeling that Witnessing a terrifying experience leaves one in a state of apprehension</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing3">
+			<DisplayName>Feeling Bad for a Friend</DisplayName>
+			<Desc>I'm quite worried after seeing such a terrifying experience happen to my friend, [TXT].</Desc>
+			<StoryDesc>Feeling fear and anger abound after witnessing something so terrifying happen to a friend</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing4">
+			<DisplayName>Feeling Bad for a Lover</DisplayName>
+			<Desc>I'm quite worried after seeing such a terrifying experience happen to my friend, [TXT].</Desc>
+			<StoryDesc>Feeling that fear and anger abound after witnessing something so terrifying happen to a lover</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing5">
+			<DisplayName>Feeling Bad for a Family Member</DisplayName>
+			<Desc>I witnessed something terrible happen to my [TXT]... How could this happen?</Desc>
+			<StoryDesc>Feeling that fear and anger abound after witnessing something so terrifying happen to a loved one</StoryDesc>
+		</Text>
+		<Text Name="TerribleThing6">
+			<DisplayName>Witness to a Terrifying Experience</DisplayName>
+			<Desc>I witnessed something terrifying.</Desc>
+			<StoryDesc>Feeling that witnessing something so terrifying leaves one anxious</StoryDesc>
+		</Text>
+		<Text Name="NiceThing1">
+			<DisplayName>A Miracle</DisplayName>
+			<Desc>Someone performed a miracle on me! Incredible!</Desc>
+			<StoryDesc>Feeling that such a wonderful experience leaves one enthralled by the splendor</StoryDesc>
+		</Text>
+		<Text Name="NiceThing1_1">
+			<DisplayName>A Wonderful Experience</DisplayName>
+			<Desc>I've experienced an unforgettable experience, it was truly fantastic.</Desc>
+			<StoryDesc>Feeling that such a wonderful experience leaves one enthralled by it all</StoryDesc>
+		</Text>
+		<Text Name="NiceThing2">
+			<DisplayName>Witness to a Miracle</DisplayName>
+			<Desc>I witnessed someone perform a miracle on [TXT], I'm so jealous.</Desc>
+			<StoryDesc>Feeling that witnessing someone else performed miracle upon breeds jealousy</StoryDesc>
+		</Text>
+		<Text Name="NiceThing2_1">
+			<DisplayName>Witness to Something Magical</DisplayName>
+			<Desc>I saw someone bring about a miracle, it was magical.</Desc>
+			<StoryDesc>Feeling that Witnessing a miracle has instilled a sense of yearning</StoryDesc>
+		</Text>
+		<Text Name="NiceThing3">
+			<DisplayName>Happy for a Friend</DisplayName>
+			<Desc>I saw someone performed a miracle on my friend, [TXT], and I'm so glad that such a thing happened to such a person.</Desc>
+			<StoryDesc>Feeling that Witnessing a miracle on a friend has left a keen sense of appreciation</StoryDesc>
+		</Text>
+		<Text Name="NiceThing4">
+			<DisplayName>Happy for One's Lover</DisplayName>
+			<Desc>I witnessed someone performed a miracle on my significant other, [TXT]. This is spectacular.</Desc>
+			<StoryDesc>Feeling that Witnessing a miracle on a significant other has left a keen sense of appreciation</StoryDesc>
+		</Text>
+		<Text Name="NiceThing5">
+			<DisplayName>Happy for a Family Member</DisplayName>
+			<Desc>I witnessed someone performed a miracle on my[TXT] and I am so happy that it happened.</Desc>
+			<StoryDesc>Feeling that Witnessing a miracle on a family member has left a keen sense of appreciation</StoryDesc>
+		</Text>
+		<Text Name="Mood_LingStone">
+			<DisplayName>Qi Resonance</DisplayName>
+			<Desc>Getting along so swimmingly with Qi is a great feeling.</Desc>
+			<StoryDesc>Feeling that A sense of comfort is lent to one enveloped so by such a strong Qi</StoryDesc>
+		</Text>
+		<Text Name="Mood_LingStone1">
+			<DisplayName>Profound Resonance</DisplayName>
+			<Desc>Getting along so swimmingly with Qi is a great feeling.</Desc>
+			<StoryDesc>Feeling that A sense of comfort is lent to one enveloped so by such a strong Qi</StoryDesc>
+		</Text>
+		<Text Name="Mood_Equipment_Fun">
+			<DisplayName>An Interesting Plaything</DisplayName>
+			<Desc>It's not a bad idea to have something on hand to play around with.</Desc>
+			<StoryDesc>feeling nice to be able to distract oneself when needed</StoryDesc>
+		</Text>
+		<Text Name="Mood_PracticeFoodScanty">
+			<DisplayName>Insufficient Stamina</DisplayName>
+			<Desc>Stamina is in short supply, there's no way to train.</Desc>
+			<StoryDesc>Being unable to train due to insufficient stamina. They're vexing, to say the least</StoryDesc>
+		</Text>
+		<Text Name="SeeBodyPuppet">
+			<DisplayName>A Bit Horrified</DisplayName>
+			<Desc>I saw something horrifying...and it moved!</Desc>
+			<StoryDesc>feeling easy to feel horrified after seeing something...supernatural</StoryDesc>
+		</Text>
+		<Text Name="Illusion1">
+			<DisplayName>Happy Hallucination</DisplayName>
+			<Desc>Oh, what a wonderful world!</Desc>
+			<StoryDesc>Seeing wonderful things unbeknownst to others</StoryDesc>
+		</Text>
+		<Text Name="Illusion2">
+			<DisplayName>Horrible Hallucination</DisplayName>
+			<Desc>Ew, gross!</Desc>
+			<StoryDesc>Seeing strange things unbeknownst to others</StoryDesc>
+		</Text>
+		<Text Name="BeResurrection">
+			<DisplayName>Resurrected</DisplayName>
+			<Desc>I'm resurrected! HAHAHA!</Desc>
+			<StoryDesc>Still happy about being resurrected</StoryDesc>
+		</Text>
+		<Text Name="PaoZhang1">
+			<DisplayName>Interesting Fireworks</DisplayName>
+			<Desc>How interesting. They look very pretty.</Desc>
+			<StoryDesc>Still thinking about the interesting fireworks</StoryDesc>
+		</Text>
+		<Text Name="PaoZhang2">
+			<DisplayName>Gross</DisplayName>
+			<Desc>Ah! That's disgusting!</Desc>
+			<StoryDesc>Still feeling sick and grossed out</StoryDesc>
+		</Text>
+	</List>
+</Texts>

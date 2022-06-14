@@ -1,0 +1,68 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="WorkPlace" sParam="Building">
+			<ThingName>Work Place</ThingName>
+			<Desc>Does not require any materials, just an area on the ground to make simple tools.</Desc>
+		</Text>
+		<Text Name="MaterialWorkPlace" sParam="Building">
+			<ThingName>Material Work place</ThingName>
+			<Desc>Does not require any materials, just an area on the ground to process simple materials.</Desc>
+		</Text>
+		<Text Name="Bonfire" sParam="Building">
+			<ThingName>Bonfire</ThingName>
+			<Desc>A simple source of fire built from firewood that can bring light and heat to its surroundings. It can also be used for simple cooking.</Desc>
+		</Text>
+		<Text Name="Kitchen" sParam="Building">
+			<ThingName>Stove</ThingName>
+			<Desc>A place to cook food.</Desc>
+		</Text>
+		<Text Name="StoneMaker" sParam="Building">
+			<ThingName>Stonework</ThingName>
+			<Desc>A work station used to polish stone blocks into stone bricks.</Desc>
+		</Text>
+		<Text Name="WeaponMaker" sParam="Building">
+			<ThingName>Forge</ThingName>
+			<Desc>A work station used to forge metal bars into different weapons.</Desc>
+		</Text>
+		<Text Name="Furnace" sParam="Building">
+			<ThingName>Furnace</ThingName>
+			<Desc>A work station used to smelt ores into metal bars.</Desc>
+		</Text>
+		<Text Name="TextileTable" sParam="Building">
+			<ThingName>Loom</ThingName>
+			<Desc>A work station used to make fabric by weaving yarn or thread.</Desc>
+		</Text>
+		<Text Name="TailorTable" sParam="Building">
+			<ThingName>Sewing Table</ThingName>
+			<Desc>A work station used to make clothes.</Desc>
+		</Text>
+		<Text Name="WoodShed" sParam="Building">
+			<ThingName>Timber Station</ThingName>
+			<Desc>A work station used to process wood into Timber. It can greatly facilitate the efficient usage of wood.</Desc>
+		</Text>
+		<Text Name="MillStone" sParam="Building">
+			<ThingName>Mill</ThingName>
+			<Desc>A work station used to grind grain into powder for storage. It can facilitate the efficient use of grain.</Desc>
+		</Text>
+		<Text Name="HandWorkTable" sParam="Building">
+			<ThingName>Handcraft Station</ThingName>
+			<Desc>A work station used to make simple items by hand.</Desc>
+		</Text>
+		<Text Name="Well" sParam="Building">
+			<ThingName>Well</ThingName>
+			<Desc>A source of water. Well water is more sanitary than water from the wilderness, and so is less likely to carry disease.</Desc>
+		</Text>
+		<Text Name="MedicineTable" sParam="Building">
+			<ThingName>Medicine Table</ThingName>
+			<Desc>A work station used to make medicine.</Desc>
+		</Text>
+		<Text Name="Building_YiTui" sParam="Building">
+			<ThingName>Immortal's Mortal Body</ThingName>
+			<Desc>Motal body left by Ascended Immortals.</Desc>
+		</Text>
+		<Text Name="Building_YiTui1" sParam="Building">
+			<ThingName>Deity's Body</ThingName>
+			<Desc>Motal body left by Ascended Deities.</Desc>
+		</Text>
+	</List>
+</Texts>

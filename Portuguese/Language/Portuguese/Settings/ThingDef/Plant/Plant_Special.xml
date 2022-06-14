@@ -1,0 +1,26 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Ginseng" sParam="Plant">
+			<ThingName>Ginseng</ThingName>
+			<Desc>Rare medicinal material. Has powerful healing ability and can greatly increase your primeval Qi. Grows in an environment between [temperature]-30[/temperature] to [temperature]40[/temperature]. Only grows in places with a certain amount of Qi.</Desc>
+		</Text>
+		<Text Name="GanodermaLucidum" sParam="Plant">
+			<ThingName>Lingzhi</ThingName>
+			<Desc>Rare medicinal material. Has powerful healing ability and can greatly increase your primeval Qi. Grows in an environment between [temperature]10[/temperature] to [temperature]40[/temperature]. Only grows in places with a certain amount of Qi.</Desc>
+		</Text>
+		<Text Name="Mint" sParam="Plant">
+			<ThingName>Purity Leaf</ThingName>
+			<Desc>Common medicinal material. Cold in nature, it has a soothing and calming effect. Grows in an environment between [temperature]-30[/temperature] to [temperature]40[/temperature]. Only grows in places with a certain amount of Qi.</Desc>
+		</Text>
+		<Text Name="MagicHerb" sParam="Plant">
+			<ThingName>Spirit Leaf</ThingName>
+			<Desc>Medicinal material with spirituality. Supposed to be relatively rare. Grows in an environment between [temperature]-30[/temperature] to [temperature]40[/temperature]. Only grows in places with a certain amount of Qi. There are Spirit Leaves growing everywhere outside the Cave Mansion at Alchemist's Peak in Central Plains.</Desc>
+		</Text>
+		<Text Name="WarmHerb" sParam="Plant">
+			<ThingName>Caterpillar Fungus</ThingName>
+			<Desc>Herb with a variety of appearances that only matures in winter and summer. Also known as "shapeshifting grass" among common people. When consumed, it can temporarily improve one's adaptability to extreme environment.</Desc>
+			<StoryBnts.0.Name>Harvest</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to harvest with spell.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,67 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="ClothesBase" sParam="Item">
+			<Item.FabaoSuffix>Clothes, Armor, Robe, Shirt</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SummerClothes" sParam="Item">
+			<ThingName>Thin Shirt</ThingName>
+			<Desc>Very breathable clothing, but also protects one from cold slightly.</Desc>
+		</Text>
+		<Text Name="Item_SilkClothes" sParam="Item">
+			<ThingName>Summer Shirt</ThingName>
+			<Desc>Refreshing and relaxing clothing, wearing it feels pleasantly cool.</Desc>
+		</Text>
+		<Text Name="Item_PracticeClothes" sParam="Item">
+			<ThingName>Sect Uniform</ThingName>
+			<Desc>Standard uniform of a sect, allows one to stay relatively warm, but it is not very breathable.</Desc>
+		</Text>
+		<Text Name="Item_FormalClothes" sParam="Item">
+			<ThingName>Casual Shirt</ThingName>
+			<Desc>Casual everyday clothing, allows one to stay relatively warm, but it is not very breathable.</Desc>
+		</Text>
+		<Text Name="Item_WinterClothes" sParam="Item">
+			<ThingName>Winter Shirt</ThingName>
+			<Desc>Thick and solid clothing, allows one to stay absolutely warm.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes1" sParam="Item">
+			<ThingName>Scale Tunic</ThingName>
+			<Desc>Magical cloth woven with dragon scales. Wearing it increases one's Protection skill level.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes2" sParam="Item">
+			<ThingName>Shadow Tunic</ThingName>
+			<Desc>Magical cloth with concentrated pure Yin power. Wearing it increases one's Spell skill level.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes3" sParam="Item">
+			<ThingName>Cinder Tunic</ThingName>
+			<Desc>Magical cloth with concentrated pure Yang power. Wearing it increases one's Artifact Mastery skill level.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes4" sParam="Item">
+			<ThingName>Shroud Tunic</ThingName>
+			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's Attainment.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes5" sParam="Item">
+			<ThingName>Feather Tunic</ThingName>
+			<Desc>Magical cloth with evil dispelling power. Wearing it can improve Mental State by driving the inner demons out of one's mind.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes6" sParam="Item">
+			<ThingName>Golden Tunic</ThingName>
+			<Desc>Magical cloth with concentrated pure Yang power. Wearing it increases one's Artifact Mastery skill level.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes7" sParam="Item">
+			<ThingName>Firebath Tunic</ThingName>
+			<Desc>Magical cloth sewn with the hide of Blaze Rats. Wearing it can improve one's Protection skill level and effectively reduce Fire Damage.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes8" sParam="Item">
+			<ThingName>Robe of Flow</ThingName>
+			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's Attainment.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes9" sParam="Item">
+			<ThingName>Specter Tunic</ThingName>
+			<Desc>Magical cloth with concentrated pure Yin power. Wearing it increases one's Spell skill level.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes10" sParam="Item">
+			<ThingName>Crane Tunic</ThingName>
+			<Desc>Magical cloth with evil dispelling power. Wearing it can improve Mental State by driving the inner demons out of one's mind.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,298 @@
+﻿ID	Name	Desc	sParam1	sParam2
+ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:妖兽种族) (宝物:物品类型lable 权重:ID|ID.)  (角色:数据名字) (秘闻:随机秘闻ID|ID) (路人：行为描述)(动物进攻：种族)（精怪来临：精怪类型）	(路人：附加标记)（精怪来临：具体名称  用|隔开。必须要有种族）
+1	Claro é um dia muito claro e brilhante, mas você não sabe quanto tempo vai durar.	Dia ensolarado	
+2	Nublado é um dia muito sombrio e nublado, mas você não sabe quanto tempo vai durar.	Nublado	
+3	Chuva leve Começou a chover levemente.	Chuva Leve	
+4	Chuva forte Começou a chover forte.	Chuva Forte	
+5	Neblina espessa Uma névoa espessa de repente começou a se formar.	Neblina densa	
+6	Humor Sombrio Um estranho humor sombrio começou a permear a seita.	Melancolia	
+7	Romance Um clima romântico começou a permear a seita.	Ambíguo	
+8	Irritação As pessoas de toda a seita de repente começaram a ficar irritadas facilmente.	Impetuoso	
+9	Granizo Começou a saudar. (Semplementido)	Impetuoso	
+10	Estação das Chuvas A estação das chuvas começou.	Chuvas de Molde	
+11	Seca A temporada de seca começou.	Seca	
+12	Tempestade Uma forte tempestade começou, e o Elemento Água através do céu e da terra é extremamente ativo.	Tempestade	
+13	Um vento seco e quente começou, e o Elemento Fogo através do céu e da terra é extremamente ativo.	Secador	
+14	Tempestade de poeira Uma tempestade de poeira está varrendo a terra, e o Elemento Terra através do céu e da terra é extremamente ativo.	Tempestade de areia	
+15	Qi Seca Por razões desconhecidas, está em uma temporada de seca de Qi através do céu e da terra.	LingRarefiedWave	
+16	Calor	O calor do verão está chegando, por isso será extremamente quente. Certifique-se de evitar a insolação.	Onda de Calor	
+17	Inverno frio Um inverno frio está chegando, então o tempo estará congelando. Certifique-se de ficar quente.	Onda Fria	
+18	Noite Polar Uma estranha nuvem está cobrindo o sol. Vai demorar um pouco até que você possa ver a luz do sol novamente.	Noite Permanente	
+19	Miasma	O ar nocivo está subindo sobre toda a área, e o Elemento Madeira através do céu e da terra é extremamente ativo.	Miasma	
+20	Tempestade	Uma tempestade está chegando, e o Elemento Metal através do céu e da terra é extremamente ativo.	Tempestade relâmpago	
+21	Animal	Um Fei apareceu perto da área, e trouxe chuva contínua e doenças.	Fei	
+22	Animal	Um Lushu apareceu perto da área, e trouxe tempo claro e uma atmosfera auspiciosa.	Lushu	
+23	Estranho Pequeno Elfo Um grupo de pequenos animais do Outro mundo estava vagando por aí com tesouros quando passaram por sua seita. Essas bestas são muito tímidas, mas os dois reinos têm regras diferentes, então métodos comuns usados pelos cultivadores não podem afetá-los, e esses pequenos caras muitas vezes correm motim ao redor do mundo. Para obter os tesouros deles, você precisa pensar em outra coisa.	Lushu	
+24	Animal	A Besta D apareceu perto da área.	Zero	
+25	Tesouro	Um feixe de luz caiu do céu. Parece ser algo precioso.	Lutar contra Fabao	
+26	Tesouro	Uma luta mágica feroz aconteceu sobre o céu não muito longe daqui. Algo precioso caiu perto da área.	Lutar contra Fabao	
+27	Tesouro	Um feixe de luz de repente disparou para o céu. Um tesouro parece estar enfeitando esta área.	Lutar contra Fabao	
+28	Refugiado transeunte	Um refugiado fugindo da guerra está passando, e [IT] deseja se juntar a você.	Humano	
+29	Segredo		1	
+30	Segredo		2	
+31	Segredo		3	
+32	Segredo		4	
+33	Segredo		5	
+34	Atacar	Um grupo de homens selvagens da Selva do Sul atacou você.	Pobres	Humano
+35	Atacar	Um grupo de bandidos que ganham a vida roubando pessoas por cidades e cidades o atacou.	Pobre	Humano
+36	Atacar	Um grupo de cultivadores desonestos do Mar do Leste o atacou por seu dinheiro e recursos.	Normal	Humano
+37	Assalto	Você está sob ataque de um grupo de cultivadores malignos do oeste.	Rico	Humano
+38	Assalto	Sua seita está sob ataque de um grupo de discípulos desonestos de seitas malignas.	Ricos	Humano
+39	Assalto	Sua seita está sob ataque de um grupo de poderosos cultivadores.	Normal	Humano
+40	Assalto	Sua seita está sob ataque de um grupo de infames cultivadores malignos.	Normal	Humano
+41	Uma Hora Diferente	Um terremoto aconteceu no Sul Selvagem recentemente, e um grande número de selvagens e bandidos do sul fugiram para cá.	33|34	
+42	Visitante Imortal	Um amigo imortal está visitando sua seita, e ele provavelmente quer ficar por alguns dias.	Visitante Imortal	Humano
+43	Estranho Confuso	Um estranho perdeu o caminho por aqui, e deseja que possamos ajudá-los.	Confuso Estranho	
+44	Estranho Curioso	Um estranho curioso se deparou com este lugar por acidente, e [IT] quero saber o que estamos fazendo exatamente.	Curioso Estranho	
+45	Estranho ferido	Um estranho está ferido, e [IT] desejo ficar aqui por um tempo e pedir nossa ajuda.	Ferido Estranho	Dano aleatório
+46	Neve leve	Começou a nevar.	Neve leve	
+47	Neve Pesada	Começou a nevar fortemente.	Neve Pesada	
+48	Observador	Um cultivador está observando você, mas eles não parecem significar nenhum dano.	Observador	Humano
+49	Ataque de Besta	Um grupo de lobos famintos apareceu perto daqui, e eles são muito hostis.	Lobo	
+50	Ataque de Besta	Um grupo de coelhos loucos apareceu perto daqui, e eles são muito hostis.	Coelho	
+51	Ataque de Besta	Um grupo de cobras agressivas apareceram perto daqui, e são muito hostis.	Cobra	
+52	Ataque de Besta	Um grupo de javalis frenéticos apareceram perto daqui, e eles são muito hostis.	Javali	
+53	Segredo		6	
+54	Segredo		7	
+55	Segredo		8	
+56	Segredo		9	
+57	Segredo		10	
+58	Segredo		11	
+59	Segredo		11	
+61	Segredo		14	
+62	Segredo		15	
+63	Segredo		16	
+64	Segredo		17	
+65	Segredo		18	
+66	Segredo		19	
+67	Segredo		20	
+68	Segredo		21	
+69	Segredo		22	
+70	Segredo		29	
+71	Segredo		30	
+72	Segredo		31	
+73	Segredo		32	
+74	Segredo		33	
+75	Segredo		34	
+80	Vento Quente	Uma rajada de vento quente está passando por esta área durante os dias mais frios, e este inverno será muito mais quente.	Onda de calor no inverno	
+81	Vento frio	Uma rajada de vento frio está passando por esta área durante os dias mais quentes, e este verão será muito mais frio.	Onda Fria no verão	
+82	Espírito da Colheita	Um espírito de boa colheita começou a permear a área.	Ar da Colheita	
+83	Explosão de Qi	Por razões desconhecidas, Qi através do céu e da terra de repente começou a estourar. Algumas plantas foram afetadas e se tornaram Spiritwood.	Onda Ling Up	
+84	Segredo		49	
+85	Primavera Chegando O calor da primavera permeia o ar.	Ar da primavera	
+86	Invasão das Bestas	Alguns monstros de coelho apareceram perto daqui, e eles são muito hostis.	JYRabbit	TongYong_DropList
+87	Invasão das Bestas	Alguns monstros lobos apareceram perto daqui, e eles são muito hostis.	JYWolf	TongYong_DropList
+88	Invasão das Bestas	Alguns monstros de cobras apareceram perto daqui, e eles são muito hostis.	JYSnake	TongYong_DropList
+89	Invasão das Bestas	Alguns monstros de javali apareceram perto daqui, e eles são muito hostis.	JYBoar	TongYong_DropList
+90	Invasão das Bestas	Alguns monstros ursos apareceram perto daqui, e eles são muito hostis.	JYBear	TongYong_DropList
+91	Invasão das Bestas	Alguns sapos gigantes apareceram perto daqui, e eles são muito hostis.	JYFrog	TongYong_DropList
+92	Invasão das Bestas	Algumas tartarugas gigantes apareceram perto daqui, e são muito hostis.	JYTurtle	TongYong_DropList
+93	Invasão das Bestas	Algumas bestas apareceram perto daqui, e são muito hostis.		TongYong_DropList
+94	Trilhas do Dragão de Inundação		53	
+95	Trilhas de Phoenix		54	
+96	Trilhas do Dragão da Tocha		55	
+97	Cultivador Antigo		56	
+98	Segredo		59	
+99	Segredo		60	
+100	Segredo		61	
+101	Segredo		62	
+102	Visitante Imortal	Um amigo imortal seu é convidado a visitar sua seita, e ele ficará por alguns dias.	Visitante Imortal	
+103	Vestígios encontrados			
+104	Segredo		64	
+105	Espíritos Sencientes Passando por um senciente [NAME] apareceu perto daqui, e está cheio de curiosidade.		
+106	Espíritos Sencientes Passando por um senciente [NAME] apareceu perto daqui, e está cheio de curiosidade.	Edifício	
+107	Invasão das Bestas	Alguns monstros de galinha apareceram perto daqui, e eles são muito hostis.	JYChicken	TongYong_DropList
+108	Invasão das Bestas	Alguns monstros de galinha apareceram perto daqui, e eles são muito hostis.	JYCat	TongYong_DropList
+109	Invasão das Bestas	Alguns monstros de touro apareceram perto daqui, e eles são muito hostis.	JYCattle	TongYong_DropList
+110	Invasão das Bestas	Alguns monstros tigre apareceram perto daqui, e eles são muito hostis.	JYTiger	TongYong_DropList
+111	Ataque de Besta	Um grupo de galinhas loucas apareceu perto daqui, e eles são muito hostis.	Frango	
+112	Ataque de Besta	Um urso agressivo apareceu perto daqui, e é muito hostil.	Urso	
+113	Ataque de Besta	Um grupo de tartarugas frenéticas apareceram perto daqui, e são muito hostis.	Tartaruga	
+114	Ataque de Besta	Um grupo de sapos loucos apareceu perto daqui, e eles são muito hostis.	Rã	
+115	Ataque de Besta	Um gato agressivo apareceu perto daqui, e é muito hostil.	Gato	
+116	Ataque de Besta	Um grupo de touros loucos apareceu perto daqui, e eles são muito hostis.	Gado	
+117	Ataque de Besta	Um tigre agressivo apareceu perto daqui, e é muito hostil.	Tigre	
+118	Atacar	Um grupo de cultivadores yaoguai tinha seus olhos gananciosos na propriedade de sua seita. Eles apareceram por perto com grande hostilidade.	Pobres	RANDOMYAOGUAI
+119	Atacar	Um grupo de cultivadores yaoguai pretendem subverter sua seita. Eles estão vagando por perto com olhos sanguinários.	Pobre	RANDOMYAOGUAI
+120	Atacar	Um grupo de cultivadores yaoguai abrigam grande ódio por sua seita por alguma razão, e eles estão prestes a lançar um ataque.	Normal	RANDOMYAOGUAI
+121	Assalto	Um grupo de poderosos cultivadores yaoguai pretendem roubar a riqueza de sua seita para enriquecer a si mesmos.	Rico	RANDOMYAOGUAI
+122	Assalto	Um grupo de poderosos cultivadores yaoguai estão tentando saquear e massacrar sua seita.	Ricos	RANDOMYAOGUAI
+123	Assalto	Um grupo de cultivadores loucos de Yaoguai estão tentando atacar sua seita.	Normal	RANDOMYAOGUAI
+124	Pedido de Proteção	Um Yaoguai que acabou de mudar busca sua proteção, na esperança de sobreviver à Tribulação Celestial de Metamorfo com sua ajuda.	RANDOMYAOGUAI	
+125	Animal Unido	Um gato veio à sua seita, parece gostar de estar aqui.	Gato	
+126	Animal Unido	Uma galinha veio à sua seita, parece gostar de estar aqui.	Frango	
+127	Animal Unido	Um touro veio à sua seita, parece gostar de estar aqui.	Gado	
+128	Animal Unido	Uma tartaruga veio à sua seita, parece gostar de estar aqui.	Tartaruga	
+129	Animal Unido	Um coelho veio à sua seita, parece gostar de estar aqui.	Rabbit	
+130	Animal Unido	Um sapo veio à sua seita, parece gostar de estar aqui.	Rã	
+1000	Dragão passando			Item_DragonShit|Item_DragonScale
+1001	Explosão de Qi			
+1002	Phoenix passando			Item_BossFeng_HuoYu
+10000	Estabelecimento	Vivemos em reclusão aqui, tentando reiniciar nosso cultivo. Também estabelecemos uma seita nossa. Será o começo de uma nova lenda?\n\n[color=#D06508]Decorações destrancadas.\desbloqueou mais edifícios.[/color]	FoundOrganization1	
+10001	Famoso	Nossa seita gradualmente ganhou sua fama, o que não é uma tarefa fácil. Vamos continuar construindo em uma seita maior.\n\n[color=#D06508]A população máxima da seita foi criada.[/color]	FoundOrganization2	
+10002	Eminente	Nossa seita ganhou sua eminência no mundo dos cultivadores. Tornou-se um santuário de prática que todos sonham em participar.\n\n[color=#D06508]A população máxima da seita foi criada.\nVocê pode montar um novo ramo através da Estrutura da seita.	FoundOrganization3	
+10003	Um novo líder	[NAME] tornou-se nosso líder de seita. Este definitivamente vai levar todos nós à imortalidade.		
+10004	Falta de Líder	Precisamos de alguém para ser nosso líder da seita.\n[color=#D06508]Você pode escolher um líder de seita através [Sect Structure] no menu da Seita.[/color]		
+10005	Discípulo recomendado	O discípulo recomendado está quase aqui.		
+10006	Escape da Agitação	Porque você escapou com pressa, você não trouxe muitos recursos com você. Você está fugindo há alguns dias, e levou quase toda a sua energia.\Sem outra opção, você tem que ficar aqui e recuperar por enquanto.	BaseExpect1	
+10007	Resolvido	A fogueira quente ajudou a aliviar sua tensão e mal-estar. Depois de uma breve discussão, você decidiu que estava longe o suficiente do perigo, então você deve montar um acampamento temporário aqui.\n\n[color=#D06508]Edifício Estrutural Desbloqueado\Móveis Básicos Desbloqueados\Estações de trabalho básicas desbloqueadas\Assoalho e telhado desbloqueados[/color]	BaseExpect2	
+10008	Contente	Embora você ainda estivesse sofrendo com a perda de seus discípulos e mestres, você gradualmente se estabeleceu. Percebendo que este é um lugar muito isolado e aqueles que o perseguiram pareciam ter desistido, você decidiu viver aqui depois de uma pequena discussão.\n\n[color=#D06508][/color]		
+10009	Um novo lar	Você parece ter se acostumado com a vida por aqui. Embora não seja tão reconfortante como quando você ainda estava na velha seita, a vida aqui ainda é autossuficiente o suficiente. Por que isso também não pode ser uma forma de cultivo?\Este é um novo lar em meio a todo o caos e agitação. Será um bom começo também? Todos estão cheios de esperança.\n\n[color=#D06508]Móveis Avançados Desbloqueados\Estações de trabalho avançadas desbloqueadas[/color]	BaseExpect3	
+10010	Discípulo exterior fugitivo	Seu discípulo exterior [NAME] escapou à noite porque [IT] não pode mais suportar viver aqui.		
+10011	Cultivador novamente	Alguém entre nós conseguiu!\Este pode de repente sentir a energia forte entre o céu e a terra: \nQi.\O portão do cultivo finalmente se abriu para nós.\n\n[color=#D06508]Qi tornou-se visível.\Você pode estabelecer uma seita agora.[/color]		
+10012	Partida	Não sei o que fiz de errado, mas já que perguntou, estarei a caminho. Obrigado a todos, por sua bondade nos últimos dias.\n[TXT] Estou feliz por ter vivido e trabalhado com você.		
+10013	Predição	[NAME]A previsão para o futuro é:\n[TXT]		
+10014	Caixão de Pedra Brilhante	É lua cheia hoje à noite. O caixão de pedra que o taoísta lhe deu de repente brilhava à meia-noite, e então uma fenda apareceu. Parecia que você poderia facilmente abri-lo.		
+10015	Lei do Cultivo Obtida	Você obteve uma nova lei de cultivo: [TXT]		
+10016	Cultivo Sistema Desbloqueado Você obteve sua primeira Lei de Cultivo. Agora você está qualificado para continuar seu cultivo. A Lei do Cultivo será cheia de dificuldades, mas viver em tempos conturbados pode ser uma fonte infinita de miséria, e você está sempre à deriva. Talvez encontrar uma lei para ascensão seja a única maneira de escapar de todos os problemas do mundo. \n\n[color=#D06508]Unlocked  o sistema de cultivo.\Prédios destrancados para cultivo.\n(Veja todas as Leis no  Menu de seita)[/color]		
+10017	Invasão de inimigos Um grupo de pessoas cheias de hostilidade apareceu perto daqui.		
+10018	Ascensão	[NAME] passou por todas as dificuldades e finalmente subiu acima deste reino, deixando apenas o corpo mortal do imortal para as gerações futuras adorarem.\Um poema como evidência:\n[color=#D06508]Do caos ordenado do universo, o primeiro ser humano nasceu. A seriedade veio antes da dualidade, e os Quatro Símbolos guardavam a terra.\A deusa deu vida a todas as criações da argila, enquanto a Grande Brilhante desenhou o quadro que dividia Yin e Yang.\Cem anos de cultivo passaram enquanto soldados lutavam em inúmeras batalhas. Outros mil anos são apenas um piscar de olhos na meditação.\Não direi mais nada quando a Tribulação Celestial vier me levar embora. Todos os problemas mundanas desaparecerão com o vento depois que eu deixar este plano de existência.[/color]	Veja Deus	
+10019	Assalto	[TXT] enviou um grupo de discípulos de elite para se vingar.	Rico	Humano
+10020	Assalto	[TXT] enviou discípulos seniores para se vingar.	Rico	Humano
+10021	Assalto	[TXT] enviou anciãos experientes da seita para se vingar.	Rico	Humano
+10022	Fogo da Raiva	Seu comportamento irritou [TXT],e eles tomarão medidas imediatas.		
+10023	Tribulação Dia	[NAME]O cultivo atingiu seu limite. Uma Tribulação Celestial está prestes a cair!		
+10024	Imortal Misterioso	Por vários dias, você se escondeu durante o dia e viajou à noite, finalmente chegando a um barranco isolado. Quando você estava prestes a relaxar, uma luz de teletransporte de repente atingiu, mostrando o contorno de um cultivador.		
+10025	Imortal Misterioso	O misterioso cultivador olhou em volta em pensamento profundo, e depois desapareceu em outra luz de teletransporte.		
+10026	Tutorial	Parabéns! Você dominou as características básicas do Amazing Cultivation Simulator.\nNext, você pode criar seu próprio personagem em Classic e iniciar uma verdadeira jornada de cultivo.\Aproveite o jogo!		
+10027	Pereceram	Não é uma boa hora. Sua Lei para o cultivo ainda não começou antes de ser encerrada. O que resta é apenas a vasta terra e mar que varrerão sua tristeza.		
+10028	Destruído	[TXT] O que resta é apenas a vasta terra e mar que varrerão sua tristeza.		
+10029	Um novo começo Um viajante escondido nas montanhas encontrou as ruínas. Sem para onde ir, [IT] decidiu ficar aqui por enquanto.		
+10030	Imortal Misterioso	Você sentiu uma presença gentil e calorosa que parou ao seu lado por um tempo, antes que lentamente se tornasse fraca e desaparecesse eventualmente, como se nunca estivesse aqui...		
+10031	Abençoado	[TXT] tornou-se abençoado, e de repente ganhou muita fama e mudou drasticamente.		
+10032	Ausente	[NAME] tem que voltar para meditação imediatamente por ter sido despachado fora da seita por muito tempo.		
+10033	Ferido	[NAME] tem que voltar para a seita para se recuperar de sua lesão durante seu funcionamento.		
+10034	Mistura Em Depois de um pouco de tempo vivendo juntos, [NAME] se misturou completamente com o resto da seita.		
+10035	Inquieto	Sentindo a presença de um cultivador com um Núcleo Dourado, [NAME] Viver aqui parece estar um pouco inquieto...		
+10036	Atacar	Para evitar que você cresça, [NAME] Viver aqui atacou.		
+10037	Inquieto	Sentindo que sua seita pode não ser uma ameaça em potencial, [NAME] Viver aqui está conspirando contra você...		
+10038	Atacar	Não mais capaz de resistir à tentação de sangue e carne, [NAME] Viver aqui atacou.		
+10039	Evoluído	Afetado pelo tempo e Qi, um [NAME] foi abençoado e transformado em uma besta.		
+10040	Sinistro	[NAME] veio a este lugar e de repente sentiu algo sinistro, como se uma criatura malvada estava vivendo nas proximidades.		
+10041	Caverna Misteriosa	Os terremotos cada vez mais frequentes em sua seita de repente pararam recentemente, e ao mesmo tempo, uma misteriosa caverna apareceu no chão.\Cultivadores antigos estão começando a aparecer neste reino com mais frequência. Talvez você possa pedir-lhes informações.		
+10042	Ameaçador	A caverna misteriosa de repente tornou-se ameaçadora, e queria que você sacrificasse [TXT].		
+10043	Sacrificado	Você completou o rito em frente à caverna, e o ser misterioso estava muito satisfeito.		
+10044	Tempestade	O misterioso estar dentro da caverna estava muito irritado, e uma tempestade veio em seu rugido enfurecido.	Tempestade de chuva Toda estação	
+10045	Seca de Qi	O misterioso estar dentro da caverna estava muito zangado, e um forte puxão da caverna sugou todo o Qi ao redor do lugar.	LingRarefiedWave	
+10046	Noite Polar	O misterioso estar dentro da caverna estava muito zangado, e uma noite polar começou como resultado de sua raiva.	Noite Permanente	
+10047	Invasão das Bestas	O misterioso estar dentro da caverna estava muito zangado, e atraiu algumas bestas para atacar sua seita.		
+10048	Alvorada da Raiva	O misterioso estar dentro da caverna estava muito zangado, e jorrou uma rajada de água que quebrou a superfície do solo.		
+10049	Dragão Nascido	O misterioso estar dentro da caverna não podia mais conter sua raiva. Com um barulho violento que poderia se espalhar milhares de quilômetros, uma besta gigante eclodiu do chão.		
+10050	Calor Extremo	Por razões desconhecidas, a temperatura média neste reino de repente aumentou bastante. Esse aumento da temperatura tem sido muito além das mudanças normais no tempo. Pode indicar algo incomum.	Weather_Boss_Drought	
+10051	Monstro desequilibrado	A seca extrema enlouqueceu os monstros, e alguns monstros desequilibrados apareceram perto da seita.	Lobo|Coelho|Cobra|Javali	
+10052	Asa em Chamas Caindo	Uma onda de calor varreu o céu, e algo estranho caiu.		Item_BossFeng_HuoYu
+10053	Seca prolongada	O calor contínuo trouxe uma seca. Você sentiu que a temperatura estava subindo cada vez mais. Se você não agir agora, a situação pode piorar.	Weather_Boss_HighTemp	
+10054	Besta Desocupada	Algumas bestas enlouqueceram por medo, e até deixaram seu próprio território para causar estragos por toda parte.		
+10055	Asa em Chamas Caindo	Uma onda de calor varreu o céu, e algo estranho caiu.		Item_BossFeng_HuoYu
+10056	Som estridente	Depois de lançar um feitiço para afastar a seca prolongada, você descobriu que o mundo parecia se tornar estranhamente por uma hora. Alguns momentos depois, um grande bando de pássaros de repente voou de montanhas remotas. Um som estridente e sinistro quebrou o silêncio.		
+10057	Phoenix	Phoenix está aqui.		
+10058	Noite Polar Começa por razões desconhecidas, o reino de repente perdeu seu equilíbrio de Yin e Yang. Uma noite escura encobre a área ao redor de sua seita.		
+10059	Ovos de Yin	Alguns ovos estranhos apareceram de repente perto de sua seita no meio da noite. Há algo chocando dentro deles...		
+10060	Começa o Dia Polar	Por razões desconhecidas, o reino de repente perdeu o equilíbrio de Yin e Yang. Virou ao meio-dia na área ao redor de sua seita... Você não sabe quanto tempo esse caos vai continuar.		
+10061	Ovos de Yang	Alguns ovos estranhos apareceram de repente perto de sua seita no meio do dia. Há algo chocando dentro deles...		
+10062	Dragão-tocha nascido	O caos contínuo de Yin e Yang finalmente atingiu seu limite. Com um suspiro desenhado, uma criatura gigante começou a se manifestar dentro do reino.		
+10063	O Caos do Dragão da Tocha	Quando os estranhos ovos começaram a eclodir, os Yin e Yang deste reino lentamente perdem o equilíbrio.		
+10064	O Caos do Dragão da Tocha	À medida que os estranhos ovos foram destruídos, os Yin e Yang deste reino lentamente perdem o equilíbrio.		
+10065	Mudança drástica	Houve uma súbita explosão de Qi nas Planícies Centrais. Com o passar do tempo, as pessoas começaram a perceber que a escala e intensidade da explosão estava além de todas as expectativas. Ela vem se espalhando do ponto central de estouro por mais de um mês, provando que foi realmente uma mudança drástica que afetaria todos os cultivadores.\Agora, a influência do estouro chegou à sua seita. Enquanto todos gostam do Qi transbordante, você se pergunta o que essa mudança drástica pode significar para todos vocês...	LingUpWave_Sp	
+10066	Maré de mil anos	Faz dias desde que a explosão de Qi terminou de se espalhar pelo reino. Lendo documentos antigos, as famosas seitas eventualmente decidiram que era a maré de Qi que aumenta a cada 3.000 anos. Antigos cultivadores que estavam dormindo por várias razões começaram a ser revividos um por um pela Maré mil anos.\Sem a ordem e as regras atuais, os cultivadores nos tempos antigos acreditavam na lei da selva. Esses cultivadores com crenças antigas e longa experiência no cultivo causaram caos no mundo dos cultivadores em apenas alguns dias...		
+10067	Desastre no Sul Selvagem	Um misterioso desastre aconteceu recentemente nas montanhas da fronteira norte. Foi dito que o chão e as montanhas tremiam por um minuto, e o som era tão alto que se espalhou por milhares de quilômetros. Quando os cultivadores próximos chegaram, eles só encontraram todas as montanhas para serem afogadas na água, com qi sinistro forte permeando a área.\Parece que algumas raras e esquivas bestas antigas que se escondem nas montanhas e lagos são afetadas pela Maré de Mil Anos e se tornaram ativas novamente.		
+10068	Ruído subterrâneo	A maré de mil anos passou. Em pouco mais de um mês, antigos cultivadores foram revividos, e animais antigos começaram a se tornar ativos novamente... O mundo dos cultivadores enfrentou a mudança drástica. Com o passar do tempo, o mundo dos cultivadores gradualmente recuperou sua paz e equilíbrio. Tudo parece estar de volta aos trilhos.\No entanto, shakes subterrâneos começaram a acontecer com frequência em sua seita. Você não sabe o que está acontecendo...		
+10069	Invasão de um Antigo Cultivador	Este antigo cultivador encontrou sua seita após uma investigação cuidadosa.		
+10070	Despertar de Animais	A besta que ocupa esta terra despertou.		
+10071	Tribulação de Dragões	O poder da Tribulação Celestial matou todos os dragões das inundações...		
+10072	Perturbação do Outro Mundo	Houve conversas que a Fenda do Outro Mundo de repente se abriu ultimamente e vários tesouros radiante voaram para fora dele, espalhando-se pelo mundo. Você sentiu algo estranho acontecendo. Parece que você tem uma conexão espiritual com esses tesouros e uma busca cuidadosa é justificada.		
+10073	Perturbação do Outro Mundo	Houve conversas que a Fenda do Outro Mundo de repente se abriu ultimamente e vários tesouros radiante voaram para fora dele, espalhando-se pelo mundo. Você sentiu algo estranho acontecendo. Parece que você tem uma conexão espiritual com esses tesouros e uma busca cuidadosa é justificada.		
+10074	Perturbação do Outro Mundo	Houve conversas que a Fenda do Outro Mundo de repente se abriu ultimamente e vários tesouros radiante voaram para fora dele, espalhando-se pelo mundo. Você sentiu algo estranho acontecendo. Parece que você tem uma conexão espiritual com esses tesouros e uma busca cuidadosa é justificada.		
+10075	Perturbação do Outro Mundo	Houve conversas que a Fenda do Outro Mundo de repente se abriu ultimamente e vários tesouros radiante voaram para fora dele, espalhando-se pelo mundo. Você sentiu algo estranho acontecendo. Parece que você tem uma conexão espiritual com esses tesouros e uma busca cuidadosa é justificada.		
+10076	Partida	Por que você me envia como um presente para [TXT]?		
+10077	Ascensão	[NAME] atingiu sua divindade e perdeu todos os sentimentos e emoções. A cada relações humanas e conexões cortadas, [IT] se transformaram completamente em uma didade neste reino.	SeeGod	
+10078	Condenação do Sindicato dos Lojistas	Por causa do seu comportamento rude, o Sindicato dos Comerciantes decidiu bani-lo da lista comercial deles para sempre.		
+10079	Vingança	[TXT]Amigos e anciãos vieram à sua seita parecendo irritados e agressivos, pedindo sua explicação e desculpas.	Rich	
+10080	Vingança	[TXT] traiu sua própria seita por sua causa. Seus velhos amigos e anciãos estão muito loucos e virão pedir sua explicação e desculpas.		
+10081	Conexão	[TXT]O discípulo traiu sua seita por sua causa, mas como têm um bom relacionamento um com o outro, seus anciãos mais velhos ordenaram que não prosseguissem com este assunto.\n(Conexão reduzida)		
+10082	Conexão	[TXT]O discípulo traiu sua seita por sua causa, mas como vocês têm um bom relacionamento um com o outro, eles tentaram não prosseguir com este assunto. Mas os favores que eles lhe deviam provavelmente não são suficientes para impedi-los de mantê-lo quieto.\n(Conexão reduzida)		
+10083	Visita do Sindicato dos Lojistas	[NAME] do Sindicato dos Comerciantes vem visitar, e ele vai ficar aqui por um dia.		
+10084	Return from the Otherworld	Alguns dias atrás, um grupo de comerciantes da união desapareceu enquanto explorava a Fenda do Outro Mundo. Quando todos pensaram que tinham ido embora para sempre, a Fenda do Outro Mundo abriu novamente e todos os comerciantes voltaram em segurança, mesmo trazendo muitos itens estranhos do Outro mundo.\No entanto, uma grande quantidade de objetos do Outro mundo trouxeram o Credo do Céu do Outro mundo. Sob a influência dos caminhos do céu do Outro mundo, algumas mudanças temporárias ocorreram para os caminhos celestiais neste mundo também. Até o Dragão tocha, a manifestação da Regra de Yin e Yang, tornou-se um pouco estranho...		
+10085	Urso Despertado		Urso	,10,10,10,10,10,3,Alvo,,3	Em [TXT], um urso chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10086	Coelho Despertado		Coelho	,10,10,10,10,10,3,Alvo,,3	Em [TXT], um coelho chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10087	Frango Despertado		Chicken,10,10,10,10,10,3,Alvo,,3	Em [TXT], uma galinha chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10088	Lobo Despertado		Lobo,10,10,10,10,10,3,Alvo,,3	Em [TXT], um lobo chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10089	Cobra Despertada		Cobra,10,10,10,10,10,3,Alvo,,3	Em [TXT], uma cobra chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10090	Javali despertado		Javali,10,10,10,10,10,3,Alvo,,3	Em [TXT], um javali chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10091	Sapo Despertado		Sapo,10,10,10,10,10,3,Alvo,,3	Em [TXT], um sapo chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10092	Tartaruga Despertada		Tartaruga,10,10,10,10,10,3,Alvo,,3	Em [TXT],  uma tartaruga chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10093	Gato Despertado		Gato,10,10,10,10,10,3,Alvo,,3	Em [TXT], um gato chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10094	Tigre Despertado		Tigre,10,10,10,10,10,3,Alvo,,3	Em [TXT], um tigre chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10095	Touro Despertado		Touro,10,10,10,10,10,3,Alvo,,3	Em [TXT], um touro chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10096	Iluminismo do Mestre	Abençoado pela fortuna, [NAME] recebeu iluminação de [TNAME] Em [TIME], e, assim, tornou-se um Espírito Consciente.		
+10097	Mundo Consciente	Abençoado pela fortuna, [NAME] energia adquirida do céu e da terra em [WEATHER], despertando a autoconsciência e tornando-se um Espírito Consciente.		
+10098	Energia despertando	Abençoado pela fortuna, tendo passado anos Em [TNAME]Do lado do lado, [NAME] acidentalmente despertou a autoconsciência e tornou-se um Espírito Consciente, devido à energia acumulada de ouvir palavras de sabedoria.		
+10099	Urso Despertado		Urso	,10,10,10,10,10,3,Emoção,,3	Em [TXT], por alguma razão, um urso acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+10100	Coelho Despertado		Coelho	,10,10,10,10,10,3,Emoção,,3	Em [TXT], por alguma razão, um coelho acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+10101	Frango Despertado		Chicken,10,10,10,10,10,3,Emoção,,3	Em [TXT], por alguma razão, uma galinha acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+10102	Lobo Despertado		Lobo,10,10,10,10,10,3,Emoção,,3	Em [TXT], por alguma razão, um lobo acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+10103	Cobra Despertada		Cobra,10,10,10,10,10,3,Emoção,,3	Em [TXT], uma cobra chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+10104	Javali despertado		Javali,10,10,10,10,10,3,Emoção,,3	Em [TXT], por alguma razão, um javali acidentalmente sentiu "[FRAG]" several times, becoming awakened as a result.
+10105	Sapo Despertado		Sapo,10,10,10,10,10,3,Emoção,,3	Em [TXT], por alguma razão, um sapo acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+10106	Tartaruga Despertada		Tartaruga,10,10,10,10,10,3,Emoção,,3	Em [TXT], por alguma razão, uma tartaruga acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+10107	Gato Despertado			Gato,10,10,10,10,10,3,Emoção,,3	Em [TXT] , por alguma razão, um gato acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+10108	Tigre Despertado			Tigre,10,10,10,10,10,3,Emoção,,3	Em [TXT], por alguma razão, um tigre acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+10109	Touro Despertado			Touro,10,10,10,10,10,3,Emoção,,3	Em [TXT], por alguma razão, um touro acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+10110	Urso Despertado		Urso	,10,10,10,10,10,3,Cena,,3	A Urso "[FRAG]" várias vezes em [TXT],  então teve uma luz súbita e tornou-se despertado.
+10111	Coelho Despertado		Coelho	,10,10,10,10,10,3,Cena,,3	A rabbit "[FRAG]" multiple times at [TXT],  então teve uma luz súbita e tornou-se despertado.
+10112	Frango Despertado		Chicken,10,10,10,10,10,3,Cena,,3	A chicken "[FRAG]" multiple times at [TXT],  então teve uma luz súbita e tornou-se despertado.
+10113	Lobo Despertado		Lobo,10,10,10,10,10,3,Cena,,3	Depois "[FRAG]" várias vezes, um lobo teve uma luz súbita e tornou-se despertado em [TXT].
+10114	Cobra Despertada		Cobra,10,10,10,10,10,3,Cena,,3	Depois "[FRAG]" várias vezes, uma cobra teve uma luz súbita e tornou-se despertado em [TXT].
+10115	Javali despertado		Javali,10,10,10,10,10,3,Cena,,3	Depois "[FRAG]"  várias vezes, um javali teve uma luz súbita e tornou-se despertado em [TXT].
+10116	Sapo Despertado		Sapo,10,10,10,10,10,3,Cena,,3	Depois "[FRAG]" várias vezes, um sapo teve uma luz súbita e tornou-se despertado em [TXT].
+10117	Tartaruga Despertada			Tartaruga,10,10,10,10,10,3,Cena,,3	Depois "[FRAG]" várias vezes, uma tartaruga teve uma luz súbita e tornou-se despertado em [TXT].
+10118	Gato Despertado			Gato,10,10,10,10,10,3,Cena,,3	Depois "[FRAG]" várias vezes, um gato teve uma luz súbita e tornou-se despertado em [TXT].
+10119	Tigre Despertado			Tigre,10,10,10,10,10,3,Cena,,3	Depois "[FRAG]" várias vezes, um tigre teve uma luz súbita e tornou-se despertado em [TXT].
+10120	Touro Despertado			Touro,10,10,10,10,10,3,Cena,,3	Depois "[FRAG]" várias vezes, um touro teve uma luz súbita e tornou-se despertado em [TXT].
+10121	Inimigo em retirada	Uma onda de seres hostis com a intenção de atacá-lo. Mas depois de considerar cuidadosamente a reputação de sua seita no mundo do cultivo, eles finalmente decidiram desistir.		
+10122	Ascensão	[NAME] passou por todas as dificuldades e finalmente abraçou o esquecimento com o corpo mortal, subindo acima deste reino e deixando nada além de lendas a serem contadas para as gerações futuras.\Um poema como evidência:\n[color=#D06508]Do caos ordenado do universo, o primeiro ser humano nasceu. A seriedade veio antes da dualidade, e os Quatro Símbolos guardavam a terra.\A deusa deu vida a todas as criações da argila, enquanto a Grande Brilhante desenhou o quadro que dividia Yin e Yang.\Cem anos de cultivo passaram enquanto soldados lutavam em inúmeras batalhas. Outros mil anos são apenas um piscar de olhos na meditação.\Não direi mais nada quando a Tribulação Celestial vier me levar embora. Todos os problemas mundanas desaparecerão com o vento depois que eu deixar este plano de existência.[/color]	SeeGod	
+10123	Comerciante de outro mundo	[NAME] da Traveling Merchant Guild foi teletransportada aqui através do Otherworld Rift.		
+10124	Fenda de Outro Mundo	Uma horda de bestas raivosas foram teletransportadas para cá através da Fenda do Outro Mundo.		
+10125	Fenda de Outro Mundo	Alguns monstros foram teletransportados para cá através da Fenda do Outro Mundo.		
+10126	Fenda de Outro Mundo	Um grupo de inimigos foi teletransportado aqui através da Fenda do Outro Mundo.		
+10127	Fortuna Convergente	Depois de conquistar todas as seitas com poder inigualado, sua seita coletou toda a fortuna do reino dos cultivadores, e seu Mini Universo começa a emitir luz estranha e fraca.		
+10128	Fortuna Convergente	Apenas em poucos anos, houve 50 discípulos ascendidos à imortalidade em sua seita. Portanto, grande fortuna divina convergiu aqui, e seu Mini Universo começa a emitir luz estranha e fraca.		
+10129	Fortuna Convergente	Depois de muita dificuldade, um cultivador do Núcleo Dourado em sua seita sobreviveu a nove Tribulações Celestiais, desenhando em fortuna divina para convergir aqui, e assim seu Mini Universo começa a emitir luz estranha e fraca.		
+10130	Fortuna Convergente	À medida que o tempo passa, sua seita foi estabelecida aqui por décadas, gradualmente misturando-se no ambiente e absorvendo fortuna, e assim seu Mini Universo começa a emitir luz estranha e fraca.		
+10131	Fortuna Convergente	Para descobrir a verdade da destruição da Seita Taiyi, você inesperadamente descobriu o segredo mais antigo do mundo após uma investigação cuidadosa, durante a qual a grande fortuna divina convergiu aqui, e assim seu Mini Universo começa a emitir luz estranha e fraca.		
+10132	Fortuna Convergente	O credo do céu mudou drasticamente, e assim seu Mini Universo começa a emitir luz estranha e fraca.		
+10133	Chegou a hora	O Mini Universo de repente tremeu estranhamente. Você lembra o acordo com Fu Bikong e é a hora.		
+10123	Comerciante de outro mundo	[NAME] da Traveling Merchant Guild foi teletransportada aqui através do Otherworld Rift.		
+10124	Fenda do Outro Mundo Uma horda de bestas raivosas foram teletransportadas para cá através da Fenda do Outro Mundo.		
+10125	Rift do outro mundo Alguns monstros foram teletransportados para cá através da Fenda do Outro Mundo.		
+10126	Outro mundo Rift Um grupo de inimigos foi teletransportado aqui através da Fenda do Outro Mundo.		
+30001	Invasão das Bestas	Algumas bestas apareceram perto daqui, e são muito hostis.		TongYong_DropList
+30002	Invasão das Bestas	Algumas bestas apareceram perto daqui, e são muito hostis.		TongYong_DropList
+30003	Invasão das Bestas	Algumas bestas apareceram perto daqui, e são muito hostis.		TongYong_DropList
+30004	Assalto	Alguns assassinos misteriosos são ordenados a atacar sua seita.	Ricos	Humano
+30005	Assalto	Alguns assassinos misteriosos são ordenados a atacar sua seita.	Ricos	Humano
+30006	Assalto	Alguns assassinos misteriosos são ordenados a atacar sua seita.	Ricos	Humano
+30008	Noite Polar	Uma desordem do Yin Yang Stela fez com que a energia Yin transbordasse. O sol se recusa a nascer como resultado.	Caos de Yin	
+30009	Onda de calor	O Abismo de Fogo torna-se instável, resultando em temperatura anormalmente alta.	Hotpot_Heat	
+30010	Ar frio	O Forno Congelado torna-se instável, resultando em temperatura anormalmente baixa.	ColdHole_Cold	
+30012	Tempestade	Uma forte tempestade começou, e o Elemento Água através do céu e da terra é extremamente ativo.	Tempestade	
+30013	Vento Seco	Um vento seco e quente começou, e o Elemento Fogo através do céu e da terra é extremamente ativo.	Secador	
+30014	Tempestade de poeira	Uma tempestade de poeira está varrendo toda a terra, e o Elemento Terra através do céu e da terra é extremamente ativo.	Tempestade de areia	
+30015	Seca de Qi	Por razões desconhecidas, está em uma temporada de seca de Qi através do céu e da terra.	LingRarefiedWave_Longer	
+30018	Noite Polar	Uma estranha nuvem está cobrindo o sol. Vai demorar um pouco até que você possa ver a luz do sol novamente.	Noite Polar	
+30019	Miasma	O ar nocivo está subindo sobre toda a área, e o Elemento Madeira através do céu e da terra é extremamente ativo.	Miasma	
+30020	Tempestade	Uma tempestade está chegando, e o Elemento Metal através do céu e da terra é extremamente ativo.	Tempestade relâmpago	
+30021	Assalto	Alguns assassinos misteriosos são ordenados a atacar sua seita.	Normal	Humano
+30022	Tempestade	Respondendo à agitação da Caverna Misteriosa, uma tempestade atinge.	Lightning_DragonHole	
+30028	Refugiado transeunte	Um refugiado fugindo da guerra está passando, e [IT] deseja se juntar a você.	Humano	
+30043	Estranho Confuso	Um estranho perdeu o caminho por aqui, e deseja que possamos ajudá-los.	Estranho Confuso	
+30044	Estranho Curioso	Um estranho curioso se deparou com este lugar por acidente, e [IT] quero saber o que estamos fazendo exatamente.	Estranho Curioso	
+30045	Estranho ferido	Um estranho está ferido, e [IT] desejo ficar aqui por um tempo e pedir nossa ajuda.	Estranho ferido	Dano aleatório
+30083	Explosão de Qi	Por razões desconhecidas, Qi através do céu e da terra de repente começou a estourar. Algumas plantas foram afetadas e se tornaram Spiritwood.	LingUpWave_Shorter	
+30111	Tempestade de poeira	Devido à influência do Santuário da Mãe Terra, ocorreu uma tempestade de poeira.	DustStorm_Dimu	
+30112	Invasão das Bestas	O Santuário da Mãe Terra absorveu alguma nutrição do solo, enfurecendo um bando de monstros. Eles se tornaram hostis!		
+30113	Invasão das Bestas	Algumas bestas apareceram perto daqui, e são muito hostis.		
+30114	Invasão das Bestas	Algumas bestas apareceram perto daqui, e são muito hostis.		
+30115	Invasão das Bestas	Algumas bestas apareceram perto daqui, e são muito hostis.		
+30116	Invasão das Bestas	Algumas bestas apareceram perto daqui, e são muito hostis.		
+30117	Altar do Céu Eco	Cristalize pedras espirituais completas!		

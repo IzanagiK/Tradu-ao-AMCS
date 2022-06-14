@@ -1,0 +1,152 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SeeTheSky">
+			<DisplayName>Skygazing</DisplayName>
+			<SingleFormat.0>Wanted to fly while {0} on hills.</SingleFormat.0>
+			<SingleFormat.1>Thought about the hazy past while {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="HearEarthQuake">
+			<DisplayName>Hearing Earthquake</DisplayName>
+			<SingleFormat.0>After {0}, nothing happened.</SingleFormat.0>
+			<SingleFormat.1>After {0} then came a strange noise.</SingleFormat.1>
+		</Text>
+		<Text Name="HearFarThunder">
+			<DisplayName>Hearing Thunder</DisplayName>
+			<SingleFormat.0>After {0} it rained.</SingleFormat.0>
+			<SingleFormat.1>After {0}, yet nothing happened.</SingleFormat.1>
+		</Text>
+		<Text Name="SmellRain">
+			<DisplayName>Smelling rain</DisplayName>
+			<SingleFormat.0>After {0} it rained.</SingleFormat.0>
+			<SingleFormat.1>It got dark after {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="SmellDecay">
+			<DisplayName>Smelling Rotten</DisplayName>
+			<SingleFormat.0>Maybe something is {0}.</SingleFormat.0>
+			<SingleFormat.1>After {0}, something was not OK.</SingleFormat.1>
+		</Text>
+		<Text Name="HearLoud">
+			<DisplayName>Hearing loudness</DisplayName>
+			<SingleFormat.0>After {0}, jumped in fright.</SingleFormat.0>
+		</Text>
+		<Text Name="ClimbHigh">
+			<DisplayName>Climbing</DisplayName>
+			<SingleFormat.0>Likes to {0} tough mountains.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeStone">
+			<DisplayName>Watching Boulders</DisplayName>
+			<SingleFormat.0>Recalled {0} and Studying Boulders.</SingleFormat.0>
+		</Text>
+		<Text Name="Memory">
+			<DisplayName>Recalling</DisplayName>
+			<SingleFormat.0>After {0} something, felt younger.</SingleFormat.0>
+			<SingleFormat.1>Dislike {0} thoughts of the tumultuous pasts.</SingleFormat.1>
+		</Text>
+		<Text Name="SeeDisciples">
+			<DisplayName>Watching dressing</DisplayName>
+		</Text>
+		<Text Name="SeeSwords">
+			<DisplayName>Watching fly</DisplayName>
+		</Text>
+		<Text Name="SeeTrain">
+			<DisplayName>Watching sit</DisplayName>
+		</Text>
+		<Text Name="SeePlay">
+			<DisplayName>Watching play</DisplayName>
+		</Text>
+		<Text Name="SeeAround">
+			<DisplayName>Watching Light</DisplayName>
+		</Text>
+		<Text Name="SeeScene">
+			<DisplayName>SightSeeing</DisplayName>
+		</Text>
+		<Text Name="HearAround">
+			<DisplayName>Hearing Music</DisplayName>
+		</Text>
+		<Text Name="HearWind">
+			<DisplayName>Hearing wind</DisplayName>
+		</Text>
+		<Text Name="HearChat">
+			<DisplayName>Watching eating</DisplayName>
+		</Text>
+		<Text Name="HearHeartBeat">
+			<DisplayName>Smelling Medic</DisplayName>
+		</Text>
+		<Text Name="HearTrain">
+			<DisplayName>Watching work</DisplayName>
+		</Text>
+		<Text Name="HearStep">
+			<DisplayName>Watching train</DisplayName>
+		</Text>
+		<Text Name="HearWormBeep">
+			<DisplayName>Hearing insects</DisplayName>
+		</Text>
+		<Text Name="SmellAround">
+			<DisplayName>Smelling Incense</DisplayName>
+		</Text>
+		<Text Name="SmellDirt">
+			<DisplayName>Smelling soil</DisplayName>
+		</Text>
+		<Text Name="SmellSelf">
+			<DisplayName>Smelling fur</DisplayName>
+		</Text>
+		<Text Name="SmellMeal">
+			<DisplayName>Smelling Food</DisplayName>
+			<SingleFormat.0>When {0}, salivates as a result.</SingleFormat.0>
+		</Text>
+		<Text Name="SmellFire">
+			<DisplayName>Smelling Burn</DisplayName>
+		</Text>
+		<Text Name="LickSelf">
+			<DisplayName>Ringing</DisplayName>
+		</Text>
+		<Text Name="Sneeze">
+			<DisplayName>Sneezing</DisplayName>
+		</Text>
+		<Text Name="Dream">
+			<DisplayName>Dreaming</DisplayName>
+		</Text>
+		<Text Name="PlaySelf">
+			<DisplayName>Having fun</DisplayName>
+		</Text>
+		<Text Name="DayDream">
+			<DisplayName>Daydreaming</DisplayName>
+		</Text>
+		<Text Name="Sweat">
+			<DisplayName>Sweating</DisplayName>
+		</Text>
+		<Text Name="Poo">
+			<DisplayName>Defecating</DisplayName>
+		</Text>
+		<Text Name="Wander">
+			<DisplayName>Smelling sweet</DisplayName>
+		</Text>
+		<Text Name="Betouch">
+			<DisplayName>Hunting</DisplayName>
+			<SingleFormat.0>Recalled running while {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Sleep">
+			<DisplayName>Sleeping</DisplayName>
+		</Text>
+		<Text Name="SeeEast">
+			<DisplayName>Facing East</DisplayName>
+			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeSouth">
+			<DisplayName>Facing South</DisplayName>
+			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeWest">
+			<DisplayName>Facing West</DisplayName>
+			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeNorth">
+			<DisplayName>Facing North</DisplayName>
+			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeDirt">
+			<DisplayName>Facing Down</DisplayName>
+			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+		</Text>
+	</List>
+</Texts>

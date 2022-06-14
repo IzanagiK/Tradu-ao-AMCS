@@ -1,0 +1,190 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="JGTest">
+			<Events.0.Story>While idling, [name] started to fantasize about becoming human in its mind.</Events.0.Story>
+			<Events.1.Story>While idling, [name]'s mind started drifting toward the good old times with its master.</Events.1.Story>
+		</Text>
+		<Text Name="JGTunShi">
+			<Events.0.Story>Good heavens, it's super delicious! I want to have another pound.</Events.0.Story>
+			<Events.1.Story>Just a bit more, please, I swear I'll lose weight after this.</Events.1.Story>
+			<Events.2.Story>While swallowing items, [name] thought of Sentient Spirit [obj_tongling] all of a sudden, wondering whether it had tried these delicacies or not.</Events.2.Story>
+			<Events.3.Story>Cozy! Comfy!</Events.3.Story>
+			<Events.4.Story>Yummy!</Events.4.Story>
+			<Events.5.Story>Ayy yo this lil stuff taste real good.</Events.5.Story>
+			<Events.6.Story>More!</Events.6.Story>
+			<Events.7.Story>Tasty as hell.</Events.7.Story>
+			<Events.8.Story>This is it!</Events.8.Story>
+		</Text>
+		<Text Name="JGTalkDay">
+			<Events.0.Story>While idling, [name] started to fantasize about becoming human in its mind.</Events.0.Story>
+			<Events.1.Story>[name] was caught in a trance for some reason.</Events.1.Story>
+			<Events.2.Story>[name] looked at its kinships living in ignorance, and suddenly felt it's so lucky.</Events.2.Story>
+			<Events.3.Story>[name] [rand_string=made a sudden sneezing sound,made a sudden hiccup,made a sudden yawning sound,started mumbling by itself,suddenly felt a bit itchy,suddenly felt a bit bored,sighed,made a sudden smacking sound,made a sudden licking sound,shook the dust off its body,started humming,wanted to talk to people,wanted to try writing poetry].</Events.3.Story>
+			<Events.4.Story>[name] seemed to have heard someone calling its name.</Events.4.Story>
+			<Events.5.Story>[name] really likes [rand_lable=obj_weather].</Events.5.Story>
+			<Events.6.Story>[name] stared at the nearby [rand_lable=obj_friend,obj_nearthing], [rand_string=zoning out,giggling,pondering on something].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is suddenly feeling homesick.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the [obj_nearthing] nearby...</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. suddenly a great many thoughts and feelings began filling [name]'s mind.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started crying.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt inexplicably irritated with something.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking about the sunset.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt inexplicably irritated with something.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breathe.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the incentive to try riding [obj_fabao], just to get a feel.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] all of a sudden, just to get a taste.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to pick a fight with someone.</Events.19.Story>
+			<Events.20.Story>Look at me, look at me, look at me!</Events.20.Story>
+			<Events.21.Story>Come here, come here, come here!</Events.21.Story>
+			<Events.22.Story>You! Come over and talk to me.</Events.22.Story>
+			<Events.23.Story>It's so annoying that you guys keep walking around.</Events.23.Story>
+			<Events.24.Story>Would I be as busy as you guys when I became a human?</Events.24.Story>
+			<Events.25.Story>Waddaya lookin' at?</Events.25.Story>
+			<Events.26.Story>What?</Events.26.Story>
+			<Events.27.Story>Wouldn't you guys get dry eyes running around like that?</Events.27.Story>
+		</Text>
+		<Text Name="JGTalkNight">
+			<Events.0.Story>While idling, [name] started to fantasize about becoming human in its mind.</Events.0.Story>
+			<Events.1.Story>[name] was caught in a trance for some reason.</Events.1.Story>
+			<Events.2.Story>[name] looked at its kinships living in ignorance, and suddenly felt it's so lucky.</Events.2.Story>
+			<Events.3.Story>[name] [rand_string=made a sudden sneezing sound,made a sudden hiccup,made a sudden yawning sound,started mumbling by itself,suddenly felt a bit itchy,suddenly felt a bit bored,sighed,made a sudden smacking sound,made a sudden licking sound,shook the dust off its body,started humming,wanted to talk to people,wanted to try writing poetry].</Events.3.Story>
+			<Events.4.Story>[name] seemed to have heard someone calling its name.</Events.4.Story>
+			<Events.5.Story>[name] really likes [rand_lable=obj_weather].</Events.5.Story>
+			<Events.6.Story>[name] stared at the nearby [rand_lable=obj_friend,obj_nearthing], [rand_string=zoning out,giggling,pondering on something].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is suddenly feeling homesick.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the [obj_nearthing] nearby...</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. suddenly a great many thoughts and feelings began filling [name]'s mind.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started crying.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt inexplicably irritated with something.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking about the sunset.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt inexplicably irritated with something.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breathe.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the incentive to try riding [obj_fabao], just to get a feel.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] all of a sudden, just to get a taste.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to pick a fight with someone.</Events.19.Story>
+			<Events.20.Story>Why are y'all lying down, get up and have some fun!</Events.20.Story>
+			<Events.21.Story>La la la la la la~</Events.21.Story>
+			<Events.22.Story>Who––was––woken––up––already? ––was––woken––up––already? ––woken––up––already? ––up––already? ––already? S–o–r–r–y––oh––s–o–r–r–y––</Events.22.Story>
+			<Events.23.Story>Zzzzzz––I was asleep––––––nope just kidding!</Events.23.Story>
+			<Events.24.Story>Dee dee dee dee dee~</Events.24.Story>
+			<Events.25.Story>Da da da da da~</Events.25.Story>
+			<Events.26.Story>I heard Sentient Spirits often crawl onto your bed in the middle of the night...</Events.26.Story>
+			<Events.27.Story>Aaaaaaaaaaah I'm so miserable––––––––––so much MUD in my N–A–I–L–S––––––––</Events.27.Story>
+		</Text>
+		<Text Name="JGTalkNoMove">
+			<Events.0.Story>When can I move? I'm so bored staying in here!</Events.0.Story>
+			<Events.1.Story>Hello? Hello? Anybody! Get your hands off me!</Events.1.Story>
+			<Events.2.Story>My soul has withered, I really want to go out for a walk...</Events.2.Story>
+			<Events.3.Story>Anybody–out–here––I–am–so–bored––</Events.3.Story>
+			<Events.4.Story>Hmph, even if you untie me now, I don't want to move anymore.</Events.4.Story>
+			<Events.5.Story>The sun is blinking and the birds are singing, I'm a cute little monster who wants to start moving~</Events.5.Story>
+			<Events.6.Story>Let go of me, I know you're watching!</Events.6.Story>
+			<Events.7.Story>I'm gonna put Dragon Feces in your tea!</Events.7.Story>
+			<Events.8.Story>How I wish to become human~How I wish to travel everywhere~</Events.8.Story>
+			<Events.9.Story>What is this Igneocopper room that you guys keep talking about?</Events.9.Story>
+			<Events.10.Story>Am I going to just rot in here?</Events.10.Story>
+			<Events.11.Story>Boo hoo~I surrender, I promise I won't run off again.</Events.11.Story>
+			<Events.12.Story>Let–me–out–––</Events.12.Story>
+			<Events.13.Story>Actually I'm not a Sentient Spirit, I'm an old grandpa who was sealed within it. Let me go and I'll teach you a super invincible skill.</Events.13.Story>
+			<Events.14.Story>Doh doh doh doh doh~</Events.14.Story>
+			<Events.15.Story>Dee dee dee dee dee~</Events.15.Story>
+			<Events.16.Story>Da da da da da~</Events.16.Story>
+			<Events.17.Story>I have come to realize one thing in the past few days––that Sentient Spirits probably shouldn't be running around like that.</Events.17.Story>
+			<Events.18.Story>Owooooo––I'm a big bad wolf––</Events.18.Story>
+			<Events.19.Story>Hands off me! I'm gonna turn, I'm gonna turn?</Events.19.Story>
+			<Events.20.Story>Please, let me go!</Events.20.Story>
+			<Events.21.Story>The most important thing being a demon is to be happy yo.</Events.21.Story>
+			<Events.22.Story>Tell you a way that can make me shut up: there ain't. Heh heh heh heh</Events.22.Story>
+			<Events.23.Story>I keep running about thinking away.</Events.23.Story>
+			<Events.24.Story>Come back to see me in two days, and I'll tell you a secret.</Events.24.Story>
+			<Events.25.Story>Am I crazy?</Events.25.Story>
+			<Events.26.Story>I'll tell you a secret....which is, I have no secrets.</Events.26.Story>
+			<Events.27.Story>I had no choice before, but now imma be a good lad.</Events.27.Story>
+			<Events.28.Story>Can't move, my head hurts.</Events.28.Story>
+			<Events.29.Story>Ya ever had hot pot? It tastes real good.</Events.29.Story>
+			<Events.30.Story>Three days later comes another three days, then another three days, over and over.</Events.30.Story>
+		</Text>
+		<Text Name="JGEqupt">
+			<Events.0.Story>No...don't equip me, I want to chill out for a bit longer...</Events.0.Story>
+			<Events.1.Story>You only think of me when you have uses for me?</Events.1.Story>
+			<Events.2.Story>What are you going to do with me again! Can you leave me alone for a moment, please!</Events.2.Story>
+			<Events.3.Story>Wow you still remember me? I'm bored as hell...!!</Events.3.Story>
+			<Events.4.Story>Do you stink?</Events.4.Story>
+			<Events.5.Story>Why bring me with you? Going out? Getting into a fight? Gonna be dropped somewhere else?</Events.5.Story>
+			<Events.6.Story>With all due respect, with your current strength, bringing me wouldn't make much of a difference.</Events.6.Story>
+			<Events.7.Story>Oops, oops, someone's gonna equip me.</Events.7.Story>
+		</Text>
+		<Text Name="JGEqupted">
+			<Events.0.Story>[hename], how can you sweat so much? It's disgusting!</Events.0.Story>
+			<Events.1.Story>[hename], talk to me more, don't just be quiet!</Events.1.Story>
+			<Events.2.Story>[hename], can you do this or not? The previous owner is so much better than you!</Events.2.Story>
+			<Events.3.Story>[hename], can't you keep it steady? The bouncing is killing me.</Events.3.Story>
+			<Events.4.Story>[hename], it's too crowded here in your inventory. Get rid of this guy next to me!</Events.4.Story>
+			<Events.5.Story>[hename], I'll tell you a secret. I'm actually an old grandpa who was sealed inside. Let me go and I'll teach you a super invincible skill.</Events.5.Story>
+			<Events.6.Story>Aaaaah, [hename], look that thing, it's alive! Aaaaaaaah! Why am I alive too!</Events.6.Story>
+			<Events.7.Story>[hename], look up! There's something in the sky!</Events.7.Story>
+			<Events.8.Story>I heard that there is a kind of thing called mount that carries people on their backs. [hename], are you my mount?</Events.8.Story>
+			<Events.9.Story>[hename], help! I can't breathe!! Oh wait, I don't need to breathe.</Events.9.Story>
+			<Events.10.Story>[hename], how about I give you some advice, and you help me reshape?</Events.10.Story>
+			<Events.12.Story>[hename], you must work hard in your cultivation training, I don't want to lose to the pants next door.</Events.12.Story>
+			<Events.13.Story>[hename], think for yourself, why could others do it and why can't you?</Events.13.Story>
+			<Events.14.Story>Doh doh doh doh doh~</Events.14.Story>
+			<Events.15.Story>Dee dee dee dee dee~</Events.15.Story>
+			<Events.16.Story>Da da da da da~</Events.16.Story>
+			<Events.17.Story>[hename], what do you think of the idea of putting me in a warehouse full of treasures?</Events.17.Story>
+			<Events.18.Story>[hename], you are such a noob.</Events.18.Story>
+		</Text>
+		<Text Name="JGBreak">
+			<Events.0.Story>[name] suddenly had a bad feeling about this, and its body moved a little.</Events.0.Story>
+			<Events.1.Story>[name] suddenly felt a bout of chills, and very much want to leave this place...</Events.1.Story>
+		</Text>
+		<Text Name="JGRuin">
+			<Events.0.Story>Have mercy please! Stop it now! No more nonsense!</Events.0.Story>
+			<Events.1.Story>I shall return in another life! Do not expect me to beg for mercy!</Events.1.Story>
+		</Text>
+		<Text Name="JGMoveSelf">
+			<Events.0.Story>Where are you going to put me?</Events.0.Story>
+			<Events.1.Story>Don't touch me, I don't want to change places.</Events.1.Story>
+			<Events.2.Story>Going to a new place again? I guess I'll try to look forward to it...</Events.2.Story>
+			<Events.3.Story>Where are we going again? Could you please stop switching it back and forth...</Events.3.Story>
+			<Events.4.Story>While I'm fine with it, keep moving things around is not good for Feng Shui though...</Events.4.Story>
+			<Events.5.Story>I want a big warehouse!</Events.5.Story>
+		</Text>
+		<Text Name="JGBuildingUse">
+			<Events.0.Story>Your skill sucks, young man!</Events.0.Story>
+			<Events.1.Story>Can't you speed up a little? Watching you work is like torture.</Events.1.Story>
+			<Events.2.Story>You should be ashamed of using me with such low skill! If I had hands, I would have finished it long ago!</Events.2.Story>
+		</Text>
+		<Text Name="JGPlantHarvest">
+			<Events.0.Story>[hename], hey! leave some for me!</Events.0.Story>
+			<Events.1.Story>Be careful, don't break it!</Events.1.Story>
+		</Text>
+		<Text Name="JGInteractive">
+			<Events.0.Story>Hey! [hename], what are you doing to me!?</Events.0.Story>
+			<Events.1.Story>Can you help me scratch my itch?</Events.1.Story>
+			<Events.2.Story>You look so ugly!</Events.2.Story>
+		</Text>
+		<Text Name="JGInjured">
+			<Events.0.Story>Murder! Help!</Events.0.Story>
+			<Events.1.Story>Spare my life, boss! I swear I won't talk too much ever again!</Events.1.Story>
+			<Events.2.Story>Have mercy please! Stop it now! No more nonsense!</Events.2.Story>
+			<Events.3.Story>I shall return in another life! Do not expect me to beg for mercy!</Events.3.Story>
+			<Events.4.Story>Didn't you eat? You're so weak! If I were you, I would stop right now before making a fool of myself!</Events.4.Story>
+		</Text>
+		<Text Name="JGTalkToNpc">
+			<Events.0.Story>[hename], don't go. Talk to me!</Events.0.Story>
+			<Events.1.Story>[hename], why are you in such a hurry? Why not slow down and appreciate the world around you.</Events.1.Story>
+			<Events.2.Story>[hename], there's no need to work so hard. A noob like you wouldn't make much of a difference to the sect anyway.</Events.2.Story>
+			<Events.3.Story>[hename], take me out for a ride!</Events.3.Story>
+			<Events.4.Story>[hename], look at me!</Events.4.Story>
+			<Events.5.Story>[hename]! Come here!</Events.5.Story>
+			<Events.6.Story>[hename], you seem so busy every day. Has the Sect Leader given you a Spirit Stone yet?</Events.6.Story>
+			<Events.7.Story>[hename], left, left, left right left!</Events.7.Story>
+			<Events.8.Story>[hename], run, loneliness is chasing you!</Events.8.Story>
+		</Text>
+	</List>
+</Texts>

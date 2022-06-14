@@ -1,0 +1,72 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Camp">
+			<DisplayName>Faction</DisplayName>
+			<ValuesDesc.0>Friendly</ValuesDesc.0>
+			<ValuesDesc.1>Neutral</ValuesDesc.1>
+			<ValuesDesc.2>Hostile</ValuesDesc.2>
+		</Text>
+		<Text Name="MoveAI">
+			<DisplayName>Movement Mode</DisplayName>
+			<ValuesDesc.0>Standing</ValuesDesc.0>
+			<ValuesDesc.1>Free</ValuesDesc.1>
+			<ValuesDesc.2>Roaming</ValuesDesc.2>
+			<ValuesDesc.3>Fixed Route</ValuesDesc.3>
+		</Text>
+		<Text Name="MoveRoute">
+			<DisplayName>Key for fixed route</DisplayName>
+		</Text>
+		<Text Name="GuradRange">
+			<DisplayName>Alert Range</DisplayName>
+		</Text>
+		<Text Name="IsStepRuning">
+			<DisplayName>Frame Callback</DisplayName>
+			<ValuesDesc.0>No</ValuesDesc.0>
+			<ValuesDesc.1>Yes</ValuesDesc.1>
+		</Text>
+		<Text Name="IsFrameStep">
+			<DisplayName>Callback each frame</DisplayName>
+			<ValuesDesc.0>No</ValuesDesc.0>
+			<ValuesDesc.1>Yes</ValuesDesc.1>
+		</Text>
+		<Text Name="IsRenderRuning">
+			<DisplayName>Render Frame Callback</DisplayName>
+			<ValuesDesc.0>No</ValuesDesc.0>
+			<ValuesDesc.1>Yes</ValuesDesc.1>
+		</Text>
+		<Text Name="IsGod">
+			<DisplayName>Invulnerable or not</DisplayName>
+			<ValuesDesc.0>No</ValuesDesc.0>
+			<ValuesDesc.1>Yes</ValuesDesc.1>
+		</Text>
+		<Text Name="ChouHenLianDong">
+			<DisplayName>Shared hatred of team</DisplayName>
+			<ValuesDesc.0>No</ValuesDesc.0>
+			<ValuesDesc.1>Yes</ValuesDesc.1>
+		</Text>
+		<Text Name="AutoNext">
+			<DisplayName>Beat All Enemies</DisplayName>
+			<ValuesDesc.0>No</ValuesDesc.0>
+			<ValuesDesc.1>Yes</ValuesDesc.1>
+		</Text>
+		<Text Name="PickAndRemove">
+			<DisplayName>Resources exhaustible or not</DisplayName>
+			<ValuesDesc.0>No</ValuesDesc.0>
+			<ValuesDesc.1>Yes</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFog">
+			<DisplayName>Light up fog or not</DisplayName>
+			<ValuesDesc.0>No</ValuesDesc.0>
+			<ValuesDesc.1>Yes</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFogDis">
+			<DisplayName>Range of lit-up fog</DisplayName>
+		</Text>
+		<Text Name="Param1">
+			<DisplayName>Parameter 1 (RpgParam1)</DisplayName>
+		</Text>
+		<Text Name="Param2">
+			<DisplayName>Parameter 2 (RpgParam2)</DisplayName>
+		</Text>
+	</List>
+</Texts>

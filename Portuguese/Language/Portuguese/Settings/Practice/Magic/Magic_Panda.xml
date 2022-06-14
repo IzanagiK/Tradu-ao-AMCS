@@ -1,0 +1,18 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LcSchoolPanda">
+			<DisplayName>Ambassador of Immortals</DisplayName>
+			<Desc>Send it to another sect to improve our relation.</Desc>
+			<sParam2>Panda</sParam2>
+		</Text>
+		<Text Name="PandaLingXi">
+			<DisplayName>Natural Friend</DisplayName>
+			<Desc>Tame a wild animal.</Desc>
+			<TargetDesc>Select a non-ally animal.</TargetDesc>
+		</Text>
+		<Text Name="Magic_YG_RealYinYang">
+			<DisplayName>Origin Force (Mixed)</DisplayName>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the artifact mastery, Qi barrier, and secret body power and endurance. Release the skill again to stop this effect.</Desc>
+		</Text>
+	</List>
+</Texts>

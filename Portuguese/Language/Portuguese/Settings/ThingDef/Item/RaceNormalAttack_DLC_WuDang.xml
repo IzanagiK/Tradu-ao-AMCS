@@ -1,0 +1,18 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="XuanWu_NormalAttack" sParam="Item">
+			<ThingName>Black Tortoise Yin Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Equable Dragon</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Equable Dragon</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Equable Dragon</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Equable Dragon</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="XuanWu_NormalAttack2" sParam="Item">
+			<ThingName>Black Tortoise Yang Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Fervent Dragon</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Fervent Dragon</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Fervent Dragon</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Fervent Dragon</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+	</List>
+</Texts>

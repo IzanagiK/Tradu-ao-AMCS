@@ -1,0 +1,95 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Cooking">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather]. While cooking [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. While cooking [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. While cooking [obj], [name] suddenly took an interest in the nearby [obj_nearthing].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. While cooking [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. While silently cooking [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when cooking [obj] alone.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. While cooking [obj], [name] suddenly started to cry.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. While cooking [obj], [name] suddenly felt anxious.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. While cooking [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] still did their best to make [obj].</Events.10.Story>
+			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while cooking [obj].</Events.11.Story>
+		</Text>
+		<Text Name="CookingFailed">
+			<Events.1.Story>[name] tasted the [obj] homemade by themselves, and almost threw up. It was disgustingly terrible.</Events.1.Story>
+			<Events.2.Story>While making [obj], [name] accidentally added all the salt in the container. What a surprise!</Events.2.Story>
+			<Events.3.Story>While making [obj], [name]'s mind wandered and after they finally snapped back to reality, the food was already a burnt mess.</Events.3.Story>
+			<Events.4.Story>Their mood being affected by [obj_badmood], [name] made a mess out of [obj].</Events.4.Story>
+			<Events.5.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while cooking [obj]; they got carried away and made a mess out of [obj].</Events.5.Story>
+		</Text>
+		<Text Name="CookingSucceed">
+			<Events.1.Story>[name] felt very satisfied, looking at the [obj] homemade by themselves.</Events.1.Story>
+			<Events.2.Story>[name] looked at the [obj] homemade by themselves, and couldn't help but tasting it first; it was incredibly delicious!</Events.2.Story>
+			<Events.3.Story>Despite their mood being affected by [obj_badmood], [name] still made a delicious meal out of [obj].</Events.3.Story>
+			<Events.4.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while cooking [obj]; of course, [obj] turned out to be even more delicious.</Events.4.Story>
+		</Text>
+		<Text Name="DrugProduct">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather]. [name] is feeling homesick when making [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name]'s mind started drifting toward [obj_friend] when making [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when making [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly wanted to eat [obj_food] when making [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently making [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when making [obj] alone.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started to cry when making [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt anxious when making [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when making [obj].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] still did their best to make [obj].</Events.10.Story>
+			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while making [obj].</Events.11.Story>
+		</Text>
+		<Text Name="Handwork">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] is feeling homesick when making [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name]'s mind started drifting toward [obj_friend] when making [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when making [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly wanted to eat [obj_food] when making [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently making [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when making [obj] alone.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started to cry when making [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt anxious when making [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when making [obj].</Events.10.Story>
+			<Events.11.Story>Despite their mood being affected by [obj_badmood], [name] still did their best to make [obj].</Events.11.Story>
+			<Events.12.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while making [obj].</Events.12.Story>
+		</Text>
+		<Text Name="Smithing">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] is feeling homesick when forging [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name]'s mind started drifting toward [obj_friend] when forging [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when forging [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly wanted to eat [obj_food] when forging [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently forging [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when forging [obj] alone.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started to cry when forging [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt anxious when forging [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when forging [obj].</Events.10.Story>
+			<Events.11.Story>Despite their mood being affected by [obj_badmood], [name] still did their best to make [obj].</Events.11.Story>
+			<Events.12.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while forging [obj].</Events.12.Story>
+		</Text>
+		<Text Name="StoneWork">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather]. [name] is feeling homesick when polishing [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name]'s mind started drifting toward [obj_friend] when polishing [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when polishing [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly wanted to eat [obj_food] when polishing [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently polishing [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when polishing [obj] alone.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started to cry when polishing [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt anxious when polishing [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when polishing [obj].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] still did their best to make [obj].</Events.10.Story>
+			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while polishing [obj].</Events.11.Story>
+		</Text>
+		<Text Name="Sew">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] is feeling homesick when sewing [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name]'s mind started drifting toward [obj_friend] when sewing [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when sewing [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly wanted to eat [obj_food] when sewing [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently sewing [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when sewing [obj] alone.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly started to cry when sewing [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt anxious when sewing [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when sewing [obj].</Events.10.Story>
+			<Events.11.Story>Despite their mood being affected by [obj_badmood], [name] still did their best to make [obj].</Events.11.Story>
+			<Events.12.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while sewing [obj].</Events.12.Story>
+		</Text>
+	</List>
+</Texts>

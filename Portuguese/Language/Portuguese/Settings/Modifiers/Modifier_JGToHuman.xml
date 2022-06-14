@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FoodToHuman">
+			<DisplayName>Sentient Food Spirit</DisplayName>
+			<Desc>Naturally possesses high Qi Absorption capabilities.</Desc>
+		</Text>
+		<Text Name="LingStoneToHuman">
+			<DisplayName>Sentient Stone Spirit</DisplayName>
+			<Desc>Naturally possesses high Base Qi.</Desc>
+		</Text>
+		<Text Name="FabaoToHuman">
+			<DisplayName>Sentient Artifact Spirit</DisplayName>
+			<Desc>Naturally possesses high artifact Qi recovery rate and conversion ratio.</Desc>
+		</Text>
+		<Text Name="DanToHuman">
+			<DisplayName>Sentient Elixir</DisplayName>
+			<Desc>There won't be any medicine tolerance produced the next time that you take a pill.</Desc>
+		</Text>
+		<Text Name="PlantToHuman">
+			<DisplayName>Self Growth</DisplayName>
+			<Desc>Continues to grow slowly every day.</Desc>
+		</Text>
+		<Text Name="BuildToHuman">
+			<DisplayName>Self-repairing</DisplayName>
+			<Desc>Repairing Progress: {0}\n When the repairing progress reaches 100, all the lost limbs will be restored and the progress will return to zero.</Desc>
+		</Text>
+	</List>
+</Texts>

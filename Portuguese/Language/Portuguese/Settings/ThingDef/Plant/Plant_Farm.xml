@@ -1,0 +1,20 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Wheat" sParam="Plant">
+			<ThingName>Wheat</ThingName>
+			<Desc>Main source of food. Despite a long growth period, it is resilient and can grow in a temperature between [temperature]0[/temperature]-[temperature]40[/temperature], and grants a hefty yield to boot.</Desc>
+		</Text>
+		<Text Name="Healroot" sParam="Plant">
+			<ThingName>Herb</ThingName>
+			<Desc>The most common and basic medicine. Can be processed and refined into other kinds of medicine. Can only grow in a temperature between [temperature]10[/temperature]-[temperature]40[/temperature].</Desc>
+		</Text>
+		<Text Name="Cotton" sParam="Plant">
+			<ThingName>Cotton</ThingName>
+			<Desc>Main source for the manufacture of fabrics. Suitable to grow in a temperature between [temperature]5[/temperature]-[temperature]35[/temperature]. Can also be obtained during an adventure to Mt. Barren.</Desc>
+		</Text>
+		<Text Name="Mushroom" sParam="Plant">
+			<ThingName>Mushroom</ThingName>
+			<Desc>Common mushroom. Often grows in an environment of [temperature]18[/temperature]-[temperature]23[/temperature], and can only grow in the dark.</Desc>
+		</Text>
+	</List>
+</Texts>

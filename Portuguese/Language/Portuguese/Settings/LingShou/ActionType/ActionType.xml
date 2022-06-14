@@ -1,0 +1,40 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Rest">
+			<Desc>Rest</Desc>
+			<Tip>Sleeping recovers Energy.</Tip>
+		</Text>
+		<Text Name="Eat">
+			<Desc>Eat</Desc>
+			<Tip>Eating Food: once in the Learning Stage, you can select food in the panel.</Tip>
+		</Text>
+		<Text Name="Fun">
+			<Desc>Leisure</Desc>
+			<Tip>Increase leisure. Different behaviors' increasing rate will vary.</Tip>
+		</Text>
+		<Text Name="Shit">
+			<Desc>Defecate</Desc>
+			<Tip>Defecation is possible in different places.</Tip>
+		</Text>
+		<Text Name="Attack">
+			<Desc>Attack</Desc>
+			<Tip>Attack all types of characters.</Tip>
+		</Text>
+		<Text Name="Help">
+			<Desc>Help</Desc>
+			<Tip>Help Inner Disciples or Outer Disciples.</Tip>
+		</Text>
+		<Text Name="HighHelp">
+			<Desc>Advanced Help</Desc>
+			<Tip>Assist with Practice. Requires 80 Intelligence to unlock.</Tip>
+		</Text>
+		<Text Name="Carry">
+			<Desc>Haul Characters</Desc>
+			<Tip>Haul unconscious or deceased characters. Requires 50 Intelligence to unlock.</Tip>
+		</Text>
+		<Text Name="Train">
+			<Desc>Exercise</Desc>
+			<Tip>Exercise raises all Stats and the effects of it can be improved with food and drink. The greater the effects of the food and drink consumed, the greater the results of training will be. Must reach Learning Stage to unlock.</Tip>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,36 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Grass" sParam="Plant">
+			<ThingName>Grass</ThingName>
+			<Desc>Wild grass.</Desc>
+		</Text>
+		<Text Name="IceGrass" sParam="Plant">
+			<ThingName>Icegrass</ThingName>
+			<Desc>Wild grass that grow on ice plains.</Desc>
+		</Text>
+		<Text Name="Reed" sParam="Plant">
+			<ThingName>Reed</ThingName>
+			<Desc>Plant growing by lake or river, having aesthetic value.</Desc>
+		</Text>
+		<Text Name="LongGrass" sParam="Plant">
+			<ThingName>Long Grass</ThingName>
+			<Desc>Wild grass.</Desc>
+		</Text>
+		<Text Name="Raspberry" sParam="Plant">
+			<ThingName>Amber Fruit</ThingName>
+			<Desc>Wild fruit watered by dragon saliva. It has a special spiritual effect, preventing you from feeling hungry or exhausted for half a day after eating it. However, the fruits rot quickly once they are harvested.</Desc>
+		</Text>
+		<Text Name="Lotus" sParam="Plant">
+			<ThingName>Lotus</ThingName>
+			<Desc>Plant growing in water, having aesthetic value. Its root is edible.</Desc>
+		</Text>
+		<Text Name="LittleRock" sParam="Plant">
+			<ThingName>Little Rock</ThingName>
+			<Desc>Little rocks scattered on the ground.</Desc>
+		</Text>
+		<Text Name="IceLittleRock" sParam="Plant">
+			<ThingName>Small Icerock</ThingName>
+			<Desc>Little rocks scattered on the ground.</Desc>
+		</Text>
+	</List>
+</Texts>

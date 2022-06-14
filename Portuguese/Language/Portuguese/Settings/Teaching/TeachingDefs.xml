@@ -1,0 +1,1591 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FristTeach">
+			<Type>Prologue</Type>
+			<DisplayName>Prologue</DisplayName>
+			<Desc>Taiyi Sect, Mt. FullMoon. The year is coming to an end and the sect leader has retreated into complete isolation in order to practice and reach the Golden Core state. But as for the rest of the sect, they are already in full celebration.\n[color=#BC1717](Unlock Classic by completing the prologue tutorial.)[/color]</Desc>
+		</Text>
+		<Text Name="TestTeach">
+			<DisplayName>Test Tutorial</DisplayName>
+			<Desc>Test Tutorial</Desc>
+			<Chapters.0.DisplayName>Lumber Collection</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Use a Chop Order</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Issue Chop on a Target</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Hotkey for Chop &amp; Chop in Batch</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Material Processing</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Create a Workstation</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Process Materials</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Material Processing</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Create a Workstation</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Process Materials</Chapters.2.Tasks.1>
+			<Chapters.3.DisplayName>Material Processing</Chapters.3.DisplayName>
+			<Chapters.3.Tasks.0>Create a Workstation</Chapters.3.Tasks.0>
+			<Chapters.3.Tasks.1>Process Materials</Chapters.3.Tasks.1>
+			<Tasks.0.TaskDesc>Click and select another inner disciple.</Tasks.0.TaskDesc>
+			<Tasks.1.TaskDesc>Check the miracle 'Panacea' in the right side of Status. Panacea cures inner injuries.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Click Panacea.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Click and select an injured inner disciple.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Wait until the miracle is complete.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Click an injured inner disciple.</Tasks.8.TaskDesc>
+		</Text>
+		<Text Name="CollectionAndProcessing">
+			<Type>Basic</Type>
+			<DisplayName>Material Acquisition and Processing</DisplayName>
+			<Desc>Learn basic material acquisition and processing in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Lumber Collection</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Use a Chop order</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Issue Chop on a Target</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Hotkey for Chop &amp; Chop in Batch</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Material Processing</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Create a workstation</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Process Materials</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Click Chop to select a target.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click the target tree and issue a Chop order.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Right-click to cancel the selection mode.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Wait until chopping is complete.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Click and select another tree to show its status below.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click Chop and begin chopping down the tree.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Chop</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Wait until chopping is complete.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>The player can place the cursor on Chop to see its hotkey.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Use the hotkey {0} to quickly access Chop.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Drag and select a target area to issue Chop in batch.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Wait until chopping is complete.</Tasks.18.TaskDesc>
+			<Tasks.20.TipsData.Desc>The tutorial uses lumber collection as an example, and other materials such as ores, metal, food, etc. are collected in a similar way, which the player will experience in the game.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TaskDesc>Click Build in the bottom left corner to open the Build page.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Click Work to open the Work Buildings page.</Tasks.23.TaskDesc>
+			<Tasks.23.UiData.Name>Work</Tasks.23.UiData.Name>
+			<Tasks.24.TaskDesc>Click Workstation to begin the placing mode.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Place the workstation at the designated location.</Tasks.25.TaskDesc>
+			<Tasks.28.TaskDesc>Select a workstation to show its status below.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Click Produce to begin making products.</Tasks.29.TaskDesc>
+			<Tasks.29.UiData.Name>Produce</Tasks.29.UiData.Name>
+			<Tasks.30.TaskDesc>Click Timber to add it to the production list.</Tasks.30.TaskDesc>
+			<Tasks.30.UiData.Name>Timber</Tasks.30.UiData.Name>
+			<Tasks.31.TaskDesc>Click Loop to select how many times in the drop-down list.</Tasks.31.TaskDesc>
+			<Tasks.31.UiData.ParentObject>Plist-Timber</Tasks.31.UiData.ParentObject>
+			<Tasks.32.TaskDesc>Click Loop 10x</Tasks.32.TaskDesc>
+			<Tasks.32.UiData.Name>Loop 10x</Tasks.32.UiData.Name>
+			<Tasks.33.TaskDesc>Click Close to close the Produce page.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Wait until the production is complete.</Tasks.34.TaskDesc>
+			<Tasks.36.TipsData.Desc>Material processing is normally done in corresponding buildings, and Workstation in this tutorial is only the basic material processing station. As the game progresses, the player will unlock more specific material processing stations such as Wood Processing Station, Stone Processing Station, Furnace, etc. for more efficient material processing.</Tasks.36.TipsData.Desc>
+		</Text>
+		<Text Name="BuildRoom">
+			<Type>Basic</Type>
+			<DisplayName>Room Construction</DisplayName>
+			<Desc>Learn basic room construction in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Room Planning</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Construct a Room</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Set an Entrance for the Room</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Place Furniture</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Place Decorations</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Wait until the construction is complete.</Chapters.0.Tasks.4>
+			<Chapters.1.DisplayName>Room Arrangement &amp; Related Stats</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Select a Resident</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check Room Stats</Chapters.1.Tasks.1>
+			<Tasks.1.TipsData.Desc>We have enough resources, now let's use them to build a room for characters to live in.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Click Build in the bottom left corner to open the Build page.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Click Wall to begin the placing mode.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Drag and place the wall at the designated location.</Tasks.4.TaskDesc>
+			<Tasks.7.TaskDesc>Click Door to begin the placing mode.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Place the door at the designated location.</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>Click Life to open the Life Buildings page.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Life</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Click Bed to begin the placing mode.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Place the bed at the designated location.</Tasks.13.TaskDesc>
+			<Tasks.16.TaskDesc>Click Decoration to open the Decorative Buildings page.</Tasks.16.TaskDesc>
+			<Tasks.16.UiData.Name>Decoration</Tasks.16.UiData.Name>
+			<Tasks.17.TaskDesc>Click Oil Lamp to begin the placing mode.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Place the Oil Lamp at the designated location.</Tasks.18.TaskDesc>
+			<Tasks.22.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.22.TaskDesc>
+			<Tasks.24.TaskDesc>Wait until the construction is complete.</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>After the tutorial for room planning, the player can plan other rooms according to their needs, but remember that the largest size of a room is 400 and the smallest is 3.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Click the bed in the room.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Click to assign ownership.</Tasks.29.TaskDesc>
+			<Tasks.29.UiData.Name>Assign</Tasks.29.UiData.Name>
+			<Tasks.30.TaskDesc>Click the first character and arrange the bed for him.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Confirm the arrangement.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Select the room by clicking the empty area in it.</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>The player can use this to name the room.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TipsData.Desc>The player can use this to check the current temperature in the room.</Tasks.35.TipsData.Desc>
+			<Tasks.36.TipsData.Desc>The player can use this to check the effect of the room.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TipsData.Desc>The player can use this to check the layout of the room.</Tasks.37.TipsData.Desc>
+			<Tasks.38.TipsData.Desc>The player can use this to check the attractiveness of the room.</Tasks.38.TipsData.Desc>
+			<Tasks.39.TipsData.Desc>Having a room is one of the most basic needs for disciples. It is important to provide a comfortable room for disciples.</Tasks.39.TipsData.Desc>
+		</Text>
+		<Text Name="ExploreMap">
+			<Type>Basic</Type>
+			<DisplayName>Exploration</DisplayName>
+			<Desc>Learn basic exploration in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>First Exploration</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Issue an Explore Order</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Inspect the Creature and Box Found</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Second Exploration</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Use the Hotkey for Explore</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Inspect the Soil and Ores Found</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Third Exploration</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Keep Exploring</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Inspect the Plant Found</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Click the Explore button in the bottom menu.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click the fogged in the bottom left corner to issue an Explore task.</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Wait until the exploration is complete.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Click the cargo box found in the exploration.</Tasks.9.TaskDesc>
+			<Tasks.10.TipsData.Desc>Resources are found during exploration. Open them using the interactive button.</Tasks.10.TipsData.Desc>
+			<Tasks.10.TipsData.Name>Search</Tasks.10.TipsData.Name>
+			<Tasks.11.TaskDesc>Click the rabbit found in the exploration.</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Some wild animal is found. Hunt or tame it to obtain resources.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TipsData.Desc>Useful resources and animals can be found during exploration. The player can acquire these resources in the early stages and the animals can be used to hunt or farm.</Tasks.14.TipsData.Desc>
+			<Tasks.16.TaskDesc>Place the cursor on Hunt to see its hotkey.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Use the hotkey {0} to quickly access Explore.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Click the fogged area in the top right corner to issue an Explore task.</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Wait until the exploration is complete.</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>Click the ore vein found in the exploration.</Tasks.22.TaskDesc>
+			<Tasks.23.TipsData.Desc>A vein of rare ores is found, which can be collected if needed.</Tasks.23.TipsData.Desc>
+			<Tasks.24.TaskDesc>Place the cursor on the newly discovered soil to check the info.</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>This is a fertile soil that can be used for farming.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TipsData.Desc>Ore veins and fertile soils can be found during exploration. The player can use them for mining and farming if needed.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TaskDesc>Use the hotkey {0} to quickly access Explore.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Click the fogged area in the top left corner to issue an Explore task.</Tasks.30.TaskDesc>
+			<Tasks.32.TaskDesc>Wait until the exploration is complete.</Tasks.32.TaskDesc>
+			<Tasks.35.TaskDesc>Click the giant ginkgo found in the exploration.</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>Giant ginkgo is not only beautiful but can also gather Qi. It is a helpful and rare resource for the early stage of training.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TaskDesc>Click the lotus found in the exploration.</Tasks.37.TaskDesc>
+			<Tasks.38.TipsData.Desc>In the early stages, lotus is an affordable resource for food.</Tasks.38.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>The player can use Explore to gradually search all the areas in the map and discover new resources, soils, animals, etc.</Tasks.40.TipsData.Desc>
+		</Text>
+		<Text Name="BaseSave">
+			<Type>Basic</Type>
+			<DisplayName>Basic Survival</DisplayName>
+			<Desc>Learn basic survival in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Obtain Water</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Build Wells</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>How to Hunt</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Use Hunt Order in Character Menu</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Use Hunt Order in Prey's Menu</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Use the Hotkey for Hunt</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>How to Farm</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Select a Field</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Select Crops</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click Work to open the Work Buildings page.</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Work</Tasks.2.UiData.Name>
+			<Tasks.3.TaskDesc>Click Well.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Place the well at the designated location.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Wait until the construction is complete.</Tasks.6.TaskDesc>
+			<Tasks.8.TipsData.Desc>Wells can provide a source of clean water for characters. Water can also be stored in a water vat for contingencies.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Click Hunt in the bottom menu.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Click the hen in the top right corner to hunt it.</Tasks.11.TaskDesc>
+			<Tasks.14.TaskDesc>Click the rabbit nearby.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Click to select an animal to be Hunted.</Tasks.15.TaskDesc>
+			<Tasks.15.UiData.Name>Hunt</Tasks.15.UiData.Name>
+			<Tasks.17.TaskDesc>Place the cursor on Explore to see its hotkey.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Use the hotkey {0} to quickly access Hunt.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Drag and select a target area to issue Hunt in batch.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Wait until hunting is complete.</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>Use Hunt to quickly obtain food. But the number of animals is limited and their breeding rate is slow, so farming is necessary for constant resources of food.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Click the Area page.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>Area</Tasks.28.UiData.Name>
+			<Tasks.29.TaskDesc>Click Field.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Select a field in the designated fertile soil.</Tasks.30.TaskDesc>
+			<Tasks.33.TaskDesc>Select the field.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Click the interactive button Grow Plants.</Tasks.34.TaskDesc>
+			<Tasks.34.UiData.Name>Grow Plants</Tasks.34.UiData.Name>
+			<Tasks.35.TaskDesc>The player can place the cursor on Wheat to see the info on planting wheat.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>The player can place the cursor on Mushroom to see the info on planting mushroom.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Select Wheat to plant.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>There are many kinds of food in the game. Not only can crops grow in soil, they can also grow in water.</Tasks.39.TipsData.Desc>
+		</Text>
+		<Text Name="StrongArea">
+			<Type>Basic</Type>
+			<DisplayName>Storage Planning</DisplayName>
+			<Desc>Learn basic storage planning in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Plan the First Storage</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Select a Storage</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Filter</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Plan the Second Storage</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Plan a Storage</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Filter</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Set a Low Temperature Storage</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Check Temperature of Storage</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Place a Temperature-lowering Item</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Check Temperature of Storage Again</Chapters.2.Tasks.2>
+			<Tasks.1.TipsData.Desc>Different resources are located in different areas, and as their number increases, it will be inconvenient for the player to access them, so storage is used to categorize and manage resources.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TipsData.Desc>First, let's plan an area for materials and tools in the middle, so it will be easy to access them as your sect expands to all directions.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Click the Area page.</Tasks.4.TaskDesc>
+			<Tasks.4.UiData.Name>Area</Tasks.4.UiData.Name>
+			<Tasks.5.TaskDesc>Click Storage to begin storage planning.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Select a storage in the designated area.</Tasks.6.TaskDesc>
+			<Tasks.9.TaskDesc>Select the storage.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Click Filter in the menu to open the Filter page.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Filter</Tasks.10.UiData.Name>
+			<Tasks.11.TipsData.Desc>Filter can be used to plan a detailed storage that allows items to be stored according to their type, elemental attribute, tier and quality. Remember, when multiple storages are put together, the filter of a single storage will not be applied to the others.</Tasks.11.TipsData.Desc>
+			<Tasks.12.TaskDesc>Click Consumable to leave out all consumables.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Click the close button to close the page.</Tasks.13.TaskDesc>
+			<Tasks.15.TipsData.Desc>Some resources will spoil as time progresses, so we need a low temperature storage for this type of resources.</Tasks.15.TipsData.Desc>
+			<Tasks.17.TipsData.Desc>Next, we will plan a storage area for food near the kitchen for more efficient access while cooking, and a closed room helps to adjust the temperature for better storage of food.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Click the Area page.</Tasks.19.TaskDesc>
+			<Tasks.19.UiData.Name>Area</Tasks.19.UiData.Name>
+			<Tasks.20.TaskDesc>Click Storage to begin storage planning.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Drag and select a storage in the designated area.</Tasks.21.TaskDesc>
+			<Tasks.24.TaskDesc>Select the storage.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Click Filter in the bottom menu to open the Filter page.</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>Filter</Tasks.25.UiData.Name>
+			<Tasks.26.TaskDesc>Click Tool to leave out all tools.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Click Misc. to leave out miscellaneous resources.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Click Material to leave out all materials.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Click Equipment to leave out all equipment.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Click Cultivation to leave out cultivation-related resources.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Click the close button to close the page.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.32.TaskDesc>
+			<Tasks.34.TaskDesc>After a while, the disciples will store the items according to their category.</Tasks.34.TaskDesc>
+			<Tasks.36.TipsData.Desc>Once there are too many items in store, the player can expand and plan other storages for more detailed management and easier access to the info of resources.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TaskDesc>Double click to select the room for Storage 2.</Tasks.38.TaskDesc>
+			<Tasks.39.TipsData.Desc>Because a room is a closed area, room temperature can be adjusted by placing a source of heat.</Tasks.39.TipsData.Desc>
+			<Tasks.41.TaskDesc>Select a Display.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Click Place.</Tasks.42.TaskDesc>
+			<Tasks.42.UiData.Name>Place Item</Tasks.42.UiData.Name>
+			<Tasks.43.TaskDesc>Click Ice Crystal Ore.</Tasks.43.TaskDesc>
+			<Tasks.44.TaskDesc>Select another Display.</Tasks.44.TaskDesc>
+			<Tasks.45.TaskDesc>Click Place.</Tasks.45.TaskDesc>
+			<Tasks.45.UiData.Name>Place Item</Tasks.45.UiData.Name>
+			<Tasks.46.TaskDesc>Click Ice Crystal Ore.</Tasks.46.TaskDesc>
+			<Tasks.47.TaskDesc>Wait for them to be placed.</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.48.TaskDesc>
+			<Tasks.51.TaskDesc>Double click to select the room for Storage 2.</Tasks.51.TaskDesc>
+			<Tasks.52.TaskDesc>Wait 10 seconds to see the change in room temperature.</Tasks.52.TaskDesc>
+			<Tasks.53.TipsData.Desc>The room temperature is down. A larger room's temperature will be more difficult to adjust and requires more sources of heat to rise.</Tasks.53.TipsData.Desc>
+			<Tasks.55.TipsData.Desc>Now we've secured food and other materials in separate storages. As the game progresses, it may require more detailed categorization, which can be realized by Filter.</Tasks.55.TipsData.Desc>
+		</Text>
+		<Text Name="MemberExpansion">
+			<Type>Basic</Type>
+			<DisplayName>Expanding</DisplayName>
+			<Desc>Learn basic expanding in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Accept a New Member</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check the Event for Refugees</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Issue an Accept Order</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Arrange Work for the New Member</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Assign a Suitable Job</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Provide Tools</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Equip Tools</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Meet the New Member's Needs</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Inspect Needs</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Select a Bed and Room</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Wait for the event for accepting refugees to pop up.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click Confirm.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>In the game, there will be refugees asking to join the sect. It is a good opportunity for expansion, but growing too fast will put pressure on infrastructure and food provision, so please consider carefully.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Select the refugee.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Click Accept in the character's menu.</Tasks.6.TaskDesc>
+			<Tasks.6.UiData.Name>Accept</Tasks.6.UiData.Name>
+			<Tasks.7.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Wait until your people accept this character.</Tasks.9.TaskDesc>
+			<Tasks.11.TipsData.Desc>You've gained a new character. Each character excels at a type of work. Open the Work Schedule menu and arrange suitable work for each character.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Click to open the Work Schedule menu.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Move the cursor to a type of work to see every character's ability to perform it and try to pick the character most suitable for the job.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Because the first character has the best ability to be a healer, click the third character's healer position to cancel it.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Because the third character has the best ability to be a miner, click the first character's miner position to cancel it.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Close this page.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>You've assigned work for the characters, and providing a suitable tool can greatly improve their work efficiency.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Select a work place to show its status below.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Click Produce.</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Produce</Tasks.21.UiData.Name>
+			<Tasks.22.TaskDesc>Make a pickaxe.</Tasks.22.TaskDesc>
+			<Tasks.22.UiData.Name>Pickaxe</Tasks.22.UiData.Name>
+			<Tasks.23.TaskDesc>Close the Produce page.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Wait until the production is complete.</Tasks.24.TaskDesc>
+			<Tasks.26.TaskDesc>Select a character that needs the pickaxe.</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Click the interactive button Equip.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>Equip</Tasks.28.UiData.Name>
+			<Tasks.29.TaskDesc>Click Pickaxe.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Wait until the character equips the pickaxe.</Tasks.30.TaskDesc>
+			<Tasks.32.TipsData.Desc>Assigning a suitable job to a new disciple helps improve work efficiency for the whole sect. When arranging different jobs, different tools should be provided to disciples to increase their individual efficiency.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TipsData.Desc>If a character's needs are not met, their moods will be negatively affected, which lowers their work efficiency and even makes them slack in work. Now let's see what the new character needs.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Select the new character.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Click the Mood menu.</Tasks.36.TaskDesc>
+			<Tasks.37.TipsData.Desc>The character needs a room. Arrange a spare room for him.</Tasks.37.TipsData.Desc>
+			<Tasks.37.TipsData.Name>Room Needed</Tasks.37.TipsData.Name>
+			<Tasks.39.TaskDesc>Click the bed in the room.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Click to assign ownership.</Tasks.40.TaskDesc>
+			<Tasks.40.UiData.Name>Assign</Tasks.40.UiData.Name>
+			<Tasks.41.TaskDesc>Click the first character and arrange the bed for him.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Confirm the arrangement.</Tasks.42.TaskDesc>
+			<Tasks.44.TipsData.Desc>Pay careful attention to the characters' moods and satisfy their needs to ensure that the sect runs more efficiently. Besides waiting for refugees to join, the player can send inner disciples out to find new characters to join or participate in special events to recruit new disciples after establishing the sect. The player can explore these advanced contents while playing the game.</Tasks.44.TipsData.Desc>
+		</Text>
+		<Text Name="Treatment">
+			<Type>Basic</Type>
+			<DisplayName>Healing for Outer Disciples</DisplayName>
+			<Desc>Learn basic healing in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Making and Storage of Medicine</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Medical Supplies</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Arrange a Healer</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Make Medicine</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Heal an Injured Disciple</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Inspect the Injury</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Set Special Priority</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Inspect the Injury Again</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Click to open the list of medicine.</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>Each medicine in the game has its own effect, for example, Healing Balm treats wounds, Bone Healing Balm treats bone fractures, Healing Pill treats internal organs, etc. When the medical supplies are insufficient, injured disciples might not be treated in time, so please pay close attention to the storage of medicine.</Tasks.2.TipsData.Desc>
+			<Tasks.4.TaskDesc>Click to open the Work Schedule menu.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>The player can place the cursor on the position Healer to see its requirements for related skills and other relevant work.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Because the second disciple has the best ability to be a healer, select the disciple to be a healer and click to activate.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Close this page.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Click the medicine table.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Click the interactive button Produce on the table.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Produce</Tasks.10.UiData.Name>
+			<Tasks.11.TaskDesc>The player can place the cursor on Healing Balm to see the instruction and its effect.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Healing Balm</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Click to make a Healing Balm.</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>Healing Balm</Tasks.12.UiData.Name>
+			<Tasks.13.TaskDesc>Click to close the Produce page on the table.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Wait until the Healing Balm is made.</Tasks.16.TaskDesc>
+			<Tasks.18.TipsData.Desc>There are not many herbs in the wild, so the player can plan a herb garden in advance to ensure a steady supply of herbs.</Tasks.18.TipsData.Desc>
+			<Tasks.21.TaskDesc>Click the notification of injury in the left.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Click the Health button in the right side of the injured character's menu.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>The player can place the cursor in the area of Infection to inspect the injury.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>The player can place the cursor in the Thighbone area to inspect the injured part and the effect of the injury.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Click to close the Health menu.</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Click to open the Work Schedule menu.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Click and activate the position Healer.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Click Top Priority to open the drop-down list.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Click Healer to set the position as top priority.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Close this page.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Wait until healing is complete.</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>When a disciple set as the healer is injured, it is possible that no character will treat the disciple. The player can assign the healer's job to another disciple and adjust the work schedule and priority, or interrupt any disciple's current action, in order to treat the injured disciple.</Tasks.34.TipsData.Desc>
+			<Tasks.36.TaskDesc>Click and select an injured disciple.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Click the Health button in the right side of the Character Menu.</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>We can see that the injury is healing, which means the disciple has been effectively treated.</Tasks.38.TaskDesc>
+			<Tasks.40.TipsData.Desc>There are other items in the game that improve healing effects, such as talismans and acupuncture, waiting for the player to explore.</Tasks.40.TipsData.Desc>
+		</Text>
+		<Text Name="ZhuJi">
+			<Type>Cultivation</Type>
+			<DisplayName>Foundation Training</DisplayName>
+			<Desc>Learn the methods and meaning of foundation training for outer disciples in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>The Meaning of Foundation Training</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Foundation Training</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Foundation Training</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Activate Work Hard</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Arrange a Training Plan</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Set a Training Spot</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Wait Until Disciple Begins Training</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Other Methods to Improve Foundation</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Inspect Bear Gall</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Check Foundation</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Eat Bear Gall</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Check Foundation</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Click any NPC.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>As shown in the image, if an outer disciple skips their daily training routine, their foundation will be reduced by 1k. Even a disciple who has completed their foundation training is no exception.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>An outer disciple's foundation training is only complete when their foundation reaches 25k. This is the foremost requirement to becoming an inner disciple.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Click to activate Work Hard.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Click to open the Work Schedule menu.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Click 8: Work in the Time Table.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Set it to Training.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Click 9: Work in the Time Table.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Set it to Training.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Close this page.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Click Build in the bottom left corner to open the Build page.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Click Sect to open the Sect Buildings page.</Tasks.18.TaskDesc>
+			<Tasks.18.UiData.Name>Sect</Tasks.18.UiData.Name>
+			<Tasks.19.TaskDesc>Click Training Spot</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Place the training spot at the designated location.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Right-click.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Click 2x Speed in the top left to accelerate the game.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Wait until the outer disciple enters the training spot and begins training.</Tasks.25.TaskDesc>
+			<Tasks.27.TipsData.Desc>The player can arrange and adjust the time table for outer disciples' training to ensure that they follow their daily training routine. An outer disciple who has activated Work Hard will train outside of their daily work. Disciples with certain tags can gain foundation faster.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TaskDesc>The player can place the cursor on Bear Gall to see the Foundation provided by it.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Click any NPC.</Tasks.31.TaskDesc>
+			<Tasks.32.TipsData.Desc>The player can use the Status menu in the bottom at anytime to quickly access information on an outer disciple's foundation and adjust their training strategy.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TaskDesc>Click the Eat button in the menu below the character.</Tasks.34.TaskDesc>
+			<Tasks.34.UiData.Name>Eat</Tasks.34.UiData.Name>
+			<Tasks.35.TaskDesc>Click to select Bear Gall for the disciple to eat.</Tasks.35.TaskDesc>
+			<Tasks.37.TaskDesc>Wait until Bear Gall is eaten.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>This disciple has quickly gained a lot of foundation by eating Bear Gall.</Tasks.39.TipsData.Desc>
+			<Tasks.41.TipsData.Desc>Items like pills and elixirs can also be eaten to quickly gain a lot of foundation, and there are also other ways to accelerate foundation training, waiting for the player to explore.</Tasks.41.TipsData.Desc>
+		</Text>
+		<Text Name="GongSelect">
+			<Type>Cultivation</Type>
+			<DisplayName>Law Selection &amp; Training Mode</DisplayName>
+			<Desc>Learn how to select a suitable Law, the meaning of Law matching, how to study from a master and several common training modes in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Law Matching &amp; Selection</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Tian Wan's Law Matching</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Zhongli Shu's Law Matching</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Choose Law to Become Inner Disciple</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Why Should Disciples Have a Master</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Select a Master</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check a Master</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Different Training Modes</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Check the Auto Mode</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Check the Practice Mode</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Check the Seek Peace Mode</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Check the Training Mode</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Click the notification for completed foundation training in the left.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Click the Promote button in the disciple's Status below.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Promote</Tasks.3.UiData.Name>
+			<Tasks.5.TipsData.Desc>This disciple is not suitable for the current Law, please check if another disciple matches the Law.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Click to close the Choose Law menu.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Click and select another outer disciple.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click the Promote button in the disciple's Status below.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Promote</Tasks.9.UiData.Name>
+			<Tasks.11.TipsData.Desc>The player can use the Law Matching chart to see if a disciple is suitable to practice the Law. The higher a disciple's Five Attributes are, the better they will match the Law, so different disciples may have different matching Laws.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Click Choose Law.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Click Yes.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Click 2x Speed in the top left to accelerate the game.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Wait until the disciple is promoted.</Tasks.17.TaskDesc>
+			<Tasks.19.TipsData.Desc>Once a Law is selected, it cannot be changed or canceled, so how well a Law matches will have a large influence on the disciple's future practice.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TaskDesc>Click Mentor in the Status menu.</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Mentor</Tasks.21.UiData.Name>
+			<Tasks.22.TaskDesc>Select an inner disciple in the state of Golden Core.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Confirm</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Wait until the disciple acknowledges them as master.</Tasks.25.TaskDesc>
+			<Tasks.28.TaskDesc>Click to select the inner disciple in the state of Golden Core.</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>A master can teach their disciples the manuals they have learned. When a master teaches a manual, it will cost less inspiration.</Tasks.29.TipsData.Desc>
+			<Tasks.29.TipsData.Name>Teach</Tasks.29.TipsData.Name>
+			<Tasks.31.TipsData.Desc>When a disciple is promoted to an inner disciple, they can choose an inner disciple in the state of Golden Core or higher to be their master. When the disciple's Law is the same as the master's, the disciple's practice will be more efficient.</Tasks.31.TipsData.Desc>
+			<Tasks.33.TaskDesc>The player can click here to set the training mode to Auto so that the disciple will automatically change their training mode if needed.</Tasks.33.TaskDesc>
+			<Tasks.35.TaskDesc>The player can click here to set the training mode to Practice so that the disciple will continue to gain a large amount of experience during the practice.</Tasks.35.TaskDesc>
+			<Tasks.37.TaskDesc>The player can click here to set the training mode to Seek Peace so that the disciple will continue to improve mental state while seeking peace.</Tasks.37.TaskDesc>
+			<Tasks.39.TaskDesc>The player can click here to set the training mode to Training so that the disciple will continue to gain a lot of inspiration and a little experience during the practice.</Tasks.39.TaskDesc>
+			<Tasks.41.TipsData.Desc>After a disciple becomes an inner disciple, there will be four more training modes, each of which responds to inner disciples' different needs for their practice. For example, Practice is mostly to gain experience for faster breakthrough, Seek Peace is to improve mental state in case the disciple becomes enthralled, Training is to gain inspiration for the study of manuals, and the player can also choose Auto to let inner disciples adjust their own training pace. The player can select different training modes according to each inner disciple's individual needs.</Tasks.41.TipsData.Desc>
+		</Text>
+		<Text Name="GetJingYuan">
+			<Type>Cultivation</Type>
+			<DisplayName>Stamina</DisplayName>
+			<Desc>Learn how to gain and automatically manage stamina in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Methods to Gain Stamina</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Stamina</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Eat Stamina Pill</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Check Stamina Again</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Keep Practicing</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Assisted Management of Stamina</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Check Auto-eat</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check Elixirs First</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Click and select an inner disciple.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>The player can place the cursor on the Stamina bar in Status below to check stamina. An inner disciple's practice needs to continuously cost stamina, and when stamina hits 0, the disciple cannot keep practicing until they consume elixirs or food to replenish stamina.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>The player can place the cursor on Stamina Pill to see its effect.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Click Eat in the character's Status menu.</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>Eat</Tasks.5.UiData.Name>
+			<Tasks.6.TaskDesc>Click to select Stamina Pill.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Click 3x Speed in the top left to accelerate the game.</Tasks.7.TaskDesc>
+			<Tasks.10.TaskDesc>Wait until the NPC eats the pill.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>Wait until stamina is replenished.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Check the Stamina bar in Status below. Now, the disciple's stamina has been replenished by consuming the elixir.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Click Practice in the character's Status menu.</Tasks.16.TaskDesc>
+			<Tasks.18.TipsData.Desc>Inner disciples can also consume food and convert it to stamina, or increase the consumption rate of food and the gaining rate of stamina to further improve the conversion effect from food to stamina.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>The player can click here to set Auto-eat so that the disciple will automatically eat food to gain stamina.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>The player can click here to set Elixirs First so that the disciple will automatically choose to eat elixirs first to gain stamina.</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>There are many items that increase stamina or the gaining rate of stamina, such as rare medicine and treasures, elixirs, talismans, etc.</Tasks.25.TipsData.Desc>
+		</Text>
+		<Text Name="FuQi">
+			<Type>Cultivation</Type>
+			<DisplayName>Qi Absorption &amp; Fasting</DisplayName>
+			<Desc>Learn the meaning of Qi absorption and fasting and the different between the two in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>What is Fasting</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Fasting Pill</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Need for Food</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Use Fasting Pill</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Check Need for Food Again</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>What is Qi Absorption</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Check Inedia Pill</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check the Qi Absorption Bar</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Use Inedia Pill</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Check the Qi Absorption Bar Again</Chapters.1.Tasks.3>
+			<Tasks.1.TaskDesc>The player can place the cursor on Fasting Pill to see the instruction.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Click and select an inner disciple.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>The player can place the cursor on the Need for Food bar to check the need.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Click Eat in the character's Status menu.</Tasks.6.TaskDesc>
+			<Tasks.6.UiData.Name>Eat</Tasks.6.UiData.Name>
+			<Tasks.7.TaskDesc>Click to select Fasting Pill.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Wait until the NPC eats the pill.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>The player can place the cursor on the Need for Food bar to see the change.</Tasks.13.TaskDesc>
+			<Tasks.15.TipsData.Desc>The reason for fasting in the game is to reduce disciples' consumption of food and water to decrease their need for food and drink and therefore the cost of resources, but reducing an inner disciple's need for food and water will reduce the amount of stamina converted from food.</Tasks.15.TipsData.Desc>
+			<Tasks.17.TaskDesc>The player can place the cursor on Inedia Pill to see the instruction.</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Click and select an inner disciple.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>The player can place the cursor on the Need for Food bar to check the need.</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>Click Eat in the character's Status menu.</Tasks.22.TaskDesc>
+			<Tasks.22.UiData.Name>Eat</Tasks.22.UiData.Name>
+			<Tasks.23.TaskDesc>Click to select Inedia Pill.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Wait until the NPC eats the pill.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>The player can place the cursor on the Need for Food bar to see the change.</Tasks.27.TaskDesc>
+			<Tasks.29.TipsData.Desc>The reason for Qi absorption is to gain energy from the environment in order to maintain the level of hunger and thirst. The more efficient a disciple absorbs Qi, the better they can convert food to stamina. When an inner disciple's consumption of food and water increase, the amount of stamina converted will increase too.</Tasks.29.TipsData.Desc>
+		</Text>
+		<Text Name="DProduction">
+			<Type>Cultivation</Type>
+			<DisplayName>Production</DisplayName>
+			<Desc>Learn how to craft artifacts, concoct elixirs and draw talismans in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>How to Concoct Elixirs</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>More Buildings Obtained</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Concoct Stamina Pill</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Use Loop to Concoct</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>How to Craft Artifacts</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Craft Artifacts</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Compare Advanced Materials</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Compare Basic Materials</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Confirm Crafting</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>How to Draw Talismans</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Draw Agility Talisman</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Influence of Paper on Talismans</Chapters.2.Tasks.1>
+			<Chapters.3.DisplayName>How to Smelt</Chapters.3.DisplayName>
+			<Chapters.3.Tasks.0>Check an Item's Qi</Chapters.3.Tasks.0>
+			<Chapters.3.Tasks.1>Smelt items</Chapters.3.Tasks.1>
+			<Tasks.1.TipsData.Desc>After a disciple becomes an inner disciple, there will be new interactions waiting to be activated by building these unique buildings.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TaskDesc>Click and select an inner disciple.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Click Alchemy in the character's Status menu.</Tasks.4.TaskDesc>
+			<Tasks.4.UiData.Name>Alchemy</Tasks.4.UiData.Name>
+			<Tasks.5.TaskDesc>Click to select Stamina Pill.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Click Confirm.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Click to select Alchemy Furnace.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Click to select Alchemy Furnace.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Click the Loop button in the Alchemy Furnace page below.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.ParentObject>thinginfo-Producelist-Stamina Pill</Tasks.10.UiData.ParentObject>
+			<Tasks.11.TaskDesc>Click Loop 10x</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Loop 10x</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Click 3x Speed in the top left to accelerate the game.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Wait until the Stamina Pill is concocted.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Click the close button by Stamina Pill in the Alchemy Furnace page below to cancel production.</Tasks.16.TaskDesc>
+			<Tasks.16.UiData.ParentObject>thinginfo-Producelist-Stamina Pill</Tasks.16.UiData.ParentObject>
+			<Tasks.18.TipsData.Desc>Concocting elixirs not only needs the basic materials for elixirs, but disciples also need to increase their alchemy level or learn other elixir recipes in order to concoct more advanced elixirs. The player can also use Loop to concoct elixirs in batch, or cancel the loop to stop concocting.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Click and select an inner disciple.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Click Craft in the character's Status menu.</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Craft</Tasks.21.UiData.Name>
+			<Tasks.22.TaskDesc>Click Artifact Crafting</Tasks.22.TaskDesc>
+			<Tasks.25.TaskDesc>The player can place the cursor on Holy Stone Sword to check its material and tier, and the success rate and requirements for crafting are also shown above.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>The player can place the cursor on Graystone Blade to check its material and tier, and the success rate and requirements for crafting are also shown above.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Click and select Graystone Blade to craft.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Wait until the artifact is crafted.</Tasks.30.TaskDesc>
+			<Tasks.32.TipsData.Desc>Any common material can be used to craft artifacts, but it will cost an amount of Qi. The higher the tier, the more Qi it needs. The success rate for artifact crafting is positively associated with the disciple's mental state as well as their artifact crafting level.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TaskDesc>Click Draw in the character's Status menu.</Tasks.34.TaskDesc>
+			<Tasks.34.UiData.Name>Draw</Tasks.34.UiData.Name>
+			<Tasks.35.TaskDesc>Click to select a talisman paper.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Click Agility Talisman.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Please follow the instruction to draw a talisman and then confirm after it is finished.</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Click Yes.</Tasks.38.TaskDesc>
+			<Tasks.40.TaskDesc>Wait until the talisman is drawn.</Tasks.40.TaskDesc>
+			<Tasks.42.TaskDesc>Click to select Talisman Drawing Table.</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Click Produce.</Tasks.43.TaskDesc>
+			<Tasks.43.UiData.Name>Produce</Tasks.43.UiData.Name>
+			<Tasks.44.TipsData.Desc>As shown in the Produce page, there are a few different kinds of talisman paper, which will have different bonus effects after the talisman is drawn. Generally speaking, the bonus effect is positively associated with the tier of the talisman paper.</Tasks.44.TipsData.Desc>
+			<Tasks.45.TaskDesc>Close the Produce page.</Tasks.45.TaskDesc>
+			<Tasks.47.TipsData.Desc>How well the player draws the talisman will be the quality of the final product, which is also an important factor that influences its effect.</Tasks.47.TipsData.Desc>
+			<Tasks.49.TaskDesc>The player can place the cursor on Rubbish to see how much Qi it has absorbed and stored.</Tasks.49.TaskDesc>
+			<Tasks.51.TaskDesc>Click Smelt in the bottom of the screen.</Tasks.51.TaskDesc>
+			<Tasks.52.TaskDesc>Click to select Rubbish.</Tasks.52.TaskDesc>
+			<Tasks.53.TaskDesc>Right-click to cancel the target selection mode.</Tasks.53.TaskDesc>
+			<Tasks.55.TaskDesc>Wait until smelting is complete.</Tasks.55.TaskDesc>
+			<Tasks.56.TipsData.Desc>The player has obtained a few Spirit Stones by smelting rubbish just now.</Tasks.56.TipsData.Desc>
+			<Tasks.58.TipsData.Desc>In the game, various items will gradually absorb Qi from nature. An inner disciple can smelt them to obtain Spirit Stones and dispose of unneeded resources.</Tasks.58.TipsData.Desc>
+		</Text>
+		<Text Name="LookPractice">
+			<Type>Cultivation</Type>
+			<DisplayName>Cultivation-related Factors</DisplayName>
+			<Desc>In this tutorial, learn the main factors that affect the cultivation speed of an inner disciple and the effect of these factors.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Learn Cultivation-related Factors</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Open Law &amp; Cultivation</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Law Matching</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Check Five Elements Matching</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Check Master and Disciple</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Check Qi Density</Chapters.0.Tasks.4>
+			<Chapters.0.Tasks.5>Check Coziness</Chapters.0.Tasks.5>
+			<Chapters.0.Tasks.6>Check Season</Chapters.0.Tasks.6>
+			<Chapters.0.Tasks.7>Check Mood</Chapters.0.Tasks.7>
+			<Chapters.0.Tasks.8>Check Mental State</Chapters.0.Tasks.8>
+			<Tasks.1.TaskDesc>Click and select an inner disciple.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>The player can place the cursor to see the info on Law Matching in the Practice menu. The better the Law matches, the more efficient the cultivation will be.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>The player can place the cursor to see the info on Five Elements Matching in the Practice menu. The better the Five Elements match, the more efficient the cultivation will be.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>The player can place the cursor to see the info on Master and Disciple in the Practice menu. If assisted by a master in a higher cultivation state, a disciple's cultivation speed will increase, and it will be more efficient if the master and disciple train using the same Law.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>The player can place the cursor to see the info on Qi Density in the Practice menu. A disciple will train faster in an environment with higher Qi density.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>The player can place the cursor to see the info on Coziness in the Practice menu. Cozy buildings usually include beds, cushions, thrones, Altar of Magic, etc.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>The player can place the cursor to see the info on Season in the Practice menu. Seasons have different bonus effects for disciples depending on the elemental attributes of their Laws, so it is important to choose a suitable season for cultivation and breakthrough.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>The player can place the cursor to see the info on Mood in the Practice menu. An inner disciple's moods to some extent affects the cultivation, and a disciple in a better mood will often train more efficiently.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>The player can place the cursor to see the info on Mental State in the Practice menu. An inner disciple's mental state affects the cultivation, and a disciple in an unstable mental state may be enthralled. It is important to maintain a stable mental state during cultivation.</Tasks.18.TaskDesc>
+			<Tasks.20.TipsData.Desc>Above are the main factors that affect an inner disciple's cultivation speed. Not only do they influence the cultivation speed, but they sometimes affect the other aspects such as breakthrough and gaining inspiration. The player needs to explore more of the contents to train better inner disciples.</Tasks.20.TipsData.Desc>
+		</Text>
+		<Text Name="LingQi">
+			<Type>Cultivation</Type>
+			<DisplayName>Qi &amp; Qi Gathering</DisplayName>
+			<Desc>In this tutorial, learn the source and effect of Qi, an item's ability to condense Qi and how to condense Qi.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Qi Density &amp; Qi Recovery Rate</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Qi and Qi Recovery Rate</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Qi Density</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Effect and Range of Qi Gathering</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Place Gnarled Vine</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Place Jade Essence</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Place Spiritwood</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Wait for Them to be Placed</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Inspect Gnarled Vine</Chapters.1.Tasks.4>
+			<Chapters.1.Tasks.5>Inspect Jade Essence</Chapters.1.Tasks.5>
+			<Chapters.1.Tasks.6>Inspect Spiritwood</Chapters.1.Tasks.6>
+			<Chapters.2.DisplayName>Other Items that Condense Qi</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Inspect Giant Ginkgo</Chapters.2.Tasks.0>
+			<Tasks.0.TipsData.Desc>Qi that exists in nature can be absorbed by most items, buildings and plants. An inner disciple can absorb and convert the natural Qi into their own, and also use other methods to absorb Qi from items, buildings and plants.</Tasks.0.TipsData.Desc>
+			<Tasks.2.TaskDesc>Click and select an inner disciple.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>The player can place the cursor to inspect Qi and Qi Recovery. Inner disciples can also absorb the natural Qi to replenish their own Qi.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>The player can place the cursor to see the current Qi Density in the Practice menu and therefore use it to assess the environment of Qi around an disciple.</Tasks.6.TipsData.Desc>
+			<Tasks.7.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.7.TaskDesc>
+			<Tasks.9.TipsData.Desc>The player can let inner disciples practice in a place with high Qi density that helps to increase the cultivation speed and quickly recover their Qi.</Tasks.9.TipsData.Desc>
+			<Tasks.11.TaskDesc>Click to select Gnarled Vine.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Click Place.</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>Place</Tasks.12.UiData.Name>
+			<Tasks.13.TaskDesc>Click to select Display (Spirit Stone Floor).</Tasks.13.TaskDesc>
+			<Tasks.15.TaskDesc>Click to select Jade Essence.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Click Place.</Tasks.16.TaskDesc>
+			<Tasks.16.UiData.Name>Place</Tasks.16.UiData.Name>
+			<Tasks.17.TaskDesc>Click to select Display (Spiritwood Floor).</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Click to select Spiritwood.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Click Place.</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Place</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Click to select Display (Holy Stone Floor).</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Click 3x Speed in the top left to accelerate the game.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Wait for them to be placed.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Check the Qi Gathering of Gnarled Vine on the Display.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Check the Qi Gathering of Jade Essence on the Display.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Check the Qi Gathering of Spiritwood on the Display.</Tasks.31.TaskDesc>
+			<Tasks.33.TipsData.Desc>An item's ability to condense Qi is positively associated with its Qi Gathering, and the Qi Density around the item will slowly increase as well. A wider range of Qi Gathering means it will affect the Qi Density of a larger area. Therefore, Qi is always flowing from areas with low Qi Gathering to those with high Qi Gathering.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>Check the Qi Gathering of Huge Ginkgo.</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>In the game, not only can items condense Qi, but some plants, buildings, locations have the same effect and can be used as Qi condensers to affect and change the Qi Density in the environment, and the player can utilize them to create a unique environment of Qi.</Tasks.37.TipsData.Desc>
+		</Text>
+		<Text Name="WuXing">
+			<Type>Cultivation</Type>
+			<DisplayName>Interactions Between the Five Elements</DisplayName>
+			<Desc>In this tutorial, learn the interactions between the Five Elements, how to check elemental stats, influence of the Five Elements on cultivation and how to change the elemental environment.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Interactions of the Five Elements</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Open Five Element Diagram</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check the Interactions for Metal</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>How to Check Elemental Stats</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Inspect the Observatory</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Enter the Feng Shui Mode</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Inspect Environment Near Ore Veins</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Inspect Environment Near Water</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Elemental Environment &amp; Cultivation</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Check Law Type</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Check Five Elements Matching</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Check Stats of Parasol Wood</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Place Igneocopper Bar</Chapters.2.Tasks.3>
+			<Chapters.2.Tasks.4>Wait for Them to be Placed</Chapters.2.Tasks.4>
+			<Chapters.2.Tasks.5>Check Stats of Igneocopper Bar</Chapters.2.Tasks.5>
+			<Chapters.2.Tasks.6>Check Five Elements Matching</Chapters.2.Tasks.6>
+			<Tasks.1.TaskDesc>Five Element Diagram in the top left.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>The player can see the elemental interactions of Metal in the Five Element Diagram.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Click the Five Element Diagram in the top left and close it.</Tasks.4.TaskDesc>
+			<Tasks.6.TipsData.Desc>In the game, the player needs to use the interactive rules between the Five Elements in many occasions, so please feel free to click this button to check the interactions.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>The player can read the instruction of the observatory to know its use.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Click Feng Shui in the top left to enter the Feng Shui mode.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>The player can place the cursor on the rocky terrain to check the elemental stats of the place. Metal element is high as shown.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>The player can place the cursor on the shallow water to check the elemental stats of the place. Water element is high as shown.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>After building an observatory, the player can click Feng Shui and move the cursor to inspect the elemental stats of different locations in order to know the elemental interactions in a certain area.</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>Click and select an inner disciple.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Check Law Type in the top left of the Law page. An inner disciple's Law type is their own elemental attributes.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TaskDesc>The player can place the cursor to see the current Five Elements Matching in the Practice menu and therefore use it to assess the elemental environment around an disciple.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>The player needs to check the elemental tag of Parasol Wood to know the elemental stats of this item.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Click to select Display.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Click Place Item.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>Place Item</Tasks.28.UiData.Name>
+			<Tasks.29.TaskDesc>Click to select Igneocopper Bar.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Click Feng Shui in the top left to exit the Feng Shui mode.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Click 3x Speed in the top left to accelerate the game.</Tasks.32.TaskDesc>
+			<Tasks.34.TaskDesc>Wait for them to be placed.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Wait for them to be placed.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Click Feng Shui in the top left to enter the Feng Shui mode.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>The player needs to check the elemental tag of Igneocopper Bar to know the elemental stats of this item.</Tasks.37.TaskDesc>
+			<Tasks.39.TaskDesc>Click and select an inner disciple.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>After the elemental environment is changed, this disciple now has matching Five Elements for the cultivation.</Tasks.41.TaskDesc>
+			<Tasks.43.TipsData.Desc>Everything in the game has elemental stats. The player can check the Five Element Diagram to see its elemental stats and range of effect. The player can also change the Five Elements in an environment by placing or moving items, making buildings, laying floors, growing plants, etc.</Tasks.43.TipsData.Desc>
+		</Text>
+		<Text Name="XinJing">
+			<Type>Cultivation</Type>
+			<DisplayName>Mental State</DisplayName>
+			<Desc>In this tutorial, learn the effect of mental state, the relation between mood and mental state and how to store it.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Mental State &amp; Cultivation</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check the 'Mentally Unstable' Event</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Mood</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Check Mental State</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Adjust Mental State</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Select Seek Peace</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Wait Until the Mode is Set</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Check the Change in Mental State</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Eat to Adjust Mental State</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Check the Effect of Purity Leaf</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Check the Effect of Purity Pill</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Eat Purity Pill</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Check the Change in Mental State</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Click the notification for 'mentally unstable' in the left.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Click Mood &amp; Social in the right side of the character's Status menu.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>The player can check the Mood bar in the Status menu to know the disciple's mood, which is mainly affected by different moods in the Mood page.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Click Law &amp; Cultivation in the right side of the character's Status menu.</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>The mental state of an inner disciple is susceptible to changes in mood.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>The mental state of an inner disciple affects not only the efficiency of their cultivation, but also the success rate of their breakthrough, elixir concocting and artifact crafting. Generally, a stable mental state benefits the cultivation. Changes in mood greatly affect the mental state, as it will deteriorate faster and recover more slowly when the mood is too low, and when the mental state is too low, the disciple might be enthralled and lose control.</Tasks.10.TipsData.Desc>
+			<Tasks.12.TaskDesc>Click Seek Peace in the character's Status menu.</Tasks.12.TaskDesc>
+			<Tasks.15.TaskDesc>Click 3x Speed in the top left to accelerate the game.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Wait until the inner disciple begins seeking peace.</Tasks.17.TaskDesc>
+			<Tasks.20.TaskDesc>This disciple has restored a little mental state after seeking peace.</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>It will take some time to recover a disciple's mental state by seeking peace, so when it's an emergency, other methods need be applied to restore mental state.</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>The player can read the instruction for Purity Leaf to know its effect.</Tasks.24.TaskDesc>
+			<Tasks.26.TaskDesc>The player can read the instruction for Purity Pill to know its effect.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Click the Eat button in the menu below the NPC.</Tasks.27.TaskDesc>
+			<Tasks.27.UiData.Name>Eat</Tasks.27.UiData.Name>
+			<Tasks.29.TaskDesc>Click to select Purity Pill.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Wait until the Purity Pill is consumed.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>This disciple has restored a little mental state after eating Purity Pill. The player can observe these changes by checking the mental state.</Tasks.33.TaskDesc>
+			<Tasks.35.TipsData.Desc>Items like elixirs, treasures and rare medicine can be used to restore an inner disciple's mental state to ensure it is stable. Besides these, there are other items that can restore or improve mental state, such as miracles, talismans, manuals, decorations, Feng Shui Relics, etc., waiting for the player to explore.</Tasks.35.TipsData.Desc>
+		</Text>
+		<Text Name="Broken">
+			<Type>Cultivation</Type>
+			<DisplayName>Breakthrough</DisplayName>
+			<Desc>In this tutorial, learn the meaning of breakthrough, the different methods for breakthrough and how to select a suitable location for breakthrough.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Learn the Meaning of Breakthrough</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Click the Info on Limit</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Inspect Limit</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Factors that Affect Breakthrough</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Check the Breakthrough Menu</Chapters.1.Tasks.0>
+			<Chapters.2.DisplayName>Location and Chance of Success</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Breakthrough</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Inspect near Ore Veins</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Inspect near Water</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Inspect near Ginkgo Trees</Chapters.2.Tasks.3>
+			<Chapters.2.Tasks.4>Confirm Breakthrough</Chapters.2.Tasks.4>
+			<Chapters.2.Tasks.5>Check the Result</Chapters.2.Tasks.5>
+			<Tasks.1.TaskDesc>Click the notification of reaching a limit in the left.</Tasks.1.TaskDesc>
+			<Tasks.4.TaskDesc>Click Law &amp; Cultivation in the right side of the character's Status menu.</Tasks.4.TaskDesc>
+			<Tasks.5.TipsData.Desc>The player can check the info on the disciple's current limit.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.6.TaskDesc>
+			<Tasks.8.TipsData.Desc>When an inner disciple's practice reaches a limit in the current state, they can only begin the next phase after a successful breakthrough, so it is especially important to know the methods for breakthrough. There are many ways to break through a limit, for example, relying on environment and chance, going on adventures, reliving the life of an outer disciple, surviving a tribulation of thunder, etc. This tutorial teaches how to rely on environment and chance.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Click Breakthrough in the character's Status menu.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Breakthrough</Tasks.10.UiData.Name>
+			<Tasks.11.TipsData.Desc>Resource Cost in the right indicates breakthrough will cost an amount of resources like Qi, lifespan, items and experience. If the requirements are not met, the player cannot select a location for breakthrough.</Tasks.11.TipsData.Desc>
+			<Tasks.12.TipsData.Desc>Breakthrough info in the left shows the info on this limit and sometimes it will give the player useful tips like 'This breakthrough will be more difficult for characters with high intelligence'.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TipsData.Desc>Bonus in the center indicates the bonus chance of success that the current environment in the selected location adds to the breakthrough.</Tasks.13.TipsData.Desc>
+			<Tasks.15.TipsData.Desc>Disciples need to rely on the combined effect of different factors to break through a limit, so it is crucial to know how to check the chance of breakthrough.</Tasks.15.TipsData.Desc>
+			<Tasks.17.TaskDesc>Breakthrough</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>The player can place the cursor on a location near ore veins to know the chance of breakthrough there.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>The player can place the cursor on a location near shallow water to know the chance of breakthrough there.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>The player can place the cursor on a location near giant ginkgo to know the chance of breakthrough there.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Click a location near giant ginkgo for breakthrough.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Click Yes.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.27.TaskDesc>
+			<Tasks.30.TaskDesc>Click Close.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Wait until the disciple arrives for breakthrough.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Click the notification for failed breakthrough in the left.</Tasks.33.TaskDesc>
+			<Tasks.35.TaskDesc>Click Breakthrough in the character's Status menu.</Tasks.35.TaskDesc>
+			<Tasks.35.UiData.Name>Breakthrough</Tasks.35.UiData.Name>
+			<Tasks.36.TaskDesc>Check the XP Bonus in the Breakthrough menu.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Click Close.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>When choosing a location for breakthrough, a place with high bonus can increase the chance of successful breakthrough. Failing a breakthrough sometimes can cause damage to the disciple, but sometimes it adds a small amount of XP bonus for the next breakthrough. A disciple can only begin the next phase after a successful breakthrough, and some limit will give the disciple stats bonus after it is broken through.</Tasks.39.TipsData.Desc>
+		</Text>
+		<Text Name="LearnEso">
+			<Type>Cultivation</Type>
+			<DisplayName>Inspiration Acquisition &amp; Manual Learning</DisplayName>
+			<Desc>In this tutorial, learn what is inspiration, how to obtain it and the relation between learning manuals and attainment.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Inspiration &amp; Attainment</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Open the Inspiration Menu</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check the Use for Inspiration</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Open the Basic Menu</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Check the Use for Attainment</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>How to Learn Manuals</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Inspect the Skill Lunar Form</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Learn the Skill Lunar Form</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Inspect Exuberant Elixir Recipe</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Learn Exuberant Elixir Recipe</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Methods to Obtain Inspiration</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Activate the Training Mode</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Check Notification</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Check Inspiration</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Inspect Eureka Pill</Chapters.2.Tasks.3>
+			<Chapters.2.Tasks.4>Eat Eureka Pill</Chapters.2.Tasks.4>
+			<Chapters.2.Tasks.5>Check Inspiration Again</Chapters.2.Tasks.5>
+			<Tasks.1.TaskDesc>Click and select an inner disciple.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Click to open the Inspiration menu.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>The player can place the cursor to check inspiration and the info on it in the bottom right.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Click to close the Inspiration menu.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Click to open the General Stats menu in the left.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>The player can hover the cursor to see attainment and related info.</Tasks.10.TaskDesc>
+			<Tasks.12.TipsData.Desc>Inner disciples will keep gaining inspiration during cultivation, which can be used to learn various manuals to improve their ability. Inspiration needed to learn a new skill increases as attainment becomes higher.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TaskDesc>Click to open the General Stats menu in the left.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Click to open the Inspiration menu.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Inspect the requirements to learn the skill Lunar Form.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Click Lunar Form.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Click Yes.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Inspect the requirements to learn the manual Exuberant Elixir Recipe.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Click to close the Inspiration menu.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>Inner disciples can not only use inspiration to learn or advance their manual studying, but also to increase their level of skills and learn unique single manuals like travel diaries and elixir recipes. Disciples can learn manuals from their master or study them in the Manual Pavilion, and they can also learn new manuals during adventure. However, a disciple cannot learn a new manual when their inspiration is insufficient.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>When a disciple is in training mode, they will gain a lot of inspiration during training, which is the main source of inspiration.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Click 3x Speed in the top left to accelerate the game.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Wait until the disciple has trained for a while.</Tasks.31.TaskDesc>
+			<Tasks.33.TipsData.Desc>When there is "+" above the Inspiration button, it means this disciple can learn a new manual. When an inner disciple earns enough inspiration for a new manual, it will automatically show "+" here to notify the player to check this info.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>Click to open the General Stats menu in the left.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Click to open the Inspiration menu.</Tasks.36.TaskDesc>
+			<Tasks.37.TipsData.Desc>This disciple has gained some inspiration through training.</Tasks.37.TipsData.Desc>
+			<Tasks.38.TaskDesc>Click to close the Inspiration menu.</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.39.TaskDesc>
+			<Tasks.41.TaskDesc>The player can place the cursor on Enlightenment Pill to see its effect.</Tasks.41.TaskDesc>
+			<Tasks.43.TaskDesc>Click the Eat button in the menu below the NPC.</Tasks.43.TaskDesc>
+			<Tasks.43.UiData.Name>Eat</Tasks.43.UiData.Name>
+			<Tasks.44.TaskDesc>Enlightenment Pill</Tasks.44.TaskDesc>
+			<Tasks.46.TaskDesc>Wait until Bear Gall is eaten.</Tasks.46.TaskDesc>
+			<Tasks.48.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.48.TaskDesc>
+			<Tasks.49.TaskDesc>Click to open the Inspiration menu.</Tasks.49.TaskDesc>
+			<Tasks.50.TipsData.Desc>This disciple has gained a lot of inspiration by consuming an elixir.</Tasks.50.TipsData.Desc>
+			<Tasks.52.TipsData.Desc>When a disciple is in urgent need of a lot inspiration to learn a key skill, the player can use other ways to gain it fast, such as elixirs, adventures, events, branch training, etc. The disciple's mental state, intelligence and learning speed can also affect the increase rate of their inspiration.</Tasks.52.TipsData.Desc>
+		</Text>
+		<Text Name="DTreatment">
+			<Type>Cultivation</Type>
+			<DisplayName>Healing for Inner Disciples</DisplayName>
+			<Desc>In this tutorial, learn the different kinds of injuries for inner disciples and how to heal them.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Learn Inner Injury Types</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Select an Injured Disciple</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Inspect Injury with "Spirit" Tag</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Inspect Injury with "Fire" Tag</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Use Elixirs to Heal Inner Injuries</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Select Another Disciple</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check Alchemy</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Use Qi Flow Pill</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Wait Until Qi Flow Pill Is Used</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Check the Injury of the Disciple</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>Use Miracles to Heal Inner Injuries</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Use the Miracle Panacea</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Wait for Completion</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Inspect the Injury</Chapters.2.Tasks.2>
+			<Tasks.1.TaskDesc>Click the notification of injury in the left.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Click the Health button in the right side of the injured character's menu.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>The player can check the "Spirit" tag above the damage to quickly know the type of injury.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>The player can check the "Fire" tag above the damage to quickly know the type of injury.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Close the menu.</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>There are mainly six types of inner injuries, that is, "Spirit", "Metal", "Wood", "Water", "Fire" and "Earth". Actions like failed breakthrough, fighting enemies and eating food with too much Qi could all cause these types of inner injuries. If not treated in time, it is very likely for the disciple to die.</Tasks.10.TipsData.Desc>
+			<Tasks.12.TaskDesc>Click and select another inner disciple.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Click Alchemy in the character's Status menu.</Tasks.14.TaskDesc>
+			<Tasks.14.UiData.Name>Alchemy</Tasks.14.UiData.Name>
+			<Tasks.15.TaskDesc>The player can place the cursor on Restoration Powder to see its effect.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>The player can place the cursor on Qi Flow Pill to see its effect.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Close the page.</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Click to select Qi Flow Pill.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Click the Feed button in the Status menu.</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Feed</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Click and select an injured inner disciple.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Click Confirm.</Tasks.22.TaskDesc>
+			<Tasks.24.TaskDesc>Click 3x Speed in the top left.</Tasks.24.TaskDesc>
+			<Tasks.26.TaskDesc>Finished using the Qi Flow Pill.</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Click an injured inner disciple.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Click the Health button in the right side of the injured character's menu.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>The player can recheck the injury with the "Spirit" tag to see if the injury is healed.</Tasks.31.TaskDesc>
+			<Tasks.33.TipsData.Desc>For each type of inner injuries, there are different corresponding elixirs. As inner disciples learn more elixir recipes, there will be more elixirs to treat inner injuries. Each elixir has a different effect and use, so ensure at least one disciple learns these recipes so that they can concoct the elixirs if needed.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>Click and select another inner disciple.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Click Panacea.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Click and select an injured inner disciple.</Tasks.37.TaskDesc>
+			<Tasks.39.TaskDesc>Wait until the miracle is complete.</Tasks.39.TaskDesc>
+			<Tasks.41.TaskDesc>Click an injured inner disciple.</Tasks.41.TaskDesc>
+			<Tasks.42.TipsData.Desc>The inner injuries with both the "Fire" tag and the rest have been healed through Panacea, so they no longer show here.</Tasks.42.TipsData.Desc>
+			<Tasks.44.TipsData.Desc>Inner disciples can also use Panacea, a miracle with special effects, to treat injured disciples in the sect. A disciple with higher Qi can treat the others better. This miracle is very important for treating inner injuries, and it's better to teach more disciples in case of an emergency.</Tasks.44.TipsData.Desc>
+		</Text>
+		<Text Name="SchoolManager">
+			<Type>Development</Type>
+			<DisplayName>Sect Management</DisplayName>
+			<Desc>In this tutorial, learn the different functions in the Sect menu and how its reputation and place in the alignment of ethics affect the sect.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Basic Info</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Sect Unlocked</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Reputation</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Check Good or Evil</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Check Sect's Feng Shui</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Check Sect Meal</Chapters.0.Tasks.4>
+			<Chapters.0.Tasks.5>Check Sect Laws</Chapters.0.Tasks.5>
+			<Chapters.1.DisplayName>Other Sect Functions</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Check Sect Structure</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check Disciple List</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Check Diplomacy</Chapters.1.Tasks.2>
+			<Tasks.1.TipsData.Desc>Once the player has an inner disciple, they can check and manage the sect.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TaskDesc>Click the Sect button in the right.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>The player can obtain reputation through actions like adventures, events and miracles, but the higher the reputation, the stronger the invading enemies will be.</Tasks.4.TaskDesc>
+			<Tasks.5.TipsData.Desc>The sect can be expanded every time its reputation reaches a new stage. A larger sect can recruit more disciples.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>The player's actions in the game affect whether the sect leans toward good or evil, which further influences the relation between your sect and the other sects and affects your choices during events and how they develop.</Tasks.7.TaskDesc>
+			<Tasks.9.TipsData.Desc>The Feng Shui of the sect is decided by that of all rooms and Feng Shui buildings, which will affect all the disciples' luck.</Tasks.9.TipsData.Desc>
+			<Tasks.11.TipsData.Desc>Once the player selects a sect meal, disciples will automatically issue a cooking order two hours before mealtime. Considering the current storage of food, the player can select different meals to improve disciples' diet. When stored food is sufficient, the player can also cancel the selection.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Click Law in the bottom right of the Sect menu.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Click to fold Supreme Law in the left.</Tasks.14.TaskDesc>
+			<Tasks.15.TipsData.Desc>Here shows all the Laws acquired by the player's sect in different categories. Disciples who cultivate worldly Laws can only reach the Core Shaping phase, while Golden Core Laws can only reach the Golden Core phase. And the other Law types vary differently.</Tasks.15.TipsData.Desc>
+			<Tasks.16.TipsData.Desc>Here shows detailed information on Law types, Law matching, states in Law, etc.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>Click to inspect the Inspiration Tree.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>Here shows the detailed Inspiration Tree for the player to inspect. The tree gives information about what manuals can be learned for this Law.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TaskDesc>Click to close the Inspiration Tree.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Click to close the Law menu.</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>In the page for basic info on the sect, the player can learn various info about the current sect in order to easily manage it.</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>Click Sect Structure</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>The player can use this to set a suitable sect leader for the current sect. The sect leader's ability will affect the mood of the disciples, and changing or retiring the sect leader has the same effect.</Tasks.25.TipsData.Desc>
+			<Tasks.26.TipsData.Desc>Once the player's sect becomes Heavenly Abode, branches can be established. The more able the branch leader, the more bonuses the disciples in the branch will gain. Once a branch is established, branch areas can be planned through building, which provide bonus effects for disciples. Changing or retiring the sect leader will also affect the disciples.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Click Disciple List</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>The player can see all the inner disciples and their masters.</Tasks.29.TipsData.Desc>
+			<Tasks.30.TipsData.Desc>The player can click "X" to expel a disciple.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Click Diplomacy.</Tasks.32.TaskDesc>
+			<Tasks.33.TipsData.Desc>The player can check this page to learn information on the relation, friendship, interactive tendency between your sect and the other sects in order to better plan the development of the sect.</Tasks.33.TipsData.Desc>
+			<Tasks.34.TaskDesc>Click Details on Sunshade Abode.</Tasks.34.TaskDesc>
+			<Tasks.35.TipsData.Desc>The player can click Details to see the relation between one sect and the others, know the sect's power and monitor its change in order to plan different strategies.</Tasks.35.TipsData.Desc>
+			<Tasks.36.TaskDesc>Click to close the Sunshade Abode menu.</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>These sect functions play an important role during the game, and the player can use them to develop their own sect and plan different strategies.</Tasks.38.TipsData.Desc>
+		</Text>
+		<Text Name="FengShui">
+			<Type>Development</Type>
+			<DisplayName>Feng Shui</DisplayName>
+			<Desc>In this tutorial, learn the difference between Feng Shui buildings and non Feng Shui buildings and how to adjust Feng Shui according to their element.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Feng Shui Buildings and Decorations</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Feng Shui Buildings</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Decorations</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Feng Shui of a Feng Shui Building</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Check the Table's Feng Shui</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check Feng Shui near the Table</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Place Igneocopper Bar</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Move Decorations</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Check the Change in Feng Shui</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>How to Adjust Feng Shui in Rooms</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Check Feng Shui in Rooms</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Check Feng Shui Buildings</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Check the Layout of a Room</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Check the Direction of a Door</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Click Build in the bottom left corner to open the Build page.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click Life to open the Life Buildings page.</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Life</Tasks.2.UiData.Name>
+			<Tasks.3.TaskDesc>In the game, most buildings classified under Life, Work, Sect and Entertainment with the "Feng Shui Building" tag belong to Feng Shui buildings. These buildings' Feng Shui changes with the elemental environment at their location. When the element of the environment Begets that of the building, the Feng Shui will be good and vice versa.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>In the game, a building with no "Feng Shui Building" tag is decoration. Most of these buildings will inherit the elemental attribute of their main material and affect the elemental environment around them. The buildings themselves are not affected by the Five Elements nor have Feng Shui.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>In the game, some buildings have their own elemental tag. When a building has an elemental or undefined tag, it will not be affected by the element of the main material, so what influences the elemental environment is the element in the tag.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TipsData.Desc>Remember, some buildings have an elemental attribute for the ground they are on, which is completely different from the element of the buildings, for example, a stove's ground is of Fire element and a well's ground is of Water element, so the player needs to explore this feature and learn more about Feng Shui.</Tasks.8.TipsData.Desc>
+			<Tasks.11.TaskDesc>Click Feng Shui in the top left to enter the Feng Shui mode.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>The brownstone table is a Feng Shui building of Earth element, so it is affected by the interactions of the Five Elements in the environment. In the Feng Shui mode, if a building is yellow or red, it means its Feng Shui is bad. The current building is red, which is clearly affected by a counteractive element.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Parasol Lumber is an item of Wood element that affects the elemental environment around it.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Parasol Lantern is a decoration of Wood element that affects the elemental environment around it.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Click Feng Shui in the top left to exit the Feng Shui mode.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Select the Spirit Stone Display on the left of the brownstone table.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Click Place Item.</Tasks.19.TaskDesc>
+			<Tasks.19.UiData.Name>Place Item</Tasks.19.UiData.Name>
+			<Tasks.20.TaskDesc>Click to select Igneocopper Bar.</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>Select the Parasol Lantern on the right of the brownstone table.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Click Demolish.</Tasks.23.TaskDesc>
+			<Tasks.23.UiData.Name>Demolish</Tasks.23.UiData.Name>
+			<Tasks.24.TaskDesc>Select the Parasol Lantern on the right of the brownstone table.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Click Move.</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>Move</Tasks.25.UiData.Name>
+			<Tasks.26.TaskDesc>Click Place and place it at the designated location.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Wait for completion.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Click Feng Shui in the top left to exit the Feng Shui mode.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Placing the Igneocopper Bar has improved the Fire element in the environment.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Having the Igneocopper Lantern has improved the Fire element in the environment.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Due to the change in elemental environment, the brownstone table is affected by the Fire element in the environment that begets with the table's Earth element, so the Feng Shui has become better.</Tasks.34.TaskDesc>
+			<Tasks.36.TipsData.Desc>The player can change the Five Elements surrounding a Feng Shui building to change the Feng Shui, and the Feng Shui of the building in turn affects that of the room.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TaskDesc>Select the room by clicking the empty area in it.</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>The player can check the display of Feng Shui here and see that a room's Feng Shui is decided by multiple factors.</Tasks.39.TaskDesc>
+			<Tasks.41.TipsData.Desc>All Feng Shui buildings' Feng Shui affects that of the room, which is decided by the overall Feng Shui of all the buildings in it.</Tasks.41.TipsData.Desc>
+			<Tasks.43.TipsData.Desc>A cramped or empty layout of the room will impair the Feng Shui.</Tasks.43.TipsData.Desc>
+			<Tasks.44.TipsData.Desc>Depending on the function of the room, its Feng Shui will be affected by factors like the direction of the door and having multiple doors. A bedroom should be facing south, so the door should be built at the bottom. Use Help (Hotkey: F10) to check the Feng Shui and direction for the other room types.</Tasks.44.TipsData.Desc>
+			<Tasks.46.TipsData.Desc>The player can click Help (Hotkey: F10) in the right side to check Room's Feng Shui in Five Elements &amp; Feng Shui to learn more detailed rules about Feng Shui.</Tasks.46.TipsData.Desc>
+		</Text>
+		<Text Name="RoomDesign">
+			<Type>Development</Type>
+			<DisplayName>Plan Room for Inner Disciples</DisplayName>
+			<Desc>In this tutorial, learn the core needs of an inner disciple's room and how to meet the requirements for Feng Shui.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Room Selection for Inner Disciples</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Law Type</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check the Five Elements of a Room</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Build a Training Spot</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Select Main Materials</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Wait Until Construction is Complete</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Select a Resident</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Improve Feng Shui</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Place an Oil Lamp</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Place Furniture</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Click and select an inner disciple.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>The disciple's Law is of Metal element, and according to the interactions of the Five Elements, we need to assign a room of Earth element to this disciple.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Click Feng Shui in the top left to enter the Feng Shui mode.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>This room is of high Fire element, counteractive with the element of the disciple's Law, so it is not suitable to be their room.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>This room is of high Earth element, connective with the element of the disciple's Law, so it is suitable to be their room.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click Feng Shui in the top left to exit the Feng Shui mode.</Tasks.9.TaskDesc>
+			<Tasks.11.TipsData.Desc>Please follow the interactions of the Five Elements to select a room for an inner disciple and try to build the room in an area of an element that beget that of the disciple.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Click Build in the bottom left corner to open the Build page.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Click Life to open the Life Buildings page.</Tasks.14.TaskDesc>
+			<Tasks.14.UiData.Name>Life</Tasks.14.UiData.Name>
+			<Tasks.15.TaskDesc>Click Bed to begin the placing mode.</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>This disciple is of Metal element, so it is more suitable for them to practice in an environment rich in Earth. A Feng Shui building needs to go with decorations with element that begets earth, so it is better to choose a main material that is of Metal element in order to place a lot of decorations of Earth element that begets Metal.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>Click to select Iron Bar.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Place it at the designated location in the blueprint.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Right-click to cancel the Build mode.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Wait until the construction is complete.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Click to select Iron Bed.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Click to assign ownership.</Tasks.26.TaskDesc>
+			<Tasks.26.UiData.Name>Assign</Tasks.26.UiData.Name>
+			<Tasks.27.TaskDesc>Click the first character and arrange the bed for him.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Confirm the arrangement.</Tasks.28.TaskDesc>
+			<Tasks.30.TipsData.Desc>A bed, a cushion or a throne can all be used as the training spot. Its main material should be of the same element as the inner disciple's Law.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Click Build in the bottom left corner to open the Build page.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Click Decoration to open the Life Buildings page.</Tasks.33.TaskDesc>
+			<Tasks.33.UiData.Name>Decoration</Tasks.33.UiData.Name>
+			<Tasks.34.TaskDesc>Click Oil Lamp to begin the placing mode.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Click to select brownstone as the main material.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Place it at the designated location in the blueprint.</Tasks.36.TaskDesc>
+			<Tasks.38.TaskDesc>Click Furniture.</Tasks.38.TaskDesc>
+			<Tasks.38.UiData.Name>Furniture</Tasks.38.UiData.Name>
+			<Tasks.39.TaskDesc>Click Vase.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Place it at the designated location in the blueprint.</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Click Censer.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Place it at the designated location in the blueprint.</Tasks.42.TaskDesc>
+			<Tasks.44.TipsData.Desc>The main Feng Shui building in an inner disciple's room is usually the bed, cushion, throne, etc. Rooms that contain these Feng Shui buildings are usually bedrooms that should face south. The key to planning an inner disciple's room is to use decorations of the elements that begets that of the disciple's Law. An oil lamp of Earth element begets a disciple's Metal Law, so use metal materials to build the training spot. (This tutorial uses bed as an example)</Tasks.44.TipsData.Desc>
+		</Text>
+		<Text Name="WalkStop">
+			<Type>Development</Type>
+			<DisplayName>Trade</DisplayName>
+			<Desc>In this tutorial, learn necessary information related to trade and how to trade with merchants.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Preparation Before Trading</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Info from Merchants</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Plan a Trade Area</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Prepare Trading Items</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>How to Trade</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Trade with the Merchant</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check the Trade menu</Chapters.1.Tasks.1>
+			<Tasks.2.TaskDesc>Click Confirm.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Click the notification for the arrival of merchant in the left.</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Merchants will come to the sect once in a while, and the player can trade resources with them. The currency for trade is mainly Spirit Stones, and items of equal value can be exchanged. The player need to prepare the resources to be traded before each transaction.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Click Build in the bottom left corner to open the Build page.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Click Area to open the Area Buildings page.</Tasks.8.TaskDesc>
+			<Tasks.8.UiData.Name>Area</Tasks.8.UiData.Name>
+			<Tasks.9.TaskDesc>Click Bed to begin the placing mode.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Drag and select a trade area at the designated location.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Right-click to cancel the Build mode.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Select Spirit Stone.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Click Trade in the bottom menu.</Tasks.14.TaskDesc>
+			<Tasks.14.UiData.Name>Trade Area</Tasks.14.UiData.Name>
+			<Tasks.15.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Wait for the items to be moved to the trade area.</Tasks.17.TaskDesc>
+			<Tasks.19.TipsData.Desc>Every time a merchant comes, they will bring a large amount of resources, so prepare the items that need to be traded beforehand in case you miss the trading time.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TaskDesc>Click to select the merchant.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Click Trade.</Tasks.22.TaskDesc>
+			<Tasks.22.UiData.Name>Trade</Tasks.22.UiData.Name>
+			<Tasks.23.TaskDesc>Wait until the disciple goes to trade.</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>Here's the resources from the merchant.</Tasks.25.TipsData.Desc>
+			<Tasks.26.TaskDesc>The player can use hotkeys to select multiple resources in batch.</Tasks.26.TaskDesc>
+			<Tasks.27.TipsData.Desc>Here's the resources in the trade area of the player's sect.</Tasks.27.TipsData.Desc>
+			<Tasks.28.TipsData.Desc>Here's the resources that are being traded, the top left is the total value of the resources traded by the merchant, and the top right is the value of the resources from the player's sect. When both sides agree with the price, the player can press Confirm below to complete the transaction.</Tasks.28.TipsData.Desc>
+			<Tasks.30.TipsData.Desc>Every time the merchant arrives, they will stay for a while, so the player can trade for multiple times. But remember, if a merchant dies in the player's sect, all resources will belong to the player's sect, but no merchants will come to the sect to trade any more, so please think twice before you act.</Tasks.30.TipsData.Desc>
+		</Text>
+		<Text Name="WorldMap">
+			<Type>Development</Type>
+			<DisplayName>World Locations</DisplayName>
+			<Desc>In this tutorial, learn about world locations and World Map and how to interact with these locations.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>World Map</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Locations</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Secret</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Check Disciple List</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Check Expand</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>How to Go on Adventures and Camp</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Send Disciples on Adventures</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Send Camp</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Check the Exploration Progress</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Click to open World Map.</Tasks.1.TaskDesc>
+			<Tasks.3.TipsData.Desc>Once the player has inner disciples, you can use World Map to send disciples to these locations for adventure, during which they will encounter different secrets and obtain rewards and resources from them.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Click Secret in the bottom right.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>When the player encounters a secret in the game, the on-going secret will be displayed here. Click the secret and the camera will jump to the location where it's happening.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>Click Disciple in the bottom right.</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>If the player has sent a disciple to an adventure or camping somewhere, they will be shown here. Click Recall if the player needs to call the disciple back.</Tasks.9.TipsData.Desc>
+			<Tasks.11.TaskDesc>Click Expand in the top left to enter the Expand mode.</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Each power in the map has its own range and territory, and different territories are shown in different colors. There are a lot of ways to expand your sect, and a neutral area is the easiest to obtain.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>Click Info in the top left to exit the Expand mode.</Tasks.13.TaskDesc>
+			<Tasks.15.TipsData.Desc>After the introduction of World Map, we have learned many interactions. Next, let's know more about basic locations.</Tasks.15.TipsData.Desc>
+			<Tasks.17.TaskDesc>Click Nanping Village.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Click Adventure.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>When a disciple is going on adventure to the target location, the time cost is related to the disciple's stats like their state and adventure speed. The player can send multiple disciples at the same time to the location for adventure.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Click and select a disciple.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Click Confirm.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Click Okay.</Tasks.22.TaskDesc>
+			<Tasks.24.TaskDesc>Click Camp.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Click and select a disciple.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Click Confirm.</Tasks.26.TaskDesc>
+			<Tasks.28.TipsData.Desc>Here's the exploration progress of the current location. Through both adventure and camping, the player can make gradual progress with the exploration, and as the exploration progresses, secret locations around it will be unlocked. 100% means the location has been completely explored.</Tasks.28.TipsData.Desc>
+			<Tasks.30.TipsData.Desc>After learning about adventure and camping, the player can go to world locations to obtain various rare resources, discover interesting secrets and visit the other sects, etc.</Tasks.30.TipsData.Desc>
+		</Text>
+		<Text Name="DLPlace">
+			<Type>Development</Type>
+			<DisplayName>Assign Agency</DisplayName>
+			<Desc>Learn how to establish and manage an agency in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Check the Agency</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Open the Assign Menu</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check the Mt. South Agency</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Manage an Agency</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Check Power Management</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Issue a Policy</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Claim Resources</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Pay Close Attention</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Check the Agency Menu</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>Handle Agency Events</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Handle Charity Events</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Check Results</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Handle Special Events</Chapters.2.Tasks.2>
+			<Tasks.1.TaskDesc>Click to open World Map.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Click City of Abundance.</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>Before an outer disciple is assigned to an agency, there are requirements to be met.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>Click Mt. South.</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Once an outer disciple has been assigned to an agency, more agency functions and buildings will be unlocked.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Click to close the Mt. South menu.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click to close the World Map menu.</Tasks.9.TaskDesc>
+			<Tasks.11.TipsData.Desc>Once the player has an agency, they can check and manage the agency.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Click the Power button in the right.</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>Here's all the agencies in the game, and only if the agency has been assigned to a disciple can the player manage it through this menu. The main info of each agency can be quickly accessed here, and clicking the buttons in the right opens the Agency menu for more details.</Tasks.14.TipsData.Desc>
+			<Tasks.16.TaskDesc>Click Manual Labor.</Tasks.16.TaskDesc>
+			<Tasks.17.TipsData.Desc>Each agency can have different local policies. When special events happen, deciding the policy is often related to factors like influence, Belief and population.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Click Charity.</Tasks.18.TaskDesc>
+			<Tasks.20.TipsData.Desc>Each agency has its own storage. Every once in a while, the player can click Claim to collect the local resources, but remember that the storage is limited.</Tasks.20.TipsData.Desc>
+			<Tasks.21.TaskDesc>Click Claim.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Click Okay.</Tasks.22.TaskDesc>
+			<Tasks.24.TipsData.Desc>Sometimes paying close attention is a good way to increase the frequency of events in the agency, but it will cost more resources.</Tasks.24.TipsData.Desc>
+			<Tasks.25.TaskDesc>Click Watch.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Click Mt. South.</Tasks.27.TaskDesc>
+			<Tasks.28.TipsData.Desc>Here's the main info on the agencies controlled by the player, such as key agents, main buildings, output, storage, etc.</Tasks.28.TipsData.Desc>
+			<Tasks.29.TaskDesc>Click Agent on the left.</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>Here's the info on the agents of the agencies controlled by the player, like the agent's total stats and disciple agents.</Tasks.30.TipsData.Desc>
+			<Tasks.31.TaskDesc>Click Belief on the left.</Tasks.31.TaskDesc>
+			<Tasks.32.TipsData.Desc>Here's the info on Belief in the agencies controlled by the player, such as local religious trends, Belief, statues, total population, etc.</Tasks.32.TipsData.Desc>
+			<Tasks.33.TaskDesc>Click to close the Mt. South menu.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Click to close the World Map menu.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Click to close the Power Management menu.</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>Once the player has an agency, they can check and manage the agency.</Tasks.37.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>Once an event happens in the agency, the player can check it in the small window in the right. If the player has handled the event before the countdown ends, there will be rewards.</Tasks.40.TipsData.Desc>
+			<Tasks.41.TaskDesc>Click the Inspect Events button in the right.</Tasks.41.TaskDesc>
+			<Tasks.42.TipsData.Desc>Following the tips, the player can choose an appropriate solution, the effect of which is usually related to the stats of the disciples at the agency.</Tasks.42.TipsData.Desc>
+			<Tasks.43.TaskDesc>Click to select Wood.</Tasks.43.TaskDesc>
+			<Tasks.44.TaskDesc>Click Yes.</Tasks.44.TaskDesc>
+			<Tasks.45.TipsData.Desc>Once the event is dealt with, the policy window will no longer show the exclamation point.</Tasks.45.TipsData.Desc>
+			<Tasks.46.TaskDesc>Click to close the Power Management menu.</Tasks.46.TaskDesc>
+			<Tasks.48.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.48.TaskDesc>
+			<Tasks.50.TaskDesc>An event window that pops up after the charity event is completed.</Tasks.50.TaskDesc>
+			<Tasks.51.TaskDesc>Click to check the result.</Tasks.51.TaskDesc>
+			<Tasks.52.TipsData.Desc>After the player successfully completes an event, the agency will gain a lot of followers. A large number of followers benefit the expansion of the agency.</Tasks.52.TipsData.Desc>
+			<Tasks.53.TaskDesc>Click OK.</Tasks.53.TaskDesc>
+			<Tasks.56.TaskDesc>Click OK.</Tasks.56.TaskDesc>
+			<Tasks.57.TaskDesc>Click the message in the left, 'A disaster at the Tutorial Hall: Earthquake'.</Tasks.57.TaskDesc>
+			<Tasks.58.TipsData.Desc>The player can check the message in the left to see the on-going special event in the agency.</Tasks.58.TipsData.Desc>
+			<Tasks.59.TaskDesc>Click Mt. South.</Tasks.59.TaskDesc>
+			<Tasks.60.TipsData.Desc>The player needs to meet the following requirements before the countdown ends. The event is only completed if the requirements are met before the countdown ends. A number of followers will leave if the event is not completed. The player can use adventure to help finish special events.</Tasks.60.TipsData.Desc>
+			<Tasks.62.TipsData.Desc>Sometimes there are special events in the agency for the player to handle. If handled appropriately, the agency will gain a lot of influence. A large influence helps the player to expand their territory and level up the agency. Agencies can also bring many benefits to the player's sect, such as local output, recruiting disciples, obtaining Belief, etc.</Tasks.62.TipsData.Desc>
+		</Text>
+		<Text Name="SchoolInteractive">
+			<Type>Development</Type>
+			<DisplayName>Sect Interaction</DisplayName>
+			<Desc>In this tutorial, learn how to interact with the other sects and trade with them.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Build Relations with Other Sects</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Visit Mr. Shu</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Complete Sect Quests</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>How to Trade with Other Sects</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Sect Trade</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check Trading Items</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Attempt Trade</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Attempt Trade Again</Chapters.1.Tasks.3>
+			<Tasks.1.TaskDesc>Click to open World Map.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Click to select Mt. Shu.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Click Visit.</Tasks.4.TaskDesc>
+			<Tasks.5.TipsData.Desc>The player needs to give the sect a meeting gift to complete the visit, so please plan a trade area beforehand and select an appropriate trading item. More contents will only be unlocked after the visit is completed.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Click Sheet Music.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Click Confirm.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Click Confirm.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click to close the World Map menu.</Tasks.9.TaskDesc>
+			<Tasks.13.TipsData.Desc>When a notification for a sect quest pops up, the player can gift the needed item in the Expand menu.</Tasks.13.TipsData.Desc>
+			<Tasks.14.TaskDesc>Click Okay.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Click to open World Map.</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Once a sect quest has been triggered, a question mark will show above the Expand button, which means the player can offer help to another sect and gain connections.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>Click Expand in the top left to enter the Expand mode.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>Here's the quest item needed by the other sect. The player needs to place the prepared item in the trade area to give it to them.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TaskDesc>Click Give.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Click Life Pill.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Click Confirm.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Click OK.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Click Confirm.</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>There are many ways to gain connections with another sect, which affect future trade with the sect. Generally, trading with a sect will benefit from more connections with it.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>Click to select Mt. Shu.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Click Trade.</Tasks.28.TaskDesc>
+			<Tasks.30.TipsData.Desc>The player can see what items are tradable here. An item shown in red means the connections with the other sect are too low to trade this type of items.</Tasks.30.TipsData.Desc>
+			<Tasks.31.TaskDesc>Click the item menu to zoom.</Tasks.31.TaskDesc>
+			<Tasks.32.TipsData.Desc>The player can click and zoom to see more tradable types, like renting artifacts and asking for help from disciples with Golden Core.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TaskDesc>Click the item menu to zoom.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Click Red Ginseng from Sect Items in the left.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Click Blood Talisman from Player Items in the right.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Click Attempt Trade.</Tasks.37.TaskDesc>
+			<Tasks.39.TaskDesc>Click Blood Talisman from Player Items in the right.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Click Attempt Trade.</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Click Confirm.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Click Confirm.</Tasks.42.TaskDesc>
+			<Tasks.44.TipsData.Desc>During sect trade, the player can use 'Attempt Trade' to estimate the value of the other sect's item, which helps to purchase the item at an appropriate price.</Tasks.44.TipsData.Desc>
+		</Text>
+		<Text Name="MapExplore">
+			<Type>Development</Type>
+			<DisplayName>Exploration</DisplayName>
+			<Desc>Learn how to enter a location and begin exploration in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Gain Access</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Jurisdiction</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Purchase Access</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Exploration</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Check Enter</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Enter the Map</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Moving Exploration</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Hidden Exploration</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Map Interactions</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Collect Items</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Leave the Map</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Click to open World Map.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Click Mt. Nelumbo.</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>Here shows the jurisdiction of the current location. If a location belongs to a power, disciples need to gain access from this power to go on adventure or camping there.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>Click Trade.</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Access can be purchased in advance to freely enter all the locations belonged to the sect, which helps the player explore the other locations of the sect.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Click Access from Sect Access in the left.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click Earth Flux from Player Items in the right.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Click Confirm.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Click Confirm.</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>The red area in World Map is where the player has no access to. You can purchase access to the areas that belonged to this power. After being unlocked, the area will turn to the normal color, which means the player can enter and explore there.</Tasks.13.TipsData.Desc>
+			<Tasks.15.TaskDesc>Click to select Mt. Shu.</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Most locations in the game can be entered and explored by dispatching the disciple who is camping there.</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>Click Enter.</Tasks.18.TaskDesc>
+			<Tasks.19.TipsData.Desc>The player can send a disciple camping there to enter the map.</Tasks.19.TipsData.Desc>
+			<Tasks.20.TaskDesc>Click and select a disciple.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Click Confirm.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Click Yes.</Tasks.22.TaskDesc>
+		</Text>
+		<Text Name="MapExplore2">
+			<Type>Development</Type>
+			<DisplayName>Exploration II</DisplayName>
+			<Desc>Learn how to enter a location and begin exploration in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Exploration</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Enter</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Enter the Map</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Moving Exploration</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Hidden Exploration</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Map Interactions</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Collect Items</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Leave the Map</Chapters.1.Tasks.1>
+			<Tasks.3.TaskDesc>Click and select a disciple.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>The player can use the V key to move and explore the map.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Use the hotkey {0} to quickly accelerate to 2x Speed.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Use the hotkey {0} to quickly begin exploring.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Click Place and place it at the designated location.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Right-click to cancel the continuous moving mode.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Wait for them to move.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Click Hide and begin the hiding mode.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Hide</Tasks.11.UiData.Name>
+			<Tasks.13.TipsData.Desc>When sneaking, if the eye-shaped icon on the disciple is red, they have a high chance of being spotted by others; if it is yellow, they have a low chance of being spotted; if it is white, they will not be spotted; if there is no eye-shaped icon, it means nobody here is concerned about the disciple's movement.</Tasks.13.TipsData.Desc>
+			<Tasks.14.TaskDesc>Use the hotkey {0} to quickly begin exploring.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Click and move to the designated location.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Right-click to cancel the continuous moving mode.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Wait for them to move.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>The chance of being spotted is very much associated with the disciple's constitution and perception, and it is also influenced by the distance and difference in state between the disciple and the other character.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TipsData.Desc>Please remember that not all maps are safe. In some maps, there will be enemy targets or powers. There are also items and buildings in the map to interact with during exploration, which can be used to find out more contents. However, collecting an item of another sect when sneaking will have serious consequences if the disciple is spotted.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TaskDesc>Click Collect and begin collecting.</Tasks.22.TaskDesc>
+			<Tasks.22.UiData.Name>Collect</Tasks.22.UiData.Name>
+			<Tasks.23.TaskDesc>Click to collect the item Rebellious Blade.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Wait for Rebellious Blade to be collected.</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>Items collected by the player will be shown in this menu, and each disciple can carry six kinds of items at most. The player can discard unneeded items by clicking the corresponding button in the item menu. Collected items will be obtained once the disciple safely returns to the sect.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>Click and select a disciple.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Use the hotkey {0} to quickly begin exploring.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Click and move to the designated location.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Right-click to cancel the continuous moving mode.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Wait for them to move.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Click Hide and stops the hiding mode.</Tasks.32.TaskDesc>
+			<Tasks.32.UiData.Name>Hide</Tasks.32.UiData.Name>
+			<Tasks.34.TipsData.Desc>The player can click Leave to leave the current map and return to the sect, but the disciple needs to be safe first. They cannot leave the map if they are in battle. If the disciple's life is threatened, they will also be forced to leave.</Tasks.34.TipsData.Desc>
+			<Tasks.36.TipsData.Desc>There are various other locations in the game, but the basic method of exploration is the same. Please be careful exploring the other maps and pay attention to the hidden dangers and opportunities.</Tasks.36.TipsData.Desc>
+		</Text>
+		<Text Name="Fight">
+			<Type>Advanced</Type>
+			<DisplayName>Basic Battle</DisplayName>
+			<Desc>Learn the basic battle system and controls in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Battle Controls</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kill Mode &amp; Non-kill Mode</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Auto Defense Mode</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Escape Battle</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Multi-person Battles</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Select Multiple People to Attack</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Move &amp; Attack</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Switch Fighters</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Click and select an inner disciple.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Check the Defeat mode in the left to the Status menu below.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>Check the Defense mode in the left to the Status menu below.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Check the Flee mode in the left to the Status menu below.</Tasks.6.TaskDesc>
+			<Tasks.8.TipsData.Desc>These are the most common modes of controls during battle. Of course there are other modes waiting for the player to explore in the game.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Hold down the left mouse button and drag to select all the disciples in the room.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Use the hotkey {0} for Attack.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Issue the Attack order on the Monster.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Use the hotkey {0} for Move.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Click and move to the designated location.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Wait for them to move.</Tasks.16.TaskDesc>
+			<Tasks.17.TipsData.Desc>The player can use move and attack at the same time to draw out the battle and sometimes it can even turn the tide.</Tasks.17.TipsData.Desc>
+			<Tasks.19.TaskDesc>Click the injured disciple in battle.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Click Flee.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Use the hotkey {0} for Move.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Move to a safer place in the sect.</Tasks.22.TaskDesc>
+			<Tasks.23.TipsData.Desc>The player can use Flee to make injured disciples leave the battle and retreat to a safer place to ensure that no one dies.</Tasks.23.TipsData.Desc>
+			<Tasks.24.TaskDesc>Click and select an inner disciple not in battle.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Use the hotkey {0} for Attack.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Issue the Attack order on the Monster.</Tasks.26.TaskDesc>
+			<Tasks.27.TipsData.Desc>The player can replace the disciples in the team during battle to continue the fight. Of course the player can arrange multiple teams to take turns to fight or receive supplies.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TipsData.Desc>In battle, the player can change controls in response to different situations to get an advantage over the enemy and prevent the sect from being destroyed.</Tasks.29.TipsData.Desc>
+		</Text>
+		<Text Name="ZhenFa">
+			<Type>Advanced</Type>
+			<DisplayName>Formation</DisplayName>
+			<Desc>Learn how to edit a formation and set members for the formation in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Formation Edit</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Create a New Formation</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Formation Configuration</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Formation Assessment &amp; Members</Chapters.1.Tasks.0>
+			<Chapters.2.DisplayName>Formation Operation</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Form Formation</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Formation Menu</Chapters.2.Tasks.1>
+			<Tasks.1.TipsData.Desc>Once a formation, auxiliary or pillar is obtained through any other method in the game, the player can create or check the formation here.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Click Formation.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Here's all the formations the player owns. Click to check or modify any formation configuration.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Click Create.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Click to select an auxiliary circle.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Click to select the pillar Hidden Blade of Positivity.</Tasks.7.TaskDesc>
+			<Tasks.8.TipsData.Desc>When editing a formation, the player needs to set up a pillar first, which can connect to other auxiliaries. There can only be one pillar.</Tasks.8.TipsData.Desc>
+			<Tasks.9.TaskDesc>Click to select an auxiliary circle.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Click to select the auxiliary Sword.</Tasks.10.TaskDesc>
+			<Tasks.11.TipsData.Desc>When editing a formation, the player can place auxiliaries that connect to a corresponding formation link. If a link is correctly connected, the linked area will be green, for instance, the current auxiliary “Sword” has been properly activated.</Tasks.11.TipsData.Desc>
+			<Tasks.12.TipsData.Desc>If an edited formation has an auxiliary that is not correctly connected, it will be shown as incomplete, and an incomplete formation cannot be formed.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TipsData.Desc>Once an edited formation meets the requirements for Truth of Formations, it will obtain bonus effects. Different pillars have different Truth of Formations.</Tasks.13.TipsData.Desc>
+			<Tasks.14.TipsData.Desc>Once the player has finished editing a formation, click Save to save the newly created formation.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Click Return.</Tasks.15.TaskDesc>
+			<Tasks.17.TipsData.Desc>Once a complete formation has been edited and saved, the player can appoint characters to this formation and be prepared to form it.</Tasks.17.TipsData.Desc>
+			<Tasks.19.TaskDesc>Click Configuration Tutorial.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Click the Config button in the right.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Click to select the first one: Tutorial.</Tasks.21.TaskDesc>
+			<Tasks.22.TipsData.Desc>The player can allocate an inner disciple to each pillar and auxiliary. Along the route from an auxiliary to the pillar, each time an element begets the next element, the auxiliary links will enjoy amplified special effects, and vice versa.</Tasks.22.TipsData.Desc>
+			<Tasks.23.TaskDesc>Click Pillar.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Click and select a disciple.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Click Confirm.</Tasks.25.TaskDesc>
+			<Tasks.26.TipsData.Desc>A formation has nine different related stats. The player can check them through the Formation Assessment in the left.</Tasks.26.TipsData.Desc>
+			<Tasks.27.TaskDesc>Click the Save button in the right.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Click Close in the top right.</Tasks.28.TaskDesc>
+			<Tasks.30.TipsData.Desc>Once the formation is complete and members have been allocated, the player can form the formation to activate it.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Click and select a disciple.</Tasks.32.TaskDesc>
+			<Tasks.33.TipsData.Desc>Only the disciple at the pillar is able to form the formation. When all the disciples at the other auxiliaries are healthy and in the same area, the formation can be formed following the configuration.</Tasks.33.TipsData.Desc>
+			<Tasks.34.TaskDesc>Click Form Formation.</Tasks.34.TaskDesc>
+			<Tasks.35.TipsData.Desc>Before forming the formation, the player can check the details to confirm the actual bonus effects and stats after the formation is formed.</Tasks.35.TipsData.Desc>
+			<Tasks.36.TaskDesc>Click Form Formation.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Wait for the formation to be formed.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>Here's all the formation skills of the current formation, each of which has different uses.</Tasks.39.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>Here's the spell skills of the disciples in the formation.</Tasks.40.TipsData.Desc>
+			<Tasks.41.TipsData.Desc>The player can use the controls here issue various orders to the formation.</Tasks.41.TipsData.Desc>
+			<Tasks.42.TaskDesc>Click to check Focus.</Tasks.42.TaskDesc>
+			<Tasks.43.TipsData.Desc>The player can check Focus to pay close attention to the operation of the formation, which helps to adjust the formation anytime in the battle.</Tasks.43.TipsData.Desc>
+			<Tasks.45.TipsData.Desc>The player can arrange and combine different features to form a more suitable and powerful formation, and even master an ancient formation. Different formations have different effects, waiting for the player to explore, so this tutorial will not explain how to edit any other formations.</Tasks.45.TipsData.Desc>
+		</Text>
+		<Text Name="DragonHole">
+			<Type>Advanced</Type>
+			<DisplayName>Mysterious Cavern</DisplayName>
+			<Desc>In this tutorial, learn the influence of mysterious caverns and how to use Feng Shui relics to suppress them.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Flood Dragon Cave</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Mysterious Cavern</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Suppress Mysterious Caverns</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Place Feng Shui Relics</Chapters.1.Tasks.0>
+			<Tasks.2.TaskDesc>Click OK.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>When a certain period of time has passed in the game, a special secret will happen where a mysterious cavern will appear at a random spot in the location of the player's sect, and a Flood Dragon will be sleeping inside it. The player can use different methods to handle the situation, one of which is to use Feng Shui relics that make rooms very auspicious to suppress the cavern.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>There are many ways to handle a mysterious cavern, but for late-stage players who are still not sure what to do, choose Feng Shui relics to suppress it. As the other methods requires deeper understanding of the game, this tutorial will not go into details.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>An identified Feng Shui relic will have a detailed description. The player needs to refer to the description and place it in the right spot to correctly activate the relic. Once it is activated, it will instantaneously make the room very auspicious.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Click to select the Feng Shui relic Spirit Crystal.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click Place.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Place</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Click to select Display.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Select the room by clicking the empty area in it.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>When placing a Feng Shui relic, the player can observe the Feng Shui change in the room here.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Wait for them to be placed.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>When a Feng Shui relic is in an environment that meets the description, it will be a match that makes the room very auspicious, which can suppress the mysterious cavern.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>When the player successfully suppresses the mysterious cavern, the Flood Dragon in slumber will also be effectively subdued, and the player can use this window of time to improve the disciples' ability in order to destroy it sooner.</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="DragonFight">
+			<Type>Advanced</Type>
+			<DisplayName>Boss Battle</DisplayName>
+			<Desc>In this tutorial, learn how to inspect the basic info on ancient beasts and use it to engage in battle with these beasts.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Learn About Ancient Beast</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Learn About Ancient Beast</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Flood Dragon Body Parts in Battle</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Check Each Body Part</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Check Stats of Disciple's Artifact</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Open the Secret menu in the right.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Click Ancient Beast.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Click Flood Dragon.</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>Once an ancient beast secret is unlocked, the player can check the info on the related skills of the boss.</Tasks.4.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>Here shows that the Flood Dragon is of Water element that is more suspectable to Earth damage.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Close the Secret menu.</Tasks.6.TaskDesc>
+			<Tasks.8.TipsData.Desc>The player can encounter the other ancient beasts through different methods in the game, which will not be listed here in detail.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Click Flood Dragon.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Click Focus.</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>You can keep track of Qi status of the Jiao-dragon's each body part through setting foci, and develop your strategy accordingly.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>Click Focus.</Tasks.13.TaskDesc>
+			<Tasks.15.TaskDesc>Click and select an inner disciple.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Click to open the Items &amp; Equipment menu.</Tasks.16.TaskDesc>
+			<Tasks.17.TipsData.Desc>According to the info above, we can wear an artifact of Earth element to attack the Flood Dragon.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Click to close the Item &amp; Equipment menu.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Click the Attack button in the left of the character menu.</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>The player can focus the attack on a specific body part to quickly destroy this part of the Flood Dragon.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TipsData.Desc>Each player uses different controls and strategies in battle, so this tutorial will not go into detail about battles, which the player can experience in the game. Once the boss is defeated, there will be different remains from its body, which can be searched for spoils. More body parts destroyed means more spoils to be obtained.</Tasks.22.TipsData.Desc>
+		</Text>
+		<Text Name="GetFood">
+			<Type>Advanced</Type>
+			<DisplayName>Emergency Food Acquisition</DisplayName>
+			<Desc>In this tutorial, learn how to quickly acquire food in an extremely difficult environment.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Lack of Food Notification</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Notification</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Emergency Handling</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Use Repeat Adventure for Food</Chapters.1.Tasks.0>
+			<Tasks.1.TipsData.Desc>When the player's food storage is insufficient, this notification will pop up.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>If the food storage is insufficient, the disciples in the player's sect may slowly starve to death, so the player needs to respond to this emergency, like going on adventures to obtain food.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Click to open World Map.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Click Nanping Village.</Tasks.7.TaskDesc>
+			<Tasks.8.TipsData.Desc>Nanping Village is the nearest location with food resources.</Tasks.8.TipsData.Desc>
+			<Tasks.9.TaskDesc>Click Adventure.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Click and select a disciple.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Click and select another disciple.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Click Confirm.</Tasks.12.TaskDesc>
+			<Tasks.13.TipsData.Desc>Use the slider to adjust the times of repeat adventure.</Tasks.13.TipsData.Desc>
+			<Tasks.14.TaskDesc>Click Okay.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>The player can simultaneously send multiple disciples on adventure and use repeat adventure to both lower the need for food in the sect and increase the output of food by adventure in a period of time. The player can then wait for the disciples to bring back food.</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="CombatWeather">
+			<Type>Advanced</Type>
+			<DisplayName>Extreme Weather Handling</DisplayName>
+			<Desc>In this tutorial, learn some of the extreme weather in the game and how to handle them.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Influence of Extreme Weather</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Weather</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check Temperature</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>How to Handle</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Equip Talisman of Supreme Yang</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Inspect Heat Source</Chapters.1.Tasks.1>
+			<Tasks.1.TipsData.Desc>When extreme weather happens in the player's sect, the player can check the Weather icon in the top left to see its duration. The player needs to adjust their strategy in time to handle the situation.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>When extreme weather happens, it will change the current temperature.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Click and select a disciple.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Click to open the General Stats menu.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>The temperature stats of the disciples in the sect decide whether they will be affected by extreme weather.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TipsData.Desc>When a disciple in the player's sect is uncomfortable due to the extreme weather, it may cause injuries, and the disciple may die if the injuries are too severe.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Click Equip Item.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Equip</Tasks.10.UiData.Name>
+			<Tasks.12.TaskDesc>Click to equip Talisman of Supreme Yang.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Wait for it to be equipped.</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>A disciple can equip a talisman or use other methods to increase their temperature, which is the most direct way to deal with extreme weather.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Click to close the General Stats menu.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Select the room by clicking the empty area in it.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>There are many buildings or items that can increase the temperature in an area. The player can use them smartly to deal with extreme weather.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TipsData.Desc>There are more than one types of extreme weather. The player needs to use the items in the game wisely to better handle the other types of extreme weather.</Tasks.20.TipsData.Desc>
+		</Text>
+		<Text Name="Prestige">
+			<Type>Advanced</Type>
+			<DisplayName>Management &amp; Control of Reputation</DisplayName>
+			<Desc>In this tutorial, learn what Talisman of Invisibility is used for and how to use it to lower reputation.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Use of Talisman of Invisibility</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check Sect's Reputation</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Inspect Talisman of Invisibility</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Equip Talisman of Invisibility</Chapters.0.Tasks.2>
+			<Tasks.1.TaskDesc>Click the Sect button in the right.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>In the game, more reputation will invite stronger enemies to attack, so the player needs to utilize the items in the game to lower the obtained reputation.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Click to close the Sect menu.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>The player can obtain the Talisman of Invisibility by drawing. When an inner disciple goes on adventure with an activated Talisman of Invisibility, it can effectively lower the obtained reputation.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Click and select a disciple.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Click Equip Item.</Tasks.8.TaskDesc>
+			<Tasks.8.UiData.Name>Equip</Tasks.8.UiData.Name>
+			<Tasks.10.TaskDesc>Click to equip Talisman of Invisibility.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Wait for it to be equipped.</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>Reputation to some extent affects the player's sect, so the player can make use of the Talisman of Invisibility to lower the obtained reputation in order to manage the sect's reputation.</Tasks.13.TipsData.Desc>
+		</Text>
+		<Text Name="ShortcutKey">
+			<Type>Advanced</Type>
+			<DisplayName>Hotkeys</DisplayName>
+			<Desc>Learn about the common hotkeys and how to customize hotkeys in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Setting Hotkeys</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check the Hotkeys Menu</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Use Hotkeys</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Use Interactive Hotkeys</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Use Hotkeys to Organize a Team</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Use Hotkeys to Move and Attack</Chapters.1.Tasks.2>
+			<Tasks.2.TipsData.Desc>The player can click System and then Hotkeys to check the Hotkeys menu, where hotkeys can be customized and reset.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Click to close the Hotkeys menu.</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>The player can adjust the hotkeys to suit their habit and use them accordingly.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Click and select a disciple.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Use the hotkey F1 for Eat.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click to select.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Use the hotkey F2 for Equip Item.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Click to select.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Hold down the left mouse button and drag to select all the disciples in the room.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Use Left Ctrl and the key 1 to organize them into Team 1.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Right-click to cancel.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Use the key 1 to choose Team 1.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Use the hotkey {0} for Attack.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Issue the Attack order on the Monster.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Use the hotkey {0} for Move.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Issue a Move order to move to the designated location.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>There are many controls that can be done by hotkeys. The player can adjust them according to their habit. The player can place the cursor on the buttons to check the other hotkeys, so this tutorial will not go into detail about them.</Tasks.23.TipsData.Desc>
+		</Text>
+		<Text Name="Batch">
+			<Type>Advanced</Type>
+			<DisplayName>Batch Task</DisplayName>
+			<Desc>In this tutorial, learn some of the common batch tasks in the game and how to issue them.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Basic Batch Tasks</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Eat Elixirs in Batch</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Ban &amp; Cancel Ban in Batch</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Rebuild in Batch</Chapters.0.Tasks.2>
+			<Tasks.1.TaskDesc>Click and select a disciple.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>The player can place the cursor to see the hotkey for issuing a batch task of Eat. The player can press Left Shift and left-click multiple food to eat them in batch.</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Eat</Tasks.2.UiData.Name>
+			<Tasks.3.TaskDesc>Click the Eat button.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Eat</Tasks.3.UiData.Name>
+			<Tasks.4.TaskDesc>Press Shift and select the items to be eaten.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Right-click to cancel the selection mode.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Click Cancel in the bottom menu.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Drag and select a target area while holding Ctrl to issue Rebuild in batch.</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>The player can use Ban in batch to ban some of the items that are not currently needed.</Tasks.9.TipsData.Desc>
+			<Tasks.10.TaskDesc>Drag and select a target area while holding Ctrl to issue Cancel Ban in batch.</Tasks.10.TaskDesc>
+			<Tasks.11.TipsData.Desc>The player can use Cancel Ban in batch to cancel the ban on some of the banned items.</Tasks.11.TipsData.Desc>
+			<Tasks.12.TaskDesc>Right-click to cancel the selection mode.</Tasks.12.TaskDesc>
+			<Tasks.14.TipsData.Desc>The player can use Rebuild in batch to rebuild the damaged buildings.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Click Demolish in the bottom menu.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Drag and select a target area while holding Ctrl to issue Rebuild in batch.</Tasks.16.TaskDesc>
+			<Tasks.17.TipsData.Desc>Once the player uses Rebuild in batch, the outer disciples scheduled for construction will automatically go to the damaged buildings and rebuild them.</Tasks.17.TipsData.Desc>
+			<Tasks.19.TipsData.Desc>There are other forms of batch tasks in the game, waiting for the player to explore.</Tasks.19.TipsData.Desc>
+		</Text>
+		<Text Name="AreaExpand">
+			<Type>Advanced</Type>
+			<DisplayName>Area Expansion</DisplayName>
+			<Desc>In this tutorial, learn how to quickly expand the various areas in buildings and use area expansion to inherit the area stats.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Area Expansion</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Expand Storage</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Expand Field</Chapters.0.Tasks.1>
+			<Tasks.1.TipsData.Desc>When the storage hits full capacity, the player can expand the area of storage to increase its capacity.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Click the Area page.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Area</Tasks.3.UiData.Name>
+			<Tasks.4.TaskDesc>Click Storage to begin storage planning.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Drag to expand the storage.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Right-click to cancel the Build mode.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Select the storage.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Open the Storage menu.</Tasks.8.TaskDesc>
+			<Tasks.8.UiData.Name>Filter</Tasks.8.UiData.Name>
+			<Tasks.9.TipsData.Desc>An expanded storage will keep the filter settings of the original storage.</Tasks.9.TipsData.Desc>
+			<Tasks.10.TaskDesc>Close the Storage menu.</Tasks.10.TaskDesc>
+			<Tasks.12.TipsData.Desc>When the area of the field can no longer satisfy the inner disciples' needs, the player can expand the field to increase the acreage of the area for plants.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Click Field to begin field planning.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Drag to expand the field.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Right-click to cancel the Build mode.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Select the field.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>An expanded field will keep the plant settings of the original field.</Tasks.18.TipsData.Desc>
+			<Tasks.18.TipsData.Name>Grow Plants</Tasks.18.TipsData.Name>
+			<Tasks.20.TipsData.Desc>There are similar areas in the game that can be expanded in this way, so this tutorial will not go into detail about them.</Tasks.20.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>

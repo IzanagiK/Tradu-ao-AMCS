@@ -1,0 +1,282 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>[Empty]</DisplayName>
+			<Desc>This Favor has been lost, as has all information concerning it. (Empty).</Desc>
+		</Text>
+		<Text Name="Opinion">
+			<DisplayName>Opinion</DisplayName>
+			<Desc>A special Favor label, used in sorting different opinions.</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>Withdrawn</DisplayName>
+			<Desc>This world is run by profit, and the search for it. I don't trust anyone.</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>Amiable</DisplayName>
+			<Desc>Our meeting was predestined. We're all good friends!</Desc>
+		</Text>
+		<Text Name="BeReceived">
+			<DisplayName>Beloved</DisplayName>
+			<Desc>[HENAME] is charismatic, and has always been received well by others.</Desc>
+		</Text>
+		<Text Name="BeTrueMan">
+			<DisplayName>Well-Versed</DisplayName>
+			<Desc>Others hold [HENAME] in high regard for their real-life experience.</Desc>
+		</Text>
+		<Text Name="Loyal">
+			<DisplayName>Gallant</DisplayName>
+			<Desc>[HENAME] has a strong sense of justice, and makes a good friend.</Desc>
+		</Text>
+		<Text Name="BeiGuoXia">
+			<DisplayName>Scapegoat</DisplayName>
+			<Desc>[HENAME] often shoulders the blame for others, earning the affection of their peers.</Desc>
+		</Text>
+		<Text Name="DongShiZhang">
+			<DisplayName>Boss</DisplayName>
+			<Desc>[HENAME], that's our boss alright!</Desc>
+		</Text>
+		<Text Name="HaoShuang">
+			<DisplayName>Chivalrous</DisplayName>
+			<Desc>Just of heart and chivalrous by nature, [HENAME] inspires friendship in those around them!</Desc>
+		</Text>
+		<Text Name="BeginTogether">
+			<DisplayName>Wanderer</DisplayName>
+			<Desc>[HENAME] traveled the lands at my side.</Desc>
+		</Text>
+		<Text Name="Charisma0">
+			<Desc>Charisma Favor 0</Desc>
+			<Layers.0.DisplayName>Nasty</Layers.0.DisplayName>
+			<Layers.0.Desc>Why do people like [HENAME] have to exist...</Layers.0.Desc>
+			<Layers.1.DisplayName>Unkind</Layers.1.DisplayName>
+			<Layers.1.Desc>It's hard work, trying to get on with [HENAME].</Layers.1.Desc>
+			<Layers.2.DisplayName>Reticent</Layers.2.DisplayName>
+			<Layers.2.Desc>Despite not being great at getting along with others, [HENAME] is a good person really.</Layers.2.Desc>
+		</Text>
+		<Text Name="Charisma1">
+			<Desc>Charisma Favor 1</Desc>
+			<Layers.0.DisplayName>Hypocrite</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] is a fraud, acting all high and mighty.</Layers.0.Desc>
+			<Layers.1.DisplayName>Cultured</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] seems like a good person.</Layers.1.Desc>
+			<Layers.2.DisplayName>Considerate</Layers.2.DisplayName>
+			<Layers.2.Desc>It's easy getting along with [HENAME] as they're so considerate.</Layers.2.Desc>
+		</Text>
+		<Text Name="Charisma2">
+			<Desc>Charisma Favor 2</Desc>
+			<Layers.0.DisplayName>Noble</Layers.0.DisplayName>
+			<Layers.0.Desc>I can't stand [HENAME], but they are valiant, it's true.</Layers.0.Desc>
+			<Layers.1.DisplayName>Dashing</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] seems so refined, and classy.</Layers.1.Desc>
+			<Layers.2.DisplayName>Ray of Sunshine</Layers.2.DisplayName>
+			<Layers.2.Desc>Getting along with [HENAME] is truly a joy. They're a little ray of sunshine, and a great friend.</Layers.2.Desc>
+		</Text>
+		<Text Name="Relative">
+			<Desc>[HENAME] is my [TXT].</Desc>
+		</Text>
+		<Text Name="Practice">
+			<Desc>[HENAME] is my [TXT].</Desc>
+		</Text>
+		<Text Name="PracticeOther">
+			<Desc>[HENAME] is my [TXT].</Desc>
+		</Text>
+		<Text Name="Family">
+			<Desc>[HENAME] is my [TXT].</Desc>
+		</Text>
+		<Text Name="Friend">
+			<Desc>Friendship Favor 2</Desc>
+			<Layers.0.DisplayName>Friend</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] is my friend, although we've been having problems as of late.</Layers.0.Desc>
+			<Layers.1.DisplayName>Friend</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] is a good friend of mine.</Layers.1.Desc>
+			<Layers.2.DisplayName>Faithful Friend</Layers.2.DisplayName>
+			<Layers.2.Desc>[HENAME] is my faithful friend.</Layers.2.Desc>
+		</Text>
+		<Text Name="Scar">
+			<DisplayName>Scar</DisplayName>
+			<Desc>[HENAME] has got a nasty scar on their face.</Desc>
+		</Text>
+		<Text Name="Fancy">
+			<DisplayName>Attraction</DisplayName>
+			<Desc>Attraction</Desc>
+			<Layers.0.DisplayName>Attraction</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME]... *Sigh*.</Layers.0.Desc>
+			<Layers.1.DisplayName>Attraction</Layers.1.DisplayName>
+		</Text>
+		<Text Name="Lover">
+			<DisplayName>Lover</DisplayName>
+			<Desc>[HENAME] is my lover.</Desc>
+		</Text>
+		<Text Name="VisceralScar">
+			<DisplayName>Terrible Scar</DisplayName>
+			<Desc>[HENAME] has a terrible scar on their body that hurts to look at.</Desc>
+		</Text>
+		<Text Name="Evilfaced">
+			<DisplayName>Unattractive</DisplayName>
+			<Desc>[HENAME] is just plain ugly, not at all easy on the eyes.</Desc>
+		</Text>
+		<Text Name="BeautifulFace">
+			<DisplayName>Handsome</DisplayName>
+			<Desc>[HENAME] is a true beauty, spreading happiness with their looks alone.</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>Brusque</DisplayName>
+			<Desc>[HENAME]'s behavior toward others is just awful, I can't stand it.</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>Pleasant</DisplayName>
+			<Desc>[HENAME] is warm and accommodating, making it easy for others to get close to them.</Desc>
+		</Text>
+		<Text Name="SayHi">
+			<DisplayName>Greeting</DisplayName>
+			<Desc>[HENAME] and I shared a greeting.</Desc>
+		</Text>
+		<Text Name="AfterTalk">
+			<DisplayName>Chat</DisplayName>
+			<Desc>I had a chat with [HENAME], it was pretty great.</Desc>
+		</Text>
+		<Text Name="DeepTalk">
+			<DisplayName>Heart-to-heart Talk</DisplayName>
+			<Desc>I had a heart-to-heart talk with [HENAME]. We made quite a connection, and I think it drew us closer together.</Desc>
+		</Text>
+		<Text Name="Neglect">
+			<DisplayName>Cold Shoulder</DisplayName>
+			<Desc>I said something to [HENAME] but they hardly even acknowledged me. I don't even care, anyway. Whatever.</Desc>
+		</Text>
+		<Text Name="Quarrel">
+			<DisplayName>Quarrel</DisplayName>
+			<Desc>I had a bit of a disagreement with [HENAME]. They don't know what they're talking about, it's the worst.</Desc>
+		</Text>
+		<Text Name="Insult">
+			<DisplayName>Humiliated</DisplayName>
+			<Desc>[HENAME] and I traded insults. I really can't bear the sight of them, the moron.</Desc>
+		</Text>
+		<Text Name="SayHiFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I was making small talk with [HENAME] but for some reason things got all tense, and we started fighting. What a mess.</Desc>
+		</Text>
+		<Text Name="AfterTalkFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I had a chat with [TXT] and we ended up fighting for no real reason.</Desc>
+		</Text>
+		<Text Name="DeepTalkFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I opened my heart to [HENAME] but we entered into a heated argument, and even ended up coming to blows. It's such a shame.</Desc>
+		</Text>
+		<Text Name="NeglectFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I started talking to [HENAME] but they took offence to something I said, and we just ended up fighting each other.</Desc>
+		</Text>
+		<Text Name="QuarrelFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I had a quarrel with [TXT] that could only be resolved with fists.</Desc>
+		</Text>
+		<Text Name="InsultFight">
+			<DisplayName>Fight</DisplayName>
+			<Desc>I traded insults with [HENAME]. The belligerent idiot had to be taught a lesson, with my fists.</Desc>
+		</Text>
+		<Text Name="WithYoung">
+			<Desc>Attitude toward the younger generation.</Desc>
+			<Layers.0.DisplayName>Rude to Elders</Layers.0.DisplayName>
+			<Layers.0.Desc>I think [HENAME] is an absolute rat.</Layers.0.Desc>
+			<Layers.1.DisplayName>Fond</Layers.1.DisplayName>
+			<Layers.1.Desc>I think [HENAME] is still just a kid.</Layers.1.Desc>
+			<Layers.2.DisplayName>Young Potential</Layers.2.DisplayName>
+			<Layers.2.Desc>I think [HENAME] shows promise.</Layers.2.Desc>
+		</Text>
+		<Text Name="WithElder">
+			<Desc>Attitude toward one's elders.</Desc>
+			<Layers.0.DisplayName>Rebellious</Layers.0.DisplayName>
+			<Layers.0.Desc>I don't like being around [HENAME], makes me feel awkward.</Layers.0.Desc>
+			<Layers.1.DisplayName>Respects Elders</Layers.1.DisplayName>
+			<Layers.1.Desc>I reckon [HENAME] should be treated respectfully, on account of their age.</Layers.1.Desc>
+			<Layers.2.DisplayName>Reverence</Layers.2.DisplayName>
+			<Layers.2.Desc>I hold [HENAME] in high esteem.</Layers.2.Desc>
+		</Text>
+		<Text Name="RivalInlove">
+			<Desc>Love Rival</Desc>
+			<Layers.0.DisplayName>Loathing</Layers.0.DisplayName>
+			<Layers.0.Desc>Oh, if I could just shove a blade into [HENAME] and be done with it.</Layers.0.Desc>
+			<Layers.1.DisplayName>Empathy</Layers.1.DisplayName>
+			<Layers.1.Desc>I think [HENAME] and I are similar in a lot of ways.</Layers.1.Desc>
+		</Text>
+		<Text Name="PersonalEnemyBegin">
+			<DisplayName>Hatred</DisplayName>
+			<Desc>I can't stand to even be in the same room as [HENAME].</Desc>
+		</Text>
+		<Text Name="FeatureOpposition">
+			<DisplayName>On Bad Terms</DisplayName>
+			<Desc>So that's the kind of person [HE] is. I despise [HE]. ([TXT])</Desc>
+		</Text>
+		<Text Name="FeatureClose">
+			<DisplayName>Close</DisplayName>
+			<Desc>I like people like [HE]. We're cut from the same cloth. ([TXT])</Desc>
+		</Text>
+		<Text Name="SameBackstory">
+			<DisplayName>Common Ground</DisplayName>
+			<Desc>We've a lot of shared experience ([TXT]).</Desc>
+		</Text>
+		<Text Name="FeedGood">
+			<DisplayName>Take Care</DisplayName>
+			<Desc>Thanks for looking after me.</Desc>
+		</Text>
+		<Text Name="FeedBad">
+			<DisplayName>What is this?</DisplayName>
+			<Desc>What are you trying to feed me?</Desc>
+		</Text>
+		<Text Name="ThankTreat">
+			<DisplayName>Heal</DisplayName>
+			<Desc>Thanks for helping me heal.</Desc>
+		</Text>
+		<Text Name="ThankHufa">
+			<DisplayName>Guard</DisplayName>
+			<Desc>Thank you, master.</Desc>
+		</Text>
+		<Text Name="BeAttack">
+			<DisplayName>Under Attack</DisplayName>
+			<Desc>Are you trying to kill me?</Desc>
+		</Text>
+		<Text Name="BeMagicBood">
+			<DisplayName>Appreciation</DisplayName>
+			<Desc>Thank you, for all you've done for me.</Desc>
+		</Text>
+		<Text Name="BeMagicBad">
+			<DisplayName>Damaged</DisplayName>
+			<Desc>What did you just do to me?</Desc>
+		</Text>
+		<Text Name="AmuseME">
+			<DisplayName>Amused</DisplayName>
+			<Desc>[HENAME] is a right barrel of laughs.</Desc>
+		</Text>
+		<Text Name="PersonalEnemy">
+			<DisplayName>Hatred</DisplayName>
+			<Desc>[HENAME] murdered [TXT].</Desc>
+		</Text>
+		<Text Name="MagicBad">
+			<DisplayName>Damaged</DisplayName>
+			<Desc>Witnessed [HENAME] harming [TXT].</Desc>
+		</Text>
+		<Text Name="MagicGood">
+			<DisplayName>Appreciation</DisplayName>
+			<Desc>Witnessed [HENAME] using magic against [TXT].</Desc>
+		</Text>
+		<Text Name="BeDeclaration">
+			<Layers.0.DisplayName>Declare Feelings</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] professed their feelings for me, haha.</Layers.0.Desc>
+			<Layers.1.DisplayName>Declare Feelings</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] told me of their feelings for me. My heart's racing.</Layers.1.Desc>
+		</Text>
+		<Text Name="Favour_School_FiveTangZhu">
+			<DisplayName>Disdain</DisplayName>
+			<Desc>How can [HENAME] act as Branch Leader, with that kind of performance?</Desc>
+		</Text>
+		<Text Name="Favour_School_ZhangMen">
+			<DisplayName>Sect Leader</DisplayName>
+			<Desc>[HENAME] is our Sect Leader.</Desc>
+		</Text>
+		<Text Name="Favour_School_TangZhu">
+			<DisplayName>Branch Leader</DisplayName>
+			<Desc>[HENAME] is our Branch Leader.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,40 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LongWish">
+			<SParam2>Va fazer um desejo</SParam2>
+		</Text>
+		<Text Name="MoveToTalk">
+			<SParam2>Va falar com o mercante</SParam2>
+		</Text>
+		<Text Name="MoveToTrade">
+			<SParam2>Va trocar com o mercante</SParam2>
+		</Text>
+		<Text Name="Move2UnlockGong">
+			<SParam2>Va ler uma cultivation law</SParam2>
+		</Text>
+		<Text Name="MoveToTake">
+			<SParam2>Va pegar animais</SParam2>
+		</Text>
+		<Text Name="GoToActiveLcBuild">
+			<SParam2>Va ativar a estatua</SParam2>
+		</Text>
+		<Text Name="MoveToTakeLc">
+			<SParam2>va adotar</SParam2>
+		</Text>
+		<Text Name="MoveToRefuseLc">
+			<SParam2>Va banir</SParam2>
+		</Text>
+		<Text Name="MoveToKickoutAnimal">
+			<SParam2>Va para banir</SParam2>
+			<SParam3>Banish,ksjujue,3</SParam3>
+		</Text>
+		<Text Name="MoveToFreePackAnimal">
+			<SParam2>Va abrir</SParam2>
+			<SParam3>Open,gain,3</SParam3>
+		</Text>
+		<Text Name="MoveToCanWu">
+			<SParam2>Va meditar</SParam2>
+			<SParam3>Meditate,dazuo,3</SParam3>
+		</Text>
+	</List>
+</Texts>

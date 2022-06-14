@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="CaveRoof" sParam="Building">
+			<ThingName>Cave Ceiling</ThingName>
+		</Text>
+		<Text Name="YaoRoof" sParam="Building">
+			<Desc>Roof. Just a decoration that does not affect the Feng Shui.</Desc>
+			<ThingName>Roof</ThingName>
+		</Text>
+		<Text Name="WoodRoof" sParam="Building">
+			<ThingName>Roof</ThingName>
+			<Desc>Roof. Just a decoration that does not affect the Feng Shui.</Desc>
+		</Text>
+		<Text Name="StoneRoof" sParam="Building">
+			<ThingName>Roof</ThingName>
+			<Desc>Roof. Just a decoration that does not affect the Feng Shui.</Desc>
+		</Text>
+		<Text Name="WoodRoof_SpringFestival" sParam="Building">
+			<ThingName>Roof (Spring)</ThingName>
+			<Desc>A special roof for the Spring Festival. Just a decoration that does not affect the Feng Shui.</Desc>
+		</Text>
+		<Text Name="StoneRoof_SpringFestival" sParam="Building">
+			<ThingName>Roof (Festival)</ThingName>
+			<Desc>A special roof for the Spring Festival. Just a decoration that does not affect the Feng Shui.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,129 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Happy1">
+			<DisplayName>Sudden Cheerfulness</DisplayName>
+			<Desc>I don't know why but, I feel cheerful all of a sudden.</Desc>
+			<StoryDesc>Feeling that When one's this cheerful, it really brightens one's day</StoryDesc>
+		</Text>
+		<Text Name="Happy2">
+			<DisplayName>Sudden Happiness</DisplayName>
+			<Desc>For some reason I feel quite happy all of a sudden.</Desc>
+			<StoryDesc>Feeling that Nothing's ever wrong with a little extra happiness</StoryDesc>
+		</Text>
+		<Text Name="Happy3">
+			<DisplayName>Sudden Hard Time</DisplayName>
+			<Desc>I don't know why but I'm having a hard time with things all of a sudden.</Desc>
+			<StoryDesc>Feeling that Who knows why, but things seem a bit depressing all of a sudden</StoryDesc>
+		</Text>
+		<Text Name="Happy4">
+			<DisplayName>Sudden Dismay</DisplayName>
+			<Desc>I feel a sense of dismay, it seems like everything is getting worse.</Desc>
+			<StoryDesc>Feeling that Who knows why, but things seem quite depressing</StoryDesc>
+		</Text>
+		<Text Name="Happy5">
+			<DisplayName>Sudden Downheartedness</DisplayName>
+			<Desc>It feels like nothing is going right...</Desc>
+			<StoryDesc>Feeling that Who knows why, but everything seems quite disheartening</StoryDesc>
+		</Text>
+		<Text Name="Happy6">
+			<DisplayName>Sudden Boost of Encouragement</DisplayName>
+			<Desc>I feel fired up! Like I could take on the world!</Desc>
+			<StoryDesc>Feeling that Spirits seem to soar all of a sudden</StoryDesc>
+		</Text>
+		<Text Name="Happen1">
+			<DisplayName>Indescribable Mood</DisplayName>
+			<Desc>I feel enveloped in an indescribable feeling...</Desc>
+			<StoryDesc>Feeling that A twisted look on the face gives little evidence as to what thoughts lie underneath</StoryDesc>
+		</Text>
+		<Text Name="Happen2">
+			<DisplayName>Indescribable Mood</DisplayName>
+			<Desc>I feel all alone...</Desc>
+			<StoryDesc>Feeling that There's a palpable sense of desolation about</StoryDesc>
+		</Text>
+		<Text Name="Happen3">
+			<DisplayName>A Funny Feeling</DisplayName>
+			<Desc>I feel like I'm being watched...</Desc>
+			<StoryDesc>Feeling that Feeling like one is being watched is always discomforting</StoryDesc>
+		</Text>
+		<Text Name="Happen4">
+			<DisplayName>Hearing Things</DisplayName>
+			<Desc>Is somebody talking to me? It feels like someone is whispering in my air, but the words can't quite be made out...this is annoying.</Desc>
+			<StoryDesc>Feeling that Hearing things really preys on the nerves</StoryDesc>
+		</Text>
+		<Text Name="Magic1">
+			<DisplayName>Inexplicably Good Mood</DisplayName>
+			<Desc>I feel really good for some reason.</Desc>
+			<StoryDesc>Feeling that Who knows why, but who's going to complain about a smile on one's face?</StoryDesc>
+		</Text>
+		<Text Name="Magic2">
+			<DisplayName>Immense Sorrow</DisplayName>
+			<Desc>I feel horrid, but I don't know why.</Desc>
+			<StoryDesc>Feeling that Inexplicably, things seem to be causing immense sorrow to well up</StoryDesc>
+		</Text>
+		<Text Name="ZhenkongJie">
+			<DisplayName>Curse of Void</DisplayName>
+			<Desc>I feel hollowed out.</Desc>
+			<StoryDesc>Feeling that This Tribulation leaves one feeling empty and ill at ease</StoryDesc>
+		</Text>
+		<Text Name="FengShui1">
+			<DisplayName>Good Feng Shui</DisplayName>
+			<Desc>This room's Feng shui is quite good, it's like a blessing.</Desc>
+			<StoryDesc>Feeling that Such good Feng shui leaves one beaming</StoryDesc>
+		</Text>
+		<Text Name="FengShui2">
+			<DisplayName>Favorable Feng Shui</DisplayName>
+			<Desc>The Feng shui is this room is not bad, things seem to be going well as a result.</Desc>
+			<StoryDesc>Feeling that Such good Feng shui lends a radiance to one's aura</StoryDesc>
+		</Text>
+		<Text Name="FengShui3">
+			<DisplayName>Not the Best Feng Shui</DisplayName>
+			<Desc>This room's Feng shui really is not the best and it's causing a lot of problems.</Desc>
+			<StoryDesc>Feeling that Less than ideal Feng shui is making things more difficult for this one</StoryDesc>
+		</Text>
+		<Text Name="FengShui4">
+			<DisplayName>Bad Feng Shui</DisplayName>
+			<Desc>The Feng shui in this room is horrid and so it feels like the whole world is against lately.</Desc>
+			<StoryDesc>Feeling that Feng Shui this bad leaves one feeling dark and gloomy</StoryDesc>
+		</Text>
+		<Text Name="FengShui5">
+			<DisplayName>Poor Feng Shui</DisplayName>
+			<Desc>I think there's something wrong with the Feng Shui in this room.</Desc>
+			<StoryDesc>Feeling that Feng Shui this poor leaves a frown on one's face</StoryDesc>
+		</Text>
+		<Text Name="Tool_PerfectWorld">
+			<DisplayName>A Beautiful World</DisplayName>
+			<Desc>Such a beautiful world this is, everything seems so interesting.</Desc>
+			<StoryDesc>Feeling that The understanding that this world is so beautiful leaves one extremely satisfied</StoryDesc>
+		</Text>
+		<Text Name="Mood_Tool_LunHui_QiYuan">
+			<DisplayName>Heart of Prayer</DisplayName>
+			<Desc>I can really feel the power of the Heart of Prayer!</Desc>
+			<StoryDesc>Feeling that The power of the Heart of Prayer leaves one quite content</StoryDesc>
+		</Text>
+		<Text Name="Dan_LunHui1">
+			<DisplayName>Touched</DisplayName>
+			<Desc>I feel moved by this memory and a bit content as a result.</Desc>
+			<StoryDesc>Feeling that Such a moving memory leaves one in a deep reverie</StoryDesc>
+		</Text>
+		<Text Name="Mood_Item_Laxative">
+			<DisplayName>Falling Apart</DisplayName>
+			<Desc>I feel like I'm falling apart...I don't feel so good.</Desc>
+			<StoryDesc>Feeling that Diarrhea is never welcome, it always darkens one's day</StoryDesc>
+		</Text>
+		<Text Name="Mood_LunHui_ShiYi">
+			<DisplayName>Caught in the Moment</DisplayName>
+			<Desc>I try to enjoy the moment, rather than dwell so much on the past.</Desc>
+			<StoryDesc>Feeling that It seems like something is being prepared for..</StoryDesc>
+		</Text>
+		<Text Name="Mood_LunHui_XinNian">
+			<DisplayName>Conviction</DisplayName>
+			<Desc>I believe in the Law and that without is not something that I trouble over.</Desc>
+			<StoryDesc>Feeling that Conviction provides encouragement</StoryDesc>
+		</Text>
+		<Text Name="Mood_GreenBrothel">
+			<DisplayName>Feeling Good</DisplayName>
+			<Desc>Just released themselves and it felt good.</Desc>
+			<StoryDesc>Feeling that Went to the Green Pagoda and it felt very good</StoryDesc>
+		</Text>
+	</List>
+</Texts>

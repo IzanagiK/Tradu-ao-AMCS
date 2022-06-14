@@ -1,0 +1,65 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Animal_EatLikeFood">
+			<Events.0.Story>[name] found that [hename] seems to like it a lot.</Events.0.Story>
+		</Text>
+		<Text Name="Animal_EatDisLikeFood">
+			<Events.0.Story>[name] found that [hename] didn't seem to like it all that much.</Events.0.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story">
+			<Events.0.Story>[name] stroked [hename], and [hename] winked appreciatively.</Events.0.Story>
+			<Events.1.Story>[name] stroked [hename], and [hename] squirmed away nervously.</Events.1.Story>
+			<Events.2.Story>[name] saw [hename] lying about, without a care in the world. So they went over and gave it a hard poke.</Events.2.Story>
+			<Events.3.Story>[name] went to play with [hename], but [hename] just took one look at [name] before wandering off, uninterested.</Events.3.Story>
+			<Events.4.Story>[name] saw that [hename] had taken a sudden interest in the nearby [obj_nearthing], giving it a good sniff and a lick or two.</Events.4.Story>
+			<Events.5.Story>[hename] sniffed [name], appeared unimpressed, and walked off.</Events.5.Story>
+			<Events.6.Story>[hename] ran around [name] excitedly.</Events.6.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Rabbit">
+			<Events.0.Story>[name] took [hename] into their arms, and played with them awhile.</Events.0.Story>
+			<Events.1.Story>[name] petted [hename]'s big floppy ears.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Chicken">
+			<Events.0.Story>[name] picked [hename] up in their arms, and flung them into the sky. [hename] flapped its wings about in fright, littering the ground with feathers.</Events.0.Story>
+			<Events.1.Story>Upon seeing [name], [hename] seemed to suddenly have an idea about something or another, and started clucking away to itself.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Wolf">
+			<Events.0.Story>[name] stroked [hename], and [hename] ruffed gently to show their appreciation.</Events.0.Story>
+			<Events.1.Story>[hename] ran circles around [name], leaping around and barking.</Events.1.Story>
+			<Events.2.Story>[hename] laid flat on the ground, narrowing its gaze at [name] with a dangerous glint in its eyes.</Events.2.Story>
+			<Events.3.Story>[hename] wagged their tail at [name].</Events.3.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Snake">
+			<Events.0.Story>Seeing [name] approach, [hename] raised its head up high, flicking out its tongue in their direction.</Events.0.Story>
+			<Events.1.Story>[name] took [hename] into their arms, and played with them awhile.</Events.1.Story>
+			<Events.2.Story>[name] watched with morbid curiosity as [hename] swallowed a huge rat in one gulp.</Events.2.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Boar">
+			<Events.0.Story>[hename] suddenly shoved angrily at [name] with its snout.</Events.0.Story>
+			<Events.1.Story>[name] saw [hename] lazing about on the ground, grunting to itself. So they picked up a stone and tossed it at them.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Bear">
+			<Events.0.Story>Upon seeing [name], [hename] spread its arms wide and hurried over to them excitedly. [name] was terrified and ran off as fast as their legs would take them.</Events.0.Story>
+			<Events.1.Story>[name] took a look at [hename], then [hename] appeared to be angry about something and pummeled at the ground.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Turtle">
+			<Events.0.Story>[name] stroked [hename], and [hename] hid inside their shell in a hurry.</Events.0.Story>
+			<Events.1.Story>[name] found [hename] lying about, without a care in the world. So they went over and gave it a poke. [hename] retreated into its shell.</Events.1.Story>
+			<Events.2.Story>[name] went to play with [hename], but [hename] just took one look at [name] before slowly shrinking back inside its shell.</Events.2.Story>
+			<Events.3.Story>[hename] took a sudden interest in the nearby [obj_nearthing], giving it a good sniff.</Events.3.Story>
+			<Events.4.Story>[name] went over to play with [hename], and [hename] extended their head forward, blowing bubbles at them.</Events.4.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Frog">
+			<Events.0.Story>[name] felt that [hename] seemed to be deep in thought about something important. But when they looked back again, it was just hopping along as usual.</Events.0.Story>
+			<Events.1.Story>[name] placed [hename] upon the palm of their hand. [hename] ribbited and spurted water in [name]'s face, before hopping about with glee.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Fei">
+			<Events.0.Story>[name] stroked [hename], and [hename] let out a soft, joyful cry.</Events.0.Story>
+			<Events.1.Story>[hename] gazed affectionally at [name] in the distance.</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Lushu">
+			<Events.0.Story>[name] stroked [hename], and [hename] shook its head about furiously.</Events.0.Story>
+			<Events.1.Story>[hename] thought that [name] was coming over to pet it, so it quickly laid down and pretended to be asleep.</Events.1.Story>
+		</Text>
+	</List>
+</Texts>

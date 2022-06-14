@@ -1,0 +1,32 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="MetalBase" sParam="Item">
+			<Item.FabaoSuffix>Metal, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_IronRock" sParam="Item">
+			<ThingName>Iron Ore</ThingName>
+			<Desc>The most common metal ore. It is a very hard material and easy to process.</Desc>
+			<Item.BeMaterial.NamePrefix>Iron</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRock" sParam="Item">
+			<ThingName>Igneocopper Ore</ThingName>
+			<Desc>Metal ore rich in the power of fire, anyone approaching it would feel scorching hot.</Desc>
+			<Item.BeMaterial.NamePrefix>Igneocopper</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRock" sParam="Item">
+			<ThingName>Ice Crystal Ore</ThingName>
+			<Desc>Beautiful metallic ore rich in the power of cold and has a texture similar to that of silver ore. Anyone approaching it would feel a nip in the air.</Desc>
+			<Item.BeMaterial.NamePrefix>Ice Crystal</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRock" sParam="Item">
+			<ThingName>Darksteel Ore</ThingName>
+			<Desc>Rare metal dark in color. Extremely heavy and solid, it is an excellent Weapon material that's hard to come by.</Desc>
+			<Item.BeMaterial.NamePrefix>Darksteel</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssence" sParam="Item">
+			<ThingName>Lumina Core</ThingName>
+			<Desc>The essence of a meteorite, it possesses special physical attributes and is considered a rare treasure in the world of cultivation.</Desc>
+			<Item.BeMaterial.NamePrefix>Lumina Core</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

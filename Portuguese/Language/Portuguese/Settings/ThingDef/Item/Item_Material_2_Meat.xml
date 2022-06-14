@@ -1,0 +1,90 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="MeatBase" sParam="Item">
+			<Item.FabaoSuffix>Meatstew, Tablecloth, Lump</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BoarMeat" sParam="Item">
+			<ThingName>Boar Meat</ThingName>
+			<Desc>Meat of a boar.</Desc>
+		</Text>
+		<Text Name="Item_FrogMeat" sParam="Item">
+			<ThingName>Frog Meat</ThingName>
+			<Desc>Meat of a frog.</Desc>
+		</Text>
+		<Text Name="Item_TurtleMeat" sParam="Item">
+			<ThingName>Turtle Meat</ThingName>
+			<Desc>Meat of a turtle.</Desc>
+		</Text>
+		<Text Name="Item_BearMeat" sParam="Item">
+			<ThingName>Bear Meat</ThingName>
+			<Desc>Meat of a bear.</Desc>
+		</Text>
+		<Text Name="Item_Beef" sParam="Item">
+			<ThingName>Bull Meat</ThingName>
+			<Desc>Beef.</Desc>
+		</Text>
+		<Text Name="Item_RabbitMeat" sParam="Item">
+			<ThingName>Rabbit Meat</ThingName>
+			<Desc>Meat of a rabbit.</Desc>
+		</Text>
+		<Text Name="Item_ChickenMeat" sParam="Item">
+			<ThingName>Chicken</ThingName>
+			<Desc>Meat of a chicken.</Desc>
+		</Text>
+		<Text Name="Item_WolfMeat" sParam="Item">
+			<ThingName>Wolf Meat</ThingName>
+			<Desc>Meat of a wolf.</Desc>
+		</Text>
+		<Text Name="Item_FishMeat" sParam="Item">
+			<ThingName>Fish</ThingName>
+			<Desc>Meat of a fish.</Desc>
+		</Text>
+		<Text Name="Item_SnakeMeat" sParam="Item">
+			<ThingName>Snake Meat</ThingName>
+			<Desc>Meat of a snake.</Desc>
+		</Text>
+		<Text Name="Item_CatMeat" sParam="Item">
+			<ThingName>Cat Meat</ThingName>
+			<Desc>The meat of a cat.</Desc>
+		</Text>
+		<Text Name="Item_TigerMeat" sParam="Item">
+			<ThingName>Tiger Meat</ThingName>
+			<Desc>The meat of a tiger.</Desc>
+		</Text>
+		<Text Name="Item_ChickenEgg" sParam="Item">
+			<ThingName>Chicken Egg</ThingName>
+			<Desc>A chicken egg.</Desc>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SnakeEgg" sParam="Item">
+			<ThingName>Snake Egg</ThingName>
+			<Desc>A snake egg.</Desc>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_TurtleEgg" sParam="Item">
+			<ThingName>Turtle Egg</ThingName>
+			<Desc>A turtle egg.</Desc>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LongEgg" sParam="Item">
+			<ThingName>Flood Dragon Egg</ThingName>
+			<Desc>Flood Dragon's unhatched egg; it shows obvious signs of life. To hatch the egg, it must be in a place with temperature below -200 degrees, extremely rich in Qi, and very conducive to the Water element.</Desc>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FengEgg" sParam="Item">
+			<ThingName>Phoenix Egg</ThingName>
+			<Desc>Egg of a phoenix that have not hatched yet, within it are obvious signs of life. To hatch the egg, it must be in a place with temperature above 300 degrees, extremely rich in Qi, and very conducive to the Fire element.</Desc>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FengEggChange" sParam="Item">
+			<ThingName>Phoenix Egg</ThingName>
+			<Desc>Awakening...</Desc>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_JiaolongChange" sParam="Item">
+			<ThingName>Flood Dragon Egg</ThingName>
+			<Desc>Awakening...</Desc>
+			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

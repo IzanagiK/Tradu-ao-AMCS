@@ -1,0 +1,32 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Xiongfeng">
+			<DisplayName>Phoenix</DisplayName>
+		</Text>
+		<Text Name="Boss_XiongfengFight">
+			<DisplayName>Phoenix</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part">
+			<DisplayName>Phoenix Body Part</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_huoling">
+			<DisplayName>Power of Fire Spirit</DisplayName>
+			<Desc>Phoenix concentrates the power of Fire Spirit until it reaches 100 stacks, by which time it unleash Flame Feather and enters into the Inferno Form.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Huofeng">
+			<DisplayName>Inferno Form</DisplayName>
+			<Desc>Phoenix keeps consuming Fire Spirits while in Inferno Form. When it ends, recover the remaining fire feathers and restore Qi.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_rongjin">
+			<DisplayName>Fuse</DisplayName>
+			<Desc>Deals damage after a period of time. Non-Metal cultivators only receive 1/3 of the damage.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_yishang">
+			<DisplayName>Vulnerable</DisplayName>
+			<Desc>Phoenix is vulnerable.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan">
+			<DisplayName>Solar Eye</DisplayName>
+		</Text>
+	</List>
+</Texts>

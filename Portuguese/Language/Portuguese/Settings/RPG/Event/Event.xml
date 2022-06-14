@@ -1,0 +1,44 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Initialize">
+			<DisplayName>Initialize</DisplayName>
+		</Text>
+		<Text Name="StayInTrap">
+			<DisplayName>Stay in Trap Point</DisplayName>
+			<PDisplayName>Stay Time (sec)</PDisplayName>
+		</Text>
+		<Text Name="EnterTrap">
+			<DisplayName>Enter Trap Point</DisplayName>
+		</Text>
+		<Text Name="LeaveTrap">
+			<DisplayName>Leave Trap Point</DisplayName>
+		</Text>
+		<Text Name="BeenAttack">
+			<DisplayName>Under Attack</DisplayName>
+		</Text>
+		<Text Name="BeenDestroy">
+			<DisplayName>Destroyed</DisplayName>
+		</Text>
+		<Text Name="Dead">
+			<DisplayName>Dead</DisplayName>
+		</Text>
+		<Text Name="InSocial">
+			<DisplayName>When Interacting</DisplayName>
+		</Text>
+		<Text Name="LeaveSocial">
+			<DisplayName>After Interaction</DisplayName>
+		</Text>
+		<Text Name="NpcEnterWorkSpace">
+			<DisplayName>Character enters build point</DisplayName>
+		</Text>
+		<Text Name="NpcLeaveWorkSpace">
+			<DisplayName>Character leaves build point</DisplayName>
+		</Text>
+		<Text Name="OnStep">
+			<DisplayName>Logic Frame Callback</DisplayName>
+		</Text>
+		<Text Name="OnRender">
+			<DisplayName>Rendering Frame Callback</DisplayName>
+		</Text>
+	</List>
+</Texts>

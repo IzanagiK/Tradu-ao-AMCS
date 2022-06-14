@@ -1,0 +1,50 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Zhen_XianTianMuLing">
+			<DisplayName>Domain of Wood Essence</DisplayName>
+			<Desc>Activate the body's potential and improve its resilience to physical injuries.</Desc>
+		</Text>
+		<Text Name="Zhen_ZTLYQLSJ">
+			<DisplayName>Domain of Heavenly Serenity</DisplayName>
+			<Desc>Increases Mood, Mental State and Cultivation Speed.</Desc>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower1">
+			<DisplayName>Small Formation Load</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower2">
+			<DisplayName>Medium Formation Load</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower3">
+			<DisplayName>Large Formation Load</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower4">
+			<DisplayName>Advanced Formation</DisplayName>
+		</Text>
+		<Text Name="Zhen_FashuhejiEffect">
+			<DisplayName>Joint Spell Attack</DisplayName>
+			<Desc>Cast the next spell by combining the power of everyone in the Formation.</Desc>
+		</Text>
+		<Text Name="Zhen_LinkEffect">
+			<DisplayName>Form Formation</DisplayName>
+		</Text>
+		<Text Name="Zhen_LinkEffectCore">
+			<DisplayName>Pillar</DisplayName>
+		</Text>
+		<Text Name="Zhen_RevealEffect">
+			<DisplayName>Exposed Auxiliary</DisplayName>
+			<Desc>The auxiliary has now been exposed, attacks on it will deal extra damage. It can be concealed by changing the formation.</Desc>
+		</Text>
+		<Text Name="Zhen_CancelZhenRecover">
+			<DisplayName>Restore Formation</DisplayName>
+			<Desc>The formation is in recovery.</Desc>
+		</Text>
+		<Text Name="Zhen_ChangeEffect">
+			<DisplayName>Change Formation</DisplayName>
+			<Desc>The pillar has been temporarily changed but the change will be reverted after a while.</Desc>
+		</Text>
+		<Text Name="BDPW_Lock">
+			<DisplayName>Marked</DisplayName>
+			<Desc>Being marked by Battle Aloofness.</Desc>
+		</Text>
+	</List>
+</Texts>

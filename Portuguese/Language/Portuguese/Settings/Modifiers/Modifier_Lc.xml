@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LcForbidFabao">
+			<DisplayName>Artifact Ban</DisplayName>
+			<Desc>Countercharged by the Float Dragon and no artifacts can be used.</Desc>
+		</Text>
+		<Text Name="LcForbidSkill">
+			<DisplayName>Spell Ban</DisplayName>
+			<Desc>Affected by the Dark Phoenix's Flame Fuse and no spells can be used.</Desc>
+		</Text>
+		<Text Name="LcConfuse">
+			<DisplayName>Confusion</DisplayName>
+			<Desc>Confusion</Desc>
+		</Text>
+		<Text Name="LcTrainEffect">
+			<DisplayName>Common Training Special Effect</DisplayName>
+			<Desc>Common Training Special Effect</Desc>
+		</Text>
+	</List>
+</Texts>

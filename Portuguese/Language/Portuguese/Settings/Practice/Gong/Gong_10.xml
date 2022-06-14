@@ -1,0 +1,26 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_10_Huo">
+			<DisplayName>True Sun Refining Law</DisplayName>
+			<Desc>One of the true elemental Laws of the Taiyi Sect. With the help of the Lesser Yang, Fair Yang and Greater Yang, forge a fire from the three forces of Heaven, Earth and Man. The fire will be extremely powerful and light up everything in its Law. However, the cultivation process can be very dangerous. The true fire might even obliterate one's whole existence if the cultivation goes wrong.</Desc>
+			<SelectDesc>One will excel in spells when cultivating in this Law, but the breakthroughing will be relatively risky. Are you sure you want to follow this Law?</SelectDesc>
+			<Stages.0.DisplayName>Man-made Fire</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Spark</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Sense one's natural spark and light it up. It marks the beginning of cultivation. [color=#D06508]\nFailing to light up the spark may lead to meridian injury.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Man-made Fire</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Gather the true fire at the mind gate to light up the fire in one's mind and connect with heaven and earth. [color=#D06508]\nIf it goes wrong, the true fire will overflow and burn through one's body, causing immense pain.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Earth Fire</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Bellows</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Use one's body as bellows to stoke the true fire and reforge one's bones in preparation for the shaping of the Fire Pill. [color=#D06508]\nIf it goes wrong, the true fire will invade one's bones and cause the depletion of marrows. Think twice before breakthroughing.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Earth Fire</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Heaven Fire</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Lamp Bearer</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Gather one's whole spirit at the heart and light up the Heart Fire. [color=#D06508]\nIf it goes wrong, Qi will implode and burn one's heart. Prepare in advance before breakthroughing.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Skyfire</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Divine Fire</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Spirit Illuminated</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Enlighten one's spirit with the blessing of heaven. One will face the Heavenly Tribulation after breaking this limit. [color=#D06508]\nIt is extremely difficult to break through, and there will not be any XP Bonus.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Ascension</Stages.3.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

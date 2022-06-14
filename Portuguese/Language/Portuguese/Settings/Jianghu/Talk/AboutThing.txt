@@ -1,0 +1,43 @@
+﻿Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report Bug	无成功失败/中性回答	Success!	Fail	数值参数	文本参数
+S_Carry_Discuss	0	Let me tell you, [TNAME] has a [TXT] on them.	I have no interest in that.	What a coincidence. I know it, too!	Ah, really? You even know about that?		
+S_Carry_Ask	0	Do you know what [TNAME] has on them?	How would I know?	Yes, I know. [TIT] always takes a [TXT].	I do not want to tell you.		
+							
+S_Esoterica_Discuss	0	Do you know? [TNAME] is very good at [TXT]!	I have no interest in that.	What a coincidence. I know it, too!	Ah, really? You even know about that?		
+S_Esoterica_Ask	0	Do you know what [TNAME] is good at?	How would I know?	Yes, I know. [TIT] is good at [TXT].	I do not want to tell you.		
+							
+S_Feature_Discuss	0	Let me tell you, [TNAME] is a [TXT] person.	I have no interest in that.	What a coincidence. I know it, too!	Ah, really? You even know about that?		
+S_Feature_Ask	0	Do you know what kind of person [TNAME] is?	How would I know?	Yes, I know [TITS]. [TIT] is a [TXT] person.	I do not want to tell you.		
+							
+S_HateItem_Discuss	0	Let me tell you, [TNAME] doesn't like [TXT].	I have no interest in that.	What a coincidence. I know it, too!	Ah, really? You even know about that?		
+S_HateItem_Ask	0	Do you know what [TNAME] dislikes?	How would I know?	Yes, I know. [TIT] hates [TXT]. Can't even look at it without going mad.	I do not want to tell you.		
+							
+S_Hobby_Discuss	0	Let me tell you, [TNAME] has a [TXT]. Like this...	I have no interest in that.	What a coincidence. I know it, too!	Ah, really? You even know about that?		
+S_Hobby_Ask	0	Do you know what I should pay attention to while dealing with [TNAME]?	How would I know?	[TIT] has a [TXT], like this... Pay attention to it if you want to be his friend.	I do not want to tell you.		
+							
+S_LikeItem_Discuss	0	Let me tell you, [TNAME] is especially fond of [TXT].	I have no interest in that.	What a coincidence. I know it, too!	Ah, really? You even know about that?		
+S_LikeItem_Ask	0	Is there anything you know that [TNAME] will like?	How would I know?	Yes, I know. [TIT] loves [TXT]. Even forgets to eat and sleep sometimes for [TXT].	I do not want to tell you.		
+							
+S_Secret_Discuss	0	Let me tell you, [TNAME] knows about [TXT].	I have no interest in that.	What a coincidence. I know it, too!	Ah, really? You even know about that?		
+S_Secret_Ask	0	Tell me what [TNAME] knows.	How would I know?	About [TXT], [TIT] probably knows something.	I do not want to tell you.		
+							
+T_Carry_Discuss	0	You actually have a [TXT] on you. It will be very useful in certain situations. You do think ahead!	Didn't we talk about it already?	Right, you think [TXT] is important, too? So you are a smart person, too!	Huh? What do you mean? (Covering their own pocket)		
+T_Carry_Ask	0	Is there anything you take with you on your trips?	Didn't we talk about it already?	I always have [TXT] with me while out on adventure. It may come in handy in certain situations.	Huh? What do you mean? (Covering their own pocket)		
+							
+T_Esoterica_Discuss	0	I hear that you're good at [TXT]. That's incredible. I'd be so content if I have your skills.	Didn't we talk about it already?	You're my friend. I'll teach you if you want to learn! With your ability, it'll be a piece of cake to master this.	Oh? What do you want?		
+T_Esoterica_Ask	0	Anything you're good at?	Didn't we talk about it already?	I'm quite skilled at [TXT].	Why should I tell you?		
+							
+T_Feature_Discuss	0	Actually, I'm a [TXT] person, too. It really bothers me sometimes, but what can you do?	Didn't we talk about it already?	Yes, you're like this, too? So we are like-minded people...	What do you mean? Are you trying to make fun of me?		
+T_Feature_Ask	0	(It is too inappropriate to ask about this topic face to face. Better find more information from others and then continue to talk about it later.)	...	...	...		
+							
+T_HateItem_Discuss	0	Why do disgusting things like [TXT] have to exist? Right?	Didn't we talk about it already?	Aargh! You hate this thing, too?! I feel the same way. Want to destroy all the [TXT] in the world.	What? Are you underestimating me?		
+T_HateItem_Ask	0	Is there anything you don't like?	Didn't we talk about it already?	Yes. I hate [TXT] so much that I want to destroy all the [TXT] in the world.	Why should I tell you?		
+							
+T_Hobby_Discuss	0	Actually, I also have a [TXT], similar to what happened to you... It's such a long story.	Didn't we talk about it already?	You've had the same experience? That's right. It's hard for others to understand...	(Changes attitude) Why do you bring that up?		
+T_Hobby_Ask	0	(It is too inappropriate to ask about this topic face to face. Better find more information from others and then continue to talk about it later.)	...	...	...		
+							
+T_LikeItem_Discuss	0	I love [TXT]. Only with [TXT], I can feel myself alive!	Didn't we talk about it already?	You feel the same way, too? I can't imagine what life would be without [TXT]!	Oh? Why suddenly bring this up?		
+T_LikeItem_Ask	0	Is there anything you like?	Didn't we talk about it already?	Now I'm not sleepy at all, talking about this! I love [TXT] so much. It's a gift from heaven.	Why should I tell you?		
+							
+T_Secret_Discuss	0	Actually, I'm quite curious about [TXT]. How intriguing!	Didn't we talk about it already?	I know a thing or two about [TXT]. Like this and that...	Oh? Why suddenly bring this up?		
+T_Secret_Ask	0	(It is a difficult topic to approach when you know nothing about it. Better find more information from others and then ask about it discreetly...)	...	...	...		

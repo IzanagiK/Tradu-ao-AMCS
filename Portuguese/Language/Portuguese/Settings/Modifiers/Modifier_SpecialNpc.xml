@@ -1,0 +1,62 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SpNpc_BasePropertie">
+			<DisplayName>Starting Stats</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_BaseFightPropertie">
+			<DisplayName>Base Battle Stats</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_Ling">
+			<DisplayName>Spiritual</DisplayName>
+			<Desc>This person has a deeply built-up foundation, with bottomless Qi energy.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Shield">
+			<DisplayName>Resilient</DisplayName>
+			<Desc>This person has a body of iron, being exceptionally good at Protection skills.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoAtk">
+			<DisplayName>Keen</DisplayName>
+			<Desc>This person utilizes an Artifact like thunder, with overwhelmingly astonishing power.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoLing">
+			<DisplayName>Robust</DisplayName>
+			<Desc>This person utilizes an Artifact like mountain, with an indestructible force of solidness.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoSpeed">
+			<DisplayName>Nimble</DisplayName>
+			<Desc>This person utilizes an Artifact like lightning, with its speed as fast as a thunderstrike.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoDisp">
+			<DisplayName>Masterful</DisplayName>
+			<Desc>This person utilizes Artifacts with unmatched grace and elegancy.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoNum">
+			<DisplayName>Versatile</DisplayName>
+			<Desc>This person can master multiple artifacts.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillAtk">
+			<DisplayName>Mystic</DisplayName>
+			<Desc>This person possesses unparalleled Spell Power.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillCD">
+			<DisplayName>Swift</DisplayName>
+			<Desc>This person has very fast Spell Cast Delay Recovery.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Comeback">
+			<DisplayName>Nemesis</DisplayName>
+			<Desc>When come face to face with arch-enemy, one's strength become stronger than ever due to the hatred.</Desc>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
+			<DisplayName>Qi Shaping Minimum</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
+			<DisplayName>Core Shaping Minimum</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
+			<DisplayName>Golden Core Minimum</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_God">
+			<DisplayName>Primordial Spirit Minimum</DisplayName>
+		</Text>
+	</List>
+</Texts>

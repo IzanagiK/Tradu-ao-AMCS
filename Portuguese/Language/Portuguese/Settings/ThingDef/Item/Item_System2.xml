@@ -1,0 +1,46 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_ShangGuYiWenLu1" sParam="Item">
+			<ThingName>Ancient Secrets: Heavenly Battlefield, Volume I</ThingName>
+			<Desc>Secret scroll that recorded the battle between immortals and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
+			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Examine Secret</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu5" sParam="Item">
+			<ThingName>Ancient Secrets: Heavenly Battlefield, Volume V</ThingName>
+			<Desc>Secret scroll that recorded the battle between immortals and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
+			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Examine Secret</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu7" sParam="Item">
+			<ThingName>Ancient Secrets: Heavenly Battlefield, Volume VII</ThingName>
+			<Desc>Secret scroll that recorded the battle between immortals and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
+			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Examine Secret</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu15" sParam="Item">
+			<ThingName>Ancient Secrets: Heavenly Battlefield, Volume XV</ThingName>
+			<Desc>Secret scroll that recorded the battle between immortals and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
+			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Examine Secret</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_TaiYiMiDian" sParam="Item">
+			<ThingName>Secret Codex of Taiyi</ThingName>
+			<Desc>A book that recorded the history of Taiyi Sect, it includes all kinds of important events ever since the founding of the sect which happened a hundred years ago. It is a book of great sentimental value. Upon a closer inspection, you found that the binding of the book used threads made up of a condensation from five different kinds of precious materials among heaven and earth, which grants it great power of immunity. One receives reduced Five Elements damage and improved Qi Barrier effect simply by carrying the book. You cannot believe a sect as small as Taiyi would use such precious item to record history. How incredibly extravagant.</Desc>
+			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Examine Book</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_JinXiaCanJuan" sParam="Item">
+			<ThingName>Fragment of the Golden Casket Scroll</ThingName>
+			<Desc>A scroll that flew out of the Golden Casket of Lake Jadestone. It has a weak fluctuation of Qi and appears quite insignificant. However, the peculiar seal on the package has attracted your attention. It seems to be the same kind as the old broken seal you saw while exploring the "Mystery of Taiyi". You have an hunch that this must have a lot to do with what you are currently investigating.</Desc>
+			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Examine Book</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

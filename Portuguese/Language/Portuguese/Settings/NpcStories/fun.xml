@@ -1,0 +1,109 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="NormalFun">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick when [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] when [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] when [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when [obj] alone.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry when [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious when [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when [obj].</Events.10.Story>
+			<Events.11.Story>Bothered by [obj], [name] could only [obj_badmood] to relax their mind.</Events.11.Story>
+			<Events.12.Story>[name] was jubilant because of [obj_goodmood], and couldn't help but [obj] happily.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly let out a long sigh when [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_Dance">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick when [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] when [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] when [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when [obj] alone.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry when [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious when [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breath when [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when [obj].</Events.10.Story>
+			<Events.11.Story>Bothered by [obj], [name] could only [obj_badmood] to relax their mind.</Events.11.Story>
+			<Events.12.Story>[name] was jubilant because of [obj_goodmood], and couldn't help but [obj] happily.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] accidentally kicked the nearby [obj_nearthing] when [obj].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] accidentally twisted their ankle when [obj].</Events.14.Story>
+		</Text>
+		<Text Name="Fun_Music">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick when [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] when [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] when [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when [obj] alone.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry when [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious when [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breath when [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when [obj].</Events.10.Story>
+			<Events.11.Story>Bothered by [obj], [name] could only [obj_badmood] to relax their mind.</Events.11.Story>
+			<Events.12.Story>[name] was jubilant because of [obj_goodmood], and couldn't help but [obj] happily.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but hum a tune softly when [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayBird">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick when [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] when [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] when [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when [obj] alone.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry when [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious when [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breath when [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when [obj].</Events.10.Story>
+			<Events.11.Story>Bothered by [obj], [name] could only [obj_badmood] to relax their mind.</Events.11.Story>
+			<Events.12.Story>[name] was jubilant because of [obj_goodmood], and couldn't help but [obj] happily.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but chirp along the bird in the cage when [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_Calligraphy">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick when [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] when [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] when [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when [obj] alone.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry when [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious when [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breath when [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when [obj].</Events.10.Story>
+			<Events.11.Story>Bothered by [obj], [name] could only [obj_badmood] to relax their mind.</Events.11.Story>
+			<Events.12.Story>[name] was jubilant because of [obj_goodmood], and couldn't help but [obj] happily.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] accidentally knocked down the ink when [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayChess">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick when [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] when [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] when [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when [obj] alone.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry when [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious when [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breath when [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when [obj].</Events.10.Story>
+			<Events.11.Story>Bothered by [obj], [name] could only [obj_badmood] to relax their mind.</Events.11.Story>
+			<Events.12.Story>[name] was jubilant because of [obj_goodmood], and couldn't help but [obj] happily.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly realized that they made a mistake earlier and stomped out of anger when [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayTicTacToe">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick when [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] when [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] when [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] when [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their [obj_relation] when silently [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind when [obj] alone.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry when [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious when [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breath when [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when [obj].</Events.10.Story>
+			<Events.11.Story>Bothered by [obj], [name] could only [obj_badmood] to relax their mind.</Events.11.Story>
+			<Events.12.Story>[name] was jubilant because of [obj_goodmood], and couldn't help but [obj] happily.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly got sand blown into their eyes when [obj].</Events.13.Story>
+		</Text>
+	</List>
+</Texts>

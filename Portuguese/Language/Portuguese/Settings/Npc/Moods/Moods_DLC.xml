@@ -1,0 +1,29 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Mood_BigFish">
+			<DisplayName>Caught a big fish.</DisplayName>
+			<Desc>Just caught a big fish and it felt good.</Desc>
+			<StoryDesc>Catching a big fish and it felt really nice</StoryDesc>
+		</Text>
+		<Text Name="Mood_BigBigFish">
+			<DisplayName>Caught a giant fish.</DisplayName>
+			<Desc>Just caught a giant fish and it felt good.</Desc>
+			<StoryDesc>Catching a giant fish and it felt very nice</StoryDesc>
+		</Text>
+		<Text Name="Mood_BeFished">
+			<DisplayName>Caught.</DisplayName>
+			<Desc>Caught after taking the bait.</Desc>
+			<StoryDesc>Feeling a bit angry for being caught</StoryDesc>
+		</Text>
+		<Text Name="Mood_FishSmell">
+			<DisplayName>Stink</DisplayName>
+			<Desc>Ate Demon Flatfish, stinks</Desc>
+			<StoryDesc>eating Demon Flatfish, stinks</StoryDesc>
+		</Text>
+		<Text Name="Mood_FishGood">
+			<DisplayName>Delicious</DisplayName>
+			<Desc>Ate Moonlight Fish, feels good</Desc>
+			<StoryDesc>eating Moonlight Fish, feels good</StoryDesc>
+		</Text>
+	</List>
+</Texts>

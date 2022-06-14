@@ -1,0 +1,58 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>Empty</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_1">
+			<DisplayName>Proto-pillar: Interval</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_2">
+			<DisplayName>Proto-pillar: Turn</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_3">
+			<DisplayName>Proto-pillar: Curve</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_3_4">
+			<DisplayName>Proto-pillar: Link</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_4_1">
+			<DisplayName>Proto-pillar: Cord</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_4_2">
+			<DisplayName>Proto-pillar: Tip</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_4_3">
+			<DisplayName>Proto-pillar: Row</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_5_1">
+			<DisplayName>Proto-pillar: Vacant</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv0_6_1">
+			<DisplayName>Proto-pillar: Whole</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_1_1">
+			<DisplayName>Proto-auxiliary: Bond</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_2_1">
+			<DisplayName>Proto-auxiliary: Pair</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_2_2">
+			<DisplayName>Proto-auxiliary: Partition</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_2_3">
+			<DisplayName>Proto-auxiliary: Union</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_1">
+			<DisplayName>Proto-auxiliary: Severance</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_2">
+			<DisplayName>Proto-auxiliary: Cross</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_3">
+			<DisplayName>Proto-auxiliary: Scatter</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv0_3_4">
+			<DisplayName>Proto-auxiliary: Critical</DisplayName>
+		</Text>
+	</List>
+</Texts>

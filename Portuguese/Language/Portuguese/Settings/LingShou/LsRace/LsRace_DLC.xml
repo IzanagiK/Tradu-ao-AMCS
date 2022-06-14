@@ -1,0 +1,15 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LsPandaXian">
+			<PossibleMagic.0.DisplayName>Good-natured</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Consumes its own Growth and Intelligence to invite an animal to join your sect.\n[color=#FF0000]Requires at least 50 Intelligence.[/color]</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Ambassador of Immortals</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Consumes its own Growth and Nutrition to go to another sect and largely improve its relation with your sect.\n[color=#FF0000]Requires it to be mature. [/color]</PossibleMagic.1.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Requires 50 Spell[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Requires 100 Spell[/color]</PossibleSkill.1.Desc>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<PossibleSkill.0.Desc>[color=#FF0000]Requires 50 Spell[/color]</PossibleSkill.0.Desc>
+		</Text>
+	</List>
+</Texts>

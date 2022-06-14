@@ -1,0 +1,35 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Long">
+			<DisplayName>Flood Dragon</DisplayName>
+			<Desc>Ancient Beast: Flood Dragon</Desc>
+			<FightParts.0.DisplayName>Body</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Tail</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Horn</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>L-Front Claw</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>R-Front Claw</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>L-Hind Claw</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>R-Hind Claw</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>Forbidden Scale</FightParts.7.DisplayName>
+		</Text>
+		<Text Name="Boss_Feng">
+			<DisplayName>Phoenix</DisplayName>
+			<Desc>Ancient Beast: Phoenix</Desc>
+			<FightParts.0.DisplayName>Body</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Crown Feather</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>L-Wing</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>R-Wing</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Tail Feather</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Solar Eye</FightParts.5.DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong">
+			<DisplayName>Torch Dragon</DisplayName>
+			<Desc>Ancient Beast: Flood Dragon</Desc>
+			<FightParts.0.DisplayName>Body</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Sky Scale</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Dragon Jade</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Left Eye</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Right Eye</FightParts.4.DisplayName>
+		</Text>
+	</List>
+</Texts>

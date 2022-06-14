@@ -1,0 +1,37 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_4_None">
+			<DisplayName>Jade Purity Immortal Law</DisplayName>
+			<Desc>The orthodoxy left behind by the Lord of Primordial Beginning. The secret Law of the Kunlun Palace. It is said to be the ultimate source of all Taoist Laws. It leads its follower through 6 states and 12 gates. One will possess extremely abundant and powerful magic force after following this Law. It takes incredible Intelligence and the best of luck to successfully cultivate following this Law.</Desc>
+			<SelectDesc>One will excel in all kinds of spells and have an abundant magic force, but it requires all kinds of rarities to breakthroughing and advance in this Law. Are you sure you want to follow this Law?</SelectDesc>
+			<Stages.0.DisplayName>Qi Shaping</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Mind Gate</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nThis breakthrough can be completed after repeated attempts. \nThis breakthrough is more difficult for characters with low Luck.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Energy Gate</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nThis breakthrough can be completed after repeated attempts. \nThis breakthrough is more difficult for characters with low Luck.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Qi Gathering</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Qi Gate</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nThis breakthrough can be completed after repeated attempts. \nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Black Gate</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nThis breakthrough can be completed after repeated attempts. \nThis breakthrough is more difficult for characters with low Luck.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.2.DisplayName>Core Shaping</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Red Gate</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nThis breakthrough can be completed after repeated attempts. \nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Core Gate</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Unification</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Metal Gate</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Water Gate</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Wood Gate</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.3.DisplayName>Fire Gate</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.4.DisplayName>Earth Gate</Stages.3.Necks.4.DisplayName>
+			<Stages.3.Necks.5.DisplayName>Reverie Gate</Stages.3.Necks.5.DisplayName>
+			<Stages.4.DisplayName>Transformation</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Gate of Alteration</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Gate of Variation</Stages.4.Necks.1.DisplayName>
+			<Stages.5.DisplayName>Tribulation Survival</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Gate of Death</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>Enlighten one's spirit with the blessing of heaven. One will face the Heavenly Tribulation after breaking this limit. [color=#D06508]\nIt is extremely difficult to break through, and there will not be any XP Bonus.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>Gate of Life</Stages.5.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

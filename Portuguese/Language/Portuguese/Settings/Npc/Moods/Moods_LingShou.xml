@@ -1,0 +1,29 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LsHelpPlayHappy">
+			<DisplayName>Very Happy</DisplayName>
+			<Desc>Playing with spirit pet has made you feel good all day.</Desc>
+			<StoryDesc>Feeling that when one's this cheerful, it really brightens one's day</StoryDesc>
+		</Text>
+		<Text Name="BiteHappy">
+			<DisplayName>Delighted</DisplayName>
+			<Desc>A gentle bite from the spirit pet made you feel endorsed.</Desc>
+			<StoryDesc>Feeling that It doesn't hurt at all, just a bit itchy</StoryDesc>
+		</Text>
+		<Text Name="BiteSad">
+			<DisplayName>Upset</DisplayName>
+			<Desc>Slapped hard by the spirit pet and it still hurts. It doesn't seem to like me very much.</Desc>
+			<StoryDesc>Feeling Unhappy</StoryDesc>
+		</Text>
+		<Text Name="PetHeal">
+			<DisplayName>Spirit Pet in Company</DisplayName>
+			<Desc>With the spirit pet as company, your mood has become much better.</Desc>
+			<StoryDesc>Feeling Unhappy</StoryDesc>
+		</Text>
+		<Text Name="PetStay">
+			<DisplayName>Spirit Pet in Company</DisplayName>
+			<Desc>With the spirit pet as company, your mood has become much better.</Desc>
+			<StoryDesc>Feeling Unhappy</StoryDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,71 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="TerrainBase">
+			<DisplayName>Terrain Foundation</DisplayName>
+			<StoryDesc>Acontece na estrada</StoryDesc>
+		</Text>
+		<Text Name="Null">
+			<DisplayName>Void</DisplayName>
+		</Text>
+		<Text Name="Soil">
+			<DisplayName>Soil</DisplayName>
+			<StoryDesc>É na área em que as plantas podem ser cultivadas</StoryDesc>
+		</Text>
+		<Text Name="Soil_Sand">
+			<DisplayName>Sand</DisplayName>
+			<StoryDesc>É na área arenosa</StoryDesc>
+		</Text>
+		<Text Name="Mud">
+			<DisplayName>Mud</DisplayName>
+			<StoryDesc>Está na área lamacenta</StoryDesc>
+		</Text>
+		<Text Name="BlackB">
+			<DisplayName>Void</DisplayName>
+			<StoryDesc>Está no vazio</StoryDesc>
+		</Text>
+		<Text Name="WetLand">
+			<DisplayName>Wet Earth</DisplayName>
+			<StoryDesc>Está na área com terra úmida</StoryDesc>
+		</Text>
+		<Text Name="FertileSoil">
+			<DisplayName>Fertile Soil</DisplayName>
+			<StoryDesc>É na área em que as plantas podem ser cultivadas</StoryDesc>
+		</Text>
+		<Text Name="StoneLand">
+			<DisplayName>Rocky Terrain</DisplayName>
+			<StoryDesc>É na área acidentada e pedregosa</StoryDesc>
+		</Text>
+		<Text Name="SandLand">
+			<DisplayName>Sand</DisplayName>
+			<StoryDesc>É na área acidentada e pedregosa</StoryDesc>
+		</Text>
+		<Text Name="LingSoil">
+			<DisplayName>Spirit Soil</DisplayName>
+			<StoryDesc>É na área espiritual rodeada por Qi</StoryDesc>
+		</Text>
+		<Text Name="DepthDepthWater">
+			<DisplayName>Deep Water</DisplayName>
+		</Text>
+		<Text Name="DepthWater">
+			<DisplayName>Deep Water</DisplayName>
+		</Text>
+		<Text Name="ShallowWater">
+			<DisplayName>Shallow Water</DisplayName>
+			<StoryDesc>Está na área alagada, porém rasa</StoryDesc>
+		</Text>
+		<Text Name="BloodWater">
+			<DisplayName>Thin Blood</DisplayName>
+			<StoryDesc>É geralmente proveniente de criaturas carniceiras</StoryDesc>
+		</Text>
+		<Text Name="DepthBloodWater">
+			<DisplayName>Deep Blood</DisplayName>
+		</Text>
+		<Text Name="LingWater">
+			<DisplayName>Spirit Water</DisplayName>
+			<StoryDesc>Está na área alagada, porém rasa</StoryDesc>
+		</Text>
+		<Text Name="Sand">
+			<DisplayName>Sand</DisplayName>
+		</Text>
+	</List>
+</Texts>

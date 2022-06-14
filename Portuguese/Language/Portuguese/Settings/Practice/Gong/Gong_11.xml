@@ -1,0 +1,31 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_11_Tu">
+			<DisplayName>Sunflower Refining Law</DisplayName>
+			<Desc>One of the true elemental Laws of the Taiyi Sect. Only women are allowed to cultivate following this Law. Use the purest power of Yin from earth to create a pure Yin spirit, leave the mortal body behind and ascend as an immortal. If practiced by a male cultivator, his sex would be reversed.</Desc>
+			<SelectDesc>This Law is suitable for women. If practiced by a male cultivator, his sex would be reversed. One will excel in artifact mastery when cultivating in this Law, but will have to experience the first tribulation during core shaping. Are you sure you want to follow this Law?</SelectDesc>
+			<Stages.0.DisplayName>Lesser Yin</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Innocence</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Perception.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>sympathy</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Perception.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Sensibility</Stages.0.Necks.2.DisplayName>
+			<Stages.1.DisplayName>Fair Yin</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Openness</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Perception.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Converging</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Perception.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Core Forming</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Greater Yin</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Benevolence</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Sincerity</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Vagueness</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Oblivion</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Completeness</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Integrate the Soul Pearl  of a grown beast with a pure Yin spirit and complete the stage using the pure Yin Qi in the orb.</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Transformation</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Transform into thousands of shapes using the power of the completed spirit. Reflect upon life and death for enlightenment from heaven. [color=#D06508]\nIt is extremely difficult to break through, and there will not be any XP Bonus.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Harmony</Stages.3.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,133 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Boss_Jiaowangci" sParam="Item">
+			<ThingName>Wyrm King Horn</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
+			<ThingName>Phoenix Core</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
+			<ThingName>Phoenix Flame Feather</ThingName>
+		</Text>
+		<Text Name="Item_BossFeng_HuoYu" sParam="Item">
+			<ThingName>Blazing Feather</ThingName>
+			<Desc>A peculiar feather, although it is not very hot to the touch, it can keep diffusing heat indefinitely, significantly increasing the temperature of a room or other confined space. It doesn't seem to have much use except for its strong spirit converging effect.</Desc>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_GangYu" sParam="Item">
+			<ThingName>Phoenix Ironclad Feather</ThingName>
+			<Desc>An intact Phoenix feather, its immense heat entirely confined within. It is sharp and sturdy. Wearing it enables one to become impervious to cold, speeding up the circulation of Qi and blood as well as boosting food consumption rate.</Desc>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_TouYu" sParam="Item">
+			<ThingName>Phoenix Oblivion Feather</ThingName>
+			<Desc>The gorgeous feather in eternal flames from Phoenix's head, containing its concentrated essence. Phoenix is skilled in the ways of spells. Wearing it allows one to harness the power of Phoenix and break through the skill limit of Spell by 3 levels.</Desc>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_WeiYu" sParam="Item">
+			<ThingName>Phoenix Mantle Feather</ThingName>
+			<Desc>Phoenix's huge tail feather. Despite the glowing flame dwelling atop it, one feels moderately warm rather than burning hot upon touching it, which is quite marvelous. It should have some peculiar effects after having been processed with a special method.</Desc>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_Gu" sParam="Item">
+			<ThingName>Phoenix Iron Bone</ThingName>
+			<Desc>The hollow bones of Phoenix's two wings, they are unusually firm and weightless. It should have some peculiar effects after having been processed with a special method.</Desc>
+			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_HongYu" sParam="Item">
+			<ThingName>Phoenix Fire Jade</ThingName>
+			<Desc>Phoenix's source of power; this is where its primordial spirit resides. If one communicate with its primordial spirit, one might be able to comprehend some useful information from it. Wearing it allows one to harness Phoenix's power and take 10% less Fire damage.</Desc>
+			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Meditate</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to obtain some useful information from it.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossFeng_Meat" sParam="Item">
+			<ThingName>Phoenix Flesh</ThingName>
+			<Desc>The finest flesh and blood of Phoenix's body, consuming it increase one's Max Qi by 25, and extend Lifespan for 10 years. Multiple consumptions will gradually diminish its effect.</Desc>
+			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_DragonScale" sParam="Item">
+			<ThingName>Dragon Scale</ThingName>
+			<Desc>Scale fallen from dragon's body, it has lost most of its magical qualities except for a strong spirit converging effect.</Desc>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Jiao" sParam="Item">
+			<ThingName>Flood Dragon Horn</ThingName>
+			<Desc>The horn on top of Flood Dragon's head, it is where the dragon's essence is concentrated. Flood Dragon is skilled in the ways of Artifact Mastery. Wearing it allows one to harness the power of Flood Dragon and break through the skill limit of Sword Mastery by 3 levels.</Desc>
+			<Item.FabaoSuffix>Thorn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Zhua" sParam="Item">
+			<ThingName>Flood Dragon Devil Claw</ThingName>
+			<Desc>Sharp claw from Flood Dragon, it has no shortage of sharpened edges and possess unstoppable destructive power. It should have some peculiar effects after having been processed with a special method.</Desc>
+			<Item.FabaoSuffix>Thorn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Lin" sParam="Item">
+			<ThingName>Flood Dragon Scale</ThingName>
+			<Desc>An intact scale from the body of Flood Dragon, it is quite indestructible. Wearing it enables one to resist Qi Damage.</Desc>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_NiLin" sParam="Item">
+			<ThingName>Flood Dragon Forbidden Scale</ThingName>
+			<Desc>The source of Flood Dragon's power, this is where its primordial spirit resides. If one communicate with its primordial spirit, one might be able to comprehend some useful information from it. Wearing it allows one to harness the power of Flood Dragon, and take 10% less Water damage.</Desc>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Meditate</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to obtain some useful information from it.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossLong_Jing" sParam="Item">
+			<ThingName>Flood Dragon Wrath Vein</ThingName>
+			<Desc>The toughest tendon-meridian in Flood Dragon's tail, it is of excellent Qi conductivity. It should have some peculiar effects after having been processed with a special method.</Desc>
+			<Item.FabaoSuffix>Tendon</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Meat" sParam="Item">
+			<ThingName>Flood Dragon Flesh</ThingName>
+			<Desc>The finest flesh and blood of Flood Dragon's body, consuming it increase one's Max Qi by 25, and extend Lifespan for 10 years. Multiple consumptions will gradually diminish its effect.</Desc>
+			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
+			<ThingName>White Scale</ThingName>
+			<Desc>Pure white scale shed from Torch Dragon's body.</Desc>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
+			<ThingName>Black Scale</ThingName>
+			<Desc>Pitch black scale shed from Torch Dragon's body.</Desc>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_Eye" sParam="Item">
+			<ThingName>Yin-Yang Crystal</ThingName>
+			<Desc>Transparent crystals of the mixed black and white colors in Torch Dragon's eyes, through which one can seemingly decipher the mysteries of the ways of yin and yang. It should have some peculiar effects after having been processed with a special method.</Desc>
+			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_TianLin" sParam="Item">
+			<ThingName>Divine Torch Dragon Scale</ThingName>
+			<Desc>The odd shaped scale in between the Torch Dragon's eyebrows, it is where the dragon's essence is concentrated. Five Elements which have been transformed by Torch Dragon from Yin and Yang. Wearing it allows one to harness the power of Torch Dragon and break through the skill limit of Barrier by 3 levels.</Desc>
+			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_LongYu" sParam="Item">
+			<ThingName>Chaos Jade</ThingName>
+			<Desc>Torch Dragon's source of power, this is where a wisp of its remaining primordial spirit resides. If one communicate with its primordial spirit, one might be able to comprehend some useful information from it. Wearing it allows one to harness the power of Torch Dragon, and take 5% less elemental damage.</Desc>
+			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Meditate</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to obtain some useful information from it.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_Meat" sParam="Item">
+			<ThingName>Primeval Flesh</ThingName>
+			<Desc>Blood and flesh from Torch Dragon's body, it is tainted by the power of Yin and Yang and thus has unique uses. Consuming it decreases Attainment by 2 and extends Lifespan by 10 years. Multiple consumptions will gradually diminish its effect.</Desc>
+			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_FengYin" sParam="Item">
+			<ThingName>Phoenix Jade</ThingName>
+			<Desc>An ancient piece of jade from the treasures of the dragon's platform, it seems to be one of a set of items.</Desc>
+			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Inspect the Phoenix Jade.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_FengYin" sParam="Item">
+			<ThingName>Ancient Jade</ThingName>
+			<Desc>A peculiar piece of jade found on the Heavenly Battlefield, the ancient battlefield. The essence of Yin and Yang flickers within it, as if nurturing something.</Desc>
+			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Inspect the Ancient Jade.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

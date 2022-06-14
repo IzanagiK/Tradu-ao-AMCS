@@ -1,0 +1,57 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="RockBase" sParam="Item">
+			<Item.FabaoSuffix>Stone, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRock" sParam="Item">
+			<ThingName>Brownstone</ThingName>
+			<Desc>Stone of a brown color; a very common material.</Desc>
+			<Item.BeMaterial.NamePrefix>Brownstone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRock" sParam="Item">
+			<ThingName>Graystone</ThingName>
+			<Desc>Stone of a grey color; a very common material.</Desc>
+			<Item.BeMaterial.NamePrefix>Graystone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Marble" sParam="Item">
+			<ThingName>Marble</ThingName>
+			<Desc>Marble is a common stone material. Its texture is rather attractive.</Desc>
+			<Item.BeMaterial.NamePrefix>Marble</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Jade" sParam="Item">
+			<ThingName>Jade</ThingName>
+			<Desc>Fine and hard stone that is glossy and slightly translucent, it is very attractive and full of spiritual qualities.</Desc>
+			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeEssence" sParam="Item">
+			<ThingName>Jade Essence</ThingName>
+			<Desc>The essence of a jade stone, it is light in weight, has a smooth surface and very beautiful. Often used for making high-end decorations, and also for medicine.</Desc>
+			<Item.BeMaterial.NamePrefix>Jade Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StoneEssence" sParam="Item">
+			<ThingName>Stone Essence</ThingName>
+			<Desc>The essence of a stone, it is light in weight, has a smooth surface and very beautiful. Often used for making high-end decorations, and also for medicine.</Desc>
+			<Item.BeMaterial.NamePrefix>Stone Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStone" sParam="Item">
+			<ThingName>Holy Stone</ThingName>
+			<Desc>A rare kind of rock said to be dug up from the celestial pillars, with boisterous Qi of the Earth element dwelling within it.</Desc>
+			<Item.BeMaterial.NamePrefix>Holy Stone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ExtremeJade" sParam="Item">
+			<ThingName>Divine Jade</ThingName>
+			<Desc>A much sought-after treasure among cultivators, it naturally presents the form of a cylindrical crystal. Possesses exceptional Qi adaptability.</Desc>
+			<Item.BeMaterial.NamePrefix>Divine Jade</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStone" sParam="Item">
+			<ThingName>Spirit Stone</ThingName>
+			<Desc>Solid formed by condensation of highly concentrated Qi. Consuming it restores 500 Qi, and improves your Qi Affinity for a certain period of time.</Desc>
+			<Item.BeMaterial.NamePrefix>Spirit Stone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystal" sParam="Item">
+			<ThingName>Spirit Crystal</ThingName>
+			<Desc>Crystal formed by condensation of highly concentrated Qi. Consuming it restores 20000 Qi, and significantly improves your Qi Affinity for a certain period of time.</Desc>
+			<Item.BeMaterial.NamePrefix>Spirit Crystal</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

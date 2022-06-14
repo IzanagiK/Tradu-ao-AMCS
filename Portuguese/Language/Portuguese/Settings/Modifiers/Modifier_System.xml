@@ -1,0 +1,388 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SysNpcPuppet">
+			<DisplayName>Vessel</DisplayName>
+			<Desc>A Vessel that deteriorates in everyday work and cannot be repaired.</Desc>
+		</Text>
+		<Text Name="SysInfiPuppet">
+			<DisplayName>Vessel of the Six Laws</DisplayName>
+			<Desc>This Vessel is made of special materials and will not wear out in daily work. It can still be broken if attacked, though.</Desc>
+		</Text>
+		<Text Name="SysNewYearLink">
+			<DisplayName>Happy Spring Festival</DisplayName>
+		</Text>
+		<Text Name="SysNewYear">
+			<DisplayName>Happy Spring Festival</DisplayName>
+			<Desc>A lucky monster that would bring a whole year of good fortune.</Desc>
+		</Text>
+		<Text Name="SysNewYear2">
+			<DisplayName>Happy Spring Festival</DisplayName>
+			<Desc>A lucky monster that would bring a whole year of good fortune.</Desc>
+		</Text>
+		<Text Name="SysExploreModifier">
+			<DisplayName>Exploring...</DisplayName>
+		</Text>
+		<Text Name="SysCallUp">
+			<DisplayName>Woken</DisplayName>
+			<Desc>Woken up all of a sudden and unable to return to sleep.</Desc>
+		</Text>
+		<Text Name="SysDreamCantSleep">
+			<DisplayName>Can't sleep</DisplayName>
+			<Desc>Sleep was interrupted for some reason, unable to fall back to sleep for a while.</Desc>
+		</Text>
+		<Text Name="SysDemonColdDown">
+			<DisplayName>Enthralling CD</DisplayName>
+		</Text>
+		<Text Name="SysGodPractice">
+			<DisplayName>Resist</DisplayName>
+			<Desc>Meditate to resist and slow down the coming of Heavenly Tribulation.</Desc>
+		</Text>
+		<Text Name="SysTeacherModifier">
+			<DisplayName>Mysterious Cultivator</DisplayName>
+			<Desc>Temporarily staying. Will leave after a while.</Desc>
+		</Text>
+		<Text Name="SysVistorModifier">
+			<DisplayName>Visitor</DisplayName>
+			<Desc>Temporarily staying. Will leave after a while.</Desc>
+		</Text>
+		<Text Name="SysGodMonsterModifier">
+			<DisplayName>Descending</DisplayName>
+			<Desc>Temporarily staying. Will leave after a while.</Desc>
+		</Text>
+		<Text Name="SysFlyingModifier">
+			<DisplayName>Flying...</DisplayName>
+		</Text>
+		<Text Name="SysPracticeDie">
+			<DisplayName>Foundation Destroyed</DisplayName>
+			<Desc>Once the foundation is destroyed, one cannot progress any further in Cultivation no matter how hard they try.</Desc>
+		</Text>
+		<Text Name="SysExploreEatModifier">
+			<DisplayName>Enjoy Food</DisplayName>
+		</Text>
+		<Text Name="SysFabao_Positive">
+			<DisplayName>Artifacts Symbiotic</DisplayName>
+		</Text>
+		<Text Name="SysFabao_Same">
+			<DisplayName>Artifacts Identical</DisplayName>
+		</Text>
+		<Text Name="SysFabao_Negative">
+			<DisplayName>Artifacts AlleloLawic</DisplayName>
+		</Text>
+		<Text Name="SysEndureHunger">
+			<DisplayName>Hunger-resistant</DisplayName>
+			<Desc>Having eaten the dried food, one becomes more tolerant to hunger.</Desc>
+		</Text>
+		<Text Name="Illusion1">
+			<DisplayName>Hallucination</DisplayName>
+			<Desc>Started hallucinating after eating some strange mushroom. Loves to work very much.</Desc>
+		</Text>
+		<Text Name="Illusion2">
+			<DisplayName>Hallucination</DisplayName>
+			<Desc>Started hallucinating after eating some strange mushroom. Loves running very much and needs a lot of entertainment.</Desc>
+		</Text>
+		<Text Name="Illusion3">
+			<DisplayName>Hallucination</DisplayName>
+			<Desc>Started hallucinating after eating some strange mushroom. Loves sleeping very much.</Desc>
+		</Text>
+		<Text Name="Illusion4">
+			<DisplayName>Hallucination</DisplayName>
+			<Desc>Started hallucinating after eating some strange mushroom. Vision from the eyes appears to be same yet different, as if in a realm of illusions.</Desc>
+		</Text>
+		<Text Name="NegativeTime">
+			<DisplayName>slacked in work.</DisplayName>
+			<Desc>This kind of life is such a mess. Unwilling to work. [color=#D06508](Disappears when Mood is above 45)[/color]</Desc>
+		</Text>
+		<Text Name="NegativeTime_Hearten">
+			<DisplayName>Cheered Up</DisplayName>
+			<Desc>Life goes on, let's cheer up and keep going.</Desc>
+		</Text>
+		<Text Name="Dissatisfaction">
+			<DisplayName>Unhappy</DisplayName>
+			<Desc>Had enough of this pitiful life...</Desc>
+		</Text>
+		<Text Name="SysDoBasePractice">
+			<DisplayName>Training Martial Arts</DisplayName>
+		</Text>
+		<Text Name="SysTooTired">
+			<DisplayName>Exhausted</DisplayName>
+		</Text>
+		<Text Name="Sys_JieNanShenyu">
+			<DisplayName>Curse of Desire</DisplayName>
+			<Desc>Base consumption increased by 5 times</Desc>
+		</Text>
+		<Text Name="Sys_JieNanZhenkong">
+			<DisplayName>Curse of Void</DisplayName>
+			<Desc>Lost ability to perform Miracles</Desc>
+		</Text>
+		<Text Name="Sys_JieNanHuangu">
+			<DisplayName>Curse of Skeleton</DisplayName>
+			<Desc>Every once in a while, your bone will sustain a new damage.</Desc>
+		</Text>
+		<Text Name="Sys_WorkBroken">
+			<DisplayName>Seeking Inspiration</DisplayName>
+			<Desc>After losing all magic powers, meditate with the outer disciples in hopes of finding inspiration and achieving a breakthrough.</Desc>
+		</Text>
+		<Text Name="Sys_MasterHelp">
+			<DisplayName>Guard</DisplayName>
+			<Desc>Your master provided Guard for you, increasing your Mental State and keeping it stabilized.</Desc>
+		</Text>
+		<Text Name="Sys_DrugTime">
+			<DisplayName>Medicine Buff</DisplayName>
+		</Text>
+		<Text Name="Sys_FabaoPowerAdd">
+			<DisplayName>Increases Artifact Power.</DisplayName>
+		</Text>
+		<Text Name="Sys_SkillPowerAdd">
+			<DisplayName>Increases Spell Power</DisplayName>
+		</Text>
+		<Text Name="Sys_SheildPowerAdd">
+			<DisplayName>Increases Protection strength</DisplayName>
+		</Text>
+		<Text Name="SeeGod">
+			<DisplayName>Heavenly Cleansing</DisplayName>
+			<Desc>Having witnessed Ascension with your own eyes, your body and mind are cleansed by the ways of heaven. Cultivation efficiency will double during this period of time.</Desc>
+		</Text>
+		<Text Name="BasePracticeAchievements1">
+			<DisplayName>Foundation Slightly Built</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements2">
+			<DisplayName>Foundation Moderately Built</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements3">
+			<DisplayName>Foundation Built</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements4">
+			<DisplayName>Foundation Built (Belief)</DisplayName>
+		</Text>
+		<Text Name="BasePracticeAchievements5">
+			<DisplayName>Foundation Built (Physical Training)</DisplayName>
+		</Text>
+		<Text Name="Sys_Demon">
+			<DisplayName>Demon ([TXT])</DisplayName>
+			<Desc>Demonized for some reason.</Desc>
+		</Text>
+		<Text Name="FengShui1">
+			<DisplayName>Blessed Land</DisplayName>
+		</Text>
+		<Text Name="FengShui2">
+			<DisplayName>Very Auspicious</DisplayName>
+		</Text>
+		<Text Name="FengShui3">
+			<DisplayName>Slightly Auspicious</DisplayName>
+		</Text>
+		<Text Name="FengShui4">
+			<DisplayName>Slightly Ominous</DisplayName>
+		</Text>
+		<Text Name="FengShui5">
+			<DisplayName>Very Ominous</DisplayName>
+		</Text>
+		<Text Name="FengShui6">
+			<DisplayName>Cursed Land</DisplayName>
+		</Text>
+		<Text Name="Sys_AbsorbGong_5">
+			<DisplayName>Exploitation of External Pleasures</DisplayName>
+			<Desc>This subject has been casted with the spell Exploitation of External Pleasures, and thus become more easily affected by Mood. When in extreme mood (above 160 or below 40), continuously provides Inspiration and Cultivation for the caster.</Desc>
+		</Text>
+		<Text Name="Sys_AbsorbGong_6">
+			<DisplayName>Parasite Infection</DisplayName>
+			<Desc>This subject has been casted with the spell Soul Infection, causing all of its Foundation be converted to Cultivation and fed into the caster every day at 0 AM. It also weakens the character, decreasing its Five Attributes and Overall Work Efficiency.</Desc>
+		</Text>
+		<Text Name="Sys_ShenXiu_Magic_JingXin">
+			<DisplayName>Pacification</DisplayName>
+			<Desc>The mood of this person is calmer now.</Desc>
+		</Text>
+		<Text Name="Sys_DaoLv">
+			<DisplayName>Companionship</DisplayName>
+			<Desc>When together with my companion, I can feel a strong consonance between us, which greatly boosts the efficiency of Cultivation.</Desc>
+		</Text>
+		<Text Name="Sys_Zombie">
+			<DisplayName>Zombie</DisplayName>
+		</Text>
+		<Text Name="Sys_Jianglingfenshen">
+			<DisplayName>Descending Doppelganger</DisplayName>
+			<Desc>The doppelganger of an ancestral master that only serves to fight in battle. It will leave after a while.</Desc>
+		</Text>
+		<Text Name="Sys_Jianglingjiangdao">
+			<DisplayName>Descending Doppelganger</DisplayName>
+			<Desc>The doppelganger of an ancestral master which is giving a lecture. It will leave after a while.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_ZangMenDebuff">
+			<DisplayName>Distressed (Sect Leader)</DisplayName>
+			<Desc>The Sect Leader is feeling a great deal of stress due to the heavy burden of having to manage the sect, which causes a decrease in cultivation-related stats including Mental State, Cultivation Speed, Inspiration Obtaining Speed and Breakthrough Chance. The more branches the sect has, the heavier the stress. It can be reduced to some extent depending on the Sect Leader's management skills.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_TangZhuDebuff">
+			<DisplayName>Distressed (Branch Leader)</DisplayName>
+			<Desc>The Branch Leader is feeling a great deal of stress due to the heavy burden of having to manage the disciples of the branch, which causes a decrease in cultivation-related stats including Mental State, Cultivation Speed, Inspiration Obtaining Speed and Breakthrough Chance. The more disciples the branch has, the heavier the stress. It can be reduced to some extent depending on the Sect Leader's management skills.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_ZangMenDebuff_Old">
+			<DisplayName>Tired</DisplayName>
+			<Desc>Although no longer the Sect Leader, the heavy stress you have endured when managing the sect is not to be relieved so easily within a short period of time. Decreases Cultivation-related stats including Mental State, Cultivation Speed, Inspiration Obtaining Speed and Breakthrough Chance.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_TangZhuDebuff_Old">
+			<DisplayName>Tired</DisplayName>
+			<Desc>Although no longer the Branch Leader, the heavy stress you have endured managing the branch is not to be relieved so easily within a short period of time. Decreases Cultivation-related stats including Mental State, Cultivation Speed, Inspiration Obtaining Speed and Breakthrough Chance.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_NoAreaBuff">
+			<DisplayName>No Area Bonus</DisplayName>
+			<Desc>Due to the inability of Branch Leader, disciples of this branch cannot receive the Area Bonus.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_NoAllBuff">
+			<DisplayName>No Normal Bonus</DisplayName>
+			<Desc>Due to the inability of Branch Leader, disciples of this branch cannot receive the Normal Bonus.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_Dan">
+			<DisplayName>Alchemy Expertise (inner disciple)</DisplayName>
+			<Desc>Inner disciples have increased Pill Concocting speed, success rate and yield within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_Dan">
+			<DisplayName>Alchemy Expertise (outer disciple)</DisplayName>
+			<Desc>Outer disciples have improved medicine making and healing abilities within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_Dan">
+			<DisplayName>Alchemy Expertise (Permanent)</DisplayName>
+			<Desc>Increases Healing/Alchemy skill level and Perception. The more able the Branch Leader, the higher the bonuses. (The permanent Expertise Bonuses refresh every 1 day)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_Qi">
+			<DisplayName>Artifact Crafting Expertise (inner disciple)</DisplayName>
+			<Desc>Inner disciples have increased Artifact Crafting speed, success rate, product grade and quality within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_Qi">
+			<DisplayName>Artifact Crafting Expertise (outer disciple)</DisplayName>
+			<Desc>Outer disciples have improved crafting abilities within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_Qi">
+			<DisplayName>Artifact Crafting Expertise (Permanent)</DisplayName>
+			<Desc>Increases Crafting/Artifact Crafting skill level and Constitution. The more able the Branch Leader, the higher the bonuses. (The permanent Expertise Bonuses refresh every 1 day)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_Zhan">
+			<DisplayName>Battle Expertise (inner disciple)</DisplayName>
+			<Desc>Inner disciples have improved Resilience and Pain Endurance within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_Zhan">
+			<DisplayName>Battle Expertise (outer disciple)</DisplayName>
+			<Desc>Outer disciples have improved Resilience and Pain Endurance within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_Zhan">
+			<DisplayName>Battle Expertise (Permanent)</DisplayName>
+			<Desc>Improves combat-related abilities, including Battle Skill level, Perception and Constitution. The more able the Branch Leader, the higher the bonuses. (The permanent Expertise Bonuses refresh every 1 day)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_XiuLian">
+			<DisplayName>Practice Expertise (inner disciple)</DisplayName>
+			<Desc>Inner disciples have increased Mental State, Cultivation Speed, Inspiration Obtainment and Breakthrough Chance within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_XiuLian">
+			<DisplayName>Practice Expertise (outer disciple)</DisplayName>
+			<Desc>Outer disciples have increased Foundation Training speed within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_XiuLian">
+			<DisplayName>Practice Expertise (Permanent)</DisplayName>
+			<Desc>Increases Qi Sense level and Intelligence. The more able the Branch Leader, the higher the bonuses. (The permanent Expertise Bonuses refresh every 1 day)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Nei_WaiShi">
+			<DisplayName>Adventure Expertise (inner disciple)</DisplayName>
+			<Desc>Inner disciples are granted a general efficiency bonus when within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Wai_WaiShi">
+			<DisplayName>Adventure Expertise (outer disciple)</DisplayName>
+			<Desc>Outer disciples are granted a general efficiency bonus when within the scope of this branch. The more able the Branch Leader, the higher the bonuses.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_All_WaiShi">
+			<DisplayName>Adventure Expertise(Permanent)</DisplayName>
+			<Desc>Improves attributes including Adventure Speed, Reputation Obtaining Bonus, Adventure Breakthroughing Speed, Social Skill level, Charisma and Luck. The more able the Branch Leader, the higher the bonuses. (The permanent Expertise Bonuses refresh every 1 day)</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_Magic_Prophesy">
+			<DisplayName>Universal Foresight.</DisplayName>
+			<Desc>When something is about to happen, a hint will be given in advance.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CanNotExperience">
+			<DisplayName>Absent-minded</DisplayName>
+			<Desc>This disciple has just returned from a long Adventure, and need some time to meditate in order to stabilize their Cultivation.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CanNotExperienceHide">
+			<DisplayName>Unable to start Adventure</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_TameCD">
+			<DisplayName>Feeding Interval</DisplayName>
+			<Desc>This animal has just been fed.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_GodMode">
+			<DisplayName>Invulnerable</DisplayName>
+			<Desc>Invulnerable State</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CantSelect">
+			<DisplayName>Unselectable</DisplayName>
+		</Text>
+		<Text Name="Mini_Follow">
+			<DisplayName>Pet</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_Fenshenshang">
+			<DisplayName>Dispirited</DisplayName>
+			<Desc>Fallen into a state of weakness after performing Spirit Splitting.</Desc>
+		</Text>
+		<Text Name="SysConcealmentModifier">
+			<DisplayName>Hidden</DisplayName>
+			<Desc>Hide presence to lower the chance of being discovered. \nTakes 5 sec to undo hiding.</Desc>
+		</Text>
+		<Text Name="SysConcealmentRobModifier">
+			<DisplayName>Stealing</DisplayName>
+			<Desc>Increased chance of being discovered.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_WinterWarm">
+			<DisplayName>Winter Worm</DisplayName>
+			<Desc>Cold-resistant increased after eating the Winter Worm.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_SummerHerb">
+			<DisplayName>Summer Herb</DisplayName>
+			<Desc>Heat-resistant increased after eating the Summer Herb.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_SuppressGodCall">
+			<DisplayName>Suppress</DisplayName>
+			<Desc>Forcibly suppress the Heavenly Tribulation.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CangJingGe">
+			<DisplayName>Cultivated Environment</DisplayName>
+			<Desc>Thanks to the amount of books in the sect's collection, our disciples can cultivate and obtain Inspiration faster.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_ShaLu">
+			<DisplayName>Heart of Killing</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_ZiQi">
+			<DisplayName>Heart of Giving Up</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_TanLan">
+			<DisplayName>Heart of Greed</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_XiangLe">
+			<DisplayName>Heart of Hedonist</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_AoMan">
+			<DisplayName>Heart of Arrogance</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_WeiShan">
+			<DisplayName>Heart of Hypocrisy</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_JiaoLv">
+			<DisplayName>Heart of Anxiety</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_YiYu">
+			<DisplayName>Heart of Depression</DisplayName>
+		</Text>
+		<Text Name="SysNewYearZhulong">
+			<DisplayName>Spring Festival</DisplayName>
+			<Desc>The Torch Dragon is watching you, and will leave after a while.</Desc>
+		</Text>
+		<Text Name="SysJumpingModifier">
+			<DisplayName>Ascending</DisplayName>
+		</Text>
+		<Text Name="Modifier_Dan_ColdDown">
+			<DisplayName>Medicine Absorbing</DisplayName>
+			<Desc>Takes some time to fully absorb the nutrition of all the medicines, during which no new nutrition will be gained through eating medicine.</Desc>
+		</Text>
+		<Text Name="SysSprintModifier">
+			<DisplayName>Sprint</DisplayName>
+		</Text>
+		<Text Name="System_CGModifier">
+			<DisplayName>Special Shapeshift</DisplayName>
+		</Text>
+	</List>
+</Texts>

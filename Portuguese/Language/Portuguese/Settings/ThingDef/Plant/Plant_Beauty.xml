@@ -1,0 +1,44 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Dandelion" sParam="Plant">
+			<ThingName>Dandelion</ThingName>
+			<Desc>Little beautiful flower.</Desc>
+		</Text>
+		<Text Name="Flower1" sParam="Plant">
+			<ThingName>Springhope</ThingName>
+			<Desc>Beautiful plant of slight Wood element.</Desc>
+		</Text>
+		<Text Name="IceFlower1" sParam="Plant">
+			<ThingName>Iceflower</ThingName>
+			<Desc>Beautiful plant of slight Wood element.</Desc>
+		</Text>
+		<Text Name="Flower2" sParam="Plant">
+			<ThingName>Aureate</ThingName>
+			<Desc>Beautiful plant of slight Metal element.</Desc>
+		</Text>
+		<Text Name="Flower3" sParam="Plant">
+			<ThingName>Sanguinea</ThingName>
+			<Desc>Beautiful plant of slight Fire element.</Desc>
+		</Text>
+		<Text Name="Flower4" sParam="Plant">
+			<ThingName>Triandrus</ThingName>
+			<Desc>Beautiful plant of slight Water element.</Desc>
+		</Text>
+		<Text Name="Flower5" sParam="Plant">
+			<ThingName>Fraxinus</ThingName>
+			<Desc>Beautiful plant of slight Earth element.</Desc>
+		</Text>
+		<Text Name="ShiChe" sParam="Plant">
+			<ThingName>Cornflowers</ThingName>
+			<Desc>A beautiful plant that grows in desert.</Desc>
+		</Text>
+		<Text Name="CongRong" sParam="Plant">
+			<ThingName>Cistanche</ThingName>
+			<Desc>A beautiful plant that grows in desert.</Desc>
+		</Text>
+		<Text Name="CamelSting" sParam="Plant">
+			<ThingName>Camelthorn</ThingName>
+			<Desc>A beautiful plant that grows in desert.</Desc>
+		</Text>
+	</List>
+</Texts>

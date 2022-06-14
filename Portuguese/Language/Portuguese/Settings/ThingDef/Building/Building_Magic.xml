@@ -1,0 +1,79 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="FengShui" sParam="Building">
+			<ThingName>Observatory</ThingName>
+			<Desc>A structure used to observe the Five Elements, Feng Shui and distribution of Qi.</Desc>
+		</Text>
+		<Text Name="TheGate" sParam="Building">
+			<ThingName>Sect Stele</ThingName>
+			<Desc>A landmark stele of the sect.</Desc>
+		</Text>
+		<Text Name="Build_TheBigGate" sParam="Building">
+			<ThingName>Sect Gate</ThingName>
+			<Desc>A majestic gate of the sect.</Desc>
+		</Text>
+		<Text Name="Cushion" sParam="Building">
+			<ThingName>Cushion</ThingName>
+			<Desc>A soft cushion for people to sit on.</Desc>
+		</Text>
+		<Text Name="Building_MagicCushion" sParam="Building">
+			<ThingName>Qi Cushion</ThingName>
+			<Desc>A cushion specifically used for cultivation that can gather Qi.</Desc>
+		</Text>
+		<Text Name="BasePracticePlace" sParam="Building">
+			<ThingName>Training Spot</ThingName>
+			<Desc>Does not need any materials, just a designated spot for outer disciples' training.</Desc>
+		</Text>
+		<Text Name="PuppetPlace" sParam="Building">
+			<ThingName>Vessel Spot</ThingName>
+			<Desc>Vessels will return here and wait when there is no work.</Desc>
+		</Text>
+		<Text Name="TrainingDummy" sParam="Building">
+			<ThingName>Wooden Dummy</ThingName>
+			<Desc>A device used for outer disciples' foundation training.</Desc>
+		</Text>
+		<Text Name="ExploreBackPlace" sParam="Building">
+			<ThingName>Reward Spot</ThingName>
+			<Desc>After inner disciples return from adventures, they will put their rewards here.</Desc>
+		</Text>
+		<Text Name="Building_Statue1" sParam="Building">
+			<ThingName>Virtue Statue</ThingName>
+			<Desc>A giant statue of the Lord of Virtue.</Desc>
+		</Text>
+		<Text Name="Building_Statue2" sParam="Building">
+			<ThingName>Beginning Statue</ThingName>
+			<Desc>A giant statue of the Lord of Primordial Beginning.</Desc>
+		</Text>
+		<Text Name="Building_Statue3" sParam="Building">
+			<ThingName>Treasures Statue</ThingName>
+			<Desc>A giant statue of the Lord of Treasures.</Desc>
+		</Text>
+		<Text Name="Building_SacrificialTable" sParam="Building">
+			<ThingName>Ancestral Shrine</ThingName>
+			<Desc>A shrine used to commemorate the ancestors.</Desc>
+		</Text>
+		<Text Name="DanStove" sParam="Building">
+			<ThingName>Alchemy Furnace</ThingName>
+			<Desc>The best place to concoct elixirs.</Desc>
+		</Text>
+		<Text Name="DanStove_Part" sParam="Building">
+			<ThingName>Furnace Part (Dev)</ThingName>
+		</Text>
+		<Text Name="RefiningCushion" sParam="Building">
+			<ThingName>Crafting Table</ThingName>
+			<Desc>The best place to craft artifacts.</Desc>
+		</Text>
+		<Text Name="Building_SleeveSpace" sParam="Building">
+			<ThingName>Mini Universe</ThingName>
+			<Desc>An unstable Bounded Universe created by directing the spatial power of Universe Spirit Crystal supplemented by precious materials of the Five Elements, which can be used to store items. Due to the spatial instability, it can only store common items. Otherwise it may cause the space to collapse.</Desc>
+			<StoryBnts.0.Name>Acquisition</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Immediately collect all items on the map that are not covered by fog, not prohibited and collectable by the Mini Universe.</StoryBnts.0.Desc>
+			<StoryBnts.1.Name>Inspect</StoryBnts.1.Name>
+			<StoryBnts.1.Desc>Use Divine Mind to inspect the secret of the Mini Universe.</StoryBnts.1.Desc>
+		</Text>
+		<Text Name="Building_SleeveSpace1" sParam="Building">
+			<ThingName>Mini Universe Gate</ThingName>
+			<Desc>A small gateway connecting to the Mini Universe, through which one can fetch items within it.</Desc>
+		</Text>
+	</List>
+</Texts>

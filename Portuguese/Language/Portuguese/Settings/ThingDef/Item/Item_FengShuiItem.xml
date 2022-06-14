@@ -1,0 +1,94 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="FengShuiItem_YinZhang1" sParam="Item">
+			<ThingName>Morality Seal</ThingName>
+			<Desc>One of the Three Clarity seals, it is an ultimate treasure passed down from the thirty-three celestial levels. Can be used to enhance Feng Shui.</Desc>
+			<Item.FabaoSuffix>Seal</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_YinZhang2" sParam="Item">
+			<ThingName>Primordial Seal</ThingName>
+			<Desc>One of the Three Clarity seals, it is an ultimate treasure passed down from the thirty-three celestial levels. Can be used to enhance Feng Shui.</Desc>
+			<Item.FabaoSuffix>Seal</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_YinZhang3" sParam="Item">
+			<ThingName>Mystical Seal</ThingName>
+			<Desc>One of the Three Clarity seals, it is an ultimate treasure passed down from the thirty-three celestial levels. Can be used to enhance Feng Shui.</Desc>
+			<Item.FabaoSuffix>Seal</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ta1" sParam="Item">
+			<ThingName>Celestial Pagoda</ThingName>
+			<Desc>Precious relic passed down from the ancient Order of Comprehension, its divine light bright and clear. Can be used to enhance Feng Shui.</Desc>
+			<Item.FabaoSuffix>Pagoda</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ta2" sParam="Item">
+			<ThingName>Spirit Pagoda</ThingName>
+			<Desc>Golden pagoda carved with ten-thousands-year-old Spirit Crystal, it possesses intensive Qi power. Can be used to enhance Feng Shui.</Desc>
+			<Item.FabaoSuffix>Pagoda</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ping1" sParam="Item">
+			<ThingName>Yin Vessel</ThingName>
+			<Desc>Wicked object of unknown origin unearthed from somewhere, it can concentrate negative Qi of Feng Shui and reverse it. Very ominous.</Desc>
+			<Item.FabaoSuffix>Vase</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Ding1" sParam="Item">
+			<ThingName>Ceremonial Cauldron</ThingName>
+			<Desc>Precious cauldron used by the ancient immortals in the sacrificial ceremonies of heaven and earth, it is said to be capable of communicating with the ways of Heaven.</Desc>
+			<Item.FabaoSuffix>Cauldron</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Bei1" sParam="Item">
+			<ThingName>Spirit Stela</ThingName>
+			<Desc>A stele made by Fu Pikong, the Emperor of Demons. While devoid with any inscription, it can rejuvenate one's true spirit and evoke inspirations.</Desc>
+			<Item.FabaoSuffix>Stele</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_ShiZi1" sParam="Item">
+			<ThingName>Jade Lion</ThingName>
+			<Desc>A jade lion carved from precious jade tempered by thunder, it is capable of dispelling evils, clearing chaos and soothing one's mind.</Desc>
+			<Item.FabaoSuffix>Lion</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_ShiTou1" sParam="Item">
+			<ThingName>Mount Buzhou Stone</ThingName>
+			<Desc>Rocks with divine power from the heart of Mt.Buzhou. Rich in life energy, it nourishes all living things.</Desc>
+			<Item.FabaoSuffix>Rock</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_TuHua1" sParam="Item">
+			<ThingName>Yin Yang Board</ThingName>
+			<Desc>Written scroll that encompasses the way of Yin-Yang transformations between heaven, earth and human, it teaches the truth of Essence conversion.</Desc>
+			<Item.FabaoSuffix>Picture</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_ShuJi1" sParam="Item">
+			<ThingName>Records of the Immortal Dishes</ThingName>
+			<Desc>There are many unrecognizable pictures painted on it, which are said to be recipes from the heavenly court. Can be used to enhance Feng Shui.</Desc>
+			<Item.FabaoSuffix>Book, Volume</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_QiJu1" sParam="Item">
+			<ThingName>Divine Sign Chart</ThingName>
+			<Desc>A chess diagram passed down from ancient times, it is said to secretly encompass the evolutional principles of the way of cultivation. Examining it makes people awe the hardships of the way of cultivation and become ever more devoted.</Desc>
+			<Item.FabaoSuffix>Diagram</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_FuZhou1" sParam="Item">
+			<ThingName>Enchantment Talisman</ThingName>
+			<Desc>Talisman from the ancient Order of Corpse Driver. It cannot be worn anymore due to the thick Qi of the dead that accumulated on it. If properly arranged, however, it can be used to enhance Feng Shui..</Desc>
+			<Item.FabaoSuffix>Talisman</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_Jian1" sParam="Item">
+			<ThingName>Mystical Sword</ThingName>
+			<Desc>Sword that encompasses the way of creation. It cannot be used to kill, but rather to serve Feng Shui purposes.</Desc>
+			<Item.FabaoSuffix>Sword</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_HuLu1" sParam="Item">
+			<ThingName>Tushita Gourd</ThingName>
+			<Desc>Gourd said to be the one used to store medicines in Tushita Palace. It somehow appeared in the world of mortals for unknown reasons. Can be used to enhance Feng Shui.</Desc>
+			<Item.FabaoSuffix>Gourd</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_BaoBei1" sParam="Item">
+			<ThingName>Dragon Rod</ThingName>
+			<Desc>The phallus of the ancient Red Dragon, which is said to be conceived by the force of true Yang between heaven and earth itself. Although the nature of this object is quite impulsive, the Qi of true Yang that dwells within it could be helpful with one's cultivation.</Desc>
+			<Item.FabaoSuffix>Root</Item.FabaoSuffix>
+		</Text>
+		<Text Name="FengShuiItem_SheLi1" sParam="Item">
+			<ThingName>Holy Grace</ThingName>
+			<Desc>Ultimate treasure of the ancient Shendao Cultivation tradition. Can be used to enhance Feng Shui. Shendao Cultivation can be traced back to ancient times. But in more recent ages, its successors and treasures are all but extinct. Perhaps the unearthing of this relic means something.</Desc>
+			<Item.FabaoSuffix>Sarira</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,402 @@
+﻿<SpecialNames>
+	<List>
+		<SpecialItem Name="Item_HomeFood">
+			<Item_TurtleEgg>
+				<li Name="Turtle Egg Pudding" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Turtle Egg Soup" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Sour &amp; Spicy Turtle Egg Soup" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Fried Turtle Egg with Chinese Chives" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Rice Mixed with Raw Turtle Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Fried Rice with Turtle Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Boiled Turtle Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Turtle Balut" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+			</Item_TurtleEgg>
+			<Item_SnakeEgg>
+				<li Name="Snake Egg Pudding" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Snake Egg Soup" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Sour &amp; Spicy Snake Egg Soup" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Fried Snake Egg with Chinese Chives" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Rice Mixed with Raw Snake Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Fried Rice with Snake Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Boiled Snake Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Snake Balut" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+			</Item_SnakeEgg>
+			<Item_ChickenEgg>
+				<li Name="Chicken Egg Pudding" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Chicken Egg Soup" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Sour &amp; Spicy Chicken Egg Soup" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Fried Chicken Egg with Chinese Chives" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Rice Mixed with Raw Chicken Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Fried Rice with Chicken Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Boiled Chicken Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Chicken Balut" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+			</Item_ChickenEgg>
+			<Item_BoarMeat>
+				<li Name="Pork Bone Soup with Rice" Desc=""></li>
+				<li Name="Pork Pancake" Desc=""></li>
+				<li Name="Fried Rice with Boar Meat" Desc=""></li>
+				<li Name="Pork Rolls" Desc=""></li>
+				<li Name="Braised Pork with Daikon" Desc=""></li>
+				<li Name="Braised Pork with Glass Noodles" Desc=""></li>
+				<li Name="Stir-fried Pork with Green Pepper" Desc=""></li>
+				<li Name="Deep-fried Pork Cutlet" Desc=""></li>
+				<li Name="Grilled Boar Leg" Desc=""></li>
+			</Item_BoarMeat>
+			<Item_ChickenMeat>
+				<li Name="Chicken Soup" Desc=""></li>
+				<li Name="Chicken Pancake" Desc=""></li>
+				<li Name="Fried Rice with Chicken" Desc=""></li>
+				<li Name="Roasted Chicken Wings" Desc=""></li>
+				<li Name="Rice with Chicken Wings" Desc=""></li>
+				<li Name="Noodles with Shredded Chicken" Desc=""></li>
+			</Item_ChickenMeat>
+			<Item_Beef>
+				<li Name="Beef Rice" Desc=""></li>
+				<li Name="Spiced Beef" Desc=""></li>
+				<li Name="Beef Soup" Desc=""></li>
+				<li Name="Braised Beef with Potatoes" Desc=""></li>
+				<li Name="Crispy Chili Beef" Desc=""></li>
+				<li Name="Grilled Beef Leg" Desc=""></li>
+				<li Name="Crispy Spicy Beef" Desc=""></li>
+				<li Name="Fried Rice with Beef" Desc=""></li>
+				<li Name="Beef Bone Soup" Desc=""></li>
+			</Item_Beef>
+			<Item_RabbitMeat>
+				<li Name="Roasted Rabbit Meat" Desc=""></li>
+				<li Name="Rabbit Meat Rolls" Desc=""></li>
+				<li Name="Fried Rice with Rabbit Meat" Desc=""></li>
+				<li Name="Spiced Rabbit Meat" Desc=""></li>
+				<li Name="Braised Rabbit Meat with Daikon" Desc=""></li>
+				<li Name="Simmered Rabbit Meat" Desc=""></li>
+				<li Name="Spicy Rabbit Meat" Desc=""></li>
+				<li Name="Honey-stewed Rabbit Meat" Desc=""></li>
+				<li Name="Grilled Rabbit Meat" Desc=""></li>
+			</Item_RabbitMeat>
+			<Item_WolfMeat>
+				<li Name="Roasted Wolf Meat" Desc=""></li>
+				<li Name="Wolf Meat with Coarse Salt" Desc=""></li>
+				<li Name="Roasted Wolf Rib" Desc=""></li>
+				<li Name="Boiled Wolf Meat" Desc=""></li>
+				<li Name="Simmered Wolf Meat" Desc=""></li>
+				<li Name="Braised Wolf Meat" Desc=""></li>
+				<li Name="Grilled Wolf Leg" Desc=""></li>
+			</Item_WolfMeat>
+			<Item_FishMeat>
+				<li Name="Fish Risotto" Desc=""></li>
+				<li Name="Fish Pancake" Desc=""></li>
+				<li Name="Fish Rolls" Desc=""></li>
+				<li Name="Roasted Fish" Desc=""></li>
+				<li Name="Deep-fried Fish" Desc=""></li>
+				<li Name="Boiled Fish" Desc=""></li>
+				<li Name="Steamed Fish" Desc=""></li>
+				<li Name="Braised Fish" Desc=""></li>
+			</Item_FishMeat>
+			<Item_SnakeMeat>
+				<li Name="Snake Meat Soup" Desc=""></li>
+				<li Name="Deep-fried Snake Meat" Desc=""></li>
+				<li Name="Spiced Snake Meat" Desc=""></li>
+				<li Name="Braised Snake Meat" Desc=""></li>
+				<li Name="Dry-fried Snake Meat" Desc=""></li>
+				<li Name="Spicy Snake Meat" Desc=""></li>
+				<li Name="Snake Skin Dressed with Sauce" Desc=""></li>
+			</Item_SnakeMeat>
+			<Item_Wheat>
+				<li Name="Steamed Buns" Desc=""></li>
+				<li Name="Steamed Scallion Buns" Desc=""></li>
+				<li Name="Dandan Noodles" Desc=""></li>
+				<li Name="Ramen Noodles" Desc=""></li>
+				<li Name="Noodles with Chinese Gravy" Desc=""></li>
+				<li Name="Chinese Crepes" Desc=""></li>
+				<li Name="Sesame Oil Ramen" Desc=""></li>
+				<li Name="Scallion Ramen" Desc=""></li>
+				<li Name="Noodles with Shredded Chicken" Desc=""></li>
+			</Item_Wheat>
+			<Item_Flour>
+				<li Name="Steamed Buns" Desc=""></li>
+				<li Name="Steamed Scallion Buns" Desc=""></li>
+				<li Name="Dandan Noodles" Desc=""></li>
+				<li Name="Ramen Noodles" Desc=""></li>
+				<li Name="Noodles with Chinese Gravy" Desc=""></li>
+				<li Name="Chinese Crepes" Desc=""></li>
+				<li Name="Sesame Oil Ramen" Desc=""></li>
+				<li Name="Scallion Ramen" Desc=""></li>
+				<li Name="Noodles with Shredded Chicken" Desc=""></li>
+			</Item_Flour>
+			<Item_Mushroom>
+				<li Name="Mushroom Soup" Desc=""></li>
+				<li Name="Stir-fried Mushroom" Desc=""></li>
+				<li Name="Deep-fried Mushroom" Desc=""></li>
+				<li Name="Fried Rice with Mushroom" Desc=""></li>
+				<li Name="Stir-fried Pork with Mushroom" Desc=""></li>
+			</Item_Mushroom>
+			<Item_Lotusroot>
+				<li Name="Stir-fried Lotus Root" Desc=""></li>
+				<li Name="Crispy Lotus Root" Desc=""></li>
+				<li Name="Spiced Lotus Root" Desc=""></li>
+				<li Name="Lotus Root Soup with Pork Bones" Desc=""></li>
+				<li Name="Braised Pork Ribs with Lotus Root" Desc=""></li>
+				<li Name="Lotus Root Starch" Desc=""></li>
+			</Item_Lotusroot>
+			<Item_Pear>
+				<li Name="Chicken Soup with Pear" Desc=""></li>
+				<li Name="Steamed Rice with Pear" Desc=""></li>
+				<li Name="Autumn Pear Soup" Desc=""></li>
+				<li Name="Pear Soup with Hawthorn Berries &amp; Dates" Desc=""></li>
+				<li Name="Pear Soup with Epiphyllum" Desc=""></li>
+			</Item_Pear>
+			<Item_Fruit>
+				<li Name="Simmered Buckthorn Berries with Tofu" Desc=""></li>
+				<li Name="Chinese Yam Soup with Buckthorn Berries" Desc=""></li>
+				<li Name="Buckthorn Berry Rice" Desc=""></li>
+				<li Name="Buckthorn Berry Juice" Desc=""></li>
+				<li Name="Cranberry Juice" Desc=""></li>
+				<li Name="Fried Rice with Cranberries" Desc=""></li>
+				<li Name="Fish Soup with Cranberries" Desc=""></li>
+			</Item_Fruit>
+			<Item_FrogMeat>
+				<li Name="Dry-braised Frog Meat" Desc=""></li>
+				<li Name="Crispy &amp; Spicy Frog Legs" Desc=""></li>
+			</Item_FrogMeat>
+			<Item_TurtleMeat>
+				<li Name="Braised Turtle Meat" Desc=""></li>
+				<li Name="Turtle Meat Soup" Desc=""></li>
+			</Item_TurtleMeat>
+			<Item_BearMeat>
+				<li Name="Braised Bear Meat" Desc=""></li>
+				<li Name="Stir-fried Bear Meat Slice with Hot Pepper" Desc=""></li>
+			</Item_BearMeat>
+		</SpecialItem>
+		<SpecialItem Name="Item_DeliciousFood">
+			<Item_TurtleEgg>
+				<li Name="Spiced Turtle Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Special Salted Turtle Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Herb-Roasted Turtle Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Fried Turtle Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Grilled Turtle Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Deep-fried Turtle Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+			</Item_TurtleEgg>
+			<Item_SnakeEgg>
+				<li Name="Spiced Snake Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Special Salted Snake Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Herb-Roasted Snake Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Fried Snake Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Grilled Snake Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Deep-fried Snake Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+			</Item_SnakeEgg>
+			<Item_ChickenEgg>
+				<li Name="Spiced Chicken Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Special Salted Chicken Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Herb-Roasted Chicken Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Fried Chicken Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Grilled Chicken Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+				<li Name="Deep-fried Chicken Egg" Desc="【Thank you beta tester: 人境庐 for providing this recipe.】"></li>
+			</Item_ChickenEgg>
+			<Item_BoarMeat>
+				<li Name="Spiced Pig Ears" Desc=""></li>
+				<li Name="Pork Meatballs" Desc=""></li>
+				<li Name="Braised Pig Trotters" Desc=""></li>
+				<li Name="Stir-fried Boar Meat with Red Pepper" Desc=""></li>
+				<li Name="Pork Dumplings" Desc=""></li>
+				<li Name="Honey-stewed Pork Jerky" Desc=""></li>
+				<li Name="Roasted Pork Fillets with Scallion" Desc=""></li>
+				<li Name="Peking Sauce Pork" Desc=""></li>
+				<li Name="Honey-stewed Pork Jerky" Desc=""></li>
+			</Item_BoarMeat>
+			<Item_ChickenMeat>
+				<li Name="Kung Pao Chicken" Desc=""></li>
+				<li Name="Chicken Fried Steak" Desc=""></li>
+				<li Name="Fried Chicken Drumsticks" Desc=""></li>
+			</Item_ChickenMeat>
+			<Item_Beef>
+				<li Name="Sliced Beef in Chili Oil" Desc=""></li>
+				<li Name="Sliced Beef in Broth" Desc=""></li>
+				<li Name="Beef Tendon Stew" Desc=""></li>
+				<li Name="Beef Balls" Desc=""></li>
+				<li Name="Beef Dumplings" Desc=""></li>
+				<li Name="Stir-fried Beef" Desc=""></li>
+				<li Name="Beef Stew" Desc=""></li>
+				<li Name="Braised Beef with Vegetables" Desc=""></li>
+				<li Name="Stir-fried Eggs with Beef" Desc=""></li>
+			</Item_Beef>
+			<Item_RabbitMeat>
+				<li Name="Spicy Rabbit Head" Desc=""></li>
+				<li Name="Roasted Rabbit" Desc=""></li>
+				<li Name="Stir-fried Spicy Rabbit Meat" Desc=""></li>
+				<li Name="Crispy Rabbit Meat" Desc=""></li>
+				<li Name="Rabbit Meat with Spiced Salt" Desc=""></li>
+				<li Name="Simmered Rabbit Meat with Scallion &amp; Ginger" Desc=""></li>
+				<li Name="Rabbit Meat with Hot Pepper" Desc=""></li>
+				<li Name="Rabbit Meat in Chili Oil" Desc=""></li>
+				<li Name="Rabbit Meat with Sauce Dip" Desc=""></li>
+			</Item_RabbitMeat>
+			<Item_WolfMeat>
+				<li Name="Braised Wolf Meat" Desc=""></li>
+				<li Name="Stir-fried Wolf Meat with Wild Pepper" Desc=""></li>
+				<li Name="Cumin Roasted Wolf Meat" Desc=""></li>
+				<li Name="Stir-fried Wolf Meat with Ginger Slices" Desc=""></li>
+			</Item_WolfMeat>
+			<Item_FishMeat>
+				<li Name="Fish in Chili Oil" Desc=""></li>
+				<li Name="Fish Balls" Desc=""></li>
+				<li Name="Fish Cakes" Desc=""></li>
+				<li Name="Spiced Fish Stew" Desc=""></li>
+				<li Name="Sour Fish Soup" Desc=""></li>
+				<li Name="Steamed Fish in Rice Wine" Desc=""></li>
+				<li Name="Fried Fish Fillets" Desc=""></li>
+				<li Name="Simmered Fish in Broth" Desc=""></li>
+				<li Name="Steamed Fish Head with Hot Pepper" Desc=""></li>
+			</Item_FishMeat>
+			<Item_SnakeMeat>
+				<li Name="Spicy Snake Meat" Desc=""></li>
+				<li Name="Snake Meat Porridge" Desc=""></li>
+				<li Name="Snake Meat Stew" Desc=""></li>
+				<li Name="Simmered Snake Meat" Desc=""></li>
+				<li Name="Stir-fried Snake Meat with Scallion" Desc=""></li>
+				<li Name="Snake Meat with Enoki Mushroom" Desc=""></li>
+				<li Name="Snake Soup with Scallion" Desc=""></li>
+				<li Name="Stir-fried Snake Meat with Bell Pepper" Desc=""></li>
+				<li Name="Stir-fried Snake Meat with Mushrooms" Desc=""></li>
+			</Item_SnakeMeat>
+			<Item_Wheat>
+				<li Name="Dragon Beard Noodles" Desc=""></li>
+				<li Name="Patted Noodles" Desc=""></li>
+				<li Name="Banged Noodles" Desc=""></li>
+				<li Name="Braised Noodles" Desc=""></li>
+				<li Name="Hand Stretched Noodles" Desc=""></li>
+				<li Name="Wide Noodles" Desc=""></li>
+				<li Name="Red Bean Buns" Desc=""></li>
+				<li Name="Custard Buns" Desc=""></li>
+				<li Name="Sugar Buns" Desc=""></li>
+				<li Name="Flatbread" Desc=""></li>
+			</Item_Wheat>
+			<Item_Flour>
+				<li Name="Dragon Beard Noodles" Desc=""></li>
+				<li Name="Patted Noodles" Desc=""></li>
+				<li Name="Banged Noodles" Desc=""></li>
+				<li Name="Braised Noodles" Desc=""></li>
+				<li Name="Hand Stretched Noodles" Desc=""></li>
+				<li Name="Wide Noodles" Desc=""></li>
+				<li Name="Red Bean Buns" Desc=""></li>
+				<li Name="Custard Buns" Desc=""></li>
+				<li Name="Sugar Buns" Desc=""></li>
+				<li Name="Flatbread" Desc=""></li>
+			</Item_Flour>
+			<Item_Mushroom>
+				<li Name="Braised Mushroom with Beans" Desc=""></li>
+				<li Name="Mushroom Rice in Broth" Desc=""></li>
+				<li Name="Roasted Mushroom" Desc=""></li>
+				<li Name="Braised Mushroom with Potatoes" Desc=""></li>
+				<li Name="Mushroom Rolls" Desc=""></li>
+				<li Name="Mushroom &amp; Bell Pepper Salad" Desc=""></li>
+				<li Name="Grilled Enoki Mushroom with Garlic" Desc=""></li>
+			</Item_Mushroom>
+			<Item_Lotusroot>
+				<li Name="Deep-fried Lotus Root" Desc=""></li>
+				<li Name="Lotus Root Soup with Sour Plums" Desc=""></li>
+				<li Name="Sweet &amp; Sour Lotus Root" Desc=""></li>
+				<li Name="Steamed Rice with Lotus Root" Desc=""></li>
+				<li Name="Spicy Lotus Root" Desc=""></li>
+			</Item_Lotusroot>
+			<Item_Pear>
+				<li Name="Pear Slices with Lily Bulbs" Desc=""></li>
+				<li Name="Sweet Pear Juice" Desc=""></li>
+				<li Name="Pear Soup with White Fungus" Desc=""></li>
+				<li Name="Spiced Pear Syrup" Desc=""></li>
+			</Item_Pear>
+			<Item_Fruit>
+				<li Name="Buckthorn Berry Cake" Desc=""></li>
+				<li Name="Buckthorn Berry &amp; Green Bean Milk" Desc=""></li>
+				<li Name="Crystal Buckthorn Berry" Desc=""></li>
+				<li Name="Roast Meat with Cranberry Sauce" Desc=""></li>
+				<li Name="Cranberry Pancake" Desc=""></li>
+				<li Name="Simmered Fish with Cranberries" Desc=""></li>
+			</Item_Fruit>
+			<Item_FrogMeat>
+				<li Name="Dry-braised Frog Meat" Desc=""></li>
+				<li Name="Crispy &amp; Spicy Frog Legs" Desc=""></li>
+			</Item_FrogMeat>
+			<Item_TurtleMeat>
+				<li Name="Braised Turtle Meat" Desc=""></li>
+				<li Name="Turtle Meat Soup" Desc=""></li>
+			</Item_TurtleMeat>
+			<Item_BearMeat>
+				<li Name="Steamed Bear Paw" Desc=""></li>
+				<li Name="Braised Bear Paw" Desc=""></li>
+			</Item_BearMeat>
+		</SpecialItem>
+		<SpecialItem Name="Item_DelicacyFood">
+			<Item_TurtleEgg>
+				<li Name="Prismatic Braised Egg" Desc="Boil the ingredient in water, refill the pot until it is hard boiled, and then cut it to slices. Sprinkle ground powder of Prismatic Fruit on and stir-fry it in a special method. This dish is sweet, savory but not greasy. (Thank you beta tester: 人境庐 for providing this recipe.)"></li>
+				<li Name="Dragon Breath Egg" Desc="Simmer the ingredient in extremely hot burned sycamore ash for 14/h without any seasoning, bringing out the ultimate flavor of the egg. With the combined smell of herbs and explosive fire element, this dish has a lingering aftertaste that suits your palate. (Thank you beta tester: 人境庐 for providing this recipe.)"></li>
+			</Item_TurtleEgg>
+			<Item_SnakeEgg>
+				<li Name="Prismatic Braised Egg" Desc="Boil the ingredient in water, refill the pot until it is hard boiled, and then cut it to slices. Sprinkle ground powder of Prismatic Fruit on and stir-fry it in a special method. This dish is sweet, savory but not greasy. (Thank you beta tester: 人境庐 for providing this recipe.)"></li>
+				<li Name="Dragon Breath Egg" Desc="Simmer the ingredient in extremely hot burned sycamore ash for 14/h without any seasoning, bringing out the ultimate flavor of the egg. With the combined smell of herbs and explosive fire element, this dish has a lingering aftertaste that suits your palate. (Thank you beta tester: 人境庐 for providing this recipe.)"></li>
+			</Item_SnakeEgg>
+			<Item_ChickenEgg>
+				<li Name="Prismatic Braised Egg" Desc="Boil the ingredient in water, refill the pot until it is hard boiled, and then cut it to slices. Sprinkle ground powder of Prismatic Fruit on and stir-fry it in a special method. This dish is sweet, savory but not greasy. (Thank you beta tester: 人境庐 for providing this recipe.)"></li>
+				<li Name="Dragon Breath Egg" Desc="Simmer the ingredient in extremely hot burned sycamore ash for 14/h without any seasoning, bringing out the ultimate flavor of the egg. With the combined smell of herbs and explosive fire element, this dish has a lingering aftertaste that suits your palate. (Thank you beta tester: 人境庐 for providing this recipe.)"></li>
+			</Item_ChickenEgg>
+			<Item_BoarMeat>
+				<li Name="Wind of the Wild" Desc="Use a difficult technique to roast a boar's hams with heavy fire, resulting in three drastically different flavors and tastes: the outside is crispy and spicy, the middle layer is crunchy and chewy, and the inside is tender and juicy. Eating this dish is like stepping into the wild; It has a nomadic characteristic to it."></li>
+				<li Name="24 Bridges Bathed in the Bright Moonlight" Desc="Cut the boar's tenderloin into thin slices, marinate them with seasoning, stuff them into 24 balls made from tofu, and then slowly cook them in broth; One of a kind delicacies."></li>
+			</Item_BoarMeat>
+			<Item_Beef>
+				<li Name="Willow in the Wind" Desc="Cut beef into thin slices, use a difficult technique to stir-fry them and then place the dish carefully onto plate. It is mildly seasoned, but still has a delicious aftertaste. The meat has the perfect flavor to it, but it can be easily overcooked as they are all thin slices."></li>
+				<li Name="Beef Tongue Delicacy" Desc="Beef tongue is an extremely tender meat that has a naturally sweet flavor, and this dish even brings out its best quality by using few spices to protect the original taste and flavor of the ingredient."></li>
+			</Item_Beef>
+			<Item_RabbitMeat>
+				<li Name="Crystal Rabbit" Desc="Cook rabbit meat with a special method, making it translucent as crystal. It tastes tender and has a special fragrance, a dish that is not only good-looking but also delicious."></li>
+				<li Name="Rabbit Meat with Five Spices" Desc="Stir-fry diced rabbit meat with five different spices, and the five flavors complements each other, making the flavor more layered. What's important is controlling the temperature and time. The spices will blend into each other and lose the layers of flavor if unbalanced."></li>
+			</Item_RabbitMeat>
+			<Item_WolfMeat>
+				<li Name="Sun Devouring Wolf" Desc="Wolf meat stew cooked with bean sauce and dozens of ingredients. The rich content will be slowly revealed as you drink the soup bit by bit, and the ingredients all have their own special flavor."></li>
+				<li Name="Burning Flame" Desc="Repeatedly stir-fry the best meat on the wolf's back with hot pepper. Even in the dead of winter, it will still bring the utmost heat for the whole body after eating this spicy and irresistible dish."></li>
+			</Item_WolfMeat>
+			<Item_FishMeat>
+				<li Name="Dragon Soup" Desc="Taking the imagery of carp leaping over the dragon's gate, this soup is mostly depended on the intricate order of cooking and use of spice, making it taste far better than normal fish dishes."></li>
+				<li Name="Fish Hidden in Lamb" Desc="Stuff fish inside a large, sliced-open lamb, and cook it with condiments, creating a delicate taste. The flavor of fish combined with that of lamb makes it even more delicious. The lamb is soft and juicy, with tender and delicate fish stuffed inside."></li>
+			</Item_FishMeat>
+			<Item_SnakeMeat>
+				<li Name="Prosperity of Dragon &amp; Phoenix" Desc="Marinate snake meat mixed with chicken, slowly cook them inside a stock pot until the soup thickens. The flavors of two kinds of meat complements each other, creating the perfect taste."></li>
+				<li Name="Turtle &amp; Snake" Desc="Place turtle and snake meat together to simmer in a stock pot. Both kinds of meat are chewy and tasty, making it a fine dish for supplementing nutrients."></li>
+			</Item_SnakeMeat>
+			<Item_Flour>
+				<li Name="Hair of Worries" Desc="Noodles thin as hair, coupled with four special kinds of gravy, tasty and so tender that it melts in your mouth; it is the ultimate noodle."></li>
+				<li Name="Soup Dumplings of Morality" Desc="A dish passed down from the royal families. Divide the inside of the dumpling into five chambers, and then stuff five special fillings representing five kinds of moralities—benevolence, righteousness, manners, wisdom, and trustworthiness. Steam it over low heat, five flavors will be separate; steam it over high heat, the wrapper inside the dumpling will break under the heat, and soup fillings will mix up, creating unpredictable and interesting flavors."></li>
+				<li Name="Tear and Share Bun" Desc="A special kind of bun originated from a southern, coastal city, soft, fluffy and sweet; It melts tastily in your mouth and has a wonderful flavor. The bun holds all the memories of that city."></li>
+			</Item_Flour>
+			<Item_Wheat>
+				<li Name="Hair of Worries" Desc="Noodles thin as hair, coupled with four special kinds of gravy, tasty and so tender that it melts in your mouth; it is the ultimate noodle."></li>
+				<li Name="Soup Dumplings of Morality" Desc="A dish passed down from the royal families. Divide the inside of the dumpling into five chambers, and then stuff five special fillings representing five kinds of moralities—benevolence, righteousness, manners, wisdom, and trustworthiness. Steam it over low heat, five flavors will be separate; steam it over high heat, the wrapper inside the dumpling will break under the heat, and soup fillings will mix up, creating unpredictable and interesting flavors."></li>
+			</Item_Wheat>
+			<Item_Mushroom>
+				<li Name="Smooth-cream Drizzles" Desc="Place well-shaped mushrooms erect on a piece of white tofu, and keep dripping a special soup onto it while steaming. There are still drops of soup on the mushroom cap, thus the name of the dish."></li>
+			</Item_Mushroom>
+			<Item_Lotusroot>
+				<li Name="Steamed Lotus Root with Seven Stuffings" Desc="It used to be used in sacrificial ceremonies; then, it was introduced to common households and became a famous dish. Take a lotus root with seven holes as the main ingredient, separately stuff special ground meat of seven different livestock inside, steam it and then cut it into slices. The steps are not complicated, but it requires ingredients of the best quality and a skilled cook."></li>
+				<li Name="Over the Dragon's Gate" Desc="Cut both ends of a whole lotus root and hollow out the inside. Place it in a specially-made, two-flavor hot pot; add broth and ice in one side, clear soup and little grunions from the Cloud Lake in the other side over high heat, and then serve it."></li>
+			</Item_Lotusroot>
+			<Item_Pear>
+				<li Name="Crystal Pear" Desc="Freeze fine-quality pears in extremely low temperature, peel them to reveal the pear pulp that has become translucent during the process. Carve them into different shapes quickly and then serve the dish; sculpted, translucent pears are partly hidden, partly visible in the mist, bringing a cold but sweet sensation to your palate. It is a dish that is not only good-looking but also delicious."></li>
+				<li Name="Cicada's Wings" Desc="Peel fine-quality pears, cut them into slices thin as cicada's wings, and then stick them slice by slice onto the wall of an ice bowl made of ginger syrup. The pear slices thin as cicada's wings tastes sweet, crisp and delicious; after eating all the slices, the melted ginger syrup will be ready to drink. Although cold, it is still a tasty beverage regardless of the season."></li>
+			</Item_Pear>
+			<Item_Fruit>
+				<li Name="Fruit Jungle" Desc="Use the most common wild berries as the main ingredient, create various fruit flavors with the most complicated cooking technique and different condiments, and then place it in a large dish. It cannot be copied without a highly-skilled cook who can turn dust into gold."></li>
+			</Item_Fruit>
+			<Item_FrogMeat>
+				<li Name="Dry-braised Frog Meat" Desc=""></li>
+				<li Name="Crispy &amp; Spicy Frog Legs" Desc=""></li>
+			</Item_FrogMeat>
+			<Item_TurtleMeat>
+				<li Name="Turtle &amp; Snake" Desc="Place turtle and snake meat together to simmer in a stock pot. Both kinds of meat are chewy and tasty, making it a fine dish for supplementing nutrients."></li>
+			</Item_TurtleMeat>
+			<Item_BearMeat>
+				<li Name="Crystal Bear Paw" Desc=""></li>
+			</Item_BearMeat>
+			<Item_ChickenMeat>
+				<li Name="Golden Rooster Crowing" Desc=""></li>
+			</Item_ChickenMeat>
+		</SpecialItem>
+	</List>
+</SpecialNames>

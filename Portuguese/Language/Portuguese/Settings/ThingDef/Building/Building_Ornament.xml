@@ -1,0 +1,119 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="OrnamentBase" sParam="Building">
+			<Desc>A decorative structure. It can affect the Five Elements of its surroundings based on its materials.</Desc>
+		</Text>
+		<Text Name="Building_StoneMan" sParam="Building">
+			<ThingName>Stone Giant</ThingName>
+		</Text>
+		<Text Name="Building_Flag1" sParam="Building">
+			<ThingName>Dragon Flag</ThingName>
+		</Text>
+		<Text Name="Building_Flag2" sParam="Building">
+			<ThingName>Trigrams Flag</ThingName>
+		</Text>
+		<Text Name="Building_Flag3" sParam="Building">
+			<ThingName>Tai Chi Flag</ThingName>
+		</Text>
+		<Text Name="Building_StoneLion" sParam="Building">
+			<ThingName>Stone Lion</ThingName>
+		</Text>
+		<Text Name="Building_StoneLion2" sParam="Building">
+			<ThingName>Stone Lion</ThingName>
+		</Text>
+		<Text Name="Building_StoneLion3" sParam="Building">
+			<ThingName>Stone Lion</ThingName>
+		</Text>
+		<Text Name="Building_BigTripod" sParam="Building">
+			<ThingName>Cauldron</ThingName>
+		</Text>
+		<Text Name="Building_SmallTripod" sParam="Building">
+			<ThingName>Cauldron</ThingName>
+		</Text>
+		<Text Name="Building_BigCenser" sParam="Building">
+			<ThingName>Censer</ThingName>
+		</Text>
+		<Text Name="Building_SmallCenser" sParam="Building">
+			<ThingName>Censer</ThingName>
+		</Text>
+		<Text Name="Building_BigSwordPillar" sParam="Building">
+			<ThingName>Sword Shield</ThingName>
+			<Desc>Spare artifacts can be used to form a Sword Shield, which can be activated to defend enemies' attack. The Shield can only protect inner disciples. Artifacts cannot be retrieved.</Desc>
+		</Text>
+		<Text Name="Building_BigVase" sParam="Building">
+			<ThingName>Vase</ThingName>
+		</Text>
+		<Text Name="Building_SmallVase" sParam="Building">
+			<ThingName>Vase</ThingName>
+		</Text>
+		<Text Name="Building_Screen1" sParam="Building">
+			<ThingName>Folding Screen</ThingName>
+		</Text>
+		<Text Name="Building_BookShelf" sParam="Building">
+			<ThingName>Decoration Shelf</ThingName>
+		</Text>
+		<Text Name="Building_ItemShelf" sParam="Building">
+			<ThingName>Display</ThingName>
+			<Desc>Items can be selected and placed on the Display.</Desc>
+		</Text>
+		<Text Name="Building_ShuZhuangTai" sParam="Building">
+			<ThingName>Dressing Table</ThingName>
+		</Text>
+		<Text Name="Building_Tower" sParam="Building">
+			<ThingName>Subduer Pagoda</ThingName>
+		</Text>
+		<Text Name="Building_Tower2" sParam="Building">
+			<ThingName>Pagoda</ThingName>
+		</Text>
+		<Text Name="Building_ShiBei" sParam="Building">
+			<ThingName>Stele</ThingName>
+		</Text>
+		<Text Name="Building_Zhong" sParam="Building">
+			<ThingName>Bell</ThingName>
+			<Desc>A large bell that can be rung to alert and summon all the outer disciples so that they will avoid danger, but needs stopping manually. It can also be used as a decoration, which affects the Five Elements of its surroundings based on its materials.</Desc>
+		</Text>
+		<Text Name="Building_Gu" sParam="Building">
+			<ThingName>Drum</ThingName>
+		</Text>
+		<Text Name="Building_JiaShan1" sParam="Building">
+			<ThingName>Rock Garden (Peak)</ThingName>
+		</Text>
+		<Text Name="Building_JiaShan2" sParam="Building">
+			<ThingName>Rock Garden (Hill)</ThingName>
+		</Text>
+		<Text Name="Building_PenZai1" sParam="Building">
+			<ThingName>Bonsai (Lush)</ThingName>
+		</Text>
+		<Text Name="Building_PenZai2" sParam="Building">
+			<ThingName>Bonsai (Pine)</ThingName>
+		</Text>
+		<Text Name="Building_PenZai3" sParam="Building">
+			<ThingName>Bonsai (Upright)</ThingName>
+		</Text>
+		<Text Name="Building_Tower1" sParam="Building">
+			<ThingName>Golden Pagoda</ThingName>
+		</Text>
+		<Text Name="Building_ShiBei1" sParam="Building">
+			<ThingName>Force Stele</ThingName>
+		</Text>
+		<Text Name="Building_Zhong1" sParam="Building">
+			<ThingName>Dragon Bell</ThingName>
+		</Text>
+		<Text Name="Building_Gu1" sParam="Building">
+			<ThingName>Dragon Drum</ThingName>
+		</Text>
+		<Text Name="Building_BookShelf_CangJing" sParam="Building">
+			<ThingName>Manual Pavilion</ThingName>
+			<Desc>Bookshelf used to store secret manuals, each has a storage capacity of 100. The harder the manual, the more storage room it takes.</Desc>
+		</Text>
+		<Text Name="Building_StoneYiJi1" sParam="Building">
+			<ThingName>Bixi Stele</ThingName>
+		</Text>
+		<Text Name="Building_StoneYiJi2" sParam="Building">
+			<ThingName>Decrepit Statue</ThingName>
+		</Text>
+		<Text Name="Building_JuNengDeng" sParam="Building">
+			<ThingName>Primordial Light</ThingName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,37 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Talk_DanXia">
+			<Hate.1>You are not welcomed here.</Hate.1>
+			<Hate.2>Speak.</Hate.2>
+			<Hate.3>How dare you! Did I permit you to look at me?</Hate.3>
+			<Normal.0>Can I help you?</Normal.0>
+			<Normal.1>What do you want?</Normal.1>
+			<Like.0>Doing well lately? I think we should talk.</Like.0>
+			<Submiss.0>Which treasure do you prefer? Whatever you like.</Submiss.0>
+			<ValueableTrade.0>Your price for the resources is too high, but I will not change my opinion toward you.</ValueableTrade.0>
+			<ValueableTrade.1>You are actually at a loss in this deal, but since we've made a deal, that's it.</ValueableTrade.1>
+			<TryOkTrade.0>Yes, we can make this deal.</TryOkTrade.0>
+			<TryOkTrade.1>Good, I accept this suggestion.</TryOkTrade.1>
+			<NoTrade.0>No.</NoTrade.0>
+			<NoTrade.1>No way.</NoTrade.1>
+			<NoTrade.2>Sorry, but I don't think so.</NoTrade.2>
+			<OkTrade.0>Hope to trade with you again.</OkTrade.0>
+			<OkTrade.1>This is a good deal.</OkTrade.1>
+			<OkTrade.2>Deal.</OkTrade.2>
+			<GiftLike.0>Is this really a gift for me? I've wanted this for so many years.</GiftLike.0>
+			<Task.0>This is right on time. Thanks a lot.</Task.0>
+			<Task.1>Great, this solved our pressing need.</Task.1>
+			<Task.2>What a relief. This is exactly what we need.</Task.2>
+			<LowValueGift.0>This is completely useless. We do not need it at all.</LowValueGift.0>
+			<LowValueGift.1>Don't you think it is offensive to give this to us?</LowValueGift.1>
+			<MidValueGift.0>This item is useful for first-time cultivators. But I have no need for it.</MidValueGift.0>
+			<MidValueGift.1>Thanks, but our sect doesn't need this.</MidValueGift.1>
+			<HighValueGift.0>I can't say no to such a precious treasure. But your over-enthusiasm won't do anything for me.</HighValueGift.0>
+			<NoEnoughFriendPoint.0>I don't owe you anything. You can't have this.</NoEnoughFriendPoint.0>
+			<NoEnoughFriendPoint.1>Our sect treasures can't be purchased by only spirit stones.</NoEnoughFriendPoint.1>
+			<NoEnoughFriendPoint.2>You can't easily purchase this kind of treasure.</NoEnoughFriendPoint.2>
+			<Invalid.0>I don't think we are on friendly terms.</Invalid.0>
+			<Invalid.1>No, we won't sell it to you.</Invalid.1>
+		</Text>
+	</List>
+</Texts>

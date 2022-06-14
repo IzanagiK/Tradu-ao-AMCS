@@ -1,0 +1,149 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Weather_Sunny">
+			<DisplayName>Clear</DisplayName>
+			<Desc>The weather is nice out.</Desc>
+			<StoryDesc>Feeling that Such nice weather really puts a smile on one's face!</StoryDesc>
+		</Text>
+		<Text Name="Weather_Overcast">
+			<DisplayName>Cloudy</DisplayName>
+			<Desc>It's quite cloudy out.</Desc>
+			<StoryDesc>Feeling that Such a bleak day is rather dreary</StoryDesc>
+		</Text>
+		<Text Name="Weather_LightRain">
+			<DisplayName>Light Rain</DisplayName>
+			<Desc>It's drizzling out.</Desc>
+			<StoryDesc>Feeling that Light rain really imbues one with a sense of serenity</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeavyRain">
+			<DisplayName>Heavy Rain</DisplayName>
+			<Desc>It's pouring out!</Desc>
+			<StoryDesc>Feeling that Such a downpour can get on one's nerves</StoryDesc>
+		</Text>
+		<Text Name="Weather_LightSnow">
+			<DisplayName>Light Snow</DisplayName>
+			<Desc>I can see flurries outside!</Desc>
+			<StoryDesc>Feeling that The flurries flying all about brightens one's spirits</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeavySnow">
+			<DisplayName>Heavy Snow</DisplayName>
+			<Desc>It's looks like a blizzard outside!</Desc>
+			<StoryDesc>Feeling that Such a heavy snowfall really is a delight</StoryDesc>
+		</Text>
+		<Text Name="Weather_DenseFog">
+			<DisplayName>Thick Fog</DisplayName>
+			<Desc>The fog is so thick out, it's like pea soup!</Desc>
+			<StoryDesc>Feeling that The fog is so thick that it's rather annoying</StoryDesc>
+		</Text>
+		<Text Name="Weather_SpringAir">
+			<DisplayName>Spring's Coming</DisplayName>
+			<Desc>Spring is finally here!</Desc>
+			<StoryDesc>Feeling that The arrival of spring really invigorates the spirit</StoryDesc>
+		</Text>
+		<Text Name="Weather_Melancholy">
+			<DisplayName>Gloomy Mood</DisplayName>
+			<Desc>I don't know why but everyone has been down in the dumps lately...</Desc>
+			<StoryDesc>Feeling that The gloomy mood has left a palpable sense of melancholy in the air</StoryDesc>
+		</Text>
+		<Text Name="Weather_HarvestAir">
+			<DisplayName>Spirit of Harvest</DisplayName>
+			<Desc>What an abundant harvest, I'm so happy!</Desc>
+			<StoryDesc>Feeling that Such an abundant harvest leaves everyone content</StoryDesc>
+		</Text>
+		<Text Name="Weather_Impetuous">
+			<DisplayName>Irritation</DisplayName>
+			<Desc>It's difficult to stay calm recently.</Desc>
+			<StoryDesc>Feeling that There's a palpable sense of irritability in the air, everyone seems testy</StoryDesc>
+		</Text>
+		<Text Name="Weather_Hail">
+			<DisplayName>Hail</DisplayName>
+			<Desc>It's hailing out.</Desc>
+			<StoryDesc>Feeling that Hail tends to make one a bit worrisome</StoryDesc>
+		</Text>
+		<Text Name="Weather_MouldRains">
+			<DisplayName>Rainy Season</DisplayName>
+			<Desc>The rainy season is here.</Desc>
+			<StoryDesc>Feeling that All this rain really makes one agitated</StoryDesc>
+		</Text>
+		<Text Name="Weather_Drought">
+			<DisplayName>Drought</DisplayName>
+			<Desc>The arid season is here.</Desc>
+			<StoryDesc>Feeling that Droughts always make one worry</StoryDesc>
+		</Text>
+		<Text Name="Weather_Rainstorm">
+			<DisplayName>Rainstorm</DisplayName>
+			<Desc>It's stormy out.</Desc>
+			<StoryDesc>Feeling that Rainstorms like this always make one anxious</StoryDesc>
+		</Text>
+		<Text Name="Weather_Fohn">
+			<DisplayName>Foehn Wind</DisplayName>
+			<Desc>There's a Foehn Wind about.</Desc>
+			<StoryDesc>Feeling that Foehn Winds always make one feel like one's whole body needs moisturizing</StoryDesc>
+		</Text>
+		<Text Name="Weather_DustStorm">
+			<DisplayName>Dust Storm</DisplayName>
+			<Desc>A Dust Storm has sprung up.</Desc>
+			<StoryDesc>Feeling that Dust Storm spread dirt everywhere. EVERYWHERE</StoryDesc>
+		</Text>
+		<Text Name="Weather_LingRarefiedWave">
+			<DisplayName>Qi Drought</DisplayName>
+			<Desc>There's a Qi drought.</Desc>
+			<StoryDesc>Feeling that A Qi drought really leaves one feeling ill at ease</StoryDesc>
+		</Text>
+		<Text Name="Weather_LingUpWave">
+			<DisplayName>Burst of Qi</DisplayName>
+			<Desc>There's been a burst of Qi.</Desc>
+			<StoryDesc>Feeling that A Burst of Qi really leaves one feeling pleased</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeatWave">
+			<DisplayName>Heat</DisplayName>
+			<Desc>This sudden onset of heat is unbearable...</Desc>
+			<StoryDesc>Feeling that The sudden onset of heat leaves one feeling anxious</StoryDesc>
+		</Text>
+		<Text Name="Weather_ColdWave">
+			<DisplayName>Cold Winter</DisplayName>
+			<Desc>A cold winter has set in.</Desc>
+			<StoryDesc>Feeling that Cold winters leave one ill at ease</StoryDesc>
+		</Text>
+		<Text Name="Weather_HeatWaveInWinter">
+			<DisplayName>Warm Wind</DisplayName>
+			<Desc>A warm wind in the depths of winter is a welcome reprieve.</Desc>
+			<StoryDesc>Feeling that A warm wind in winter makes one want to stretch</StoryDesc>
+		</Text>
+		<Text Name="Weather_ColdWaveInSummer">
+			<DisplayName>Chilly Wind</DisplayName>
+			<Desc>A cool breeze in midsummer is a welcome reprieve.</Desc>
+			<StoryDesc>Feeling that A cool breeze in summer is always comforting</StoryDesc>
+		</Text>
+		<Text Name="Weather_PermanentNight">
+			<DisplayName>Polar Night</DisplayName>
+			<Desc>A polar night is here.</Desc>
+			<StoryDesc>Feeling that A polar night can be scary</StoryDesc>
+		</Text>
+		<Text Name="Weather_Miasma">
+			<DisplayName>Noxious Air</DisplayName>
+			<Desc>A miasma is spreading about.</Desc>
+			<StoryDesc>Feeling that feeling better to cover one's nose and mouth when a miasma is about</StoryDesc>
+		</Text>
+		<Text Name="Weather_LightningStorm">
+			<DisplayName>Thunderstorm</DisplayName>
+			<Desc>A thunderstorm is wreaking havoc.</Desc>
+			<StoryDesc>Feeling that Thunderstorms like this wreak havoc on one's nerves</StoryDesc>
+		</Text>
+		<Text Name="Weather_LuShu_SunnyDay">
+			<DisplayName>Wonderful Singing</DisplayName>
+			<Desc>The sound of beasts sounds like beautiful singing.</Desc>
+			<StoryDesc>Feeling that The calls of the wild can really imbue one with a sense of satisfaction</StoryDesc>
+		</Text>
+		<Text Name="Weather_SpringFestival">
+			<DisplayName>Spring Festival in Full Swing</DisplayName>
+			<Desc>The holiday atmosphere can prove truly intoxicating.</Desc>
+			<StoryDesc>Feeling that feeling easy to be immersed in the joy of a festival</StoryDesc>
+		</Text>
+		<Text Name="Weather_ZuShiBiHu">
+			<DisplayName>Grandmaster's Aegis</DisplayName>
+			<Desc>The founding father's protection suffuses the Sect with an air of Immortality.</Desc>
+			<StoryDesc>Feeling that The world of the Immortal seems to abound all around</StoryDesc>
+		</Text>
+	</List>
+</Texts>

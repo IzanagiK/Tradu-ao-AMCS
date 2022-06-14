@@ -1,0 +1,20 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="IronOre" sParam="Plant">
+			<ThingName>Iron Ore Vein</ThingName>
+			<Desc>Mountain rich in iron, from which iron ore can be mined.</Desc>
+		</Text>
+		<Text Name="CopperOre" sParam="Plant">
+			<ThingName>Igneocopper Ore Vein</ThingName>
+			<Desc>Mountain rich in Igneocopper, from which Igneocopper ore can be mined.</Desc>
+		</Text>
+		<Text Name="SilverOre" sParam="Plant">
+			<ThingName>Ice Crystal Ore Vein</ThingName>
+			<Desc>Mountain rich in Ice Crystal, from which Ice Crystal ore can be mined.</Desc>
+		</Text>
+		<Text Name="RockLing" sParam="Plant">
+			<ThingName>Spirit Stone Vein</ThingName>
+			<Desc>Mountain rock rich in Qi, from which Spirit Stones can be mined.</Desc>
+		</Text>
+	</List>
+</Texts>

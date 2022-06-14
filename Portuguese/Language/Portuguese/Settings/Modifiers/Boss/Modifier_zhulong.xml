@@ -1,0 +1,69 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Zhulong">
+			<DisplayName>Torch Dragon</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongFight">
+			<DisplayName>Torch Dragon</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_ShadowFight">
+			<DisplayName>Phantom Battle Zoom</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YangShadow">
+			<DisplayName>Phantom of Light</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YinShadow">
+			<DisplayName>Phantom of Darkness</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_LongPuFix">
+			<DisplayName>Fix of Dragon Servant</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhuLong_Part">
+			<DisplayName>Torch Dragon's Body Part</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongShadow">
+			<DisplayName>Torch Dragon's Shadow</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_NightGod">
+			<DisplayName>God of Eternal Night</DisplayName>
+			<Desc>Gain 1 layer of [Lunarfrost Breath] every 6 seconds. Only Artifacts and Spells of Yang elements (Fire, Wood) can deal full damage. Artifacts of Earth element can deal a smaller amount of damage. Damage dealt by Artifacts of Yin elements will be absorbed.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Night">
+			<DisplayName>Lunarfrost Breath</DisplayName>
+			<Desc>When Lunarfrost Breath reaches 100 stacks, it will unleash the manifestations of inner demon.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_DayGod">
+			<DisplayName>God of Eternal Day</DisplayName>
+			<Desc>Gain 1 layer of [Solarflare Breath] every 6 seconds. Only Artifacts and Spells of Yin elements(Metal, Water) can deal full damage. Artifacts of Earth element can deal a smaller amount of damage. Damage dealt by Artifacts of Yang elements will be absorbed.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Day">
+			<DisplayName>Solarflare Breath</DisplayName>
+			<Desc>When Solarflare Breath reaches 100 stacks, it will unleash the manifestations of karma force.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Shennian">
+			<DisplayName>Cognitive Oscillation</DisplayName>
+			<Desc>Each layer decreases Mental State by 2. It will be cleared out when the Torch Dragon switches phase.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Zuinie">
+			<DisplayName>Sin Entanglement</DisplayName>
+			<Desc>Each layer decreases Condemnation by 2. It will be cleared out when the Torch Dragon switches phase.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen">
+			<DisplayName>Inferno of Karma</DisplayName>
+			<Desc>Condemnation is increased by 1000, but permanently decreased by 200 when it ends.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen_end">
+			<DisplayName>Inferno of Karma</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao">
+			<DisplayName>Mind Shielding</DisplayName>
+			<Desc>Mental State is decreased by 100, but permanently increased by 20 when it ends.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao_end">
+			<DisplayName>Mind Shielding</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongIdleEffect">
+			<DisplayName>Torch Dragon Special Effect</DisplayName>
+		</Text>
+	</List>
+</Texts>

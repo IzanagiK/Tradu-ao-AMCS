@@ -1,0 +1,30 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Building_Geothermy" sParam="Building">
+			<ThingName>Fiery Chasm</ThingName>
+			<Desc>A chasm cracking all the way down to the earth’s core. Scorching wind keeps blowing out.</Desc>
+		</Text>
+		<Text Name="Building_ColdHole" sParam="Building">
+			<ThingName>Frozen Furnace</ThingName>
+			<Desc>An ancient sage tried to concoct a fate-reversing elixir here, yet their creation is devastated by a heavenly tribulation. The furnace’s blaze was reversed into ice that doesn’t melt, even after hundreds of centuries.</Desc>
+		</Text>
+		<Text Name="Building_OuterWorld" sParam="Building">
+			<ThingName>Otherworld Rift</ThingName>
+			<Desc>Space here has been shattered due to a battle between powerful sages, and has transformed into a stable Otherworld Rift over the years, allowing items or cultivator from other planes passing it from time to time.</Desc>
+		</Text>
+		<Text Name="Building_YinYang" sParam="Building">
+			<ThingName>Yin Yang Stela</ThingName>
+			<Desc>A strange stone created during the exchange of Yin and Yang that contains the secret of heaven and earth. The higher the disciple's State is, the profounder the revelation. But meditating on the stone stele will always cause abnormal astronomical phenomena.</Desc>
+		</Text>
+		<Text Name="Building_DiMu" sParam="Building">
+			<ThingName>Earthmother Shrine</ThingName>
+			<Desc>A shrine left by an ancient cult worshipping Earthmother. One can make a wish to the remnant of Earthmother’s will by offering it with Spirit Stones, although this may bring natural disasters.</Desc>
+		</Text>
+		<Text Name="LingShu" sParam="Building">
+			<ThingName>Illumitree</ThingName>
+			<Desc>A curious plant that can turn soil nearby into spiritual soil. However, the pollen it releases may cause blocked meridians and suppressed Qi.</Desc>
+			<StoryBnts.0.Name>Feel</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Feel the Qi around Illumitree.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

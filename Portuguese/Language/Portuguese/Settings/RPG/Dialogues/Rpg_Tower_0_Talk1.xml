@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Tower_0_Talk1">
+			<Nodes.0.Text>Entrance</Nodes.0.Text>
+			<Nodes.1.Text>So, you've come from afar. How can I help you?</Nodes.1.Text>
+			<Nodes.2.Text>The village of nowhere? What is this place?</Nodes.2.Text>
+			<Nodes.3.Text>What can I do here?</Nodes.3.Text>
+			<Nodes.4.Text>I want to go down and take a look!</Nodes.4.Text>
+			<Nodes.5.Text>Goodbye!</Nodes.5.Text>
+			<Nodes.6.Text>Oh, there are only piles of remains. How do I put it? Everything in the past that couldn't be digested by time would hold on to the world and gather here. Now do you understand?</Nodes.6.Text>
+			<Nodes.7.Text>Huh? How long has it been? A stranger in the village of nowhere? How unusual!</Nodes.7.Text>
+			<Nodes.8.Text>Do what? If I were you, I would do nothing and just rest here. But if you are really bored, you can go down and take a look. Listen, it will do you no good. There is nothing but piles of undigested remains down there.</Nodes.8.Text>
+			<Nodes.9.Text>All right, I know. But be careful. Those remains are not as peace-loving as I am.</Nodes.9.Text>
+			<Nodes.10.Text>Oh? Are you leaving? Come visit me more often. It's been so long since I saw a living being.</Nodes.10.Text>
+			<Nodes.12.Text>Can you tell me how deep I am?</Nodes.12.Text>
+			<Nodes.13.Text>Well, how deep you are? Let me see.
+Current Depth: [LUA=WorldLua:GetWorldFlag(5000)]</Nodes.13.Text>
+		</Text>
+	</List>
+</Texts>

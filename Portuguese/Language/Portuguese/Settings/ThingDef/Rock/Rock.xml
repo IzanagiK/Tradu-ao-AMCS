@@ -1,0 +1,24 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="RockBrown" sParam="Plant">
+			<ThingName>Brown Rock</ThingName>
+			<Desc>Rocky mountain of brown color. Composed of crumbly substance, it is rather difficult to mine usable stone from it.</Desc>
+		</Text>
+		<Text Name="RockGray" sParam="Plant">
+			<ThingName>Gray Rock</ThingName>
+			<Desc>Rocky mountain of gray color. Composed of compact substance, it can be mined for building material.</Desc>
+		</Text>
+		<Text Name="RockMarble" sParam="Plant">
+			<ThingName>Marble Rock</ThingName>
+			<Desc>Mountain rock rich in marble, from which Marble can be mined.</Desc>
+		</Text>
+		<Text Name="RockJade" sParam="Plant">
+			<ThingName>Jade Rock</ThingName>
+			<Desc>Mountain rock rich in jade, from which Jade can be mined.</Desc>
+		</Text>
+		<Text Name="RockCinnabar" sParam="Plant">
+			<ThingName>Cinnabar Rock</ThingName>
+			<Desc>Mountain rock rich in cinnabar, from which Cinnabar can be mined.</Desc>
+		</Text>
+	</List>
+</Texts>

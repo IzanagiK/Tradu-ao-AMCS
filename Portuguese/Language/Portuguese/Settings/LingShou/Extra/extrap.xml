@@ -1,0 +1,76 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Fat">
+			<RaceExtra.0.Lv.0.SName>Skinny</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Looks extremely skinny. Movement Speed is increased significantly.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Skinny</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Looks a bit skinny. Movement Speed is increased slightly.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Well-proportioned</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Neither overweight, nor underweight.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Plump</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Looks like some pounds are getting packed on. Max Qi has increased slightly, but Movement Speed has also decreased.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Corpulent</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Looks like obesity has set in. Max Qi has increased significantly, but Movement Speed has also decreased significantly.</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Stronger">
+			<RaceExtra.0.Lv.0.SName>Bony</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Skin and bones, muscle is hard to find, but Spell Cooldown has decreased significantly.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Bony</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>There's not a lot of muscle on those bones, but Spell Cooldown has decreased slightly as a result.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Average</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Not strong, but not bony either.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Strong</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Looks to be in good shape, Internal Core has benefitted slightly.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Healthy</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Looks extremely healthy, with good physique. Internal Core has benefitted significantly.</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Justice">
+			<RaceExtra.0.Lv.0.SName>Baleful</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>This one is thick with Curse. Barrier Power decreases significantly, while Spell strength and Internal Core Attack Strength increase significantly.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Baleful</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>This one is somewhat Cursed. Barrier Power decreases slightly, while Spell strength and Internal Core Attack Strength increase slightly.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Neutral</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Doesn't appear to be noticeably blessed or cursed.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Sanctified</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Slightly blessed. Barrier Power increases slightly, while Spell strength and Internal Core Attack strength decrease.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Sanctified</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>As blessed as can be. Barrier Power increases significantly, while Spell strength and Internal Core Attack strength decrease significantly.</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="NeiDan">
+			<RaceExtra.0.Lv.2.SpecialAbility.0.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing additional damage equal to 30% of the current target's Qi.</RaceExtra.0.Lv.2.SpecialAbility.0.Desc>
+			<RaceExtra.1.Lv.2.SpecialAbility.0.Desc>Every 9th attack will cast a spell at the target enemy.</RaceExtra.1.Lv.2.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="GrowPercent">
+			<RaceExtra.0.Lv.0.SName>Flood Dragon</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Possesses a small portion of the full power of a dragon.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Flood Dragon</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Possesses a portion of the full power of a dragon.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Flood Dragon</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Possesses the fully awakened power of a dragon.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.1.Lv.0.SName>Fenghuang Phoenix</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Possesses a small portion of the full power of a phoenix.</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>Fenghuang Phoenix</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>Possesses a portion of the full power of a phoenix.</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>Fenghuang Phoenix</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>Possesses the fully awakened power of a phoenix.</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.2.Lv.0.SName>Nine-tailed Fox</RaceExtra.2.Lv.0.SName>
+			<RaceExtra.2.Lv.0.Desc>Possesses a small portion of the full power of a fox.</RaceExtra.2.Lv.0.Desc>
+			<RaceExtra.2.Lv.1.SName>Nine-tailed Fox</RaceExtra.2.Lv.1.SName>
+			<RaceExtra.2.Lv.1.Desc>Possesses a portion of the full power of a fox.</RaceExtra.2.Lv.1.Desc>
+			<RaceExtra.2.Lv.2.SName>Nine-tailed Fox</RaceExtra.2.Lv.2.SName>
+			<RaceExtra.2.Lv.2.Desc>Possesses the fully awakened power of a fox.</RaceExtra.2.Lv.2.Desc>
+			<RaceExtra.3.Lv.0.SName>Tiangou Dog</RaceExtra.3.Lv.0.SName>
+			<RaceExtra.3.Lv.0.Desc>Possesses a small portion of the full power of a canine.</RaceExtra.3.Lv.0.Desc>
+			<RaceExtra.3.Lv.1.SName>Tiangou Dog</RaceExtra.3.Lv.1.SName>
+			<RaceExtra.3.Lv.1.Desc>Possesses a portion of the full power of a canine.</RaceExtra.3.Lv.1.Desc>
+			<RaceExtra.3.Lv.2.SName>Tiangou Dog</RaceExtra.3.Lv.2.SName>
+			<RaceExtra.3.Lv.2.Desc>Possesses the fully awakened power of a canine.</RaceExtra.3.Lv.2.Desc>
+			<RaceExtra.5.Lv.0.SName>Panda</RaceExtra.5.Lv.0.SName>
+			<RaceExtra.5.Lv.0.Desc>Flawed Yin Yang Power</RaceExtra.5.Lv.0.Desc>
+			<RaceExtra.5.Lv.1.SName>Panda</RaceExtra.5.Lv.1.SName>
+			<RaceExtra.5.Lv.1.Desc>Incomplete Yin Yang Power</RaceExtra.5.Lv.1.Desc>
+			<RaceExtra.5.Lv.2.SName>Panda</RaceExtra.5.Lv.2.SName>
+			<RaceExtra.5.Lv.2.Desc>Fully Awakened Yin Yang Power</RaceExtra.5.Lv.2.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,147 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FacialScar">
+			<DisplayName>Scarface</DisplayName>
+			<Desc>There is a horrific scar on this person's face.</Desc>
+		</Text>
+		<Text Name="UglyFace1">
+			<DisplayName>Unattractive</DisplayName>
+			<Desc>This person looks too ugly to be likable.</Desc>
+		</Text>
+		<Text Name="UglyFace2">
+			<DisplayName>Ugly</DisplayName>
+			<Desc>This person looks too terrifying to be a human.</Desc>
+		</Text>
+		<Text Name="BeautifulFace1">
+			<DisplayName>Handsome</DisplayName>
+			<Desc>This person is incredibly good-looking.</Desc>
+		</Text>
+		<Text Name="BeautifulFace2">
+			<DisplayName>Gorgeous</DisplayName>
+			<Desc>This person is incredibly good-looking.</Desc>
+		</Text>
+		<Text Name="OldViscusInjury">
+			<DisplayName>Damaged Organs</DisplayName>
+			<Desc>This person's internal organs have been severely damaged, and they are not healing.</Desc>
+		</Text>
+		<Text Name="CrippleLeft">
+			<DisplayName>Limp (Left)</DisplayName>
+			<Desc>This person has a limp in their left leg due to a long-term disease.</Desc>
+		</Text>
+		<Text Name="CrippleRight">
+			<DisplayName>Limp (Right)</DisplayName>
+			<Desc>This person has a limp in their right leg due to a long-term disease.</Desc>
+		</Text>
+		<Text Name="BanLeftTibia">
+			<DisplayName>Severed Leg (Left)</DisplayName>
+			<Desc>This person's left leg has been severed.</Desc>
+		</Text>
+		<Text Name="BanRightTibia">
+			<DisplayName>Severed Leg (Right)</DisplayName>
+			<Desc>This person's left leg has been severed.</Desc>
+		</Text>
+		<Text Name="BanLeftScapula">
+			<DisplayName>Severed Arm (Left)</DisplayName>
+			<Desc>This person's whole left arm has been severed.</Desc>
+		</Text>
+		<Text Name="BanRightScapula">
+			<DisplayName>Severed Arm (Right)</DisplayName>
+			<Desc>This person's whole right arm has been severed.</Desc>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>Deaf</DisplayName>
+			<Desc>This person was born deaf.</Desc>
+		</Text>
+		<Text Name="BanLeftEye">
+			<DisplayName>Blind (Left)</DisplayName>
+			<Desc>Blind in the left eye.</Desc>
+		</Text>
+		<Text Name="BanRightEye">
+			<DisplayName>Blind (Right)</DisplayName>
+			<Desc>Blind in the right eye.</Desc>
+		</Text>
+		<Text Name="BanLeftEar">
+			<DisplayName>Deaf (Left)</DisplayName>
+			<Desc>Deaf in the left ear.</Desc>
+		</Text>
+		<Text Name="BanRightEar">
+			<DisplayName>Deaf (Right)</DisplayName>
+			<Desc>Deaf in the right ear.</Desc>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>Broken Meridians</DisplayName>
+			<Desc>This person was born with broken meridians.</Desc>
+		</Text>
+		<Text Name="HealthOverdraft1">
+			<DisplayName>Overstrain</DisplayName>
+			<Desc>This person has not paid much attention to their health, and has a shorter lifespan than others.</Desc>
+		</Text>
+		<Text Name="HealthOverdraft2">
+			<DisplayName>Exhausted</DisplayName>
+			<Desc>This person has not paid any attention to their health and has a much shorter lifespan than others.</Desc>
+		</Text>
+		<Text Name="HealthMaintain1">
+			<DisplayName>Healthy</DisplayName>
+			<Desc>This person knows how to maintain good health and has a longer lifespan than others.</Desc>
+		</Text>
+		<Text Name="HealthMaintain2">
+			<DisplayName>Vigorous</DisplayName>
+			<Desc>This person knows how to maintain good health and has a much longer lifespan than others.</Desc>
+		</Text>
+		<Text Name="ColdPatience">
+			<DisplayName>Cold-resistant</DisplayName>
+			<Desc>This person lives in a cold region and can handle cold weather well.</Desc>
+		</Text>
+		<Text Name="HotPatience">
+			<DisplayName>Heat-resistant</DisplayName>
+			<Desc>This person lives in a hot region and can handle hot weather well.</Desc>
+		</Text>
+		<Text Name="DarkPatience">
+			<DisplayName>Dark Dweller</DisplayName>
+			<Desc>This person likes dark places.</Desc>
+		</Text>
+		<Text Name="HighMan">
+			<DisplayName>Tall</DisplayName>
+			<Desc>This person is taller and stronger than most people, so is more likely to solve problems with violence.</Desc>
+		</Text>
+		<Text Name="LowMan">
+			<DisplayName>Small</DisplayName>
+			<Desc>This person is short and small like a child, so is more likely to solve problems with intelligence.</Desc>
+		</Text>
+		<Text Name="NoHair">
+			<DisplayName>Bald</DisplayName>
+			<Desc>This person has no hair.</Desc>
+		</Text>
+		<Text Name="LeftHanded">
+			<DisplayName>Left-handed</DisplayName>
+			<Desc>This person is left-handed.</Desc>
+		</Text>
+		<Text Name="Mute">
+			<DisplayName>Mute</DisplayName>
+			<Desc>This person cannot talk with other people.</Desc>
+		</Text>
+		<Text Name="BanRightMiddleFinger">
+			<DisplayName>Broken Finger</DisplayName>
+		</Text>
+		<Text Name="RunFast">
+			<DisplayName>Agile</DisplayName>
+			<Desc>This person is very agile and can walk very fast.</Desc>
+		</Text>
+		<Text Name="Indigestion">
+			<DisplayName>Indigestion</DisplayName>
+			<Desc>This person has bad indigestion that hinders the absorption of nutrients.</Desc>
+		</Text>
+		<Text Name="IronStomach">
+			<DisplayName>Iron Stomach</DisplayName>
+			<Desc>This person has extremely healthy digestion that helps with the absorption of nutrients.</Desc>
+		</Text>
+		<Text Name="GoodEyesight">
+			<DisplayName>Sharp-sighted</DisplayName>
+			<Desc>This person has good eyesight and can see very far.</Desc>
+		</Text>
+		<Text Name="ShallowSleep">
+			<DisplayName>Light Sleeper</DisplayName>
+			<Desc>This person is likely to wake up in the middle of the night.</Desc>
+		</Text>
+	</List>
+</Texts>

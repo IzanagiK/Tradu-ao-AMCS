@@ -1,0 +1,336 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_MiBao_WuDuZhuXianSword" sParam="Item">
+			<ThingName>Venombane</ThingName>
+			<Desc>Wicked artifact as recorded in the Book of a Hundred Poisons. First, a Sword Incubation is formed by mixing nine Phoenixwood with a certain number of Beast Blood that matches the thirty-six heavenly stars. Then five highly poisonous Primordial Spirits from Snake Demons are needed to made it into the final product. When attacking someone with this sword, its venomous breeze can even penetrate one's Qi Barrier and cause damage on the enemy directly.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 5 Snake Demons while carrying this item.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 15th strike, it will attack the cultivator's body itself, penetrating shield and deal additional damage.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_BaiLingZhanXianSword" sParam="Item">
+			<ThingName>Immortal Slayer</ThingName>
+			<Desc>Ancient sword technique passed down from the Wutai Sect of old. It is made by first melting ten Spirit Crystals along with a Soul Pearl  to form a Sword Incubation, and then sacrificing the Blessings of a hundred living beings to it. Each time the sword is used, its Blessing and power will gradually increase, until infused with Qi again.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 100 living beings while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>The base power of artifact is increased by 1% for every 1 second the sword maintained flying. The effect is cleared when it returns.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShiErShaShenMoLingSha" sParam="Item">
+			<ThingName>Sand of Destruction</ThingName>
+			<Desc>Vicious artifact recorded in the Book of a Hundred Poisons. It is crafted by first mixing thousands of pounds of Igneocopper Powder with the five Spirit Liquids and concoct them into a small bag of Spirit Powder, then sacrificing twelve living beings with Primordial Spirit level of cultivation to it to incite ferociousness. By using this artifact, one can pollute the artifact of his opponent, making it unavailable for a period of time.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 12 living beings with Primordial Spirit while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 12 attacks on a same artifact, it can disable the target for a certain length of time corresponding to its tier.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianMoHuaXueShenDao" sParam="Item">
+			<ThingName>Bloodsucker</ThingName>
+			<Desc>Wicked artifact from the realm of Demons. First, thousands of pounds of Igneocopper essence are refined into an incubation. Then the primordial yang essence from 27 male living beings are needed to form its spirit. When using this artifact, the lower one's Health is, the higher the artifact's power becomes.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 27 male living beings while carrying this rare incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 1% Health lower, Artifact Power is increased by 5%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YinHunZhu" sParam="Item">
+			<ThingName>Vortex Orb</ThingName>
+			<Desc>Secret Legacy Artifact passed down from the ancient demonic school of Blood Master Searcher. It is created by combining 9 Soul Pearl s while utilizing grudges as the catalyst to form one small orb, and then harness the lives of 36 living beings with Primordial Spirit level of cultivation. By killing with this orb, one can gradually incite ferociousness within it. Each person killed will increase its power by 10%, up to a maximum stacks of 36. However, a single day without blood and it will return to slumber.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 36 living beings with Primordial Spirit while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Each living being killed will increase its power by 10%, up to a maximum stacks of 36. The effect is cleared if it doesn't drink blood for 1 day.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JiuTianYuanYangChi" sParam="Item">
+			<ThingName>Heavenly Measure</ThingName>
+			<Desc>Guardian artifact passed by Guangcheng Zi, the golden immortal of Chan Cult. It has nine golden flowers and a wisp of purple Qi dwelling on it. Each golden flower is congealed from the essence of one Lumina Core, while the purple Qi is refined from the Breath of Tribulation. Every nine attacks with this artifact will launch a wisp of yang Qi to attack the target's body itself with appalling power.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Spiritual refine the incubation 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Every 9th attack will cast a spell on the target enemy.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LongXinYinYangGui" sParam="Item">
+			<ThingName>Draconic Tablet</ThingName>
+			<Desc>Legacy Artifact inspired by the remains of the Torch Dragon's primordial spirit. Its core is formed by condensing a hundred pound of Jade and the essence of Torch Dragon together, aided with the power of change harnessed from nine consecutive midday and midnights to become spirit. Significantly improves one's Comprehension in Protection.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Specter refine at midday or midnight successfully for 9 continuous days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Protection skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_DaiShenZhu" sParam="Item">
+			<ThingName>Illusion Sphere</ThingName>
+			<Desc>Legacy Artifact passed on from the Book of a Hundred Poisons. Using a beast Soul Pearl  as the basis, it is fused with drugs of Five Elements to form a core. The orb is then infused with drugs of Five Elements successively with the spirit refinement technique. Although the object cannot be used to attack nor defend, it can bring you back from death once in case of fatal calamity. Very mysterious.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Attempt to spiritual refinement the artifact 25 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>At the cost of being shattered, defy death once and restore all damage dealt to you.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_QiJueShenZhen" sParam="Item">
+			<ThingName>Needles of Tribulation</ThingName>
+			<Desc>Artifact crafted by the ancient cultivators to fight the heaven itself with their lives. Seven divine needles were congealed from seven precious materials, which are then repeatedly tempered to reach a state in between tangibility and intangibility and fused into a incubation. Due to the conflict between physical properties, the divine needle at this point would have become like a mortal object again. Its power needs to be gradually reactivated through specter refinement for it to complete. When using this artifact, the closer you are to the end of your lifespan, the more powerful it becomes.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Successfully specter refine the artifact 11 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>The closer the user to maximum lifespan, the more powerful the artifact will be.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_XiXingShenSuo" sParam="Item">
+			<ThingName>Stardust Shuttle</ThingName>
+			<Desc>Secret artifact of the ancient Taiyin Cult. An incubation is forged by combining the essence of Ice Crystal with the meridian channels from a Flood Dragon's tail, and then nurtured with breath of a maiden. When attacking with this artifact, a portion of damage it caused can be converted into the artifact's own Qi.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Carried and nurtured by a maiden girl for one year.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>10% of damage dealt will be replenished to the artifact's Qi.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TaiYiFenGuangJian" sParam="Item">
+			<ThingName>Borealis</ThingName>
+			<Desc>Divine sword passed on from an ancient Taoist school. Refine a thousand pound of jade mixed with a hundred ounce of Jade Essence jade to congeal into a sword incubation, and then quench it with the power of Heavenly Tribulation to create Swordsprite. Once drawn, the sword will split out multiple swordsprites. Very miraculous.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Survive 7 Ascension Tribulations while carrying an artifact.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 7 attacks, generate a swordsprite that lasts 7 seconds.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_WuqiLeiFu" sParam="Item">
+			<ThingName>Thunder Talisman</ThingName>
+			<Desc>Ancient artifact of the Mystic Unity Sect. After drawing the talisman with Divine Mind, on shall harness the power of Heavenly Tribulation of Five Elements to make it spiritual. Significantly improves one's comprehension of Spell.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Survive a Heavenly Tribulation of Metal element while carrying an artifact.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>Survive a Heavenly Tribulation of Wood element while carrying an artifact.</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>Survive a Heavenly Tribulation of Water element while carrying an artifact.</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>Survive a Heavenly Tribulation of Fire element while carrying an artifact.</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>Survive a Heavenly Tribulation of Earth element while carrying an artifact.</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Spell skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JinFabao" sParam="Item">
+			<ThingName>White Cloud Banner</ThingName>
+			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Sagacity Fruit essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Earth element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Wood element.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Earth element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Wood element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_MuFabao" sParam="Item">
+			<ThingName>Green Lotus Banner</ThingName>
+			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Gnarled Vine essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Water element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Earth element.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Water element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Earth element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShuiFabao" sParam="Item">
+			<ThingName>Black Vulture Banner</ThingName>
+			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Prismatic Lotus essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Metal element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Fire element.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Metal element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Fire element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_HuoFabao" sParam="Item">
+			<ThingName>Soaring Flame Banner</ThingName>
+			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Crimson Fruit essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Wood element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Metal element.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Wood element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Metal element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TuFabao" sParam="Item">
+			<ThingName>Yellow Apricot Banner</ThingName>
+			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Ochre Essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Fire element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Water element.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Fire element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Water element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JinLianShenZuo" sParam="Item">
+			<ThingName>Golden Lotus Stand</ThingName>
+			<Desc>Long-lost Legacy Artifact of Buddhist tradition. Using Prismatic Lotus as the incubation, it is infused with thirty-six Dark Scales of Flood Dragon, and then nurtured with its own essence to become spiritual. This artifact has such a huge Qi Capacity that, although it cannot be used to attack, it can protect one's body from any artifact damage.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Spend 100,000 stamina while carrying this artifact.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Surrounding the whole body, it focuses on defense and will not attack.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TunLingShenJian" sParam="Item">
+			<ThingName>Spellbound Scissors</ThingName>
+			<Desc>Amazing artifact crafted by ancient Taoist school that imitated the Spellbound Beasts. This artifact was created by using 2 Flood Dragon's Horns as the basis and then smelting ten thousand pounds of Spirit Stone to quench it into being. The more Qi spent while using this artifact, the more powerful it becomes.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Spend a total of 100,000,000 Qi while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 10,000 Qi consumed, damage is increased by 10%, up to a maximum of 1000%. The effect is reset when replenishing Qi to the artifact.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShenNongDing" sParam="Item">
+			<ThingName>Cauldron of the Harvest</ThingName>
+			<Desc>It is said to be a imitation of the cauldron used by Divine Farmer of old. The cauldron's body is carved out of Divine Jade, and forged by using Phoenix Fire Jade as the Spark of fire while combined with the powerful potency from ten thousands pounds of Spirit Leaf. When using this artifact, the more types of Elixir the user has taken, the more extent to which they will be able to stimulate its power.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Concoct 36 Elixirs while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For each kind of Elixir consumed, its power is increased by 5%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_QingNingFeiYu" sParam="Item">
+			<ThingName>Feather of Agility</ThingName>
+			<Desc>Precious artifact from the Otherworld. Combine Phoenix's Oblivion Feather and Mantle Feather, and then neutralize its blaze with the essence of ten thousand pounds of Purity Leaf to create the incubation. Which then needs to undergo a process of closed-door self-training in a quiet and tranquil location in order to become spiritual. When using this artifact to attack, there is a chance of activating Breath of Tranquility to compensate yourself, reducing Spell Cast Delay by 1 second.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Stay on Heavenstep Peak for 36 days while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Every 2 attacks reduce skill cooldown by 1 second.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YuanShenXinJian" sParam="Item">
+			<ThingName>Truthbringer</ThingName>
+			<Desc>Secret artifact of Buddhist tradition according to legends. Skeleton remains left by ascended immortals are used as the core, which is then infused into 99 swords. More than a hundred years of meditation with a Heart of Sword is then needed for it to become a spirit. Significantly improves one's Comprehension in Sword Mastery.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Meditate for 360 years while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Sword Mastery skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhuXianJian" sParam="Item">
+			<ThingName>Ragestriker</ThingName>
+			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with nine Lumina Cores to create the incubation of Metal element, which then absorbs Celestial Thunders to become spiritual. Its power multiplies when fighting against enemies that are also using artifacts. (Once equipped, right click to try to absorb Thunderstorm)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Thunderstorm 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Deals 1.5x damage when fighting against other artifacts.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LuXianJian" sParam="Item">
+			<ThingName>Deathbringer</ThingName>
+			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with a hundred pound of Fire Essence ore to create the incubation of Fire element, which then absorbs Foehn Wind to become spiritual. There is a chance of spirit power spike occurring when attacking with it, dealing multiplied damage. (Once equipped, right click to try to absorb Foehn Wind)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Foehn Wind 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>When dealing damage, there is a 10% chance of dealing 5x damage.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_XianXianJian" sParam="Item">
+			<ThingName>Endless Fury</ThingName>
+			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with nine branches of Phoenixwood to create the incubation of Wood element, which then absorbs Noxious Air to become spiritual. Its attacks are accompanied by a power of corrosion, dealing additional damage to Qi Barrier. (Once equipped, right click to try to absorb Noxious Air)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Noxious Air 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Deals 1.5x damage when attacking the enemy's body itself.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_JueXianJian" sParam="Item">
+			<ThingName>Wrathbringer</ThingName>
+			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with nine Holy Stones to create the incubation of Earth element, which then absorbs Sandstorms to become spiritual. When launching an attack, there is a small chance of dealing a special damage, the amount of which is relative to the enemy's Qi. (Once equipped, right click to try to absorb Sandstorm)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Sandstorm 9 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing an additional damage that is equal to 30% of the current target's Qi.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianLangDing" sParam="Item">
+			<ThingName>Sirius Spike</ThingName>
+			<Desc>Wicked artifact from another realm. Using the remaining evilness left by ascended immortal as the catalyst, the essence of Gnarled Vine's power is condensed onto a Demon Wolf's Fang. Nurture it with your own essence to make it spiritual. This artifact is extremely thin and sensitive when being used in battle. Once triggered, it will split into 9 apparitions to attack the enemy. It is a vicious weapon. (Once equipped, right click to feed essence to it)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Feed the artifact 18 times with your essence.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>For every 3 attacks, generates 9 spike apparitions that last 3 seconds.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianShu" sParam="Item">
+			<ThingName>Sword of Dubhe</ThingName>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Power. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Power Bonus by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianQuan" sParam="Item">
+			<ThingName>Sword of Megrez</ThingName>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Qi. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Qi Bonus by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianJi" sParam="Item">
+			<ThingName>Sword of Phegda</ThingName>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact's Knockback Resistance. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact's Knockback Resistance by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianXuan" sParam="Item">
+			<ThingName>Sword of Merak</ThingName>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Turn Speed. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Turn Speed by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YuHeng" sParam="Item">
+			<ThingName>Sword of Alioth</ThingName>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Qi Recovery Rate. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Qi Recovery Rate by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_KaiYang" sParam="Item">
+			<ThingName>Sword of Mizar</ThingName>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Knockback. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Knockback by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YaoGuang" sParam="Item">
+			<ThingName>Sword of Elkeid</ThingName>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Fly Speed. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Fly Speed by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_KuiHuaShenJian" sParam="Item">
+			<ThingName>Unus</ThingName>
+			<Desc>Secret sword forged according to the Sunflower Refining Law, it is made by carving and piecing 3 Divine Jade together and mounted with 1 Fortune Seed. It then needs to absorb the breath of Polar Night Ouroboros to become a spirit. Every time this sword is used against the enemy, the first strike is several times of its original power. (Once equipped, right click to try to absorb Breath of Polar Night)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorb Breath of Polar Night 12 times.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Power of first sword strike increased by 500%. The effect is reset when replenishing Qi to the artifact.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhuXianZhenTu" sParam="Item">
+			<ThingName>Slayer's Formation</ThingName>
+			<Desc>Secret chart of Formation Diagram that records the Ragestriker Formation. It is said to be the most ruthless Formation of all on ancient battlefields, being virtually invincible and unstoppable.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_QiXingZhenTu" sParam="Item">
+			<ThingName>Conqueror's Formation</ThingName>
+			<Desc>Secret chart of Formation Diagram that records the Conqueror's Formation. It is said to be capable of harnessing the Grand Chariot's divine light of Aloofness, which grants it omniscient demon-slaying powers.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_TianDiWuFangZhenTu" sParam="Item">
+			<ThingName>Impregnable Formation</ThingName>
+			<Desc>Secret chart of Formation Diagram that records the Impregnable Formation. It is said to be capable of deploying a indestructible field with the Five Directional Banners of Heaven and Earth to protect anything in the universe.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LiuYuZhenTu" sParam="Item">
+			<ThingName>Divine Law Formation</ThingName>
+			<Desc>Secret chart of Formation Diagram that records the Divine Law Formation. It is said to be a Formation of divinators of the six gods of Celestial Court, capable of turning the Mortal Realm into a paradise and making people live in spiritual harmony.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_LongXingZhenTu" sParam="Item">
+			<ThingName>Dragonrider Formation</ThingName>
+			<Desc>Secret Formation Diagram that records the Dragonrider Formation. It is said to be a dragon controlling Formation. When deployed, one can draw the power of Dragonsoul to perform some powerful Formation miracles.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_FengHunZhenTu" sParam="Item">
+			<ThingName>Phoenix Sword Formation</ThingName>
+			<Desc>Secret chart of Formation Diagram that records the Phoenix Sword Formation. It is said to be a phoenix-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_YinYangZhenTu" sParam="Item">
+			<ThingName>Yin Yang Formation</ThingName>
+			<Desc>Secret chart of Formation Diagram that records the Yin Yang Formation. It is said that this Formation is deployed according to the Rule of Yin and Yang. Utilizing the transformation of Yin and Yang, the Formation becomes extremely flexible.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_SanYinZhenTu" sParam="Item">
+			<ThingName>Dark Force Formation</ThingName>
+			<Desc>Secret Formation Diagram that records the Dark Force Formation. It is said to be a Formation formed by pure Yin energy, which can greatly enhance your power.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_BaMenZhenTu" sParam="Item">
+			<ThingName>Abyssal Sword Formation</ThingName>
+			<Desc>Secret Formation Diagram that records the Abyssal Sword Formation. It is said to be a Formation that is deployed according to the rules of the Eight Trigram Gates, with both offensive and defensive capabilities. Very miraculous.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ShenMuZhenTu" sParam="Item">
+			<ThingName>Wood Spirit Formation</ThingName>
+			<Desc>Secret chart of Formation Diagram that records the Wood Spirit Formation. It is said to be a Formation capable of awakening the Qi of vitality among heaven and earth, rejuvenating all living things.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_MiBao_WuYueZhenTu" sParam="Item">
+			<ThingName>Convergence Formation</ThingName>
+			<Desc>Secret chart of Formation Diagram that records the Convergence Formation. It's said that once deployed, this Formation presents the form of the Five Peaks to ward a location, rendering it indestructible.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Wonder_BaBaoGongDe" sParam="Item">
+			<ThingName>Heart of Merit</ThingName>
+			<Desc>The true essence formed in the Pool of the Eight Virtues, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_WanDaoZunFaZuo" sParam="Item">
+			<ThingName>Heart of Law</ThingName>
+			<Desc>The true essence formed in the Throne of Ten Thousand Taos, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_QiQingQingTongShu" sParam="Item">
+			<ThingName>Heart of Emotion</ThingName>
+			<Desc>The true essence formed in the Sacred Wood of Emotions, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_ZhouTianXingDouPan" sParam="Item">
+			<ThingName>Heart of the Stars</ThingName>
+			<Desc>The true essence formed in the Astral Plate of Universal Cycle, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_WuLongXuanJinTa" sParam="Item">
+			<ThingName>Heart of the Sun</ThingName>
+			<Desc>The true essence formed in the Draconic Pagoda of Yang, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_ShuShanJianChi" sParam="Item">
+			<ThingName>Heart of the Sword</ThingName>
+			<Desc>The true essence formed in the Blue Lotus Pool of Sword, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_LingYuFeng" sParam="Item">
+			<ThingName>Heart of Jade</ThingName>
+			<Desc>The true essence formed in the Numinous Peak, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_WanGuXieFaTan" sParam="Item">
+			<ThingName>Heart of Crimson</ThingName>
+			<Desc>The true essence formed in the Altar of Deathly Sorcery, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_XuanCiTianKeng" sParam="Item">
+			<ThingName>Heart of Stone</ThingName>
+			<Desc>The true essence formed in the Crater of Meta-magnetic, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_QiShaShenBei" sParam="Item">
+			<ThingName>Heart of the Seven-Slaughtering</ThingName>
+			<Desc>The true essence formed in the Divine Stele of Seven Slaughters, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_XuanYinShengQuan" sParam="Item">
+			<ThingName>Heart of the Moon</ThingName>
+			<Desc>The true essence formed in the Sacred Spring of Yin, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_YaoZuYiHai" sParam="Item">
+			<ThingName>Ancestral Yaoguai's Remains</ThingName>
+			<Desc>The concentrated substance formed by the remaining spirit within the Ancestral Yaoguai's Remains, which is also the root of all its profoundness.</Desc>
+		</Text>
+		<Text Name="Item_Wonder_QianKunLingJing" sParam="Item">
+			<ThingName>Universe Spirit Crystal</ThingName>
+			<Desc>A strange crystal with a mysterious power of space dwelling within it. It seems to have some special uses.</Desc>
+		</Text>
+	</List>
+</Texts>

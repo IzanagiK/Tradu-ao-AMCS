@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="SimpleFoodBase" sParam="Item">
+			<Item.FabaoSuffix>Numinous Treasure</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cake" sParam="Item">
+			<ThingName>Bread</ThingName>
+			<Desc>Simple food ration to satisfy hunger.</Desc>
+			<Item.FabaoSuffix>Pancake</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Jerky" sParam="Item">
+			<ThingName>Dried Meat</ThingName>
+			<Desc>Simple food ration to satisfy hunger.</Desc>
+			<Item.FabaoSuffix>Dried</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PreservedFruit" sParam="Item">
+			<ThingName>Li's Dried Amber Fruit</ThingName>
+			<Desc>[color=#FFA500]There was a fruit once, its taste as if honey. \nWaiting for its season, as we hang it above the eaves. \nNow here comes a lady, her eyes attracting like honey. \nWhat else to look forward, as the anticipated season leaves? \n[/color]Amber Fruit is hard to store. Only the Li family of Jinling is capable of making it into dried fruit while preserving its potency with their unique secret recipe.</Desc>
+			<Item.FabaoSuffix>Fruit</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_BoarMeat" sParam="Item">
+			<ThingName>Pig Demon Meat</ThingName>
+			<Desc>The essence of a pig demon's meat, cannot be cooked with ordinary fire. Consuming it directly could replenish a large amount of Stamina.</Desc>
+			<Item.FabaoSuffix>Dried</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

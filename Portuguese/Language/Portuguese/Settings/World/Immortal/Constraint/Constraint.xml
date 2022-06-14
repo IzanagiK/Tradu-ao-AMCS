@@ -1,0 +1,348 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="TwoRandom">
+			<DisplayName>Mesmo Barco</DisplayName>
+			<Desc>Ao fugir do massacre, dois discípulos taiyi, que são apenas conhecidos por você, pediram para se juntar a você.</Desc>
+		</Text>
+		<Text Name="Coma50">
+			<DisplayName>Ajuda</DisplayName>
+			<Desc>Ao fugir do massacre, um discípulo Taiyi gravemente ferido implorou para levá-los junto.</Desc>
+		</Text>
+		<Text Name="Thunder100">
+			<DisplayName>Inclusividade</DisplayName>
+			<Desc>Ao fugir do massacre, um Yaoguai que completou o metamorfo pediu para se juntar a você. Eles enfrentarão tribulação metamorfo em 100 dias.</Desc>
+		</Text>
+		<Text Name="HardLeave">
+			<DisplayName>Fuga</DisplayName>
+			<Desc>Ao fugir do massacre, vários discípulos taiyi, que você conhece pouco, pediram para se juntar a você, e você não tem escolha a não ser levá-los junto.</Desc>
+		</Text>
+		<Text Name="HotSummer">
+			<DisplayName>Verão Quente</DisplayName>
+			<Desc>Devido ao clima anormal, o verão aqui é ainda mais quente.</Desc>
+		</Text>
+		<Text Name="ColdWinter">
+			<DisplayName>Inverno Frio</DisplayName>
+			<Desc>Devido ao clima anormal, o inverno aqui é ainda mais frio.</Desc>
+		</Text>
+		<Text Name="OffensiveThunder">
+			<DisplayName>Tempestade</DisplayName>
+			<Desc>Devido ao ambiente geográfico anormal, os raios aqui são mais ferozes, e tendem a atingir as pessoas com mais frequência.</Desc>
+		</Text>
+		<Text Name="HardNature">
+			<DisplayName>Tempo Severo</DisplayName>
+			<Desc>O clima aqui é mais severo em geral.</Desc>
+		</Text>
+		<Text Name="MoreYaoShou2">
+			<DisplayName>Monstros Extras 1</DisplayName>
+			<Desc>Desovar 1 monstro extra no mapa inicial.</Desc>
+		</Text>
+		<Text Name="MoreYaoShou3">
+			<DisplayName>Monstros Extras 2</DisplayName>
+			<Desc>Desova 2 monstros extras no mapa inicial.</Desc>
+		</Text>
+		<Text Name="MoreYaoShou4">
+			<DisplayName>Monstros Extras 3</DisplayName>
+			<Desc>Desova 3 monstros extras no mapa inicial.</Desc>
+		</Text>
+		<Text Name="YaoGuaiMore">
+			<DisplayName>Monstros Rampage</DisplayName>
+			<Desc>Desovar mais monstros no mapa inicial.</Desc>
+		</Text>
+		<Text Name="BuildMoreCost">
+			<DisplayName>Embarcação Áspera</DisplayName>
+			<Desc>Os materiais necessários na construção de edifícios são duplicados.</Desc>
+		</Text>
+		<Text Name="BuildSlow">
+			<DisplayName>Labuta e Moil</DisplayName>
+			<Desc>A construção é três vezes mais lenta.</Desc>
+		</Text>
+		<Text Name="BuildLessHp">
+			<DisplayName>Resistido</DisplayName>
+			<Desc>A durabilidade dos edifícios é significativamente reduzida.</Desc>
+		</Text>
+		<Text Name="HardBuild">
+			<DisplayName>Edifícios intrincados</DisplayName>
+			<Desc>Dificuldades gerais em relação aos edifícios são levantadas.</Desc>
+		</Text>
+		<Text Name="InferiorFengShui">
+			<DisplayName>Feng Shui perdido</DisplayName>
+			<Desc>O Observatório só mostra as classificações de Feng Shui sem detalhes.</Desc>
+		</Text>
+		<Text Name="InferiorDan">
+			<DisplayName>Alquimia Perdida</DisplayName>
+			<Desc>As chances de falhar ao inventar pílulas e elixirs aumentam; os materiais necessários na hora da fabricação são duplicados.</Desc>
+		</Text>
+		<Text Name="LostPractice">
+			<DisplayName>Artes Perdidas</DisplayName>
+			<Desc>Algumas das profundas artes de cultivo são perdidas para o mundo.</Desc>
+		</Text>
+		<Text Name="FastRot">
+			<DisplayName>Ar de Decadência</DisplayName>
+			<Desc>Itens' taxas em decomposição são dobradas.</Desc>
+		</Text>
+		<Text Name="HighPrice">
+			<DisplayName>Preços em alta</DisplayName>
+			<Desc>Itens' preços de compra são dobrados.</Desc>
+		</Text>
+		<Text Name="LessGain">
+			<DisplayName>Itens escassos</DisplayName>
+			<Desc>Mapas selvagens guardam itens menores.</Desc>
+		</Text>
+		<Text Name="SourceLimit">
+			<DisplayName>Recursos Escassos</DisplayName>
+			<Desc>Recursos são mais difíceis de encontrar em geral.</Desc>
+		</Text>
+		<Text Name="LessWalker">
+			<DisplayName>Seita desolada</DisplayName>
+			<Desc>Menos mortais passarão.</Desc>
+		</Text>
+		<Text Name="LessMember">
+			<DisplayName>Seita Simples</DisplayName>
+			<Desc>A contagem de discípulos Maxima é reduzida.</Desc>
+		</Text>
+		<Text Name="LessZhaolan">
+			<DisplayName>Idade inquieta</DisplayName>
+			<Desc>Os mortais estão muito ocupados com assuntos seculares para se engajarem no cultivo; contagem de discípulos recrutados é reduzida pela metade.</Desc>
+		</Text>
+		<Text Name="LessFiveBase">
+			<DisplayName>Escassez de talentos</DisplayName>
+			<Desc>Os mortais geralmente têm menos talento.</Desc>
+		</Text>
+		<Text Name="DaoShuai">
+			<DisplayName>Tempos Difíceis</DisplayName>
+			<Desc>Geralmente é mais difícil recrutar discípulos talentosos.</Desc>
+		</Text>
+		<Text Name="LessWalkTrader">
+			<DisplayName>Caminho Complicado</DisplayName>
+			<Desc>Comerciantes viajantes visitam com menos frequência.</Desc>
+		</Text>
+		<Text Name="LessWalkLStone">
+			<DisplayName>Crise cambial</DisplayName>
+			<Desc>Comerciante viajante carrega menos pedras espirituais.</Desc>
+		</Text>
+		<Text Name="StrictWalker">
+			<DisplayName>Acordo Limitado</DisplayName>
+			<Desc>Para cada visita, os comerciantes viajantes comprarão apenas um tipo de itens de você.</Desc>
+		</Text>
+		<Text Name="StrictWTrader">
+			<DisplayName>Comerciantes Médios</DisplayName>
+			<Desc>Geralmente é mais difícil negociar com comerciantes viajantes.</Desc>
+		</Text>
+		<Text Name="MoreElementWeather">
+			<DisplayName>Elemento Caos</DisplayName>
+			<Desc>Desastres de cinco elementos ocorrem com mais frequência.</Desc>
+		</Text>
+		<Text Name="LessLingWeather">
+			<DisplayName>Qi Ebb</DisplayName>
+			<Desc>As secas de Qi ocorrem com mais frequência, e suas durações são aumentadas.</Desc>
+		</Text>
+		<Text Name="ForeverNight20">
+			<DisplayName>Caos de Yin Yang</DisplayName>
+			<Desc>A noite polar ocorre todos os anos em um tempo fixo.</Desc>
+		</Text>
+		<Text Name="TianDaoWenLuan">
+			<DisplayName>Transtorno de Tao</DisplayName>
+			<Desc>Climas especiais são geralmente mais difíceis de lidar.</Desc>
+		</Text>
+		<Text Name="PetReviveInterval">
+			<DisplayName>Katabasis</DisplayName>
+			<Desc>Leva mais tempo para um animal de estimação ressuscitar.</Desc>
+		</Text>
+		<Text Name="PetLingMax">
+			<DisplayName>Qi perturbado</DisplayName>
+			<Desc>O boné Qi do animal de estimação do espírito diminui.</Desc>
+		</Text>
+		<Text Name="PetFabao">
+			<DisplayName>Núcleo Solto</DisplayName>
+			<Desc>O poder do Espírito Pet de núcleo interno e feitiços diminui.</Desc>
+		</Text>
+		<Text Name="PetWeak">
+			<DisplayName>Animais frágeis</DisplayName>
+			<Desc>Animais de estimação espirituais são geralmente mais fracos.</Desc>
+		</Text>
+		<Text Name="FavorDown">
+			<DisplayName>Agente de Choque</DisplayName>
+			<Desc>Atribuir agências reduz a reputação da seita.</Desc>
+		</Text>
+		<Text Name="ColdMan">
+			<DisplayName>Corações Frios</DisplayName>
+			<Desc>Mais personagens no reino mortal são de uma personalidade retraída.</Desc>
+		</Text>
+		<Text Name="NoTeacher">
+			<DisplayName>Tudo sozinho</DisplayName>
+			<Desc>O Cultivador Misterioso não aparece mais.</Desc>
+		</Text>
+		<Text Name="ColdMortal">
+			<DisplayName>Mundo Frio</DisplayName>
+			<Desc>O mundo se torna um lugar mais frio em geral.</Desc>
+		</Text>
+		<Text Name="YaoComing1">
+			<DisplayName>Ataque yaoguai: 160º dia.</DisplayName>
+			<Desc>Uma horda de Yaoguai ataca sua seita no 160º dia.</Desc>
+		</Text>
+		<Text Name="YaoComing2">
+			<DisplayName>Ataque yaoguai: 120º dia.</DisplayName>
+			<Desc>Uma horda de Yaoguai ataca sua seita no 120º dia.</Desc>
+		</Text>
+		<Text Name="YaoComing3">
+			<DisplayName>Ataque yaoguai: 80º dia.</DisplayName>
+			<Desc>Uma horda de Yaoguai ataca sua seita no 80º dia.</Desc>
+		</Text>
+		<Text Name="YaoGuaiComing">
+			<DisplayName>Ataques de Yaoguai</DisplayName>
+			<Desc>Os monstros vai atacar sua seita.</Desc>
+		</Text>
+		<Text Name="KillerComing1">
+			<DisplayName>Taiyi Hunter: Dia 250</DisplayName>
+			<Desc>Mesmo após a destruição da Seita Taiyi, ainda há um monte de figuras misteriosas caçando seus remanescentes. Uma parte deles chegará no dia 250 .</Desc>
+		</Text>
+		<Text Name="KillerComing2">
+			<DisplayName>Taiyi Hunter: Dia 200</DisplayName>
+			<Desc>Mesmo após a destruição da Seita Taiyi, ainda há um monte de figuras misteriosas caçando seus remanescentes. Uma parte deles chegará no dia 200 .</Desc>
+		</Text>
+		<Text Name="KillerComing3">
+			<DisplayName>Taiyi Hunter: Dia 150</DisplayName>
+			<Desc>Mesmo após a destruição da Seita Taiyi, ainda há um monte de figuras misteriosas caçando seus remanescentes. Uma parte deles chegará no dia 150 .</Desc>
+		</Text>
+		<Text Name="KillerComing">
+			<DisplayName>Caçadores de Taiyi</DisplayName>
+			<Desc>Mesmo após a destruição da Seita Taiyi, ainda há um monte de figuras misteriosas caçando seus remanescentes.</Desc>
+		</Text>
+		<Text Name="SoonDragon1">
+			<DisplayName>Caverna Misteriosa: Dia 160</DisplayName>
+			<Desc>A Caverna Misteriosa aparece no dia 160 .</Desc>
+		</Text>
+		<Text Name="SoonDragon2">
+			<DisplayName>Caverna Misteriosa: Dia 80</DisplayName>
+			<Desc>A Caverna Misteriosa aparece no dia 80 .</Desc>
+		</Text>
+		<Text Name="SoonDragon3">
+			<DisplayName>Caverna Misteriosa: Dia 30</DisplayName>
+			<Desc>A Caverna Misteriosa aparece no dia 30 .</Desc>
+		</Text>
+		<Text Name="SoonDragon">
+			<DisplayName>Calamidade das Cavernas</DisplayName>
+			<Desc>A Caverna Misteriosa aparece mais cedo.</Desc>
+		</Text>
+		<Text Name="RequiredSacrifice">
+			<DisplayName>Poder do Dragão</DisplayName>
+			<Desc>As Cavernas Misteriosas não podem mais ser suprimidas.</Desc>
+		</Text>
+		<Text Name="Basfff">
+			<DisplayName>Bom Apetite</DisplayName>
+			<Desc>A Caverna Misteriosa exige mais.</Desc>
+		</Text>
+		<Text Name="ThunderBeast">
+			<DisplayName>Poder do Trovão</DisplayName>
+			<Desc>Tempestades ocorrem com mais frequência.</Desc>
+		</Text>
+		<Text Name="StrictDragon">
+			<DisplayName>Temor Antigo</DisplayName>
+			<Desc>A Caverna Misteriosa é mais difícil de lidar em geral.</Desc>
+		</Text>
+		<Text Name="LowerPointEvent">
+			<DisplayName>Política Difícil</DisplayName>
+			<Desc>Eventos políticos ocorrem com menos frequência.</Desc>
+		</Text>
+		<Text Name="MoreBuilding">
+			<DisplayName>Vida de Luxo</DisplayName>
+			<Desc>Os custos dos prédios das agências são dobrados.</Desc>
+		</Text>
+		<Text Name="MorePolicy">
+			<DisplayName>Burocracia</DisplayName>
+			<Desc>Os custos das apólices são dobrados.</Desc>
+		</Text>
+		<Text Name="MoreMortal">
+			<DisplayName>Tarefas Mundanas</DisplayName>
+			<Desc>Questões relativas às agências são mais difíceis de lidar em geral.</Desc>
+		</Text>
+		<Text Name="LowFavor">
+			<DisplayName>Fora da Liga</DisplayName>
+			<Desc>Os favores iniciais das seitas NPC são reduzidos.</Desc>
+		</Text>
+		<Text Name="HardFavor">
+			<DisplayName>Olhos Cautelosos</DisplayName>
+			<Desc>Os favores das seitas do NPC aumentam mais lentamente.</Desc>
+		</Text>
+		<Text Name="MorePoint">
+			<DisplayName>Impessoal</DisplayName>
+			<Desc>Requer mais conexões para negociar com seitas NPC.</Desc>
+		</Text>
+		<Text Name="ColdRealm">
+			<DisplayName>Imortais sem emoções</DisplayName>
+			<Desc>É geralmente mais difícil negociar com outras seitas.</Desc>
+		</Text>
+		<Text Name="NoLimit1">
+			<DisplayName>Fica mais difícil</DisplayName>
+			<Desc>Atacar inimigos são cada vez mais fortes.</Desc>
+		</Text>
+		<Text Name="NoLimit">
+			<DisplayName>Fica mais difícil.</DisplayName>
+			<Desc>Atacar inimigos são cada vez mais fortes.</Desc>
+		</Text>
+		<Text Name="SchoolPower1">
+			<DisplayName>3x Poder da Seita</DisplayName>
+			<Desc>Todas as seitas NPC têm seu poder aumentado em 200%.</Desc>
+		</Text>
+		<Text Name="SchoolPower2">
+			<DisplayName>6x Poder da Seita</DisplayName>
+			<Desc>Todas as seitas NPC têm seu poder aumentado em 500%.</Desc>
+		</Text>
+		<Text Name="SchoolPower3">
+			<DisplayName>9x Poder da Seita</DisplayName>
+			<Desc>Todas as seitas NPC têm seu poder aumentado em 800%.</Desc>
+		</Text>
+		<Text Name="SchoolPower">
+			<DisplayName>Poder Imortal</DisplayName>
+			<Desc>Todas as seitas NPC são mais fortes.</Desc>
+		</Text>
+		<Text Name="DragonPower1">
+			<DisplayName>2x Poder do dragão de Jiao</DisplayName>
+			<Desc>2x Poder do dragão de Jiao</Desc>
+		</Text>
+		<Text Name="DragonPower2">
+			<DisplayName>3x Poder do dragão de Jiao</DisplayName>
+			<Desc>3x Poder do dragão de Jiao</Desc>
+		</Text>
+		<Text Name="DragonPower3">
+			<DisplayName>4x Poder do dragão de Jiao</DisplayName>
+			<Desc>4x Poder do dragão de Jiao</Desc>
+		</Text>
+		<Text Name="DragonPower">
+			<DisplayName>Poder da Água</DisplayName>
+			<Desc>O dragão jiao é mais forte.</Desc>
+		</Text>
+		<Text Name="FengPower1">
+			<DisplayName>2x Poder de Phoenix</DisplayName>
+			<Desc>2x Poder de Phoenix</Desc>
+		</Text>
+		<Text Name="FengPower2">
+			<DisplayName>3x Poder de Phoenix</DisplayName>
+			<Desc>3x Poder de Phoenix</Desc>
+		</Text>
+		<Text Name="FengPower3">
+			<DisplayName>4x Poder de Phoenix</DisplayName>
+			<Desc>4x Poder de Phoenix</Desc>
+		</Text>
+		<Text Name="FengPower">
+			<DisplayName>Poder de Fogo</DisplayName>
+			<Desc>Phoenix é mais forte.</Desc>
+		</Text>
+		<Text Name="ZhulongPower1">
+			<DisplayName>2x Poder do Dragão da Tocha</DisplayName>
+			<Desc>2x Poder do Dragão da Tocha</Desc>
+		</Text>
+		<Text Name="ZhulongPower2">
+			<DisplayName>3x Poder do Dragão da Tocha</DisplayName>
+			<Desc>3x Poder do Dragão da Tocha</Desc>
+		</Text>
+		<Text Name="ZhulongPower3">
+			<DisplayName>4x Poder do Dragão da Tocha</DisplayName>
+			<Desc>4x Poder do Dragão da Tocha</Desc>
+		</Text>
+		<Text Name="ZhulongPower">
+			<DisplayName>Yin Yang Pode</DisplayName>
+			<Desc>Poder do Dragão da Tocha é mais forte.</Desc>
+		</Text>
+	</List>
+</Texts>

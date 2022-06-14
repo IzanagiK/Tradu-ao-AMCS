@@ -1,0 +1,22 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Story_QuestStory_Item_ShangGuYiWenLu">
+			<DisplayName>Examine scroll</DisplayName>
+			<Desc>[NAME] estudou o pergaminho com cuidado.</Desc>
+			<Selections.0.Display>Ler</Selections.0.Display>
+			<Selections.1.Display>Use o Selo Antigo para decifrar</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_TaiYiMiDian">
+			<DisplayName>Examine Book</DisplayName>
+			<Desc>[NAME] examinou o livro.</Desc>
+			<Selections.0.Display>Ler</Selections.0.Display>
+			<Selections.1.Display>Use o Selo do Universo para decifrar</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_JinChuanCanJuan">
+			<DisplayName>Examine the fragments</DisplayName>
+			<Desc>[NAME] tentou examinar o fragmento do pergaminho do caixão dourado.</Desc>
+			<Selections.0.Display>Examinar</Selections.0.Display>
+			<Selections.1.Display>Use o selo primitivo para decifrar</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

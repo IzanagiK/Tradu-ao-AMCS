@@ -1,0 +1,93 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="LeftoverMaterialBase" sParam="Item">
+			<Desc>Material scraps that can be used to lay floors or build eaves.</Desc>
+			<Item.FabaoSuffix>Nail, Dart, Scrap</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WoodLeftover" sParam="Item">
+			<ThingName>Wood Offcut</ThingName>
+			<Desc>Leftover building material mixed with wood offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodLeftover" sParam="Item">
+			<ThingName>Goldwood Offcut</ThingName>
+			<Desc>Leftover building material mixed with Goldwood offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Goldwood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodLeftover" sParam="Item">
+			<ThingName>Phoenixwood Offcut</ThingName>
+			<Desc>Leftover building material mixed with Phoenixwood offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Parasol Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodLeftover" sParam="Item">
+			<ThingName>Spiritwood Offcut</ThingName>
+			<Desc>Leftover building material mixed with Spiritwood offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Spiritwood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BrownRockLeftover" sParam="Item">
+			<ThingName>Brownstone Offcut</ThingName>
+			<Desc>Leftover building material mixed with brownstone offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Brownstone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockLeftover" sParam="Item">
+			<ThingName>Graystone Offcut</ThingName>
+			<Desc>Leftover building material mixed with Graystone offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Graystone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleLeftover" sParam="Item">
+			<ThingName>Marble Offcut</ThingName>
+			<Desc>Leftover building material mixed with marble offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Marble</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeLeftover" sParam="Item">
+			<ThingName>Jade Offcut</ThingName>
+			<Desc>Leftover building material mixed with jade offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneLeftover" sParam="Item">
+			<ThingName>Holy Stone Offcut</ThingName>
+			<Desc>Leftover building material mixed with Holy Stone offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Holy Stone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneLeftover" sParam="Item">
+			<ThingName>Spirit Stone Offcut</ThingName>
+			<Desc>Leftover building material mixed with spirit stone offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Spirit Stone</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalLeftover" sParam="Item">
+			<ThingName>Spirit Crystal Offcut</ThingName>
+			<Desc>Leftover building material mixed with Spirit Crystal offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Spirit Crystal</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_IronRockLeftover" sParam="Item">
+			<ThingName>Iron Offcut</ThingName>
+			<Desc>Leftover building material mixed with iron offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Iron</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRockLeftover" sParam="Item">
+			<ThingName>Igneocopper Offcut</ThingName>
+			<Desc>Leftover building material mixed with Igneocopper offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Igneocopper</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRockLeftover" sParam="Item">
+			<ThingName>Ice Crystal Offcut</ThingName>
+			<Desc>Leftover building material mixed with Ice Crystal offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Ice Crystal</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRockLeftover" sParam="Item">
+			<ThingName>Darksteel Offcut</ThingName>
+			<Desc>Leftover building material mixed with Darksteel offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Darksteel</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceLeftover" sParam="Item">
+			<ThingName>Lumina Core Offcut</ThingName>
+			<Desc>Leftover building material mixed with lumina core offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>Lumina Core</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BambooLeftover" sParam="Item">
+			<ThingName>Bamboo Offcut</ThingName>
+			<Desc>Offcut mixed with bamboo, can be used for flooring or roof.</Desc>
+			<Item.BeMaterial.NamePrefix>Bamboo</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

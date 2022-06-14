@@ -1,0 +1,50 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Talk_BaiMan">
+			<Hate.0>It's you again?</Hate.0>
+			<Hate.1>What do you want here? Begging?</Hate.1>
+			<Hate.2>I thought I saw a pig, but it was you.</Hate.2>
+			<Hate.3>You're still alive?</Hate.3>
+			<Normal.0>I'm busy. Can you hurry up?</Normal.0>
+			<Normal.1>Hurry up. Don't waste my time.</Normal.1>
+			<Like.0>Here you are. What do you want? Make yourself at home.</Like.0>
+			<Like.1>It's you. Here, have a seat.</Like.1>
+			<Like.2>What brings you here today?</Like.2>
+			<Submiss.0>(Bows) Here you are, sir. What do you want? Tell me, and I'll come and help?</Submiss.0>
+			<Submiss.1>What do you need? Here, pick whatever you like. We can talk about the price later.</Submiss.1>
+			<Submiss.2>Aiyo, here you are, sir. Welcome.</Submiss.2>
+			<ValueableTrade.0>You're too generous. It's much higher than the normal price.</ValueableTrade.0>
+			<ValueableTrade.1>That's a lot. I feel like I'm taking advantage of this.</ValueableTrade.1>
+			<TryOkTrade.0>Yes. I think we can trade.</TryOkTrade.0>
+			<TryOkTrade.1>Okay. I'm willing to deal.</TryOkTrade.1>
+			<TryOkTrade.2>Um, I can't say no to that price.</TryOkTrade.2>
+			<NoTrade.0>No, it's not worth so much for me.</NoTrade.0>
+			<NoTrade.1>I don't think so.</NoTrade.1>
+			<NoTrade.2>No way.</NoTrade.2>
+			<NoTrade.3>You know how much this is actually worth, right?</NoTrade.3>
+			<OkTrade.0>Nice. The deal is done!</OkTrade.0>
+			<OkTrade.1>I'm very glad to make the deal.</OkTrade.1>
+			<GiftLike.0>Very good. This is exactly what I want.</GiftLike.0>
+			<GiftLike.1>You know I like this? Seems like we have a connection.</GiftLike.1>
+			<Task.0>Hiya, you're right on time.</Task.0>
+			<Task.1>I'm saved. Thanks a lot.</Task.1>
+			<TaskNeed.0>This is good, but we need more. Do you have them?</TaskNeed.0>
+			<TaskNeed.1>Thank you so much. Can you help a friend out? I'm almost there.</TaskNeed.1>
+			<LowValueGift.0>What garbage is this?</LowValueGift.0>
+			<LowValueGift.1>What? You can't even feed this to a dog.</LowValueGift.1>
+			<LowValueGift.2>(Tosses it on the ground) Come here, doggie, you like this?</LowValueGift.2>
+			<MidValueGift.0>This is okay, but we don't have any use for it right now.</MidValueGift.0>
+			<MidValueGift.1>(Nods) Not bad, but don't expect us to like you because of it.</MidValueGift.1>
+			<MidValueGift.2>(With a stiff smile) These are nice. I'll give them to the disciples, but to be honest, it doesn't change how I think of you.</MidValueGift.2>
+			<MidValueGift.3>You are a nice person!</MidValueGift.3>
+			<HighValueGift.0>What a treasure. But you won't gain any more favor from me.</HighValueGift.0>
+			<HighValueGift.1>How generous of you. I'll gladly take it. HAHAHA. This is a rare treasure, but it is nothing special to me.</HighValueGift.1>
+			<HighValueGift.2>You are very generous. However, a rare item like this, I don't have any use for it.</HighValueGift.2>
+			<NoEnoughFriendPoint.0>No. You are not worth it.</NoEnoughFriendPoint.0>
+			<NoEnoughFriendPoint.1>Are you out of your mind? Do I owe you something?</NoEnoughFriendPoint.1>
+			<Invalid.0>Who are you? You want to buy this right away?</Invalid.0>
+			<Invalid.1>Do you have any idea? Do we know each other well?</Invalid.1>
+			<Invalid.2>I don't think we know each other that well.</Invalid.2>
+		</Text>
+	</List>
+</Texts>

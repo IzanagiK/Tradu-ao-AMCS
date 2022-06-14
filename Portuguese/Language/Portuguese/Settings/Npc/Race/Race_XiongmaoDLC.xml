@@ -1,0 +1,36 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="YGPanda">
+			<DisplayName>Panda Yaoguai</DisplayName>
+			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Panda Yaoguai</Desc>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="Panda">
+			<DisplayName>Panda</DisplayName>
+			<Desc>Common Animal: Panda</Desc>
+			<TalkBefore>*whines*</TalkBefore>
+			<TalkAfter>*whines*</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="JYPanda">
+			<DisplayName>Monster Panda</DisplayName>
+			<Desc>Animal that has gained power without awakening intelligence: Monster Panda</Desc>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="LsPandaXian">
+			<DisplayName>Xianxian</DisplayName>
+			<Desc>Divine Panda Xianxian is a fantastic spiritual animal naturally occurring between heaven and earth. It is the manifestation of some rules of nature.</Desc>
+			<TalkBefore>*whines*</TalkBefore>
+			<TalkAfter>*whines*</TalkAfter>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<DisplayName>Xiuxiu</DisplayName>
+			<Desc>Divine Panda Xiuxiu is a fantastic spiritual animal naturally occurring between heaven and earth. It is the manifestation of some rules of nature.</Desc>
+			<TalkBefore>*whines*</TalkBefore>
+			<TalkAfter>*whines*</TalkAfter>
+		</Text>
+	</List>
+</Texts>

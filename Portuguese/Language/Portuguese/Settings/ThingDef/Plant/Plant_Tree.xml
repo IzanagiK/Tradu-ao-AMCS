@@ -1,0 +1,53 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="TreePoplar" sParam="Plant">
+			<ThingName>Poplar Tree</ThingName>
+			<Desc>Fast growing tree with a soft and steady texture. Premium source of wood.</Desc>
+		</Text>
+		<Text Name="TreePine" sParam="Plant">
+			<ThingName>Pine Tree</ThingName>
+			<Desc>Slow growing tree, tall and straight with a solid texture.</Desc>
+		</Text>
+		<Text Name="TreePine_Big" sParam="Plant">
+			<ThingName>Huge Pine Tree</ThingName>
+			<Desc>Very old pine tree.</Desc>
+		</Text>
+		<Text Name="TreePear" sParam="Plant">
+			<ThingName>Pear Tree</ThingName>
+			<Desc>Common fruit tree, the wood of which is fine but easy to rot. Its yields are generally small.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo" sParam="Plant">
+			<ThingName>Ginkgo Tree</ThingName>
+			<Desc>A kind of large and slow growing tree that can attain spirituality. Its fruit is edible and has an incredible healing ability.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Big" sParam="Plant">
+			<ThingName>Huge Ginkgo Tree</ThingName>
+			<Desc>Very old ginkgo tree. Huge and permeated with Qi.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Dead" sParam="Plant">
+			<ThingName>Dead Phoenixwood</ThingName>
+			<Desc>Dead Phoenixwood tree which is still incredibly tall.</Desc>
+		</Text>
+		<Text Name="PintuBase" sParam="Plant">
+			<ThingName>For Puzzles only</ThingName>
+		</Text>
+		<Text Name="TreePeach" sParam="Plant">
+			<ThingName>Peach Tree</ThingName>
+			<Desc>Peach blossom tree.</Desc>
+			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to collect a sample of this object.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeJade" sParam="Plant">
+			<ThingName>Immortal Tree</ThingName>
+			<Desc>Immortal tree.</Desc>
+			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to collect a sample of this object.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeBone" sParam="Plant">
+			<ThingName>Fiend Tree</ThingName>
+			<Desc>Fiend tree.</Desc>
+			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to collect a sample of this object.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

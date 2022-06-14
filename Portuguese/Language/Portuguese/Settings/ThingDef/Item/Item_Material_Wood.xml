@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBase" sParam="Item">
+			<Item.FabaoSuffix>Wood, Branch, Column, Stake</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Wood" sParam="Item">
+			<ThingName>Wood</ThingName>
+			<Desc>Timber of good quality, it is a common crafting material.</Desc>
+			<Item.BeMaterial.NamePrefix>Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWood" sParam="Item">
+			<ThingName>Goldwood</ThingName>
+			<Desc>Precious Goldwood that is a hundred years old, a very firm and heavy material.</Desc>
+			<Item.BeMaterial.NamePrefix>Goldwood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWood" sParam="Item">
+			<ThingName>Phoenixwood</ThingName>
+			<Desc>Divine wood which Phoenixes perch on, it has a smooth surface and an extremely firm texture rich in Qi. A very rare material.</Desc>
+			<Item.BeMaterial.NamePrefix>Parasol Wood</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWood" sParam="Item">
+			<ThingName>Spiritwood</ThingName>
+			<Desc>Wood that has been suffused with Qi, it is a very firm material and highly resistant to fire.</Desc>
+			<Item.BeMaterial.NamePrefix>Spiritwood</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

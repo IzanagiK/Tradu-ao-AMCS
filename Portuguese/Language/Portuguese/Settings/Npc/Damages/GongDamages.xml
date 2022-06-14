@@ -1,0 +1,172 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Tower_FuBai">
+			<DisplayName>Destructive Downfall</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit1">
+			<DisplayName>Bruise</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit2">
+			<DisplayName>Minor Injury</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit3">
+			<DisplayName>Small Wound</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Jin_ThunderDamage">
+			<DisplayName>Thunderstruck</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Jin_SwordLight2">
+			<DisplayName>Sword Aura Infection(Serious)</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Mu_Failure">
+			<DisplayName>Failing</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Mu_Corrosion">
+			<DisplayName>Festering</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Shui_Frostbite">
+			<DisplayName>Frostbite</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Shui_ColdPoison">
+			<DisplayName>Cold Poison</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Huo_VisceralBurn">
+			<DisplayName>Visceral Burn</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Huo_BurnOfPain">
+			<DisplayName>Scorch</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Tu_Weathering">
+			<DisplayName>Weathered</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Tu_Petrifaction2">
+			<DisplayName>Petrified (Serious)</DisplayName>
+		</Text>
+		<Text Name="FivePoison">
+			<DisplayName>Breath of Bane</DisplayName>
+		</Text>
+		<Text Name="SwordBallDamage">
+			<DisplayName>Body Split</DisplayName>
+		</Text>
+		<Text Name="XueGuLianXing">
+			<DisplayName>Smelting</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul3_Damage">
+			<DisplayName>Impaired Mind</DisplayName>
+		</Text>
+		<Text Name="ZaoHuaYuLu_YuanShenJiMie">
+			<DisplayName>Obliterated Spirit</DisplayName>
+		</Text>
+		<Text Name="SoulOutOfBrain">
+			<DisplayName>Soul in Discord</DisplayName>
+		</Text>
+		<Text Name="LostSoul">
+			<DisplayName>Occluded</DisplayName>
+		</Text>
+		<Text Name="Damage_GongXinYin_Damage">
+			<DisplayName>Shattered Soul</DisplayName>
+		</Text>
+		<Text Name="Damage_TianDaoBenYuan1">
+			<DisplayName>Damaged Soul</DisplayName>
+		</Text>
+		<Text Name="Damage_Kidnap_MiHun">
+			<DisplayName>Enchantment Spell</DisplayName>
+		</Text>
+		<Text Name="Damage_TianDaoBenYuan2">
+			<DisplayName>Overturned Perception</DisplayName>
+		</Text>
+		<Text Name="Damage_ZhenFaZhenDang">
+			<DisplayName>Formation Tremors</DisplayName>
+		</Text>
+		<Text Name="DiffEnergyInvade">
+			<DisplayName>Alien Qi</DisplayName>
+		</Text>
+		<Text Name="MeridianRupture">
+			<DisplayName>Dissevered</DisplayName>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>Broken</DisplayName>
+		</Text>
+		<Text Name="ElixirFieldShock">
+			<DisplayName>Abdominal Palpitation</DisplayName>
+		</Text>
+		<Text Name="Damage_Boss_LingBoom">
+			<DisplayName>Turbulent Qi</DisplayName>
+		</Text>
+		<Text Name="Damage_Sys_SuppressGodCall">
+			<DisplayName>Tribulation Suppression</DisplayName>
+		</Text>
+		<Text Name="JieNanHuangu">
+			<DisplayName>Pain of Skeletal Change</DisplayName>
+		</Text>
+		<Text Name="LingSpillsInjury_Sp">
+			<DisplayName>Damaged Meridians</DisplayName>
+		</Text>
+		<Text Name="LingSpillsInjury">
+			<DisplayName>Overflow of Qi</DisplayName>
+		</Text>
+		<Text Name="SevereInjury">
+			<DisplayName>Loss of Primeval Qi</DisplayName>
+		</Text>
+		<Text Name="Jin_ThunderDamage">
+			<DisplayName>Thunderstruck</DisplayName>
+		</Text>
+		<Text Name="Jin_BoneNail">
+			<DisplayName>Punctured Bone</DisplayName>
+		</Text>
+		<Text Name="Jin_SwordLight1">
+			<DisplayName>Sword Aura Infection (Mild)</DisplayName>
+		</Text>
+		<Text Name="Jin_SwordLight2">
+			<DisplayName>Sword Aura Infection (Serious)</DisplayName>
+		</Text>
+		<Text Name="Mu_VitalityDevour1">
+			<DisplayName>Breath of Erosion (Mild)</DisplayName>
+		</Text>
+		<Text Name="Mu_VitalityDevour2">
+			<DisplayName>Breath of Erosion (Serious)</DisplayName>
+		</Text>
+		<Text Name="Mu_Failure">
+			<DisplayName>Failing</DisplayName>
+		</Text>
+		<Text Name="Mu_Corrosion">
+			<DisplayName>Festering</DisplayName>
+		</Text>
+		<Text Name="Mu_Parasitic">
+			<DisplayName>Parasite Infection</DisplayName>
+		</Text>
+		<Text Name="Shui_Frostbite">
+			<DisplayName>Frostbite</DisplayName>
+		</Text>
+		<Text Name="Shui_ColdBlood">
+			<DisplayName>Cold Meridians</DisplayName>
+		</Text>
+		<Text Name="Shui_ColdPoison">
+			<DisplayName>Cold Poison</DisplayName>
+		</Text>
+		<Text Name="Huo_VisceralBurn">
+			<DisplayName>Visceral Burn</DisplayName>
+		</Text>
+		<Text Name="Huo_BurnOfPain">
+			<DisplayName>Scorching Pain</DisplayName>
+		</Text>
+		<Text Name="Huo_MarrowDry">
+			<DisplayName>Depleted Marrows</DisplayName>
+		</Text>
+		<Text Name="Huo_HeartBurn">
+			<DisplayName>Heart Burn</DisplayName>
+		</Text>
+		<Text Name="Tu_Weathering">
+			<DisplayName>Weathered</DisplayName>
+		</Text>
+		<Text Name="Tu_Petrifaction1">
+			<DisplayName>Petrified (Mild)</DisplayName>
+		</Text>
+		<Text Name="Tu_Petrifaction2">
+			<DisplayName>Petrified (Serious)</DisplayName>
+		</Text>
+		<Text Name="Tu_BrainClose">
+			<DisplayName>Closed Mind</DisplayName>
+		</Text>
+	</List>
+</Texts>

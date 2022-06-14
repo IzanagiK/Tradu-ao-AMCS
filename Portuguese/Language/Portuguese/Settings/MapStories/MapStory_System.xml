@@ -1,0 +1,123 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="sys_getnothing">
+			<DisplayName>Infrutifera</DisplayName>
+			<Desc>Não conseguimos obter nada de util.</Desc>
+		</Text>
+		<Text Name="sys_noreaction">
+			<DisplayName>Sem resposta</DisplayName>
+			<Desc>Parece não haver resposta alguma.</Desc>
+		</Text>
+		<Text Name="sys_brokenneck">
+			<DisplayName>Eureka</DisplayName>
+			<Desc>[NAME] teve uma epifania repentina e parecia ter encontrado uma maneira de fazer aquele avanço prolongado na Lei de cultivo de [ITS]. [IT] sentou-se com pressa e rapidamente entrou em estado de meditação.</Desc>
+		</Text>
+		<Text Name="sys_openplacelink">
+			<DisplayName>Primeira Chegada</DisplayName>
+			<Desc>Tendo chegado em [PLACE] pela primeira vez, [NAME] perguntou aos habitantes locais sobre o local.</Desc>
+		</Text>
+		<Text Name="sys_openplace">
+			<DisplayName>Novo local desbloqueado</DisplayName>
+			<Desc>Tendo estado em [PLACE] varias vezes, [NAME] se familiarizou com este lugar e encontrou um novo destino interessante nas proximidades.</Desc>
+		</Text>
+		<Text Name="sys_test">
+			<DisplayName>Eureka</DisplayName>
+			<Desc>[NAME] teve uma epifania repentina e parecia ter encontrado uma maneira de fazer aquele avanço prolongado na Lei de cultivo [ITS]. [IT] sentou-se com pressa e rapidamente entrou em estado de meditação.</Desc>
+		</Text>
+		<Text Name="Story_SoulSeach">
+			<DisplayName>Investigacao de Alma</DisplayName>
+			<Desc>[NAME] realizou Soul Inquiry no cultivador agonizante, tentando resgatar algumas informações uteis.</Desc>
+		</Text>
+		<Text Name="Story_JiangDao">
+			<DisplayName>Epifania repentina</DisplayName>
+			<Desc>[NAME] was immersed in the profundity of Tao.</Desc>
+		</Text>
+		<Text Name="Story_TitleGold">
+			<DisplayName>Golden Core</DisplayName>
+			<Desc>Tendo alcancado o estado de cultivo de nucleo dourado, [NAME] recebeu um titulo de outros cultivadores.</Desc>
+		</Text>
+		<Text Name="Story_TitleRandom">
+			<DisplayName>Reputacao Crescente</DisplayName>
+			<Desc>Por ter saido da seita [ITS] em busca de aventura, [NAME] desfruta de uma reputação crescente entre seus companheiros cultivadores.</Desc>
+		</Text>
+		<Text Name="Story_sys_BossLong_Wish">
+			<DisplayName>Faça um desejo</DisplayName>
+			<Desc>O mistérioso ser dentro da caverna parece possuir alguns poderes milagrosos, e pode-se pedir um favor especial a ele em troca de algumas oferendas. No entanto, a raiva surgira se alguem deixar de apresentar as ofertas que exige.</Desc>
+			<Selections.0.Display>Desejo por um segredo</Selections.0.Display>
+			<Selections.1.Display>Desejo intensificar o Qi</Selections.1.Display>
+			<Selections.2.Display>Desejo de auto aperfeiçoamento</Selections.2.Display>
+			<Selections.3.Display>Sair</Selections.3.Display>
+		</Text>
+		<Text Name="Story_sys_BossLong_WishSuccess">
+			<DisplayName>Desejo concedido</DisplayName>
+			<Desc>A mistériosa caverna ficou satisfeita com as ofertas e, portanto, atendeu ao desejo de [NAME].</Desc>
+		</Text>
+		<Text Name="System_RobGreateBuilding">
+			<DisplayName>Capture Wonder</DisplayName>
+			<Desc>[NAME] tentou capturar o wonder's essence.</Desc>
+			<Selections.0.Display>Capture Essence</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="System_LearnGreateBuilding">
+			<DisplayName>Meditate on a Wonder</DisplayName>
+			<Desc>Diz-se que ha um segredo para uma formação mistériosa dentro desta maravilha, e [NAME] tenta meditar sobre isso.</Desc>
+			<Selections.0.Display>Meditate on a Wonder</Selections.0.Display>
+			<Selections.0.Tip>State/Intelligence/Luck/Formation Skill</Selections.0.Tip>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="System_EnterQianKunJie">
+			<DisplayName>Mini Universe</DisplayName>
+			<Desc>A magical building with the Taiyi Sect's secret treasure, Universe Spirit Crystal, as its core. The inside has its own rule for physical space and can be used to store all kinds of items. But there is a strange seal that keeps away people's mind. No matter how strong you are, no one can forcibly see its inside. Seems like there is a hidden secret.</Desc>
+			<Selections.0.Display>Divine Mind Inspect</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="System_EnterQianKunJie1">
+			<DisplayName>Mini Universe</DisplayName>
+			<Desc>[NAME] simplesmente verifiquei a entrada. O outro lado do selo parece ser um espaço sem nenhuma criatura em movimento ou sinais de perigo.</Desc>
+			<Selections.0.Display>Digitar</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_NormalFalar">
+			<DisplayName>Falar</DisplayName>
+			<Desc>A vida de um plebeu e monotona, mas divertida.</Desc>
+			<Selections.0.Display>Bate-papo</Selections.0.Display>
+			<Selections.0.Say>O que ha de novo?</Selections.0.Say>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_DiscipleFalar">
+			<DisplayName>Falar</DisplayName>
+			<Desc>Na Lei da imortalidade, e preciso seguir em frente ...</Desc>
+			<Selections.0.Display>Investigar</Selections.0.Display>
+			<Selections.0.Say>Alguma novidade ultimamente?</Selections.0.Say>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="System_Tribute">
+			<DisplayName>Tributo</DisplayName>
+			<Desc>[NAME] chegou em [PLACE], e se preparou para receber a homenagem anual.</Desc>
+			<Selections.0.Display>Colete Tributo</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_UnlockPlant">
+			<DisplayName>Coletar amostra</DisplayName>
+			<Desc>[NAME] tentou coletar uma amostra do objeto.</Desc>
+			<Selections.0.Display>Colete</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_UnlockBuilding">
+			<DisplayName>Observar</DisplayName>
+			<Desc>[NAME] tentou aprender como este edifício foi construído.</Desc>
+			<Selections.0.Display>Observar</Selections.0.Display>
+		</Text>
+		<Text Name="Story_SuperPartItem">
+			<DisplayName>Aprenda Profundidade</DisplayName>
+			<Desc>Tente compreender o conhecimento profundo da Remodelagem Corporal incorporada nesta parte do corpo.</Desc>
+			<Selections.0.Display>Inspiração</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Fight">
+			<DisplayName>Competição Amigavel</DisplayName>
+			<Desc>Peca aos discípulos para fazer uma competição amigavel aqui.</Desc>
+			<Selections.0.Display>Lutar</Selections.0.Display>
+			<Selections.1.Display>Esquece</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,76 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="LingShouShitPlace" sParam="Building">
+			<ThingName>Pet Defecation Spot</ThingName>
+			<Desc>Select a spot for your pets to defecate.</Desc>
+		</Text>
+		<Text Name="LSEnemyCarryPlace" sParam="Building">
+			<ThingName>Enemy Staging Area</ThingName>
+			<Desc>Pets can move unconscious enemies to this area by Hauling their bodies. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSWaiCarryPlace" sParam="Building">
+			<ThingName>Outer Disciple Staging Area</ThingName>
+			<Desc>Pets can move unconscious Outer Disciples to this area by Hauling their bodies. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSNeiCarryPlace" sParam="Building">
+			<ThingName>Inner Disciple Staging Area</ThingName>
+			<Desc>Pets can move unconscious Inner Disciples to this area by Hauling their bodies. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSVistorCarryPlace" sParam="Building">
+			<ThingName>Visitor Staging Area</ThingName>
+			<Desc>Pets can move unconscious Visitors to this area by Hauling their bodies. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSIncomingCarryPlace" sParam="Building">
+			<ThingName>Guest Staging Area</ThingName>
+			<Desc>Pets can move unconscious Guests to this area by Hauling their bodies. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSEnemyBodyCarryPlace" sParam="Building">
+			<ThingName>Enemy Corpse Staging Area</ThingName>
+			<Desc>Pets can move enemy corpses to this area by Hauling them. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSWaiBodyCarryPlace" sParam="Building">
+			<ThingName>Outer Disciple Corpse Staging Area</ThingName>
+			<Desc>Pets can move Outer Disciples' corpses to this area by Hauling them. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSNeiBodyCarryPlace" sParam="Building">
+			<ThingName>Inner Disciple Corpse Staging Area</ThingName>
+			<Desc>Pets can move Inner Disciples' corpses to this area by Hauling them. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSVistorBodyCarryPlace" sParam="Building">
+			<ThingName>Visitor Corpse Staging Area</ThingName>
+			<Desc>Pets can move Visitors' corpses to this area by Hauling them. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSIncomingBodyCarryPlace" sParam="Building">
+			<ThingName>Guest Corpse Staging Area</ThingName>
+			<Desc>Pets can move Guests' corpses to this area by Hauling them. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSMortalBodyCarryPlace" sParam="Building">
+			<ThingName>Mortal Stranger Corpse Staging Area</ThingName>
+			<Desc>Pets can move mortals' corpses to this area by Hauling them. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LSMortalCarryPlace" sParam="Building">
+			<ThingName>Mortal Stranger Staging Area</ThingName>
+			<Desc>Pets can move unconscious mortals to this area by Hauling their bodies. Hauled bodies do not stack, and the staging area being closest to the pet would be chosen.</Desc>
+		</Text>
+		<Text Name="LsDogHouse" sParam="Building">
+			<ThingName>Pet's Bed</ThingName>
+			<Desc>The bed of a pet.</Desc>
+		</Text>
+		<Text Name="LsDog_Carve" sParam="Building">
+			<ThingName>Divine Dog Statue</ThingName>
+			<Desc>Statue of a Divine Dog. Can be used to revive or summon Divine Dog.</Desc>
+		</Text>
+		<Text Name="LsFox_Carve" sParam="Building">
+			<ThingName>Spirit Fox Statue</ThingName>
+			<Desc>Statue of a Spirit Fox. Can be used to revive or summon Spirit Fox.</Desc>
+		</Text>
+		<Text Name="LsDragon_Carve" sParam="Building">
+			<ThingName>Float Dragon Statue</ThingName>
+			<Desc>Statue of a Float Dragon. Can be used to revive or summon Float Dragon.</Desc>
+		</Text>
+		<Text Name="LsPhoenix_Carve" sParam="Building">
+			<ThingName>Dark Phoenix Statue</ThingName>
+			<Desc>Statue of a Dark Phoenix. Can be used to revive or summon Dark Phoenix.</Desc>
+		</Text>
+	</List>
+</Texts>

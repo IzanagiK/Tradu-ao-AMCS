@@ -1,0 +1,325 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Sleep">
+			<Desc>Sleep</Desc>
+		</Text>
+		<Text Name="EatWeight">
+			<Desc>Eat according to schedule</Desc>
+		</Text>
+		<Text Name="EatShit">
+			<Desc>Eat feces</Desc>
+		</Text>
+		<Text Name="EatEssence">
+			<Desc>Eat Precious Materials</Desc>
+		</Text>
+		<Text Name="EatDrug">
+			<Desc>Drink Elixir</Desc>
+		</Text>
+		<Text Name="EatWheat">
+			<Desc>Eat Wheat</Desc>
+		</Text>
+		<Text Name="EatDryMeat">
+			<Desc>Eat Dried Meat</Desc>
+		</Text>
+		<Text Name="EatPear">
+			<Desc>Eat Pear</Desc>
+		</Text>
+		<Text Name="EatMeat">
+			<Desc>Eat Raw Meat</Desc>
+		</Text>
+		<Text Name="EatCook">
+			<Desc>Eat Cooked Meat</Desc>
+		</Text>
+		<Text Name="BiteBuilding">
+			<Desc>Attack Building</Desc>
+		</Text>
+		<Text Name="BiteClothes">
+			<Desc>Attack Clothing</Desc>
+		</Text>
+		<Text Name="BiteOuter">
+			<Desc>Attack Outer Disciple</Desc>
+		</Text>
+		<Text Name="BiteInner">
+			<Desc>Attack Inner Disciple</Desc>
+		</Text>
+		<Text Name="BiteVisitor">
+			<Desc>Attack Visitor</Desc>
+		</Text>
+		<Text Name="BiteIncoming">
+			<Desc>Attack Guest</Desc>
+		</Text>
+		<Text Name="BiteExpel">
+			<Desc>Attack unknown Mortal</Desc>
+		</Text>
+		<Text Name="AtkEnemy">
+			<Desc>Attack Enemy</Desc>
+		</Text>
+		<Text Name="ShitAtShitPlace">
+			<Desc>Defecate on the Spot</Desc>
+		</Text>
+		<Text Name="ShitAtPlants">
+			<Desc>Defecate by Plants</Desc>
+		</Text>
+		<Text Name="ShitAtDogHouse">
+			<Desc>Defecate by my bed</Desc>
+		</Text>
+		<Text Name="ShitAtStorage">
+			<Desc>Defecate in Storehouse</Desc>
+		</Text>
+		<Text Name="ShitOnBed">
+			<Desc>Defecate on Bed</Desc>
+		</Text>
+		<Text Name="ShitInFarm">
+			<Desc>Defecate in Field</Desc>
+		</Text>
+		<Text Name="CarryOuterToBed">
+			<Desc>Take care of Disciple</Desc>
+		</Text>
+		<Text Name="CarryOuterToDest">
+			<Desc>Move Unconscious Outer Disciple</Desc>
+		</Text>
+		<Text Name="CarryInnerToDest">
+			<Desc>Move Unconscious Inner Disciple</Desc>
+		</Text>
+		<Text Name="CarryVisitorToDest">
+			<Desc>Move Unconscious Visitor</Desc>
+		</Text>
+		<Text Name="CarryEnemyToDest">
+			<Desc>Move Unconscious Enemy</Desc>
+		</Text>
+		<Text Name="CarryIncomingToDest">
+			<Desc>Move Unconscious Guest</Desc>
+		</Text>
+		<Text Name="CarryEnemyBodyToDest">
+			<Desc>Move enemy corpse</Desc>
+		</Text>
+		<Text Name="CarryVisitorBodyToDest">
+			<Desc>Move visitor's corpse</Desc>
+		</Text>
+		<Text Name="CarryIncomingBodyToDest">
+			<Desc>Move guest's corpse</Desc>
+		</Text>
+		<Text Name="CarryOuterBodyToDest">
+			<Desc>Move Outer Disciple's corpse</Desc>
+		</Text>
+		<Text Name="CarryInnerBodyToDest">
+			<Desc>Move Inner Disciple's corpse</Desc>
+		</Text>
+		<Text Name="CarryMortalToDest">
+			<Desc>Move Unconscious Mortal</Desc>
+		</Text>
+		<Text Name="CarryMortalBodyToDest">
+			<Desc>Move Mortal's corpse</Desc>
+		</Text>
+		<Text Name="HelpCarry">
+			<Desc>Organize items</Desc>
+		</Text>
+		<Text Name="HelpTimber">
+			<Desc>Cut wood</Desc>
+		</Text>
+		<Text Name="HelpMine">
+			<Desc>Mine</Desc>
+		</Text>
+		<Text Name="HelpFind">
+			<Desc>Pilfer items</Desc>
+		</Text>
+		<Text Name="HelpKill">
+			<Desc>Butcher</Desc>
+		</Text>
+		<Text Name="HelpPlant">
+			<Desc>Irrigate</Desc>
+		</Text>
+		<Text Name="CureFreeze">
+			<Desc>Cure Frostbite</Desc>
+		</Text>
+		<Text Name="CureHot">
+			<Desc>Cure Heatstroke</Desc>
+		</Text>
+		<Text Name="HelpCook">
+			<Desc>Cook</Desc>
+		</Text>
+		<Text Name="HeatEndure">
+			<Desc>Refresh Spell</Desc>
+		</Text>
+		<Text Name="ColdEndure">
+			<Desc>Furnace Spell</Desc>
+		</Text>
+		<Text Name="HelpPlay">
+			<Desc>Join in the fun</Desc>
+		</Text>
+		<Text Name="PlayToy">
+			<Desc>Play with things</Desc>
+		</Text>
+		<Text Name="TrainQiGan">
+			<Desc>Hone Qi</Desc>
+		</Text>
+		<Text Name="TrainNeiDan">
+			<Desc>Practice Core</Desc>
+		</Text>
+		<Text Name="TrainHuTi">
+			<Desc>Hone Protection</Desc>
+		</Text>
+		<Text Name="TrainLingZhi">
+			<Desc>Hone Intellect</Desc>
+		</Text>
+		<Text Name="TrainShuFa">
+			<Desc>Practice Spells</Desc>
+		</Text>
+		<Text Name="AtkDizzyOuter">
+			<Desc>Attack Unconscious Outer Disciple</Desc>
+		</Text>
+		<Text Name="AtkDizzyInner">
+			<Desc>Attack Unconscious Inner Disciple</Desc>
+		</Text>
+		<Text Name="AtkDizzyComing">
+			<Desc>Attack Unconscious Guest</Desc>
+		</Text>
+		<Text Name="AtkDizzyVisitor">
+			<Desc>Attack Unconscious Visitor</Desc>
+		</Text>
+		<Text Name="AtkDizzyExpel">
+			<Desc>Attack Unconscious Mortal</Desc>
+		</Text>
+		<Text Name="FeedTongXie">
+			<Desc>Eat Laxative</Desc>
+		</Text>
+		<Text Name="HealInner">
+			<Desc>Heal Injury</Desc>
+		</Text>
+		<Text Name="Lay">
+			<Desc>Enjoy the breeze</Desc>
+		</Text>
+		<Text Name="Pee">
+			<Desc>Urinate</Desc>
+		</Text>
+		<Text Name="FastCook">
+			<Desc>Cook</Desc>
+		</Text>
+		<Text Name="CureInner">
+			<Desc>Heal Injury</Desc>
+		</Text>
+		<Text Name="HelpPlantD">
+			<Desc>Urinate</Desc>
+		</Text>
+		<Text Name="ESkill">
+			<Desc>Use Spells on Enemy</Desc>
+		</Text>
+		<Text Name="FSkill">
+			<Desc>Use Spells on Ally</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_Happiness">
+			<Desc>Feed Euphoria Pill</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_PracticeSpeed">
+			<Desc>Feed Sprout Pill</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_CalmDown">
+			<Desc>Feed Purity Pill</Desc>
+		</Text>
+		<Text Name="Feed_Item_LingStone">
+			<Desc>Feed Spirit Stone</Desc>
+		</Text>
+		<Text Name="Feed_Item_LingCrystal">
+			<Desc>Feed Spirit Crystal</Desc>
+		</Text>
+		<Text Name="Eat_Item_SnakeGallbladder">
+			<Desc>Consume Snake Gall</Desc>
+		</Text>
+		<Text Name="Eat_Item_BearGallbladder">
+			<Desc>Consume Bear Gall</Desc>
+		</Text>
+		<Text Name="Eat_Item_RedGinseng">
+			<Desc>Consume Red Ginseng</Desc>
+		</Text>
+		<Text Name="Eat_Item_PurpleGanodermaLucidum">
+			<Desc>Consume Purple Ganoderma</Desc>
+		</Text>
+		<Text Name="Eat_Item_TuEssence">
+			<Desc>Consume Ochre Essence</Desc>
+		</Text>
+		<Text Name="Eat_Item_HuoEssence">
+			<Desc>Consume Crimson Fruit</Desc>
+		</Text>
+		<Text Name="Eat_Item_ShuiEssence">
+			<Desc>Eat Prism Lotus</Desc>
+		</Text>
+		<Text Name="Eat_Item_JinEssence">
+			<Desc>Consume Sagacity Fruit</Desc>
+		</Text>
+		<Text Name="Eat_Item_MuEssence">
+			<Desc>Consume Gnarled Vine</Desc>
+		</Text>
+		<Text Name="Eat_Item_LifeStream">
+			<Desc>Consume Life Spring</Desc>
+		</Text>
+		<Text Name="Eat_Item_LongEgg">
+			<Desc>Consume Flood Dragon Egg</Desc>
+		</Text>
+		<Text Name="Eat_Item_FengEgg">
+			<Desc>Consume Phoenix Egg</Desc>
+		</Text>
+		<Text Name="Eat_Item_DragonShit">
+			<Desc>Consume Dragon Feces</Desc>
+		</Text>
+		<Text Name="Eat_Item_Jiaozi">
+			<Desc>Consume Dumpling</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossFeng_Meat">
+			<Desc>Consume Phoenix Flesh</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossLong_Meat">
+			<Desc>Consume Dragon Flesh</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossZhuLong_Meat">
+			<Desc>Consume Primordial Flesh</Desc>
+		</Text>
+		<Text Name="Eat_Item_Cake">
+			<Desc>Consume Bread</Desc>
+		</Text>
+		<Text Name="Eat_Item_MonsterBlood">
+			<Desc>Consume Beast Blood</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence">
+			<Desc>Consume Earth Flux</Desc>
+		</Text>
+		<Text Name="Eat_Item_SilverGrit">
+			<Desc>Consume Ice Crystal Powder</Desc>
+		</Text>
+		<Text Name="Eat_Item_CopperGrit">
+			<Desc>Consume Igneocopper Powder</Desc>
+		</Text>
+		<Text Name="Eat_Item_Cinnabar">
+			<Desc>Consume Cinnabar</Desc>
+		</Text>
+		<Text Name="Eat_Item_LingMuXueJie">
+			<Desc>Consume Resin Essence</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence_1">
+			<Desc>Consume Holy Essence</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence1_1">
+			<Desc>Consume Evil Essence</Desc>
+		</Text>
+		<Text Name="Eat_Item_Healroot">
+			<Desc>Consume Healing Herb</Desc>
+		</Text>
+		<Text Name="Eat_Item_Mint">
+			<Desc>Consume Purity Leaf</Desc>
+		</Text>
+		<Text Name="Eat_Item_MagicHerb">
+			<Desc>Consume Spirit Leaf</Desc>
+		</Text>
+		<Text Name="Eat_Item_Laxative">
+			<Desc>Consume Laxative</Desc>
+		</Text>
+		<Text Name="Eat_Item_BambooShoot">
+			<Desc>Eat Bamboo Shoots</Desc>
+		</Text>
+		<Text Name="Eat_Item_Bamboo">
+			<Desc>Eat Bamboos</Desc>
+		</Text>
+		<Text Name="FakeEatItem">
+			<Desc>Eat Something</Desc>
+		</Text>
+	</List>
+</Texts>

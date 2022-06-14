@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SoulCrystalBase" sParam="Item">
+			<Item.FabaoSuffix>Soul Gem</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SoulCrystalYou" sParam="Item">
+			<ThingName>Anguish Soul Gem</ThingName>
+			<Desc>A dark soul gem, containing some remaining painful memories.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalNing" sParam="Item">
+			<ThingName>Serenity Soul Gem</ThingName>
+			<Desc>A serene soul gem, containing some remaining memories.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalLing" sParam="Item">
+			<ThingName>Spirit Soul Gem</ThingName>
+			<Desc>A limpid soul gem, containing some remaining happy memories.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalYuanLing" sParam="Item">
+			<ThingName>Primordial Soul Gem</ThingName>
+			<Desc>It is a glitch in the ways of heaven that Sentient Spirits gained their sentience, while the Primordial Soul Gem is a trace of profoundness from such a glitch, being extracted from Sentient Spirit.</Desc>
+		</Text>
+		<Text Name="Item_Yao_CatSoul" sParam="Item">
+			<ThingName>Cat Soul Gem</ThingName>
+			<Desc>Soul fragment of a cat Yaoguai, probably has something to do with the saying that cats have nine lives. It contains some mysterious power, consuming it will grant you an extra sub-spirit. This item can only be taken once during a lifetime. Only effective to cultivators that have reached their Primordial Spirit phase.</Desc>
+		</Text>
+	</List>
+</Texts>

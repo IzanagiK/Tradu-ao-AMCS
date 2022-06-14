@@ -1,0 +1,36 @@
+﻿Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report	无成功失败/中性回答	Success!	Failed!	数值参数	文本参数
+LingHun_AskTNpc	0	Tell me everything you know about [TSCHOOL]'s [TNAME]!	I really don't know [TIT].	I'll talk...	There is nothing else. I promise.		
+LingHun_AskTNpcData	0	Tell me everything you know about the [TXT] related to [TSCHOOL]'s [TNAME]!	I don't know... I don't know...	I'll talk...	There is nothing else. I promise.		
+LingHun_AskTNpcSecret	0	Tell me about all the secrets of [TSCHOOL]'s [TNAME]!	I don't know... I don't know...	I'll talk...	I won't tell you even if I die.		
+							
+							
+LingHun_Die	0	[HENAME] is dying.	...				
+LingHun_AskNpc	0	Just tell me what you know. We only have one life, if you tell me honestly, maybe I can save your life. Otherwise, it sure will be a wasted life for you, right?	...	Okay... I'll tell you everything...	So what? Do whatever you gotta do...		
+LingHun_DontKnow	0	Tell me about this. What good would it do if you resist?	... I really don't know...				
+							
+LingHun_Feature	0	I knew you were sent by [TXT]. I've got ways to make you speak, so do as I say and it will save you a lot of troubles.	...	Okay... Okay... I'll tell you, please stop...	So what? Do whatever you gotta do...		
+LingHun_Feature_Open	0	Haha, I heard you are a [TXT] person. Show me.	... ([NAME]'s soul is shaking violently, as if in extreme pain...)				
+							
+LingHun_LikeItem	0	You like [TXT]? Don't play tough. If you tell me what you know, you can have all the [TXT] you want, so why bother? (Generates a large amount of [TXT] surrounding them via Illusion.)	...	Okay... Okay... If you give me [TXT], I'll tell you...	So what? Do whatever you gotta do...		
+LingHun_LikeItem_Open	0	You like [TXT]? Too bad, they're going to be mine! (Generates a large amount of [TXT] surrounding them via Illusion, and then takes them away.)	... ([NAME]'s soul is shaking violently, as if in extreme pain...)				
+							
+LingHun_HateItem	0	You hate [TXT]? If you tell me what you know, I promise you will not have to stand these... (Generates a large amount of [TXT] surrounding [HENAME] via Illusion.)	...	Okay... Okay... I'll tell you, please stop...	So what? Do whatever you gotta do...		
+LingHun_HateItem_Open	0	You hate [TXT]? Ha?! You're tough? (Generates a [TXT] via Illusion and places it on top of [NAME]'s head.)	... ([NAME]'s soul is shaking violently, as if in extreme pain...)				
+							
+LingHun_Hobby	0	I heard this is your [TXT]? If you tell me what you know, I'll set you free.	...	Please stop! Please stop talking! I'll tell you everything!	So what? Do whatever you gotta do...		
+LingHun_Hobby_Open	0	Huh? I heard this is your [TXT]? Didn't know you're quite famous, but rest assured, I'll use this to destroy your reputation and make you regret it for the rest of your life! HAHAHAHA!	... ([NAME]'s soul is shaking violently, as if in extreme pain...)				
+							
+LingHun_Esoterica	0	I heard you're good at [TXT]? Talk, or what a waste will all of your skills be?	...	Okay... I'll talk. I'll tell you everything...	So what? Do whatever you gotta do...		
+LingHun_Esoterica_Open	0	Someone like you deserve the [TXT]? Give it to me, or the treasure will go to waste. I'll give you a quick death!	...	Okay, okay. I'll tell you... Please stop.	... Humph...		
+							
+LingHun_Secret	0	You've protected the secret of [TXT] for so long. What else do you know? Tell me all!	...	Okay, okay, I'll tell you! Please let me go...	I don't know anything else...		
+LingHun_Secret_Open	0	Tell me everything about [TXT], so you can be free.	...	Okay, okay, I'll tell you! Please let me go...	I don't know anything else...		
+							
+LingHun_KnowClue	0	You're about to die, so why bother keeping these secrets? Tell me all the clues about [TXT], and I'll give you a quick death.	...	I know about this. And other things. I'll tell you everything!	I don't know. I don't know. Don't push me!		
+LingHun_DontKnowClue	0	You're about to die, so why bother keeping these secrets? Tell me all the clues about [TXT], and I'll give you a quick death.	...	I don't know about this, but I know something that might be related to this... I'll tell you, and give me a quick death...	I don't know. I don't know. Don't push me!		
+LingHun_KnowOtherClue	0	You're about to die, so why bother keeping these secrets? Tell me all the clues about [TXT], and I'll give you a quick death.	...	I really have no idea, but I know about the other secrets. I'll tell you all, so please stop...	I don't know. I don't know. Don't push me!		
+							
+LingHun_KnowSecret	0	You're about to die, so why bother keeping these secrets? Tell me all the clues about [TXT], and I'll give you a quick death.	...	I know. I'll tell you everything! Please let me be...	I don't know. I don't know. Don't push me!		
+LingHun_KnowOtherSecret_Open	0	You're about to die, so why bother keeping these secrets? Tell me all the clues about [TXT], and I'll give you a quick death.	...	I don't know, but I know about other secrets. Please stop doing this...	I don't know. I don't know. Don't push me!		
+LingHun_KnowOtherSecret_Close	0	You're about to die, so why bother keeping these secrets? Tell me all the clues about [TXT], and I'll give you a quick death.	...	I don't know about this, and what I know has nothing to do with it. Why are you doing this to me!	I don't know. I don't know. Don't push me!		

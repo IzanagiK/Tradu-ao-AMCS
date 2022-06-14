@@ -1,0 +1,91 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="JobMine">
+			<DisplayName>Minerar</DisplayName>
+		</Text>
+		<Text Name="JobCarry">
+			<DisplayName>Transporte</DisplayName>
+		</Text>
+		<Text Name="JobBuild">
+			<DisplayName>Construir</DisplayName>
+		</Text>
+		<Text Name="JobFixBuilding">
+			<DisplayName>Reparar</DisplayName>
+		</Text>
+		<Text Name="JobMoveBuilding">
+			<DisplayName>Mover construção</DisplayName>
+		</Text>
+		<Text Name="JobSetupBuilding">
+			<DisplayName>Edifício Ereto</DisplayName>
+		</Text>
+		<Text Name="JobPlant">
+			<DisplayName>Plantio</DisplayName>
+		</Text>
+		<Text Name="JobOutFire">
+			<DisplayName>Extinguir o Fogo</DisplayName>
+		</Text>
+		<Text Name="JobHarvest">
+			<DisplayName>Colher</DisplayName>
+		</Text>
+		<Text Name="JobCutoff">
+			<DisplayName>Remover</DisplayName>
+		</Text>
+		<Text Name="JobCutoffTree">
+			<DisplayName>Corta</DisplayName>
+		</Text>
+		<Text Name="JobSeachItem">
+			<DisplayName>Pesquisar</DisplayName>
+		</Text>
+		<Text Name="JobSeachNpc">
+			<DisplayName>Pesquisar</DisplayName>
+		</Text>
+		<Text Name="JobCarryOut">
+			<DisplayName>Saia</DisplayName>
+		</Text>
+		<Text Name="JobDismantle">
+			<DisplayName>Demolir</DisplayName>
+		</Text>
+		<Text Name="JobMakeItem">
+			<DisplayName>Criar</DisplayName>
+		</Text>
+		<Text Name="JobRemoveFloor">
+			<DisplayName>Remover tábuas do chão</DisplayName>
+		</Text>
+		<Text Name="JobTreatHim">
+			<DisplayName>Curar</DisplayName>
+		</Text>
+		<Text Name="JobCarryToBed">
+			<DisplayName>Levar para a cama</DisplayName>
+		</Text>
+		<Text Name="JobFeedHim">
+			<DisplayName>Cuidar</DisplayName>
+		</Text>
+		<Text Name="JobCarryWater">
+			<DisplayName>Buscar água</DisplayName>
+		</Text>
+		<Text Name="JobExplore">
+			<DisplayName>Explorar</DisplayName>
+		</Text>
+		<Text Name="JobBuryHim">
+			<DisplayName>Enterrar</DisplayName>
+		</Text>
+		<Text Name="JobHunting">
+			<DisplayName>Caçar</DisplayName>
+		</Text>
+		<Text Name="JobSlaughter">
+			<DisplayName>Açougueiro</DisplayName>
+		</Text>
+		<Text Name="JobKill">
+			<DisplayName>Matar</DisplayName>
+		</Text>
+		<Text Name="JobMoveNpc">
+			<DisplayName>Transporte</DisplayName>
+		</Text>
+		<Text Name="JobCleanFloor">
+			<DisplayName>Limpar</DisplayName>
+		</Text>
+		<Text Name="JobSacrifice">
+			<DisplayName>Oferta de sacrifício</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,42 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="MetalBlockBase" sParam="Item">
+			<Item.FabaoSuffix>Metal, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_IronBlock" sParam="Item">
+			<ThingName>Iron Bar</ThingName>
+			<Desc>Metal bar made by casting smelted iron. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>Iron</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperBlock" sParam="Item">
+			<ThingName>Igneocopper Bar</ThingName>
+			<Desc>Metal bar made by casting smelted Igneocopper. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>Igneocopper</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverBlock" sParam="Item">
+			<ThingName>Ice Crystal Bar</ThingName>
+			<Desc>Metal bar made by casting smelted Ice Crystal. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>Ice Crystal</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperBlock1" sParam="Item">
+			<ThingName>Fire Essence Bar</ThingName>
+			<Desc>Metal bar made by smelting a large amount of Igneocopper along with Beast blood. It takes a long time to produce each piece.</Desc>
+			<Item.BeMaterial.NamePrefix>Fire Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverBlock1" sParam="Item">
+			<ThingName>Ice Essence Bar</ThingName>
+			<Desc>Metal bar made by smelting a large amount of Ice Crystals along with Beast blood. It takes a long time to produce each piece.</Desc>
+			<Item.BeMaterial.NamePrefix>Ice Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelBlock" sParam="Item">
+			<ThingName>Darksteel Bar</ThingName>
+			<Desc>Metal bar made by casting smelted Darksteel. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>Darksteel</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceBlock" sParam="Item">
+			<ThingName>Lumina Core Bar</ThingName>
+			<Desc>Metal bar made by casting smelted lumina core. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>Lumina Core</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

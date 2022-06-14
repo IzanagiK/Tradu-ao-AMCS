@@ -1,0 +1,225 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Magic_FenShenZhiShu">
+			<DisplayName>Spirit Splitting</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spirit Splitting\nManipulate your Primordial Spirit, forcing it to split in order to obtain an additional sub-spirit. You will lose Max Qi in this process and age rapidly. The more times you perform the splitting, the higher the price you pay.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_FengshuiItemOpen">
+			<DisplayName>Feng Shui Identifying</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Feng Shui Identifying\nConsume spirit stones to activate a relic and identify its trait.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_GanLingShu">
+			<DisplayName>Timely Rain</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Timely Rain\n Summon rain within a certain area, extinguishing fires and slightly increasing plant growth rate.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi1">
+			<DisplayName>Incantation of Consonance</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Incantation of Consonance\n Try to persuade the opponent to join your side by communicating to them using spirituality. The higher your Attainment, and the greater the difference between your and your opponent's State and Perception, the easier it is to succeed. Reverse control may occur if the difference is too large. Target with Cultivation experience must be unconscious. Can only be used once on each target.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi2">
+			<DisplayName>Chant of Resonance</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Chant of Resonance\n Connect and resonate with each other's mind in an attempt to persuade the opponent to join your side. The higher your Attainment, and the greater the difference between your and your opponent's State, the easier it is to succeed. Reverse control may occur if the difference is too large. The success rate is significantly higher if both sides have similar adulthood traits or blood relatives. Target with Cultivation experience must be unconscious. This is a very risky magic. If it fails, the target will die and you will be injured.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi3">
+			<DisplayName>Celestial Demon Dance</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Celestial Demon Dance\n Perform a dance of a celestial demon and convert the target to your side. Reverse control may occur if the difference is too large. As time passes, the possibility of target waking up increases. The greater the difference between your and your opponent's State and Charisma, the lower the possibility of waking up. Target with Cultivation experience must be unconscious. The target's mind is damaged every time this magic is performed.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi4">
+			<DisplayName>Five Spiritual Imprints</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Five Spiritual Imprints\n Brainwash the target with overwhelming magic, converting it to your side for a period of time. Reverse control may occur if the difference is too large. The greater the difference between your and your opponent's State and Intelligence, the longer it will last. Target with Cultivation experience must be unconscious. The lasting time of the magic become longer each time it is performed, but it will deal irreparable damage to the target's Perception.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine">
+			<DisplayName>Primeval Earth Wonder</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Mountain Shaping\n Consume a large amount of psychic power to pull out minerals from deep underground. \nLearn Miracle: Lake Shaping\n Perform a miracle and transform an area into one of shallow water. \nLearn Miracle: Land Shaping\n Perform a miracle and transform an area into one of land.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RebornSelf">
+			<DisplayName>Reverie Rebirth</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nRebirth Pill\nLearn Miracle: Reverie Rebirth\nUnique secret technique of the Taiyi Sect. Using the Soul Pearl  as the catalyst, this technique destroys one's own cultivation and burns out one's Golden Core. Thus the way of creation is reversed and one will be reincarnated as a mortal.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_SoulCrystalYouPowerUp">
+			<DisplayName>Specter Refinement</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Specter Refinement\nConsume one Anguish Soul Gem and use on an item, granting a chance to increase the item's tier by 1.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_SoulCrystalLingPowerUp">
+			<DisplayName>Spiritual Refinement</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spiritual Refinement\nConsume one Spiritual Amber and use on an item, granting a chance to increase the item's Qi Containment Rate (if the item is an artifact, Qi Capacity is increased instead).[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_MakeSoulCrystal">
+			<DisplayName>Soul Chant</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Soul Chant\nUse on an uncultivated character, dying character or Sentient Spirits to collect their Soul Gem. Can only be used once on each target.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_MakePuppet">
+			<DisplayName>Soul Mastery</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Soul Mastery\nUse on a dead body to awaken it. The awakened body can undertake simple physical labor, with quality related to its cultivational state while it was alive.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuidPuppet">
+			<DisplayName>Ensoulment</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Ensoul\nRelease upon a vessel to endow it with a soul. The ensouled vessel can undertake simple physical labor, with quality related to its tier when crafted.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="SeachSoul">
+			<DisplayName>Soul Inquiry</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Soul Inquiry\nUse on a dying character and you have a certain chance to obtain their secret manual or other knowledge. Performing it at a location with evil Feng Shui could increase the chance of obtaining information.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_ClosedDoor_1">
+			<DisplayName>Meditation</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Meditation\nEnter a meditated state to self-cultivate. Quickly consumes one's lifespan and stamina. Gain Cultivation quickly and increases max Qi.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Aoe_1">
+			<DisplayName>Spiritual Breath Chant</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spiritual Breath Chant\nGo to the designated location to absorb Qi from the environment.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Live_1">
+			<DisplayName>Way of the Reaper</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Way of the Reaper\nUse on a living being without cultivation experience, consuming its lifespan to increase your Qi.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Body_1">
+			<DisplayName>Sanguine Absorption</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Sanguine Absorption\nRefine a body and turn it into your Qi. The higher the state of the body when it was alive, the more Qi you gain.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Thing_1">
+			<DisplayName>One with Mountain</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: One with Mountain\nUse on buildings, plants and minerals on the map to absorb their Qi. The more Qi the target possesses and the higher your max Qi is, the faster your speed of absorption will be.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Item_1">
+			<DisplayName>Palm of Absorption</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Palm of Absorption\nAbsorb the Qi dwelling within an item.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Damage_1">
+			<DisplayName>Panacea</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Panacea\nSet your power in motion to cure a target's Inner Injuries.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildBody_1">
+			<DisplayName>Reconstruction</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Reconstruction\nRegenerate a target's limb, reforging all of their lost body parts.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RobBodyLow_1">
+			<DisplayName>Lesser Possession</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Lesser Possession\nLow-level possessing technique. Seize the body of a living being with no cultivation experience. However, a bulk of the user's cultivation experience will be lost, causing soul incompatibility as a result.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RobBodyHigh_1">
+			<DisplayName>Greater Possession</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Greater Possession\nAdvanced possessing technique. Completely seize the body of a living being with no cultivation experience, but a bulk of the user's cultivation experience will be lost.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_1_1">
+			<DisplayName>Qi Absorption Cauldron</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Qi Absorption Cauldron\nAbsorb the lifespan of a living being with no cultivation experience, increasing one's own cultivation experience and inspiration. More effective on targets with better Physique.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_2_1">
+			<DisplayName>Alluring Illusion</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Alluring Illusion\nCreate an illusionary realm to seduce a living being of the same race as the user with no cultivation experience of the opposite sex, absorbing their lifespan to increase one's own experience and gaining inspiration. More effective on targets with higher Charisma.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_3_1">
+			<DisplayName>Soul Snatcher</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Soul Snatcher\nSeize the body of a living being with no cultivation experience, transmute and harness its power to increase your own cultivation experience while gaining inspiration. More effective with targets of higher Intelligence.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_4_1">
+			<DisplayName>Celestial Demon Incarnation</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Demonization\nCommunicate with the realm of demons from your own consciousness to obtain a faster-than-average cultivation speed. But at the same time, your soul would be subjected to constant and never-ending burning by demonic fire, with the only way to relief it being torturing other living beings, thereby appeasing the demonic mind. \nLearn Miracle: Soul Smelting\nPerform soul-smelting torture on a living being with no cultivation experience of the same race as the user, inflicting enormous pain on them. and takes great pleasure in it.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_5_1">
+			<DisplayName>Exploitation of External Pleasures</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: External Pleasures Exploitation\nTarget a living being with no cultivation experience of the same race as the user. If the target is in an extreme mood (mood bar above 160 or below 40), gain inspiration and cultivation experience from it. Once the miracle is enacted, its effect will persist indefinitely. The more extreme the target's Mood is, the stronger the miracle's effect will be. \nFor each target you enact it on, the base value of your own Mental State and Mood are reduced, and your target become more prone to anger. You can stop performing the miracle by reusing it on the same target.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_6_1">
+			<DisplayName>Soul Infection</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Soul Infection\nRelease on an uncultivated being the same kind as yours, attach a wisp of your primordial spirit onto it and convert the Foundation of the infected target into your Cultivation and Inspiration of equivalent number everyday at 0:00. \nFor each unit you infect, your mind will be damaged and soul split, and the target will be weakened due to the parasite. You can stop performing the miracle by reusing it on the same target.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_7_1">
+			<DisplayName>Sacrifice Offering</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Sacrificial Offering\nOffer a living being with no cultivation experience of the same race as the user as sacrifice to the demonic soul, which will take several random organs, and grant the user a large amount of experience and inspiration in exchange. The stronger the target's Five Attributes, the greater the effects of the sacrifice.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_8_1">
+			<DisplayName>Incantation of Mind Cleansing</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Mind Cleansing Incantation\nCast a spell and grant a living being with no cultivation experience of the same race as the user with a positive mood status.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PlantGrowUp_1">
+			<DisplayName>Chant of Wood Mastery</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Wood Mastery Chant\nConcentrate your primeval Qi and infuse it into a target plant, significantly increasing its growth rate. Lasts 1 day. Less effective on plants of higher tiers. This method is extremely damaging to your primeval Qi, use with care.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_9_1">
+			<DisplayName>Way of Celestial Heart</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Way of Celestial Heart\nConsume 10 years of the user's lifespan to improve their abilities for a short period of time and recover Qi.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_9_2">
+			<DisplayName>Inner Demons Unchained</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Inner Demons Unchained\nConsume Lifespan to improve your abilities and recover Qi for a short period of time.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_10_1">
+			<DisplayName>Wise Detachment</DisplayName>
+			<Desc>A heart trained in the ways of Obliviousness can eliminate all distracting thoughts. By cultivating this method, you acquire the Miracle Wise Detachment, which also allows you to utilize these thoughts and direct them into a new sub-spirit.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Wise Detachment\nCast a spell on a living being with no cultivation experience, removing all of its temporary mood status. \n\nGains one sub-spirit.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LingStoneMake_1">
+			<DisplayName>Spirit Stone Refinement</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spirit Stone Refinement\nCondense Qi into spirit stones.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LingCrystalMake_1">
+			<DisplayName>Spirit Crystal Refinement</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spirit Crystal Refinement\nCondense Qi into Spirit Crystal.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Prophesy_1">
+			<DisplayName>Universal Foresight</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Cyclical Calculation\nAttempt to predict what might happen at the sect's location in the next few days.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Prophesy_MapStory_1">
+			<DisplayName>Derivative Calculation</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Derivative Calculation\nAttempt to predict what might happen at certain location in the future.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LiuRenShensuan">
+			<DisplayName>Astrological Foresight</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Astrological Foresight\nSelect a character to try to learn their whereabouts. The higher your Attainment and the more information you have, the higher the success rate of learning target's whereabouts.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForRain_1">
+			<DisplayName>Rainmaking</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Rain Dance\nBring about a rain through miracle. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForSun_1">
+			<DisplayName>Chant of Cloud Dispelling</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Cloud Dispelling Chant\nBring about sunny weather through miracle. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForRainstorm">
+			<DisplayName>Rainstorm</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Rainstorm Dance\nBring about a rainstorm through miracle during winter and summer. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForFohn">
+			<DisplayName>Foehn Wind</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Foehn Wind\nSummon a gust of foehn wind through miracle during summer and autumn. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForDustStorm">
+			<DisplayName>Dust Devil</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Dust Devil\nBring about a dust storm through miracle during winter and spring. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForMiasma">
+			<DisplayName>Toxic Miasma</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Toxic Miasma\nBring about a cloud of miasma through miracle during spring and summer. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForLightningStorm">
+			<DisplayName>Thunderstorm</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Thunderstorm\nBring about a thunderstorm through miracle during summer and autumn. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForWeather">
+			<DisplayName>Scripture of Heaven Prayer</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Cloud Dispelling Chant\nLearn Miracle: Rainstorm Dance\nLearn Miracle: Foehn Wind\nLearn Miracle: Dust Devil\nLearn Miracle: Toxic Miasma\nLearn Miracle: Thunderstorm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Physique_1">
+			<DisplayName>Marrow Sanitization</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Marrow Sanitization\nPerform a thorough cleansing of a living being with no cultivation experience, increasing their Constitution by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Intelligence_1">
+			<DisplayName>Enlightened Awakening</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Enlightened Awakening\nThoroughly enlighten a living being with no cultivation experience, increasing their Intelligence by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Charisma_1">
+			<DisplayName>Bodily Remolding</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Bodily Remolding\nReconstruct the body and spirit of a living being with no cultivation experience, increasing their Charisma by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Perception_1">
+			<DisplayName>Third Eye</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Third Eye\nActivate the Third Eye on a living being with no cultivation experience, increasing their Perception by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_FenShenZhiShu_1">
+			<DisplayName>Spirit Splitting</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spirit Splitting\nAllows you to obtain a sub-spirit.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>

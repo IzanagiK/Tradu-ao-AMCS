@@ -1,0 +1,39 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Building_Jiaolong_Body" sParam="Building">
+			<ThingName>Flood Dragon Corpse</ThingName>
+			<Desc>The corpse left by a fallen Flood Dragon.</Desc>
+		</Text>
+		<Text Name="Building_Dragon_Hole" sParam="Building">
+			<ThingName>Mysterious Cavern</ThingName>
+			<Desc>The cave often has a mind of its own and will ask you for sacrifices. It can be suppressed by the Feng Shui of the room. Better Feng Shui will make it ask less frequently. Each successful sacrifice will strengthen the cave mind, making it more difficult to suppress.</Desc>
+			<StoryBnts.0.Name>Anger</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to fill the cave.</StoryBnts.0.Desc>
+			<StoryBnts.0.Script>local t = bind.ID; CS.Wnd_Message.Show("The cave mind is extremely powerful, and dangerous. Are you sure you wish to anger it? (If you confirm, an ancient beast will be summoned. Your sect may all be killed at once if you are not prepared well. Please think carefully.) ", 2, function(b) if (b ~= "1") then return end local hole = ThingMgr:FindThingByID(t); if (hole == nil) then return end hole.luaclass:GetTable():BornYaoLong() end)</StoryBnts.0.Script>
+		</Text>
+		<Text Name="Building_Xiongfeng_dan" sParam="Building">
+			<ThingName>Phoenix Egg</ThingName>
+			<Desc>Extremely hot and radiating light, it is trying to absorb Qi and hatch.</Desc>
+		</Text>
+		<Text Name="Building_Xiongfeng_danbroken" sParam="Building">
+			<ThingName>Phoenix Egg</ThingName>
+			<Desc>The egg of a Phoenix whose Qi has dried up and stopped the Nirvana process as a result.</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yingdan" sParam="Building">
+			<ThingName>Egg of Yin</ThingName>
+			<Desc>The egg is trying to hatch. A very auspicious Feng Shui can subdue it.</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yangdan" sParam="Building">
+			<ThingName>Egg of Yang</ThingName>
+			<Desc>The egg is trying to hatch. A very ominous Feng Shui can subdue it.</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yingdan_broken" sParam="Building">
+			<ThingName>Egg of Yin (Dead)</ThingName>
+			<Desc>Dead.</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yangdan_broken" sParam="Building">
+			<ThingName>Egg of Yang (Dead)</ThingName>
+			<Desc>Dead.</Desc>
+		</Text>
+	</List>
+</Texts>

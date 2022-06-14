@@ -1,0 +1,153 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="SYS_LOASBUILDING" sParam="Building">
+			<ThingName>Lost Building</ThingName>
+			<Desc>A lost building that nobody recognizes. \n(Empty)</Desc>
+		</Text>
+		<Text Name="FillSoil" sParam="Building">
+			<ThingName>Soil</ThingName>
+			<Desc>Reconstruct an area into soil. This work will take a long time.</Desc>
+		</Text>
+		<Text Name="FillFertileSoil" sParam="Building">
+			<ThingName>Fertile Soil</ThingName>
+			<Desc>Reconstruct a ground area into fertile soil. This work will take a long time.</Desc>
+		</Text>
+		<Text Name="FillShallowWater" sParam="Building">
+			<ThingName>Shallow Water</ThingName>
+			<Desc>Reconstruct a ground area into shallow water. This work will take a long time.</Desc>
+		</Text>
+		<Text Name="NPCBornPoint_SchoolCore" sParam="Building">
+			<ThingName>Main NPC Spawn Point</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Ordinary" sParam="Building">
+			<ThingName>Mortal Spawn Point</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Random" sParam="Building">
+			<ThingName>Common Cultivator</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Fill" sParam="Building">
+			<ThingName>Filler Cultivator</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_JYMonster" sParam="Building">
+			<ThingName>Beast Spawn Point</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_Animal" sParam="Building">
+			<ThingName>Animal Spawn Point</ThingName>
+		</Text>
+		<Text Name="BDSetPoint_Gong" sParam="Building">
+			<ThingName>Law Spawn Point</ThingName>
+		</Text>
+		<Text Name="NPCBornPoint_RPG" sParam="Building">
+			<ThingName>Character Spawn Point</ThingName>
+		</Text>
+		<Text Name="NormalPoint_RPG" sParam="Building">
+			<ThingName>Logic Point</ThingName>
+		</Text>
+		<Text Name="BDSetPoint_Outs" sParam="Building">
+			<ThingName>Expand Building Foundation</ThingName>
+			<StoryBnts.0.Name>Export Building Content</StoryBnts.0.Name>
+		</Text>
+		<Text Name="FillBuild_Hide" sParam="Building">
+			<Desc>A hidden building, used to refresh the surface of the earth.</Desc>
+		</Text>
+		<Text Name="FillBuild_Empty" sParam="Building">
+			<Desc>Hidden building used for positioning.</Desc>
+		</Text>
+		<Text Name="HideBuild_Empty" sParam="Building">
+			<Desc>Hidden building used for positioning, it's meaningless otherwise</Desc>
+		</Text>
+		<Text Name="Building_SwordTower" sParam="Building">
+			<ThingName>Sword Subduer</ThingName>
+			<Desc>A huge tower underground, seems to be used to suppress something.</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_HenZhiBei" sParam="Building">
+			<ThingName>Stele of Hatred</ThingName>
+			<Desc>A stele with the words "Stele of Hatred" written on it. Who is Hatred?</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LongZhiBei" sParam="Building">
+			<ThingName>Stele of Dragon</ThingName>
+			<Desc>It says "Stele of Dragon" and smells terrible. Do dragons need to be buried, too?</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShouZhiBei" sParam="Building">
+			<ThingName>Stele of Beasts</ThingName>
+			<Desc>Says "Stele of Beasts" on it.</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_JiZhiBei" sParam="Building">
+			<ThingName>Stele of Extremity</ThingName>
+			<Desc>Says "Stele of Extremity" on it.</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_HuanZhiBei" sParam="Building">
+			<ThingName>Stele of Illusion</ThingName>
+			<Desc>Says "Stele of Illusion" on it.</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ZhongBei" sParam="Building">
+			<ThingName>End Stele</ThingName>
+			<Desc>Says "End Stele" on it.</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LingBei" sParam="Building">
+			<ThingName>Spirit Stele</ThingName>
+			<Desc>Says "Spirit Stele" on it.</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_XingBei" sParam="Building">
+			<ThingName>Star Stele</ThingName>
+			<Desc>Says "Star Stele" on it.</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_MuBei" sParam="Building">
+			<ThingName>Wood Stele</ThingName>
+			<Desc>Says "Wood Stele" on it.</Desc>
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TaiYiMen" sParam="Building">
+			<ThingName>Gate of Taiyi</ThingName>
+			<Desc>Front gate of the Taiyi Sect.</Desc>
+			<StoryBnts.0.Name>Visit Sect</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Visit the Taiyi Sect.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="StreetNoLight" sParam="Building">
+			<ThingName>Lamp Post</ThingName>
+			<Desc>A decorative light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Inspect</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="FireLantern" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Inspect</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="GolemLantern" sParam="Building">
+			<ThingName>Lamp Post</ThingName>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Inspect</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="OddLantern" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Inspect</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TaiYiTower" sParam="Building">
+			<ThingName>Subduer Pagoda</ThingName>
+			<Desc>Precious pagoda of Taiyi Sect. It survived the catastrophe.</Desc>
+			<StoryBnts.0.Name>Treasure Hunt</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to search for treasures inside.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

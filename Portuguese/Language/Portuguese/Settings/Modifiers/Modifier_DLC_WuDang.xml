@@ -1,0 +1,36 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Magic_XuanWuHeart">
+			<DisplayName>Peaceful Breath</DisplayName>
+			<Desc>There will be no need for food, water or sleep for 3 days, but movement will become slow.</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuShield">
+			<DisplayName>Darkarmor Shield</DisplayName>
+			<Desc>Drastically increases the Qi barrier and secret body endurance in a short span of time.</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuBreak">
+			<DisplayName>Conquest Breach</DisplayName>
+			<Desc>Significantly decreases Qi Barrier and secret body endurance in a short span of time.</Desc>
+		</Text>
+		<Text Name="Modifier_JinFish">
+			<DisplayName>Golden Claw Essence</DisplayName>
+			<Desc>Increases Qi Barrier and secret body endurance in a short span of time.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou1">
+			<DisplayName>Clear Mind</DisplayName>
+			<Desc>Slightly improves Mental State after praying sincerely and making a wish in the annual Dragon Incense Offering event.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou2">
+			<DisplayName>Higher Level</DisplayName>
+			<Desc>Greatly increases the chance of Breakthrough after praying sincerely and making a wish in the annual Dragon Incense Offering event.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou3">
+			<DisplayName>Good Fortune</DisplayName>
+			<Desc>Slightly increases Defense after praying sincerely and making a wish in the annual Dragon Incense Offering event.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou5">
+			<DisplayName>Greed Punishment</DisplayName>
+			<Desc>Despite the many blessings, receives a divine punishment and significantly decreases the Five Attributes after making too many wishes in the annual Dragon Incense Offering event.</Desc>
+		</Text>
+	</List>
+</Texts>

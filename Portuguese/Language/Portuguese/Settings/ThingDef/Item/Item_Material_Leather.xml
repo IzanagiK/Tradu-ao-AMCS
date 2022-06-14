@@ -1,0 +1,58 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="LeatherBase" sParam="Item">
+			<Item.FabaoSuffix>Leather, Cover, Barrier</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BoarLeather" sParam="Item">
+			<ThingName>Boar Hide</ThingName>
+			<Desc>Boar skin with a rough texture, but it's relatively firm.</Desc>
+			<Item.BeMaterial.NamePrefix>Boar Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_RabbitLeather" sParam="Item">
+			<ThingName>Rabbit Hide</ThingName>
+			<Desc>The fur of a rabbit, very soft and warm.</Desc>
+			<Item.BeMaterial.NamePrefix>Rabbit Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BearLeather" sParam="Item">
+			<ThingName>Bear Hide</ThingName>
+			<Desc>The fur of a bear, very soft and warm.</Desc>
+			<Item.BeMaterial.NamePrefix>Bear Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_WolfLeather" sParam="Item">
+			<ThingName>Wolf Hide</ThingName>
+			<Desc>A piece of wolf hide, firm and durable.</Desc>
+			<Item.BeMaterial.NamePrefix>Wolf Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_FeiLeather" sParam="Item">
+			<ThingName>Fei Hide</ThingName>
+			<Desc>Hide of the demon beast Fei with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking Qi damage.</Desc>
+			<Item.BeMaterial.NamePrefix>Fei Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LuShuLeather" sParam="Item">
+			<ThingName>Lushu Hide</ThingName>
+			<Desc>Hide of the spirit beast Lushu, with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking Qi damage.</Desc>
+			<Item.BeMaterial.NamePrefix>Lushu Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CattleLeather" sParam="Item">
+			<ThingName>Bull Hide</ThingName>
+			<Desc>A piece of bull hide, firm and durable.</Desc>
+			<Item.BeMaterial.NamePrefix>Bull Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_TigerLeather" sParam="Item">
+			<ThingName>Tiger Hide</ThingName>
+			<Desc>A piece of tiger hide, firm and durable.</Desc>
+			<Item.BeMaterial.NamePrefix>Tiger Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YaoLeather" sParam="Item">
+			<ThingName>Demon Beast Hide</ThingName>
+			<Desc>Hide of a demon beast, with demonic power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking Qi damage.</Desc>
+			<Item.BeMaterial.NamePrefix>Demon Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YaoLeather1" sParam="Item">
+			<ThingName>Tough Demon Beast Hide</ThingName>
+			<Desc>Hide of a great demon beast, with powerful demonic power dwelling within it. Warm in winter and cool in summer. It is even capable of effectively blocking Qi damage.</Desc>
+			<Item.BeMaterial.NamePrefix>Tough Demon Hide</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

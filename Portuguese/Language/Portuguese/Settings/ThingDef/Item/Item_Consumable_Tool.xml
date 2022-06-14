@@ -1,0 +1,113 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Dice" sParam="Item">
+			<ThingName>Dice</ThingName>
+			<Desc>A pair of dice that can be used to eliminate boredom and improve mood when one is free, but they will hinder work efficiency.</Desc>
+			<Item.FabaoSuffix>Dice</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SmallBell" sParam="Item">
+			<ThingName>Bell</ThingName>
+			<Desc>A small bell, taking it with you improves your mood, as well as attracts the attention of others, making them more willing to communicate with you.</Desc>
+			<Item.FabaoSuffix>Bell</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Bracelet" sParam="Item">
+			<ThingName>Bracelet</ThingName>
+			<Desc>A pair of bracelets, wearing them makes you more attractive.</Desc>
+			<Item.FabaoSuffix>Bracelet, Carving</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Handkerchief" sParam="Item">
+			<ThingName>Handkerchief</ThingName>
+			<Desc>A handkerchief, carrying it makes you a person of manners in the eyes of others.</Desc>
+			<Item.FabaoSuffix>Handkerchief, Silk, Textile</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PerfumeBag" sParam="Item">
+			<ThingName>Scented Sachet</ThingName>
+			<Desc>A small bag of fragrant herbs and spices, it improves one's Mental State when worn by an inner disciple.</Desc>
+			<Item.FabaoSuffix>Bag</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WhiteHair" sParam="Item">
+			<ThingName>Poems of Sadness</ThingName>
+			<Desc>A collection of poems with a strong sense of sorrow. The carrier's hair will become white due to the book's influence and diffuse a melancholic vibe, which makes one feel attractive.</Desc>
+			<Item.FabaoSuffix>Volume, Book, Slips, Scroll</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_PerfectWorld" sParam="Item">
+			<ThingName>A Beautiful World</ThingName>
+			<Desc>A box from another world. By immersing one's mind into it, one can play an interesting and touching game.</Desc>
+			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_QiYuanZhiXin" sParam="Item">
+			<ThingName>Heart of Prayer</ThingName>
+			<Desc>Treasure that manifested into existence by the mortals' prayers and wishes for happiness.</Desc>
+			<Item.FabaoSuffix>Heart</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_DongFangHeShenZhen" sParam="Item">
+			<ThingName>Spike of the He Sect</ThingName>
+			<Desc>This object was originally a sword immortal's Artifact of choice. Although it lost all its power in the process of reincarnation with its master, its extraordinary essence still remains.</Desc>
+			<Item.FabaoSuffix>Needle</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_MuBai_BaiYuShi" sParam="Item">
+			<ThingName>White Jade</ThingName>
+			<Desc>A piece of white jade stone left by the Immortal Pearlwood. While looking ordinary, it can greatly improve the Natural Resilience of the wearer.</Desc>
+			<Item.FabaoSuffix>Rock</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_QingLianShan_SiXiang" sParam="Item">
+			<ThingName>Painting of the Four Symbols</ThingName>
+			<Desc>A mysterious diagram left by the Immortal Caerulea with great power. Carrier of the painting can utilize local Qi energy and the rotation power of the four seasons in the Boundless Universe to deceive the way of Heaven for 9 years, being immune from Heavenly Tribulation. If the painting scroll is unequipped during this process, the Heavenly Tribulation will arrive immediately.</Desc>
+			<Item.FabaoSuffix>Picture</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Other_PuppetTest" sParam="Item">
+			<ThingName>Vessel</ThingName>
+			<Desc>A Vessel. It is said that there is a secret method of endowing a Vessel with Blessing recorded in Sixteen Supreme Steps Law.</Desc>
+			<Item.FabaoSuffix>Vessel</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_RabbitLuck" sParam="Item">
+			<ThingName>Rabbit Demon's Foot</ThingName>
+			<Desc>It is said to bring good fortune.</Desc>
+		</Text>
+		<Text Name="Item_Yao_WolfAtk" sParam="Item">
+			<ThingName>Wolf Demon's Fang</ThingName>
+			<Desc>An intact Wolf Demon fang full of negative energy. Wearing it greatly increase a character's Artifact damage.</Desc>
+		</Text>
+		<Text Name="Item_Yao_SnakeHanLin" sParam="Item">
+			<ThingName>Snake Demon's Scale</ThingName>
+			<Desc>Scale which has a concentration of Yin Qi of a Snake Demon. Allows one to be invulnerable to high temperature and having a pristine Mental State.</Desc>
+		</Text>
+		<Text Name="Item_Yao_BearPiMao" sParam="Item">
+			<ThingName>Bear Demon's Fur</ThingName>
+			<Desc>The finest hairs from a Bear Demon's neck, with boisterous Yang Qi dwelling within it. Wearing it allows one to be invulnerable to low temperature and increases cultivation speed.</Desc>
+		</Text>
+		<Text Name="Item_Yao_TurtleKe" sParam="Item">
+			<ThingName>Giant Turtle's Shell</ThingName>
+			<Desc>The very sturdy shell of a Giant Turtle, wearing it could hugely increase one's resistance to Qi damage.</Desc>
+		</Text>
+		<Text Name="Item_Yao_TigerZhui" sParam="Item">
+			<ThingName>Tiger King's Bone</ThingName>
+			<Desc>Bone slice of a tiger Yaoguai resplendent with authoritative power. Wearing it improves one's Charisma and Attainment.</Desc>
+		</Text>
+		<Text Name="Item_Yao_CattleJiao" sParam="Item">
+			<ThingName>Yaoguai Bull's Horn</ThingName>
+			<Desc>The tempered hard horn of a Yaoguai bull. Wearing it improves Constitution.</Desc>
+		</Text>
+		<Text Name="Item_Yao_ChickenGuan" sParam="Item">
+			<ThingName>Gold Suncrown</ThingName>
+			<Desc>Precious crown created by concentrating Solar Essence on the top of the head of a chicken Yaoguai. Wearing it improves one's Perception and Intelligence.</Desc>
+		</Text>
+		<Text Name="Item_StoneCutter" sParam="Item">
+			<ThingName>Scraper</ThingName>
+			<Desc>Knife with a very dull edge, originally intended for jade mining. Due to its nature as a blunt instrument, it can build very fast.</Desc>
+		</Text>
+		<Text Name="Item_SewingDefender" sParam="Item">
+			<ThingName>Cloth Gauntlet</ThingName>
+			<Desc>Although looks like a simple bracer, it can speed up sewing work by utilizing one's elbow strength.</Desc>
+		</Text>
+		<Text Name="Item_MillVell" sParam="Item">
+			<ThingName>Facemask</ThingName>
+			<Desc>Since no one will recognize you once you covered your face, you can knead the dough or speed up other handcrafting works however you want, as no one can tell whether you did it well or not.</Desc>
+		</Text>
+		<Text Name="Item_Sys_RanSeYu" sParam="Item">
+			<ThingName>Dyed Jade</ThingName>
+			<Desc>A peculiar kind of jade. Once activated with spell, it can be turned into smoke and attached to a person without being detected. But the caster of the spell will be able trace it.</Desc>
+			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

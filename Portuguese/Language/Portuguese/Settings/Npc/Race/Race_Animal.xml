@@ -1,0 +1,100 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Rabbit">
+			<DisplayName>Rabbit</DisplayName>
+			<Desc>Common Animal: Rabbit</Desc>
+			<TalkBefore>Squeak squeak,</TalkBefore>
+			<TalkAfter>, squeak~!</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="Chicken">
+			<DisplayName>Chicken</DisplayName>
+			<Desc>Common Animal: Chicken</Desc>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+			<TalkBefore>Cluck cluck duh,</TalkBefore>
+			<TalkAfter>, cluck cluck!</TalkAfter>
+		</Text>
+		<Text Name="Wolf">
+			<DisplayName>Wolf</DisplayName>
+			<Desc>Common Animal: Wolf</Desc>
+			<TalkBefore>Howl,</TalkBefore>
+			<TalkAfter>, howl howl!</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="Snake">
+			<DisplayName>Snake</DisplayName>
+			<Desc>Common Animal: Snake</Desc>
+			<TalkBefore>Sssss,</TalkBefore>
+			<TalkAfter>, sssss!</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="Boar">
+			<DisplayName>Boar</DisplayName>
+			<Desc>Common Animal: Boar</Desc>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+			<TalkBefore>Oink oink,</TalkBefore>
+			<TalkAfter>, oink!</TalkAfter>
+		</Text>
+		<Text Name="Bear">
+			<DisplayName>Bear</DisplayName>
+			<Desc>Common Animal: Bear</Desc>
+			<TalkBefore>Growl growl,</TalkBefore>
+			<TalkAfter>, growl!</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="Turtle">
+			<DisplayName>Turtle</DisplayName>
+			<Desc>Common Animal: Turtle</Desc>
+			<TalkBefore>Clank,</TalkBefore>
+			<TalkAfter>, clank!</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="Frog">
+			<DisplayName>Frog</DisplayName>
+			<Desc>Common Animal: Frog</Desc>
+			<TalkBefore>Croak croak,</TalkBefore>
+			<TalkAfter>, croak!</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="Fei">
+			<DisplayName>Fei</DisplayName>
+			<Desc>Common Beast: Fei</Desc>
+		</Text>
+		<Text Name="Lushu">
+			<DisplayName>Lushu</DisplayName>
+			<Desc>Common Beast: Lushu</Desc>
+		</Text>
+		<Text Name="Cat">
+			<DisplayName>Cat</DisplayName>
+			<Desc>Common Animal: Cat</Desc>
+			<TalkBefore>Meow,</TalkBefore>
+			<TalkAfter>, meow!</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="Cattle">
+			<DisplayName>Bull</DisplayName>
+			<Desc>Common Animal: Bull</Desc>
+			<TalkBefore>Moo moo,</TalkBefore>
+			<TalkAfter>, moo moo!</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+		<Text Name="Tiger">
+			<DisplayName>Tiger</DisplayName>
+			<Desc>Common Animal: Tiger</Desc>
+			<TalkBefore>Roar roar,</TalkBefore>
+			<TalkAfter>, growl!</TalkAfter>
+			<MaleName>Male</MaleName>
+			<FemaleName>Female</FemaleName>
+		</Text>
+	</List>
+</Texts>

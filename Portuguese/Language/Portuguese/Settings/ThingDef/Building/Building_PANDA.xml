@@ -1,0 +1,28 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="LsPanda_Carve" sParam="Building">
+			<ThingName>Divine Panda Statue</ThingName>
+			<Desc>Statue of a divine panda. Can be used to revive or summon a divine panda.</Desc>
+		</Text>
+		<Text Name="BambooBed" sParam="Building">
+			<ThingName>Bamboo Bed</ThingName>
+			<Desc>A cozy bamboo single bed that can provide you with a good night's sleep.</Desc>
+		</Text>
+		<Text Name="Building_BambooScreen1" sParam="Building">
+			<ThingName>Bamboo Folding Screen</ThingName>
+		</Text>
+		<Text Name="Building_WaterWheel" sParam="Building">
+			<ThingName>Waterwheel</ThingName>
+		</Text>
+		<Text Name="Building_BambooScreen2" sParam="Building">
+			<ThingName>Bamboo Folding Screen</ThingName>
+		</Text>
+		<Text Name="BambooLight" sParam="Building">
+			<ThingName>Bamboo Lamp Post</ThingName>
+			<Desc>A decorative light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="Building_BambooPavilion" sParam="Building">
+			<ThingName>Bamboo Pavilion</ThingName>
+		</Text>
+	</List>
+</Texts>

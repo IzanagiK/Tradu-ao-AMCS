@@ -1,0 +1,10 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="RPGOnlineNpc">
+			<DisplayName>Test</DisplayName>
+			<Selections.0.Display>Faça upload do personagem</Selections.0.Display>
+			<Selections.1.Display>Convocar um inimigo</Selections.1.Display>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>

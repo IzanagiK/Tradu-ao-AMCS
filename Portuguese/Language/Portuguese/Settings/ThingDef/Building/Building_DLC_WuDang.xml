@@ -1,0 +1,175 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="LsXuanWu_Carve" sParam="Building">
+			<ThingName>Black Tortoise Statue</ThingName>
+			<Desc>Statue of a Black Tortoise. Can be used to revive or summon Black Tortoise.</Desc>
+		</Text>
+		<Text Name="ZhenWuCarve" sParam="Building">
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+			<ThingName>Perfected Warrior Emperor Statue</ThingName>
+			<Desc>A sacred statue of Perfected Warrior Emperor for worship, with inviolable divine might and boundless blessings.</Desc>
+		</Text>
+		<Text Name="TurTleMonu" sParam="Building">
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+			<ThingName>Bixi Memorial Stele</ThingName>
+			<Desc>Legend has it that millennia ago, Yu the Great tamed Bixi the Turtle, using it to dredge, divert rivers and control floods. Its contributions are all recorded on this stele.</Desc>
+		</Text>
+		<Text Name="IncenseTripod" sParam="Building">
+			<ThingName>Incense Cauldron</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+			<Desc>A Taoist cauldron used for burning incense sticks to calm nerves.</Desc>
+		</Text>
+		<Text Name="DragonIncense" sParam="Building">
+			<ThingName>Dragon Incense</ThingName>
+			<StoryBnts.0.Name>Worship</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to worship with Dragon Incense.</StoryBnts.0.Desc>
+			<Desc>A miracle in the Southrock Palace that stands on the cliffs of the WuDang Mountains. One must climb on all fours to offer incense. One misstep will lead to a fall off the mountains.</Desc>
+		</Text>
+		<Text Name="RedWallDownLeft" sParam="Building">
+			<ThingName>Red Wall Corner (L)</ThingName>
+			<Desc>A wall unique to WuDang Sect. Though mighty and impressive, it cannot be used to create a room.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallDownLeft2" sParam="Building">
+			<ThingName>Red Wall Corner (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeft" sParam="Building">
+			<ThingName>Red Wall Corner (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeft2" sParam="Building">
+			<ThingName>Red Wall Corner (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidUp" sParam="Building">
+			<ThingName>Curved Red Wall (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidUp2" sParam="Building">
+			<ThingName>Curved Red Wall (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidRight" sParam="Building">
+			<ThingName>Curved Red Wall (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidRight2" sParam="Building">
+			<ThingName>Curved Red Wall (L)</ThingName>
+		</Text>
+		<Text Name="RedWallVertical" sParam="Building">
+			<ThingName>Red wall mid (L)</ThingName>
+		</Text>
+		<Text Name="RedWallVerticalHalf" sParam="Building">
+			<ThingName>Red Wall End (L)</ThingName>
+		</Text>
+		<Text Name="RedWallHorizontalHalf" sParam="Building">
+			<ThingName>Red Wall End (L)</ThingName>
+		</Text>
+		<Text Name="RedWallHorizontal" sParam="Building">
+			<ThingName>Red Wall (L)</ThingName>
+		</Text>
+		<Text Name="RedWallDownLeftTiny" sParam="Building">
+			<ThingName>Red Wall Small Corner (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeftTiny" sParam="Building">
+			<ThingName>Red Wall Small Corner (L)</ThingName>
+		</Text>
+		<Text Name="RedWallGate" sParam="Building">
+			<ThingName>Taoist Pagoda</ThingName>
+			<Desc>A grand, solemn-looking Taoist pagoda.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallDrum" sParam="Building">
+			<ThingName>Taichi Drum</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+			<Desc>A decorative structure. It can affect the Five Elements of its surroundings based on its materials.</Desc>
+		</Text>
+		<Text Name="WuDangBigGate" sParam="Building">
+			<ThingName>WuDang Gate</ThingName>
+			<Desc>A majestic gate of WuDang Sect.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangScreen" sParam="Building">
+			<ThingName>Black Phoenix Screen</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangFlag" sParam="Building">
+			<ThingName>WuDang Banner</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXiangLu" sParam="Building">
+			<ThingName>Dragon Censer</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangPuTuan" sParam="Building">
+			<ThingName>Trigrams Cushion</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXianHeDeng" sParam="Building">
+			<ThingName>Gruidae Lantern</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangDivine" sParam="Building">
+			<ThingName>Sacred Nimbus Plate</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+			<Desc>A structure unique to the WuDang Mountains that is engraved with the sacred title of Perfected Warrior Emperor.</Desc>
+		</Text>
+		<Text Name="WuDangJinDian" sParam="Building">
+			<ThingName>Golden Hall</ThingName>
+			<Desc>A miraculous wonder that stands atop the mountain peak of WuDang Sect. Blessed by the divine might of Perfected Warrior Emperor, it contains the arcane secret of the ultimate WuDang skill to be learnt and practiced by cultivators lucky enough to find it.</Desc>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Meditate on the heavenly ways dwelling within it.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXuanWuDeng" sParam="Building">
+			<ThingName>Black Tortoise Lantern</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChaShu1" sParam="Building">
+			<ThingName>Cloudpeak Tea Plant</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChaShu2" sParam="Building">
+			<ThingName>Cloudpeak Tea Plant</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong1" sParam="Building">
+			<ThingName>WuDang Pine Tree</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_WuDangSong2" sParam="Building">
+			<ThingName>WuDang Pine Tree</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong3" sParam="Building">
+			<ThingName>WuDang Pine Tree</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong4" sParam="Building">
+			<ThingName>WuDang Pine Tree</ThingName>
+		</Text>
+		<Text Name="Table_TaiZi" sParam="Building">
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_BigSwordPillar_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_XiaoDanLu1_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShiBei_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to interact with it with your Perception.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,234 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Practice">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick while Training.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend]'s appearance while Training.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] while Training.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to eat [obj_food] while Training.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their own [obj_relation] while Training.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind while Training.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry while Training.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious while Training.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] while Training.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that this lifestyle sure was great while at the same time Training.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that cultivators are great and all but they really don't have it easy while Training.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to go down the mountain and have an adventure while Training.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] was influenced by the emotion of[rand_lable=obj_badmood,obj_goodmood] while Training.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] can't help but to worry about breaking through the plateau of [obj_neck] while Training.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] sighed deeply realizing that [obj_gong] truly was profound while Training.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but wonder if [obj_gong] really was something that was suitable for themselves while Training.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly doubted [obj_esoterica] while Training, could it be that this Manual has an error?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help sighing at [obj_esoterica] while Training as this Manual truly is fantastic.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] really wanted to try driving [obj_fabao] while Training, just to get a feel.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] while Training.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to take a stab at [obj_friend] while Training.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] remembered the Practice Room at [obj_goodschool] while Training.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted a match with [obj_badschool] while Training.</Events.23.Story>
+		</Text>
+		<Text Name="Brokening">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. While having difficulties with [obj_neck], [name] is feeling homesick.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] while having difficulties with [obj_neck].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] while having difficulties with [obj_neck].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] while having difficulties with [obj_neck].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their own [obj_relation] while having difficulties with [obj_neck].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind while having difficulties with [obj_neck].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started crying while having difficulties with [obj_neck].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious while having difficulties with [obj_neck].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] felt the desire to go visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] while having difficulties with [obj_neck].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that this lifestyle sure was great while having difficulties with [obj_neck].</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that cultivators are great and all but they really don't have it easy while having difficulties with [obj_neck].</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to go down the mountain and have an adventure while having difficulties with [obj_neck].</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] was influenced by the emotion of [rand_lable=obj_badmood,obj_goodmood] while having difficulties with [obj_neck].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] can't help but to worry about breaking through the plateau of [obj_neck] while having difficulties with [obj_neck].</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] sighed deeply realizing that [obj_gong] truly was profound while having difficulties with [obj_neck].</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but wonder if [obj_gong] really was something that was suitable for themselves while having difficulties with [obj_neck].</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly doubted [obj_esoterica] while having difficulties with [obj_neck], could it be that this Manual has an error?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help sighing at [obj_esoterica] while having difficulties with [obj_neck] as this Manual truly is fantastic.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] really wanted to try driving [obj_fabao] while having difficulties with [obj_neck], just to get a feel.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] while having difficulties with [obj_neck].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to take a stab at [obj_friend] while having difficulties with [obj_neck].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] remembered the Practice Room at [obj_goodschool] while having difficulties with [obj_neck].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted a match with [obj_badschool] while having difficulties with [obj_neck].</Events.23.Story>
+		</Text>
+		<Text Name="BrokenFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather][name], while having difficulties with [obj_neck], lost one's nerve due to the emotion of [rand_lable=obj_badmood,obj_goodmood], failed, and regretted it.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather][name], while having difficulties with [obj_neck], got homesick, felt ill at ease, failed, and regretted it.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather][name], while having difficulties with [obj_neck], was distracted by [obj_nearthing] nearby, fell one step short and regretted it.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather][name], while having difficulties with [obj_neck], wanted to eat [obj_food], lost focus, failed, and regretted it.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather][name], while having difficulties with [obj_neck], recalled their [obj_relation], wavered, failed, and regretted it.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather][name], while having difficulties with [obj_neck], lost focus, failed, and regretted it.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but to worry about performing a Breakthrough while having difficulties with [obj_neck].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] doubted their own ability while having difficulties with [obj_neck], failed and regretted it</Events.8.Story>
+		</Text>
+		<Text Name="Golding">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick while shaping golden core.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] while shaping golden core.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] while shaping golden core.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to eat [obj_food] while shaping golden core.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their own [obj_relation] while shaping golden core.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind while shaping golden core.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry while shaping golden core.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious while shaping golden core.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] felt the desire to go visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] while shaping golden core.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that this lifestyle sure was great while shaping golden core.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that cultivators are great and all but they really don't have it easy while shaping golden core.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to go down the mountain and have an adventure while shaping golden core.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] was influenced by the emotion of [rand_lable=obj_badmood,obj_goodmood] while shaping golden core.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but to worry about successfully performing [obj_neck]'s Breakthrough while shaping golden core.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] sighed deeply realizing that [obj_gong] truly was profound while shaping golden core.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but wonder if [obj_gong] really was something that they were suitable for training while shaping golden core.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly doubted [obj_esoterica] while shaping golden core. Could it be that this Manual has an error?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help sighing at [obj_esoterica] while shaping golden core as this Manual truly is fantastic.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] really wanted to try driving [obj_fabao] while shaping golden core, just to get a feel.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] while shaping golden core.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to take a stab at[obj_friend] while shaping golden core.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] remembered the Practice Room at [obj_goodschool] while shaping golden core.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted a match with [obj_badschool] while shaping golden core.</Events.23.Story>
+		</Text>
+		<Text Name="Thundering">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick while surviving a Tribulation.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] while surviving a Tribulation.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] while surviving a Tribulation.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to eat [obj_food] while surviving a Tribulation.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] Suddenly started thinking of their own [obj_relation] while surviving a Tribulation.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind while surviving a Tribulation.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry while surviving a Tribulation.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious while surviving a Tribulation.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to go to[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] to take a look, while surviving a Tribulation.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that this lifestyle sure was great while surviving a Tribulation.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that cultivators are great and all but they really don't have it easy, while surviving a Tribulation.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to go down the mountain and have an adventure while surviving a Tribulation.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] was influenced by the emotion of [rand_lable=obj_badmood,obj_goodmood] while surviving a Tribulation.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but to worry about sucessfully performing [obj_neck]'s Breakthrough while surviving a Tribulation.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] sighed deeply realizing that [obj_gong] truly was profound while surviving a Tribulation.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but wonder if [obj_gong] really was something that was suitable for themselves, while surviving a Tribulation.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly doubted [obj_esoterica] while surviving a Tribulation, could it be that this Manual has an error?</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help sighing at [obj_esoterica] while surviving a Tribulation, as this Manual truly is fantastic.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] really wanted to try driving [obj_fabao] while surviving a Tribulation, just to get a feel.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] while surviving a Tribulation.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to take a stab at [obj_friend] while surviving a Tribulation.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] remembered the Practice Room at [obj_goodschool] while surviving a Tribulation.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted a match with [obj_badschool] while surviving a Tribulation.</Events.22.Story>
+		</Text>
+		<Text Name="RefiningDan">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick while crafting [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] while crafting [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] while crafting [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] while crafting [obj].</Events.5.Story>
+			<Events.6.Story>[obj], [rand_lable=desc_time,desc_place,desc_weather] suddenly started thinking of their own [obj_relation], while crafting [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [obj]'s mind while crafting [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry while crafting [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious while crafting [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] while crafting [obj].</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that this lifestyle sure was great, while at the same time crafting [obj].</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that cultivators are great and all but they really don't have it easy, while crafting [obj].</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to go down the mountain and have an adventure while crafting [obj].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] was influenced by the emotion of [rand_lable=obj_badmood,obj_goodmood] while crafting [obj].</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] coiuldn't help but to worry about successfully performing [obj]'s Breakthrough while crafting [obj].</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] sighed deeply realizing that [obj_gong] truly was profound while crafting [obj].</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but wonder if [obj_gong] really was something that was suitable for themselves, while crafting [obj].</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly doubted [obj_esoterica] while crafting [obj], could it be that this Manual has an error?</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help sighing at [obj_esoterica] while crafting [obj], as this Manual truly is fantastic.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] really wanted to try driving [obj_fabao] while crafting [obj], just to get a feel.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] while crafting [obj].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to take a stab at [obj_friend] while crafting [obj].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] remembered the Practice Room at [obj_goodschool] while crafting [obj].</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted a match with [obj_badschool] while crafting [obj].</Events.24.Story>
+		</Text>
+		<Text Name="RefiningDanFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. While crafting [obj], [name] lost one's nerve due to the emotion of[rand_lable=obj_badmood,obj_goodmood], failed, and regretted it.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. While crafting [obj], [name] got homesick, felt ill at ease, failed, and regretted it.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. While crafting [obj], [name] was distracted by [obj_nearthing] nearby, fell one step short and regretted it.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather][name],while crafting [obj], [name] wanted to eat [obj_food], lost focus, failed, and regretted it.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. While crafting [obj], [name] recalled their own [obj_relation], wavered, failed, and regretted it.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. While crafting [obj], [name] lost focus, failed, and regretted it.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but to worry about successfully performing [obj]'s Breakthrough, failed at refining it, and regretted it.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] doubted their own ability while crafting [obj], failed at refining it and regretted it</Events.8.Story>
+		</Text>
+		<Text Name="Refining">
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick while smelting [obj] into an artifact.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] while smelting [obj] into an artifact.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] while smelting [obj] into an artifact.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to eat [obj_food] while smelting [obj] into an artifact.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of their own [obj_relation] while smelting [obj] into an artifact.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [obj]'s mind while smelting [obj] into an artifact.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] started to cry while smelting [obj] into an artifact.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious while smelting [obj] into an artifact.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] felt a desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] while smelting [obj] into an artifact.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that this lifestyle sure was great while smelting [obj] into an artifact.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] thought that cultivators are great and all but they really don't have it easy, while smelting [obj] into an artifact.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] wanted to go down the mountain and have an adventure, while smelting [obj] into an artifact.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] was influenced by the emotion of [rand_lable=obj_badmood,obj_goodmood] while smelting [obj] into an artifact.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but to worry about successfully perfoming [obj]'s Breakthrough while smelting [obj] into an artifact.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] sighed deeply realizing that [obj_gong] truly was profound, while smelting [obj] into an artifact.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but wonder if [obj_gong] really was something that was suitable for themselves, while smelting [obj] into an artifact.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly doubted [obj_esoterica] while smelting [obj] into an artifact, could it be that this Manual has an error?</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help sighing at [obj_esoterica] while smelting [obj] into an artifact, as this Manual truly is fantastic.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] really wanted to try driving [obj_fabao] while smelting [obj] into an artifact, just to get a feel.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] while smelting [obj] into an artifact.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to take a stab at [obj_friend] while smelting [obj] into an artifact.</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] remembered the Practice Room at [obj_goodschool] while smelting [obj] into an artifact.</Events.24.Story>
+			<Events.25.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted a match with [obj_badschool], while smelting [obj] into an artifact.</Events.25.Story>
+		</Text>
+		<Text Name="RefiningFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. While smelting [obj] into an artifact, [name] lost one's nerve due to the emotion of [rand_lable=obj_badmood,obj_goodmood], failed, and regretted it.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. While smelting [obj] into an artifact, [name] got homesick, felt ill at ease, failed, and regretted it.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. While smelting [obj] into an artifact, [name] was distracted by [obj_nearthing] nearby, fell one step short and regretted it.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. While smelting [obj] into an artifact, [name] wanted to eat [obj_food], lost focus, failed, and regretted it.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. While smelting [obj] into an artifact, [name] recalled their own [obj_relation], wavered, failed, and regretted it.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. While smelting [obj] into an artifact, [name] lost focus, failed, and regretted it.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] couldn't help but to worry about performing a Breakthrough while smelting [obj] into an artifact, failed at smelting it, and regretted it.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] doubted their own ability while smelting [obj] into an artifact, failed at smelting it and regretted it</Events.8.Story>
+		</Text>
+		<Text Name="PaintCharm">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick while drawing [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend] while drawing [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing] while drawing [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food], while drawing [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking of [ITS] own [obj_relation], while drawing [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling 's mind, while drawing [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry, while drawing [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious, while drawing [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather].  [name] suddenly felt the desire to visit, while drawing [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] thought that this lifestyle sure was great.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] thought that cultivators are great and all but they really don't have it easy.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] wanted to go down the mountain and have an adventure.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] was influenced by the emotion of[rand_lable=obj_badmood,obj_goodmood].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] couldn't help but to worry about successfully performing [obj]'s Breakthrough.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] sighed deeply realizing that [obj_gong] truly was profound.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] couldn't help but wonder if [obj_gong] really was something that was suitable for themselves.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] suddenly doubted [obj_esoterica], could it be that this Manual has an error?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] couldn't help sighing at [obj_esoterica] as this Manual truly is fantastic.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] really wanted to try driving [obj_fabao], just to get a feel.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] didn't know why but really wanted to eat a [obj_dan].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] didn't know why but really wanted to take a stab at [obj_friend].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] remembered the Practice Room at [obj_goodschool].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy drawing [obj], [name] suddenly wants a match with [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="CastMagic">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is feeling homesick while casting [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name]'s mind started drifting toward [obj_friend],  while casting [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the nearby [obj_nearthing]  while casting [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food] while casting [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. Suddenly started thinking of their [obj_relation] while casting [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. A great many thoughts and feelings began filling [name]'s mind while casting [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started to cry while casting [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt anxious while casting [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] felt a desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] while casting [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. While casting [obj], [name] thought that this lifestyle sure was great.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy casting [obj], [name] thought that cultivators are great and all but they really don't have it easy.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. While casting [obj], [name] wanted to go down the mountain and have an adventure.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy casting [obj], [name] was influenced by the emotion of[rand_lable=obj_badmood,obj_goodmood].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy casting [obj], [name] couldn't help but to worry about successfully performing [obj_neck]'s Breakthrough.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. While casting [obj], [name] sighed deeply realizing that [obj_gong] truly was profound.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy casting [obj], [name] couldn't help but wonder if [obj_gong] really was something that was suitable for themselves.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy casting [obj], [name] suddenly doubted [obj_esoterica], could it be that this Manual has an error?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy casting [obj], [name] couldn't help sighing at [obj_esoterica] as this Manual truly is fantastic.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. While casting [obj], [name] really wanted to try driving [obj_fabao], just to get a feel.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy casting [obj], [name] didn't know why but really wanted to eat a [obj_dan].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy casting [obj], [name] didn't know why but really wanted to take a stab at [obj_friend].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] remembered the Practice Room at [obj_goodschool] while casting [obj].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. While busy casting [obj], [name] suddenly wants a match with [obj_badschool].</Events.23.Story>
+		</Text>
+	</List>
+</Texts>

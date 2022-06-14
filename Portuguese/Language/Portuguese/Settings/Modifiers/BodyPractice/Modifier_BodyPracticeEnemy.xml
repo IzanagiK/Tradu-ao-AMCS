@@ -1,0 +1,34 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_BodyPractice_Boss_BaseValue">
+			<DisplayName>Sage Physical Training Starting Stats</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_BaseFightValue">
+			<DisplayName>Sage Physical Training Starting Stats in Battle</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Atk">
+			<DisplayName>Might</DisplayName>
+			<Desc>This person's secret body is incredibly powerful that it can break stones and overturn oceans.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Def">
+			<DisplayName>Pliability</DisplayName>
+			<Desc>This person's secret body is so tough that nothing can break through it.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Dodge">
+			<DisplayName>Dodge</DisplayName>
+			<Desc>This person is very agile and swift that no one is able to catch them.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_CatchFabao">
+			<DisplayName>Snatch</DisplayName>
+			<Desc>This person has very skilled hands and excels at suppressing artifacts.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_ArmorPenetration">
+			<DisplayName>Puncture</DisplayName>
+			<Desc>This person is very smart with their power and excels at penetrating Qi barriers and dealing damage.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Strong">
+			<DisplayName>Strong</DisplayName>
+			<Desc>This person's physical body is very strong and their mind is also resilient that no pain deters them.</Desc>
+		</Text>
+	</List>
+</Texts>

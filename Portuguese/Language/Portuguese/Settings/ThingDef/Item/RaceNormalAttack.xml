@@ -1,0 +1,218 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="NormalAttackBase" sParam="Item">
+			<ThingName>Common Attack</ThingName>
+		</Text>
+		<Text Name="Human_NormalAttack" sParam="Item">
+			<ThingName>Human Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Headbutt,Strike</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Kick,Punch,Headbutt</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Kick,Punch</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Zombie_NormalAttack" sParam="Item">
+			<ThingName>Zombie Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Headbutt,Kick</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Headbutt</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Headbutt</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Strike</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Bite,Strike</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Bite,Strike</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>Bite,Strike</Item.Equip.AtkDamage.6.DescTags>
+		</Text>
+		<Text Name="Rabbit_NormalAttack" sParam="Item">
+			<ThingName>Rabbit Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Headbutt</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Kick</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Kick</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Dog_NormalAttack" sParam="Item">
+			<ThingName>Divine Dog Internal Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Fox_NormalAttack" sParam="Item">
+			<ThingName>Spirit Fox Internal Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Dragon_NormalAttack" sParam="Item">
+			<ThingName>Float Dragon Internal Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Equable Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Equable Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Equable Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Equable Charge</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Ls_Phoenix_NormalAttack" sParam="Item">
+			<ThingName>Dark Phoenix Internal Core</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Fervent Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Fervent Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Fervent Charge</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Chicken_NormalAttack" sParam="Item">
+			<ThingName>Chicken Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Peck</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Claw</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="Wolf_NormalAttack" sParam="Item">
+			<ThingName>Wolf Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Snake_NormalAttack" sParam="Item">
+			<ThingName>Snake Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Strangle</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Strangle</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Strangle</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Strangle</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>Bite</Item.Equip.AtkDamage.6.DescTags>
+		</Text>
+		<Text Name="Boar_NormalAttack" sParam="Item">
+			<ThingName>Boar Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Charge</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Bear_NormalAttack" sParam="Item">
+			<ThingName>Bear Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bump</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Turtle_NormalAttack" sParam="Item">
+			<ThingName>Turtle Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Counterblow</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite</Item.Equip.AtkDamage.1.DescTags>
+		</Text>
+		<Text Name="Frog_NormalAttack" sParam="Item">
+			<ThingName>Frog Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Lick</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="LuShu_NormalAttack" sParam="Item">
+			<ThingName>Lushu Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Kick</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Kick</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Kick</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Kick</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Invasion of Qi</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="Fei_NormalAttack" sParam="Item">
+			<ThingName>Fei Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bump</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bump</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bump</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bump</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Plague's Breath</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="Cat_NormalAttack" sParam="Item">
+			<ThingName>Cat Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Cattle_NormalAttack" sParam="Item">
+			<ThingName>Bull Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bump</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bump</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bump</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bump</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="Tiger_NormalAttack" sParam="Item">
+			<ThingName>Tiger Attack</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYCat_NormalAttack" sParam="Item">
+			<ThingName>Meow Meow Claw</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYCattle_NormalAttack" sParam="Item">
+			<ThingName>Sharp-edged Horn</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bump</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bump</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bump</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bump</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYTiger_NormalAttack" sParam="Item">
+			<ThingName>Ferocious Fang</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYRabbit_NormalAttack" sParam="Item">
+			<ThingName>Hare-fur Needle</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Headbutt</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Kick</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Kick</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYWolf_NormalAttack" sParam="Item">
+			<ThingName>Wolf Teeth</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Bite,Claw</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Bite,Claw</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Bite,Claw</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Bite,Claw</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYSnake_NormalAttack" sParam="Item">
+			<ThingName>Tempered Snake Scale</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.4.DescTags>
+		</Text>
+		<Text Name="JYBoar_NormalAttack" sParam="Item">
+			<ThingName>Mud Stone Essence</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Terra Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Terra Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Terra Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Terra Charge</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Terra Charge</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Terra Charge</Item.Equip.AtkDamage.5.DescTags>
+		</Text>
+		<Text Name="JYBear_NormalAttack" sParam="Item">
+			<ThingName>Flying Bear Claw</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Fervent Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Fervent Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Fervent Charge</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="JYFrog_NormalAttack" sParam="Item">
+			<ThingName>Equable Drop</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Lick</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Lick</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Lick</Item.Equip.AtkDamage.2.DescTags>
+		</Text>
+		<Text Name="JYTurtle_NormalAttack" sParam="Item">
+			<ThingName>Dark Turtle Shell</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Equable Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Equable Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Equable Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Equable Charge</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+		<Text Name="JYLongPu_Night_NormalAttack" sParam="Item">
+			<ThingName>Dragon Servant Tooth</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Equable Charge</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Equable Charge</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Equable Charge</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Equable Charge</Item.Equip.AtkDamage.3.DescTags>
+		</Text>
+	</List>
+</Texts>

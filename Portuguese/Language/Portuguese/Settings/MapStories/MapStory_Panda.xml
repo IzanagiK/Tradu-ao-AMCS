@@ -1,0 +1,29 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Ls_School_Panda">
+			<DisplayName>Ambassador of Immortals</DisplayName>
+			<Desc>Panda Xianxian tentou e melhorou nossa relação com [SCHOOL].</Desc>
+			<Selections.0.Display>Okay</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_FindPanda">
+			<DisplayName>Panda Jada</DisplayName>
+			<Desc>Diz-se que existe um estranho jade dentro da Grande Floresta de Bambu. E metade branco e metade preto, como o Panda's lagacy in talse.</Desc>
+			<Selections.0.Display>Encontre com cuidado</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_CallPanda">
+			<DisplayName>Destroir</DisplayName>
+			<Desc>Este jade contem dois tipos de respiração, um Yin e um Yang. Eles se combinaram, bonitos e antigos.</Desc>
+			<Selections.0.Display>Destroir</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Fish">
+			<DisplayName>Fish Eureka</DisplayName>
+			<Desc>[NAME]teve uma centelha de inspiração!</Desc>
+			<Selections.0.Display>Compreensão adquirida</Selections.0.Display>
+		</Text>
+		<Text Name="Little_Panda">
+			<DisplayName>Panda Xiuxiu</DisplayName>
+			<Desc>Outro panda Xiuxiu veio aqui depois de ouvir a voz de Xianxian!</Desc>
+			<Selections.0.Display>Receber</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

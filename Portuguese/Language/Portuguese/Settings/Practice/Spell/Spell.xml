@@ -1,0 +1,240 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Spell_SYSLOST">
+			<DisplayName>Empty</DisplayName>
+			<Desc>A lost building that nobody recognizes. \n(Empty.)</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed1">
+			<DisplayName>Agility Talisman</DisplayName>
+			<Desc>Talisman used to raise move speed.</Desc>
+		</Text>
+		<Text Name="Spell_TempLow1">
+			<DisplayName>Cold-resistant Talisman</DisplayName>
+			<Desc>Talisman used to raise resistance to cold.</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh1">
+			<DisplayName>Heat-resistant Talisman</DisplayName>
+			<Desc>Talisman used to raise resistance to heat.</Desc>
+		</Text>
+		<Text Name="Spell_ReadNovel">
+			<DisplayName>Story Talisman</DisplayName>
+			<Desc>A strange talisman from no where. It is easy to draw but has a strange effect, so it is widely spread among the cultivation realm. After equiped, one can focus on this talisman and see many maverlous stories from Webnovel and get released. However, it will easily catch one's attention and slow down work and cultivation speed.\n[color=#D06508]Thank Webnovel APP for supporting our game.[/color]</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed2">
+			<DisplayName>Talisman of Spiritual Travelling</DisplayName>
+			<Desc>Talisman used to raise move speed, as well as speed during adventures.</Desc>
+		</Text>
+		<Text Name="Spell_RecoveryPower">
+			<DisplayName>Talisman of Curer</DisplayName>
+			<Desc>Talisman used to raise natural recovery rate.</Desc>
+		</Text>
+		<Text Name="Spell_VisionRadius">
+			<DisplayName>Talisman of Foreseer</DisplayName>
+			<Desc>Talisman used to improve range of views, and reduce time spent discovering a new location in adventure.</Desc>
+		</Text>
+		<Text Name="Spell_Fatigue">
+			<DisplayName>Talisman of Spiritual Cleansing</DisplayName>
+			<Desc>Talisman used to improve sleep quality and reduce tendency of fatigue.</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition">
+			<DisplayName>Talisman of Qi Absorption</DisplayName>
+			<Desc>Used to raise efficiency of Qi absorption and fasting.</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition1">
+			<DisplayName>Talisman of Fasting</DisplayName>
+			<Desc>Used to reduce food consumption rate.</Desc>
+		</Text>
+		<Text Name="Spell_Hide">
+			<DisplayName>Talisman of Invisibility</DisplayName>
+			<Desc>Talisman used to hide your presence to some extent, become less identifiable by others during adventure, and reduce chances of obtaining reputation.</Desc>
+		</Text>
+		<Text Name="Spell_Happy">
+			<DisplayName>Talisman of Lasting Joy</DisplayName>
+			<Desc>Talisman used to improve mood and reduce entertainment need.</Desc>
+		</Text>
+		<Text Name="Spell_LunHui_ShenShen">
+			<DisplayName>Prayer Talisman</DisplayName>
+			<Desc>Talisman formed by prayers of others, used to improve mood and stabilize mental state.</Desc>
+		</Text>
+		<Text Name="Spell_TempLow2">
+			<DisplayName>Talisman of Supreme Yang</DisplayName>
+			<Desc>Talisman used to drastically raise resistance to cold.</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh2">
+			<DisplayName>Talisman of Supreme Yin</DisplayName>
+			<Desc>Talisman used to drastically raise resistance to heat.</Desc>
+		</Text>
+		<Text Name="Spell_Intelligence">
+			<DisplayName>Talisman of Civil Prosperity</DisplayName>
+			<Desc>Used to clear mind and improve learning abilities.</Desc>
+		</Text>
+		<Text Name="Spell_Fight">
+			<DisplayName>Talisman of Military Prosperity</DisplayName>
+			<Desc>Used to improve fighting abilities and pain endurance.</Desc>
+		</Text>
+		<Text Name="Spell_GlobalEfficiency">
+			<DisplayName>Talisman of Diligence</DisplayName>
+			<Desc>Used to improve work efficiency.</Desc>
+		</Text>
+		<Text Name="Spell_MadeQualityAddValue">
+			<DisplayName>Talisman of Craftsmanship</DisplayName>
+			<Desc>Used to improve quality of crafted items.</Desc>
+		</Text>
+		<Text Name="Spell_Yield">
+			<DisplayName>Talisman of Fertility</DisplayName>
+			<Desc>Used to raise yield during hunting, farming and harvesting.</Desc>
+		</Text>
+		<Text Name="Spell_Treatment">
+			<DisplayName>Talisman of Medicinal Mastery</DisplayName>
+			<Desc>Used to raise healing success rate and its effect.</Desc>
+		</Text>
+		<Text Name="Spell_MindState1">
+			<DisplayName>Talisman of Tranquil Heart</DisplayName>
+			<Desc>Talisman used to slightly improve mental state.</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
+			<DisplayName>Talisman of Heavenly Heart</DisplayName>
+			<Desc>Talisman used to slightly improve cultivation speed.</Desc>
+		</Text>
+		<Text Name="Spell_MindState2">
+			<DisplayName>Talisman of Cave Mind</DisplayName>
+			<Desc>Talisman used to improve mental state.</Desc>
+		</Text>
+		<Text Name="Spell_MindState2_LunHui">
+			<DisplayName>Talisman of Divinity Mind</DisplayName>
+			<Desc>Scarce talisman passed down from thousands of years ago, created by the ancient immortal Yuan rewriting the Talisman of Divine Caves. \n[color=#D06508]This is in appreciation of the first player to successfully draw a talisman of 100% quality: Actually not me[/color]</Desc>
+		</Text>
+		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>Talisman of Truth Comprehension</DisplayName>
+			<Desc>Used to raise the chance of breakthrough.</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
+			<DisplayName>Talisman of Oblivion Comprehension</DisplayName>
+			<Desc>Used to raise cultivation speed.</Desc>
+		</Text>
+		<Text Name="Spell_WorldMapFlySpeed">
+			<DisplayName>Talisman of Departing Shadow</DisplayName>
+			<Desc>Used to raise long-distance fly speed with a artifact.</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_SuccessRateAddV">
+			<DisplayName>Talisman of Riches</DisplayName>
+			<Desc>Talisman used to improve success rate of artifact crafting.</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_LingInheritRateAddV">
+			<DisplayName>Wonder Talisman</DisplayName>
+			<Desc>Used to slightly raise the tier of crafted artifact.</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_SuccessRateAddV">
+			<DisplayName>Tusita Talisman</DisplayName>
+			<Desc>Used to improve success rate of Alchemy.</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_YieldAddP">
+			<DisplayName>Impermanence Talisman</DisplayName>
+			<Desc>Used to slightly raise yield of Alchemy.</Desc>
+		</Text>
+		<Text Name="Spell_Fu">
+			<DisplayName>Illustration of Everlasting Prosperity</DisplayName>
+			<Desc>Used to improve mood and mental state of whomever wears it and grant good luck. Happy Spring Festival and all the best!</Desc>
+		</Text>
+		<Text Name="Spell_Lu">
+			<DisplayName>Illustration of Everlasting Status</DisplayName>
+			<Desc>Used to improve health and material gains for whomever wears it. Happy Spring Festival and all the best!</Desc>
+		</Text>
+		<Text Name="Spell_Shou">
+			<DisplayName>Illustration of Everlasting Longevity</DisplayName>
+			<Desc>Used to raise lifespan and immunity to diseases for whomever wears it. Happy Spring Festival and all the best!</Desc>
+		</Text>
+		<Text Name="Spell_Shield1">
+			<DisplayName>Darkarmor Talisman</DisplayName>
+			<Desc>Increases the wearer's Protection.</Desc>
+		</Text>
+		<Text Name="Spell_Shield2">
+			<DisplayName>Heavenarmor Talisman</DisplayName>
+			<Desc>Increases the wearer's Protection skill level.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Jin">
+			<DisplayName>Metalarmor Talisman</DisplayName>
+			<Desc>Increases the wearer's resistance to Metal Damage.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Mu">
+			<DisplayName>Woodarmor Talisman</DisplayName>
+			<Desc>Increases the wearer's resistance to Wood Damage.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Shui">
+			<DisplayName>Waterarmor Talisman</DisplayName>
+			<Desc>Increases the wearer's resistance to Water Damage.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Huo">
+			<DisplayName>Firearmor Talisman</DisplayName>
+			<Desc>Increases the wearer's resistance to Fire Damage.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Tu">
+			<DisplayName>Eartharmor Talisman</DisplayName>
+			<Desc>Increases the wearer's resistance to Earth Damage.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao1">
+			<DisplayName>Sharpsword Talisman</DisplayName>
+			<Desc>Increases Artifact Power.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao2">
+			<DisplayName>Divinesword Talisman</DisplayName>
+			<Desc>Increases the wearer's Artifact Mastery skill level.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao3">
+			<DisplayName>Spiritsword Talisman</DisplayName>
+			<Desc>Increases the wearer's Artifact Qi Recovery Multiplier.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao4">
+			<DisplayName>Sacredsword Talisman</DisplayName>
+			<Desc>Fundamentally increases the wearer's Artifact Power, and comprehensively improves Artifact abilities.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill1">
+			<DisplayName>Vilecurse Talisman</DisplayName>
+			<Desc>Increases the wearer's Spell Power.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill2">
+			<DisplayName>Divine Curse Talisman</DisplayName>
+			<Desc>Increases the wearer's Spell skill level.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill3">
+			<DisplayName>Spiritcurse Talisman</DisplayName>
+			<Desc>Fundamentally decreases the wearer's Qi Cost of Spells.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill4">
+			<DisplayName>Sacredcurse Talisman</DisplayName>
+			<Desc>Fundamentally increases the wearer's Spell Power and Qi Cost.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian1">
+			<DisplayName>Heavensent Talisman</DisplayName>
+			<Desc>Increases the wearer's Five Attributes.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian2">
+			<DisplayName>Heavenshrouding Talisman</DisplayName>
+			<Desc>Decreases the wearer's Attainment.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian3">
+			<DisplayName>Latent Talisman</DisplayName>
+			<Desc>Increases the wearer's Potential.</Desc>
+		</Text>
+		<Text Name="Spell_JieTian1">
+			<DisplayName>Heavenlent Talisman</DisplayName>
+			<Desc>Increases the wearer's Attainment.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice1">
+			<DisplayName>Talisman of Divine Residence</DisplayName>
+			<Desc>Increases Max Divine Residents limit for the wearer.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice2">
+			<DisplayName>Talisman of Divine Perception</DisplayName>
+			<Desc>Increases the wearer's Belief Gains Bonus.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice3">
+			<DisplayName>Talisman of Divine Authority</DisplayName>
+			<Desc>Increases the wearer's Divinity.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice4">
+			<DisplayName>Talisman of Divine Concealment</DisplayName>
+			<Desc>Decreases the wearer's Divinity.</Desc>
+		</Text>
+	</List>
+</Texts>

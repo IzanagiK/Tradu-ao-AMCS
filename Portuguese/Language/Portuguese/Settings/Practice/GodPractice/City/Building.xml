@@ -1,0 +1,187 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="GodCity_Housing">
+			<DisplayName>Divine Residence</DisplayName>
+			<Desc>Residence building provided for people of the Divine Realm. Increases Max Divine Residents.</Desc>
+		</Text>
+		<Text Name="GodCity_Guard">
+			<DisplayName>Guard's Temple</DisplayName>
+			<Desc>Facility dedicated to the worship of Guard, through which the Law of Shendao cultivators can obtain the blessing of Guard to improve their own ability.</Desc>
+		</Text>
+		<Text Name="GodCity_FaithWay">
+			<DisplayName>Temple of Miracles</DisplayName>
+			<Desc>Each Temple of Performance can communicate with a worshiped statue in the Agency of a city from the Mortal World. Through this system, Law of Shendao cultivators are able to acquire the accumulated Belief on statues from the mortal believers, and play some nice tricks with it.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoRateUp">
+			<DisplayName>Sacred Pavilion</DisplayName>
+			<Desc>A temple built upon the power of Belief, it is the projection of one's own Sacred Artifact on the Divine Realm. Increase in the Sacred Pavilion's level will enhance one's own Sacred Artifact.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd1">
+			<DisplayName>SP: Hall of Storm</DisplayName>
+			<Desc>Part of the Sacred Pavilion. Grants Sacred Relic the Qi of wind and cloud, rendering it more agile and elegant.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd2">
+			<DisplayName>SP: Hall of Weight</DisplayName>
+			<Desc>Part of the Sacred Pavilion. Grants Sacred Relic the power of a thousand weights, rendering it more powerful.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd3">
+			<DisplayName>SP: Hall of Aplomb</DisplayName>
+			<Desc>Part of the Sacred Pavilion. Grants Sacred Relic the power of true integrity, rendering it more solid and tough.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd4">
+			<DisplayName>SP: Hall of Pliancy</DisplayName>
+			<Desc>Part of the Sacred Pavilion. Grants Sacred Relic the power of pliancy, rendering it more flexible and tough.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd5">
+			<DisplayName>SP: Hall of Blade</DisplayName>
+			<Desc>Grants Sacred Relic the power of blade, which is relentlessly sharp.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd6">
+			<DisplayName>SP: Hall of Majesty</DisplayName>
+			<Desc>Grants Sacred Relic the power of majesty, which is exceptionally destructive.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd7">
+			<DisplayName>SP: Hall of Seed</DisplayName>
+			<Desc>Grants Sacred Relic the power of mustard seed, rendering it tiny and imperceptible.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd8">
+			<DisplayName>SP: Hall of Thunder</DisplayName>
+			<Desc>Grants Sacred Relic the power of heavenly thunder, the power of which is boundless.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd9">
+			<DisplayName>SP: Hall of Pantheon</DisplayName>
+			<Desc>Grants Sacred Relic the power of all spirits, a deep and boisterous energy.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd10">
+			<DisplayName>SP: Hall of Gale</DisplayName>
+			<Desc>Grants Sacred Relic the power of howling gale, which is as swift as instantaneous.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd11">
+			<DisplayName>SP: Hall of Charge</DisplayName>
+			<Desc>Grants Sacred Relic the power of dark charging, rendering it unstoppable.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd1">
+			<DisplayName>SP: Hall of Poisons</DisplayName>
+			<Desc>Grants Sacred Relic the power of the five poisons. For every 36th strike, it will attack the enemy cultivator's body itself, penetrating shield and deal additional damage.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>For every 36th strike, it will attack the enemy cultivator's body itself, penetrating shield and deal additional damage.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd2">
+			<DisplayName>SP: Hall of Spirit</DisplayName>
+			<Desc>Grants Sacred Relic the power of spirit charging. Every 18th attack will cast a spell on the target enemy.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Every 18th attack will cast a spell on the target enemy.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd3">
+			<DisplayName>SP: Hall of Guard</DisplayName>
+			<Desc>Grants Sacred Relic the power of holy protection. Protection skill level increased by 5.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Protection skill level increased by 5.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd4">
+			<DisplayName>SP: Hall of Magic</DisplayName>
+			<Desc>Grants Sacred Relic the power of holy magic. Spell skill level increased by 5.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Spell skill level increased by 5.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd5">
+			<DisplayName>SP: Hall of Mastery</DisplayName>
+			<Desc>Grants Sacred Relic the power of holy mastery. Artifact Mastery skill level increased by 5.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Artifact Mastery skill level increased by 5.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd6">
+			<DisplayName>SP: Hall of Recall</DisplayName>
+			<Desc>Grants Sacred Relic the power of spirit recalling. 3% of damage dealt will be replenished to the artifact's Qi.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>3% of damage dealt will be replenished to the artifact's Qi.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd7">
+			<DisplayName>SP: Hall of Specter</DisplayName>
+			<Desc>Grants Sacred Relic the power of Spectral. For every 15 attacks, a swordsprite is generated that lasts 15 seconds.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>For every 15 attacks, a swordsprite is generated that lasts 15 seconds.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd8">
+			<DisplayName>SP: Hall of Breath</DisplayName>
+			<Desc>Grants Sacred Relic the power of alleviating breath. Every 7 attacks reduce skill cooldown by 1 second.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Every 7 attacks reduce skill cooldown by 1 second.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd9">
+			<DisplayName>SP: Hall of Nine</DisplayName>
+			<Desc>Grants Sacred Relic the power of the Nine Extremities. When dealing damage, there is a 4% chance of dealing 9 times the damage.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>When dealing damage, there is a 4% chance of dealing 9 times the damage.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd10">
+			<DisplayName>SP: Hall of Infinity</DisplayName>
+			<Desc>Grants Sacred Relic the power of infinity. Power of first sword strike increased by 3 times. The effect is reset when replenishing Qi to the artifact.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Power of first sword strike increased by 3 times. The effect is reset when replenishing Qi to the artifact.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd11">
+			<DisplayName>SP: Hall of Wind</DisplayName>
+			<Desc>Grants Sacred Relic the power of breaking the wind of positivity. Deals 1.25x damage when attacking the enemy's body itself.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Deals 1.25x damage when attacking the enemy's body itself.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_WishTree">
+			<DisplayName>Tree of Prayers</DisplayName>
+			<Desc>The wishes and prayers of ordinary people have concentrated and formed into a tree. You can harness its Qi of mortals to slightly reduce Divinity.</Desc>
+		</Text>
+		<Text Name="GodCity_XinyangShendian">
+			<DisplayName>Temple of Faith</DisplayName>
+			<Desc>Temple that concentrates the power of Belief. It can increase the efficiency at which Divine Realm produces Belief.</Desc>
+		</Text>
+		<Text Name="GodCity_LiuLiShenDian">
+			<DisplayName>Temple of Glaze</DisplayName>
+			<Desc>Temple that magnifies the power of Guards. It can enhance abilities granted to you by Guards.</Desc>
+		</Text>
+		<Text Name="GodCity_ThunderDefend">
+			<DisplayName>Heavenly Palace</DisplayName>
+			<Desc>Concentrate the power of Belief to shelter you from the might of heaven. It can reduce the power of Heavenly Tribulation.</Desc>
+		</Text>
+		<Text Name="GodCity_FengShenTai">
+			<DisplayName>Altar of Guards</DisplayName>
+			<Desc>Place where the gods consecrate the sub-gods, anointing Core Followers with 100% Belief into Guards.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_A">
+			<DisplayName>Residence of Metal</DisplayName>
+			<Desc>Increases Max Core Followers.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_B">
+			<DisplayName>Residence of Wood</DisplayName>
+			<Desc>Increases Max Core Followers.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_C">
+			<DisplayName>Residence of Water</DisplayName>
+			<Desc>Increases Max Core Followers.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_D">
+			<DisplayName>Residence of Fire</DisplayName>
+			<Desc>Increases Max Core Followers.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_E">
+			<DisplayName>Residence of Earth</DisplayName>
+			<Desc>Increases Max Core Followers.</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2">
+			<DisplayName>Generality Residence</DisplayName>
+			<Desc>Advanced Divine Residence. Can accommodate a large number of Divine Residents.</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2_2">
+			<DisplayName>Connection Residence</DisplayName>
+			<Desc>Advanced Divine Residence. Can accommodate a large number of Divine Residents.</Desc>
+		</Text>
+		<Text Name="GodCity_HongChenKuHai">
+			<DisplayName>Mortal Melancholia</DisplayName>
+			<Desc>Brings the sufferings of the mortals into the Divine Realm, greatly reducing Divinity.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_1">
+			<DisplayName>Hall of Rallying</DisplayName>
+			<Desc>Provides the following Miracles at level 1, level 2 and level 3 respectively: Divine Rallying Spell, Wish-fulfilling Spell, Sole Reverence Spell. Increase the base material output of the area your Embodiment resides in within a certain period of time.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_2">
+			<DisplayName>Pavilion of Heart</DisplayName>
+			<Desc>Level 1 provides Miracle - Pacification: Release on a non-Shendao cultivating character and reduce its Mood multiplier by 25%, lasting 7 days. \nLevel 2 provides Miracle - Clean Mind: Resolve an Obsession for the character, and obtain an Obsession Gem.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_3">
+			<DisplayName>Pavilion of Might</DisplayName>
+			<Desc>Level 1 provides Miracle - Deification: Cast a spell to temporarily raise your Divinity to extreme, greatly improving combat prowess.\n Level 2 provides Miracle - Divine Mercy: Consume humanity to attempt to illuminate a plant. The illumination result will need some time to appear. The plant cannot be illuminated with psychic power again while in an illumination session.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_4">
+			<DisplayName>Hall of Devotion</DisplayName>
+			<Desc>Level 1 provides Miracle - Persuasion: Persuade ally or neutral Inner disciple characters to try to convert them into Core Followers. \nLevel 2 provides Miracle - Divinity Tracing: Select a character to try to learn their whereabouts. The more Divine Residents and information you have, the higher the success rate of learning target's whereabouts.</Desc>
+		</Text>
+	</List>
+</Texts>

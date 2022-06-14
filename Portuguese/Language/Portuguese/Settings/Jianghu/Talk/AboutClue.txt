@@ -1,0 +1,10 @@
+﻿Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report Bug	无成功失败/中性回答	Success!	Fail	数值参数	文本参数
+AboutClue_KnowClue	0	[NAME] beats around the bush to ask for clues about [TXT].	Yes, you've told me that already.	You knew about that, too? It's a long story...	I don't know what you're talking about.		
+AboutClue_KnowSecrect	0	[NAME] beats around the bush to ask for clues about [TXT].	Yes, you've told me that already.	I... I don't know anything!	I don't know what you're talking about.		
+AboutClue_KnowOther	0	[NAME] beats around the bush to ask for clues about [TXT].	Yes, you've told me that already.	Oh? I've never heard of it, but who doesn't have secrets?	Oh? This sounds bizarre, but whatever you say.		
+AboutClue_KnowNothing	0	[NAME] beats around the bush to ask for clues about [TXT].	Oh, I already knew that.	I can't believe it! Thanks to you, my mind has been enlightened.	How is that even possible? I don't believe so. You're just overthinking it.		
+							
+AboutSecret_KnowClue	0	What do you know about [TXT]?	Yes, you've told me that already.	I... I don't know anything!	I don't know what you're talking about.		
+AboutSecret_KnowOther	0	Do you know about [TXT]?	Yes, you've told me that already.	Oh? I've never heard of it, but who doesn't have secrets?	Oh? This sounds bizarre, but whatever you say.		
+AboutSecret_KnowNothing	0	There is a big secret about [TXT]!	Oh, I already knew that.	I can't believe it! Thanks to you, my mind has been enlightened.	How is that even possible? I don't believe so. You're just overthinking it.		

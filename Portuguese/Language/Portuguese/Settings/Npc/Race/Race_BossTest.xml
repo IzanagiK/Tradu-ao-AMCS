@@ -1,0 +1,24 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Long_Test">
+			<DisplayName>Flood Dragon</DisplayName>
+			<FightParts.0.DisplayName>Body</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Dragon Tail</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Dragon Horn</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Dragon's Left Front Claw</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Dragon's Right Front Claw</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Dragon's Left Hind Claw</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>Dragon's Right Hind Claw</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>Forbidden Scale</FightParts.7.DisplayName>
+		</Text>
+		<Text Name="Boss_Feng_Test">
+			<DisplayName>Phoenix</DisplayName>
+			<FightParts.0.DisplayName>Body</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Crown Feather</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Left Wing</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Right Wing</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Tail Feather</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Solar Eye</FightParts.5.DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,49 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="ClothBase" sParam="Item">
+			<Desc>Woven fabric made from cotton. Can be used to craft clothing and others.</Desc>
+			<Item.FabaoSuffix>Textile, Yarn, Gauze</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Fabric</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CottonCloth" sParam="Item">
+			<ThingName>Patterned Fabric</ThingName>
+			<Desc>Woven fabric of [patterned] color made from cotton. Can be used to craft clothing and others.</Desc>
+			<Item.BeMaterial.NamePrefix>Patterned Fabric</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DeepBlueCloth" sParam="Item">
+			<ThingName>Indigo Fabric</ThingName>
+			<Desc>Woven fabric of [indigo] color made from cotton. Can be used to craft clothing and others.</Desc>
+			<Item.BeMaterial.NamePrefix>Indigo Fabric</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_PurpleCloth" sParam="Item">
+			<ThingName>Purple Fabric</ThingName>
+			<Desc>Woven fabric of [purple] color made from cotton. Can be used to craft clothing and others.</Desc>
+			<Item.BeMaterial.NamePrefix>Purple Fabric</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YellowCloth" sParam="Item">
+			<ThingName>Yellow Fabric</ThingName>
+			<Desc>Woven fabric of [yellow] color made from cotton. Can be used to craft clothing and others.</Desc>
+			<Item.BeMaterial.NamePrefix>Yellow Fabric</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlueCloth" sParam="Item">
+			<ThingName>Blue Fabric</ThingName>
+			<Desc>Woven fabric of [blue] color made from cotton. Can be used to craft clothing and others.</Desc>
+			<Item.BeMaterial.NamePrefix>Blue Fabric</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_RedCloth" sParam="Item">
+			<ThingName>Red Fabric</ThingName>
+			<Desc>Woven fabric of [red] color made from cotton. Can be used to craft clothing and others.</Desc>
+			<Item.BeMaterial.NamePrefix>Red Fabric</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_WhiteCloth" sParam="Item">
+			<ThingName>White Fabric</ThingName>
+			<Desc>Woven fabric of [white] color made from cotton. Can be used to craft clothing and others.</Desc>
+			<Item.BeMaterial.NamePrefix>White Fabric</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlackCloth" sParam="Item">
+			<ThingName>Black Fabric</ThingName>
+			<Desc>Woven fabric of [black] color made from cotton. Can be used to craft clothing and others.</Desc>
+			<Item.BeMaterial.NamePrefix>Black Fabric</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

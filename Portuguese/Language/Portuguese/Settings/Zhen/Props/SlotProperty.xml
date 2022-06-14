@@ -1,0 +1,116 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<Descript>Empty</Descript>
+			<Tip>Empty</Tip>
+		</Text>
+		<Text Name="StabilityBasev">
+			<Descript>Base Formation Stability {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityBasep">
+			<Descript>Base Formation Stability {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="StabilityAddv">
+			<Descript>Formation Stability {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityAddp">
+			<Descript>Formation Stability {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasev">
+			<Descript>Base Artifact Mastery {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasep">
+			<Descript>Base Artifact Mastery {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddv">
+			<Descript>Artifact Mastery {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddp">
+			<Descript>Artifact Mastery {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasev">
+			<Descript>Base Spell Ability {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasep">
+			<Descript>Base Spell Ability {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddv">
+			<Descript>Spell {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddp">
+			<Descript>Spell {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildBasev">
+			<Descript>Base Protection {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildBasep">
+			<Descript>Base Protection {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildAddv">
+			<Descript>Protection {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildAddp">
+			<Descript>Protection {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasev">
+			<Descript>Base Operation Ability {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasep">
+			<Descript>Base Operation Ability {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddv">
+			<Descript>Operation Ability {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddp">
+			<Descript>Operation Ability {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasev">
+			<Descript>Base Formation Efficiency {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasep">
+			<Descript>Base Formation Efficiency {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddv">
+			<Descript>Formation Efficiency {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddp">
+			<Descript>Formation Efficiency {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasev">
+			<Descript>Formation Size {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasep">
+			<Descript>Formation Size {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddv">
+			<Descript>Formation Size {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddp">
+			<Descript>Formation Size {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasev">
+			<Descript>Formation Load {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasep">
+			<Descript>Formation Load {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddv">
+			<Descript>Formation Load {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddp">
+			<Descript>Formation Load {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasev">
+			<Descript>Base Formation Energy Cap {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasep">
+			<Descript>Base Formation Energy Cap {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddv">
+			<Descript>Formation Energy Cap {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddp">
+			<Descript>Formation Energy Cap {1}{0:P2}</Descript>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Farm">
+			<DisplayName>Field</DisplayName>
+			<Desc>Fazendas no reino mortal. Produz trigo.</Desc>
+		</Text>
+		<Text Name="Mine">
+			<DisplayName>Mine</DisplayName>
+			<Desc>Minas no reino mortal. Produz brownstone.</Desc>
+		</Text>
+		<Text Name="Lumber">
+			<DisplayName>Logging Camp</DisplayName>
+			<Desc>Campos de extração de madeira no reino mortal. Produz madeira.</Desc>
+		</Text>
+		<Text Name="LingMine">
+			<DisplayName>Spirit Stone Mine</DisplayName>
+			<Desc>Minas de pedra espiritual no reino mortal. Produz pedras espirituais.</Desc>
+		</Text>
+		<Text Name="Statue">
+			<DisplayName>Statue</DisplayName>
+			<Desc>A estatua de uma divindade. Uma vez construído, se um discípulo de Shendao construiu o Templo dos Milagres no Reino Divino, você pode indicar o discípulo para ser possuído aqui.</Desc>
+		</Text>
+		<Text Name="Arena">
+			<DisplayName>Dojo</DisplayName>
+			<Desc>Dojo. Uma vez construído, este lugar pode ser usado para pratica por discípulos guarnecidos aqui.</Desc>
+		</Text>
+	</List>
+</Texts>

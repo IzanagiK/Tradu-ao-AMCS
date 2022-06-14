@@ -1,0 +1,172 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="OutFire">
+			<Events.0.Story>While putting out a fire, [name] suddenly started feeling homesick.</Events.0.Story>
+			<Events.1.Story>While putting out a fire, [name]'s mind started drifting toward [obj_friend].</Events.1.Story>
+			<Events.2.Story>While putting out a fire, [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.2.Story>
+			<Events.3.Story>While putting out a fire, [name] suddenly wanted to eat [obj_food].</Events.3.Story>
+			<Events.4.Story>While putting out a fire, [name] suddenly started thinking of their [obj_relation].</Events.4.Story>
+			<Events.5.Story>While putting out a fire, a great many thoughts and feelings began filling [name]'s mind.</Events.5.Story>
+			<Events.6.Story>While putting out a fire, [name] suddenly realized that they were crying.</Events.6.Story>
+			<Events.7.Story>While putting out a fire, [name] suddenly felt inexplicably irritated with something.</Events.7.Story>
+			<Events.8.Story>While putting out a fire, [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.8.Story>
+			<Events.9.Story>While putting out a fire, [name] suddenly started thinking about the sunset.</Events.9.Story>
+		</Text>
+		<Text Name="Treat">
+			<Events.1.Story>While healing [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While healing [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While healing [obj], [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While healing [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>While healing [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While healing [obj], a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While healing [obj], [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While healing [obj], [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While healing [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] kept their spirits up and did their best to heal [obj].</Events.10.Story>
+			<Events.11.Story>Their mood affected by [obj_badmood], [name] couldn't keep their mind on the matter at hand while healing [obj], causing [hename] to cry out suddenly.</Events.11.Story>
+			<Events.12.Story>Their mood affected by [obj_badmood], [name] was intentionally heavy-handed in healing [obj], their treatment eliciting a sudden scream from [hename].</Events.12.Story>
+			<Events.13.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while healing [obj], leaving [hename] speechless.</Events.13.Story>
+			<Events.14.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while healing [obj], raising [hename]'s spirits.</Events.14.Story>
+			<Events.15.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while healing [obj], making [hename]'s expression darken.</Events.15.Story>
+			<Events.16.Story>While healing [obj], [name] suddenly used too much force. [hename] let out a scream.</Events.16.Story>
+			<Events.17.Story>While healing [obj], [name] pitied [hename] and felt saddened.</Events.17.Story>
+			<Events.18.Story>While healing [obj], [name] made conversation with [hename] about [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.18.Story>
+		</Text>
+		<Text Name="Feed">
+			<Events.1.Story>While feeding [hename] [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While feeding [hename] [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While feeding [hename] [obj], [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While feeding [hename] [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>While feeding [hename] [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While feeding [hename] [obj], a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While feeding [hename] [obj], [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While feeding [hename] [obj], [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While feeding [hename] [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] kept their spirits up and did their best to care for [hename].</Events.10.Story>
+			<Events.11.Story>Their mood affected by [obj_badmood], [name] couldn't keep their mind on the matter at hand while feeding [hename] [obj], burning [hename] and causing them to cry out suddenly.</Events.11.Story>
+			<Events.12.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while feeding [hename] [obj], leaving [hename] speechless.</Events.12.Story>
+			<Events.13.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while feeding [hename] [obj], raising [hename]'s spirits.</Events.13.Story>
+			<Events.14.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while feeding [hename] [obj], making [hename]'s expression darken.</Events.14.Story>
+			<Events.15.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while feeding [hename] [obj], which really irritated [hename].</Events.15.Story>
+			<Events.16.Story>While feeding [hename] [obj], [name]'s mind began to wander. They managed to get [obj] all over [hename]'s face.</Events.16.Story>
+			<Events.17.Story>While feeding [hename] [obj], [name] started wanting to try some [obj], too.</Events.17.Story>
+			<Events.18.Story>While feeding [hename] [obj], [name] made conversation with [hename] about [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.18.Story>
+		</Text>
+		<Text Name="Hunting">
+			<Events.1.Story>While hunting [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While hunting [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While hunting [obj], [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While hunting [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>While hunting [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While hunting [obj], a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While hunting [obj], [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While hunting [obj], [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While hunting [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] kept their spirits up and did their best to hunt [obj].</Events.10.Story>
+			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while hunting [obj].</Events.11.Story>
+			<Events.12.Story>While hunting [obj], [name] found themselves feeling sorry for the [obj] for some reason.</Events.12.Story>
+		</Text>
+		<Text Name="Build">
+			<Events.1.Story>While building the [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While building the [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While building the [obj], [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While building the [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>While building the [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While building the [obj], a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While building the [obj], [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While building the [obj], [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While building the [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] kept their spirits up and did their best to build the [obj].</Events.10.Story>
+			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while building the [obj].</Events.11.Story>
+			<Events.12.Story>[name] felt especially devoted to their task while building the [obj], leaving them really impressed with the [it] as a result.</Events.12.Story>
+		</Text>
+		<Text Name="Plant">
+			<Events.1.Story>While planting [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While planting [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While planting [obj], [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While planting [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>While planting [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While planting [obj], a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While planting [obj], [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While planting [obj], [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While planting [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] kept their spirits up and did their best to plant [obj].</Events.10.Story>
+			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while planting [obj].</Events.11.Story>
+			<Events.12.Story>[name] was filled with hope while planting [obj]: "I do wish that this season's harvest will be a good one", they thought.</Events.12.Story>
+		</Text>
+		<Text Name="Mine">
+			<Events.1.Story>While mining [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While mining [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While mining [obj], [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While mining [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>While mining [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While mining [obj], a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While mining [obj], [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While mining [obj], [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While mining [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] kept their spirits up and did their best to mine [obj].</Events.10.Story>
+			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while mining [obj].</Events.11.Story>
+			<Events.12.Story>[name] was filled with hope while mining [obj]. "If only I could manage to dig my way into some mystical place inhabited by fairies and immortals..."</Events.12.Story>
+			<Events.13.Story>While mining [obj], [name] was suddenly overcome by a wave of exhaustion. "When will I finally get promoted to inner disciple?", they pondered.</Events.13.Story>
+			<Events.14.Story>[name] started feeling extra motivated while mining [obj]. [it] thought to themselves that this, too, was an important part of one's cultivation.</Events.14.Story>
+		</Text>
+		<Text Name="CutOff">
+			<Events.1.Story>While cutting [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While cutting [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While cutting [obj], [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While cutting [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>While cutting [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While cutting [obj], a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While cutting [obj], [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While cutting [obj], [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While cutting [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Despite their mood being affected  by [obj_badmood], [name] kept their spirits up and did their best to cut [obj].</Events.10.Story>
+			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while cutting [obj].</Events.11.Story>
+			<Events.12.Story>[name] started feeling extra motivated while harvesting [obj]. [it] thought to themselves that this, too, was an important part of one's cultivation.</Events.12.Story>
+		</Text>
+		<Text Name="Eat">
+			<Events.1.Story>While eating [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While eating [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While eating [obj], [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While eating [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>While eating [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While eating [obj], a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While eating [obj], [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While eating [obj], [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While eating [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Their mood affected by [obj_badmood], [name] felt that the [obj] was about as tasty as a lump of candlewax, completely lacking in flavor.</Events.10.Story>
+			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], making them feel that the [obj] seemed to taste much better than usual.</Events.11.Story>
+		</Text>
+		<Text Name="Drink">
+			<Events.1.Story>While drinking [obj], [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While drinking [obj], [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While drinking [obj], [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While drinking [obj], [name] suddenly wanted to drink [obj_food].</Events.4.Story>
+			<Events.5.Story>While drinking [obj], [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While drinking [obj], a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While drinking [obj], [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While drinking [obj], [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While drinking [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+		</Text>
+		<Text Name="Fighting">
+			<Events.1.Story>While fighting, [name] suddenly started feeling homesick.</Events.1.Story>
+			<Events.2.Story>While fighting, [name]'s mind started drifting toward [obj_friend].</Events.2.Story>
+			<Events.3.Story>While fighting, [name] suddenly took an interest in the nearby [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>While fighting, [name] suddenly wanted to eat [obj_food].</Events.4.Story>
+			<Events.5.Story>While fighting, [name] suddenly started thinking of their [obj_relation].</Events.5.Story>
+			<Events.6.Story>While fighting, a great many thoughts and feelings began filling [name]'s mind.</Events.6.Story>
+			<Events.7.Story>While fighting, [name] suddenly realized that they were crying.</Events.7.Story>
+			<Events.8.Story>While fighting, [name] suddenly felt inexplicably irritated with something.</Events.8.Story>
+			<Events.9.Story>While fighting, [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>While fighting, [name] decided that once this battle was over, they'd like to return home to visit their family.</Events.10.Story>
+			<Events.11.Story>While fighting, [name] decided that once this battle was over, they'd like to start looking for love.</Events.11.Story>
+			<Events.12.Story>While fighting, [name] decided that once this battle was over, they'd like to get together with friends and have a few drinks.</Events.12.Story>
+		</Text>
+		<Text Name="Fishing">
+			<Events.1.Story>[name] is feeling homesick when fishing.</Events.1.Story>
+			<Events.2.Story>[name]'s mind started drifting toward [obj_friend] when fishing.</Events.2.Story>
+			<Events.3.Story>When fishing, [name] suddenly took an interest in the [obj_nearthing] nearby.</Events.3.Story>
+			<Events.4.Story>[name] suddenly wanted to eat [obj_food] when fishing.</Events.4.Story>
+		</Text>
+	</List>
+</Texts>

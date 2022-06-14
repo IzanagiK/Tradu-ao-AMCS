@@ -1,0 +1,180 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam	BanNpc	UnlockNpc
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report	无成功失败/中性回答	Success!	Failed!	数值参数(SECRET为事件ID)	文本参数		
+First	1	Who are you?	My name is [NAME]... Greetings, Elder!						
+First	3	I am [NAME], and you are?	Greetings, Elder. I'm [NAME]!						
+First	4	I am [NAME]. Nice to meet you!	Uh, I'm [NAME]!						
+First	5	Nice to meet you. I'm [NAME], and may I ask what's your name?	Welcome. I'm [NAME]. Nice to meet you!						
+									
+Track	0	Do you know where [TNAME] from [TSCHOOL] has gone these days?	I have no interest in this person.	I think he is in [TXT] these days.	Why should I tell you?				
+TrackTell	0	[TNAME] from [TSCHOOL] is in [TXT].	I have no interest in this person.	Thanks for the information!	I already knew that.				
+									
+TrackT	0	Do you plan on travelling anywhere?	...	I'm planning on visiting [TXT]. What's the matter?	Why should I tell you?				
+TrackTellT	0	Are you going to [TXT]? Travel safely.	Oh...	Thanks for the warning. I will be careful!	How did you know?				
+									
+AboutNpc	0	Do you know [TNAME] from [TSCHOOL]?	Who is this guy? I don't know.	I know a little about [TNAME] in [TXT].	Do you know anything about [ENHIM]?				
+									
+Gift	1	My present for you!	Thanks, Elder!	Thanks, Elder!	... (Stutters)				
+Gift	3	This [TXT] is for you. Do you like it?	This is nice. Thanks!	Very nice. Thanks, Elder!	Uh... (Frowning)				
+Gift	4	You can have this [TXT], please!	Oh, not bad.	Very nice. Thanks!	Humph...				
+Gift	5	You can have this [TXT], please!	Oh, not bad.	Very nice. Thanks!	Tsk, tsk...				
+									
+Invite	1	Are you interested in a trip to our majestic mountains?	I've answered that.	Great! Is this the best Immortal Destiny?!	I have many unfinished tasks here in the mortal realm. I can't go.				
+Invite	2	[HENAME], are you interested in being a guest at our sect?	I've answered that.	I was thinking the same thing!	I'm too busy these days. Excuse me!				
+									
+Close	1	That's it for today!	Farewell, Elder!						
+Close	2	That's it for today, friend. Farewell!	Till we meet again!						
+									
+Secret	2	Something interesting as of late?	I'll let you in on a secret I just heard.						
+									
+Interest	0	Yes? What's the matter?	I'm interested in [TNAME] from [TSCHOOL]. Do you know anything?						
+Interest	0	Yes? What's the matter?	Have you heard from [TSCHOOL]'s [TNAME]?						
+Interest	0	Yes? What's the matter?	Have you seen [TNAME] from [TSCHOOL]?						
+									
+Know	0	Anything new as of late?	I know something about [TXT] of [TNAME] from [TSCHOOL].						
+Know	0	Anything new as of late?	I heard some news about [TXT] of [TNAME] from [TSCHOOL].						
+Know	0	Anything new as of late?	I saw [TNAME] from [TSCHOOL] the other day. Looked well.						
+									
+Chat	0	How's it going?	Tsk, tsk.						
+Chat	0	Sometimes I feel isolated from everything else in the world and very lonely.	... I don't know what you're talking about...						
+Chat	0	Anything new as of late?	Another day and nothing new. How boring.						
+Chat_Place_DanXia	0	[HENAME], anything to talk about in your sect?	Elder [color=#ff0000]Xie Si[/color] is the supervisor of the Foreign Affairs Branch of our sect, who has dedicated their whole life to the growth of our sect. It is said that in [desc_daytime=-20], the sect was going to expand and they had even sold a whole batch of rare materials at a low price. Elder [color=#ff0000]Xie Si[/color] immediately gave up the artifact that was almost completed, and prepared to follow the sect leader's order, proving his loyalty to the sect. But the expansion didn't happen in the end. Such a shame. Wasted the artifact for nothing.					Npc_DanXia_2	Npc_DanXia_2
+Chat_Place_DanXia	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of Space and Time in the Pool of Virtues in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_DanXia	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Shield of Wood Essence." Such ability when released truly refreshes one mind and body.						
+Chat_Place_DanXia	0	[HENAME], anything to talk about in your sect?	Our sect's Sage [color=#ff0000]Huo Li[/color] is a book fanatic who's spent his whole life deciphering ancient secrets. Although it didn't work out, he is still studying the scrolls every minute of the day.					Npc_DanXia_3	Npc_DanXia_3
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_KunLun	0	[HENAME], anything to talk about in your sect?	Our sect's Elder [color=#ff0000]Li Weiyan[/color] is so shrewd that we have never been taken advantage of since they started managing the sect's storage. But around [desc_daytime=-20], Elder [color=#ff0000]Li Weiyan[/color] became very upset for a while. Nobody knew why.					Npc_KunLun_2	Npc_KunLun_2
+Chat_Place_KunLun	0	[HENAME], anything to talk about in your sect?	Our sect's Sage [color=#ff0000]Gu Cong[/color] has mastered various kinds of formations, and even the lost Dragon Circle was told to be restored by them. What a genius intellectual.					Npc_KunLun_3	Npc_KunLun_3
+Chat_Place_KunLun	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of the Creation of Cosmos in the Throne of Taos in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_KunLun	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Shield of Heavenly Serenity." After the formation was laid down, the people were invigorated.						
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_TianJi	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of Yin and Yang in the Wood of Emotions in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_TianJi	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Phoenix Feather Formation." The power of mysterious reversals in a desperate situation is embodied in this formation.						
+Chat_Place_TianJi	0	[HENAME], anything to talk about in your sect?	Rumor has it that our sect's Elder [color=#ff0000]He Zudao[/color] loves studying talismans and often draws talismans that have never been seen before. They must have inherited some secret legacy.					Npc_JiTian_1	Npc_JiTian_1
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_JiuHua	0	[HENAME], anything to talk about in your sect?	[color=#ff0000]Qin Jie[/color] is such an unlucky kid. He spent decades preparing for the Core Shaping, and when the time is ripe in [desc_daytime=-20], he asked for his master to guard him. His request was ignored by his master, who instead took part in some closed-door session and injured himself internally while meditating, decades' preparation going down the drain. What a shame.					Npc_ZiXiao_3	Npc_ZiXiao_3
+Chat_Place_JiuHua	0	[HENAME], anything to talk about in your sect?	Our sect's Sage [color=#ff0000]Xin Qi[/color] is friendly and outgoing and has been in charge of welcoming guests from the other sects. It's all thanks to Elder Xin Qi that our disciples in Purple Cloud Temple can receive help from many sides while on adventure.					Npc_ZiXiao_2	Npc_ZiXiao_2
+Chat_Place_JiuHua	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of the Creation of Time and a Way of Sun and Moon in the Astral Plate in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_JiuHua	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Yin Yang Formation." The flexibility of it was completely unrestrained.						
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_LongHu	0	[HENAME], anything to talk about in your sect?	Our sect's Sage [color=#ff0000]Ye Baixue[/color] is known to be such a nice person that nobody has seen her get angry before. But [desc_daytime=-20], she visited the Purple Cloud Temple and then came back, uncharacteristically furious and yelling "How dare they".					Npc_ZhengYi_2	Npc_ZhengYi_2
+Chat_Place_LongHu	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of Beginning and End in the Draconic Pagoda in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_LongHu	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Shield of Vastness." The whole area became shrouded, it seemed impenetrable.						
+									
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_Shu	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of Life and Death in the Pool of Swords in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_Shu	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Dark Metal Sword Formation." Between the Gates of Life and Death, this truly provides both a formidable offense and defense.						
+Chat_Place_Shu	0	[HENAME], anything to talk about in your sect?	Our sect's Sage [color=#ff0000]Ying Yang[/color]'s master used to be honored as the first rising star after the Immortal Lord Blue Lotus. Unfortunately, they died in a catastrophe a thousand years ago. Such a shame.					Npc_Shu_1	Npc_Shu_1
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_WuLian	0	[HENAME], anything to talk about in your sect?	Our sect is often in disagreement with Mt. Hundred Insects. Thanks to Elder [color=#ff0000]Gan Ming[/color] keeping an eye on any changes in Mt. Hundred Insects, we can have a few advantages over them.					Npc_QiXia_1	Npc_QiXia_1
+Chat_Place_WuLian	0	[HENAME], anything to talk about in your sect?	[desc_daytime=-20], our sect's disciple [color=#ff0000]Lin Siyuan[/color] found an immortal abode overseas and almost lost his life. Thanks to the elders in our sect, he finally survived.					Npc_QiXia_3	Npc_QiXia_3
+Chat_Place_WuLian	0	[HENAME], anything to talk about in your sect?	Elder [color=#ff0000]Yue Qingchou[/color] and [color=#ff0000]Ning Xiao[/color] have known each other since they were mortals. Together, they joined the sect, practiced and stayed friends for life. What an inspiration.					Npc_QiXia_2	Npc_QiXia_2|Npc_QiXia_4
+Chat_Place_WuLian	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of Thriving of Beings in the Numinous Peak in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_WuLian	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Ruin of the Five Peaks." One phrase truly applies, "rock steady."						
+									
+									
+									
+									
+									
+									
+Chat_Place_BaiMan	0	[HENAME], anything to talk about in your sect?	[color=#ff0000]Ba Han[/color] is in charge of guarding the sect gate. Usually, they know everything that is happening in the sect. They're not only well-informed but also paid very well. What a cushy job.					Npc_BaiMan_1	Npc_BaiMan_1
+Chat_Place_BaiMan	0	[HENAME], anything to talk about in your sect?	[desc_daytime=-20], our sect's Sage [color=#ff0000]Qidiao Zhuo[/color] suddenly became much more powerful, and after that, senior disciples in the sect had also gained power one by one. No idea what luck they got this time.					Npc_BaiMan_2	Npc_BaiMan_2
+Chat_Place_BaiMan	0	[HENAME], anything to talk about in your sect?	Our sect's Sage [color=#ff0000]Bai Zhi[/color] is a social butterfly and has been in charge of welcoming guests from the other sects. With friends all over the world, they are the most well-informed person in our sect.					Npc_BaiMan_3	Npc_BaiMan_3
+Chat_Place_BaiMan	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of the Nullification of Time in the Altar of Death in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_BaiMan	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Nine Dragon Formation." Viewed from on far, the spirit splitting method was incredible.						
+									
+									
+									
+									
+									
+									
+Chat_Place_XianKong	0	[HENAME], anything to talk about in your sect?	In our sect Pit of Doom, we are all envious of [color=#ff0000]Zhu Fei[/color], who only needs to coordinate with the informants in the Central Plains on a regular basis and report the secret messages to the higher-ups in our sect. It's a cushy job and you still have plenty of time for training. How lucky.					Npc_QiQian_2	Npc_QiQian_2
+Chat_Place_XianKong	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of the Desolation of Cosmos in the Magnetic Crater in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_XianKong	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Grand Chariot Perfected Warrior Formation." This delusion breaking skill seems to be able to penetrate all things. It's unbelievable.						
+									
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_Hei	0	[HENAME], anything to talk about in your sect?	Our sect's Sage [color=#ff0000]Yu Moran[/color] is in charge of guarding the vault of scrolls. The scrolls are about treasures that have been lost since the ancient times. Reading them is like reading fictional stories. It's just for fun, nothing else.					Npc_QiSha_2	Npc_QiSha_2
+Chat_Place_Hei	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of the Obliteration of Beings in the Stele of Slaughter in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_Hei	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Ragestriker Formation." Everything around was obliterated. It's power was obviously originated in time immemorial.						
+									
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_HeHuan	0	[HENAME], anything to talk about in your sect?	Our sect's Sage [color=#ff0000]Yin Lian[/color] is always interested in and knows a lot about the history of ancient secrets. It is told that in [desc_daytime=-20], she answered a question during her visit to Mt. Hundred Insects and received 100,000 spirit stones as reward. So, maybe studying history is a quick way to make a fortune.					Npc_HeHuan_2	Npc_HeHuan_2
+Chat_Place_HeHuan	0	[HENAME], anything to talk about in your sect?	It is said that there is a Way of Creation and Formation in the Sacred Yin Spring in our Sect that has limitless power when used in a formation... Who knows if it's true though...						
+Chat_Place_HeHuan	0	[HENAME], anything to talk about in your sect?	A few days ago, I saw someone in the sect practicing the "Triple Negative Formation," all passersby could only stop and stare in awe.						
+									
+									
+									
+									
+									
+									
+									
+Chat_Place_BirthPlace14	1	Anything interesting happened here?	This is Mt. Coppertomb... It seems like there was a strange person to the southeast popping up recently...it's worrisome.						
+Chat_Place_BirthPlace14	1	Anything interesting happened here?	There are so many well known great sharp tools that exist, though you never hear about the blunt ones. Sharp and blunt tools have different uses though, so... We all use sharp ones, but there are said to be some blunt ones used in mining jade, thought I know not where they might be.						
+Chat_Place_JiuHua1	1	Anything interesting happened here?	I saw an entertainer before that had all types of beasts with him. They lined themselves up by themselves. He came once, and a man dressed in beast hides stopped him, spoke to him briefly, then the beasts and the entertainer left with him. He never returned.						
+Chat_Place_Desert4	1	Anything interesting happened here?	Although it's quite arid here, but there's a chance of rainfall.						
+Chat_Place_FertileField1	1	Anything interesting happened here?	My grandfather said that the highest mountain has a pond on the top, and that it can even erupt!						
+Chat_Place_FertileField2	1	Anything interesting happened here?	There are some odd mushrooms in the Mistwood Forest. After eating them, I saw many elves at work cutting stone, it was fantastic!						
+Chat_Place_FertileField3	1	Anything interesting happened here?	I've been to the Great Desert before for business. There's a village there where the people only eat raw meat... They don't know a thing about Flour!						
+Chat_Place_CentralPlains4	1	Anything interesting happened here?	Someone in the village ate some mushrooms brought from outside the village a few days ago...he was out for 3 days. While out, he was sweating profusely or giggling in his sleep. When he awoke, he told us he had seen everyone in town turn into birds in a dream. We thought he went crazy, but he returned to normal later on.						
+Chat_Place_CentralPlains5	1	Anything interesting happened here?	I once bought some mushrooms for very cheap, which I ate when I got back home. I soon realized that there were flowers on the wall, which I began to pick. I don't know how many days later, I realized that people were looking at me in a funny manner, it seems I had been digging at the wall...						
+Chat_Place_BirthPlace11	1	Anything interesting happened here?	Riverbank Plains produces quite a bit of Flour. Our ancestors produces more Wheat than them, though we were never able to produce half as much Flour and it's not known why.						
+Chat_Place_BirthPlace13	1	Anything interesting happened here?	A lot of our Cotton is sold to Reed Village. They're incredibly fast at sewing and the women there wear some sort of bracer.						
+Chat	1	Anything interesting happened here?	I hear the neighbors have a new kid, I'm so jealous!						
+Chat	1	Anything interesting happened here?	Some youngsters in our village have been acting odd lately, blocking the entrance to the village and getting up to no good. How scandalous.						
+Chat	1	Anything interesting happened here?	Everything is so dull, there's never anything new! I want to get to know Immortals and become their disciple, too. I've never even seen an Immortal though...						
+Chat	1	Anything interesting happened here?	A few days ago, I met a locksmith, but everything that one said pissed me off.						
+Chat	1	Anything interesting happened here?	There's never anything to eat around the village recently, it's odd.						
+Chat	1	Anything interesting happened here?	Are you saying it's possible that there are Immortals sneaking off with our things?						
+Chat	2	[HENAME], anything interesting lately?	It's upsetting, but that day, I fought and only used half of what I know, yet I was accused of stealing secret techniques from the west. I'm really quite upset... Swordsmanship is nothing more than those patterns... You don't distinguish between the changes that follow, how can you come to any real conclusion?						
+Chat	2	[HENAME], anything interesting lately?	Recently, the others urge me to hurry up and break through to a new State. How can you hurry such a thing? I can only tell them I'm almost there... How vexing.						
+Chat	2	[HENAME], anything interesting lately?	I've come to a realization recently: The Creed of Practice, it's not good or bad, it's just something that can't be mastered completely. The Creed, in the end, lies within. To be worthy of one's own heart is enough.						
+Chat	2	[HENAME], anything interesting lately?	Speaking of talismans, we have to bring up Skydome Palace's elder [color=#ff0000]He Zudao[/color].					Npc_JiTian_1	Npc_JiTian_1
+ZhuLongChat	0	Is it Torch Dragon, the manifestation of Yin and Yang of the Creed of Heaven? It seems a bit strange for it to suddenly descend here. What happened?	I am Torch Dragon. Some things from the Otherworld have flowed into this realm recently, along with the Creed of Heaven of the Otherworld. I have been affected by that and thus appeared in this form. Among these things, there is the Prayer Coin, which is the combination of the wishes of people from the Otherworld, quite intriguing. If you are willing to give it to me, I shall grant you a wish with my power from the Creed of Heaven.						
+	

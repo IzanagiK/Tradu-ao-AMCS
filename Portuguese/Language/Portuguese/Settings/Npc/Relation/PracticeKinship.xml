@@ -1,0 +1,44 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="PracticeMaster">
+			<DisplayNameF>Master</DisplayNameF>
+			<DisplayNameM>Master</DisplayNameM>
+		</Text>
+		<Text Name="PracticeChild">
+			<DisplayNameF>Disciple</DisplayNameF>
+			<DisplayNameM>Disciple</DisplayNameM>
+		</Text>
+		<Text Name="PracticeMasterMaster">
+			<DisplayNameF>Great Master</DisplayNameF>
+			<DisplayNameM>Great Master</DisplayNameM>
+		</Text>
+		<Text Name="PracticeChildChild">
+			<DisplayNameF>Disciple's Disciple</DisplayNameF>
+			<DisplayNameM>Disciple's Disciple</DisplayNameM>
+		</Text>
+		<Text Name="PracticeBrother">
+			<DisplayNameF>Fellow Disciple, Fellow Disciple</DisplayNameF>
+			<DisplayNameM>Fellow Disciple, Fellow Disciple</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherBrother">
+			<DisplayNameF>Fellow Disciple, Fellow Disciple</DisplayNameF>
+			<DisplayNameM>Fellow Disciple, Fellow Disciple</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherMaster">
+			<DisplayNameF>Master's Fellow Disciple, Master's Fellow Disciple</DisplayNameF>
+			<DisplayNameM>Master's Fellow Disciple, Master's Fellow Disciple</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherChild">
+			<DisplayNameF>Fellow Disciple's Disciple</DisplayNameF>
+			<DisplayNameM>Fellow Disciple's Disciple</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherMasterMaster">
+			<DisplayNameF>Grand Master</DisplayNameF>
+			<DisplayNameM>Grand Master</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherChildChild">
+			<DisplayNameF>Disciple's Disciple</DisplayNameF>
+			<DisplayNameM>Disciple's Disciple</DisplayNameM>
+		</Text>
+	</List>
+</Texts>

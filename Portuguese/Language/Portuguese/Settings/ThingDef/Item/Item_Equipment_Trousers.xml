@@ -1,0 +1,67 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="TrousersBase" sParam="Item">
+			<Item.FabaoSuffix>Clothes, Armor, Robe, Shirt</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SummerTrousers" sParam="Item">
+			<ThingName>Thin Pants</ThingName>
+			<Desc>Very breathable clothing, but also protects one from cold slightly.</Desc>
+		</Text>
+		<Text Name="Item_SilkTrousers" sParam="Item">
+			<ThingName>Summer Pants</ThingName>
+			<Desc>Refreshing and relaxing clothing, wearing it feels pleasantly cool.</Desc>
+		</Text>
+		<Text Name="Item_PracticeTrousers" sParam="Item">
+			<ThingName>Cultivator Pants</ThingName>
+			<Desc>Standard uniform of a sect, allows one to stay relatively warm, but it is not very breathable.</Desc>
+		</Text>
+		<Text Name="Item_FormalTrousers" sParam="Item">
+			<ThingName>Casual Pants</ThingName>
+			<Desc>Casual everyday clothing, allows one to stay relatively warm, but it is not very breathable.</Desc>
+		</Text>
+		<Text Name="Item_WinterTrousers" sParam="Item">
+			<ThingName>Winter Pants</ThingName>
+			<Desc>Thick and solid clothing, allows one to stay absolutely warm.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers1" sParam="Item">
+			<ThingName>Scale Pants</ThingName>
+			<Desc>Magical cloth woven with dragon scales. Wearing it increases one's Protection skill level and enables travel by windriding. Very miraculous.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers2" sParam="Item">
+			<ThingName>Dark Pants</ThingName>
+			<Desc>Magical cloth with concentrated pure Yin power. Wearing it increases one's Spell skill level and enables travel by windriding. Very miraculous.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers3" sParam="Item">
+			<ThingName>Cinder Pants</ThingName>
+			<Desc>Magical cloth with concentrated pure Yang power. Wearing it increases one's Artifact Mastery skill level and enables travel by windriding. Very miraculous.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers4" sParam="Item">
+			<ThingName>Shroud Pants</ThingName>
+			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's Attainment and enables travel by windriding. Very miraculous.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers5" sParam="Item">
+			<ThingName>Feather Pants</ThingName>
+			<Desc>Magical cloth with evil dispelling power. Wearing it can improve Mental State by driving the inner demons out of one's mind, and enables travel by windriding. Very miraculous.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers6" sParam="Item">
+			<ThingName>Golden Pants</ThingName>
+			<Desc>Magical cloth with concentrated pure Yang power. Wearing it increases one's Artifact Mastery skill level and enables travel by windriding. Very miraculous.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers7" sParam="Item">
+			<ThingName>Firebath Pants</ThingName>
+			<Desc>Magical cloth sewn with the hide of Blaze Rats. Wearing it can improve one's Protection skill level and effectively reduce Fire Damage, as well as enabling travel by windriding. Very miraculous.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers8" sParam="Item">
+			<ThingName>Pants of Flow</ThingName>
+			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's Attainment and enables travel by windriding. Very miraculous.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers9" sParam="Item">
+			<ThingName>Specter Pants</ThingName>
+			<Desc>Magical cloth with concentrated pure Yin power. Wearing it increases one's Spell skill level and enables travel by windriding. Very miraculous.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers10" sParam="Item">
+			<ThingName>Crane Pants</ThingName>
+			<Desc>Magical cloth with evil dispelling power. Wearing it can improve Mental State by driving the inner demons out of one's mind, and enables travel by windriding. Very miraculous.</Desc>
+		</Text>
+	</List>
+</Texts>

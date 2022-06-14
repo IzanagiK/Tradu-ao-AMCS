@@ -1,0 +1,42 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_9_Mu">
+			<DisplayName>Six Paths Reincarnation Law</DisplayName>
+			<Desc>One of the true elemental Laws of the Taiyi Sect. The cultivator will be the most powerful at the beginning of each state, but as the cultivation progresses, their power will regress step by step until the cultivator becomes as weak as any other mortal. One can only be reborn and advance in cultivation after breakthroughing. Therefore, this Law is popular among cultivators, but few have succeeded in it.</Desc>
+			<SelectDesc>One will be powerful in battles when cultivating following this Law, but not skilled in alchemy or artifact crafting. However, one has to experience reincarnation and gradually lose their power until the final ascension. Are you sure you want to follow this Law?</SelectDesc>
+			<Stages.0.DisplayName>Creed of Man</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Reborn</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Sinking</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Reincarnation</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>Creed of Animal</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Reborn</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Sinking</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Reincarnation</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Creed of Ghost</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Reborn</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Sinking</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Reincarnation</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>Creed of Hell</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Reborn</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Sinking</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Reincarnation</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Creed of Asura</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Reborn</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nThis breakthrough can be completed after repeated attempts. \nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Sinking</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Reincarnation</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Creed of Heaven</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Reborn</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nThis breakthrough can be completed after repeated attempts. \nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>Sinking</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.2.DisplayName>Reincarnation</Stages.5.Necks.2.DisplayName>
+			<Stages.5.Necks.2.Desc>After this reincarnation, one will leave all the six creeds behind and achieve immortality.</Stages.5.Necks.2.Desc>
+		</Text>
+	</List>
+</Texts>

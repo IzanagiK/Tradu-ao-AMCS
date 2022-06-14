@@ -1,0 +1,59 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_WeaponBow" sParam="Item">
+			<ThingName>Bow</ThingName>
+			<Desc>A bow that can be used to hunt distant targets.</Desc>
+			<Item.FabaoSuffix>Bow</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponWoodBow" sParam="Item">
+			<ThingName>Bow</ThingName>
+			<Desc>A bow that can be used to hunt distant targets.</Desc>
+			<Item.FabaoSuffix>Bow</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponKnife" sParam="Item">
+			<ThingName>Blade</ThingName>
+			<Desc>A single-edged sword that excels at slashing and chopping.</Desc>
+			<Item.FabaoSuffix>Blade</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponLance" sParam="Item">
+			<ThingName>Spear</ThingName>
+			<Desc>A long spear that can effectively inflict piercing damage to one's inner organs.</Desc>
+			<Item.FabaoSuffix>Spear</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponSword" sParam="Item">
+			<ThingName>Sword</ThingName>
+			<Desc>A light and flexible sword.</Desc>
+			<Item.FabaoSuffix>Sword</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponHalbert" sParam="Item">
+			<ThingName>Mace</ThingName>
+			<Desc>A heavy blunt weapon, its impact massive enough to break the enemy's bones and tendons.</Desc>
+			<Item.FabaoSuffix>Mace</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponAxeRing" sParam="Item">
+			<ThingName>Chakram</ThingName>
+			<Desc>An exotic weapon. Put it onto a boxing glove and it can be used to inflict a large number of wounds on the opponent very quickly.</Desc>
+			<Item.FabaoSuffix>Chakram</Item.FabaoSuffix>
+		</Text>
+		<Text Name="SP_Sword1" sParam="Item">
+			<ThingName>Daraboomba</ThingName>
+			<Desc>It is said that in the faraway land to the west, a warrior named Daraboomba used this sword to slay a powerful creature called "dragon". The whole sword is of crimson color as if it was bathed in dragon blood. When landing a hit with this sword, there is a chance of inflicting Heart Burn injury to the enemy.</Desc>
+		</Text>
+		<Text Name="SP_Sword2" sParam="Item">
+			<ThingName>Rainmaker</ThingName>
+			<Desc>A plain wooden sword left by the Immortal Pearlwood. It looks nothing out of the ordinary, yet possesses the miraculous ability of summoning rain and wind.</Desc>
+		</Text>
+		<Text Name="SP_Sword3" sParam="Item">
+			<ThingName>Techno Sword</ThingName>
+			<Desc>This sword is the keepsake of Wang Laoju, Sect Leader of the Future Tech. The presence of this sword represent the presence of Laoju himself. Holder of this sword can improve the morale of all employees, making them more willing to work.</Desc>
+		</Text>
+		<Text Name="SP_Sword4" sParam="Item">
+			<ThingName>Banedragon Sword</ThingName>
+			<Desc>An extremely powerful sword, this is the one carried by the Dark Swordmaster from the ancient times.</Desc>
+		</Text>
+		<Text Name="SP_Bow1" sParam="Item">
+			<ThingName>Hunting Bow</ThingName>
+			<Desc>Bow specifically designed for hunting animals. It uses special arrows that are coated with anesthetics and can't penetrate into skin, so it generally won't cause fatal injury.</Desc>
+		</Text>
+	</List>
+</Texts>

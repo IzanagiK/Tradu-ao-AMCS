@@ -1,0 +1,159 @@
+﻿<Helps>
+	<List>
+		<Help Name="Long" Type="Icon" Def="Boss_Long">
+			<Title>Flood Dragon</Title>
+			<Icon>ui/Other/bosstujian3</Icon>
+		</Help>
+		<Help Name="Long_P1" Root="Long" Type="Content">
+			<Title>Awoken</Title>
+			<Text><![CDATA[
+[color=#9e6404]Eruption: [/color]
+				Flood Dragon causes eruption of underground water veins, dealing damage to target and turning the area into shallow water.
+[color=#9e6404]Equable Charge: [/color]
+				Flood Dragon draws power from ancient water and summons thunder strikes to deal damage to target.
+[color=#9e6404]Call of the Herd: [/color]
+				Uses dragon might to force nearby animals to attack.
+[color=#9e6404]Water Compaction: [/color]
+				If Flood Dragon's Qi drops to 75% or less, it will absorb all water and steam from the location to stack the Power of Water Spirit and transform into True Dragon.]]></Text>
+		</Help>
+		<Help Name="Long_P2" Root="Long" Type="Content">
+			<Title>True Dragon</Title>
+			<Text><![CDATA[
+[color=#9e6404]Eruption: [/color]
+				Flood Dragon causes eruption of underground water veins, dealing damage to target and turning the area into shallow water.
+[color=#9e6404]Equable Charge: [/color]
+				Flood Dragon draws power from ancient water and summons thunder strikes to deal damage to multiple targets.
+[color=#9e6404]Dragon's Inhalation: [/color]
+				Flood Dragon breathes in deeply to accelerate the water consumption of all enemies in the map and stack the Power of Water Spirit for itself.
+[color=#9e6404]Countercharge: [/color]
+				Flood Dragon marks a character for a period of time, after which the character's artifact will countercharge with half of its max Qi, dealing great damage to all characters within 5 space of the marked unit. If Flood Dragon is counteractive with the artifact's element, the effect will double. Otherwise, it will be reduced to half.
+[color=#9e6404]Call of the Herd: [/color]
+				Uses dragon might to force nearby animals to attack.
+[color=#9e6404]Sanguine Absorption: [/color]
+				Flood Dragon refines all corpses in the area for recovery and to stack the Power of Water Spirit.]]></Text>
+		</Help>
+		<Help Name="Long_Secret" Root="Long" Type="Content">
+			<Title>Secrets</Title>
+			<Text><![CDATA[
+[color=#9e6404]Water Form: [/color]
+				Flood Dragon is of Water element, more susceptible to Earth damage, less to Water damage and even less to Fire damage. Metal damage will be absorbed.
+[color=#9e6404]Dragon Wrath: [/color]
+				If the rainstorm is dissipated, Flood Dragon will consume a great amount of Power of Water Spirit to enter a state of fury, causing an increase in all stats for 120 sec.
+				After Dragon Wrath, Flood Dragon will resummon a rainstorm and deal great damage to the character that dissipated the previous rainstorm. If Flood Dragon is counteractive with the character's stats, the effect will double. Otherwise, it will be reduced to half.
+[color=#9e6404]Cold Prison: [/color]
+				If one part of Flood Dragon's body is destroyed, it will exhale a freezing cold breath toward the location of the character that destroyed the part. Affected by the breath, the area will remain extremely cold for months.
+[color=#9e6404]Inundated Land: [/color]
+				When the Power of Water Spirit reaches 100 stacks, Flood Dragon will use the destructive power to eliminate all creatures within its attack range and turn the whole area into water.
+[color=#9e6404]True Dragon's Claw: [/color]
+				In True Dragon's form, Flood Dragon's claw will be shielded by the power of True Dragon and become indestructible.
+[color=#9e6404]Dragon Barrier: [/color]
+				Flood Dragon is born with a protection barrier that keeps its body parts from being destroyed. Only when it is in rage mode, its protection barrier will focus on its core and the other parts will weaken.
+[color=#9e6404]Dragon's Prismatic Scale: [/color]
+				Flood Dragon will show its Prismatic Scale only after releasing Dragon Wrath for three times.]]></Text>
+		</Help>
+		<Help Name="Feng" Type="Icon" Def="Boss_Feng">
+			<Title>Phoenix</Title>
+			<Icon>ui/Other/bosstujian2</Icon>
+		</Help>
+		<Help Name="Feng_P1" Root="Feng" Type="Content">
+			<Title>Firestruck</Title>
+			<Text><![CDATA[
+[color=#9e6404]Iridescent Flame: [/color]
+				Phoenix blows blazing flames, continuously dealing damage to target with a chance of lighting up nearby ground.
+[color=#9e6404]Fuse: [/color]
+				Phoenix marks a character for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If Phoenix is counteractive with the marked character's stats, damage increases by 200%.
+[color=#9e6404]Firekeeper: [/color]
+				Phoenix breathes in deeply to absorb all fire in the location, recovering Qi and gaining the Power of Fire Spirit based on the amount of absorbed fire.
+[color=#9e6404]Fire Eruption: [/color]
+				When the Power of Fire Spirit reaches 100 stacks, Phoenix will enter the Inferno form and risk its life to release 16 Feathers of Fire Spirit for attack.]]></Text>
+		</Help>
+		<Help Name="Feng_P2" Root="Feng" Type="Content">
+			<Title>Inferno Form</Title>
+			<Text><![CDATA[
+[color=#9e6404]Inferno Hold[/color]
+				Phoenix continues to consume the Power of Fire Spirit to maintain its Inferno form. When all Power of Fire Spirit is consumed, Phoenix will return to its original form and try to retrieve Feathers of Fire Spirit, each of which helps to recover 10% of its Qi.
+[color=#9e6404]Inferno Breath[/color]
+				Phoenix blows out flames in an arc, dealing damage to characters in the area with a chance of lighting up the ground.
+[color=#9e6404]Flame Fuse: [/color]
+				Phoenix marks all Metal cultivators for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If Phoenix is counteractive with the marked character's stats, damage increases by 200%. If there is no Metal cultivator, it will mark a random character to release Flame Fuse upon.
+[color=#9e6404]Firekeeper: [/color]
+				Phoenix breathes in deeply to absorb all fire in the location, recovering Qi and gaining the Power of Fire Spirit based on the amount of absorbed fire.
+[color=#9e6404]Sun Crystal: [/color]
+				Phoenix risks its life to release the essence of fire, raising the temperature of the whole area in an attempt to burn the place to ashes.]]></Text>
+		</Help>
+		<Help Name="Feng_Secret" Root="Feng" Type="Content">
+			<Title>Secrets</Title>
+			<Text><![CDATA[
+[color=#9e6404]Fire Form: [/color]
+				Phoenix is of Fire element, more susceptible to Water damage, less to Fire damage and even less to Metal damage. Wood damage will be absorbed.
+[color=#9e6404]Enraged Phoenix[/color]
+				When it rains, Phoenix will enter its rage mode and stop all actions to immediately release Firestruck to nearby ground three times in a row. Deals great damage to all enemies in the area. Firestruck targets areas with more Fire and Water element first. Phoenix will immediately release Firekeeper after Enraged Phoenix and then dissipate clouds, maintaining the sunny weather for a period of time.
+[color=#9e6404]Burning Pupil[/color]
+				If one part of Phoenix's body is destroyed, it will focus its power of true fire on releasing Burning Pupil to stare at the character that destroyed the part, dealing increasingly higher damage. And Phoenix's body will weaken for its lack of defense during the attack.
+[color=#9e6404]Nirvana[/color]
+				Dead Phoenix will be transformed into Phoenix Egg and try to absorb Qi within 49 days in order to be reborn. During this period, if the Phoenix Egg exhausts its Qi, the Phoenix will completely die. If it fully recharges its Qi, the Phoenix will be reborn. It will also die if the Egg fails to absorb enough Qi within 49 days.
+[color=#9e6404]Wings of Fire Spirit[/color]
+				In the Firestruck form, Phoenix' wings are protected by Feathers of Fire Spirit and thus nearly indestructible. The wings can only be destroyed after it has released Feathers of Fire Spirit in its Inferno form.
+[color=#9e6404]Sun Crystal: [/color]
+				Phoenix' Sun Crystal is the essence of all of its great power, and only Water artifacts can deal damage to it.]]></Text>
+		</Help>
+		<Help Name="ZhuLong" Type="Icon" Def="Boss_ZhuLong">
+			<Title>Torch Dragon</Title>
+			<Icon>ui/Other/bosstujian1</Icon>
+		</Help>
+		<Help Name="ZhuLong_P1" Root="ZhuLong" Type="Content">
+			<Title>Eternal Day</Title>
+			<Text><![CDATA[
+[color=#9e6404]God of Eternal Day: [/color]
+				Torch Dragon shows up in its Yang form and gains one stack of Solarflare Breath every 6 sec. Solarflare Breath will be transformed to an equal amount of Lunarfrost Breath after form switch.
+[color=#9e6404]Thunder of Impiety: [/color]
+				Torch Dragon unleashes its divine power to call upon Yang thunder filled with hatred to deal damage to target and temporarily increase target's Condemnation by 2. The higher the target's Condemnation, the greater the damage.
+[color=#9e6404]Dragon Breath: [/color]
+				Torch Dragon blows a heavy dragon breath toward one direction, attaching a Benign Dragon Avatar and dealing damage to every enemy touched by the breath. The higher the target's Condemnation, the greater the damage.
+[color=#9e6404]Heavenly Judgement: [/color]
+				Releases upon target with the lowest Condemnation and deals great damage. If target's Condemnation is higher than 50, they will be heavily injured and lose control over their Qi. Uncontrolled Qi will explode, deal damage to targets within 3 space, and eventually be absorbed by Torch Dragon into 20 stacks of Solarflare Breath.
+[color=#9e6404]Karmic Transformation: [/color]
+				When Solarflare Breath reaches 100 stacks, it will unleash the manifestations of karma force and attach Benign Dragon Avatar to all inner disciples.
+[color=#9e6404]Yin Yang Rage: [/color]
+				When Torch Dragon's egg is destroyed, it will disrupt the rule of Yin and Yang, deal damage to all enemies and hatch all Eggs of Yang that have not been suppressed. It will then fly into the air, create three Eggs of Yin and reappear in its Eternal Night form. During the form switch, Torch Dragon will gain 50 stacks of Lunarfrost Breath, and all the debuffs of Condemnation caused by Thunder of Impiety will be cleared.
+[color=#9e6404]Benign Dragon Avatar: [/color]
+				Phantom shadow created by Torch Dragon in its Eternal Day form. Continuously recovers Qi for Torch Dragon. The avatar's Qi and spell power are related to the character's Condemnation when the avatar is created. The higher the target's Condemnation, the greater the Qi and spell power.
+[color=#9e6404]Egg of Yang: [/color]
+				When releasing Yin Yang Rage, Torch Dragon will hatch all Eggs of Yang in the area, creating a huge threat that is Dragon's Servant. Egg of Yang can only be suppressed with very ominous Feng Shui.]]></Text>
+		</Help>
+		<Help Name="ZhuLong_P2" Root="ZhuLong" Type="Content">
+			<Title>Eternal Night</Title>
+			<Text><![CDATA[
+[color=#9e6404]God of Eternal Night: [/color]
+				Torch Dragon shows up in its Yin form and gains one stack of Lunarfrost Breath every 6 sec. Lunarfrost Breath will be transformed to an equal amount of Solarflare Breath after form switch.
+[color=#9e6404]Thunder of Divinity: [/color]
+				Torch Dragon unleashes its divine power to call upon Yin thunder filled with divine will to deal damage to target and temporarily reduce target's Mental State by 2. The lower the target's Mental State, the greater the damage.
+[color=#9e6404]Demon Dragon Breath: [/color]
+				Torch Dragon blows a heavy dragon breath toward one direction, attaching a Malignant Dragon Avatar and dealing damage to every enemy touched by the breath. The lower the target's Mental State, the greater the damage.
+[color=#9e6404]Evil Abyss: [/color]
+				Releases upon target with the highest Mental State and deals great damage. If target's Mental State is lower than 30, they will be heavily injured and lose control over their Qi. Uncontrolled Qi will explode, deal damage to targets within 3 space, and eventually be absorbed by Torch Dragon into 20 stacks of Lunarfrost Breath.
+[color=#9e6404]Demon Shapeshifting: [/color]
+				When Lunarfrost Breath reaches 100 stacks, it will unleash the manifestations of demonic force and attach Malignant Dragon Avatar to all inner disciples.
+[color=#9e6404]Yin Yang Rage: [/color]
+				When Torch Dragon's egg is destroyed, it will disrupt the rule of Yin and Yang, deal damage to all enemies and hatch all Eggs of Yin that have not been suppressed. It will then fly into the air, create three Eggs of Yang and reappear in its Eternal Day form. During the form switch, Torch Dragon will gain 50 stacks of Solarflare Breath, and all the debuffs of Mental State caused by Thunder of Divinity will be cleared.
+[color=#9e6404]Malignant Dragon Avatar: [/color]
+				Phantom shadow created by Torch Dragon in its Eternal Night form. Releases artifacts to attack its enemy. The avatar's Qi and spell power are related to the character's Mental State when the avatar is created. The lower the target's Mental State, the greater the Qi and spell power.
+[color=#9e6404]Egg of Yin: [/color]
+				When releasing Yin Yang Rage, Torch Dragon will hatch all Eggs of Yin in the area, creating a huge threat that is Dragon's Servant. Egg of Yin can only be suppressed with very auspicious Feng Shui.]]></Text>
+		</Help>
+		<Help Name="ZhuLong_Secret" Root="ZhuLong" Type="Content">
+			<Title>Secrets</Title>
+			<Text><![CDATA[
+[color=#9e6404]Yin Yang Form: [/color]
+				Torch Dragon is the manifestation of Yin and Yang in the Mortal Realm. In its Eternal Day form, only Yin elements like Metal and Water can deal damage to it, and it absorbs damage from Yang elements like Fire and Wood. In its Eternal Night form, only Yang elements like Fire and Wood can deal damage to it, and it absorbs damage from Yin elements like Metal and Water. Earth element ignores its form but only deals a small amount of damage.
+[color=#9e6404]Rage of the Creed of Heaven—Mind Shielding: [/color]
+				When its eye is destroyed in Eternal Night, Torch Dragon will call upon Rage of the Creed of Heaven to create Mind Shielding for the character that destroyed the eye, reducing their Mental State by 100 for a year. If the character survives Mind Shielding, their Mental State will permanently increase by 20.
+[color=#9e6404]Rage of the Creed of Heaven—Inferno of Karma: [/color]
+				When its eye is destroyed in Eternal Day, Torch Dragon will call upon Rage of the Creed of Heaven to create Inferno of Karma for the character that destroyed the eye, increasing their Condemnation by 1,000 for a year. If the character survives Inferno of Karma, their Condemnation will permanently reduce by 200.
+[color=#9e6404]Heavenly Scale: [/color]
+				There is a Heavenly Scale between Torch Dragon's eyebrows that only shows up after it has released Yin Yang Rage twice.
+[color=#9e6404]Chaos Jade: [/color]
+				Chaos Jade is the source of Torch Dragon's power that only shows up between the eyebrows after its eyes and Heavenly Scale are destroyed.]]></Text>
+		</Help>
+	</List>
+</Helps>

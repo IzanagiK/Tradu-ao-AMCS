@@ -1,0 +1,46 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_SnatchBody">
+			<DisplayName>Yin God Possession</DisplayName>
+		</Text>
+		<Text Name="Gong_LifeBurning">
+			<DisplayName>Life Burning</DisplayName>
+			<Desc>Increases abilities for a short time at the expense of damage to body when it finishes.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood">
+			<DisplayName>Demonization</DisplayName>
+			<Desc>Communicate with the Celestial Demons and completely demonize one's body, greatly improving physical quality and cultivation speed. But from now on, one would be despised by celestials and mortals alike.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood_LianHun">
+			<DisplayName>Refine Soul</DisplayName>
+			<Desc>Enduring torture, the soul has borne great pains.</Desc>
+		</Text>
+		<Text Name="Gong_HunTin_Self">
+			<DisplayName>Soul Splitting</DisplayName>
+			<Desc>Due to splitting out a part of the Primordial Spirit to perform Soul Infection, the character's consciousness is damaged. Intelligence, Cultivation Speed and Inspiration Obtaining Speed will be slightly reduced.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self">
+			<DisplayName>Exploited sympathy</DisplayName>
+			<Desc>Perform the Exploitation technique to obtain Inspiration and Cultivation from the minds of other living beings. However, it will reduce the base value of Mood and Mental State as a result.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self1">
+			<DisplayName>Exploited sympathy</DisplayName>
+			<Desc>Perform the Exploitation technique to obtain Inspiration and Cultivation from the minds of other living beings. However, it will reduce the base value of Mood and Mental State as a result.</Desc>
+		</Text>
+		<Text Name="Gong_TianMoWu">
+			<DisplayName>Fascination of Celestial Demon</DisplayName>
+		</Text>
+		<Text Name="Gong_SoulKeYin">
+			<DisplayName>Mind Imprint</DisplayName>
+		</Text>
+		<Text Name="Modifier_GongXinYin_Damage">
+			<DisplayName>Chant of Resonance Backfire</DisplayName>
+		</Text>
+		<Text Name="WuYinKeShenRestore">
+			<DisplayName>Five Spiritual Imprints Recovery</DisplayName>
+		</Text>
+		<Text Name="TianMoWuRestore">
+			<DisplayName>Celestial Demon Dance Recovery</DisplayName>
+		</Text>
+	</List>
+</Texts>

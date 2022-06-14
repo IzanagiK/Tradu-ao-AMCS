@@ -1,0 +1,103 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Bed" sParam="Building">
+			<ThingName>Bed</ThingName>
+			<Desc>A single bed that can provide you with a good night's sleep.</Desc>
+		</Text>
+		<Text Name="DoubleBed" sParam="Building">
+			<ThingName>Double Bed</ThingName>
+			<Desc>A double bed suitable for two people.</Desc>
+		</Text>
+		<Text Name="SmallTable" sParam="Building">
+			<ThingName>Table</ThingName>
+			<Desc>A simple table for people to have meals at.</Desc>
+		</Text>
+		<Text Name="Table" sParam="Building">
+			<ThingName>Square Table</ThingName>
+			<Desc>A traditional table for people to have dinner at.</Desc>
+		</Text>
+		<Text Name="WaterTank" sParam="Building">
+			<ThingName>Water Vat</ThingName>
+			<Desc>A container for storing and cleansing water. It can be very convenient to have somewhere that requires the frequent usage of water.</Desc>
+		</Text>
+		<Text Name="SmallPool" sParam="Building">
+			<ThingName>Destiny Pool</ThingName>
+			<Desc>A pool made from Fire Copper and Ice Crystal with a Fortune Seed as its core. It can gradually improve the quality of the surrounding earth.</Desc>
+		</Text>
+		<Text Name="StreetLight" sParam="Building">
+			<ThingName>Lamp Post</ThingName>
+			<Desc>A decorative light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="StreetLight1" sParam="Building">
+			<ThingName>Lamp Post</ThingName>
+			<Desc>A decorative light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="StreetLight2" sParam="Building">
+			<ThingName>Lamp Post</ThingName>
+			<Desc>A decorative light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="Lantern" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="Lantern1" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="Lantern2" sParam="Building">
+			<ThingName>Lantern (Protection)</ThingName>
+		</Text>
+		<Text Name="Lantern3" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="Lantern4" sParam="Building">
+			<ThingName>Lantern</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="Lantern5" sParam="Building">
+			<ThingName>Prosperity Lantern</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="Lantern6" sParam="Building">
+			<ThingName>Harmony Lantern</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="Lantern_S1" sParam="Building">
+			<ThingName>Crane Lantern</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="Candlestick" sParam="Building">
+			<ThingName>Oil Lamp</ThingName>
+			<Desc>A light often used indoors that shines at night to illuminate its surroundings.</Desc>
+		</Text>
+		<Text Name="TicTacToe" sParam="Building">
+			<ThingName>Tic-tac-toe</ThingName>
+			<Desc>Requires no materials, just an empty area on the ground to play tic-tac-toe on.</Desc>
+		</Text>
+		<Text Name="GoTable" sParam="Building">
+			<ThingName>Go Table</ThingName>
+			<Desc>A short Go table with a 19x19 grid for two people to play a great game of Go on.</Desc>
+		</Text>
+		<Text Name="GuzhengTable" sParam="Building">
+			<ThingName>Zither Table</ThingName>
+			<Desc>A table with a Chinese Zither on it that can be played by one person.</Desc>
+		</Text>
+		<Text Name="CalligraphyTable" sParam="Building">
+			<ThingName>Talisman Table</ThingName>
+			<Desc>A table with writing brushes, ink sticks, paper and inkstones on it that can be used to draw talismans. Besides this, it can also be used for leisure purposes.</Desc>
+		</Text>
+		<Text Name="CageShelf" sParam="Building">
+			<ThingName>Bird Cage</ThingName>
+			<Desc>A beautifully made bird cage for people who keep birds and insects.</Desc>
+		</Text>
+		<Text Name="Building_Tomb" sParam="Building">
+			<ThingName>Grave</ThingName>
+			<Desc>A simple place of burial for the dead.</Desc>
+		</Text>
+		<Text Name="Building_BigTomb" sParam="Building">
+			<ThingName>Tomb</ThingName>
+			<Desc>A place of burial for the dead.</Desc>
+		</Text>
+	</List>
+</Texts>

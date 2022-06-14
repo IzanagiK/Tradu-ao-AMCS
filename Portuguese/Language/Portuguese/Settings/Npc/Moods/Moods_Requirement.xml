@@ -1,0 +1,119 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Hungry1">
+			<DisplayName>Crazy with Hunger</DisplayName>
+			<Desc>Please, let me eat something, anything!</Desc>
+			<StoryDesc>Feeling that Starving with no food around leaves one with nothing to do but groan</StoryDesc>
+		</Text>
+		<Text Name="Hungry2">
+			<DisplayName>Extremely Hungry</DisplayName>
+			<Desc>I'm soooooo hungry. Isn't there anything to eat?</Desc>
+			<StoryDesc>Feeling that The hunger is so bad that the only thing that can be is to rub one's stomach</StoryDesc>
+		</Text>
+		<Text Name="Hungry3">
+			<DisplayName>Famished</DisplayName>
+			<Desc>I'm famished, perhaps I should find something to eat?</Desc>
+			<StoryDesc>Feeling that feeling hard to stay focused when one's so hungry</StoryDesc>
+		</Text>
+		<Text Name="Hungry4">
+			<DisplayName>Bloating</DisplayName>
+			<Desc>I ate so much it's uncomfortable.</Desc>
+			<StoryDesc>Feeling that Eating too much can also leave one in pain</StoryDesc>
+		</Text>
+		<Text Name="Thirsty1">
+			<DisplayName>Extreme Thirst</DisplayName>
+			<Desc>I'm so thirsty, I don't know what to do.</Desc>
+			<StoryDesc>Feeling that feeling no fun when your lips are cracking because your mouth is parched like a desert</StoryDesc>
+		</Text>
+		<Text Name="Thirsty2">
+			<DisplayName>Extremely Thirsty</DisplayName>
+			<Desc>Please, water...</Desc>
+			<StoryDesc>Feeling that When one is this thirsty, they become hoarse from it</StoryDesc>
+		</Text>
+		<Text Name="Thirsty3">
+			<DisplayName>Parched</DisplayName>
+			<Desc>My throat is parched, I could use some water.</Desc>
+			<StoryDesc>Feeling that feeling getting a bit difficult to swallow</StoryDesc>
+		</Text>
+		<Text Name="Fatigue1">
+			<DisplayName>Exhausted</DisplayName>
+			<Desc>I feel like I'll pass out at any moment.</Desc>
+			<StoryDesc>Feeling that Exhaustion has led to drowsiness and that could lead to passing out</StoryDesc>
+		</Text>
+		<Text Name="Fatigue2">
+			<DisplayName>Fatigued</DisplayName>
+			<Desc>If I don't get some rest, I'm liable to pass out.</Desc>
+			<StoryDesc>Feeling that Rubbing one's eyes is all that can be done to stay awake</StoryDesc>
+		</Text>
+		<Text Name="Fatigue3">
+			<DisplayName>Tired</DisplayName>
+			<Desc>Some sleep would hit the spot.</Desc>
+			<StoryDesc>Feeling that Some sleep would really help stop all this yawning</StoryDesc>
+		</Text>
+		<Text Name="Entertainment1">
+			<DisplayName>Bored to Death</DisplayName>
+			<Desc>This day is lasting forever.</Desc>
+			<StoryDesc>Feeling that Boredom has led to agitation..</StoryDesc>
+		</Text>
+		<Text Name="Entertainment2">
+			<DisplayName>Insipid</DisplayName>
+			<Desc>There's got to be something more interesting to do.</Desc>
+			<StoryDesc>Feeling that All that can be done to relieve the boredom is to swing one's arms around</StoryDesc>
+		</Text>
+		<Text Name="Entertainment3">
+			<DisplayName>Boring</DisplayName>
+			<Desc>I should be able to find something more interesting to do.</Desc>
+			<StoryDesc>Feeling that This boredom gets on one's nerves</StoryDesc>
+		</Text>
+		<Text Name="Entertainment4">
+			<DisplayName>Dull</DisplayName>
+			<Desc>It may be a bit boring, but at least life is peaceful.</Desc>
+			<StoryDesc>Feeling that There are worse things than boredom</StoryDesc>
+		</Text>
+		<Text Name="Entertainment5">
+			<DisplayName>Interesting</DisplayName>
+			<Desc>Life seems so interesting and full of happiness.</Desc>
+			<StoryDesc>Feeling that An interesting life is invigorating</StoryDesc>
+		</Text>
+		<Text Name="Entertainment6">
+			<DisplayName>Variety in Life</DisplayName>
+			<Desc>A colorful life, really leaves a lot to look forward to each day.</Desc>
+			<StoryDesc>Feeling that Such variety in life leaves one euphoric</StoryDesc>
+		</Text>
+		<Text Name="JoinSchool">
+			<DisplayName>First Time at the Monastery</DisplayName>
+			<Desc>I've been taken in, I'm going to become an Immortal!!</Desc>
+			<StoryDesc>Feeling that Having just been taken in, it's not difficult to feel elated</StoryDesc>
+		</Text>
+		<Text Name="NoTool">
+			<DisplayName>Tools Needed</DisplayName>
+			<Desc>I guess [TXT] is possible using one's hands? This hurts.</Desc>
+			<StoryDesc>Feeling that Not having the appropriate tools causes one to really grumble</StoryDesc>
+		</Text>
+		<Text Name="BeKick">
+			<DisplayName>Expelled</DisplayName>
+			<Desc>What did I do wrong?</Desc>
+			<StoryDesc>Feeling that Anger becomes explosive when one gets expelled</StoryDesc>
+		</Text>
+		<Text Name="Iamdying">
+			<DisplayName>Exhausted Lifespan</DisplayName>
+			<Desc>I'm going to die.</Desc>
+			<StoryDesc>Feeling that An exhausted lifespan is certainly something to fret over</StoryDesc>
+		</Text>
+		<Text Name="WalkerBeHelp">
+			<DisplayName>Assisted</DisplayName>
+			<Desc>There really are a lot of good people in this world.</Desc>
+			<StoryDesc>Feeling that Receiving assistance leaves one feeling grateful</StoryDesc>
+		</Text>
+		<Text Name="WalkerBeKick">
+			<DisplayName>Expelled</DisplayName>
+			<Desc>These people are unbelievable.</Desc>
+			<StoryDesc>Feeling that Getting expelled fills one with rage</StoryDesc>
+		</Text>
+		<Text Name="BeSale">
+			<DisplayName>Gifted</DisplayName>
+			<Desc>What did I do wrong?</Desc>
+			<StoryDesc>Feeling that Feeling upset about being gifted to others</StoryDesc>
+		</Text>
+	</List>
+</Texts>

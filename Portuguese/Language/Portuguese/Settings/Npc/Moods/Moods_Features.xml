@@ -1,0 +1,24 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Optimistic">
+			<DisplayName>Optimist</DisplayName>
+			<Desc>Everything always seems to be on the up and up, am I right?</Desc>
+			<StoryDesc>As optimistic as always</StoryDesc>
+		</Text>
+		<Text Name="Pessimism">
+			<DisplayName>Pessimist</DisplayName>
+			<Desc>This world is done for, why must we continue prolonging the inevitable?</Desc>
+			<StoryDesc>As pessimistic as always</StoryDesc>
+		</Text>
+		<Text Name="Depressed">
+			<DisplayName>Unhappy</DisplayName>
+			<Desc>It has no meaning, none of it...</Desc>
+			<StoryDesc>As dejected as always</StoryDesc>
+		</Text>
+		<Text Name="Regret">
+			<DisplayName>Regretful</DisplayName>
+			<Desc>I really do regret it...if only things had been different. I just hope that my remaining years are full of pain, maybe that will bring just a bit of atonement.</Desc>
+			<StoryDesc>As full of regret as always</StoryDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,26 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Other_BuryObject">
+			<TargetDesc>Select an empty area on the ground.</TargetDesc>
+		</Text>
+		<Text Name="Other_CreateLingPlant">
+			<TargetDesc>Select an empty area on the ground.</TargetDesc>
+		</Text>
+		<Text Name="Other_BuildMine">
+			<DisplayName>System Mountain Shaping</DisplayName>
+			<TargetDesc>Select an empty area on the ground.</TargetDesc>
+		</Text>
+		<Text Name="Item_TrackNpc">
+			<DisplayName>Tracking</DisplayName>
+			<TargetDesc>Select a character that needs tracking.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_Firecracker">
+			<DisplayName>Firecracker</DisplayName>
+			<TargetDesc>Select a location to ignite it.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_FirecrackerShit">
+			<DisplayName>Poopy Firecracker</DisplayName>
+			<TargetDesc>Select a location to ignite it.</TargetDesc>
+		</Text>
+	</List>
+</Texts>

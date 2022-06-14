@@ -1,0 +1,58 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Other_BingCanSi" sParam="Item">
+			<ThingName>Ice Silk</ThingName>
+			<Item.BeMaterial.NamePrefix>Ice Silk</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_BuZhiMing" sParam="Item">
+			<ThingName>Unknown Material</ThingName>
+		</Text>
+		<Text Name="Item_Other_JinJing" sParam="Item">
+			<ThingName>Western Metal Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Metal Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_MuJing" sParam="Item">
+			<ThingName>Eastern Wood Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Wood Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_ShuiJing" sParam="Item">
+			<ThingName>Northern Water Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Water Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_HuoJing" sParam="Item">
+			<ThingName>Southern Fire Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Fire Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_TuJing" sParam="Item">
+			<ThingName>Central Earth Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Earth Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_NoneJing" sParam="Item">
+			<ThingName>Natural Essence</ThingName>
+			<Item.BeMaterial.NamePrefix>Natural Essence</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_LarkPerk" sParam="Item">
+			<ThingName>Beak</ThingName>
+			<Item.BeMaterial.NamePrefix>Beak</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_BuffaloHorn" sParam="Item">
+			<ThingName>Bull Horn</ThingName>
+			<Item.BeMaterial.NamePrefix>Bull Horn</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_LionFang" sParam="Item">
+			<ThingName>Leopard Fang</ThingName>
+			<Item.BeMaterial.NamePrefix>Leopard Fang</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_TortoiseShell" sParam="Item">
+			<ThingName>Shell</ThingName>
+			<Item.BeMaterial.NamePrefix>Shell</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_DeerFeet" sParam="Item">
+			<ThingName>Deer Hoof</ThingName>
+			<Item.BeMaterial.NamePrefix>Deer Hoof</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SPStuffCategories_1" sParam="Item">
+			<ThingName>Unknown</ThingName>
+		</Text>
+	</List>
+</Texts>

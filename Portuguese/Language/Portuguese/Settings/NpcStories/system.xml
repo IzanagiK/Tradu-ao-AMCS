@@ -1,0 +1,15 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Normal">
+			<Events.0.Story>[name] was caught in a trance for some reason.</Events.0.Story>
+			<Events.1.Story>[name] [rand_string=sneezed,belched,got sand in their eyes,yawned,begun to talk to themselves,rubbed their belly,scratched themselves,suddenly felt kind of bored,combed their hair with fingers,got something in their shoes,stepped onto something,adjusted their clothes,sighed,puckered up their mouth,licked their lips,stuck their tongue out,dusted themselves off,was humming a tune,wanted someone to talk to,wanted to try writing poems,felt like their throat is itchy,snorted].</Events.1.Story>
+			<Events.2.Story>[name] [rand_string=circulated their Qi,recited a mantra several times,went through a Taoist chant in their mind].</Events.2.Story>
+			<Events.3.Story>[name] suddenly felt that their [rand_string=Right Eye,Left Eye] twitched a little.</Events.3.Story>
+			<Events.4.Story>[name] seemed to have heard someone calling them.</Events.4.Story>
+			<Events.5.Story>[name] wanted to talk to somebody about [rand_lable=obj_friend,obj_nearthing,other=obj,obj_action].</Events.5.Story>
+			<Events.6.Story>[name] really likes [rand_lable=obj_weather,obj_action].</Events.6.Story>
+			<Events.7.Story>[name] stared at the nearby [rand_lable=obj_friend,obj_nearthing], [rand_string=zoning out,giggling,pondering on something].</Events.7.Story>
+			<Events.8.Story>[name] wanted to have [obj_equip] [rand_string=changed,cleaned,rearranged].</Events.8.Story>
+		</Text>
+	</List>
+</Texts>

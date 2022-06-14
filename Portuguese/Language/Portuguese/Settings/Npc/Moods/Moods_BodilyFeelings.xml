@@ -1,0 +1,149 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Temperature1">
+			<DisplayName>Freezing</DisplayName>
+			<Desc>It feels like so cold that one could freeze to death.</Desc>
+			<StoryDesc>feeling so cold it's difficult to think straight</StoryDesc>
+		</Text>
+		<Text Name="Temperature2">
+			<DisplayName>Frigid</DisplayName>
+			<Desc>It's so cold that it's difficult to bear it.</Desc>
+			<StoryDesc>feeling so cold that the only way to stay remotely warm is to shiver as much as possible</StoryDesc>
+		</Text>
+		<Text Name="Temperature3">
+			<DisplayName>Cold</DisplayName>
+			<Desc>It's so cold that it's impossible to not shivering.</Desc>
+			<StoryDesc>feeling so cold that just to ward off frostbite one has to rub their hands together constantly</StoryDesc>
+		</Text>
+		<Text Name="Temperature4">
+			<DisplayName>It's getting nippy out.</DisplayName>
+			<Desc>It's a bit chilly out.</Desc>
+			<StoryDesc>Whispering can be heard about whether some extra layers might be needed to stop from shivering from the cold</StoryDesc>
+		</Text>
+		<Text Name="Temperature5">
+			<DisplayName>This temperature is comfortable.</DisplayName>
+			<Desc>The air felt just right, the temperature and breeze were perfect.</Desc>
+			<StoryDesc>feeling that the weather couldn't be better</StoryDesc>
+		</Text>
+		<Text Name="Temperature6">
+			<DisplayName>It's a bit hot.</DisplayName>
+			<Desc>It seems a bit hot.</Desc>
+			<StoryDesc>feeling so hot that sweat collects on the forehead, a fan would be nice about now</StoryDesc>
+		</Text>
+		<Text Name="Temperature7">
+			<DisplayName>Scorch</DisplayName>
+			<Desc>It wouldn't take long to get drenched with sweat in this heat.</Desc>
+			<StoryDesc>feeling impossible not to be drenched with sweat at this point</StoryDesc>
+		</Text>
+		<Text Name="Temperature8">
+			<DisplayName>Burning Hot</DisplayName>
+			<Desc>It's so hot it's difficult to bear.</Desc>
+			<StoryDesc>feeling so hot that all clothing is soaking wet with sweat</StoryDesc>
+		</Text>
+		<Text Name="Temperature9">
+			<DisplayName>Scorching Hot</DisplayName>
+			<Desc>It's dangerously hot, people might start collapsing at any moment in this heat.</Desc>
+			<StoryDesc>feeling so hot that it's difficult to stay conscious</StoryDesc>
+		</Text>
+		<Text Name="Light1">
+			<DisplayName>Glaringly Bright</DisplayName>
+			<Desc>It's so bright it's hard to keep one's eyes open.</Desc>
+			<StoryDesc>crying due to the intense rays, trying to cover one's eyes with a hand barely helps</StoryDesc>
+		</Text>
+		<Text Name="Light2">
+			<DisplayName>Dazzlingly Bright</DisplayName>
+			<Desc>The light is so intense it's difficult to bear or see.</Desc>
+			<StoryDesc>feeling so blind that the only thing that could be done is to squint and rub one's eyes</StoryDesc>
+		</Text>
+		<Text Name="Light3">
+			<DisplayName>Dim</DisplayName>
+			<Desc>The light isn't so bright, it's difficult to see.</Desc>
+			<StoryDesc>feeling so dark that all one can do is open their eyes as much as possible. If only it were brighter..</StoryDesc>
+		</Text>
+		<Text Name="Light4">
+			<DisplayName>Dark</DisplayName>
+			<Desc>It's not even possible to see one's hand in front of their face.</Desc>
+			<StoryDesc>feeling so dark that the only way to move around is to use one's hands to feel out one's surroundings</StoryDesc>
+		</Text>
+		<Text Name="Light5">
+			<DisplayName>Dim</DisplayName>
+			<Desc>Twilight sets one's heart at ease.</Desc>
+			<StoryDesc>feeling easy to just relax and enjoy the twilight</StoryDesc>
+		</Text>
+		<Text Name="Light6">
+			<DisplayName>Dark</DisplayName>
+			<Desc>It's not possible to see one's hand in front of their face, yet it feels safe.</Desc>
+			<StoryDesc>feeling easy to just relax and enjoy the darkness</StoryDesc>
+		</Text>
+		<Text Name="Pain1">
+			<DisplayName>Grave Pain</DisplayName>
+			<Desc>How is it so painful, it'd be better to just faint...</Desc>
+			<StoryDesc>Wailing from the pain, it feels like death must surely be near</StoryDesc>
+		</Text>
+		<Text Name="Pain2">
+			<DisplayName>Severe Pain</DisplayName>
+			<Desc>It's difficult to bear, it hurts so much...</Desc>
+			<StoryDesc>feeling so painful that all that can be done is to suffer through it moaning and gnashing one's teeth</StoryDesc>
+		</Text>
+		<Text Name="Pain3">
+			<DisplayName>Extreme Pain</DisplayName>
+			<Desc>It really hurts! When is the pain going to subside?!</Desc>
+			<StoryDesc>feeling all can do to not pass out</StoryDesc>
+		</Text>
+		<Text Name="Pain4">
+			<DisplayName>Pain</DisplayName>
+			<Desc>It's rather painful, gnashing one's teeth seems to help.</Desc>
+			<StoryDesc>feeling so blind that all can do is to grimace with pain</StoryDesc>
+		</Text>
+		<Text Name="Pain5">
+			<DisplayName>Mild Pain</DisplayName>
+			<Desc>It's kind of painful...</Desc>
+			<StoryDesc>With a furrowed brow, breathing deeply seems to help</StoryDesc>
+		</Text>
+		<Text Name="Consciousness1">
+			<DisplayName>Confused State of Mind</DisplayName>
+			<Desc>Who am I and what is this place?...What happened?</Desc>
+			<StoryDesc>in a mess..</StoryDesc>
+		</Text>
+		<Text Name="Consciousness2">
+			<DisplayName>Dizzy</DisplayName>
+			<Desc>My mind feels like soup...this is not a comfortable feeling.</Desc>
+			<StoryDesc>sighing from the sheer dizziness</StoryDesc>
+		</Text>
+		<Text Name="Consciousness3">
+			<DisplayName>Dizzy yet Drowsy</DisplayName>
+			<Desc>It feels like my head is full, I can't think a thing.</Desc>
+			<StoryDesc> is not feeling good</StoryDesc>
+		</Text>
+		<Text Name="Consciousness4">
+			<DisplayName>Listless</DisplayName>
+			<Desc>I don't feel like doing a thing, I've no energy...</Desc>
+			<StoryDesc>yawning from the sheer lack of energy</StoryDesc>
+		</Text>
+		<Text Name="GetWet">
+			<DisplayName>Soaking Wet</DisplayName>
+			<Desc>If only I had an umbrella.</Desc>
+			<StoryDesc>pulling at a wet clothing...if only had a change of clothes and a nice, warm fire</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood">
+			<DisplayName>Demonic Cries</DisplayName>
+			<Desc>There are countless demons crying in my heart...it seems like they are hungry.</Desc>
+			<StoryDesc>trying to bear the demons' cries in your heart</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_Satisfy">
+			<DisplayName>Temporarily Satisfied</DisplayName>
+			<Desc>Pleasure, this is what pleasure feels like.</Desc>
+			<StoryDesc>letting out a long sigh due to the evil desire fulfilled in your heart</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_LianHun">
+			<DisplayName>Refine Soul</DisplayName>
+			<Desc>If feels like my soul has been torn...I never knew that such pain existed.</Desc>
+			<StoryDesc>gnashing your teeth due to the pain</StoryDesc>
+		</Text>
+		<Text Name="AfterAbsorbGong_6">
+			<DisplayName>Empty Inside</DisplayName>
+			<Desc>It feels like cultivation isn't proving fulfilling, as if one were empty inside.</Desc>
+			<StoryDesc>feeling weak, it's puzzling</StoryDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,81 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_LingZhi_DiaoXie">
+			<DisplayName>sympathy</DisplayName>
+			<Desc>SymLawize with the Spiritual Root, feel the vibe of sadness released by the withering Spiritual Plant, and your Mental State is slightly disturbed.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Jin">
+			<DisplayName>Metal-Spirit sympathy</DisplayName>
+			<Desc>Cultivate near a Metal Spirit Root to enter the state of sympathy with it. Perception increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Jin">
+			<DisplayName>Metal-Fiend sympathy</DisplayName>
+			<Desc>Cultivate near a Metal Spirit Root to enter the state of sympathy with it. Perception increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Mu">
+			<DisplayName>Wood-Spirit sympathy</DisplayName>
+			<Desc>Cultivate near a Wood Spirit Root to enter the state of sympathy with it. Constitution increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Mu">
+			<DisplayName>Wood-Fiend sympathy</DisplayName>
+			<Desc>Cultivate near a Wood Spirit Root to enter the state of sympathy with it. Constitution increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Shui">
+			<DisplayName>Water-Spirit sympathy</DisplayName>
+			<Desc>Cultivate near a Water Spirit Root to enter the state of sympathy with it. Charisma increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Shui">
+			<DisplayName>Water-Fiend sympathy</DisplayName>
+			<Desc>Cultivate near a Water Spirit Root to enter the state of sympathy with it. Charisma increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Huo">
+			<DisplayName>Fire-Spirit sympathy</DisplayName>
+			<Desc>Cultivate near a Fire Spirit Root to enter the state of sympathy with it. Intelligence increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Huo">
+			<DisplayName>Fire-Fiend sympathy</DisplayName>
+			<Desc>Cultivate near a Fire Spirit Root to enter the state of sympathy with it. Intelligence increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Tu">
+			<DisplayName>Earth-Spirit sympathy</DisplayName>
+			<Desc>Cultivate near an Earth Spirit Root to enter the state of sympathy with it. Luck increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Tu">
+			<DisplayName>Earth-Fiend sympathy</DisplayName>
+			<Desc>Cultivate near an Earth Spirit Root to enter the state of sympathy with it. Luck increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_XinJing1">
+			<DisplayName>Pristine Mind</DisplayName>
+			<Desc>Mental State is increased for a short period of time.</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_XinJing2">
+			<DisplayName>Disordered Mind</DisplayName>
+			<Desc>Mental State is decreased for a short period of time.</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_MaxLing1">
+			<DisplayName>Qi Taken</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing1">
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 1</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing2">
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 2</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing3">
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 3</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing4">
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 4</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing5">
+			<DisplayName>Blessing effect from maturity of Spiritual Plant 5</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing_A">
+			<DisplayName>Spiritual Cleansing</DisplayName>
+			<Desc>Nourished by the aura of maturity from Spiritual Plants, all Inner Injuries the body has sustained are being healed.</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_RipeSha">
+			<DisplayName>Curse effect from maturity of Spiritual Plant</DisplayName>
+		</Text>
+	</List>
+</Texts>

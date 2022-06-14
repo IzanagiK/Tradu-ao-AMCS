@@ -1,0 +1,7 @@
+﻿ID	Name	Desc	sParam1	sParam2
+ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:妖兽种族) (宝物:物品类型lable 权重:ID|ID.)  (角色:数据名字) (秘闻:随机秘闻ID|ID) (路人：行为描述)(动物进攻：种族)（精怪来临：精怪类型）	(路人：附加标记)（精怪来临：具体名称  用|隔开。必须要有种族）
+40001	Panda Iluminado		Panda,10,10,10,10,10,3,Target,,3	At [TXT], um panda chegou à realização de "[FRAG]" por acaso, e assim se tornou despertado.
+40002	Panda Iluminado		Panda,10,10,10,10,10,3,Emotion,,3	At [TXT], por alguma razão, um panda acidentalmente sentiu "[FRAG]" várias vezes, tornando-se despertado como resultado.
+40003	Panda Iluminado		Panda,10,10,10,10,10,3,Scene,,3	Um panda "[FRAG]" várias vezes em [TXT], então teve um Enlightment repentino e tornou-se despertado.
+40004	Animal Juntou-se a um panda veio à sua seita. Parece gostar de estar aqui.	Panda	
+40005	Invasão das Bestas Alguns monstros panda apareceram por perto, e eles parecem muito hostis.	JYPanda	TongYong_DropList

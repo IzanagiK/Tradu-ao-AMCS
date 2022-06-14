@@ -1,0 +1,32 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="GodPractice_GodPowerEffect">
+			<DisplayName>Divinity</DisplayName>
+			<Desc>As one's Divinity increases, the character can exert more control over divine power and thus become more powerful, while at the same time the Mood multiplier is increased as well.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_A">
+			<DisplayName>Divinity</DisplayName>
+			<Desc>Actual effects for a Divinity value of 0-30.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_B">
+			<DisplayName>Divinity</DisplayName>
+			<Desc>Actual effects for a Divinity value of 30-100.</Desc>
+		</Text>
+		<Text Name="GodPractice_Xinzhai">
+			<DisplayName>Mind Fasting</DisplayName>
+			<Desc>Temporarily reduce the impact of emotions on Mood through Mind Fasting. The more time it takes in Mind Fasting, the longer its effects persist after completion. Your Mental State will not change for the duration of the Mind Fasting.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodLike">
+			<DisplayName>Deification</DisplayName>
+			<Desc>Temporarily adjust Divinity to 99.99% within 300 seconds, and permanently gain 1% Divinity after it finishes.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_KeJi">
+			<DisplayName>Restrained</DisplayName>
+			<Desc>Faith Cultivation - Restrained</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_ZongYu">
+			<DisplayName>Indulging</DisplayName>
+			<Desc>Faith Cultivation - Indulging</Desc>
+		</Text>
+	</List>
+</Texts>

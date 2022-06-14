@@ -1,0 +1,61 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Secrets_Gong2">
+			<DisplayName>Manifestação do Mandato</DisplayName>
+			<Desc>[NAME] chegou a [PLACE] e descobriu que este e o lugar que havia herdado os ensinamentos do "Myriad Artifact Law." A herança e cercada por um circulo de antigos Imortais. Parece que este e o selo estabelecido pelo antigo Imortal para selecionar os candidatos adequados para herdar seus ensinamentos. Ha relampagos saindo da matriz, parece que possui um grande poder magico.</Desc>
+			<Selections.0.Display>Pegue a forca</Selections.0.Display>
+			<Selections.0.Tip>Espirito primordial e sorte</Selections.0.Tip>
+			<Selections.1.Display>Aceitar ensinamentos</Selections.1.Display>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong3">
+			<DisplayName>Manifestação do Mandato</DisplayName>
+			<Desc>[NAME] chegou a [PLACE] e descobriu que este e o lugar que havia herdado os ensinamentos do "Seven-Slaughtering Sword." A herança e cercada por um circulo de antigos Imortais. Parece que este e o selo estabelecido pelo antigo Imortal para selecionar os candidatos adequados para herdar seus ensinamentos. Ha relampagos saindo da matriz, parece que possui um grande poder magico.</Desc>
+			<Selections.0.Display>Pegue a forca</Selections.0.Display>
+			<Selections.0.Tip>Espirito primordial e sorte</Selections.0.Tip>
+			<Selections.1.Display>Aceitar ensinamentos</Selections.1.Display>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong4">
+			<DisplayName>Manifestação do Mandato</DisplayName>
+			<Desc>[NAME] chegou a [PLACE] e descobriu que este e o lugar que havia herdado os ensinamentos do "Jade Purity Immortal Law." A herança e cercada por um circulo de antigos Imortais. Parece que este e o selo estabelecido pelo antigo Imortal para selecionar os candidatos adequados para herdar seus ensinamentos. Ha relampagos saindo da matriz, parece que possui um grande poder magico.</Desc>
+			<Selections.0.Display>Pegue a forca</Selections.0.Display>
+			<Selections.0.Tip>Espirito primordial e sorte</Selections.0.Tip>
+			<Selections.1.Display>Aceitar ensinamentos</Selections.1.Display>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong5">
+			<DisplayName>Manifestação do Mandato</DisplayName>
+			<Desc>[NAME] chegou a [PLACE] e descobriu que este e o lugar que havia herdado os ensinamentos do "Heaven Stealing Law." A herança e cercada por um circulo de antigos Imortais. Parece que este e o selo estabelecido pelo antigo Imortal para selecionar os candidatos adequados para herdar seus ensinamentos. Ha relampagos saindo da matriz, parece que possui um grande poder magico.</Desc>
+			<Selections.0.Display>Pegue a forca</Selections.0.Display>
+			<Selections.0.Tip>Espirito primordial e sorte</Selections.0.Tip>
+			<Selections.1.Display>Aceitar ensinamentos</Selections.1.Display>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong6">
+			<DisplayName>Manifestação do Mandato</DisplayName>
+			<Desc>[NAME] chegou a [PLACE] e descobriu que este e o lugar que havia herdado os ensinamentos do "Primordial Alchemy Law." A herança e cercada por um circulo de antigos Imortais. Parece que este e o selo estabelecido pelo antigo Imortal para selecionar os candidatos adequados para herdar seus ensinamentos. Ha relampagos saindo da matriz, parece que possui um grande poder magico.</Desc>
+			<Selections.0.Display>Pegue a forca</Selections.0.Display>
+			<Selections.0.Tip>Espirito primordial e sorte</Selections.0.Tip>
+			<Selections.1.Display>Aceitar ensinamentos</Selections.1.Display>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong7">
+			<DisplayName>Manifestação do Mandato</DisplayName>
+			<Desc>[NAME] chegou a [PLACE] e descobriu que este e o lugar que havia herdado os ensinamentos do "Emotion Severing Law." A herança e cercada por um circulo de antigos Imortais. Parece que este e o selo estabelecido pelo antigo Imortal para selecionar os candidatos adequados para herdar seus ensinamentos. Ha relampagos saindo da matriz, parece que possui um grande poder magico.</Desc>
+			<Selections.0.Display>Pegue a forca</Selections.0.Display>
+			<Selections.0.Tip>Espirito primordial e sorte</Selections.0.Tip>
+			<Selections.1.Display>Aceitar ensinamentos</Selections.1.Display>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GongRandom">
+			<DisplayName>Manifestação do Mandato</DisplayName>
+			<Desc>[NAME] chegou a [PLACE] e descobriu uma Lei mistériosa, embora não soubesse de onde ela veio.</Desc>
+			<Selections.0.Display>Pegue a forca</Selections.0.Display>
+			<Selections.0.Tip>Espirito primordial e sorte</Selections.0.Tip>
+			<Selections.1.Display>Aceitar ensinamentos</Selections.1.Display>
+			<Selections.1.Tip>Sorte</Selections.1.Tip>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>
