@@ -1,20 +1,21 @@
-﻿<Texts Type="Other">
-	<List>
-		<Text Name="Place_WuDang_Taizipo">
-			<DisplayName>Reattainment Temple</DisplayName>
-			<Desc>Also named Crown Path, this place is where the Perfected Warrior cultivated his mortal body.</Desc>
-		</Text>
-		<Text Name="Place_WuDang_ZiXiaoGong">
-			<DisplayName>Purple Cloud Palace</DisplayName>
-			<Desc>The Purple Cloud Palace is situated on the main peak of the WuDang Mountains—beneath the Banner Peak northeast to the Heavenly Peak. It faces water against the mountains, a great place with perfect Feng Shui where a lot of cultivators live and practice.</Desc>
-		</Text>
-		<Text Name="Place_WuDang_NanYanGong">
-			<DisplayName>Southrock Palace</DisplayName>
-			<Desc>Built atop the Southrock Peak of the WuDang Mountains, the palace faces a deep, dangerous chasm with a magnificent view. The famed Dragon Incense can be found within the palace and works wonders.</Desc>
-		</Text>
-		<Text Name="Place_WuDang_JinDing">
-			<DisplayName>Golden Peak</DisplayName>
-			<Desc>Standing atop the Heavenly Peak, it's where the Perfected Warrior once practiced and where the Taoist teachings on the WuDang Mountains began.</Desc>
-		</Text>
-	</List>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Texts Type="Other">
+  <List>
+    <Text Name="Place_WuDang_Taizipo">
+      <DisplayName>Reattainment Temple</DisplayName>
+      <Desc>Também chamado de Caminho da Coroa, este lugar é onde o Guerreiro Aperfeiçoado cultivou seu corpo mortal.</Desc>
+    </Text>
+    <Text Name="Place_WuDang_ZiXiaoGong">
+      <DisplayName>Purple Cloud Palace</DisplayName>
+      <Desc>O Palácio da Nuvem Púrpura está situado no pico principal das Montanhas WuDang - abaixo do Pico Banner a nordeste do Pico Celestial.  Enfrenta a água contra as montanhas, um ótimo lugar com perfeito Feng Shui onde muitos cultivadores vivem e praticam.</Desc>
+    </Text>
+    <Text Name="Place_WuDang_NanYanGong">
+      <DisplayName>Southrock Palace</DisplayName>
+      <Desc>Construído no topo do Southrock Peak das Montanhas WuDang, o palácio enfrenta um abismo profundo e perigoso com uma vista magnífica.  O famoso Incenso do Dragão pode ser encontrado dentro do palácio e faz maravilhas.</Desc>
+    </Text>
+    <Text Name="Place_WuDang_JinDing">
+      <DisplayName>Golden Peak</DisplayName>
+      <Desc>De pé no topo do Pico Celestial, é onde o Guerreiro Aperfeiçoado uma vez praticou e onde os ensinamentos taoístas nas Montanhas WuDang começaram.</Desc>
+    </Text>
+  </List>
 </Texts>
