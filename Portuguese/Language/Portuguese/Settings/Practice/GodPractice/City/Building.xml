@@ -88,88 +88,88 @@
 		<Text Name="GodCity_GodFabaoAbilityAdd6">
 			<DisplayName>SP: Hall of Recall</DisplayName>
 			<Desc>Grants Sacred Relic the power of spirit recalling. 3% of damage dealt will be replenished to the artifact's Qi.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>3% of damage dealt will be replenished to the artifact's Qi.</Levels.0.Effects.0.Ability.Desc>
+			<Levels.0.Effects.0.Ability.Desc>3% do dano causado será reabastecido ao Qi do artefato.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd7">
 			<DisplayName>SP: Hall of Specter</DisplayName>
-			<Desc>Grants Sacred Relic the power of Spectral. For every 15 attacks, a swordsprite is generated that lasts 15 seconds.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>For every 15 attacks, a swordsprite is generated that lasts 15 seconds.</Levels.0.Effects.0.Ability.Desc>
+			<Desc>Concede a Relíquia Sagrada(Sacred Relic) o poder de Espectral(power of Spectral). A cada 15 ataques, um swordsprite(espadachim ) é gerado e dura 15 segundos.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>A cada 15 ataques, um swordsprite(espadachim) é gerado e dura 15 segundos.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd8">
 			<DisplayName>SP: Hall of Breath</DisplayName>
-			<Desc>Grants Sacred Relic the power of alleviating breath. Every 7 attacks reduce skill cooldown by 1 second.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Every 7 attacks reduce skill cooldown by 1 second.</Levels.0.Effects.0.Ability.Desc>
+			<Desc>Concede a Sacred Relic o poder alleviating breath. A cada 7 ataques reduz o tempo de recarga da habilidade em 1 segundo.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>A cada 7 ataques reduz o tempo de recarga da habilidade em 1 segundo.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd9">
 			<DisplayName>SP: Hall of Nine</DisplayName>
-			<Desc>Grants Sacred Relic the power of the Nine Extremities. When dealing damage, there is a 4% chance of dealing 9 times the damage.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>When dealing damage, there is a 4% chance of dealing 9 times the damage.</Levels.0.Effects.0.Ability.Desc>
+			<Desc>Concede à Sacred Relic o poder das Nove Extremidades(power of the Nine Extremities). Ao causar dano, há uma chance de 4% de causar 9 vezes o dano.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Ao causar dano, há uma chance de 4% de causar 9 vezes o dano.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd10">
 			<DisplayName>SP: Hall of Infinity</DisplayName>
-			<Desc>Grants Sacred Relic the power of infinity. Power of first sword strike increased by 3 times. The effect is reset when replenishing Qi to the artifact.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Power of first sword strike increased by 3 times. The effect is reset when replenishing Qi to the artifact.</Levels.0.Effects.0.Ability.Desc>
+			<Desc>Concede à Relíquia Sagrada o poder do infinito(power of infinity). Poder do primeiro golpe de espada aumentado em 3 vezes. O efeito é reinicializado ao reabastecer o Qi no artefato.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Poder do primeiro golpe de espada aumentado em 3 vezes. O efeito é reinicializado ao reabastecer o Qi no artefato.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd11">
 			<DisplayName>SP: Hall of Wind</DisplayName>
-			<Desc>Grants Sacred Relic the power of breaking the wind of positivity. Deals 1.25x damage when attacking the enemy's body itself.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Deals 1.25x damage when attacking the enemy's body itself.</Levels.0.Effects.0.Ability.Desc>
+			<Desc>Concede a Relíquia Sagrada o poder de quebrar o vento da positividade(power of breaking the wind of positivity). Causa 1,25x de dano ao atacar o corpo do inimigo.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Causa 1,25x de dano ao atacar o corpo do inimigo</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_WishTree">
 			<DisplayName>Tree of Prayers</DisplayName>
-			<Desc>The wishes and prayers of ordinary people have concentrated and formed into a tree. You can harness its Qi of mortals to slightly reduce Divinity.</Desc>
+			<Desc>Os desejos e orações das pessoas comuns se concentraram e formaram uma árvore. Você pode aproveitar seu Qi dos mortais(Qi of mortals) para reduzir levemente a Divindade.</Desc>
 		</Text>
 		<Text Name="GodCity_XinyangShendian">
 			<DisplayName>Temple of Faith</DisplayName>
-			<Desc>Temple that concentrates the power of Belief. It can increase the efficiency at which Divine Realm produces Belief.</Desc>
+			<Desc>Templo que concentra o poder da Fé. Pode aumentar a eficiência na qual o Reino Divino produz Crença/Fé.</Desc>
 		</Text>
 		<Text Name="GodCity_LiuLiShenDian">
 			<DisplayName>Temple of Glaze</DisplayName>
-			<Desc>Temple that magnifies the power of Guards. It can enhance abilities granted to you by Guards.</Desc>
+			<Desc>Templo que amplia o poder dos Guardas. Pode melhorar as habilidades concedidas a você por Guardas</Desc>
 		</Text>
 		<Text Name="GodCity_ThunderDefend">
 			<DisplayName>Heavenly Palace</DisplayName>
-			<Desc>Concentrate the power of Belief to shelter you from the might of heaven. It can reduce the power of Heavenly Tribulation.</Desc>
+			<Desc>Concentra o poder da Crença para protegê-lo do poder do céu. Pode reduzir o poder da Tribulação Celestial(power of Heavenly Tribulation).</Desc>
 		</Text>
 		<Text Name="GodCity_FengShenTai">
 			<DisplayName>Altar of Guards</DisplayName>
-			<Desc>Place where the gods consecrate the sub-gods, anointing Core Followers with 100% Belief into Guards.</Desc>
+			<Desc>Local onde os deuses consagram os sub-deuses, ungindo Seguidores Centrais com 100% de Crença nos Guardas.</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_A">
 			<DisplayName>Residence of Metal</DisplayName>
-			<Desc>Increases Max Core Followers.</Desc>
+			<Desc>Aumenta o número máximo de seguidores centrais(Max Core Followers).</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_B">
 			<DisplayName>Residence of Wood</DisplayName>
-			<Desc>Increases Max Core Followers.</Desc>
+			<Desc>Aumenta o número máximo de seguidores centrais(Max Core Followers).</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_C">
 			<DisplayName>Residence of Water</DisplayName>
-			<Desc>Increases Max Core Followers.</Desc>
+			<Desc>Aumenta o número máximo de seguidores centrais(Max Core Followers).</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_D">
 			<DisplayName>Residence of Fire</DisplayName>
-			<Desc>Increases Max Core Followers.</Desc>
+			<Desc>Aumenta o número máximo de seguidores centrais(Max Core Followers).</Desc>
 		</Text>
 		<Text Name="GodCity_CoreHousing_E">
 			<DisplayName>Residence of Earth</DisplayName>
-			<Desc>Increases Max Core Followers.</Desc>
+			<Desc>Aumenta o número máximo de seguidores centrais(Max Core Followers).</Desc>
 		</Text>
 		<Text Name="GodCity_Housing_Lv2">
 			<DisplayName>Generality Residence</DisplayName>
-			<Desc>Advanced Divine Residence. Can accommodate a large number of Divine Residents.</Desc>
+			<Desc>Residência Divina Avançada. Pode acomodar um grande número de Residentes Divinos.</Desc>
 		</Text>
 		<Text Name="GodCity_Housing_Lv2_2">
 			<DisplayName>Connection Residence</DisplayName>
-			<Desc>Advanced Divine Residence. Can accommodate a large number of Divine Residents.</Desc>
+			<Desc>Residência Divina Avançada. Pode acomodar um grande número de Residentes Divinos.</Desc>
 		</Text>
 		<Text Name="GodCity_HongChenKuHai">
 			<DisplayName>Mortal Melancholia</DisplayName>
-			<Desc>Brings the sufferings of the mortals into the Divine Realm, greatly reducing Divinity.</Desc>
+			<Desc>Traz os sofrimentos dos mortais para o Reino Divino, reduzindo muito a Divindade.</Desc>
 		</Text>
 		<Text Name="GodCity_Magic_1">
 			<DisplayName>Hall of Rallying</DisplayName>
-			<Desc>Provides the following Miracles at level 1, level 2 and level 3 respectively: Divine Rallying Spell, Wish-fulfilling Spell, Sole Reverence Spell. Increase the base material output of the area your Embodiment resides in within a certain period of time.</Desc>
+			<Desc>Fornece os seguintes Milagres(Miracles ) no nível 1, nível 2 e nível 3, respectivamente: Divine Rallying Spell(Feitiço de Reunião Divino), Wish-fulfilling Spell(Feitiço de preenchimento de desejos), Sole Reverence Spell(Feitiço de Reverência Única). Aumente a produção de material base da área em que sua Incorporação reside dentro de um determinado período de tempo.</Desc>
 		</Text>
 		<Text Name="GodCity_Magic_2">
 			<DisplayName>Pavilion of Heart</DisplayName>
