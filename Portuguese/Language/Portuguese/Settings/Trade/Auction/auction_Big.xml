@@ -1,67 +1,66 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts Type="Other">
-  <List>
-    <Text Name="Exotic">
-      <DisplayName>Leilão do Tesouro</DisplayName>
-      <Npc.0.Talk.Bid.0>Raise!</Npc.0.Talk.Bid.0>
-      <Npc.0.Talk.Bid.1>Chamar</Npc.0.Talk.Bid.1>
-      <Npc.0.Talk.Bid.2>Tão barato.  Novamente!</Npc.0.Talk.Bid.2>
-      <Npc.0.Talk.Exceed.0>Um adversário digno.</Npc.0.Talk.Exceed.0>
-      <Npc.0.Talk.Exceed.1>Mais rico que eu?</Npc.0.Talk.Exceed.1>
-      <Npc.0.Talk.Buy.0>HAHA!  Peguei meu tesouro!</Npc.0.Talk.Buy.0>
-      <Npc.0.Talk.Buy.1>Haha, homens pobres como você, querem ver quem é mais rico que eu?</Npc.0.Talk.Buy.1>
-      <Npc.0.Talk.Like.0>Eu vou levar isso!</Npc.0.Talk.Like.0>
-      <Npc.0.Talk.Like.1>Eu decidi que é isso!</Npc.0.Talk.Like.1>
-      <Npc.0.Talk.Like.2>Vê isso?  Isso será meu amanhã.</Npc.0.Talk.Like.2>
-      <Npc.0.Talk.Last.0>Aqui vem.  A jóia final!</Npc.0.Talk.Last.0>
-      <Npc.0.Talk.Last.1>O tesouro mais raro do mundo!</Npc.0.Talk.Last.1>
-      <Npc.0.Talk.DontKnow.0>Parece tão estranho.  Muito intrigante, certo?</Npc.0.Talk.DontKnow.0>
-      <Npc.0.Talk.Chat.0>Certa vez, fui à Piscina Celestial e vi a Deusa no banho.  HAHAHA!</Npc.0.Talk.Chat.0>
-      <Npc.0.Talk.Chat.1>I only earned 800k from rent this year. My pocket change is gonna run out!</Npc.0.Talk.Chat.1>
-      <Npc.0.Talk.Chat.2>Devia ter enviado minha empregada aqui para comprar tudo.</Npc.0.Talk.Chat.2>
-      <Npc.1.Talk.Bid.0>É um pouco demais, mas vou aumentar!</Npc.1.Talk.Bid.0>
-      <Npc.1.Talk.Bid.1>Não posso comer nada durante dois dias este mês e poupar um pouco...</Npc.1.Talk.Bid.1>
-      <Npc.1.Talk.Bid.2>(Stamps foot) Call!</Npc.1.Talk.Bid.2>
-      <Npc.1.Talk.Exceed.0>Não o suficiente para comprá-lo?</Npc.1.Talk.Exceed.0>
-      <Npc.1.Talk.Exceed.1>Então é um tesouro tão grande que todo mundo quer.</Npc.1.Talk.Exceed.1>
-      <Npc.1.Talk.Exceed.2>Um pouco tentador.  Devo aumentar...</Npc.1.Talk.Exceed.2>
-      <Npc.1.Talk.Buy.0>Bom Bom.  Meu cultivo se beneficiará disso!</Npc.1.Talk.Buy.0>
-      <Npc.1.Talk.Buy.1>Tenho minhas mãos em um tesouro.  Otimo!</Npc.1.Talk.Buy.1>
-      <Npc.1.Talk.Like.0>Meu mestre disse que todos os elixires valem a pena.  estou comprando!</Npc.1.Talk.Like.0>
-      <Npc.1.Talk.Like.1>Armas para lutar e elixires para cultivo!  Isso parece muito bom!</Npc.1.Talk.Like.1>
-      <Npc.1.Talk.Last.0>Aí vem, o tesouro mais raro!</Npc.1.Talk.Last.0>
-      <Npc.1.Talk.Last.1>Ah, que tipo de tesouro é esse?  Meus olhos!</Npc.1.Talk.Last.1>
-      <Npc.1.Talk.DontKnow.0>O que diabos é isso...</Npc.1.Talk.DontKnow.0>
-      <Npc.1.Talk.Chat.0>Tantas pessoas estranhas se reuniram aqui.  Eles realmente podem pagar por isso?</Npc.1.Talk.Chat.0>
-      <Npc.2.Talk.Bid.0>Haha, vou dar um preço alto.</Npc.2.Talk.Bid.0>
-      <Npc.2.Talk.Bid.1>Mais caro.  Mais caro.</Npc.2.Talk.Bid.1>
-      <Npc.2.Talk.Bid.2>I'll raise. Raise.</Npc.2.Talk.Bid.2>
-      <Npc.2.Talk.Exceed.0>Alguém realmente quer.  HAHA.</Npc.2.Talk.Exceed.0>
-      <Npc.2.Talk.Exceed.1>Mais alto.  Mais alto.</Npc.2.Talk.Exceed.1>
-      <Npc.2.Talk.Exceed.2>Mais e mais.</Npc.2.Talk.Exceed.2>
-      <Npc.2.Talk.Buy.0>É... Acabou!  Eu não tenho dinheiro...</Npc.2.Talk.Buy.0>
-      <Npc.2.Talk.Last.0>Quem vai gostar desse tipo de coisa...</Npc.2.Talk.Last.0>
-      <Npc.2.Talk.DontKnow.0>Quem vai gostar desse tipo de coisa...</Npc.2.Talk.DontKnow.0>
-      <Npc.2.Talk.Chat.0>Com quem devo mexer dessa vez?  HAHAHA.</Npc.2.Talk.Chat.0>
-      <Npc.2.Talk.Chat.1>The higher the bid, the more tips I will get.</Npc.2.Talk.Chat.1>
-      <Npc.3.Talk.Bid.0>Como você poderia medir o cultivo com dinheiro?  Ligar!</Npc.3.Talk.Bid.0>
-      <Npc.3.Talk.Bid.1>Meu cultivo irá progredir muito mais rápido quando eu conseguir isso!</Npc.3.Talk.Bid.1>
-      <Npc.3.Talk.Bid.2>Meu mestre com certeza vai gostar!</Npc.3.Talk.Bid.2>
-      <Npc.3.Talk.Exceed.0>How...</Npc.3.Talk.Exceed.0>
-      <Npc.3.Talk.Buy.0>Interesting. Progress will be right around the corner!</Npc.3.Talk.Buy.0>
-      <Npc.3.Talk.Like.0>Este é um tesouro de um em um milhão.  Eu sou o único digno de possuí-lo!</Npc.3.Talk.Like.0>
-      <Npc.3.Talk.Last.0>O tesouro secreto de qual seita é desta vez?</Npc.3.Talk.Last.0>
-      <Npc.3.Talk.DontKnow.0>No one can decipher the mystery inside...</Npc.3.Talk.DontKnow.0>
-      <Npc.3.Talk.Chat.0>Estou aqui por ordem do meu mestre.</Npc.3.Talk.Chat.0>
-      <Npc.3.Talk.Chat.1>I'm going to ascend!</Npc.3.Talk.Chat.1>
-      <Npc.4.Talk.Bid.0>Gotta have this.</Npc.4.Talk.Bid.0>
-      <Npc.4.Talk.Exceed.0>Caramba!</Npc.4.Talk.Exceed.0>
-      <Npc.4.Talk.Like.0>Não, eu tenho que comprar isso, não importa o quê!</Npc.4.Talk.Like.0>
-      <Npc.4.Talk.Like.1>Isso é tentador demais!  Desculpe por isto!</Npc.4.Talk.Like.1>
-      <Npc.4.Talk.Buy.0>HAHA.  Eles não podem tê-lo agora!</Npc.4.Talk.Buy.0>
-      <Npc.4.Talk.Last.0>This is the one!</Npc.4.Talk.Last.0>
-      <Npc.4.Talk.DontKnow.0>O que... O que é isso?</Npc.4.Talk.DontKnow.0>
-      <Npc.4.Talk.Chat.0>Vamos esmagar seus espíritos desta vez.</Npc.4.Talk.Chat.0>
-    </Text>
-  </List>
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Exotic">
+			<DisplayName>Leilão do Tesouro</DisplayName>
+			<Npc.0.Talk.Bid.0>Raise!</Npc.0.Talk.Bid.0>
+			<Npc.0.Talk.Bid.1>Chamar</Npc.0.Talk.Bid.1>
+			<Npc.0.Talk.Bid.2>Tão barato.Novamente!</Npc.0.Talk.Bid.2>
+			<Npc.0.Talk.Exceed.0>Um adversário digno.</Npc.0.Talk.Exceed.0>
+			<Npc.0.Talk.Exceed.1>Mais rico que eu?</Npc.0.Talk.Exceed.1>
+			<Npc.0.Talk.Buy.0>HAHA!Peguei meu tesouro!</Npc.0.Talk.Buy.0>
+			<Npc.0.Talk.Buy.1>Haha, homens pobres como você, querem ver quem é mais rico que eu?</Npc.0.Talk.Buy.1>
+			<Npc.0.Talk.Like.0>Eu vou levar isso!</Npc.0.Talk.Like.0>
+			<Npc.0.Talk.Like.1>Eu decidi que é isso!</Npc.0.Talk.Like.1>
+			<Npc.0.Talk.Like.2>Vê isso?Isso será meu amanhã.</Npc.0.Talk.Like.2>
+			<Npc.0.Talk.Last.0>Aqui vem.A jóia final!</Npc.0.Talk.Last.0>
+			<Npc.0.Talk.Last.1>O tesouro mais raro do mundo!</Npc.0.Talk.Last.1>
+			<Npc.0.Talk.DontKnow.0>Parece tão estranho.Muito intrigante, certo?</Npc.0.Talk.DontKnow.0>
+			<Npc.0.Talk.Chat.0>Certa vez, fui à Piscina Celestial e vi a Deusa no banho.HAHAHA!</Npc.0.Talk.Chat.0>
+			<Npc.0.Talk.Chat.1>I only earned 800k from rent this year. My pocket change is gonna run out!</Npc.0.Talk.Chat.1>
+			<Npc.0.Talk.Chat.2>Devia ter enviado minha empregada aqui para comprar tudo.</Npc.0.Talk.Chat.2>
+			<Npc.1.Talk.Bid.0>É um pouco demais, mas vou aumentar!</Npc.1.Talk.Bid.0>
+			<Npc.1.Talk.Bid.1>Não posso comer nada durante dois dias este mês e poupar um pouco...</Npc.1.Talk.Bid.1>
+			<Npc.1.Talk.Bid.2>(Stamps foot) Call!</Npc.1.Talk.Bid.2>
+			<Npc.1.Talk.Exceed.0>Não o suficiente para comprá-lo?</Npc.1.Talk.Exceed.0>
+			<Npc.1.Talk.Exceed.1>Então é um tesouro tão grande que todo mundo quer.</Npc.1.Talk.Exceed.1>
+			<Npc.1.Talk.Exceed.2>Um pouco tentador.Devo aumentar...</Npc.1.Talk.Exceed.2>
+			<Npc.1.Talk.Buy.0>Bom Bom.Meu cultivo se beneficiará disso!</Npc.1.Talk.Buy.0>
+			<Npc.1.Talk.Buy.1>Tenho minhas mãos em um tesouro.Otimo!</Npc.1.Talk.Buy.1>
+			<Npc.1.Talk.Like.0>Meu mestre disse que todos os elixires valem a pena.estou comprando!</Npc.1.Talk.Like.0>
+			<Npc.1.Talk.Like.1>Armas para lutar e elixires para cultivo!Isso parece muito bom!</Npc.1.Talk.Like.1>
+			<Npc.1.Talk.Last.0>Aí vem, o tesouro mais raro!</Npc.1.Talk.Last.0>
+			<Npc.1.Talk.Last.1>Ah, que tipo de tesouro é esse?Meus olhos!</Npc.1.Talk.Last.1>
+			<Npc.1.Talk.DontKnow.0>O que diabos é isso...</Npc.1.Talk.DontKnow.0>
+			<Npc.1.Talk.Chat.0>Tantas pessoas estranhas se reuniram aqui.Eles realmente podem pagar por isso?</Npc.1.Talk.Chat.0>
+			<Npc.2.Talk.Bid.0>Haha, vou dar um preço alto.</Npc.2.Talk.Bid.0>
+			<Npc.2.Talk.Bid.1>Mais caro.Mais caro.</Npc.2.Talk.Bid.1>
+			<Npc.2.Talk.Bid.2>I'll raise. Raise.</Npc.2.Talk.Bid.2>
+			<Npc.2.Talk.Exceed.0>Alguém realmente quer.HAHA.</Npc.2.Talk.Exceed.0>
+			<Npc.2.Talk.Exceed.1>Mais alto.Mais alto.</Npc.2.Talk.Exceed.1>
+			<Npc.2.Talk.Exceed.2>Mais e mais.</Npc.2.Talk.Exceed.2>
+			<Npc.2.Talk.Buy.0>É... Acabou!Eu não tenho dinheiro...</Npc.2.Talk.Buy.0>
+			<Npc.2.Talk.Last.0>Quem vai gostar desse tipo de coisa...</Npc.2.Talk.Last.0>
+			<Npc.2.Talk.DontKnow.0>Quem vai gostar desse tipo de coisa...</Npc.2.Talk.DontKnow.0>
+			<Npc.2.Talk.Chat.0>Com quem devo mexer dessa vez?HAHAHA.</Npc.2.Talk.Chat.0>
+			<Npc.2.Talk.Chat.1>The higher the bid, the more tips I will get.</Npc.2.Talk.Chat.1>
+			<Npc.3.Talk.Bid.0>Como você poderia medir o cultivo com dinheiro?Ligar!</Npc.3.Talk.Bid.0>
+			<Npc.3.Talk.Bid.1>Meu cultivo irá progredir muito mais rápido quando eu conseguir isso!</Npc.3.Talk.Bid.1>
+			<Npc.3.Talk.Bid.2>Meu mestre com certeza vai gostar!</Npc.3.Talk.Bid.2>
+			<Npc.3.Talk.Exceed.0>How...</Npc.3.Talk.Exceed.0>
+			<Npc.3.Talk.Buy.0>Interesting. Progress will be right around the corner!</Npc.3.Talk.Buy.0>
+			<Npc.3.Talk.Like.0>Este é um tesouro de um em um milhão.Eu sou o único digno de possuí-lo!</Npc.3.Talk.Like.0>
+			<Npc.3.Talk.Last.0>O tesouro secreto de qual seita é desta vez?</Npc.3.Talk.Last.0>
+			<Npc.3.Talk.DontKnow.0>No one can decipher the mystery inside...</Npc.3.Talk.DontKnow.0>
+			<Npc.3.Talk.Chat.0>Estou aqui por ordem do meu mestre.</Npc.3.Talk.Chat.0>
+			<Npc.3.Talk.Chat.1>I'm going to ascend!</Npc.3.Talk.Chat.1>
+			<Npc.4.Talk.Bid.0>Gotta have this.</Npc.4.Talk.Bid.0>
+			<Npc.4.Talk.Exceed.0>Caramba!</Npc.4.Talk.Exceed.0>
+			<Npc.4.Talk.Like.0>Não, eu tenho que comprar isso, não importa o quê!</Npc.4.Talk.Like.0>
+			<Npc.4.Talk.Like.1>Isso é tentador demais!Desculpe por isto!</Npc.4.Talk.Like.1>
+			<Npc.4.Talk.Buy.0>HAHA.Eles não podem tê-lo agora!</Npc.4.Talk.Buy.0>
+			<Npc.4.Talk.Last.0>This is the one!</Npc.4.Talk.Last.0>
+			<Npc.4.Talk.DontKnow.0>O que... O que é isso?</Npc.4.Talk.DontKnow.0>
+			<Npc.4.Talk.Chat.0>Vamos esmagar seus espíritos desta vez.</Npc.4.Talk.Chat.0>
+		</Text>
+	</List>
 </Texts>
