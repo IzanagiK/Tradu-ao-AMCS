@@ -85,7 +85,7 @@ UIText.xml
 
 é muito simples nos ajudar, entre em nosso grupo no discord e envie ***print screen*** de erros encontrados em jogo.
 
-[![N|Solid](https://img.icons8.com/clouds/200/discord-new-logo.png)](https://github.com/IzanagiK/Tradu-ao-AMCS)
+[![N|Solid](https://img.icons8.com/clouds/200/discord-new-logo.png)](https://discord.gg/DmXEkbBcg6)
 
    [dill]: <https://github.com/joemccann/dillinger>
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
