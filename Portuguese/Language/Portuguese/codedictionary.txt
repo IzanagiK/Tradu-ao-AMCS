@@ -1347,7 +1347,7 @@ _结局	_O fim
 地点图鉴需要玩家前往目标地点历练来点亮。	Para desbloquear o conteúdo da Enciclopédia de Locais, você precisa viajar para esses locais para as Aventuras.
 修炼方式图鉴的内容需要在游戏中通过该方法修炼来点亮。	Para desbloquear o conteúdo da Enciclopédia de Método de Cultivo, você precisa cultivar com os métodos correspondentes no jogo.
 通过在地图环境中选择特定环境解锁。	Selecione um ambiente específico no mapa para desbloquear.
-请先在地图中创建所需建筑及物品，接着通过建筑菜单中的蓝图/导出蓝图 框选一个最大不超过20x20的区域，将其中的建筑（包括置物台上符合条件的物品）导出为建筑蓝图	Por favor, crie os edifícios e itens necessários no mapa e escolha uma área não maior que 20 * 20 espaços via Projeto / Exporte projeto no menu Construção, exportando os edifícios (incluindo itens disponíveis nos Monitores) como um blueprint.
+请先在地图中创建所需建筑及物品，接着通过建筑菜单中的蓝图/导出蓝图 框选一个最大不超过20x20的区域，将其中的建筑（包括置物台上符合条件的物品）导出为建筑蓝图	Por favor, crie os edifícios e itens necessários no mapa e escolha uma área não maior que 20 * 20 espaços via Projeto / Exporte projeto no menu Construção, exportando os edifícios (incluindo itens disponíveis nos Monitores) como um Planta.
 未选择需要上传的内容	Você não selecionou nenhum conteúdo para enviar.
 单次上传的建筑蓝图最多允许 20 个	Cada upload pode ter apenas 20 projetos de construção.
 {0} 中含有来自模组的建筑或物品	{0} têm edifícios ou itens de mods.
@@ -1837,15 +1837,15 @@ Name	Name
 \n境界影响:\n {0:N0}%	\nEstado: \n {0:N0}%
 应天争夺成功，返回门派后可获得凝聚的灵石	Vença a luta Echo do Céu, e ganhe pedras espirituais cristalizadas depois de voltar para a seita.
 应天争夺失败	Lose the Heaven Echo fight
-非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试再次存档或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	We're terribly sorry but your game failed to save.\nYou might want to rage and blame us developers at the moment, and we understand you as this shouldn't have happened.\nSorry! Please try to save again or load an old save.\nIf you need help or wish to report an issue, please contact us at QA@GSQStudio.com.
-无门派	No Sect
-天下门派	World Sects
-门派传闻	Sect Rumor
-无门无派	Unaffiliated
-门派ID>=500会带来未知的异常	Sect ID>=500 will cause unknown problems.
-由{0}建立的新兴修仙门派，势力强劲且还在成长。	A new sect established by {0}. They are powerful and continues to grow.
-天苍历{0}年，在修行界{1}的{2}覆灭。	{1}'s {2} was destroyed in Tiancang Era, year {0}.
-获得了新的修炼功法：\n[align=center][color=#306BC7]{0}[/color][/align]	New Law Training Obtained:\n[align=center][color=#306BC7]{0}[/color][/align]
+非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试再次存档或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	Lamentamos muito, mas seu jogo não foi salvo.\nVocê pode querer se enfurecer e culpar os desenvolvedores no momento, e entendemos que isso não deveria ter acontecido.\nDesculpe! Por favor, tente salvar novamente ou carregue um save antigo.\nSe você precisar de ajuda ou quiser relatar um problema, entre em contato conosco em QA@GSQStudio.com.
+无门派	Sem Seita
+天下门派	Seitas Mundiais
+门派传闻	Boato da seita
+无门无派	Não afiliado
+门派ID>=500会带来未知的异常	Seita ID>=500 causará problemas desconhecidos.
+由{0}建立的新兴修仙门派，势力强劲且还在成长。	Uma nova seita estabelecida por {0}. Eles são poderosos e continuam a crescer.
+天苍历{0}年，在修行界{1}的{2}覆灭。	{1}'s {2} foi destruído na Era Tiancang, ano {0}.
+获得了新的修炼功法：\n[align=center][color=#306BC7]{0}[/color][/align]	Nova Formação em Lei Obtida:\n[align=center][color=#306BC7]{0}[/color][/align]
 内门弟子数量达到上限:{0}。\n内门弟子数量受门派规模影响。\n你可以扩大门派规模或者将其他弟子踢出门派。	Maximum number of inner disciples reached: {0}.\n This cap is affected by your sect size.\nYou can increase the size of your sect or kick another disciple.
 祝贺	Parabéns!
  再见,{0}!\n	 Adeus, {0}!\n
@@ -2078,7 +2078,7 @@ Name	Name
 放置物品	Colocar item
 选择一个物品，将其放在置物台上。	Selecione um item e coloque-o no Display.
 取消放置	Cancelar veiculação
-取消放置建造蓝图中指定的物品。	Cancele a colocação do item selecionado do blueprint.
+取消放置建造蓝图中指定的物品。	Cancele a colocação do item selecionado do Planta.
 丢下物品	Remover
 将置物台上的物品丢下。	Remova o item do Display.
 将这个建筑移动到另一个地方，这个命令会在建筑空闲后被执行。	Mova esta estrutura para outro lugar. Esta ordem será executada quando a estrutura estiver vazia.
@@ -2287,7 +2287,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 <font color=#FF0000>地点不适合</font>	<font color=#FF0000>Local inadequado</font>
 更换建筑原材料	Substituir Matéria-Prima de Construção 
 风水:	Feng Shui:
-请框选导出的蓝图范围	Arraste e selecione a área do blueprint.
+请框选导出的蓝图范围	Arraste e selecione a área da Planta.
 尚未建立势力，无法使用势力快捷面板。	O painel Power não está disponível porque você não estabeleceu seu próprio poder.
 尚未解锁阵眼，无法使用阵法系统。	Você não desbloqueou nenhum auxiliar. Incapaz de usar o sistema de formação.
 选择一个目标	Select a target.
@@ -2514,8 +2514,8 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 灵智碎片	Fragmento de Inteligência
 形成了新的{0}：{1}	Formado novo {0}: {1}
 在分别形成{1}，{2}，{3}以后，一块新的{0}产生了	Após formar {1}, {2} e {3} respectivamente, um novo {0} foi gerado.
-请输入蓝图名称	Digite um nome para o blueprint.
-修改蓝图信息	Modificar informações do blueprint
+请输入蓝图名称	Digite um nome para o Planta.
+修改蓝图信息	Modificar informações do Planta
 屋顶	Roof
 地板	Floor
 新建建筑蓝图	Criar nova planta de construção
@@ -2699,29 +2699,29 @@ ui状态异常，请关闭ui再次打开	Não foi possível carregar a interface
 总大小:	Size:
   当前进度:	  Progresso:
 Lua代码不能为空	Lua script cannot be empty.
-\n元神修行境界不足	\nInsufficient state of the primordial spirit.
-\n角色属性底蕴不足	\nInsufficient character stats.
-技能丢失	Skill Lost
-已合练	Combined
-未合练	Not Combined
-未达到元神期，无法进行元神寄托的仪式。	Has yet to reach the Primordial Spirit State. Unable to perform attachment ritual via primordial spirit.
-元神期的修行者可以以自身的元神分神为载体，将自己对修行的体会寄托于装备之上。	A cultivator with the primordial spirit can use a sub-spirit as the carrier to attach their understanding of cultivation to their equipment.
-是否切换绘制模式，此操作会导致刷新符咒绘制面板且不会退还灵力。	Do you want to switch the drawing mode? This action will refresh the talisman drawing panel and will not return Qi.
-是否切换符咒种类，此操作会导致刷新符咒绘制面板且不会退还灵力。	Do you want to change the talisman type? It will refresh the talisman drawing panel and will not return Qi.
-空白	Blank
-似乎随便画画就可以得到神奇的结果。	It seems that you can paint wonders by only scribbling.
-白元法	White Origin Technique
-角色当前灵力不足以驱动此术！	The character does not have enough Qi to perform this!
+\n元神修行境界不足	\nEstado insuficiente do espírito primordial.
+\n角色属性底蕴不足	\nEstatísticas de personagem insuficientes.
+技能丢失	Perda de Habilidade
+已合练	Combinada
+未合练	Não Combinada
+未达到元神期，无法进行元神寄托的仪式。	Ainda não atingiu o Estado do Espírito Primordial. Incapaz de realizar o ritual de apego via espírito primordial.
+元神期的修行者可以以自身的元神分神为载体，将自己对修行的体会寄托于装备之上。	Um cultivador com o espírito primordial pode usar um sub-espírito como portador para anexar sua compreensão de cultivo ao seu equipamento.
+是否切换绘制模式，此操作会导致刷新符咒绘制面板且不会退还灵力。	Deseja mudar o modo de desenho? Esta ação atualizará o painel de desenho do talismã e não retornará o Qi.
+是否切换符咒种类，此操作会导致刷新符咒绘制面板且不会退还灵力。	Você quer mudar o tipo de talismã? Ele atualizará o painel de desenho do talismã e não retornará o Qi.
+空白	Em branco
+似乎随便画画就可以得到神奇的结果。	Parece que você pode pintar maravilhas apenas rabiscando.
+白元法	Técnica de Origem Branca
+角色当前灵力不足以驱动此术！	O personagem não tem Qi suficiente para realizar isso!
 以灵气绘制本命真符，能保证最低效果。	Use Qi to draw a Natal Talisman to ensure the minimum effect.
 以10倍于白元法的灵气绘制本命真符，符咒效果提高1倍。	Use 10x Qi usado na Técnica da Origem Branca para desenhar um Talismã de Natal, aumentando o efeito do talismã em 100%.
-以100倍于白元法的灵气绘制本命真符，符咒效果提高2倍。	Use 100x Qi used in the White Origin Technique to draw a Natal Talisman, increasing the talisman effect by 200%.
-以1000倍于白元法的灵气绘制本命真符，符咒效果提高3倍。	Use 1000x Qi used in the White Origin Technique to draw a Natal Talisman, increasing the talisman effect by 300%.
-以10000倍于白元法的灵气绘制本命真符，符咒效果提高4倍。	Use 10000x Qi used in the White Origin Technique to draw a Natal Talisman, increasing the talisman effect by 400%.
-已将分享码复制到粘贴板中。	A share code has been copied to the clipboard.
-分享码无效。	The share code is invalid.
-分享码	Share Code
+以100倍于白元法的灵气绘制本命真符，符咒效果提高2倍。	Use 100x Qi usado na Técnica da Origem Branca para desenhar um Talismã de Natal, aumentando o efeito do talismã em 200%.
+以1000倍于白元法的灵气绘制本命真符，符咒效果提高3倍。	Use 1000x Qi usado na Técnica da Origem Branca para desenhar um Talismã de Natal, aumentando o efeito do talismã em 300%.
+以10000倍于白元法的灵气绘制本命真符，符咒效果提高4倍。	Use 10000x Qi usado na Técnica da Origem Branca para desenhar um Talismã de Natal, aumentando o efeito do talismã em 400%.
+已将分享码复制到粘贴板中。	Um código de compartilhamento foi copiado para a área de transferência.
+分享码无效。	O código de compartilhamento é inválido.
+分享码	Código de compartilhamento
 地图种子	Semente do mapa
-未选择	Not yet selected
+未选择	Ainda não selecionado
 [color=#008800]（已完成）[/color]	[color=#008800] (Completado)[/color]
 可完成成就：	Conquistas Disponíveis:
 拍照模式	Camera
@@ -2745,29 +2745,29 @@ Lua代码不能为空	Lua script cannot be empty.
 地图描述	Descrição do mapa
 地图内容	Conteúdo do mapa
 返回主菜单	Return to Menu
-返回主菜单将会丢失所有未保存的进度，确定要返回吗？	You will lose all unsaved progress. Are you sure you want to return to menu?
-退出游戏	Quit
-退出将会丢失所有未保存的进度，确定要退出吗？	You will lose all unsaved progress. Are you sure you want to quit?
+返回主菜单将会丢失所有未保存的进度，确定要返回吗？	Você perderá todo o progresso não salvo. Tem certeza de que deseja retornar ao menu?
+退出游戏	Sair
+退出将会丢失所有未保存的进度，确定要退出吗？	Você perderá todo o progresso não salvo. Você tem certeza que quer sair?
 存档并返回	Salvar e retornar
 存档并退出	Salvar e sair
 数据与成就	Conquistas
 难度查看	Dificuldade
 返回	Retornar
-返回门派	Return to sect
-\n[color=#009600]风水建筑[/color]	\n[color=#009600]Feng Shui Building[/color]
-\n[color=#B65704]地形需求[/color]	\n[color=#B65704]Terrain Requirements[/color]
-\n[color=#B65704]产出:[/color]	\n[color=#B65704]Output:[/color]
-[本地蓝图]\n	[Local Blueprint]\n
-[MOD蓝图（来自MOD  {0}）]\n	[Mod Blueprint (From mod {0})]\n
-蓝图中存在失落之物!	Lost item(s) in the blueprint!
-<font color=#FF0000>此蓝图需要安装以下DLC:</font>	<font color=#FF0000>This blueprint needs the following DLC installed:</font>
-蓝图中无可造建筑	No available Buildings in this Blueprint.
-蓝图中存在未解锁建筑!	Locked building(s) in the blueprint!
-神秘地点	Mysterious Spot
-确定要离开此地吗？	Do you want to leave this place?
-还不能离开，因为\n{0}	Unable to leave because \n{0}.
+返回门派	Retornar a Seita
+\n[color=#009600]风水建筑[/color]	\n[color=#009600]Prédio Feng Shui[/color]
+\n[color=#B65704]地形需求[/color]	\n[color=#B65704]Requisitos do terreno[/color]
+\n[color=#B65704]产出:[/color]	\n[color=#B65704]Resultado:[/color]
+[本地蓝图]\n	[Plano Local]\n
+[MOD蓝图（来自MOD  {0}）]\n	[Mod diagrama (From mod {0})]\n
+蓝图中存在失落之物!	Item(ns) perdido(s) na planta!
+<font color=#FF0000>此蓝图需要安装以下DLC:</font>	<font color=#FF0000>Este Planta precisa do seguinte DLC instalado:</font>
+蓝图中无可造建筑	Não há edifícios disponíveis neste Planta.
+蓝图中存在未解锁建筑!	Edifício(s) bloqueado(s) na planta!
+神秘地点	Ponto Misterioso
+确定要离开此地吗？	Você quer sair deste lugar?
+还不能离开，因为\n{0}	Incapaz de sair porque \n{0}.
 快捷键	Hotkeys
-时间变化	Time Change
+时间变化	Mudança de horário
 调整当前时间	Alterar a hora atual
 季节变化	Mudança de estação
 更换当前季节	Alterar a temporada atual
@@ -2779,11 +2779,11 @@ Lua代码不能为空	Lua script cannot be empty.
 天气与季节	Clima e estação
 更换当前天气与季节	Change current weather and season
 地图编辑	Editor de Mapa
-编辑地图及生成地图中的物品。	Edit map and generate items in the map.
-角色生成	Generate Character
-生成随机角色。	Generate random character.
-Trap编辑。	Trap Edit.
-对话编辑	Dialogue Edit
+编辑地图及生成地图中的物品。	Edite o mapa e gere itens no mapa.
+角色生成	Gerar personagens
+生成随机角色。	Gerar personagens aleatório.
+Trap编辑。	Editar armadilha.
+对话编辑	Editar diálogo
 编辑对话。	Edit dialogues.
 路线编辑	Route Edit
 编辑移动路线。	Edit routes.
@@ -2805,48 +2805,48 @@ Trap编辑。	Trap Edit.
 随机生成一个符咒	Gerar um Talismã Aleatório.
 普通物品	Comum
 调整	Ajustar
-对象升阶	Tier-up
+对象升阶	Nível superior
 将一个对象的品质升阶	Aumentar qualidade do alvo.
-对象降阶	Tier-down
+对象降阶	Nível inferior
 将一个对象的品质降阶	Reduzir a qualidade do alvo.
-变成法宝	Change into Artifact
-将一个物品变成法宝	Change an item into artifact.
-变成精怪	Change into Sentient Spirit
-将一个对象变成精怪	Change a target into Sentient Spirit.
-精怪化形	Shapeshifted Sentient Spirit
-将一个物品灵淬	Perform Aura Refinement for an item.
-分裂镇物	Split Relic
-将物品分裂出一个未鉴定的镇物	Split item into an unidentified Relic.
+变成法宝	Mudar para Artefato
+将一个物品变成法宝	Alterar um item em artefato.
+变成精怪	Mudar para o Espírito senciente
+将一个对象变成精怪	Mude um alvo para Espírito senciente.
+精怪化形	Espírito Senciente Transformado
+将一个物品灵淬	Execute Refinamento de Aura para um item.
+分裂镇物	Relíquia Dividida
+将物品分裂出一个未鉴定的镇物	Dividir o item em uma relíquia não identificada.
 鉴定镇物	Identificar Reliquia
 将一个镇物鉴定	Indetificar a Reliquia
-幽淬	Specter Refinement
-将一个物品幽淬	Perform Specter Refinement for an item.
-灵淬	Aura Refinement
-高级秘籍	Advanced Manual
-通过输入指定字段生成秘籍	Enter specific field to generate manual.
-法宝胚胎进度MAX	Maximize Artifact Incubation Progress
-将一个法宝激活进度拉满	Maximize the artifact activation progress.
-该角色已经是内门	This character is already an inner disciple.
-将一个外门弟子晋升内门	Promote an outer disciple to inner disciple.
-境界进阶	Advance State
-提升一个内门弟子的境界	Improve an inner disciple's State.
-角色重生	Character Rebirth
-将一个角色重生重置数值	Reset a character's attributes.
+幽淬	Refinamento de Espectro
+将一个物品幽淬	Execute o Refinamento de Espectro para um item.
+灵淬	Refinamento de Aura
+高级秘籍	Refinamento de Aura
+通过输入指定字段生成秘籍	Insira o campo específico para gerar o manual.
+法宝胚胎进度MAX	Maximizar o progresso da incubação de artefatos
+将一个法宝激活进度拉满	Maximize o progresso da ativação do artefato.
+该角色已经是内门	Este personagem já é um discípulo interior.
+将一个外门弟子晋升内门	Promova um discípulo externo para discípulo interno.
+境界进阶	Estado avançado
+提升一个内门弟子的境界	Melhorar o estado de um discípulo interior.
+角色重生	Renascimento do Personagem
+将一个角色重生重置数值	Redefina os atributos de um personagem.
 加满灵气	Maximize Qi
-加满一个内门弟子的灵气	Maximize an inner disciple's Qi.
-增加神性	Increase Divinity
-增加一个神修的神性	Increase a pantheon cultivator's Divinity.
-减少神性	Reduce Divinity
-减少一个神修的神性	Reduce a pantheon cultivator's Divinity.
-满神民	Maximize Divine Residents
-加满一个神修的神民	Maximize a pantheon cultivator's Divine Residents.
-提升心境	Improve Mental State
-提升一个角色的心境	Improve a character's Mental State.
-降低心境	Reduce Mental State
-降低一个角色的心境	Reduce a character's Mental State.
-增加参悟值	Increase Inspiration
-增加角色100000点参悟	Increase character's Inspiration by 100,000.
-参悟值归零	Clear All Inspiration
+加满一个内门弟子的灵气	Maximize o Qi de um discípulo interno.
+增加神性	Aumentar a Divindade
+增加一个神修的神性	Aumente a Divindade de um cultivador do panteão.
+减少神性	Reduzir a Divindade
+减少一个神修的神性	Reduza a Divindade de um cultivador do panteão.
+满神民	Maximize os residentes divinos
+加满一个神修的神民	Maximize os Residentes Divinos de um cultivador do panteão.
+提升心境	Melhorar o estado mental
+提升一个角色的心境	Melhorar o estado mental de um personagem.
+降低心境	Reduzir o estado mental
+降低一个角色的心境	Reduza o Estado Mental de um personagem.
+增加参悟值	Aumentar a inspiração
+增加角色100000点参悟	Aumente a inspiração do personagem em 100.000.
+参悟值归零	Limpar toda a inspiração
 将角色参悟值归零	Inspiração clara do personagem.
 植物成长值增加	Aumentar o crescimento da planta
 植物成长值增加20	Aumentar o crescimento da planta por 20.
@@ -2868,9 +2868,9 @@ Trap编辑。	Trap Edit.
 {0}[{7}]\n灵气:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi: {8:N0}\nHealth: {1:P0}\nMental State: {6:N0}\nHunger: {2:N0}\nThirst: {3:N0}\nEnergy: {4:N0}\nMood: {5:N0}
 \n重要情绪:	\nCore Mood:
 异常	Error
-确定删除该建筑蓝图吗？	Do you want to delete the building blueprint? 
-生存目标	Objective
-门派建设	Sect Building
+确定删除该建筑蓝图吗？	Deseja excluir o edifício Planta? 
+生存目标	Objetiva
+门派建设	Edifício da Seita
 修行进阶	Advance
 第{0}天 {1:D2}:{2:D2} {3}	Day {0} {1:D2}:{2:D2} {3}
 {0}\n剩余：{1}	{0}\nRemaining: {1}
