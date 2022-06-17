@@ -27,8 +27,8 @@
 `é necessario um programa para descompactar:`
 | Programa | Site |
 | ------ | ------ |
-| WinRar | [Download](https://github.com/IzanagiK/Tradu-ao-AMCS/archive/refs/heads/main.zip) |
-| 7-Zip | [Download](https://github.com/IzanagiK/Tradu-ao-AMCS/archive/refs/heads/main.zip) |
+| WinRar | [Download](https://www.win-rar.com/download.html?&L=9) |
+| 7-Zip | [Download](https://www.7-zip.org/download.html) |
 
 --------------------------
 
