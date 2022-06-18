@@ -33,10 +33,12 @@ Explore	Search Area		LeftControl+F				Area
 Melting	Smelt Items		LeftControl+Y				Area
 Hunting	Hunt Animals		LeftControl+H				Area
 CancelCMD	Cancel Order		LeftControl+D				Area
-BuildPanel	Building Menu		B				Menu
+BuildPanel	Build Menu		B				Menu
+SearchPanel	Target Menu		Y				Menu
+ProducePanel	Produce Menu		P				Menu
 SwichNpc	Change Target		Tab				Player
 33	Target Team	L-Ctrl + 1-9				1	Player
-34	Select Team 	1-9				1	Player
+34	Select Team	1-9				1	Player
 36	Multiple	L-Shift				1	Player
 Story1	Adv. Option 1		Alpha1				Adventure
 Story2	Adv. Option 2		Alpha2				Adventure
