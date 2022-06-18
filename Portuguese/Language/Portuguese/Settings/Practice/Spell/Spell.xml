@@ -85,35 +85,35 @@
 			<Desc>Used to raise yield during hunting, farming and harvesting.</Desc>
 		</Text>
 		<Text Name="Spell_Treatment">
-			<DisplayName>Talisman of Medicinal Mastery</DisplayName>
+			<DisplayName>Medicinal Mastery</DisplayName>
 			<Desc>Used to raise healing success rate and its effect.</Desc>
 		</Text>
 		<Text Name="Spell_MindState1">
-			<DisplayName>Talisman of Tranquil Heart</DisplayName>
+			<DisplayName>Tranquil Heart</DisplayName>
 			<Desc>Talisman used to slightly improve mental state.</Desc>
 		</Text>
 		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
-			<DisplayName>Talisman of Heavenly Heart</DisplayName>
+			<DisplayName>Heavenly Heart</DisplayName>
 			<Desc>Talisman used to slightly improve cultivation speed.</Desc>
 		</Text>
 		<Text Name="Spell_MindState2">
-			<DisplayName>Talisman of Cave Mind</DisplayName>
+			<DisplayName>Divine Comprehension</DisplayName>
 			<Desc>Talisman used to improve mental state.</Desc>
 		</Text>
 		<Text Name="Spell_MindState2_LunHui">
-			<DisplayName>Talisman of Divinity Mind</DisplayName>
+			<DisplayName>Divinity Mind</DisplayName>
 			<Desc>Scarce talisman passed down from thousands of years ago, created by the ancient immortal Yuan rewriting the Talisman of Divine Caves. \n[color=#D06508]This is in appreciation of the first player to successfully draw a talisman of 100% quality: Actually not me[/color]</Desc>
 		</Text>
 		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
-			<DisplayName>Talisman of Truth Comprehension</DisplayName>
+			<DisplayName>Truth Comprehension</DisplayName>
 			<Desc>Used to raise the chance of breakthrough.</Desc>
 		</Text>
 		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
-			<DisplayName>Talisman of Oblivion Comprehension</DisplayName>
+			<DisplayName>Oblivion Comprehension</DisplayName>
 			<Desc>Used to raise cultivation speed.</Desc>
 		</Text>
 		<Text Name="Spell_WorldMapFlySpeed">
-			<DisplayName>Talisman of Departing Shadow</DisplayName>
+			<DisplayName>Departing Shadow</DisplayName>
 			<Desc>Used to raise long-distance fly speed with a artifact.</Desc>
 		</Text>
 		<Text Name="Spell_FabaoMake_SuccessRateAddV">
@@ -221,19 +221,19 @@
 			<Desc>Increases the wearer's Attainment.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice1">
-			<DisplayName>Talisman of Divine Residence</DisplayName>
+			<DisplayName>Divine Residence</DisplayName>
 			<Desc>Increases Max Divine Residents limit for the wearer.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice2">
-			<DisplayName>Talisman of Divine Perception</DisplayName>
+			<DisplayName>Divine Perception</DisplayName>
 			<Desc>Increases the wearer's Belief Gains Bonus.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice3">
-			<DisplayName>Talisman of Divine Authority</DisplayName>
+			<DisplayName>Divine Authority</DisplayName>
 			<Desc>Increases the wearer's Divinity.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice4">
-			<DisplayName>Talisman of Divine Concealment</DisplayName>
+			<DisplayName>Divine Concealment</DisplayName>
 			<Desc>Decreases the wearer's Divinity.</Desc>
 		</Text>
 	</List>

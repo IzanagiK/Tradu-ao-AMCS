@@ -8,6 +8,10 @@
 			<DisplayName>Reverie Rebirth</DisplayName>
 			<Desc>Unique secret technique of the Taiyi Sect. Using the Soul Pearl  as the catalyst, this technique destroys one's own cultivation and burns out their Golden Core. Thus the way of creation is reversed and one will be reincarnated as a mortal.</Desc>
 		</Text>
+		<Text Name="JieHuiDaoPowerUp">
+			<DisplayName>Tao Refinement</DisplayName>
+			<Desc>Consume one Tribulation Ashe and use on an item, granting a chance to increase the item's tier by 1.</Desc>
+		</Text>
 		<Text Name="SoulCrystalYouPowerUp">
 			<DisplayName>Specter Refinement</DisplayName>
 			<Desc>Consume one Anguish Soul Gem to use on one item, with a chance to increase the tier of the item by 1.</Desc>
@@ -168,6 +172,14 @@
 			<DisplayName>Chant of Cloud Dispelling</DisplayName>
 			<Desc>Bring about a sunny weather through miracle. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.</Desc>
 		</Text>
+		<Text Name="PrayForRain_FeiHorse">
+			<DisplayName>Rain making(Fei)</DisplayName>
+			<Desc>Press Fei'talent and make a rain.</Desc>
+		</Text>
+		<Text Name="PrayForSun_LuShuHorse">
+			<DisplayName>Cloud Dispelling(LuShu)</DisplayName>
+			<Desc>Press Lushu's talent and dispel clouds.</Desc>
+		</Text>
 		<Text Name="PrayForRainstorm">
 			<DisplayName>Rainstorm</DisplayName>
 			<Desc>Bring about a rainstorm through miracle in winter and summer. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.</Desc>
@@ -231,14 +243,6 @@
 		<Text Name="Magic_Healing_Freeze">
 			<DisplayName>Furnace Spell</DisplayName>
 			<Desc>Heals a disciple's frostbite. Only useable via a pet's behavior, can't be used manually.</Desc>
-		</Text>
-		<Text Name="PrayForRain_FeiHorse">
-			<DisplayName>Rain making(Fei)</DisplayName>
-			<Desc>Press Fei'talent and make a rain.</Desc>
-		</Text>
-		<Text Name="PrayForSun_LuShuHorse">
-			<DisplayName>Cloud Dispelling(LuShu)</DisplayName>
-			<Desc>Press Lushu's talent and dispel clouds.</Desc>
 		</Text>
 	</List>
 </Texts>

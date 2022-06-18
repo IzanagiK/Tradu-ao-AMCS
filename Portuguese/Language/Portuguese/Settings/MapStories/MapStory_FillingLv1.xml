@@ -72,7 +72,7 @@
 			<DisplayName>Attune Immortal Destiny</DisplayName>
 			<Desc>[NAME] deparou com uma vinganca uma vez a cada lua azul. Ao ver uma pessoa que estava sendo cacada e perceber que seu destino parecia estar ligado a Escola [NAME] lancou um feitico para salva-los e os direcionou para a Escola.</Desc>
 		</Text>
-		<Text Name="Visita_Base">
+		<Text Name="Visit_Base">
 			<DisplayName>Chance Encounter</DisplayName>
 			<Desc>[NAME] deparou com um grupo de discipulos [SCHOOL]'s  que veio saudar [ENHIM] enquanto estava na estrada.</Desc>
 			<Selections.0.Display>Continuar</Selections.0.Display>
@@ -90,7 +90,7 @@
 			<Selections.9.Display>Ignore</Selections.9.Display>
 			<Selections.9.Tip>Golden Core</Selections.9.Tip>
 		</Text>
-		<Text Name="Visita_1">
+		<Text Name="Visit_1">
 			<DisplayName>Chance Encounter</DisplayName>
 			<Desc>[NAME] encontrou um anciao de [SCHOOL] enquanto caminhava pela estrada.</Desc>
 			<Selections.0.Display>Continuar</Selections.0.Display>
@@ -112,7 +112,7 @@
 			<Selections.10.Display>Ignore</Selections.10.Display>
 			<Selections.10.Tip>Golden Core</Selections.10.Tip>
 		</Text>
-		<Text Name="Visita_2">
+		<Text Name="Visit_2">
 			<DisplayName>Visita the mountain School</DisplayName>
 			<Desc>[NAME] estava com pressa quando percebeu que a  montanha da escola [SCHOOL] estava proxima.</Desc>
 			<Selections.0.Display>Entrar</Selections.0.Display>
@@ -123,10 +123,12 @@
 			<Selections.5.Display>Visita</Selections.5.Display>
 			<Selections.6.Display>Visita</Selections.6.Display>
 			<Selections.7.Display>Visita</Selections.7.Display>
-			<Selections.7.Tip>O Espirito Primordial ou ambas as partes devem ter um bom relacionamento.</Selections.7.Tip>
-			<Selections.8.Display>Esgueirar-se</Selections.8.Display>
-			<Selections.8.Tip>Estado de espirito primordial e a sorte e alta</Selections.8.Tip>
-			<Selections.9.Display>Ignore</Selections.9.Display>
+			<Selections.8.Display>Visit</Selections.8.Display>
+			<Selections.9.Display>Visit</Selections.9.Display>
+			<Selections.9.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.9.Tip>
+			<Selections.10.Display>Sneak in</Selections.10.Display>
+			<Selections.10.Tip>Primordial Spirit state and Luck is high</Selections.10.Tip>
+			<Selections.11.Display>Ignore</Selections.11.Display>
 		</Text>
 		<Text Name="Story_Base">
 			<DisplayName>The Mortal Realm</DisplayName>
@@ -308,7 +310,7 @@
 			<Selections.1.Display>Ignore</Selections.1.Display>
 			<Selections.2.Display>Esta frio demais.</Selections.2.Display>
 		</Text>
-		<Text Name="Visita_Old_Base">
+		<Text Name="Visit_Old_Base">
 			<DisplayName>Chance Encounter</DisplayName>
 			<Desc>[NAME] encontrou um grupo de discipulos da [SCHOOL] que veio saudar [ENHIM] enquanto estavam na estrada.</Desc>
 			<Selections.0.Display>Bate-papo Amigavel</Selections.0.Display>
@@ -325,7 +327,7 @@
 			<Selections.8.Display>Ignore</Selections.8.Display>
 			<Selections.8.Tip>Golden Core</Selections.8.Tip>
 		</Text>
-		<Text Name="Visita_Old_1">
+		<Text Name="Visit_Old_1">
 			<DisplayName>Chance Encounter</DisplayName>
 			<Desc>[NAME] encontrou um anciao de [PLACE] enquanto caminhava pela estrada.</Desc>
 			<Selections.0.Display>Visita</Selections.0.Display>
@@ -346,7 +348,7 @@
 			<Selections.9.Display>Ignore</Selections.9.Display>
 			<Selections.9.Tip>Golden Core</Selections.9.Tip>
 		</Text>
-		<Text Name="Visita_Old_2">
+		<Text Name="Visit_Old_2">
 			<DisplayName>Visita the mountain School</DisplayName>
 			<Desc>[NAME] estava com pressa quando percebeu que a escola de montanha de [SCHOOL] estava proxima.</Desc>
 			<Selections.0.Display>Visite o lider da seita</Selections.0.Display>
