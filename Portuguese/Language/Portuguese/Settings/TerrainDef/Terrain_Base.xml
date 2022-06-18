@@ -49,6 +49,9 @@
 		<Text Name="DepthWater">
 			<DisplayName>Deep Water</DisplayName>
 		</Text>
+		<Text Name="YunHai">
+			<DisplayName>Sea of Clouds</DisplayName>
+		</Text>
 		<Text Name="ShallowWater">
 			<DisplayName>Shallow Water</DisplayName>
 			<StoryDesc>Está na área alagada, porém rasa</StoryDesc>
