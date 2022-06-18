@@ -34,8 +34,8 @@
 		</Text>
 		<Text Name="Fish_ChillyCrab" sParam="Item">
 			<ThingName>Rime Crab</ThingName>
-			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
 			<Desc>Crab with tasty meat that is only seen in cold areas.</Desc>
+			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_BaiHuang" sParam="Item">
 			<ThingName>Snow Naked Carp</ThingName>
@@ -131,8 +131,8 @@
 		</Text>
 		<Text Name="Fish_JadeCrab" sParam="Item">
 			<ThingName>Jade Crab</ThingName>
-			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
 			<Desc>Very rare crab that only shows up during the day. Its body has been affected by the Spiritual Water and become jade-like. Some cultivators pet them on Mt. Nulumbo.</Desc>
+			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_s6" sParam="Item">
 			<ThingName>Peacock Bream</ThingName>
@@ -164,8 +164,8 @@
 		</Text>
 		<Text Name="Fish_FireCrab" sParam="Item">
 			<ThingName>Fire Crab</ThingName>
-			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
 			<Desc>Crab that lives in a hot region with a shell that helps it endure cold weather.</Desc>
+			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_HongGui" sParam="Item">
 			<ThingName>Sockeye Salmon</ThingName>
@@ -253,7 +253,7 @@
 		</Text>
 		<Text Name="Shrimp10" sParam="Item">
 			<ThingName>High Blood Shrimp</ThingName>
-			<Desc>Shrimps that live in blood water on mountains, only eat five element food. Due to their invasion they also live in other waters.</Desc>
+			<Desc>A shrimp that appears in the blood water on the mountains and only eats food of Fire element. Also shows up in other types of water due to its invasiveness.</Desc>
 		</Text>
 		<Text Name="Shrimp11" sParam="Item">
 			<ThingName>Fluorescence Shrimp</ThingName>

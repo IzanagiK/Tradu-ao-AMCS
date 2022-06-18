@@ -8,6 +8,7 @@
 		<Text Name="Item_Bamboo" sParam="Item">
 			<ThingName>Bamboo Stalk</ThingName>
 			<Desc>A bundle of bamboos that can be used to make fishing rods and some buildings. Only edible to pandas.</Desc>
+			<Item.FabaoSuffix>Stick</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FishStick" sParam="Item">
 			<ThingName>Fishing Rod</ThingName>
@@ -16,6 +17,7 @@
 		</Text>
 		<Text Name="Item_PandaJade" sParam="Item">
 			<ThingName>Panda Jade</ThingName>
+			<Desc>A jade found at the bamboo forest. It seems to be one of a set of items.</Desc>
 			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Check the Panda Jade.</StoryBnts.0.Desc>
 		</Text>
