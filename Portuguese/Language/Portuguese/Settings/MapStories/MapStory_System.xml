@@ -65,6 +65,19 @@
 			<Selections.0.Tip>State/Intelligence/Luck/Formation Skill</Selections.0.Tip>
 			<Selections.1.Display>Sair</Selections.1.Display>
 		</Text>
+		<Text Name="System_LearnGreateBuilding_WuDang">
+			<DisplayName>Meditate</DisplayName>
+			<Desc>The Golden Hall of Wudang exudes a serene and arcane air of divinity, seemingly conveying a message to its followers.</Desc>
+			<Selections.0.Display>Meditate</Selections.0.Display>
+			<Selections.0.Tip>State / Intelligence / Luck</Selections.0.Tip>
+			<Selections.1.Display>Leave</Selections.1.Display>
+		</Text>
+		<Text Name="System_FightMap_ZhenWuShenXiang">
+			<DisplayName>Worship</DisplayName>
+			<Desc>Worship the Perfected Warrior Statue for a little Divinity guidance.</Desc>
+			<Selections.0.Display>Worship</Selections.0.Display>
+			<Selections.1.Display>Leave</Selections.1.Display>
+		</Text>
 		<Text Name="System_EnterQianKunJie">
 			<DisplayName>Mini Universe</DisplayName>
 			<Desc>A magical building with the Taiyi Sect's secret treasure, Universe Spirit Crystal, as its core. The inside has its own rule for physical space and can be used to store all kinds of items. But there is a strange seal that keeps away people's mind. No matter how strong you are, no one can forcibly see its inside. Seems like there is a hidden secret.</Desc>
