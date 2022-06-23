@@ -212,6 +212,18 @@
 			<ThingName>Truth Pill</ThingName>
 			<Desc>Pill made by immortal cultivators. Consuming it restore a character's true appearance.</Desc>
 		</Text>
+		<Text Name="Item_Dan_FaceLock1" sParam="Item">
+			<ThingName>Child Face Drug</ThingName>
+			<Desc>Pill made by immortal cultivators. Consuming it to shape one's face as innocent as a baby's.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FaceLock2" sParam="Item">
+			<ThingName>Adult Face Drug</ThingName>
+			<Desc>Pill made by immortal cultivators. Consuming it to shape one's face as energetic as an adult's.</Desc>
+		</Text>
+		<Text Name="Item_Dan_FaceLock3" sParam="Item">
+			<ThingName>Elder Face Drug</ThingName>
+			<Desc>Pill made by immortal cultivators. Consuming it to shape one's face as profound as an elder's.</Desc>
+		</Text>
 		<Text Name="Item_Dan_Fat" sParam="Item">
 			<ThingName>Power Pill</ThingName>
 			<Desc>Elixir made by immortal cultivators. Consuming it makes a character's body bulkier.</Desc>

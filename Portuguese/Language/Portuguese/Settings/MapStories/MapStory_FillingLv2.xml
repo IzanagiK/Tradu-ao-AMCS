@@ -248,6 +248,12 @@
 			<Desc>Foi dito que o Immortal Caerulea ascendeu aqui e deixou um segredo incrivel. [NAME] não pude deixar de ficar curioso para ver o que poderia ser.</Desc>
 			<Selections.0.Display>Olhar em volta</Selections.0.Display>
 		</Text>
+		<Text Name="BaoZang_FeiLei1">
+			<DisplayName>Thunderclap Cave</DisplayName>
+			<Desc>Mt. Shu said the key of the Thunderclap Cave is a volume left by the Sage. They will gift anyone who can take back the volume.</Desc>
+			<Selections.0.Display>Lend the Volume</Selections.0.Display>
+			<Selections.1.Display>Leave</Selections.1.Display>
+		</Text>
 		<Text Name="LingWu_DanXia">
 			<DisplayName>Sunshade Setting Sun</DisplayName>
 			<Desc>[NAME] ficou chocado com a vista majestosa do precipicio do guarda-sol.</Desc>

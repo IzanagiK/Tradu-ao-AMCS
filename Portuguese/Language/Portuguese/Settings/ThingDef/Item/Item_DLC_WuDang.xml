@@ -27,11 +27,11 @@
 		</Text>
 		<Text Name="Item_Dan_WuQiNoHunger2" sParam="Item">
 			<ThingName>Qi Fasting Pill</ThingName>
-			<Desc>A secret fasting pill of the WuDang Mountains. Compared with normal fasting pills, it lasts longer (for a total of 30 days).</Desc>
+			<Desc>A secret fasting pill of the Wudang Mountains. Compared with normal fasting pills, it lasts longer (for a total of 30 days).</Desc>
 		</Text>
 		<Text Name="Item_Dan_SanHuaHuangJing" sParam="Item">
 			<ThingName>Trimerous Essence Pill</ThingName>
-			<Desc>A secret elixir of the WuDang Mountains. Take to increase Max Qi by a fixed amount. Though it's not very useful to experienced cultivators, it's recommended to help lay foundations for new disciples. But its effect will be significantly decreased if taken multiple times.</Desc>
+			<Desc>A secret elixir of the Wudang Mountains. Take to increase Max Qi by a fixed amount. Though it's not very useful to experienced cultivators, it's recommended to help lay foundations for new disciples. But its effect will be significantly decreased if taken multiple times.</Desc>
 		</Text>
 		<Text Name="Item_MiBao_ZhenWuDangMoShenJian" sParam="Item">
 			<ThingName>Perfected Warrior Sword</ThingName>
@@ -46,7 +46,7 @@
 		</Text>
 		<Text Name="Item_MiBao_ZiXiaoChi" sParam="Item">
 			<ThingName>Purple Cloud Measure</ThingName>
-			<Desc>A secret artifact of WuDang Sect. Carved from a complete Holy Stone, the measure has scales engraved with 7 Heaven's Breaths and astral powers and is forged after 7 Heavenly Tribulations. Once mastered, the artifact can be used to measure the contributions of all lives with the creed of heaven, and even speed up the enemy's Heavenly Tribulation.</Desc>
+			<Desc>A secret artifact of Wudang Sect. Carved from a complete Holy Stone, the measure has scales engraved with 7 Heaven's Breaths and astral powers and is forged after 7 Heavenly Tribulations. Once mastered, the artifact can be used to measure the contributions of all lives with the creed of heaven, and even speed up the enemy's Heavenly Tribulation.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Survive 7 Ascension Tribulations while carrying an artifact.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Attacks deal damage based on the difference between the Attainment of both sides. A gap of 1 Attainment increases damage by 1%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -65,6 +65,7 @@
 		</Text>
 		<Text Name="Item_XuanWuEgg" sParam="Item">
 			<ThingName>Black Tortoise Jade</ThingName>
+			<Desc>A jade sent by the Wudang Sect as a gift. It seems to be one of a set of items.</Desc>
 			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspect Black Tortoise Jade</StoryBnts.0.Desc>
 		</Text>

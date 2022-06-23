@@ -3,10 +3,12 @@
 		<Text Name="LsCalmHeart">
 			<DisplayName>Peaceful Breath</DisplayName>
 			<Desc>Use on an ally character so that they won't need food, water or sleep for 3 days, but their movement will become slow.</Desc>
+			<TargetDesc>Select an ally.</TargetDesc>
 		</Text>
 		<Text Name="LsShapeshift">
 			<DisplayName>Heavenly Block</DisplayName>
 			<Desc>Delays an ally character's Shapeshifting Tribulation at the cost of their lifespan.</Desc>
+			<TargetDesc>Select an ally who has the shapeshifting tribulation.</TargetDesc>
 		</Text>
 		<Text Name="LsLingWater">
 			<DisplayName>Natural Soil</DisplayName>

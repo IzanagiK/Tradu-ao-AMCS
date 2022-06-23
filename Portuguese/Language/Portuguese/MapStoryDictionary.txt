@@ -49,7 +49,7 @@
 但没人需要石头。	No one needed Rock though.
 {0}号召弟子将石料直接用于重建群众的家园。	{0} called on the Disciples to use the Stone to rebuild the people's homes.
 [NAME]仔细观摩了此建筑的模样。	[NAME] analyzed the building's architecture.
-解锁：武当红墙。	Unlock: WuDang Red Wall
+解锁：武当红墙。	Unlock: Wudang Red Wall
 我们已经知晓了此物如何建造。	We already know about how to construct this.
 解锁：%s	Unlocks: %s
 [NAME]心灵虔诚地拜了拜，感受到了祝福。	[NAME] prayed sincerely and sensed a blessing.
@@ -408,7 +408,7 @@
 [NAME]行礼以示尊敬，刚准备离开此地，突然福至心灵。[NAME]竟然莫名想起青莲山山腰竹庐中的神秘阵图。	[NAME] saluted in respect, and while just about to leave, [IT] suddenly had an epiphany. [NAME] suddenly and inexplicably recalled to mind the mysterious diagram of an array in the bamboo hut on the side of Mt. Caerulea.
 “这其中一定有关联！”[NAME]心中巨震，但知道此地有一位蜀山的太上长老看守，只能暂时假装神色不变的离开此地	"This definitely has some sort of connection with that! " [NAME]'s heart was greatly shaken, but knew that one of the Grand Supreme Elders of Mt. Shu keeps watching over this place and so could only leave while feigning indifference.
 [NAME]再次来到石桌前，果然发现四象遮天图微微颤动，似乎有所感应。然而此时此地，在蜀山太上长老的看守下，[NAME]并不敢轻举妄动……	[NAME] came before the stone table once again and discovered that, as expected, the Painting of the Four Symbols was vibrating slightly as if it there was some sort of reaction going on. But at this time and place, with the Grand Supreme Elder of Mt. Shu keeping watching over this place, [NAME] did not dare to act rashly…
-该怎么办呢？是否要通知蜀山联合调查？或是创造一个无人的机会，偷偷尝试？[NAME]若有所思，先行离开此地。(未完待续)	What's to be done? Should Mt. Shu be informed about this? Or would it be better to make everyone clear out to give it a try on the sly? As if lost in thought, [NAME] went ahead and left. (To be continued)
+该怎么办呢？是否要通知蜀山联合调查？[NAME]若有所思，先行离开此地。	What's to be done? Should Mt. Shu be informed about this? As if lost in thought, [NAME] went ahead and left.
 [NAME]再次来到石桌前，想到已经从青莲仙山取得的四象遮天图，暗自琢磨此物是否是关键所在。	[NAME] came before the stone table once again and recalled the Painting of the Four Symbols obtained from Mt. Caerulea. [IT] wondered if that object might be the key.
 [NAME]再来飞雷洞，观察凹痕，却并没有什么新的线索发现。一番探查后无果，只能暂时离去。	[NAME] returned to Thunderclap Cave and investigated the indentations, but there were no discernable clues to be found. After searching with no fruit to bear of it, the only choice left was to depart for the time being.
 [NAME]怀着虔诚之心进入飞雷洞，发现此地布置异常简单，只有一张石床和一张石桌，除去石桌上四角有四个似乎久用而磨出的凹痕，并没有什么异常。[NAME]行礼以示尊敬，便离开了此地。	With a pious heart, [NAME] entered Thunderclap Cave and found that the area was remarkably spartan, there was naught more than a stone bed and table. If one were to ignore that the stone table with four indentations that seemed like they were created on purpose, there would be nothing remarkable herein. [NAME] saluted in respect and then departed.
@@ -1531,10 +1531,10 @@
 夏	Summer
 秋	Autumn
 冬	Winter
-%s采摘完后，算了算时间，大概推算出%s会在天苍历%s年 %s %s日左右再次成熟。	After picking the fruit, %s inspected the plant and calculated. It seemed that %s would be ripe again in %s %s, year %s of the Tiancang era.
+%s采摘完后，算了算时间，大概推算出%s会在天苍历%s年 %s %s日左右再次成熟。	After picking the fruit, %s inspected the plant and calculated. It seemed that %s would be ripe again in year %s of the Tiancang era, %s day %s.
 灵根备忘录	Spirit Root Memorial
-%s十分懊恼，只得仔细查看了灵植的长势，算了算时间，大概推算出%s会在天苍历%s年 %s %s日左右再次成熟。	%s inspected the plants and calculated in frustration. It seemed that %s would be ripe again in %s%s, year %s of the Tiancang era.
-%s十分懊恼，采摘完剩下的灵植后，仔细查看了灵植的长势，算了算时间，大概推算出%s会在天苍历%s年 %s %s日左右再次成熟。	After picking the rest of the roots in frustration, %s inspected the plants and calculated. It seemed that %s would be ripe again in %s%s, year %s of the Tiancang era.
+%s十分懊恼，只得仔细查看了灵植的长势，算了算时间，大概推算出%s会在天苍历%s年 %s %s日左右再次成熟。	%s inspected the plants and calculated in frustration. It seemed that %s would be ripe again in the year %s of the Tiancang era, %s day %s.
+%s十分懊恼，采摘完剩下的灵植后，仔细查看了灵植的长势，算了算时间，大概推算出%s会在天苍历%s年 %s %s日左右再次成熟。	After picking the rest of the roots in frustration, %s inspected the plants and calculated. It seemed that %s would be ripe again in the year %s of the Tiancang era, %s day %s.
 金	Metal
 木	Wood
 水	Water
@@ -2006,3 +2006,14 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\")	GameUlt.KillBoss(\"Boss_Long\"
 请选择一个物品或者尸体	Select an Item or a Corpse
 可蕴养，当前目标:%s	Can be nurtured, current target: %s
 无法蕴养	Unable to nurture.
+[NAME]发现一年之期未满，造化玉籽并未凝结。只得离去。 	[NAME] discovered that the one-year period had not yet elapsed and so the Fortune Seed had not yet condensed. There was no other option but to depart.
+[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派法宝赠与[NAME]。	[NAME] ask the leader of [SCHOOL] for some good things, and the leader has to give [NAME] the sect artifact.
+[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派功法赠与[NAME]。	[NAME] ask the leader of [SCHOOL] for some good things, and the leader has to give [NAME] the sect manual.
+[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派宝物赠与[NAME]。	[NAME] ask the leader of [SCHOOL] for some good things, and the leader has to give [NAME] the sect treasure.
+[NAME]向蜀山表明来意，说有关于飞雷洞青莲祖师所遗留的传承之秘的消息想要商讨。然而蜀山却表示，其实破解飞雷洞的关键是祖师当年所炼一卷图册早已失传。蜀山为此寻觅数千年，事到如今也基本放弃了打算。如果能找到这册图卷，蜀山必有厚报。	[NAME] expressed his intention to Mt. Shu and said that he wanted to discuss the inheritance secret left by the ancestor Blue Lotus of Thunderclap cave. However, Mt. Shu said that the key to cracking the Thunderclap cave was that the atlas refined by the ancestor had long been lost. Mt. Shu has been searching for this for thousands of years, and now it has basically given up its plan. They will gift anyone who can take back the volume.
+[NAME]向蜀山表明来意，说有关于飞雷洞青莲祖师所遗留的传承之秘的消息想商讨。然而蜀山似乎对此早已见怪不怪，随意的将你应付了过去。	[NAME] expressed [ITS] intention to Mt.Shu and said that [IT] wanted to discuss the secret of inheritance left by the ancestor Blue Lotus of Thunderclap cave. However, Mt. Shu seems to have taken it for granted and dealt with [ENHIM] at will.
+[NAME]考虑到此事事关重大，以目前本门和青莲剑宗的关系而言，还是不提为妙。	[NAME] considered the importance of this matter, and it's better not to mention it in terms of the current relationship between our school and Blue Lotus Temple.
+[NAME]向蜀山递交了四象遮天图。蜀山众人惊喜万分，万万没想到早已放弃希望的事情居然会有转机。蜀山掌门直言欠[NAME]的门派天大的人情！	[NAME] submitted the Painting of the Four Symbols to Mt. Shu. People in Mt. Shu were pleasantly surprised. They never expected that things that had given up hope would turn for the better. The leader of Mt Shu frankly said that he owed [NAME] a great favor!
+[NAME]被封为座上宾，直到数天后，蜀山将四象遮天图还回，而后[NAME]离开了蜀山	[NAME] was honored as a guest of honor. A few days later, Mt. Shu returned the Painting of the Four Symbols, and then [NAME] left Mt. Shu.
+获得100点青莲剑宗人情。	Gain 100 connections of Blue Lotus Temple.
+[NAME]身上并没携带此物。	[NAME] do not carry this.

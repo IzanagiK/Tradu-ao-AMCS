@@ -32,7 +32,7 @@ Miracle9	Skill 9		Alpha9				Skill
 Miracle10	Skill 10		Alpha0				Skill
 MiraclePrevPage	Previous Skill Panel		Minus				Skill
 MiracleNextPage	Next Skill Panel		Equals				Skill
-Flying	Switch Fly or Walk		Space				Player
+Flying	Switch Fly or Walk		Space		LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Player
 Attack	Select Attack Target		BackQuote				Player
 Sprint	Dash		LeftShift				Player
 ShowOrHide	Hide/ShowUI		F11				System

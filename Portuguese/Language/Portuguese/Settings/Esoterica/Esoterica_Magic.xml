@@ -32,9 +32,21 @@
 			<DisplayName>Primeval Earth Wonder</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Mountain Shaping\n Consume a large amount of psychic power to pull out minerals from deep underground. \nLearn Miracle: Lake Shaping\n Perform a miracle and transform an area into one of shallow water. \nLearn Miracle: Land Shaping\n Perform a miracle and transform an area into one of land.[/color][/size]</EffectDesc>
 		</Text>
+		<Text Name="Magic_BuildMine_KaiHu">
+			<DisplayName>Lake Shaping</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Lake Shaping\n Perform a miracle and transform an area into one of shallow water.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine_ZaoLu">
+			<DisplayName>Land Shaping</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Land Shaping\n Perform a miracle and transform an area into one of land.[/color][/size]</EffectDesc>
+		</Text>
 		<Text Name="Magic_RebornSelf">
 			<DisplayName>Reverie Rebirth</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nRebirth Pill\nLearn Miracle: Reverie Rebirth\nUnique secret technique of the Taiyi Sect. Using the Soul Pearl  as the catalyst, this technique destroys one's own cultivation and burns out one's Golden Core. Thus the way of creation is reversed and one will be reincarnated as a mortal.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_JieHuiDaoPowerUp">
+			<DisplayName>Tao Refinement</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learned Miracle: Tao Refinement\nConsume one Tribulation Ashe and use on an item, granting a chance to increase the item's tier by 1.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_SoulCrystalYouPowerUp">
 			<DisplayName>Specter Refinement</DisplayName>
@@ -210,8 +222,8 @@
 			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Enlightened Awakening\nThoroughly enlighten a living being with no cultivation experience, increasing their Intelligence by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Healing_Charisma_1">
-			<DisplayName>Bodily Remolding</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Bodily Remolding\nReconstruct the body and spirit of a living being with no cultivation experience, increasing their Charisma by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.[/color][/size]</EffectDesc>
+			<DisplayName>Charismatic</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Charismatic\nReconstruct the body and spirit of a living being with no cultivation experience, increasing their Charisma by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Healing_Perception_1">
 			<DisplayName>Third Eye</DisplayName>

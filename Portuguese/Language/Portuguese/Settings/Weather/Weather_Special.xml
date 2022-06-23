@@ -83,6 +83,10 @@
 			<DisplayName>Raining</DisplayName>
 			<StoryDesc>Está chovendo na floresta tropical.</StoryDesc>
 		</Text>
+		<Text Name="LightSnow_Fov">
+			<DisplayName>Light Snow</DisplayName>
+			<StoryDesc>A light snow hangs in the air and dusts the land with a shimmering gleam</StoryDesc>
+		</Text>
 		<Text Name="SunSet">
 			<DisplayName>Sunset Glow</DisplayName>
 			<StoryDesc>Brilho do pôr do sol</StoryDesc>

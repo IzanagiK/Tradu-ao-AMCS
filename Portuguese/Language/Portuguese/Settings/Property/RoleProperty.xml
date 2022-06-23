@@ -32,7 +32,7 @@
 		</Text>
 		<Text Name="MoveSpeed">
 			<DisplayName>Velocidade de movimento</DisplayName>
-			<DisplayValue>{0:N2}m/seg</DisplayValue>
+			<DisplayValue>{0:N2}m/sec</DisplayValue>
 			<Desc>A velocidade de movimento do personagem.</Desc>
 			<FunctionKind>Estatísticas base</FunctionKind>
 		</Text>

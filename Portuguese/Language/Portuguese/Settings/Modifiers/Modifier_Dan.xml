@@ -83,6 +83,10 @@
 			<DisplayName>Fasting Pill</DisplayName>
 			<Desc>Consumption of Fasting Pill will significantly decrease the speed at which one consumes food and water.</Desc>
 		</Text>
+		<Text Name="Dan_NoHunger3">
+			<DisplayName>Qi Fasting Pill</DisplayName>
+			<Desc>Consumption of Qi Fasting Pill will significantly decrease the speed at which one consumes food and water.</Desc>
+		</Text>
 		<Text Name="Dan_LostSoul">
 			<DisplayName>Sedation Pill</DisplayName>
 			<Desc>Very basic mineral-based pill. Consuming this pill will cause one's brain function to be repressed and fell into a coma for 3 whole days.</Desc>
@@ -120,6 +124,9 @@
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence">
 			<DisplayName>Earth Flux</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SanHuaHuangJing">
+			<DisplayName>Trimerous Essence</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence1">
 			<DisplayName>Wicked Flux</DisplayName>

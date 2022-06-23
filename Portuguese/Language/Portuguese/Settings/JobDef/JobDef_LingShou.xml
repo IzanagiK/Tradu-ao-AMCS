@@ -54,16 +54,16 @@
 		<Text Name="JobLsFeedHim">
 			<DisplayName>Alimentando</DisplayName>
 		</Text>
-		<Text Name="JobLsDormir">
+		<Text Name="JobLsSleep">
 			<DisplayName>Dormir</DisplayName>
 		</Text>
-		<Text Name="JobLsDormirWithNpc">
+		<Text Name="JobLsSleepWithNpc">
 			<DisplayName>Dormir</DisplayName>
 		</Text>
 		<Text Name="JobLsGotoThing">
 			<DisplayName>Indo para</DisplayName>
 		</Text>
-		<Text Name="JobConfuso">
+		<Text Name="JobConfuse">
 			<DisplayName>Confuso</DisplayName>
 		</Text>
 	</List>

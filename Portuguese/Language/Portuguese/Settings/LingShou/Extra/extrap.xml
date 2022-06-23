@@ -25,16 +25,28 @@
 			<RaceExtra.0.Lv.4.Desc>Looks extremely healthy, with good physique. Internal Core has benefitted significantly.</RaceExtra.0.Lv.4.Desc>
 		</Text>
 		<Text Name="Justice">
-			<RaceExtra.0.Lv.0.SName>Baleful</RaceExtra.0.Lv.0.SName>
-			<RaceExtra.0.Lv.0.Desc>This one is thick with Curse. Barrier Power decreases significantly, while Spell strength and Internal Core Attack Strength increase significantly.</RaceExtra.0.Lv.0.Desc>
-			<RaceExtra.0.Lv.1.SName>Baleful</RaceExtra.0.Lv.1.SName>
-			<RaceExtra.0.Lv.1.Desc>This one is somewhat Cursed. Barrier Power decreases slightly, while Spell strength and Internal Core Attack Strength increase slightly.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.0.SName>Major Curse</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Major Curse: Significantly decreases Barrier Power, while significantly increasing Spell Power and Core Attack Power.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Moderate Curse</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Moderate Curse: Slightly decreases Barrier Power, while slightly increasing Spell Power and Core Attack Power.</RaceExtra.0.Lv.1.Desc>
 			<RaceExtra.0.Lv.2.SName>Neutral</RaceExtra.0.Lv.2.SName>
 			<RaceExtra.0.Lv.2.Desc>Doesn't appear to be noticeably blessed or cursed.</RaceExtra.0.Lv.2.Desc>
-			<RaceExtra.0.Lv.3.SName>Sanctified</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.SName>Moderate Blessing</RaceExtra.0.Lv.3.SName>
 			<RaceExtra.0.Lv.3.Desc>Slightly blessed. Barrier Power increases slightly, while Spell strength and Internal Core Attack strength decrease.</RaceExtra.0.Lv.3.Desc>
-			<RaceExtra.0.Lv.4.SName>Sanctified</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.SName>Major Blessing</RaceExtra.0.Lv.4.SName>
 			<RaceExtra.0.Lv.4.Desc>As blessed as can be. Barrier Power increases significantly, while Spell strength and Internal Core Attack strength decrease significantly.</RaceExtra.0.Lv.4.Desc>
+			<RaceExtra.1.Lv.0.SName>Major Curse</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Major Curse: Significantly decreases Barrier Power, while significantly increasing Spell Power and Core Attack Power. Significantly increases food and water consumption rates, while significantly decreasing nutrition absorption rate.</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>Moderate Curse</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>Major Curse: Slightly decreases Barrier Power, while slightly increasing Spell Power and Core Attack Power. Increases food and water consumption rates, while decreasing nutrition absorption rate.</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>Minor Curse</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>A weak sense of curse.</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.1.Lv.3.SName>Minor Blessing</RaceExtra.1.Lv.3.SName>
+			<RaceExtra.1.Lv.3.Desc>A weak sense of blessing.</RaceExtra.1.Lv.3.Desc>
+			<RaceExtra.1.Lv.4.SName>Moderate Blessing</RaceExtra.1.Lv.4.SName>
+			<RaceExtra.1.Lv.4.Desc>Moderate Blessing: Slightly increases Barrier Power, while decreasing Spell Power and Core Attack Power. Decreases food and water consumption rates, while increasing nutrition absorption rate.</RaceExtra.1.Lv.4.Desc>
+			<RaceExtra.1.Lv.5.SName>Major Blessing</RaceExtra.1.Lv.5.SName>
+			<RaceExtra.1.Lv.5.Desc>Major Blessing: Significantly increases Barrier Power, while significantly decreasing Spell Power and Core Attack Power. Significantly decreases food and water consumption rates, while significantly increasing nutrition absorption rate.</RaceExtra.1.Lv.5.Desc>
 		</Text>
 		<Text Name="NeiDan">
 			<RaceExtra.0.Lv.2.SpecialAbility.0.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing additional damage equal to 30% of the current target's Qi.</RaceExtra.0.Lv.2.SpecialAbility.0.Desc>
@@ -65,12 +77,18 @@
 			<RaceExtra.3.Lv.1.Desc>Possesses a portion of the full power of a canine.</RaceExtra.3.Lv.1.Desc>
 			<RaceExtra.3.Lv.2.SName>Tiangou Dog</RaceExtra.3.Lv.2.SName>
 			<RaceExtra.3.Lv.2.Desc>Possesses the fully awakened power of a canine.</RaceExtra.3.Lv.2.Desc>
-			<RaceExtra.5.Lv.0.SName>Panda</RaceExtra.5.Lv.0.SName>
-			<RaceExtra.5.Lv.0.Desc>Flawed Yin Yang Power</RaceExtra.5.Lv.0.Desc>
-			<RaceExtra.5.Lv.1.SName>Panda</RaceExtra.5.Lv.1.SName>
-			<RaceExtra.5.Lv.1.Desc>Incomplete Yin Yang Power</RaceExtra.5.Lv.1.Desc>
-			<RaceExtra.5.Lv.2.SName>Panda</RaceExtra.5.Lv.2.SName>
-			<RaceExtra.5.Lv.2.Desc>Fully Awakened Yin Yang Power</RaceExtra.5.Lv.2.Desc>
+			<RaceExtra.4.Lv.0.SName>Panda</RaceExtra.4.Lv.0.SName>
+			<RaceExtra.4.Lv.0.Desc>Flawed Yin Yang Power</RaceExtra.4.Lv.0.Desc>
+			<RaceExtra.4.Lv.1.SName>Panda</RaceExtra.4.Lv.1.SName>
+			<RaceExtra.4.Lv.1.Desc>Incomplete Yin Yang Power</RaceExtra.4.Lv.1.Desc>
+			<RaceExtra.4.Lv.2.SName>Panda</RaceExtra.4.Lv.2.SName>
+			<RaceExtra.4.Lv.2.Desc>Fully Awakened Yin Yang Power</RaceExtra.4.Lv.2.Desc>
+			<RaceExtra.5.Lv.0.SName>Black Tortoise</RaceExtra.5.Lv.0.SName>
+			<RaceExtra.5.Lv.0.Desc>Broken power of Black Tortoise.</RaceExtra.5.Lv.0.Desc>
+			<RaceExtra.5.Lv.1.SName>Black Tortoise</RaceExtra.5.Lv.1.SName>
+			<RaceExtra.5.Lv.1.Desc>Incomplete power of Black Tortoise.</RaceExtra.5.Lv.1.Desc>
+			<RaceExtra.5.Lv.2.SName>Black Tortoise</RaceExtra.5.Lv.2.SName>
+			<RaceExtra.5.Lv.2.Desc>Complete power of Black Tortoise.</RaceExtra.5.Lv.2.Desc>
 		</Text>
 	</List>
 </Texts>

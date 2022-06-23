@@ -159,6 +159,9 @@
 		<Text Name="Build_WanYaoMen">
 			<Type>Sect</Type>
 		</Text>
+		<Text Name="Building_Spring2021_1">
+			<Type>Sect</Type>
+		</Text>
 		<Text Name="Building_BigSwordPillar">
 			<Type>Sect</Type>
 		</Text>
@@ -245,6 +248,42 @@
 			<Label>Lighting</Label>
 		</Text>
 		<Text Name="Building_ChangMingDeng">
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
+		</Text>
+		<Text Name="Building_Spring2021_2">
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
+		</Text>
+		<Text Name="Building_Spring2021_3">
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
+		</Text>
+		<Text Name="Building_Spring2021_4">
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
+		</Text>
+		<Text Name="Building_Spring2021_5">
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
+		</Text>
+		<Text Name="Building_Spring2021_6">
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
+		</Text>
+		<Text Name="Building_Spring2021_7">
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
+		</Text>
+		<Text Name="Building_Spring2021_8">
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
+		</Text>
+		<Text Name="Building_Spring2021_9">
+			<Type>Decoration</Type>
+			<Label>Lighting</Label>
+		</Text>
+		<Text Name="Building_Spring2021_10">
 			<Type>Decoration</Type>
 			<Label>Lighting</Label>
 		</Text>
@@ -781,6 +820,18 @@
 		<Text Name="Carpet1">
 			<Type>Flooring</Type>
 		</Text>
+		<Text Name="Floor30">
+			<Type>Flooring</Type>
+		</Text>
+		<Text Name="Floor31">
+			<Type>Flooring</Type>
+		</Text>
+		<Text Name="Floor32">
+			<Type>Flooring</Type>
+		</Text>
+		<Text Name="Floor33">
+			<Type>Flooring</Type>
+		</Text>
 		<Text Name="Floor1">
 			<Type>Flooring</Type>
 		</Text>
@@ -868,19 +919,6 @@
 		<Text Name="Floor29">
 			<Type>Flooring</Type>
 		</Text>
-		<Text Name="Floor30">
-			<Type>Flooring</Type>
-		</Text>
-		<Text Name="Floor31">
-			<Type>Flooring</Type>
-		</Text>
-		<Text Name="Floor32">
-			<Type>Flooring</Type>
-		</Text>
-		<Text Name="Floor33">
-			<Type>Flooring</Type>
-		</Text>
-		
 		<Text Name="LsDogHouse">
 			<Type>Pet</Type>
 		</Text>

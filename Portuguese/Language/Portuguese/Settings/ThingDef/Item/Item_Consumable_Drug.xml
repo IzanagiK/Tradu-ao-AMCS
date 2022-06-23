@@ -97,12 +97,12 @@
 		</Text>
 		<Text Name="Item_Ginseng" sParam="Item">
 			<ThingName>Ginseng</ThingName>
-			<Desc>Expensive herb that can improve people's natural resilience for 2 hours if consumed directly. It can boost their Foundation building process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as a medicinal ingredient. Consuming it in large quantities significantly diminish the effect, however.</Desc>
+			<Desc>Expensive herb that can improve people's natural resilience for 2 hours if consumed directly. It can boost their Foundation building process when consumed by outer disciples. Often used as a medicinal ingredient. Consuming it in large quantities significantly diminish the effect, however.</Desc>
 			<Item.FabaoSuffix>Idol, Puppet, Doll</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_GanodermaLucidum" sParam="Item">
 			<ThingName>Lingzhi</ThingName>
-			<Desc>Expensive herb that can prolong one's Lifespan by 3 years if consumed directly. It can boost their Foundation building process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as a medicinal ingredient. Consuming it in large quantities significantly diminish the effect, however.</Desc>
+			<Desc>Expensive herb that can prolong one's Lifespan by 3 years if consumed directly. It can boost their Foundation building process when consumed by outer disciples. Often used as a medicinal ingredient. Consuming it in large quantities significantly diminish the effect, however.</Desc>
 			<Item.FabaoSuffix>Boongiver, Ganoderma, Powder, Umbrella</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_RedGinseng" sParam="Item">
@@ -276,6 +276,11 @@
 			<ThingName>Obsession Gem</ThingName>
 			<Desc>Crystallization generated from obsession in human mind, it contains all kinds of intense emotions, desires and miscellaneous thoughts. Effects unknown.</Desc>
 			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_God_JieHui" sParam="Item">
+			<ThingName>Tribulation Ashe</ThingName>
+			<Desc>A kind of special Ashe created by dead cultivators killed by tribulations. It is said that this kind of ash is condensed from the owner's condemnations.</Desc>
+			<Item.FabaoSuffix>Powder</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>

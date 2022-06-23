@@ -26,11 +26,11 @@
 			<ThingName>Dragon Incense</ThingName>
 			<StoryBnts.0.Name>Worship</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Attempt to worship with Dragon Incense.</StoryBnts.0.Desc>
-			<Desc>A miracle in the Southrock Palace that stands on the cliffs of the WuDang Mountains. One must climb on all fours to offer incense. One misstep will lead to a fall off the mountains.</Desc>
+			<Desc>A miracle in the Southrock Palace that stands on the cliffs of the Wudang Mountains. One must climb on all fours to offer incense. One misstep will lead to a fall off the mountains.</Desc>
 		</Text>
 		<Text Name="RedWallDownLeft" sParam="Building">
 			<ThingName>Red Wall Corner (L)</ThingName>
-			<Desc>A wall unique to WuDang Sect. Though mighty and impressive, it cannot be used to create a room.</Desc>
+			<Desc>A wall unique to Wudang Sect. Though mighty and impressive, it cannot be used to create a room.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
@@ -86,8 +86,8 @@
 			<Desc>A decorative structure. It can affect the Five Elements of its surroundings based on its materials.</Desc>
 		</Text>
 		<Text Name="WuDangBigGate" sParam="Building">
-			<ThingName>WuDang Gate</ThingName>
-			<Desc>A majestic gate of WuDang Sect.</Desc>
+			<ThingName>Wudang Gate</ThingName>
+			<Desc>A majestic gate of Wudang Sect.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
@@ -97,7 +97,7 @@
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangFlag" sParam="Building">
-			<ThingName>WuDang Banner</ThingName>
+			<ThingName>Wudang Banner</ThingName>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
@@ -120,11 +120,11 @@
 			<ThingName>Sacred Nimbus Plate</ThingName>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
-			<Desc>A structure unique to the WuDang Mountains that is engraved with the sacred title of Perfected Warrior Emperor.</Desc>
+			<Desc>A structure unique to the Wudang Mountains that is engraved with the sacred title of Perfected Warrior Emperor.</Desc>
 		</Text>
 		<Text Name="WuDangJinDian" sParam="Building">
 			<ThingName>Golden Hall</ThingName>
-			<Desc>A miraculous wonder that stands atop the mountain peak of WuDang Sect. Blessed by the divine might of Perfected Warrior Emperor, it contains the arcane secret of the ultimate WuDang skill to be learnt and practiced by cultivators lucky enough to find it.</Desc>
+			<Desc>A miraculous wonder that stands atop the mountain peak of Wudang Sect. Blessed by the divine might of Perfected Warrior Emperor, it contains the arcane secret of the ultimate Wudang skill to be learnt and practiced by cultivators lucky enough to find it.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Meditate on the heavenly ways dwelling within it.</StoryBnts.0.Desc>
 		</Text>
@@ -142,18 +142,18 @@
 			<ThingName>Cloudpeak Tea Plant</ThingName>
 		</Text>
 		<Text Name="Building_WuDangSong1" sParam="Building">
-			<ThingName>WuDang Pine Tree</ThingName>
+			<ThingName>Wudang Pine Tree</ThingName>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_WuDangSong2" sParam="Building">
-			<ThingName>WuDang Pine Tree</ThingName>
+			<ThingName>Wudang Pine Tree</ThingName>
 		</Text>
 		<Text Name="Building_WuDangSong3" sParam="Building">
-			<ThingName>WuDang Pine Tree</ThingName>
+			<ThingName>Wudang Pine Tree</ThingName>
 		</Text>
 		<Text Name="Building_WuDangSong4" sParam="Building">
-			<ThingName>WuDang Pine Tree</ThingName>
+			<ThingName>Wudang Pine Tree</ThingName>
 		</Text>
 		<Text Name="Table_TaiZi" sParam="Building">
 			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
