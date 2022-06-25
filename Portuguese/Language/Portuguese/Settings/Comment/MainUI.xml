@@ -34,11 +34,11 @@
 			<Desc>A influencia de sua seita no mundo mortal pode ser usada para expandir seu poder no mundo mortal.</Desc>
 			<Tips>Clique com o botão direito para abrir o painel de comentários de [color=#D06508]Influencia[/color].</Tips>
 		</Text>
-		<Text Name="MainUIWuXingGraph">
-			<Notes>Painel de Comentário do Diagrama de Cinco Elementos</Notes>
-			<Title>Diagrama de Cinco Elementos</Title>
-			<Desc>O Diagrama dos Cinco Elementos mostra cada uma das relações conectivas e contra-ativas entre os cinco elementos - Metal, Madeira, água, Fogo e Terra.</Desc>
-			<Tips>Clique com o botão direito para abrir o painel de comentários de [color=#D06508]Diagrama de Cinco Elementos[/color].</Tips>
+			<Text Name="MainUIWuXingGraph">
+			<Notes>Painel de comentários do Diagrama dos Cinco Elementos</Notes>
+			<Title>Diagrama dos Cinco Elementos</Title>
+			<Desc>O Diagrama dos Cinco Elementos mostra cada uma das relações sinergicas entre os cinco elementos - Metal, Madeira, Água, Fogo e Terra.</Desc>
+			<Tips>Clique com o RMB para abrir o painel de comentários do [color=#D06508]Diagrama dos Cinco Elementos[/color].</Tips>
 		</Text>
 	</List>
 </Texts>
