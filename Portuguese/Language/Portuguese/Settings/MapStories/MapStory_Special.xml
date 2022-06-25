@@ -576,7 +576,7 @@
 			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Plant_ShiXiong">
-			<DisplayName>Procurar</DisplayName>
+			<DisplayName>Buscar</DisplayName>
 			<Desc>Portanto, este e o Setimo Mestre. Parece que ele estava com muitas dores quando faleceu. [NAME] curvou-se e procurou o cadáver.</Desc>
 			<Selections.0.Display>Interagir</Selections.0.Display>
 			<Selections.1.Display>Desistir</Selections.1.Display>
@@ -632,7 +632,7 @@
 		<Text Name="Story_Building_TaiYiTower">
 			<DisplayName>Memorial Ceremony</DisplayName>
 			<Desc>[NAME] realiza uma cerimonia ao pe do Pagoda. Algo parece interagir fracamente com seu Qi, que antes era nutrido pelos ensinamentos da Seita Taiyi.</Desc>
-			<Selections.0.Display>Procurar</Selections.0.Display>
+			<Selections.0.Display>Buscar</Selections.0.Display>
 			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_UnlockTiXiu">

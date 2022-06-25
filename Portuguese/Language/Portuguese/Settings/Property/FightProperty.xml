@@ -100,13 +100,13 @@
 			<FunctionKind>Estatísticas de batalha</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ZhenKeyPointNum">
-			<DisplayName>Tamanho da Formação</DisplayName>
-			<Desc>O tamanho da formação com este personagem como pilar. Uma formação com mais pessoas terá um tamanho maior.</Desc>
+			<DisplayName>Tamanho da Matriz</DisplayName>
+			<Desc>O tamanho da Matriz com este personagem como pilar. Uma Matriz com mais pessoas terá um tamanho maior.</Desc>
 			<FunctionKind>Estatísticas de batalha</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ZhenEnginePower">
-			<DisplayName>Carregamento de Formação</DisplayName>
-			<Desc>A carga que a formação pode carregar com este personagem como pilar. Uma formação mais complicada é capaz de sustentar uma carga mais pesada.</Desc>
+			<DisplayName>Carregamento de Matriz</DisplayName>
+			<Desc>A carga que a Matriz pode carregar com este personagem como pilar. Uma Matriz mais complicada é capaz de sustentar uma carga mais pesada.</Desc>
 			<FunctionKind>Estatísticas de batalha</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ShieldResistanceToJin">
