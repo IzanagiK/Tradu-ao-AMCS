@@ -2627,7 +2627,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 无上大法	Apenas cópia existente
 藏经阁容量：{0}/{1}	Capacidade: {0}/{1}
 藏经阁所能容纳的秘籍。秘籍越深奥，录入占用的容量就越多。\n\n当前藏书量为派中弟子提供:\n降低参悟消耗{0}% 	A capacidade do Pavilhão Manual de conter manuais. Um manual mais difícil ocupará mais espaço após ser transcrito. \n\nA capacidade manual atual é fornecida pelos discípulos da seita: \nReduz o custo de inspiração em {0}%
-这个门派很神秘，需要在游戏中了解更多。	This sect is a mystery. Keep playing the game to know more.																													 
+这个门派很神秘，需要在游戏中了解更多。	a seita dele é um mistério. Continue jogando para saber mais																													 
 你已经离开硬核模式	Você saiu do Hardcore.
 重载所有脚本	Recarregue todos os scripts
 重载脚本结束	Scripts recarregados
@@ -2703,7 +2703,7 @@ ui状态异常，请关闭ui再次打开	Não foi possível carregar a interface
 {0} 下载失败，请检查网络连接是否稳定，同时移至Steam下载界面恢复下载	{0} O download falhou, verifique sua conexão com a internet e visite a aba de download da steam.
 \n下载失败，请尝试重新下载	\nFalha no download, tente novamente.
 [color=#FF0000]下载失败[/color]	[color=#FF0000]Falha no download[/color]
-{0} 下载超时，请检查网络连接，或移至Steam下载界面恢复下载	{0} Download timed out. Verify that your Internet connection is stable or navigate to Steam's download menu to resume the download.
+{0} 下载超时，请检查网络连接，或移至Steam下载界面恢复下载	{0} O download expirou. Verifique se sua conexão com a Internet está estável ou navegue até o menu de download do Steam para retomar o download.
 总大小:	Size:
   当前进度:	  Progresso:
 Lua代码不能为空	Lua script cannot be empty.
@@ -2865,48 +2865,48 @@ Trap编辑。	Editar armadilha.
 动物角色	Personagem Animal
 妖兽角色	Personagem Besta
 生成角色	Gerar Personagem
-角色按钮显示\n左键点击:\n显示内门:{0}\n显示外门:{1}\n\n右键点击:\n简易模式:{2}	Character Display\nLeft-Click:\nShow Inner: {0}\nShow Outer: {1}\n\nRight-Click:\nSimple Mode: {2}
+角色按钮显示\n左键点击:\n显示内门:{0}\n显示外门:{1}\n\n右键点击:\n简易模式:{2}	Exibição de Personagem\nClique esquerdo:\nMostrar interior: {0}\nMostrar exterior: {1}\n\nClique Direito:\nModo fácil: {2}
 开	On
 关	Off
 被迫服役	Forced to serve.
-{0}[{6}]\n灵气:{7:N0}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{6}]\nQi: {7:N0}\nHealth: {1:P0}\nHunger: {2:N0}\nThirst: {3:N0}\nEnergy: {4:N0}\nMood: {5:N0}
-{0}{6}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}{6}\nHealth: {1:P0}\nHunger: {2:N0}\nThirst: {3:N0}\nEnergy: {4:N0}\nMood: {5:N0}
-(访客)	(Visitor)
-历练中	Adventuring
-{0}[{7}]\n真炁:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nTrue Qi: {8:N0}\nHealth: {1:P0}\nMental State: {6:N0}\nHunger: {2:N0}\nThirst: {3:N0}\nEnergy: {4:N0}\nMood: {5:N0}
-{0}[{7}]\n灵气:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi: {8:N0}\nHealth: {1:P0}\nMental State: {6:N0}\nHunger: {2:N0}\nThirst: {3:N0}\nEnergy: {4:N0}\nMood: {5:N0}
+{0}[{6}]\n灵气:{7:N0}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{6}]\nQi: {7:N0}\nSaúde: {1:P0}\nFome: {2:N0}\nSede: {3:N0}\nEnergy: {4:N0}\nHumor: {5:N0}
+{0}{6}\n健康:{1:P0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}{6}\nSaúde: {1:P0}\nFome: {2:N0}\nSede: {3:N0}\nEnergy: {4:N0}\nHumor: {5:N0}
+(访客)	(Visitante)
+历练中	Aventurando-se
+{0}[{7}]\n真炁:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi verdadeiro: {8:N0}\nSaúde: {1:P0}\nEstado mental: {6:N0}\nFome: {2:N0}\nSede: {3:N0}\nEnergy: {4:N0}\nHumor: {5:N0}
+{0}[{7}]\n灵气:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi: {8:N0}\nSaúde: {1:P0}\nEstado mental: {6:N0}\nFome: {2:N0}\nSede: {3:N0}\nEnergy: {4:N0}\nHumor: {5:N0}
 \n重要情绪:	\nCore Mood:
 异常	Error
 确定删除该建筑蓝图吗？	Deseja excluir o edifício Planta? 
 生存目标	Objetiva
 门派建设	Edifício da Seita
-修行进阶	Advance
-第{0}天 {1:D2}:{2:D2} {3}	Day {0} {1:D2}:{2:D2} {3}
-{0}\n剩余：{1}	{0}\nRemaining: {1}
-门派风水：{0}	Sect's Feng Shui: {0}
-新的异闻解锁	A new secret is unlocked.
-(室)	(Room)
+修行进阶	Prática avançada
+第{0}天 {1:D2}:{2:D2} {3}	Dia {0} {1:D2}:{2:D2} {3}
+{0}\n剩余：{1}	{0}\nRestantes: {1}
+门派风水：{0}	Seita Feng Shui: {0}
+新的异闻解锁	Um novo segredo foi desbloqueado.
+(室)	(Quarto)
 (冰)	(Ice)
 未探索	Inexplorado
 灵气:{0}	Qi: {0}
-古修	Ancient Cultivator
+古修	Cultivador Ancestral
 启	Qi
 停	Stop
-将一名信仰程度达到100%的核心信徒永久转化为护法。\n消耗信仰：{2}{0:N0}/{1:N0}{3}	Permanently transform a core follower with a 100% belief into a guard. \nBelief Cost: {2}{0:N0}/{1:N0}{3}
-选择护法类型	Select guard type
-选择信仰程度达到100%的核心信徒	Select a core follower with a 100% belief
-{0}\n{1}\n入住天数：{3}\n信仰程度：{4}{2:N0}%{5}\n{6}	{0}\n{1}\nResidency Duration: {3}\nExtent of Belief: {4}{2:N0}% {5}\n{6}
-已转化	Transformed
-选择护法	Select guard.
-已供奉	Worshiped
-未供奉	Not Worshiped
-神民数量\n神民数量会根据门派影响力增长，实现心愿也可能增加神民。\n当前数量大于最大数量会导致怨气累加。	Number of Divine Residents\nThe number of divine residents will increase according to the influence of the sect. Realizing their wishes may also increase the population. \nIf the population exceeds the maximum number of residents, hatred will begin accumulating.
-可控神民数量\n与心境层次有关。神民数量超出可控数量会导致怨气累加。	Controllable Population\nRelated to mental state. If the population exceeds the controllable population, hatred will begin accumulating.
-需要神民\n每种神国建筑都需要一定数量的神民，神民数量不能满足需求数量会导致怨气累加。	Required Divine Residents\nEvery kind of divine buildings needs a number of divine residents. If it has fewer divine residents, hatred will begin accumulating.
-核心信徒数量\n核心信徒会提供可观的信仰收益，当核心信徒的信仰程度达到100%时可以将其转化为护法。\n核心信徒一旦加入不可移除。\n最大数量不足会导致怨气累加。	Number of Core Followers\nCore followers can provide a considerable amount of beliefs. When a core follower has a 100% belief, they can be transformed into a guard. \nOnce added, a core follower cannot be removed. \nIf the number of followers is not enough, hatred will begin accumulating.
-信仰\n信仰可以通过前往天下主动获取，或者建立神庙来自动获取，核心信徒也会提供可观的信仰收益。	Belief\nBeliefs can be obtained via entering the world and building temples. Core followers will also provide a considerable amount of beliefs.
-怨气\n 神民怨气，怨气达到100%会引发信仰天劫。	Hatred\nHatred from divine residents. It will cause Belief Tribulation if hatred reaches 100%.
-{0}\n{1}\n入住天数：{3}\n信仰程度：{2:N0}%\n完成愿望：{5}/5\n提供信仰：{4:N2}/秒	{0}\n{1}\nResidency Duration: {3}\nExtent of Belief: {2:N0}%\nWishes Fulfilled: {5}/5\nBeliefs: {4:N2}/s
+将一名信仰程度达到100%的核心信徒永久转化为护法。\n消耗信仰：{2}{0:N0}/{1:N0}{3}	Transforme permanentemente um seguidor central com 100% de crença em um guarda.. \nbelief Cost: {2}{0:N0}/{1:N0}{3}
+选择护法类型	Selecione o tipo de guarda
+选择信仰程度达到100%的核心信徒	Selecione um seguidor central com 100% de crença
+{0}\n{1}\n入住天数：{3}\n信仰程度：{4}{2:N0}%{5}\n{6}	{0}\n{1}\nDuração da residência: {3}\nExtensão da crença: {4}{2:N0}% {5}\n{6}
+已转化	Transformado
+选择护法	Selecione o guarda.
+已供奉	Consagrado
+未供奉	Não Consagrado
+神民数量\n神民数量会根据门派影响力增长，实现心愿也可能增加神民。\n当前数量大于最大数量会导致怨气累加。	Número de residentes divinos\nO número de residentes divinos aumentará de acordo com a influência da seita. Realizar seus desejos também pode aumentar a população. \nSe a população ultrapassar o número máximo de residentes, o ódio começará a se acumular.
+可控神民数量\n与心境层次有关。神民数量超出可控数量会导致怨气累加。	População controlável\nRelacionado ao estado mental. Se a população exceder a população controlável, o ódio começará a se acumular.
+需要神民\n每种神国建筑都需要一定数量的神民，神民数量不能满足需求数量会导致怨气累加。	Residentes Divinos Necessários\nTodo tipo de edifício divino precisa de um número de residentes divinos. Se tiver menos residentes divinos, o ódio começará a se acumular.
+核心信徒数量\n核心信徒会提供可观的信仰收益，当核心信徒的信仰程度达到100%时可以将其转化为护法。\n核心信徒一旦加入不可移除。\n最大数量不足会导致怨气累加。	Número de Seguidores Centrais\nOs seguidores centrais podem fornecer uma quantidade considerável de crenças. Quando um seguidor central acredita 100%, ele pode ser transformado em um guarda. \nUma vez adicionado, um seguidor central não pode ser removido. \nSe o número de seguidores não for suficiente, o ódio começará a se acumular.
+信仰\n信仰可以通过前往天下主动获取，或者建立神庙来自动获取，核心信徒也会提供可观的信仰收益。	Belief(Crença)\nCrenças podem ser obtidas entrando no mundo e construindo templos. Os seguidores centrais também fornecerão uma quantidade considerável de crenças.
+怨气\n 神民怨气，怨气达到100%会引发信仰天劫。	Hatred(Ódio)\nÓdio dos residentes divinos. Causará Tribulação de Crenças se o ódio atingir 100%.
+{0}\n{1}\n入住天数：{3}\n信仰程度：{2:N0}%\n完成愿望：{5}/5\n提供信仰：{4:N2}/秒	{0}\n{1}\nDuração da residência: {3}\nExtensão da crença: {2:N0}%\nDesejos realizados: {5}/5\nCrenças: {4:N2}/s
 聆听	Listen
 消耗所有灵气去聆听信徒的愿望，可以选择满足或者拒绝他们(点击愿望)。\n持续时间：{0:F0}秒\n{3}灵气：{1:F0}/{2:F0}{4}	Cost all Qi to listen to the followers' wishes. Can choose to realize or reject them (Click the wish). \nDuration: {0:F0} sec\n{3}Qi: {1:F0}/{2:F0}{4}
 {0} {1:F0}岁 {2}	{0}{1:F0} y/o{2}
