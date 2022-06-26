@@ -2928,8 +2928,8 @@ Trap编辑。	Editar armadilha.
 讨论	Discutir
 消息	Mensagem
 {0}{1}的{2}	{0}{1}'s {2}
-询问	Inquire
-选择需要讨论或者询问的话题	Select topics to discuss or inquire
+询问	Investigar
+选择需要讨论或者询问的话题	Selecione tópicos para discutir ou perguntar
 隐秘的“真相”往往不止一个，不同的线索和参与者可能会得到不一样故事。\n[color=#ff0000]一旦解密将不可逆转，请谨慎选择。[/color]\n确定要使用当前的选择进行推导吗？	Pode não haver apenas uma verdade oculta para cada Mistério. Diferentes pistas e participantes podem levar a uma história diferente. \n[color=#ff0000]Uma vez que o mistério seja resolvido, será irreversível. Por favor, pense duas vezes.[/color] \nDeseja usar a seleção para dedução?
 这几个势力凑在一起，似乎有点不对劲。不知是少了什么线索，还是想得太多了。	Algo parece um pouco errado com essas facções combinadas. Talvez esteja faltando uma pista, ou você está pensando demais.
 [{0}]缺少动机\n	[{0}]Falta de motivo\n
@@ -2943,20 +2943,20 @@ Trap编辑。	Editar armadilha.
 此人灵魂特殊，无法拷问。	This person's soul is too special to interrogate.
 此人灵魂特殊，无法劝化。	This person's soul is too special to persuade.
 选择祈福硬币	Select a prayer coin
-成功劝化{0}，{0}进入{1}神国并成为核心信徒	Successfully persuaded {0}; {0} entered {1}'s Divine Realm and became a core follower.
-{0}成功从{1}口中得出想要的答案：\n{2}	{0} successfully got the answer they wanted from {1}: \n{2}.
-{0}从{1}口中得到一个线索：\n{2}	{0} got an evidence from {1}: \n{2}.
-{0}成功从{1}口中得到一个线索：\n{2}	{0} successfully got an evidence from {1}: \n{2}.
-获得{0}新的隐秘信息	{0}'s new Mystery obtained.
-{0}心防瓦解(软弱)	{0} has opened up (weak).
-获得{0}关于{1}的消息	{1}'s info obtained from {0}.
-{0}心防无法瓦解(坚韧)	{0} has not opened up (tough).
-{0}心防瓦解	{0} has opened up.
-获得秘籍:《{0}》	Obtained Manual: {0}
-{0}心防无法瓦解(冷漠)	{0} will not open up (withdrawn).
-{0}放下一本秘籍:《{1}》	{0} put down a manual: {1}
-{0}近期将会前往门派做客	{0} will visit your sect later.
-{0}心防瓦解(贪婪)	{0} has opened up (greedy).
+成功劝化{0}，{0}进入{1}神国并成为核心信徒	Persuadido com sucesso {0}; {0} entrou no Reino Divino de {1} e se tornou um seguidor principal.
+{0}成功从{1}口中得出想要的答案：\n{2}	{0} obtiveram com sucesso a resposta que queriam{1}: \n{2}.
+{0}从{1}口中得到一个线索：\n{2}	{0} obteve uma evidência de {1}: \n{2}.
+{0}成功从{1}口中得到一个线索：\n{2}	{0} obteve com sucesso uma evidência de {1}: \n{2}.
+获得{0}新的隐秘信息	{0}'s novo Mistério obtido.
+{0}心防瓦解(软弱)	{0} abriu (fraco).
+获得{0}关于{1}的消息	{1}'s informações obtidas de {0}.
+{0}心防无法瓦解(坚韧)	{0} não abriu (difícil).
+{0}心防瓦解	{0} se abriu.
+获得秘籍:《{0}》	Manual obtido: {0}
+{0}心防无法瓦解(冷漠)	{0} não vai abrir (retirado).
+{0}放下一本秘籍:《{1}》	{0} colocar um manual: {1}
+{0}近期将会前往门派做客	{0} visitará sua seita mais tarde.
+{0}心防瓦解(贪婪)	{0} se abriu (ganancioso).
 [{0}将{1}赠与你]	[{0} gave you {1} as a gift.]
 选择物品	Select Item
 {0}为信仰圣物，确定要赠送吗？	{0} is a sacred relic, are you sure to send that as a gift?																									  
