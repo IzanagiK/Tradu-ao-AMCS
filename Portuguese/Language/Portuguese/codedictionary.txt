@@ -2134,7 +2134,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 角色会将该道具搬运至交易区。	O personagem irá mover o item para a área de comércio.
 熔炼	Cheiro
 内门弟子将会尝试将这个物品熔炼为灵石。\n每5000灵气可以熔炼为一个灵石。 如果是法宝，则法宝的品阶越高，熔炼出的灵石越多。	Discípulos internos tentarão fundir este item em Pedras Espirituais.\nCada 5.000 Qi pode ser fundido em uma Pedra do Espírito. Artefatos de níveis mais altos concedem mais Qi.
-装备给与	Equipar
+装备给与	Equip
 将这个装备给与一个角色，角色会自动前来装备。	Dê este equipamento a um personagem. O personagem irá recuperá-lo e equipá-lo automaticamente.
 {0}已经学过这本秘籍了	{0} já estudou este manual.
 {0}没有对应的装备槽位了	{0} não pode equipar este item.
@@ -2197,7 +2197,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 吞噬	Devour
 吞噬目标物品，以强大的的肉体将其精华提炼而出。吞噬能力与格物技能等级，消化系统的淬炼程度有关。\n目前最高可吞噬[color=#990000][my_property=BodyPractice_EatItemMaxRate|{0:F2}]阶[/color]的物品。	Devore o item alvo e extraia a essência desse item com um corpo forte. A capacidade de devorar está relacionada ao nível de habilidade de compreensão e ao grau de remodelação do sistema digestivo.\nCurrently you may devour [color=#990000]tier [my_property=BodyPractice_EatItemMaxRate|{0:F2}][/color] items at maximum.
 选择一个道具,其他角色会将其喂给此角色。	Selecione um item e outro personagem irá alimentá-lo para o personagem.
-装备道具	Equipar
+装备道具	Equip
 装备或者拾取一个道具	Equipar ou pegar um item
 拾取一个物品，注意这可能会惹别人生气。	Pegue um item. Pode irritar outras pessoas.
 画符	Desenhar
@@ -2401,6 +2401,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 放置物品到置物台	Coloque o item no Display.
 该物品正在被使用	Este item está sendo usado.
 该物品已经不能开光了	Este item não pode mais ser consagrado.
+该物品不能被道淬了	This item cannot be Tao Refined.														
 找不到物品[劫灰]	Não é possível encontrar o item [Tribulation Ashe]
 道淬成功率：{0}	Tao Refinar a taxa de sucesso: {0}
 [color=#FF0000](无提升)[/color]	[color=#FF0000](No improvement)[/color]																		  
@@ -2695,8 +2696,8 @@ ui状态异常，请关闭ui再次打开	Não foi possível carregar a interface
 等待激活	Disponível
 已激活	Ativado
 [color=#FF0000]模组商店获取失败[/color]	[color=#FF0000]Fracasso[/color]
-正在下载 ：	Baixando:
-下载 	Downloading 
+正在下载 ：	Downloading:
+下载 	Download 
  : 等待服务器响应	 : Esperando servidor responder ..
 正在下载	Downloading
   取消下载	  Cancelar Downloading
@@ -2752,7 +2753,7 @@ Lua代码不能为空	Lua script cannot be empty.
 地图名称	Nome do mapa
 地图描述	Descrição do mapa
 地图内容	Conteúdo do mapa
-返回主菜单	Return to Menu
+返回主菜单	Retorna ao Menu
 返回主菜单将会丢失所有未保存的进度，确定要返回吗？	Você perderá todo o progresso não salvo. Tem certeza de que deseja retornar ao menu?
 退出游戏	Sair
 退出将会丢失所有未保存的进度，确定要退出吗？	Você perderá todo o progresso não salvo. Você tem certeza que quer sair?
@@ -2793,10 +2794,10 @@ Lua代码不能为空	Lua script cannot be empty.
 生成随机角色。	Gerar personagens aleatório.
 Trap编辑。	Editar armadilha.
 对话编辑	Editar diálogo
-编辑对话。	Edit dialogues.
-路线编辑	Route Edit
-编辑移动路线。	Edit routes.
-指定天气	Select Weather
+编辑对话。	Editar diálogos.
+路线编辑	Editar Rota
+编辑移动路线。	Editar Rotas.
+指定天气	Selecionar Clima
 当前天气变化为指定的天气	Mude o clima para um específico.
 地形	Terreno
 坐标点	Cordenadas
@@ -2876,7 +2877,7 @@ Trap编辑。	Editar armadilha.
 {0}[{7}]\n真炁:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi verdadeiro: {8:N0}\nSaúde: {1:P0}\nEstado mental: {6:N0}\nFome: {2:N0}\nSede: {3:N0}\nEnergy: {4:N0}\nHumor: {5:N0}
 {0}[{7}]\n灵气:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi: {8:N0}\nSaúde: {1:P0}\nEstado mental: {6:N0}\nFome: {2:N0}\nSede: {3:N0}\nEnergy: {4:N0}\nHumor: {5:N0}
 \n重要情绪:	\nCore Mood:
-异常	Error
+异常	Erro
 确定删除该建筑蓝图吗？	Deseja excluir o edifício Planta? 
 生存目标	Objetiva
 门派建设	Edifício da Seita
@@ -2907,56 +2908,56 @@ Trap编辑。	Editar armadilha.
 信仰\n信仰可以通过前往天下主动获取，或者建立神庙来自动获取，核心信徒也会提供可观的信仰收益。	Belief(Crença)\nCrenças podem ser obtidas entrando no mundo e construindo templos. Os seguidores centrais também fornecerão uma quantidade considerável de crenças.
 怨气\n 神民怨气，怨气达到100%会引发信仰天劫。	Hatred(Ódio)\nÓdio dos residentes divinos. Causará Tribulação de Crenças se o ódio atingir 100%.
 {0}\n{1}\n入住天数：{3}\n信仰程度：{2:N0}%\n完成愿望：{5}/5\n提供信仰：{4:N2}/秒	{0}\n{1}\nDuração da residência: {3}\nExtensão da crença: {2:N0}%\nDesejos realizados: {5}/5\nCrenças: {4:N2}/s
-聆听	Listen
-消耗所有灵气去聆听信徒的愿望，可以选择满足或者拒绝他们(点击愿望)。\n持续时间：{0:F0}秒\n{3}灵气：{1:F0}/{2:F0}{4}	Cost all Qi to listen to the followers' wishes. Can choose to realize or reject them (Click the wish). \nDuration: {0:F0} sec\n{3}Qi: {1:F0}/{2:F0}{4}
+聆听	Ouvir
+消耗所有灵气去聆听信徒的愿望，可以选择满足或者拒绝他们(点击愿望)。\n持续时间：{0:F0}秒\n{3}灵气：{1:F0}/{2:F0}{4}	Custa todo o Qi para ouvir os desejos dos seguidores. Pode escolher realizá-los ou rejeitá-los (Clique no desejo). \nDuração: {0:F0} sec\n{3}Qi: {1:F0}/{2:F0}{4}
 {0} {1:F0}岁 {2}	{0}{1:F0} y/o{2}
-核心信徒	Core Follower
-{3}消耗信仰：{0}/{5:F0}{4}\n神民：+{1}\n神性：+{2:F2}%\n{6}信仰程度：+{7:P2}	{3}Belief Cost: {0}/{5:F0}{4}\nDivine Residents: +{1}\nDivinity: +{2:F2}%\n{6}Extent of Belief: +{7:P2}
-{3}消耗信仰：{0}/{5:F0}{4}\n神民：+{1}\n神性：+{2:F2}%	{3}Belief Cost: {0}/{5:F0}{4}\nDivine Residents: +{1}\nDivinity: +{2:F2}%
-拒绝要求	Reject Demand
-分类:{0}	Category: {0}
-\n提高道行: {0}	\nAttainment: +{0}
-{0}\n[color=#9e6404]不能共存：[/color]	{0}\n[color=#9e6404]Cannot coexist:[/color]
+核心信徒	Seguidor Central
+{3}消耗信仰：{0}/{5:F0}{4}\n神民：+{1}\n神性：+{2:F2}%\n{6}信仰程度：+{7:P2}	{3}Custo de Crença: {0}/{5:F0}{4}\nResidentes Divinos: +{1}\nDivinity: +{2:F2}%\n{6}Extent of Belief: +{7:P2}
+{3}消耗信仰：{0}/{5:F0}{4}\n神民：+{1}\n神性：+{2:F2}%	{3}Custo de Crença: {0}/{5:F0}{4}\nResidentes Divinos: +{1}\nDivindade: +{2:F2}%
+拒绝要求	Recusar Pedido
+分类:{0}	Categoria: {0}
+\n提高道行: {0}	\nAtendimento: +{0}
+{0}\n[color=#9e6404]不能共存：[/color]	{0}\n[color=#9e6404]Não pode coexistir:[/color]
 \n[align=center][color=#9e6404]----功法进阶----[/color][/align]	\n[align=center][color=#9e6404]Avançar Lei[/color][/align]
-确定重置所有的快捷键吗？	Resetar todas as hotkeys para o padrão?
-重置快捷键	Reset Hotkeys
-请输入任意按键	Press a key.
-该热键已被系统锁定	This hotkey has been locked by the system.
-该热键存在重复注册	This hotkey is already in use.
-选择参与推导的信息	Select information used for deduction
-{0}{1}的线索	{0}{1}'s clues
-讨论	Discuss
-消息	Message
+确定重置所有的快捷键吗？	Resetar todas as teclas para o padrão?
+重置快捷键	Redefinir Teclas
+请输入任意按键	Pressione uma tecla.
+该热键已被系统锁定	Esta tecla foi bloqueada pelo sistema.
+该热键存在重复注册	Esta tecla já está em uso.
+选择参与推导的信息	Selecione as informações usadas para dedução
+{0}{1}的线索	{0}{1}'s Dicas
+讨论	Discutir
+消息	Mensagem
 {0}{1}的{2}	{0}{1}'s {2}
-询问	Inquire
-选择需要讨论或者询问的话题	Select topics to discuss or inquire
-隐秘的“真相”往往不止一个，不同的线索和参与者可能会得到不一样故事。\n[color=#ff0000]一旦解密将不可逆转，请谨慎选择。[/color]\n确定要使用当前的选择进行推导吗？	There may not be only one hidden truth to each Mystery. Different clues and participants may lead to a different story. \n[color=#ff0000]Once the mystery is solved, it will be irreversible. Please think twice.[/color] \nDo you want to use the selection for deduction?
-这几个势力凑在一起，似乎有点不对劲。不知是少了什么线索，还是想得太多了。	Something seems a little off with these factions combined. Maybe a clue is missing, or you're overthinking it.
-[{0}]缺少动机\n	[{0}]Lack of Motive\n
-感觉这些动机不太能认定他们跟此事的关系，或是想得太多了？\n	Feels like these motives cannot prove their involvement in this incident, or maybe you're overthinking it?\n
-[{0}]证据不足\n	[{0}]Insufficient Evidence\n
-感觉这些证据不太能认定他们跟此事的关系，或是想得太多了？\n	Feels like the evidence cannot prove their involvement in this incident, or maybe you're overthinking it?\n
-有些问题似乎怎么都没办法想明白。	There are still questions left unanswered.
-{0}\n来源：{1}\n{2}	{0}\nSource: {1}\n{2}
+询问	Investigar
+选择需要讨论或者询问的话题	Selecione tópicos para discutir ou perguntar
+隐秘的“真相”往往不止一个，不同的线索和参与者可能会得到不一样故事。\n[color=#ff0000]一旦解密将不可逆转，请谨慎选择。[/color]\n确定要使用当前的选择进行推导吗？	Pode não haver apenas uma verdade oculta para cada Mistério. Diferentes pistas e participantes podem levar a uma história diferente. \n[color=#ff0000]Uma vez que o mistério seja resolvido, será irreversível. Por favor, pense duas vezes.[/color] \nDeseja usar a seleção para dedução?
+这几个势力凑在一起，似乎有点不对劲。不知是少了什么线索，还是想得太多了。	Algo parece um pouco errado com essas facções combinadas. Talvez esteja faltando uma pista, ou você está pensando demais.
+[{0}]缺少动机\n	[{0}]Falta de motivo\n
+感觉这些动机不太能认定他们跟此事的关系，或是想得太多了？\n	Parece que esses motivos não podem provar o envolvimento deles neste incidente, ou talvez você esteja pensando demais?\n
+[{0}]证据不足\n	[{0}]Evidências Insuficientes\n
+感觉这些证据不太能认定他们跟此事的关系，或是想得太多了？\n	Parece que as evidências não podem provar o envolvimento deles neste incidente, ou talvez você esteja pensando demais?\n
+有些问题似乎怎么都没办法想明白。	Ainda há perguntas sem resposta.
+{0}\n来源：{1}\n{2}	{0}\nFonte: {1}\n{2}
 [死亡]	[Death]
 {0:F0}\n角色对玩家门派的好感度，好感度会影响可以进行的行为和得到的回答。\n在未打开心防时好感度最高为60，讨论对方的嗜好可以打开心防。	{0:F0}\nThe character's favor to your sect. Their favor will affect available actions and the answer you get from them. \nThe maximum favor is 60 before the character opens up. Talk about their hobbies can help them to open up.
 此人灵魂特殊，无法拷问。	This person's soul is too special to interrogate.
 此人灵魂特殊，无法劝化。	This person's soul is too special to persuade.
 选择祈福硬币	Select a prayer coin
-成功劝化{0}，{0}进入{1}神国并成为核心信徒	Successfully persuaded {0}; {0} entered {1}'s Divine Realm and became a core follower.
-{0}成功从{1}口中得出想要的答案：\n{2}	{0} successfully got the answer they wanted from {1}: \n{2}.
-{0}从{1}口中得到一个线索：\n{2}	{0} got an evidence from {1}: \n{2}.
-{0}成功从{1}口中得到一个线索：\n{2}	{0} successfully got an evidence from {1}: \n{2}.
-获得{0}新的隐秘信息	{0}'s new Mystery obtained.
-{0}心防瓦解(软弱)	{0} has opened up (weak).
-获得{0}关于{1}的消息	{1}'s info obtained from {0}.
-{0}心防无法瓦解(坚韧)	{0} has not opened up (tough).
-{0}心防瓦解	{0} has opened up.
-获得秘籍:《{0}》	Obtained Manual: {0}
-{0}心防无法瓦解(冷漠)	{0} will not open up (withdrawn).
-{0}放下一本秘籍:《{1}》	{0} put down a manual: {1}
-{0}近期将会前往门派做客	{0} will visit your sect later.
-{0}心防瓦解(贪婪)	{0} has opened up (greedy).
+成功劝化{0}，{0}进入{1}神国并成为核心信徒	Persuadido com sucesso {0}; {0} entrou no Reino Divino de {1} e se tornou um seguidor principal.
+{0}成功从{1}口中得出想要的答案：\n{2}	{0} obtiveram com sucesso a resposta que queriam{1}: \n{2}.
+{0}从{1}口中得到一个线索：\n{2}	{0} obteve uma evidência de {1}: \n{2}.
+{0}成功从{1}口中得到一个线索：\n{2}	{0} obteve com sucesso uma evidência de {1}: \n{2}.
+获得{0}新的隐秘信息	{0}'s novo Mistério obtido.
+{0}心防瓦解(软弱)	{0} abriu (fraco).
+获得{0}关于{1}的消息	{1}'s informações obtidas de {0}.
+{0}心防无法瓦解(坚韧)	{0} não abriu (difícil).
+{0}心防瓦解	{0} se abriu.
+获得秘籍:《{0}》	Manual obtido: {0}
+{0}心防无法瓦解(冷漠)	{0} não vai abrir (retirado).
+{0}放下一本秘籍:《{1}》	{0} colocar um manual: {1}
+{0}近期将会前往门派做客	{0} visitará sua seita mais tarde.
+{0}心防瓦解(贪婪)	{0} se abriu (ganancioso).
 [{0}将{1}赠与你]	[{0} gave you {1} as a gift.]
 选择物品	Select Item
 {0}为信仰圣物，确定要赠送吗？	{0} is a sacred relic, are you sure to send that as a gift?																									  
@@ -3162,7 +3163,7 @@ Trap编辑。	Editar armadilha.
 \n寿元：{0:N0}({1:N0})	\nLifespan: {0:N0} ({1:N0})
 \n信仰：{0:N0}({1:N0})	\nBeliefs: {0:N0}({1:N0})
 \n修为：{0:N0}({1:N0})	\nExperience: {0:N0} ({1:N0})
-神民:{0}\n{1}	Divine Residents: {0}\n{1}
+神民:{0}\n{1}	Residentes Divinos: {0}\n{1}
 道行:{0}\n{1}	Attainment: {0}\n{1}
 未保存的编辑将丢失，是否继续新建地图？	Unsaved edit will be lost. Continue to create new map?
 地图尺寸：{0}	Map Size: {0}
@@ -3868,6 +3869,7 @@ Lua回调类名	Lua Callback Class Name
 正在获取角色	Receiving Characters
 请输入灵刻	Input Inscription
 获取角色失败	Receiving Faild
+目标角色来自DLC：竹林深处	Target character contain DLC: Deep in the bamboo forest														
 正在获取战斗记录	Receiving Fight Records
 道具	Item
 租借法宝	Borrow Artifact
