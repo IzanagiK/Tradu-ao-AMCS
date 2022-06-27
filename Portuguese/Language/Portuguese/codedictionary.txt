@@ -2401,6 +2401,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 放置物品到置物台	Coloque o item no Display.
 该物品正在被使用	Este item está sendo usado.
 该物品已经不能开光了	Este item não pode mais ser consagrado.
+该物品不能被道淬了	This item cannot be Tao Refined.														
 找不到物品[劫灰]	Não é possível encontrar o item [Tribulation Ashe]
 道淬成功率：{0}	Tao Refinar a taxa de sucesso: {0}
 [color=#FF0000](无提升)[/color]	[color=#FF0000](No improvement)[/color]																		  
@@ -3868,6 +3869,7 @@ Lua回调类名	Lua Callback Class Name
 正在获取角色	Receiving Characters
 请输入灵刻	Input Inscription
 获取角色失败	Receiving Faild
+目标角色来自DLC：竹林深处	Target character contain DLC: Deep in the bamboo forest														
 正在获取战斗记录	Receiving Fight Records
 道具	Item
 租借法宝	Borrow Artifact
