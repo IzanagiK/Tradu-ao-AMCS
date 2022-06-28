@@ -5,7 +5,7 @@
 湖仙钓者	Apanhador de Fadas do Lago
 湖怪钓者	Apanhador de Monstros do Lago
 垂钓仙	Pescador Imortal
-垂钓圣者	Santo pescador
+垂钓圣者	Santo Pescador
 垂钓翁	Pescador Ancião 
 战斗	Batalha
 气感	Sentido de Qi
@@ -17,9 +17,9 @@
 金石	Minerar
 雅艺	Artesanato
 格物	Compreensão
-斗法	Magica
-丹器	Artesanato mágico
-御器	Domínio de artefato
+斗法	Magia
+丹器	Criação de Magia
+御器	Maestria de Artefato
 术法	Feitiço
 护体	Proteger
 阵法	Matriz
@@ -39,7 +39,7 @@
 身手	Ação
 感知	Sentido
 影响战斗能力。	Afeta as proezas de combate.
-对灵气的感知能力，影响灵气护盾穿透率，法宝镇压几率。	A capacidade de perceber Qi. Afeta a chance de penetração da barreira de Qi e a chance de supressão de artefato.
+对灵气的感知能力，影响灵气护盾穿透率，法宝镇压几率。	A capacidade de perceber o Qi. Afeta a Chance de Penetração na Barreira de Qi, e a Chance de Supressão de Artefato.
 影响角色之间互动事件发生的概率，招募角色的概率等。	Afeta a chance de eventos serem desencadeados durante as interações entre os personagens e a chance de recrutar novos personagens.
 对自身身体了解掌控的能力，影响淬体效率，淬体时出现有效进化的概率。在凡人阶段的岐黄技能会一定程度上影响该值。	Capacidade de compreender e comandar o próprio corpo. Afeta a eficiência da Remoldagem, bem como a chance de ocorrer uma evolução efetiva na Remoldagem. A habilidade de Cura de alguém como mortal afetará este valor até certo ponto.
 影响烹饪速度，烹饪成功率等。	Afeta a velocidade e a taxa de sucesso ao cozinhar.
@@ -3489,7 +3489,7 @@ Trap编辑。	Editar armadilha.
 驻扎中	Acampamento
 返回中	Retornando
 无数次	Numerosas vezes
-次	Horários
+次	Vez(es)
 {0}\n[color=#990000](这是一个需要进入地图完成的秘闻)[/color]	{0}\n[color=#990000](Este é um Segredo que só pode ser desvendado entrando no mapa)[/color]
 建立门派后，派遣内门弟子前往历练	Depois de estabelecer uma seita, despache discípulos internos em aventuras.
 建立门派后，派遣内门弟子前往驻扎，弟子会持续历练直到28天后或者发生受伤。\n（驻扎中每隔2到4天触发一次事件且随时可以召回）	Depois de estabelecer uma seita, envie discípulos para o acampamento. Eles continuarão treinando por 28 dias ou até serem feridos. \n(Um evento ocorrerá a cada 2 a 4 dias durante o acampamento e eles podem ser recuperados a qualquer momento.)
