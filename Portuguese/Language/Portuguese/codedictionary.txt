@@ -5,7 +5,7 @@
 湖仙钓者	Apanhador de Fadas do Lago
 湖怪钓者	Apanhador de Monstros do Lago
 垂钓仙	Pescador Imortal
-垂钓圣者	Santo pescador
+垂钓圣者	Santo Pescador
 垂钓翁	Pescador Ancião 
 战斗	Batalha
 气感	Sentido de Qi
@@ -17,9 +17,9 @@
 金石	Minerar
 雅艺	Artesanato
 格物	Compreensão
-斗法	Magica
-丹器	Artesanato mágico
-御器	Domínio de artefato
+斗法	Magia
+丹器	Criação de Magia
+御器	Maestria de Artefato
 术法	Feitiço
 护体	Proteger
 阵法	Matriz
@@ -39,7 +39,7 @@
 身手	Ação
 感知	Sentido
 影响战斗能力。	Afeta as proezas de combate.
-对灵气的感知能力，影响灵气护盾穿透率，法宝镇压几率。	A capacidade de perceber Qi. Afeta a chance de penetração da barreira de Qi e a chance de supressão de artefato.
+对灵气的感知能力，影响灵气护盾穿透率，法宝镇压几率。	A capacidade de perceber o Qi. Afeta a Chance de Penetração na Barreira de Qi, e a Chance de Supressão de Artefato.
 影响角色之间互动事件发生的概率，招募角色的概率等。	Afeta a chance de eventos serem desencadeados durante as interações entre os personagens e a chance de recrutar novos personagens.
 对自身身体了解掌控的能力，影响淬体效率，淬体时出现有效进化的概率。在凡人阶段的岐黄技能会一定程度上影响该值。	Capacidade de compreender e comandar o próprio corpo. Afeta a eficiência da Remoldagem, bem como a chance de ocorrer uma evolução efetiva na Remoldagem. A habilidade de Cura de alguém como mortal afetará este valor até certo ponto.
 影响烹饪速度，烹饪成功率等。	Afeta a velocidade e a taxa de sucesso ao cozinhar.
@@ -543,7 +543,7 @@
 初始化..	Inicializando...
 最后的准备.	Preparações finais.
 _结局	_O fim
-    天苍历245年，腊月。\n    立派于月轮山的正道门派太一门，突遭外敌入侵。太一门掌教虽临阵突破金丹，但却在追击敌人时身陷绝龙阵，最终陨落。\n    是夜，太一门满门尽灭。仅有数名外门弟子在传功长老的帮助下逃出山门……	    Ano 245 da Era Tiancang, dezembro. \n    A seita Taiyi, que havia se estabelecido perto Mt. Fullmoon, foi subitamente invadida por inimigos. Embora o líder da seita tenha realizado um avanaço parao Núcleo Dourado logo antes da batalha, eles o emboscaram com uma Matriz de Matadora de Dragões enquanto ele estava os perseguia - isso tornou-se sua ruína.\n    Nessa noite, quase toda a seita Taiyi foi massacrada. Apenas alguns discípulos externos conseguiram escapar da montanha com a ajuda de um ancião...
+    天苍历245年，腊月。\n    立派于月轮山的正道门派太一门，突遭外敌入侵。太一门掌教虽临阵突破金丹，但却在追击敌人时身陷绝龙阵，最终陨落。\n    是夜，太一门满门尽灭。仅有数名外门弟子在传功长老的帮助下逃出山门……	    Ano 245 da Era Tiancang, dezembro. \n    A seita Taiyi, que havia se estabelecido perto Mt. Fullmoon, foi subitamente invadida por inimigos. Embora o líder da seita tenha realizado um avanaço para o Núcleo Dourado logo antes da batalha, eles o emboscaram com uma Matriz de Matadora de Dragões enquanto ele estava os perseguia - isso tornou-se sua ruína.\n    Nessa noite, quase toda a seita Taiyi foi massacrada. Apenas alguns discípulos externos conseguiram escapar da montanha com a ajuda de um ancião...
 选择存档	Escolha um arquivo salvo
 今天的{0:N0}点	{0:N0} hoje
 {0:N0}个小时后	{0:N0} horas mais tarde
@@ -586,7 +586,7 @@ _结局	_O fim
 初始化{0}..({1}/{2})	Inicializando {0}…({1}/{2})
 特效数据	Dados de efeitos especiais
 以下模组对系统原生物品数据进行了修改，可能会导致交易系统异常。\n{0}	Os seguintes mods alteraram os dados dos itens originais e podem fazer com que o sistema de transações falhe. \n{0}
-自动存档..	Salvamento automático...
+自动存档..	save automático...
 存档中...	Salvando...
 存档	Salvar
 存档完毕！	Jogo Salvo!
@@ -2958,38 +2958,38 @@ Trap编辑。	Editar armadilha.
 {0}放下一本秘籍:《{1}》	{0} colocar um manual: {1}
 {0}近期将会前往门派做客	{0} visitará sua seita mais tarde.
 {0}心防瓦解(贪婪)	{0} se abriu (ganancioso).
-[{0}将{1}赠与你]	[{0} gave you {1} as a gift.]
-选择物品	Select Item
-{0}为信仰圣物，确定要赠送吗？	{0} is a sacred relic, are you sure to send that as a gift?																									  
-送礼	Gift
-受门派影响力和个人能力影响，	Affected by sect and personal abilities, 																					
-{0}对门派好感{1}{2:F0}点	{0}'s favor to your sect {1} {2:F0} points.																		  
-{0}心防瓦解(天真)	{0} has opened up (naive).
-(手语)	(Sign language)
-解锁新的角色：{0}	New character unlocked: {0}
-拷问这个角色	Interrogate this character.
-劝化这个角色	Persuade this character.
-烛龙想要祈福硬币	Torch dragon wants a prayer coin.
-{1:F0}\n{0}对玩家门派的好感度，好感度会影响可以进行的行为和得到的回答。\n在未打开心防时好感度最高为60，讨论对方的嗜好可以瓦解心防。	{1:F0}\n{0}'s favor to your sect. Their favor will affect available actions and the answer you get from them. \nThe maximum favor is 60 before the character opens up. Talk about their hobbies can help them to open up.
-缘分：{0:P0}	Predestiny: {0:P0}
-过去三天行为数量：	[color=#D06508]Number of Acts in the past three days: [/color]
+[{0}将{1}赠与你]	[{0} te deu {1} Como um presente.]
+选择物品	Selecionar item
+{0}为信仰圣物，确定要赠送吗？	{0} é uma relíquia sagrada, você tem certeza que quer enviar isso como um presente?																									  
+送礼	Presente
+受门派影响力和个人能力影响，	Afetado pela seita e por habilidades pessoais, 																					
+{0}对门派好感{1}{2:F0}点	{0}favor de sua seita {1} {2:F0} pontos.																		  
+{0}心防瓦解(天真)	{0} se abriu (ingênuo).
+(手语)	(Linguagem de sinais)
+解锁新的角色：{0}	Novo personagem desbloqueado: {0}
+拷问这个角色	Interrogue este personagem.
+劝化这个角色	Persuadir este personagem.
+烛龙想要祈福硬币	Torch dragon deseja uma moeda de oração.
+{1:F0}\n{0}对玩家门派的好感度，好感度会影响可以进行的行为和得到的回答。\n在未打开心防时好感度最高为60，讨论对方的嗜好可以瓦解心防。	{1:F0}\n{0}'s favor de sua seita. O favor deles afetará as ações disponíveis e a resposta que você obtém deles. \nO favor máximo é de 60 antes do personagem se abrir. Falar sobre seus hobbies pode ajudá-los a se abrir.
+缘分：{0:P0}	Predestinação: {0:P0}
+过去三天行为数量：	[color=#D06508]Número de atos nos últimos três dias: [/color]
 {0}:{1}次\n	{0}:{1}\n
-暂未发生任何行为。	No Acts has taken place so far.
-食物营养（{0}）	Food Nutrition ({0})
-食物营养	Food Nutrition
-锻炼-{0}	Exercise - {0}
-非常抱歉！因为大量数据的改变导致上古之兽版本不再支持之前的存档。\n但我们为上古之兽(0.95)前的版本提供了新的开局模式[color=#D06508][轮回开局][/color]。\n轮回开局会延续旧存档的部分故事和数据，您可以通过读取旧存档开始全新的故事！	Sorry! Due to the massive change of data, the Ancient Beast version no longer supports previous saves.\nBut we have prepared a new mode, [color=#D06508][Reincarnation][/color], for any version prior to the Ancient Beast (0.95).\nIn Reincarnation, part of the story and data from your previous save will be continued. You can start a whole new story by loading your previous save.
-您已经完成了序章，[经典模式]和[太虚幻境]已解锁！\n现在您可以继续查看感兴趣的教学内容或者直接开始一场完整的游戏并自行探索。	You have finished the Prologue, Classic and Land of Illusion unlocked!\nNow you can check tutorials or a new game to explore by yourself.
-太虚幻境\n无事件发生\n无角色存在\n瞬间完成建造\n虚空造物\n随意调整时间\n随意召唤天气\n适合大部分玩家	Land of Illusion\nNo events\nNo characters\nInstant construction\nUnlimited creation\nChange time\nControl weather\nFor most players
-经典模式需要先完成[基础教学-序章]才能解锁	Unlock Classic by completing the [Basic Tutorial - Prologue].
-太虚幻境需要先完成[基础教学-序章]才能解锁	Unlock Land of Illusion by completing the [Basic Tutorial - Prologue].
-波澜不惊不能开启真仙模式	Immortal is not available in Peaceful.
-我们强烈建议您在进行真仙模式前尽可能的熟悉游戏，真仙模式下您将会面临极大的挑战。\n确定要打开真仙模式吗？	We strongly recommend you familiarize yourself with the game as best as you can before starting Immortal as it contains extreme challenges.\nAre you sure you want to start Immortal?
-抱歉，该存档已经不再被支持。但你可以以它为基础轮回新的世界。\n(也可以通过切换游戏分支为0.94使用老版本继续游戏)\n需要轮回吗？\n	Sorry, this save is no longer supported, but you can still reincarnate in a new world based on its data.\nOr you can change to game version 0.94 to continue playing.\nAre you sure you want to reincarnate?\n
-随着乾坤界的打开，此方世界天道已经消散，无法再度进入。此界回归大千世界后的篇章，未来的仙途风雨，诸般精彩仙家妙闻，且听下回分解……	The creed of heaven in this realm has vanished into a void as the universe burst open, and no one is able to enter. The future chapters of immortals in this realm will be waiting for you when it once again returns to the boundless universe…
-模组数据不匹配，我们无法保证存档数据的正确性，要继续吗？	Incompatible mod data. We cannot ensure the save will function properly. Are you sure you want to continue?
-错误的存档，建议删除。	This save is faulty. We recommend you delete it.
-未安装存档关联的DLC，无法进入	Cannot load save, DLC not installed
+暂未发生任何行为。	Nenhum ato foi realizado até agora.
+食物营养（{0}）	Nutrição dos Alimentos ({0})
+食物营养	Nutrição dos Alimentos
+锻炼-{0}	Exercício - {0}
+非常抱歉！因为大量数据的改变导致上古之兽版本不再支持之前的存档。\n但我们为上古之兽(0.95)前的版本提供了新的开局模式[color=#D06508][轮回开局][/color]。\n轮回开局会延续旧存档的部分故事和数据，您可以通过读取旧存档开始全新的故事！	Desculpe! Devido à grande mudança de dados, a versão Ancient Beast não oferece mais suporte a salvamentos antigos.\nMas preparamos um novo modo, [color=#D06508][Reencarnação][/color], para qualquer versão anterior ao Ancient Beast (0.95).\nEm Reencarnação, parte da história e dados de seu save anterior serão continuados. Você pode começar uma história totalmente nova carregando seu save anterior.
+您已经完成了序章，[经典模式]和[太虚幻境]已解锁！\n现在您可以继续查看感兴趣的教学内容或者直接开始一场完整的游戏并自行探索。	Você terminou o Prólogo, Modo Clássico e Terra da Ilusão desbloqueados!\nAgora você pode conferir tutoriais ou explorar sozinho em um novo Jogo.
+太虚幻境\n无事件发生\n无角色存在\n瞬间完成建造\n虚空造物\n随意调整时间\n随意召唤天气\n适合大部分玩家	Terra da Ilusão\nNenhum Evento\nNenhum Personagem\nConstrução Instantâneas\nCriação Ilimitada\nAlterar Hora\nControlar o Clima\nPara a maioria dos jogadores
+经典模式需要先完成[基础教学-序章]才能解锁	Desbloqueie o Classic completando o [Basic Tutorial - Prologue].
+太虚幻境需要先完成[基础教学-序章]才能解锁	Desbloqueie a Terra da Ilusão completando o [Basic Tutorial - Prologue].
+波澜不惊不能开启真仙模式	Imortal não está disponível em Pacífico.
+我们强烈建议您在进行真仙模式前尽可能的熟悉游戏，真仙模式下您将会面临极大的挑战。\n确定要打开真仙模式吗？	Recomendamos fortemente que você se familiarize com o jogo da melhor maneira possível antes de iniciar o Immortal, pois contém desafios extremos.\nTem certeza de que deseja começar com Immortal?
+抱歉，该存档已经不再被支持。但你可以以它为基础轮回新的世界。\n(也可以通过切换游戏分支为0.94使用老版本继续游戏)\n需要轮回吗？\n	Desculpe, este save não é mais suportado, mas você ainda pode reencarnar em um novo mundo com base em seus dados.\nOu você pode mudar para a versão 0.94 do jogo para continuar jogando.\nTem certeza de que deseja reencarnar?\n
+随着乾坤界的打开，此方世界天道已经消散，无法再度进入。此界回归大千世界后的篇章，未来的仙途风雨，诸般精彩仙家妙闻，且听下回分解……	O credo do céu neste reino desapareceu no vazio quando o universo se abriu, e ninguém pode entrar. Os futuros capítulos de imortais neste reino estarão esperando por você quando mais uma vez retornar ao universo sem limites…
+模组数据不匹配，我们无法保证存档数据的正确性，要继续吗？	Dados de mod incompatíveis. Não podemos garantir que o save funcione corretamente. Você tem certeza que quer continuar?
+错误的存档，建议删除。	Este save está com defeito. Recomendamos que você o exclua.
+未安装存档关联的DLC，无法进入	Não é possível carregar o save, DLC não instalado
 选择模组文件夹	Selecione a pasta Mods
 请选择正确的文件夹	Selecione uma pasta correta
 存档名称	Nome:
@@ -3002,41 +3002,41 @@ Trap编辑。	Editar armadilha.
 门派规模	Tamanho da Seita:
 门派人数	População
 扩展包	DLC
-您好，模组管理器已经上线，您曾经使用的模组需要手动在管理器进行激活，另外我们强烈建议直接从模组商店重新订阅相关模组。	Hello, Mod Manager is now available. Previous mods need to be activated manually in the Manager for them to work. We also strongly recommend you resubscribe to relevant mods from the mod store.
+您好，模组管理器已经上线，您曾经使用的模组需要手动在管理器进行激活，另外我们强烈建议直接从模组商店重新订阅相关模组。	Olá, Mod Manager já está disponível. Os mods anteriores precisam ser ativados manualmente no Manager para que funcionem. Também recomendamos que você se inscreva novamente em mods relevantes da loja de mods.
 读取旧世界数据,请耐心等待…	Carregando dados do velho mundo. Por favor, espere…
 旧世界读取失败。	O carregamento falhou.
 旧世界尚未创建门派，无法轮回。	Você não pode reencarnar porque não criou uma seita no velho mundo.
 太虚幻境无法轮回。	Incapaz de reencarnar em Linha da Ilusão.
 分析中,请耐心等待…	Analisando. Por favor, aguarde…
-你将以以下配置轮回:\n尺寸：{0}\n难度：{1}\n{2}现在进入吗？	You will reincarnate with the following configurations:\nSize: {0}\nDifficulty: {1}\n{2}Enter now?
+你将以以下配置轮回:\n尺寸：{0}\n难度：{1}\n{2}现在进入吗？	Você irá reencarnar com as seguintes configurações:\nTamanho: {0}\nDificuldade: {1}\n{2}Entrar agora?
 真仙模式\n	Immortal\n
-波澜不惊\n事件发生的概率正常\n修炼难度大幅降低\n生存难度大幅降低\n心境调节更容易\n天劫威力较低\n快速模式仅推荐新手游玩	Peaceful\nEvents occur at a normal rate.\nDrastically lowered cultivation difficulty.\nDrastically lowered survival difficulty.\nEasier adjustment of Mental State.\nLess powerful Heavenly Tribulation.\nFast gameplay only recommended for new players.
-芸芸众生\n事件发生的概率正常\n更快的修炼速度\n更少的参悟消耗\n偶尔会发生危险\n天劫威力正常\n适合大部分玩家	Medium\nEvents occur at a normal rate.\nFaster cultivation speed.\nLower Inspiration cost.\nOccasional danger.\nNormal Heavenly Tribulation.\nSuitable for most players.
-大起大落\n事件发生的概率很频繁\n正常的修炼速度\n正常的参悟消耗\n经常发生激烈的战斗或事件\n天劫威力很强\n适合渴望挑战的玩家	Savage\nEvents occur at a high rate.\nNormal cultivation speed.\nNormal Inspiration costs.\nMore difficult battles and events.\nThe power of heavenly tribulations is increased\nSuitable for players looking for a challenge.
+波澜不惊\n事件发生的概率正常\n修炼难度大幅降低\n生存难度大幅降低\n心境调节更容易\n天劫威力较低\n快速模式仅推荐新手游玩	Pacífico\nEventos ocorrem em uma taxa normal.\nDificuldade de cultivar drasticamente reduzida.\nDificuldade de sobrevivência drasticamente reduzida.\nAjuste fácilitado do Estado Mental.\nTribulação Celestial Menos Poderosa.\nJogabilidade rápida recomendada apenas para novos jogadores.
+芸芸众生\n事件发生的概率正常\n更快的修炼速度\n更少的参悟消耗\n偶尔会发生危险\n天劫威力正常\n适合大部分玩家	Médio\nEventos ocorrem em uma taxa normal.\nVelocidade mais rápida de cultivo.\nMenor custo de Inspiração.\nPerigos ocasionais.\nTribulação Celestial Normal.\nAdequado para a maioria dos jogadores.
+大起大落\n事件发生的概率很频繁\n正常的修炼速度\n正常的参悟消耗\n经常发生激烈的战斗或事件\n天劫威力很强\n适合渴望挑战的玩家	Selvagem\nEventos ocorrem a uma taxa elevada.\nVelocidade normal de cultivo.\nCustos normais de inspiração.\nBatalhas e eventos mais difíceis.\nO poder das tribulações celestiais é aumentado\nAdequado para jogadores que procuram um desafio.
 {0}[color=#ff0000](错误)[/color]	{0}[color=#ff0000](ERRO)[/color]
 [真仙]	[Immortal]
-{0}[color=#9e6404][幻境][/color]	{0}[color=#9e6404][Illusion][/color]
-{0}[color=#9e6404][完美][/color]	{0}[color=#9e6404][Perfect][/color]																	  
-{0}[color=#9e6404][结档][/color]	{0}[color=#9e6404][Ended][/color]
-\n该存档版本号过低，可以轮回开局。\n	\nThe version of this save is too low but you can start a new round by reincarnating.\n
-已存在同名文档，确定覆盖原存档吗？这将不可逆转。	Found a file with the same name. Do you want to override the original save? It is irreversible.
-输入存档名	Enter a name for your save.
-确定要删除存档{0}吗？这将不可逆转。	Are you sure you want to delete {0}? Deletion is irreversible.
-非常抱歉！存档读取失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试检查你的模组配置或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	Sorry! Loading failed. \nYou might want to rage and blame us developers at the moment, and we understand you as this shouldn't have happened. \nSorry! Please try to check your mods configuration or load an old save. \nIf you need help or wish to report an issue, please contact us at \nQA@GSQStudio.com.
+{0}[color=#9e6404][幻境][/color]	{0}[color=#9e6404][Ilusão][/color]
+{0}[color=#9e6404][完美][/color]	{0}[color=#9e6404][Perfeito][/color]																	  
+{0}[color=#9e6404][结档][/color]	{0}[color=#9e6404][Finalizado][/color]
+\n该存档版本号过低，可以轮回开局。\n	\nA versão deste save é muito baixa, mas você pode iniciar uma nova rodada reencarnando.\n
+已存在同名文档，确定覆盖原存档吗？这将不可逆转。	Encontrou um arquivo com o mesmo nome. Deseja substituir o salvamento original? Isso é irreversível.
+输入存档名	Digite um nome para o seu save.
+确定要删除存档{0}吗？这将不可逆转。	Tem certeza de que deseja excluir {0}? A exclusão é irreversível.
+非常抱歉！存档读取失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试检查你的模组配置或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	Desculpe! O carregamento falhou. \nVocê pode querer se enfurecer e culpar nós desenvolvedores no momento, e nós entendemos você, pois isso não deveria ter acontecido. \nDesculpe! Por favor, tente verificar a configuração dos seus mods ou carregue um save antigo. \nSe você precisar de ajuda ou quiser relatar um problema, entre em contato conosco em \nQA@GSQStudio.com.
 {0}相关	{0} relacionado
-门派名	Nome da seita
+门派名	Nome da Seita
 代理名	Nome da Agência
-选择后缀	Selecione o sufixo
+选择后缀	Selecione o Sufixo
 创建门派	Criar Seita
 入驻	Atribuir
-体修秘体	Secret Body						
-过期事件({0})	Evento expirado ({0})
-过期消息({0})	Mensagem expirada ({0})
+体修秘体	Corpo Secreto						
+过期事件({0})	Evento Expirado ({0})
+过期消息({0})	Mensagem Eexpirada ({0})
 状态	Status
 飞升时状态	Status (Ascensão)
 离山时状态	Status (No mundo)
 轮回时状态	Status (Reencarnação)
-功法:{0}\n境界:{1}	Law: {0}\nState: {1}
+功法:{0}\n境界:{1}	Lei: {0}\nState: {1}
 {1}\n{0:N0}岁\n{2}	{1}\n{0:N0} y/o\n{2}
 天苍{0}年 {1} 第{2}日   {3}	{1} Dia {2}, Ano {0} da era Tiancang {3}
 时年 {0:N0}岁	Idade {0:N0} y/o.
@@ -3051,23 +3051,23 @@ Trap编辑。	Editar armadilha.
 初始人员偏多，可能会因为物资不够而带来生存的压力。	Você tem muitos membros iniciais que podem tornar a sobrevivência um pouco difícil devido à falta de recursos.
 \n因为你尚未完全熟悉游戏,建议使用二到四人开局。\n要直接进入吗？	\nComo você ainda não está acostumado com o jogo, recomendamos que use de 2 a 4 membros.\nEntrar no jogo?
 {0}{1}的转世	{0} {1}'s reencarnação
-{0}与{1}感情基础\n{2}	{0} and {1}'s emotional foundation.\n{2}
-新人模式下不能改变角色，请直接开始游戏。	You cannot change character in Beginner. Simply enter the game.
-尚未凝练出元灵，只有术法登峰造极之时才能凝练出术法元灵，指定元灵的术法会在战斗时自动释放。	No Primordial Soul has been created yet. Primordial Souls can only be created when one's spell power reaches the highest level. The spell of selecting Primordial Souls will be automatically released during battle.
-选择称号	Choose Title
-无称号	Titleless
+{0}与{1}感情基础\n{2}	{0} e {1}'s fundamento emocional.\n{2}
+新人模式下不能改变角色，请直接开始游戏。	Você não pode mudar de personagem no iniciar. Simplesmente entre no jogo.
+尚未凝练出元灵，只有术法登峰造极之时才能凝练出术法元灵，指定元灵的术法会在战斗时自动释放。	Nenhuma Primordial Soul foi criada ainda. Almas Primordiais só podem ser criadas quando o poder mágico de alguém atinge o nível mais alto. O feitiço de selecionar Almas Primordiais será liberado automaticamente durante a batalha.
+选择称号	Escolher Título
+无称号	Sem Título
 其他属性	Misc. Stats
-修改数值	Modify Attributes
-术法元灵({0}/{1})	Spell Primordial Soul ({0}/{1})
-再见	Goodbye.
+修改数值	Modificar Atributos
+术法元灵({0}/{1})	Feitiço Primordial Soul ({0}/{1})
+再见	Adeus.
 (特别关注)\n	(Take Note)\n
 技能关联:{0}	Link de habilidade: {0}
 技能关联:无	Link de habilidade: Nenhum
-模组商店及万界天宫的内容(UGC)是由玩家所制作，这些内容可能会影响你的游戏体验，包括但不仅限于：内容不适、数值崩溃、历程失控等。我们未对这些分享内容进行任何功能和数值上的审核或者协助，您必须自行分辨并承担下载该内容的风险。	Mod Store and the contents of Workshop (User Generated Contents) are created by players. These contents may affect your game experience, including but not limited to: inappropriate content, unbalanced stats, broken game progress, etc. We do not take part in the creation of these shared contents. You must download and play at your own risk.
+模组商店及万界天宫的内容(UGC)是由玩家所制作，这些内容可能会影响你的游戏体验，包括但不仅限于：内容不适、数值崩溃、历程失控等。我们未对这些分享内容进行任何功能和数值上的审核或者协助，您必须自行分辨并承担下载该内容的风险。	Mod Store e o conteúdo do Workshop (Conteúdos Gerados pelo Usuário) são criadas pelos jogadores. Esses conteúdos podem afetar sua experiência de jogo, incluindo, mas não se limitando a: conteúdo impróprio, estatísticas desequilibradas, progresso de jogo quebrado, etc. Não participamos da criação desses conteúdos compartilhados. Você deve baixar e jogar por sua conta e risco.
 评价最好	Melhor Reviewed
 订阅最多	Mais Inscritos
 最新上传	Mais recente
-投票失败！	Failed to cast vote!
+投票失败！	Falha ao votar!
 类型:	Modelo:
 订阅数:	Assinantes:
 作者:	Autor:
@@ -3082,22 +3082,22 @@ Trap编辑。	Editar armadilha.
 该内容中包含竹林深处(DLC)数据，未激活该DLC无法正常使用。	Este conteúdo contém dados do DLC: Deep in the Bamboo forest e não pode ser usado sem o DLC ativado.
 请在此激活下载的模组，激活的模组才会在游戏中实际生效。	Ative os mods baixados aqui para habilitá-los no jogo real.
 升级到中级主殿可解锁寻珍倾向。采取寻珍倾向后，采取不同方法可寻得不同珍宝。	Atualize para o Salão Principal Intermediário para desbloquear a Direção da Caça ao Tesouro. Uma vez aplicado, o uso de diferentes métodos na Caça ao Tesouro renderá diferentes tesouros.
-正处于{0}！\n剩余时间：{1}天	In {0}! \nRemaining Days: {1} d
+正处于{0}！\n剩余时间：{1}天	In {0}! \nDias Restantes: {1} d
 各门派赈灾情况：{0}	Fundos de Auxílio de Todas as Seitas: {0}
 城市稳定度：{0}	Estabilidade da cidade: {0}
-吸引力\n我方代理势力的吸引力，吸引力越高越容易吸引其他势力的信徒。主要通过布施获得。吸引力会每日衰减。	Appeal\nOur agencies' ability to attract followers from other forces. The higher the appeal, the easier it is to gain followers. Mainly obtained from running charity. Appeal will decrease day by day.
-城市人口每日{0}\n普通群众有{1}人	The city population each day is {0}\nThere are {1} common residents.
-信仰值	Belief
-还有{0}个弟子正在路上...	{0} disciples are on their way…
-让代理人落实政策。政策期间会发生对应事件，不同手段处理会有不同结果，直接影响此地的信众、总人口、我方代理的吸引力，以及其他门派的势力。不采取政策，信众则会认为代理人不作为，每日损失信众。	Ask the agent to implement the policy. Corresponding events will happen during the implementation of policy. Different methods will lead to different results, directly affecting the followers, population, our agency's appeal and other sects' power. If no policy is implemented, the followers will consider the agent irresponsible, and you will lose followers each day.
-选择政策	Choose Policy
-\n\n<font color=#D06508>[政策每日消耗]</font>	\n\n<font color=#D06508>[Policy Cost Each Day]</font>
-\n影响值x{0}	\nInfluence *{0}
-雕像\n主殿升级到中级主殿解锁。选择弟子附身之后，此地信仰可直接转移给该弟子。	Statue\nUpgrade to Intermediate Main Hall to unlock. After possessing a disciple, the belief of this place can be directly transferred to this disciple.
-奇观\n主殿升级到高级主殿解锁。可建设宏伟的民间奇观。	Wonders\nUpgrade to Advanced Main Hall to unlock. Can build wonderous scenic spots in the world.
-建造数量:{0}/{1}	Buildings: {0}/{1}
-<font color=#D06508>[仓库含有]</font>	<font color=#D06508>[Storage]</font>
-仓库\n该地每日产出和寻觅珍宝所都都会放在这里，满了则无法再获取内容。{0}	Storage\nThe production and treasures found each day will be stored here. It cannot contain any other contents once full.{0}
+吸引力\n我方代理势力的吸引力，吸引力越高越容易吸引其他势力的信徒。主要通过布施获得。吸引力会每日衰减。	Apelo\nA capacidade de nossas agências de atrair seguidores de outras forças. Quanto maior o apelo, mais fácil é conquistar seguidores. Obtido principalmente de instituições de caridade. A apelação diminuirá dia a dia.
+城市人口每日{0}\n普通群众有{1}人	A população da cidade a cada dia é {0}\nHá {1} habitantes comuns.
+信仰值	Crença
+还有{0}个弟子正在路上...	{0} discípulos estão a caminho...
+让代理人落实政策。政策期间会发生对应事件，不同手段处理会有不同结果，直接影响此地的信众、总人口、我方代理的吸引力，以及其他门派的势力。不采取政策，信众则会认为代理人不作为，每日损失信众。	Peça que o agente implemente a política. Eventos correspondentes acontecerão durante a implementação da política. Diferentes métodos levarão a resultados diferentes, afetando diretamente os seguidores, a população, o apelo de nossa agência e o poder de outras seitas. Se nenhuma política for implementada, os seguidores considerarão o agente irresponsável e você perderá seguidores a cada dia.
+选择政策	Escolher Política
+\n\n<font color=#D06508>[政策每日消耗]</font>	\n\n<font color=#D06508>[Custo diario da Política]</font>
+\n影响值x{0}	\nInfluência *{0}
+雕像\n主殿升级到中级主殿解锁。选择弟子附身之后，此地信仰可直接转移给该弟子。	Estátua\nAtualize para o Salão Principal Intermediário para desbloquear. Após possuir um discípulo, a crença deste lugar pode ser transferida diretamente para este discípulo.
+奇观\n主殿升级到高级主殿解锁。可建设宏伟的民间奇观。	Maravilhas\nAtualize para o Salão Principal Avançado para desbloquear. Pode construir pontos cênicos maravilhosos no mundo.
+建造数量:{0}/{1}	Edifícios: {0}/{1}
+<font color=#D06508>[仓库含有]</font>	<font color=#D06508>[Armazém]</font>
+仓库\n该地每日产出和寻觅珍宝所都都会放在这里，满了则无法再获取内容。{0}	Armazém\nA produção e os tesouros encontrados a cada dia serão armazenados aqui. Não pode conter nenhum outro conteúdo depois de cheio.{0}
 是否确定选择{0}来解决该事件?	Do you want to select {0} to solve this incident?
 选择代理人	Select an agent
 确认领取仓库所有储存？\n{0}	Do you want to claim all items in the storage?\n{0}
@@ -3489,7 +3489,7 @@ Trap编辑。	Editar armadilha.
 驻扎中	Acampamento
 返回中	Retornando
 无数次	Numerosas vezes
-次	Horários
+次	Vez(es)
 {0}\n[color=#990000](这是一个需要进入地图完成的秘闻)[/color]	{0}\n[color=#990000](Este é um Segredo que só pode ser desvendado entrando no mapa)[/color]
 建立门派后，派遣内门弟子前往历练	Depois de estabelecer uma seita, despache discípulos internos em aventuras.
 建立门派后，派遣内门弟子前往驻扎，弟子会持续历练直到28天后或者发生受伤。\n（驻扎中每隔2到4天触发一次事件且随时可以召回）	Depois de estabelecer uma seita, envie discípulos para o acampamento. Eles continuarão treinando por 28 dias ou até serem feridos. \n(Um evento ocorrerá a cada 2 a 4 dias durante o acampamento e eles podem ser recuperados a qualquer momento.)
@@ -3807,7 +3807,7 @@ Trap编辑。	Editar armadilha.
 对话名称：{0}\n来源：{1}	Dialogue Name: {0}\nSource: {1}
 当前环境	Current Environment
 请先在'地图编辑-坐标点-角色出生点'中设置合适的角色出生点。	O ponto de spawn do personagem não foi definido. As informações básicas do mapa estão incompletas. Por favor, defina um ponto de spawn de personagem adequado em Map Edit—Coordinates—Character Spawn Point.
-是否确定进入地图编辑（不会自动保存，如有修改，请先手动保存）	Deseja iniciar o Map Edit? (O salvamento automático não está disponível. Salve manualmente se modificado.)
+是否确定进入地图编辑（不会自动保存，如有修改，请先手动保存）	Deseja iniciar o Map Edit? (O save automático não está disponível. Salve manualmente se modificado.)
 脚本名字不能为空	O nome do script não pode ficar vazio.
 显示名字不能为空	O nome de exibição não pode ficar vazio.
 路线点	Rota
