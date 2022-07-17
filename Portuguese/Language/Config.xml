@@ -1,20 +1,13 @@
 <Languages><List>
 	<Language Name="Portuguese">
 		<DisplayName>Portuguese</DisplayName>
-		<Icon>brflag</Icon>
+		<Icon>Portuguese</Icon>
 		<UIMode>1</UIMode>
-		<Desc>Traduçao brazileira feita por fans by Take Over :D</Desc>
+		<Desc>Traduçao brazileira feita por fans by Take Over :</Desc>
 		<!--Word Connect with space-->
 		<SpaceConnect>true</SpaceConnect>
 		<!--FamilyName Postposition-->
-		<FamilyPostposition>true</FamilyPostposition>
-		 <!--change the labelword in StoryTxt -->
-		<Labels>
-			<li Label="[ENHIM]" SecondPersonF="her" SecondPersonM="him"/>
-			<li Label="[ENHERS]" SecondPersonF="hers" SecondPersonM="his"/>
-			<li Label="[ENHIM2]" ThirdPersonF="her" ThirdPersonM="him"/>
-			<li Label="[ENHERS2]" ThirdPersonF="hers" ThirdPersonM="his"/>
-		</Labels>
+		<FamilyPostposition>false</FamilyPostposition>
 	</Language>
 </List></Languages>
 	
