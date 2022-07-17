@@ -3098,41 +3098,41 @@ Trap编辑。	Editar armadilha.
 建造数量:{0}/{1}	Edifícios: {0}/{1}
 <font color=#D06508>[仓库含有]</font>	<font color=#D06508>[Armazém]</font>
 仓库\n该地每日产出和寻觅珍宝所都都会放在这里，满了则无法再获取内容。{0}	Armazém\nA produção e os tesouros encontrados a cada dia serão armazenados aqui. Não pode conter nenhum outro conteúdo depois de cheio.{0}
-是否确定选择{0}来解决该事件?	Do you want to select {0} to solve this incident?
-选择代理人	Select an agent
-确认领取仓库所有储存？\n{0}	Do you want to claim all items in the storage?\n{0}
-外门一旦前往则无法再返回，等同于逐出门派，是否确定派遣？	Outer disciples will not return once sent away, which is equal to banishing this person. Do you want to dispatch them?
-选择弟子	Select a disciple
+是否确定选择{0}来解决该事件?	Deseja selecionar {0} para resolver este incidente?
+选择代理人	Selecione um agente
+确认领取仓库所有储存？\n{0}	Você deseja reivindicar todos os itens no armazem?\n{0}
+外门一旦前往则无法再返回，等同于逐出门派，是否确定派遣？	Os discípulos externos não retornarão uma vez enviados, o que equivale a banir essa pessoa. Você quer despachá-los?
+选择弟子	Selecione um discípulo
 影响受戒类事件的成败与收获，在其他事件中也会有作用。	Affects the result and gains of ordination events. Also effective in other events.
-在布施类事件中可收获影响值，在其他事件中也会有作用。	Gains influence during charity events. Also effective in other events.
-影响生产事件中灵石和矿物的产量。	Affects the yield of spirit stones and minerals in production events.
-影响生产事件中小麦的产量。	Affects the yield of wheat in production events.
+在布施类事件中可收获影响值，在其他事件中也会有作用。	Ganha influência durante eventos beneficentes. Também é eficaz em outros eventos.
+影响生产事件中灵石和矿物的产量。	Afeta o rendimento de pedras espirituais e minerais em eventos de produção.
+影响生产事件中小麦的产量。	Afeta o rendimento do trigo em eventos de produção.
 代理人	Agente
 女性	Mulher
 男性	Homem
 确定开除该弟子吗？	Você quer expulsar este discípulo?
-开除弟子	Expel Disciple
-弟子（{0}/{1}）	Disciple ({0}/{1})
-点击选择信仰对象\n信仰对象必须是神道修行者	Click to select the person you want to believe in.\nIt has to be a pantheon cultivator.
-确认删除？	Do you want to delete?
-政策	Policy
-当前没有事件发生	No event happening.
-不选择任何政策	No Policy
-{0}丢失了	{0} is lost.
-自动选择:{0}	Auto selection: {0}
-\n点击建造	\nClick to build
+开除弟子	Expulsar Discípulo
+弟子（{0}/{1}）	Discípulo ({0}/{1})
+点击选择信仰对象\n信仰对象必须是神道修行者	Clique para selecionar a pessoa em quem você quer acreditar.\nTem que ser um cultivador de pantheon.
+确认删除？	Deseja excluir?
+政策	Política
+当前没有事件发生	Nenhum evento acontecendo.
+不选择任何政策	Nenhuma Política
+{0}丢失了	{0} está perdido.
+自动选择:{0}	Seleção automática: {0}
+\n点击建造	\nClique para construir
 影响力	Influência
 [政策] {0}\n	[Policy]{0}\n
 [效果] {0}\n	[Effect]{0}\n
 影响值	Influência
-城市稳定度：{0}\n主流代理势力：{1}	City Estabilidade: {0}\nMain Agency Power: {1}
-选择信仰对象	Select a belief
+城市稳定度：{0}\n主流代理势力：{1}	Estabilidade da Cidade: {0}\nPoder Principal da Agência: {1}
+选择信仰对象	Selecione uma Crença
 [color=#FF0000]该建筑升级需要达到{0}信仰人口[/color]	[color=#FF0000]Para atualizar este edifício, a população de crentes precisa alcançar {0}.[/color]
-[color=#FFFFFF]该建筑升级需要达到{0}信仰人口[/color]	[color=#FFFFFF]To upgrade this building, the population of believers needs to reach {0}.[/color]
-代理人正在赶来...	Agent on the way…
-正在建造主殿...	Building the main hall…
-正处于{0}!	In {0}!
-让代理人落实政策。期间会发生对应事件，需要手段来处理。不采取政策则会每日损失代理势力吸引力。	Ask the agent to implement the policy. Corresponding events will happen during it, which needs to be handled appropriately. If no policy is implemented, the power and appeal of the agency will be reduced every day.
+[color=#FFFFFF]该建筑升级需要达到{0}信仰人口[/color]	[color=#FFFFFF]Para melhorar este edifício, a população de crentes precisa chegar {0}.[/color]
+代理人正在赶来...	Agente a caminho...
+正在建造主殿...	Construindo o salão principal…
+正处于{0}!	Dentro {0}!
+让代理人落实政策。期间会发生对应事件，需要手段来处理。不采取政策则会每日损失代理势力吸引力。	Peça ao agente para implementar a política. Eventos correspondentes acontecerão durante a implementação, e que precisarão ser tratado de forma adequada. Se nenhuma política for implementada, o poder e o apelo da agência serão reduzidos a cada dia.
 \n[color=#D06508][点击取出][/color]	\n[color=#D06508][Click to withdraw][/color]
 库存不足，无法取出。	Unable to withdraw due to insufficient storage.
 取出：	Withdraw: 
