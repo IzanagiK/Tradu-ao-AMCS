@@ -1,46 +1,46 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Sleep">
-			<Desc>dormir</Desc>
+			<Desc>Dormir</Desc>
 		</Text>
 		<Text Name="EatWeight">
 			<Desc>Coma de acordo com o horário</Desc>
 		</Text>
 		<Text Name="EatShit">
-			<Desc>Coma fezes</Desc>
+			<Desc>Comer Fezes</Desc>
 		</Text>
 		<Text Name="EatEssence">
-			<Desc>Coma materiais preciosos</Desc>
+			<Desc>Comer materiais preciosos</Desc>
 		</Text>
 		<Text Name="EatDrug">
 			<Desc>Beber Elixir</Desc>
 		</Text>
 		<Text Name="EatWheat">
-			<Desc>Coma Trigo(Wheat)</Desc>
+			<Desc>Comer Trigo</Desc>
 		</Text>
 		<Text Name="EatDryMeat">
-			<Desc>Comer Carne Seca(Dried Meat)</Desc>
+			<Desc>Comer carne seca(Dried Meat)</Desc>
 		</Text>
 		<Text Name="EatPear">
-			<Desc>Comer Pera(Pear)</Desc>
+			<Desc>Comer Pera</Desc>
 		</Text>
 		<Text Name="EatMeat">
-			<Desc>Comer Carne Crua(Raw Meat)</Desc>
+			<Desc>Comer carne crua</Desc>
 		</Text>
 		<Text Name="EatCook">
-			<Desc>Comer Carne Cozida(Cooked Meat)</Desc>
+			<Desc>Comer carne cozinhada</Desc>
 		</Text>
 		<Text Name="BiteBuilding">
-			<Desc>Construção de ataque</Desc>
+			<Desc>Atacar Construção</Desc>
 		</Text>
 		<Text Name="BiteClothes">
 			<Desc>Roupa de Ataque</Desc>
 		</Text>
 		<Text Name="BiteOuter">
-			<Desc>Ataque Discípulo Externo</Desc>
+			<Desc>Atacar Discípulo Externo</Desc>
 		</Text>
 		<Text Name="BiteInner">
-			<Desc>Ataque Discípulo Interior</Desc>
+			<Desc>Atacar Discípulo Interno</Desc>
 		</Text>
 		<Text Name="BiteVisitor">
 			<Desc>Atacar visitante</Desc>
@@ -73,13 +73,13 @@
 			<Desc>Defecar no Campo</Desc>
 		</Text>
 		<Text Name="CarryOuterToBed">
-			<Desc>Cuide do discípulo</Desc>
+			<Desc>Cuidar do Discípulo</Desc>
 		</Text>
 		<Text Name="CarryOuterToDest">
-			<Desc>Mova o discípulo externo inconsciente</Desc>
+			<Desc>Mover discípulo externo inconsciente</Desc>
 		</Text>
 		<Text Name="CarryInnerToDest">
-			<Desc>Mova o discípulo interno inconsciente</Desc>
+			<Desc>Mover discípulo interno inconsciente</Desc>
 		</Text>
 		<Text Name="CarryVisitorToDest">
 			<Desc>Mover visitante inconsciente</Desc>
@@ -100,7 +100,7 @@
 			<Desc>Mover o cadáver do convidado</Desc>
 		</Text>
 		<Text Name="CarryOuterBodyToDest">
-			<Desc>Mover o cadáver do Discípulo Exterior</Desc>
+			<Desc>Mover o cadáver do Discípulo externo</Desc>
 		</Text>
 		<Text Name="CarryInnerBodyToDest">
 			<Desc>Mova o cadáver do Discípulo Interno</Desc>
@@ -109,19 +109,19 @@
 			<Desc>Mover Mortal Inconsciente</Desc>
 		</Text>
 		<Text Name="CarryMortalBodyToDest">
-			<Desc>Mova o cadáver do Mortal</Desc>
+			<Desc>Mover cadáver do Mortal</Desc>
 		</Text>
 		<Text Name="HelpCarry">
-			<Desc>Organizar itens</Desc>
+			<Desc>Organizar Itens</Desc>
 		</Text>
 		<Text Name="HelpTimber">
-			<Desc>Cortar madeira</Desc>
+			<Desc>Cortar Madeira</Desc>
 		</Text>
 		<Text Name="HelpMine">
-			<Desc>Meu</Desc>
+			<Desc>Minerar</Desc>
 		</Text>
 		<Text Name="HelpFind">
-			<Desc>Pilfer items</Desc>
+			<Desc>Furtar Itens</Desc>
 		</Text>
 		<Text Name="HelpKill">
 			<Desc>Açougueiro</Desc>
@@ -154,10 +154,10 @@
 			<Desc>Afiar Qi</Desc>
 		</Text>
 		<Text Name="TrainNeiDan">
-			<Desc>Praticar Nucleo(Practice Core)</Desc>
+			<Desc>Treinar Nucleo(Practice Core)</Desc>
 		</Text>
 		<Text Name="TrainHuTi">
-			<Desc>Afiar proteção(Hone Protection)</Desc>
+			<Desc>Afiar Proteção(Hone Protection)</Desc>
 		</Text>
 		<Text Name="TrainLingZhi">
 			<Desc>Aperfeiçoar o Intelecto(Hone Intellect)</Desc>
@@ -166,19 +166,19 @@
 			<Desc>Praticar Feitiços</Desc>
 		</Text>
 		<Text Name="AtkDizzyOuter">
-			<Desc>Ataque Discípulo Externo Inconsciente</Desc>
+			<Desc>Atacar Discípulo Externo Inconsciente</Desc>
 		</Text>
 		<Text Name="AtkDizzyInner">
-			<Desc>Ataque Discípulo Interno Inconsciente</Desc>
+			<Desc>Atacar Discípulo Interno Inconsciente</Desc>
 		</Text>
 		<Text Name="AtkDizzyComing">
-			<Desc>Ataque Convidado Inconsciente</Desc>
+			<Desc>Atacar Convidado Inconsciente</Desc>
 		</Text>
 		<Text Name="AtkDizzyVisitor">
 			<Desc>Atacar Visitante Inconsciente</Desc>
 		</Text>
 		<Text Name="AtkDizzyExpel">
-			<Desc>Ataque Mortal Inconsciente</Desc>
+			<Desc>Atacar Mortal Inconsciente</Desc>
 		</Text>
 		<Text Name="FeedTongXie">
 			<Desc>Comer Laxante</Desc>
@@ -187,7 +187,7 @@
 			<Desc>Curar Lesão</Desc>
 		</Text>
 		<Text Name="Lay">
-			<Desc>Aproveite a brisa</Desc>
+			<Desc>Aproveitar a brisa</Desc>
 		</Text>
 		<Text Name="Pee">
 			<Desc>Urinar</Desc>
@@ -202,10 +202,10 @@
 			<Desc>Urinar</Desc>
 		</Text>
 		<Text Name="ESkill">
-			<Desc>Use Feitiços no Inimigo</Desc>
+			<Desc>Usar feitiços no inimigo</Desc>
 		</Text>
 		<Text Name="FSkill">
-			<Desc>Use Feitiços no Aliado</Desc>
+			<Desc>Usar Feitiços em Aliados</Desc>
 		</Text>
 		<Text Name="Feed_Item_Dan_Happiness">
 			<Desc>Feed Euphoria Pill</Desc>
@@ -289,13 +289,13 @@
 			<Desc>Consuma Igneocobre em Pó(Igneocopper Powder)</Desc>
 		</Text>
 		<Text Name="Eat_Item_Cinnabar">
-			<Desc>Consume Cinnabar</Desc>
+			<Desc>Consuma Cinnabar</Desc>
 		</Text>
 		<Text Name="Eat_Item_LingMuXueJie">
-			<Desc>Consume Resin Essence(Resin Essence)</Desc>
+			<Desc>Consuma Resin Essence(Resin Essence)</Desc>
 		</Text>
 		<Text Name="Eat_Item_EarthEssence_1">
-			<Desc>Consuma a Essência Sagrada(Holy Essence)</Desc>
+			<Desc>Consuma Essência Sagrada(Holy Essence)</Desc>
 		</Text>
 		<Text Name="Eat_Item_EarthEssence1_1">
 			<Desc>Consuma Essência do Mal(Evil Essence)</Desc>
@@ -310,7 +310,7 @@
 			<Desc>Consumir Folha Espiritual(Spirit Leaf)</Desc>
 		</Text>
 		<Text Name="Eat_Item_Laxative">
-			<Desc>Consumir laxante</Desc>
+			<Desc>Consumir Laxante</Desc>
 		</Text>
 		<Text Name="Eat_Item_BambooShoot">
 			<Desc>Comer brotos de bambu(Bamboo Shoots)</Desc>
@@ -322,13 +322,13 @@
 			<Desc>Comer alguma coisa</Desc>
 		</Text>
 		<Text Name="Eat_Item_Dan_SanHuaHuangJing">
-			<Desc>Comer a pílula de essência de Trimerous(Trimerous Essence Pill)</Desc>
+			<Desc>Comer pílula de Essência de Trimerous(Trimerous Essence Pill)</Desc>
 		</Text>
 		<Text Name="Eat_Item_WuDang_HuangJingFen">
-			<Desc>Coma pó de essência de solo(Soil Essence Powder)</Desc>
+			<Desc>Comer pó de Essência de solo(Soil Essence Powder)</Desc>
 		</Text>
 		<Text Name="Eat_Item_Dan_WuQiNoHunger2">
-			<Desc>Comer a pílula de jejum de Qi(Qi Fasting Pill)</Desc>
+			<Desc>Comer pílula de Jejum de Qi(Qi Fasting Pill)</Desc>
 		</Text>
 	</List>
 </Texts>
