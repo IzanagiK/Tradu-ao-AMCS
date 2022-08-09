@@ -3133,18 +3133,18 @@ Trap编辑。	Editar armadilha.
 正在建造主殿...	Construindo o salão principal…
 正处于{0}!	Dentro {0}!
 让代理人落实政策。期间会发生对应事件，需要手段来处理。不采取政策则会每日损失代理势力吸引力。	Peça ao agente para implementar a política. Eventos correspondentes acontecerão durante a implementação, e que precisarão ser tratado de forma adequada. Se nenhuma política for implementada, o poder e o apelo da agência serão reduzidos a cada dia.
-\n[color=#D06508][点击取出][/color]	\n[color=#D06508][Click to withdraw][/color]
-库存不足，无法取出。	Unable to withdraw due to insufficient storage.
-取出：	Withdraw: 
-取出数量：{0}	How many to be withdrawn: {0}
-法宝槽位未解锁	Artifact slots locked
-点击打开装备面板	Click to open the Equipment menu.
+\n[color=#D06508][点击取出][/color]	\n[color=#D06508][Clique para retirar][/color]
+库存不足，无法取出。	Não foi possível retirar devido a armazenamento insuficiente.
+取出：	Retirar: 
+取出数量：{0}	Quantas devem ser retiradas: {0}
+法宝槽位未解锁	Espaços de artefato bloqueado
+点击打开装备面板	Clique para abrir o menu Equipamento.
 健康值	Saúde
 真炁	Qi verdadeiro
 点击打开角色健康面板	Clique para abrir o menu Saúde.
 点击打开{0}面板	Clique para abrir o menu {0}.
-{0}\n\n点击打开功法修行面板	{0}\n\nClick to open the Path & Cultivation menu.
-切换至{0}一页技能面板\n\n快捷键:{1}	Switch to {0} Skill menu.\n\nHotkey: {1}
+{0}\n\n点击打开功法修行面板	{0}\n\nClique para abrir o menu Caminho e Cultivo.
+切换至{0}一页技能面板\n\n快捷键:{1}	Troque para {0} Menu de habilidades.\n\nHotkey: {1}
 上	Cima
 下	Baixo
 兽	Fera
@@ -3153,25 +3153,25 @@ Trap编辑。	Editar armadilha.
 变身成兽形态	Metamorfose para a forma de besta
 变身成妖形态	Metamorfose em forma de monstro
 变身成人形态	Mudança de forma para a forma humana
-剩余时间:	Time remain: 
+剩余时间:	Tempo restante: 
 {0}时	{0} H
 {0}分	{0} Min
 {0:f0}秒	{0:f0} Sec
-剩余时间:{0}天{1}时{2}分{3}秒	Remaining Days: {0}d {1}h {2}min {3}sec
+剩余时间:{0}天{1}时{2}分{3}秒	Dias restantes: {0}d {1}h {2}min {3}sec
 \n灵气：{0:N0}({1:N0})	\nQi: {0:N0} ({1:N0})
-\n削减最大灵气：{0:N0}({1:N0})	\nReduce Max Qi: {0:N0}({1:N0})
-\n寿元：{0:N0}({1:N0})	\nLifespan: {0:N0} ({1:N0})
-\n信仰：{0:N0}({1:N0})	\nBeliefs: {0:N0}({1:N0})
-\n修为：{0:N0}({1:N0})	\nExperience: {0:N0} ({1:N0})
+\n削减最大灵气：{0:N0}({1:N0})	\nRedução Max Qi: {0:N0}({1:N0})
+\n寿元：{0:N0}({1:N0})	\nTempo de vida: {0:N0} ({1:N0})
+\n信仰：{0:N0}({1:N0})	\nCrenças: {0:N0}({1:N0})
+\n修为：{0:N0}({1:N0})	\nExperiência: {0:N0} ({1:N0})
 神民:{0}\n{1}	Residentes Divinos: {0}\n{1}
 道行:{0}\n{1}	Attainment: {0}\n{1}
-未保存的编辑将丢失，是否继续新建地图？	Unsaved edit will be lost. Continue to create new map?
-地图尺寸：{0}	Map Size: {0}
-还未设置角色出生点，地图信息基础未完善，请在'地图编辑-坐标点-角色出生点'中设置合适的角色出生点	Character spawn point has not been set. Basic map info is incomplete. Please set a suitable character spawn point in Map Edit—Coordinates—Character Spawn Point.
-请输入存档名	Choose a name for your save.
-确定要覆盖存档{0}吗？	Are you sure you want to overwrite {0}?
-存档完成	Game saved!
-存档正在进行，无法读档，请稍候...\n	Saving in progress, unable to load game. Please wait...\n
+未保存的编辑将丢失，是否继续新建地图？	As edições não salvas serão perdidas. Continuar a criar um novo mapa?
+地图尺寸：{0}	Tamanho do mapa: {0}
+还未设置角色出生点，地图信息基础未完善，请在'地图编辑-坐标点-角色出生点'中设置合适的角色出生点	O ponto de surgimento do personagem não foi definido. As informações básicas do mapa estão incompletas. Por favor, defina um ponto de surgimento de personagem adequado em Editar Mapa—Coordenadas—Ponto de Surgimento de Personagem.
+请输入存档名	Escolha um nome para o seu save.
+确定要覆盖存档{0}吗？	Tem certeza que deseja sobrescrever {0}?
+存档完成	Jogo Salvo!
+存档正在进行，无法读档，请稍候...\n	Gravação em andamento, não foi possível carregar o jogo. Por favor, aguarde...\n
 当前未保存的进度将会丢失，确定要读取存档{0}吗？	You will lose all unsaved progress. Are you sure you want to load saved game {0}?
 抱歉，该存档已经不再被支持。但你可以返回主界面以它为基础轮回新的世界。\n(也可以通过切换游戏分支为0.94使用老版本继续游戏)\n	Sorry, this save is no longer supported, but you can return to the main menu and reincarnate in a new world based on its data.\n(Or you can change to game version 0.94 to continue playing.)\n
 模组数据不匹配，我们无法保证存档数据的正确性，请返回主界面进行读取操作。	Incompatible mod data. We cannot ensure the save will function properly. Please return to the main menu and load mod data.
