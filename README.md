@@ -5,7 +5,7 @@
 
 ------------------------------------------
 
-#### Observações
+# Observações
 
 - `Este projeto esta ativo e em produção`
 - `faça backup dos arquivos`
@@ -14,37 +14,50 @@
 
 
 - ----------------------------------------
-# Como baixar
+## Requisitos 
+O [jogo](https://store.steampowered.com/app/955900/Amazing_Cultivation_Simulator/) e um descompactador de arquivos:
 
-##### Baixe pelo github
--  [***Clique aqui***](https://github.com/IzanagiK/Tradu-ao-AMCS/archive/refs/heads/main.zip)
+| Programa | Site |
+| ------ | ------ |
+| WinRar | [Download](https://www.win-rar.com/download.html?&L=9) |
+| 7-Zip | [Download](https://www.7-zip.org/download.html) |
+---
+## Como Baixar
+
+##### Ultima verção publicada (atualização sazonal, poucos erros)
+-  [***Release Donwload***](https://github.com/IzanagiK/Tradu-ao-AMCS/archive/refs/heads/main.zip)
+
+##### Verção DEV (Muito atualizado, sujeito a muitos erros ou falhas criticas )
+-  [***DEV Donwload***](https://github.com/IzanagiK/Tradu-ao-AMCS/archive/refs/heads/updatebranch.zip)
+
 ##### Donwload Manual
 
 > Procure e clique em ***"Code"*** na parte superio do site, e em seguida ***"download ZIP"***
 
 [![N|Solid](https://camo.githubusercontent.com/463e423ed811bb718d52ab3eaf823f95cfc43b9353a45e8aa887b00fd45c54ee/68747470733a2f2f692e696d6775722e636f6d2f4e4d57487763472e706e67)
 
-`é necessario um programa para descompactar:`
-| Programa | Site |
-| ------ | ------ |
-| WinRar | [Download](https://www.win-rar.com/download.html?&L=9) |
-| 7-Zip | [Download](https://www.7-zip.org/download.html) |
+
 
 --------------------------
 
-# Installation
+# Como instalar 
 
-1° - Depois de biaxar ***Tradu-ao-AMCS-main.zip***
+##### Video Tutorial
+[![N|Solid](https://cdn-icons-png.flaticon.com/128/400/400425.png)](https://www.youtube.com/watch?v=8mLCLOtJAjc)
+
+##### Guia Escrito
+
+1° - Depois de Baixar ***Tradu-ao-AMCS-main.zip***
 
 2° - Descompacte e esplore as pastas até encontrar estes arquivos:
-Orde das pastas: `Tradu-ao-AMCS-main>Portuguese>Language>Portuguese`
+Orden das pastas: `\Tradu-ao-AMCS-main`
 
+Arquivos dentro da pasta:
 ```sh
-\Settings
-\SL
-codedictionary.txt
-MapStoryDictionary.txt
-UIText.xml
+\Portuguese
+Config.xml
+Info.json
+README.md
 ```
 > Estes arquivos serão movidos para a pasta do jogo, selecione-os e copie!
 
@@ -72,13 +85,9 @@ UIText.xml
 \UnityPlayer.dll
 \webcache.zip
 ```
-5° - agora voce navegara entre as pastas até `\Settings\Language\OfficialEnglish`
-
-> Dentro da pasta "OfficialEnglish", voce encontrar arquivos com mesmo nome do que voce baixou na faze ***2°***
-
-6° FAÇA BACKUP DOS ARQUIVOS
-
-7° Cole os arquivos que voce baixou na pasta do jogo e substitua tudo
+5° - agora voce navegara entre as pastas até `\Mods`
+6° Cole os arquivos que voce baixou na pasta do jogo.
+7° Ative o mod no icone de ingrenagem dentro do jogo.
 
 -----------------------
 # Quer contribuir?
