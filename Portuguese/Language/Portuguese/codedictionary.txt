@@ -957,7 +957,7 @@ _结局	_O fim
 区域数据	Dados de área
 农田	Campo
 房间	Quarto
-分堂区域	Área de Filial
+分堂区域	Área de Ramo
 交易区	Zona Comercial
 等候命令	Aguardando pedido
 重新激活	Reativar
@@ -979,7 +979,7 @@ _结局	_O fim
 确定抹去此评论吗？	Tem certeza que deseja apagar este comentário?
 无极	Infinito
 流传在修行界诸多失落传承	muitos legados perdidos que são populares no reino dos cultivadores
-[color=#bf642f]分堂掌管能力：{0}[/color]\n	[color=#bf642f]Filial Capacidade de Gestão: {0}[/color]\n
+[color=#bf642f]分堂掌管能力：{0}[/color]\n	[color=#bf642f]Capacidade de gestão de ramo: {0}[/color]\n
 {0}加成：{1}\n	{0}: {1}\n
 境界加成：{0}\n	Bônus de estado: {0}\n
 道行加成：{0}\n	Bônus de Realização: {0}\n
@@ -1678,7 +1678,7 @@ Name	Name
 一个Modifier	One Modificador
 \n里面包含了关于[{0}]的奥义	\n O conteúdo inclui um conhecimento profundo sobre [{0}].
 成员	Membro
-堂主	Líder de Filial
+堂主	Líder de Ramo
 被击	atacado
 身上已经携带了法宝胚胎{0},无法穿戴多个	Já incubou {0} e não pode usar o mesmo item.
 丢失核心	Núcleo Perdido
@@ -2179,10 +2179,10 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 设置种植植物的生长程度	Defina o crescimento das plantas.
 选择生长程度	Selecione seu crescimento.
 生长度:{0:P0} 成熟度:{1:P0}	Crescimento: {0:P0}, Maturidade:{1:P0}
-归属分堂	Atribuir Filial
+归属分堂	Atribuir ramo
 {0}已经拥有一块区域了，要替换吗？	{0} já possui uma área. Substituir a área?
 请选择归属	Atribua o ramo.
-{0}\n堂主：{1}\n\n专精：{2}\n{3}	{0}\nLíder de Filial: {1}\n\nPerícia: {2}\n{3}
+{0}\n堂主：{1}\n\n专精：{2}\n{3}	{0}\nLíder de Ramo: {1}\n\nPerícia: {2}\n{3}
 指定动物	Atribuir animais
 指定动物活动区域	Especifique uma área para animais.
 炼化增补 	Suplemento de Refinação
@@ -3172,35 +3172,35 @@ Trap编辑。	Editar armadilha.
 确定要覆盖存档{0}吗？	Tem certeza que deseja sobrescrever {0}?
 存档完成	Jogo Salvo!
 存档正在进行，无法读档，请稍候...\n	Gravação em andamento, não foi possível carregar o jogo. Por favor, aguarde...\n
-当前未保存的进度将会丢失，确定要读取存档{0}吗？	You will lose all unsaved progress. Are you sure you want to load saved game {0}?
-抱歉，该存档已经不再被支持。但你可以返回主界面以它为基础轮回新的世界。\n(也可以通过切换游戏分支为0.94使用老版本继续游戏)\n	Sorry, this save is no longer supported, but you can return to the main menu and reincarnate in a new world based on its data.\n(Or you can change to game version 0.94 to continue playing.)\n
-模组数据不匹配，我们无法保证存档数据的正确性，请返回主界面进行读取操作。	Incompatible mod data. We cannot ensure the save will function properly. Please return to the main menu and load mod data.
+当前未保存的进度将会丢失，确定要读取存档{0}吗？	Você perderá todo o progresso não salvo. Tem certeza de que deseja carregar o jogo salvo {0}?
+抱歉，该存档已经不再被支持。但你可以返回主界面以它为基础轮回新的世界。\n(也可以通过切换游戏分支为0.94使用老版本继续游戏)\n	Desculpe, este salvamento não é mais suportado, mas você pode retornar ao menu principal e reencarnar em um novo mundo com base em seus dados.\n(Ou você pode mudar para a versão 0.94 do jogo para continuar jogando.)\n
+模组数据不匹配，我们无法保证存档数据的正确性，请返回主界面进行读取操作。	Dados de mod incompatíveis. Não podemos garantir que o salvamento funcione corretamente. Por favor, retorne ao menu principal e carregue os dados do mod.
 自动存档	Autosave
-[color=#bf642f]掌管能力：{3}[/color]\n魅力加成：{0}\n处世加成：{1}\n境界加成：{2}\n	[color=#bf642f]Management Ability: {3}[/color]\nCharisma Bonus: {0}\nSocial Bonus: {1}\nState Bonus: {2}\n
+[color=#bf642f]掌管能力：{3}[/color]\n魅力加成：{0}\n处世加成：{1}\n境界加成：{2}\n	[color=#bf642f]Gerenciamento de Habilidade: {3}[/color]\nBônus de Carisma: {0}\nBônus Social: {1}\nBônus de Estado: {2}\n
 [color=#bf642f]分堂掌管压力：{0}[/color]\n{1}	[color=#bf642f]Branch Management Pressure: {0}[/color]\n{1}
 [color=#bf642f]掌管压力：{0}[/color]\n{1}	[color=#bf642f]Management Pressure: {0}[/color]\n{1}
-选择掌门	Choose Sect Leader
-未激活	Inactive
+选择掌门	Escolha o líder da seita
+未激活	Inativo
 [color=#FF0000]未指定掌门[/color]\n	[color=#FF0000]Você não escolheu um líder de seita.[/color]\n
 [color=#FF0000]未指定专精[/color]\n	[color=#FF0000]Experiência não escolhida.[/color]\n
-[color=#FF0000]未指定堂主[/color]\n	[color=#FF0000]Você não escolheu um líder de filial.[/color]\n
-设置堂主	Leader
+[color=#FF0000]未指定堂主[/color]\n	[color=#FF0000]Você não escolheu um líder de ramo.[/color]\n
+设置堂主	Líder
 更换分堂专精	Change branch expertise
-门派规模达到洞天才可以建立分堂。	Your sect size must have reached Paradise before you can establish a branch.
-分堂名	Branch Name
-输入分堂名称	Name your branch.
-确定要取消[{0}]吗？	Are you sure you want to cancel [{0}]?
-[color=#bf642f]已归属：{0}[/color]	[color=#bf642f]Belongs To: {0}[/color]
-选择分堂专精	Choose branch expertise
-请先为分堂选择专精。	First choose an expertise for your branch.
-门派声望：{0:F0}\n声望来自于门派各个方面的行为。\n声望会影响来袭敌人的强度。\n声望会影响门派规模:\n山寨: 0\n门派: 500\n洞天: 2000	Sect Reputation: {0:F0}\nYou gain reputation by various actions pertaining to a sect.\nReputation affects the difficulty of attacking enemies.\nReputation affects a sect's size:\nFortress: 0\nSect: 500\nParadise: 2k
-正邪倾向:\n正 {0:F0}  邪 {1:F0}\n正邪倾向会影响事件的选择和发展方向	Good Or Evil:\nGood {0:F0}, Evil {1:F0}\nWhether you lean toward being good or evil affects your choices during events and how you develop.
-门派风水\n风水会影响整个门派方方面面	Sect Feng Shui\nFeng Shui affects all aspects of your entire sect.
-规模：{0}	Size: {0}
-门派规模会影响门派的人数上限。\n山寨: {0}个\n门派: {1}个\n洞天: {2}个	Sect Size affects the sect's population limit.\nFortress: {0}\nSect: {1}\nParadise: {2}
-掌门：{0}	Sect Leader: {0}
-门派掌门	Sect Leader
-弟子数量：{0}/{1}	Disciples: {0}/{1}
+门派规模达到洞天才可以建立分堂。	O tamanho de sua seita deve ter alcançado o Paraíso antes que você possa estabelecer uma ramo.
+分堂名	Nome do Ramo
+输入分堂名称	Dê um nome ao seu ramo.
+确定要取消[{0}]吗？	Você tem certeza que deseja cancelar [{0}]?
+[color=#bf642f]已归属：{0}[/color]	[color=#bf642f]Pertence a: {0}[/color]
+选择分堂专精	Escolha a especialização do ramo
+请先为分堂选择专精。	Primeiro escolha uma especialização para o seu ramo.
+门派声望：{0:F0}\n声望来自于门派各个方面的行为。\n声望会影响来袭敌人的强度。\n声望会影响门派规模:\n山寨: 0\n门派: 500\n洞天: 2000	Reputação da Seita: {0:F0}\nVocê ganha reputação por várias ações pertencentes a uma seita.\nA reputação afeta a dificuldade de atacar os inimigos.\nA reputação afeta o tamanho da seita:\nFortaleza: 0\nSeita: 500\nParaíso: 2k
+正邪倾向:\n正 {0:F0}  邪 {1:F0}\n正邪倾向会影响事件的选择和发展方向	Bem ou Mal:\nBem {0:F0}, Mal {1:F0}\nSe você se inclina para ser bom ou mau afeta suas escolhas durante os eventos e como você se desenvolve.
+门派风水\n风水会影响整个门派方方面面	Seita Feng Shui\nFeng Shui afeta todos os aspectos de toda a sua seita.
+规模：{0}	Tamanho: {0}
+门派规模会影响门派的人数上限。\n山寨: {0}个\n门派: {1}个\n洞天: {2}个	O tamanho da seita afeta o limite de população da seita.\nFortaleza: {0}\nSeita: {1}\nParaíso: {2}
+掌门：{0}	Líder da Seita: {0}
+门派掌门	Líder da Seita
+弟子数量：{0}/{1}	Discípulos: {0}/{1}
 门派弟子总数\n人数上限受门派规模影响：\n山寨: {0}个\n门派: {1}个\n洞天: {2}个	Total number of disciples in the sect.\nYour population limit is affected by Sect Size:\nFortress: {0}\nSect: {1}\nParadise: {2}
 外门弟子：{0}	Discípulos Externos: {0}
 门派外门弟子总数	O número total de discípulos externos.
