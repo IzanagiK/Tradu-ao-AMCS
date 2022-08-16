@@ -1,9 +1,0 @@
-﻿<Texts Type="Thing">
-	<List>
-		<Text Name="Item_BambooLeftover" sParam="Item">
-			<ThingName>Bamboo Offcut</ThingName>
-			<Desc>Leftover building material mixed with bamboo offcuts. Can be used to lay floors or build eaves.</Desc>
-			<Item.BeMaterial.NamePrefix>Bamboo</Item.BeMaterial.NamePrefix>
-		</Text>
-	</List>
-</Texts>
