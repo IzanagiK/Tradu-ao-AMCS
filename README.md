@@ -86,7 +86,9 @@ README.md
 \webcache.zip
 ```
 5° - agora voce navegara entre as pastas até `\Mods`
+
 6° Cole os arquivos que voce baixou na pasta do jogo.
+
 7° Ative o mod no icone de ingrenagem dentro do jogo.
 
 -----------------------
