@@ -7,37 +7,37 @@
 垂钓仙	Pescador Imortal
 垂钓圣者	Santo Pescador
 垂钓翁	Pescador Ancião 
-战斗	Batalha
-气感	Sentido de Qi
+战斗	Battle
+气感	Qi Sense
 处世	Social
-内视	Visão Interior
-烹饪	Cozinhar
-版筑	Construção
-农耕	Agricultura
-金石	Minerar
-雅艺	Artesanato
-格物	Compreensão
-斗法	Magia
-丹器	Criação de Magia
-御器	Maestria de Artefato
-术法	Feitiço
-护体	Proteger
-阵法	Matriz
-炼丹	Alquimia 
-炼器	Criação de Artefatos
-歧黄	Medicina
-巧匠	Construindo
+内视	Inner Sight
+烹饪	Cooking
+版筑	Construction
+农耕	Farming
+金石	Mining
+雅艺	Artisanry
+格物	Comprehension
+斗法	Magic
+丹器	Magic Crafting
+御器	Artifact Mastery
+术法	Spell
+护体	Protect
+阵法	Formation
+炼丹	Alchemy
+炼器	Artifact Crafting
+歧黄	Medicine
+巧匠	Crafting
 神识	PER
 根骨	CON
-魅力	CAR
+魅力	CHA
 悟性	INT
-机缘	SORT
-痛感	Dor
-意识	Vontade
-经脉	Meridianos
-移动	Mover
-身手	Ação
-感知	Sentido
+机缘	LUK
+痛感	Pain
+意识	Will
+经脉	Meridians
+移动	Move
+身手	Action
+感知	Sense
 影响战斗能力。	Afeta as proezas de combate.
 对灵气的感知能力，影响灵气护盾穿透率，法宝镇压几率。	A capacidade de perceber o Qi. Afeta a Chance de Penetração na Barreira de Qi, e a Chance de Supressão de Artefato.
 影响角色之间互动事件发生的概率，招募角色的概率等。	Afeta a chance de eventos serem desencadeados durante as interações entre os personagens e a chance de recrutar novos personagens.
@@ -738,7 +738,7 @@ _结局	_O fim
 刚完成一个建筑，准备休息一下	Acabei de construir um prédio; indo descansar um pouco
 刚完成建筑工作，准备洗洗手收工	Acabado o trabalho de construção; vai lavar as mãos e parar de trabalhar
 正在准备工具，去执行建筑工作	Preparando ferramentas de construção
-移除	Remover
+移除	Remove
 在移除工作之时，正感觉有点无聊	Removendo algo; se sente um pouco entediado
 在移除工作之时，突然心烦意乱	Removendo algo; se sente chateado de repente
 在移除工作间余，刚小憩片刻	Removendo algo; Tirando uma folga
@@ -750,7 +750,7 @@ _结局	_O fim
 正专心移除工作	Concentrando-se em remover algo
 无心移除工作，正想偷懒	Preguiçoso; não quer fazer trabalho de remoção
 正在乐呵呵的移除工作中	Felizmente remove algo
-拆除	Demolir
+拆除	Demolish
 在拆迁建筑之时，正觉得很爽快	Demolindo edifícios; se sente ótimo
 在拆迁建筑之时，突然想起了故乡	Demolindo edifícios; sente saudades de casa
 在拆迁建筑间余，刚小憩片刻	Demolindo edifícios; Tirando uma folga
@@ -894,7 +894,7 @@ _结局	_O fim
 正在乐呵呵的制药中	Happily makes medicine
 刚完成制药作业，准备收拾制药桌	Acabei de fazer o remédio; prestes a limpar a mesa
 配药时好像放错了一味药，正一脸思索	Pensando no remédio que acabaram de fazer; talvez um dos ingredientes estivesse errado
-砍柴	Partindo lenha
+砍柴	Splitting firewood
 在砍柴时，正感觉有点无聊	Partindo lenha; se sente um pouco entediado
 在砍柴间余，正小憩片刻	Partindo lenha; Tirando uma folga
 正心不在焉的砍柴中	Partindo lenha distraidamente
@@ -905,7 +905,7 @@ _结局	_O fim
 焚香祈愿，准备开始炼制丹药	Queima incenso e ora; prepara-se para criar elixires
 庄重的开启丹炉，准备炼丹	Aquece solenemente a fornalha de alquimia
 炼丹结束，正面无表情的熄灭丹炉	Terminou a alquimia; apaga indiferentemente a fornalha
-开采	Mineração
+开采	Mine
 在挖矿时，正感觉有点无聊	Mineração; se sente um pouco entediado
 正在一脸期待的挖矿中	Mineração com grande expectativa
 在挖矿间余，正想小憩片刻	Mineração; Tirando uma folga
@@ -914,7 +914,7 @@ _结局	_O fim
 正心无旁骛的挖矿中	Concentra-se na mineração
 正在乐呵呵的挖矿中	Minerando felizmente
 刚从矿坑里出来，正在擦汗	Saindo da mina; enxugando o suor
-种植	Agricultura
+种植	Farming
 在种植作物时，正感觉有点无聊	Crescendo colheita; se sente um pouco entediado
 正在一脸期待的种植作物中	Crescendo colheita com grande expectativa
 在种植作物间余，小憩片刻	Crescendo colheita; Tirando uma folga
@@ -1219,9 +1219,9 @@ _结局	_O fim
 文中含有敏感词汇，请斟酌后重书。	Contém palavras sensíveis. Reescreva e tente novamente.
 阵法运转	Operação de Matriz
 建造:{0}	Edifício: {0}
-伐木	Cortar madeira
-移除:{0}	Remover: {0}
-拆除:{0}	Demolir: {0}
+伐木	Cut Wood
+移除:{0}	Remove: {0}
+拆除:{0}	Demolish: {0}
 老子好饿，只能吃土了！	Estou com tanta fome que vou até comer terra!
 喂给{0}{1}	Alimentar o {0} {1}
 东西	Coisas
@@ -1537,7 +1537,7 @@ Name	Name
 加载{0}配置文件	Carregar arquivo de configuração {0}.
 修复程序加载失败，错误信息：{0}	Falha ao carregar o programa de reparo. Mensagem de erro: {0}
 \n\n{0}指定	\n\n{0} Selecione
-生产	Produzir
+生产	Produce
 祭祀	Ritos
 没有空闲中的工作台	Nenhuma estação de trabalho disponível
 (停止工作)	(Trabalho Parado)
@@ -1926,7 +1926,7 @@ Name	Name
 寒晶矿你已经拿到了，速去熔炉将其制成寒晶锭，身为外门弟子你应该知道该怎么做。	Você obteve o Minério de Cristal de Gelo. Apresse-se e funda-o em Barras de Cristal de Gelo na fornalha. Como você é um discípulo externo, já sabe como fundir o minério.
 生产命令需要在相应的建筑上发布，命令发布后角色会自动搬运原材料，并完成生产任务。	Os pedidos de produção precisam ser dados na estrutura certa. Uma vez que a ordem tenha sido definida, os personagens irão mover automaticamente o material para a referida estrutura e completar a tarefa.
 选择熔炉。	Selecione o forno.
-点击生产按钮。	Clique em Produzir.
+点击生产按钮。	Click Produce.
 添加寒晶锭到队列中。	Adicione Ice Crystal Bar à fila.
 等待生产完成。	Espere até que a barra esteja derretida.
 很好，现在建造一个寒晶鼎来改变我闭关处的五行属性。	Boa. Agora, construa um Caldeirão de Cristal de Gelo e mude o atributo elemental onde eu pratico.
@@ -2038,7 +2038,7 @@ Name	Name
 控制子节点中的控件	Comande os controles de um nó filho.
 请选择心斋时间	Defina a duração do Mind Fasting
 心斋时长：{0}天	Duração do Jejum Mental: {0}d
-食用	Comer
+食用	Eat
 选择一个单位,对其发起攻击。	Selecione uma unidade para atacá-la.
 逃跑	Fugir
 脱离战斗并尝试逃跑	Deixe a luta e tente fugir.
@@ -2084,14 +2084,14 @@ Name	Name
 选择一个物品，将其放在置物台上。	Selecione um item e coloque-o no Display.
 取消放置	Cancelar veiculação
 取消放置建造蓝图中指定的物品。	Cancele a colocação do item selecionado do Planta.
-丢下物品	Remover
+丢下物品	Remove
 将置物台上的物品丢下。	Remova o item do Display.
 将这个建筑移动到另一个地方，这个命令会在建筑空闲后被执行。	Mova esta estrutura para outro lugar. Esta ordem será executada quando a estrutura estiver vazia.
 重建	Reconstruir
 重新建造这个建筑。	Reconstrua esta estrutura.
 采掘	Escavar
 采掘获取有用的材料。	Cave em busca de materiais úteis.
-拆除这个建筑。	Demolir esta estrutura.
+拆除这个建筑。	Demolish this structure.
 取消材料更换	Cancelar substituição de material
 取消材料更换。	Cancele a substituição do material.
 录入	Transcribe
@@ -2159,8 +2159,8 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 删除此单位。	Excluir esta unidade.
 开采这个矿石	Mina este minério.
 收获这个植物	Colha esta planta.
-砍伐	Cortar
-砍伐这棵树木	Derrube esta árvore.
+砍伐	Chop
+砍伐这棵树木	Chop down this tree.
 移除这个植物	Remova esta planta.
 蕴养	Nutrir
 蕴养这株灵植，调整灵植的养成趋势，并借此收获一些珍稀材料。	Cultive esta planta espiritual e regule seu crescimento para obter materiais raros.
@@ -2170,12 +2170,12 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 修改仓库储存类型	Altere o filtro de inventário.
 重新整理	Ordenar
 重新整理仓库	Ordenar o inventário.
-删除区域	Excluir
-删除这个区域	Excluir esta área.
-种植物	Cultivar plantas
-设置种植植物	Defina quais plantas cultivar.
-选择种植物	Selecione uma planta.
-生长程度	Crescimento
+删除区域	Delete
+删除这个区域	Delete this area.
+种植物	Grow Plants
+设置种植植物	Set what plants to grow.
+选择种植物	Select a plant.
+生长程度	Growth
 设置种植植物的生长程度	Defina o crescimento das plantas.
 选择生长程度	Selecione seu crescimento.
 生长度:{0:P0} 成熟度:{1:P0}	Crescimento: {0:P0}, Maturidade:{1:P0}
@@ -2217,7 +2217,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 \n需要炼丹等级:	\nRequired Alchemy Level:
 选择要炼制的丹药	Selecione qual elixir criar.
 传授给低辈弟子符合其境界的秘籍，参悟消耗降低25%。如果是自身弟子，则再额外降低25%。\n当选择了传授多个秘籍后，传授者会逐个等待弟子参悟值足够时再进行传授。	Fornece um manual adequado ao estado do discípulo júnior (o custo de XP de inspiração é reduzido em 25%). Para o discípulo do personagem, o custo é reduzido em mais 25%.\nAo transmitir vários manuais, o instrutor aguardará para transmiti-los até que o discípulo tenha XP de Inspiração suficiente.
-狩猎	Caçar
+狩猎	Hunt
 狩猎这个动物并进行屠宰	Cace este animal e mate-o.
 屠宰这个动物获得产物。	Massacre este animal para produtos.
 搜索这个角色，获得他身上的道具。	Procure este personagem para adquirir itens.
@@ -2278,7 +2278,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 妖族变换形态。	Escolha a forma Yaoguai.
 编辑形象	Edita Avatar
 编辑角色形象。Editar avatar do personagem.
-装备物品	Equipar Item
+装备物品	Equip Item
 装备或者拾取一个物品	Equipe ou pegue um item.
 全部	Todos
 我的蓝图	Meus Projetos
