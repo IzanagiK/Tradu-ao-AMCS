@@ -235,7 +235,7 @@
 \n五行不适	\nElemento Inoportuno
 \n灵气不足	\nQi Insuficiente 
 上午	Morning
-下午	Afternoon			  				
+下午	Afternoon
 无滤镜	Sem Filtros 
 岁月	Anos
 铭记	Lembrança
@@ -1690,7 +1690,7 @@ Name	Name
 怀孕中	Grávida
 幻影	Fantasma
 额外掉落需要在精英怪上才能生效	Apenas monstros de elite podem conceder drops extras.
-被角色的灵性影响无法转换阵营。	Unable to turn due to character's blessing.																						 
+被角色的灵性影响无法转换阵营。	Unable to turn due to character's blessing.
 门派人数已达上限	Atingiu a população máxima da seita
 妖兽无法被转换阵营	Os animais não podem ser colocados ao seu lado.
 大能无法被转换阵营	Os sábios não podem ficar do seu lado.
@@ -1818,7 +1818,7 @@ Name	Name
 与{0}({1})不能共存	Não pode coexistir com {0}({1})
 {0}已达到最大等级	{0} atingiu o nível máximo.
 部位拥有词条个数已达最大数量	O número máximo de entradas disponíveis para esta parte foi atingido.
-是否将[color=#990000][{0}][/color]强化到[color=#990000][{1}][/color](已有效果{2}/{3})?	Do you want to enhance [color=#990000][{1}][/color](Effect Owned{2}/{3}) with [color=#990000][{0}][/color]?																																																			
+是否将[color=#990000][{0}][/color]强化到[color=#990000][{1}][/color](已有效果{2}/{3})?	Do you want to enhance [color=#990000][{1}][/color](Effect Owned{2}/{3}) with [color=#990000][{0}][/color]?
 {0}解锁神国建筑:[{1}]\n{2}	{0} destranca o edifício do Reino Divino: [{1}]\n{2}
 {0}的神国迎来护法：\n[color=#{4}][{1}·{3}][/color]\n{2}	{0}'s reino divino dá as boas-vindas à guarda:\n[color=#{4}][{1}·{3}][/color]\n{2}
 [color=#FF0000]已达到最大等级[/color]	[color=#FF0000]Alcançou o nível máximo[/color]
@@ -1839,7 +1839,7 @@ Name	Name
 \n[color=#9e6404]受以下状态影响:[/color]	\n[color=#9e6404]Está sob os seguintes efeitos:[/color]
 \n情绪影响:\n {0:N0}%	\nHumor: \n {0:N0}%
 \n境界影响:\n {0:N0}%	\nEstado: \n {0:N0}%
-目标角色来自DLC:{0}	Target character is from DLC: {0}														   
+目标角色来自DLC:{0}	Target character is from DLC: {0}
 应天争夺成功，返回门派后可获得凝聚的灵石	Vença a luta Echo do Céu, e ganhe pedras espirituais cristalizadas depois de voltar para a seita.
 应天争夺失败	Lose the Heaven Echo fight
 非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试再次存档或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	Lamentamos muito, mas seu jogo não foi salvo.\nVocê pode querer se enfurecer e culpar os desenvolvedores no momento, e entendemos que isso não deveria ter acontecido.\nDesculpe! Por favor, tente salvar novamente ou carregue um save antigo.\nSe você precisar de ajuda ou quiser relatar um problema, entre em contato conosco em QA@GSQStudio.com.
@@ -2050,7 +2050,7 @@ Name	Name
 禁足	Congelar
 让精怪禁止移动。	Proibir o Espírito Sentiente de se mover.
 取消建造	Cancelar
-指定归属	Atribuir
+指定归属	Assign
 制定归属，如果对象是床也会改变房间所有者。	Atribuir propriedade. Se o alvo for uma cama, o dono do quarto também mudará.
 打开生产面板	Abra o menu Produzir.
 祭祀仙人遗蜕	Adore o corpo mortal do imortal.
@@ -2179,11 +2179,11 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 设置种植植物的生长程度	Defina o crescimento das plantas.
 选择生长程度	Selecione seu crescimento.
 生长度:{0:P0} 成熟度:{1:P0}	Crescimento: {0:P0}, Maturidade:{1:P0}
-归属分堂	Atribuir ramo
+归属分堂	Atribuir Ramo
 {0}已经拥有一块区域了，要替换吗？	{0} já possui uma área. Substituir a área?
-请选择归属	Atribua o ramo.
+请选择归属	Atribuir o ramo.
 {0}\n堂主：{1}\n\n专精：{2}\n{3}	{0}\nLíder de Ramo: {1}\n\nPerícia: {2}\n{3}
-指定动物	Atribuir animais
+指定动物	Designar Animais
 指定动物活动区域	Especifique uma área para animais.
 炼化增补 	Suplemento de Refinação
 炼化同源之物，以增强自身实力。	Refine objetos da mesma origem para aumentar seu próprio poder.
@@ -2212,7 +2212,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 将一个普通物品炼制成信仰圣物，一个神道修行者一生只能炼制一件信仰圣物，信仰圣物的强度与修行者息息相关，且具备持续成长的特性。需要[color=#FF0000]炼宝台[/color]。	Crie um item comum em uma relíquia sagrada. Um cultivador de Shendao só pode criar um artefato sagrado em sua vida. Seu poder está intimamente relacionado ao do cultivador e continuará aumentando. Requer [color=#FF0000]Mesa de artesanato[/color].
 召回圣物	Relembre a Relíquia Sagrada
 当圣物不在身上而且可以召回时，直接将其召回并装备。	Recupere e equipe diretamente a relíquia sagrada quando ela não estiver equipada, mas puder ser recuperada.
-你的信仰圣物已经遗失。	Your sacred relic is lost.															
+你的信仰圣物已经遗失。	Your sacred relic is lost.
 炼制一炉丹药,需要[color=#FF0000]炼丹炉[/color]。	Ccriar um elixir. Requer um [color=#FF0000]Fornalha de Alquimia[/color].
 \n需要炼丹等级:	\nRequired Alchemy Level:
 选择要炼制的丹药	Selecione qual elixir criar.
@@ -2401,10 +2401,10 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 放置物品到置物台	Coloque o item no Display.
 该物品正在被使用	Este item está sendo usado.
 该物品已经不能开光了	Este item não pode mais ser consagrado.
-该物品不能被道淬了	This item cannot be Tao Refined.														
+该物品不能被道淬了	This item cannot be Tao Refined.
 找不到物品[劫灰]	Não é possível encontrar o item [Tribulation Ashe]
 道淬成功率：{0}	Tao Refinar a taxa de sucesso: {0}
-[color=#FF0000](无提升)[/color]	[color=#FF0000](No improvement)[/color]																		  
+[color=#FF0000](无提升)[/color]	[color=#FF0000](No improvement)[/color]
 该物品不能被灵淬了	Este item não pode ser refinado espiritualmente.
 找不到物品[灵珀]	[Spirit Soul Gem] não encontrado.
 灵淬成功率：{0}	Taxa de sucesso de refinamento espiritual: {0}
@@ -2505,7 +2505,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 献祭：{0:F0}次	Sacrificios: {0:F0}
 魂体寄生：{0:F0}次	Souls Possessões: {0:F0}
 获取镇派法宝：{0:F0}个	Artefatos Maiores: {0:F0}
-该操作将会清空您的所有成就和数据，且不可回退。确认继续吗？	This will delete all your data statistics and achievements .Are you sure to continue?																																											 
+该操作将会清空您的所有成就和数据，且不可回退。确认继续吗？	This will delete all your data statistics and achievements .Are you sure to continue?
 \n进度：{0:F0}/{1:F0}	\nProgresso: {0:F0}/{1:F0}
 成就 ({0}/{1})	Conquistas ({0}/{1})
 已拥有	Controlado
@@ -2608,7 +2608,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
     从动物修行化形，需经历化形天劫才能化身为人。\n    此劫五行俱全，金木水火土五种天劫轮流降临。	    Para cultivar de um animal para a forma humana, é preciso sobreviver à Tribulação da Mudança de Forma. \n Esta tribulação é de todos os Cinco Elementos, com versões de Metal, Madeira, Fogo, Água e Terra descendo uma após a outra.
 无法在此地突破	Não foi possível avançar neste local.
 \n<font color=#0000FF>[右击可指定原材料]</font>	\n<font color=#0000FF>[Right-click to select raw material]</font>
-适龄提示	Age appropriate tips								 
+适龄提示	Age appropriate tips
 生成全景图片需要一定的时间，请不要移动鼠标并耐心等待直到提示完成。	Leva tempo para gerar o mundo. Por favor, não mova o mouse e espere até que ele seja gerado.
 截图已经保存到：\n{0}	Captura de tela salva em:\n{0}
 正在拼接图片(1)……	Imagem de emenda (1)…
@@ -2628,7 +2628,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 无上大法	Apenas cópia existente
 藏经阁容量：{0}/{1}	Capacidade: {0}/{1}
 藏经阁所能容纳的秘籍。秘籍越深奥，录入占用的容量就越多。\n\n当前藏书量为派中弟子提供:\n降低参悟消耗{0}% 	A capacidade do Pavilhão Manual de conter manuais. Um manual mais difícil ocupará mais espaço após ser transcrito. \n\nA capacidade manual atual é fornecida pelos discípulos da seita: \nReduz o custo de inspiração em {0}%
-这个门派很神秘，需要在游戏中了解更多。	a seita dele é um mistério. Continue jogando para saber mais																													 
+这个门派很神秘，需要在游戏中了解更多。	a seita dele é um mistério. Continue jogando para saber mais
 你已经离开硬核模式	Você saiu do Hardcore.
 重载所有脚本	Recarregue todos os scripts
 重载脚本结束	Scripts recarregados
@@ -2776,7 +2776,7 @@ Lua代码不能为空	Lua script cannot be empty.
 确定要离开此地吗？	Você quer sair deste lugar?
 还不能离开，因为\n{0}	Incapaz de sair porque \n{0}.
 快捷键	Hotkeys
-目标	Target			 
+目标	Target 
 时间变化	Mudança de horário
 调整当前时间	Alterar a hora atual
 季节变化	Mudança de estação
@@ -2960,10 +2960,10 @@ Trap编辑。	Editar armadilha.
 {0}心防瓦解(贪婪)	{0} se abriu (ganancioso).
 [{0}将{1}赠与你]	[{0} te deu {1} Como um presente.]
 选择物品	Selecionar item
-{0}为信仰圣物，确定要赠送吗？	{0} é uma relíquia sagrada, você tem certeza que quer enviar isso como um presente?																									  
+{0}为信仰圣物，确定要赠送吗？	{0} é uma relíquia sagrada, você tem certeza que quer enviar isso como um presente?
 送礼	Presente
-受门派影响力和个人能力影响，	Afetado pela seita e por habilidades pessoais, 																					
-{0}对门派好感{1}{2:F0}点	{0}favor de sua seita {1} {2:F0} pontos.																		  
+受门派影响力和个人能力影响，	Afetado pela seita e por habilidades pessoais,
+{0}对门派好感{1}{2:F0}点	{0}favor de sua seita {1} {2:F0} pontos.
 {0}心防瓦解(天真)	{0} se abriu (ingênuo).
 (手语)	(Linguagem de sinais)
 解锁新的角色：{0}	Novo personagem desbloqueado: {0}
@@ -3016,7 +3016,7 @@ Trap编辑。	Editar armadilha.
 {0}[color=#ff0000](错误)[/color]	{0}[color=#ff0000](ERRO)[/color]
 [真仙]	[Immortal]
 {0}[color=#9e6404][幻境][/color]	{0}[color=#9e6404][Ilusão][/color]
-{0}[color=#9e6404][完美][/color]	{0}[color=#9e6404][Perfeito][/color]																	  
+{0}[color=#9e6404][完美][/color]	{0}[color=#9e6404][Perfeito][/color]
 {0}[color=#9e6404][结档][/color]	{0}[color=#9e6404][Finalizado][/color]
 \n该存档版本号过低，可以轮回开局。\n	\nA versão deste save é muito baixa, mas você pode iniciar uma nova rodada reencarnando.\n
 已存在同名文档，确定覆盖原存档吗？这将不可逆转。	Encontrou um arquivo com o mesmo nome. Deseja substituir o salvamento original? Isso é irreversível.
@@ -3028,8 +3028,8 @@ Trap编辑。	Editar armadilha.
 代理名	Nome da Agência
 选择后缀	Selecione o Sufixo
 创建门派	Criar Seita
-入驻	Atribuir
-体修秘体	Corpo Secreto						
+入驻	Assign
+体修秘体	Corpo Secreto
 过期事件({0})	Evento Expirado ({0})
 过期消息({0})	Mensagem Eexpirada ({0})
 状态	Status
@@ -3296,7 +3296,7 @@ Trap编辑。	Editar armadilha.
 \n[color=#9e6404]前置条件：[/color]	\n[color=#9e6404]Prerequisites:[/color]
 [color=#0000FF]已参悟[/color]\n	[color=#0000FF]Learned[/color]\n
 [{2}]\n所需境界:{3}{4}\n<font color=#9e6404>{0}</font>\n{1}	[{2}]\nRequired State: {3} {4}\n<font color=#9e6404>{0}</font>\n{1}
-该角色无法学习此技能	This character cannot learn the skill.																	 
+该角色无法学习此技能	This character cannot learn the skill.
 [color=#ff0000]下一级参悟值：{0:F0}/{1:F0}[color]\n提高道行: {3}\n{2}	[color=#ff0000]Inspiration on next level: {0:F0}/{1:F0}[color]\nAttainment: +{3}\n{2}
 下一级参悟值：{0:F0}/{1:F0}\n提高道行: {3}\n{2}	Inspiration on next level: {0:F0}/{1:F0}\nAttainment: +{3}\n{2}
 参悟值：{0:F0}	Inspiration: {0:F0}
@@ -3364,7 +3364,7 @@ Trap编辑。	Editar armadilha.
 <font color=#FF0000>不可选中</font>	<font color=#FF0000>Not Selectable</font>
   <font color=#00FF00>[绑定：{0}]</font>\n	  <font color=#00FF00>[Soulbound: {0}]</font>\n
 幽淬次数：{0}次\n	Specter Refinements: {0}\n
-道淬次数：{0}次\n	Tao Refine Times: {0}\n											   
+道淬次数：{0}次\n	Tao Refine Times: {0}\n
 灵淬次数：{0}次\n	Spiritual Refinement: {0}\n
 <font color=#888888>(无风水)</font>	<font color=#888888>(No Feng Shui)</font>
 <font color=#00FF00>(契合)</font>	<font color=#00FF00>(compatible)</font>
@@ -3481,7 +3481,7 @@ Trap编辑。	Editar armadilha.
 分配1000灵石	Dê 1.000 Pedras Espirituais
 {0}即将上任代理人，是否给一些盘缠以备不测？（灵石一旦给出无法返还）	{0} está prestes a ser o agente. Você quer dar-lhes recursos em caso de emergência? (Uma vez doadas, as pedras espirituais não podem ser recuperadas.)
 资源分配选择	Alocar recursos
-取消入驻	Cancelar atribuição
+取消入驻	Cancelar Atribuição
 门派人数已达上限，不可送回代理人！	Atingiu a população máxima da seita. Incapaz de chamar o agente!
 危险未知	Desconhecido
 赠送	Mandar Presente
@@ -3869,7 +3869,7 @@ Lua回调类名	Lua Callback Class Name
 正在获取角色	Receiving Characters
 请输入灵刻	Input Inscription
 获取角色失败	Receiving Faild
-目标角色来自DLC：竹林深处	Target character contain DLC: Deep in the bamboo forest														
+目标角色来自DLC：竹林深处	Target character contain DLC: Deep in the bamboo forest
 正在获取战斗记录	Receiving Fight Records
 道具	Item
 租借法宝	Borrow Artifact
@@ -3886,7 +3886,7 @@ Lua回调类名	Lua Callback Class Name
 {0}({1}阶)\n{2}\n{3}	{0} (Nível {1}) \n{2}\n{3}
 拥有交易区才可以	Precisa de uma área comercial para
 拥有交易区才可以交易	Ganhará recompensas do Altar Eco do Céu depois de voltar à seita
-需拜山该门派，与之建立联系才可使用。	You need to visit this sect first before trading.																										
+需拜山该门派，与之建立联系才可使用。	You need to visit this sect first before trading.
 无需	None
 此物品非常贵重。	Este item é muito raro e caro.
 此物品相对稀有，价值贵重。	Este item é relativamente raro e caro.
@@ -3907,7 +3907,7 @@ Lua回调类名	Lua Callback Class Name
 {0}凭借玄凤的火眼金睛，看破了{1}个物品的真面目！	Com a visão penetrante da Fênix Negra, {0} viu através da verdadeira natureza de {1} itens!
 花费{0}灵石拍卖到以下道具：	Custa {0} pedras espirituais para comprar o seguinte item:
 （[color=#990000]因无法支付，你将被迫服役{0}天[/color]）	([color=#990000]Unable to pay, you are forced to serve for {0} days[/color].)
-本次拍卖遭遇意外，暂停一次	Due to an accident happend recently, the auction has to be suspended this time.																													   
+本次拍卖遭遇意外，暂停一次	Due to an accident happend recently, the auction has to be suspended this time.
 赎人	Resgate
 离开	Sair
 好	Bom.
