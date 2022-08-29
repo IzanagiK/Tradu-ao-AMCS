@@ -105,7 +105,7 @@
 石头	Pedra
 石块	Bloco de pedra
 金属	Metal
-植物	Planta
+植物	Plant
 植物产物	Produto de Planta
 食物原料	Ingrediente
 肉类	Carne
@@ -463,7 +463,7 @@
 抑郁	Depressivo
 情绪低于50累计{0}({1:N0})秒	O humor permanece abaixo de 50 para {0} ({1:N0}) sec
 被抑郁之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时情绪低沉而心静消极，因此术法技能突破极限4级，御器技能，护体技能降低3级。	Perturbado pela depressão. A eficiência da prática, a velocidade de aprendizagem e o estado mental são drasticamente reduzidos. Nesse estado, o personagem ficará deprimido demais para pensar positivamente. Rompe 4 níveis de Feitiço e reduz 3 níveis de Maestria e Proteção de Artefato.
-动	Móvel
+动	Move
 神修在心境为“动”时，心境会自然提高，情绪越好，提高速度越快。	Quando o estado mental é 'Movel', ele aumentará naturalmente, pois um humor melhor significa um aumento mais rápido.
 欲动中求静，需在放纵之下保持心境为100，持续{0:N1}天。	Para buscar uma mente 'estável', mantenha o estado mental em 100 durante a indulgência por {0:N1} dias.
 静	Calmo
@@ -650,7 +650,7 @@ _结局	_O fim
 结束今天的筑基功课，刚准备擦擦汗	Terminou o treinamento básico de hoje; suando abundantemente
 刚结束今天的筑基功课	Acabei de terminar o treinamento básico de hoje
 刚完成筑基，正觉得有点意犹未尽	Treinamento básico concluído; pensando em fazer treinamento extra
-突破	Ruptura 
+突破	Breakthrough
 准备突破瓶颈	Preparando-se para uma Ruptura
 突破瓶颈前，正觉得有点心神不宁	Prestes a uma Ruptura; se sente um pouco desconfortável
 信心满满，正准备突破瓶颈	Confiante; prestes a realizar uma Ruptura
@@ -718,7 +718,7 @@ _结局	_O fim
 练习御剑完毕，正觉得畅快淋漓	Concluiu o treinamento de maestria com espada; sentindo-se muito bem com isso
 结束今天的御剑功课，正准备收工	Terminou o treinamento de domínio da espada de hoje; prestes a parar de treinar
 刚结束今天的御剑功课	Acabei de terminar o treinamento de maestria de espada de hoje
-炼宝	Artesanato
+炼宝	Craft
 焚香祈愿，准备开始炼制法宝	Queimando incenso e orando; se preparando para criar artefatos
 心事重重的准备开始炼制法宝	Preocupado; se prepara para criar artefatos
 炼制法宝结束，正感叹炼器之道博大精深	Artefatos de fabricação acabados; admirando a profundidade da elaboração
@@ -958,7 +958,7 @@ _结局	_O fim
 农田	Campo
 房间	Quarto
 分堂区域	Área de Ramo
-交易区	Zona Comercial
+交易区	Trade Area
 等候命令	Aguardando pedido
 重新激活	Reativar
 等待	Esperar
@@ -1109,7 +1109,7 @@ _结局	_O fim
 探索	Explorar
 面向	Enfrentar
 挖土	Escavar
-喂食	Alimentação
+喂食	Feed
 喂水	Água
 喂{0}吃了东西	Alimentação {0} algo para comer.
 喂{0}喝了水	Alimentação {0} agua.
@@ -1161,9 +1161,9 @@ _结局	_O fim
 接受治疗	Aceitando a Cura
 等待收留	Aguardando Admissão
 等待帮助	Aguardando Ajuda
-收留	Aceitar
-提供帮助	Ajuda
-驱逐	Banir
+收留	Accept
+提供帮助	Help
+驱逐	Banish
 劝说留下	Persuadir a permanecer
 孵蛋	Incubação
 生育	Procriar
@@ -1188,37 +1188,37 @@ _结局	_O fim
 陪睡觉	Acompanhamento do sono
 锻炼{0}中	Exercício {0}
 正在前往{0}	Indo a {0}
-回转门派	Seita reversa
-正在离开{0}	Deixando {0}
-被施法	foi lançado.
-被吸灵	teve seu Qi absorvido.
-感悟天地	Pensamento profundo
-飞升	Subir
-{0}经过{1}重信仰天劫磨炼，终于神性圆满，于天苍历{2}年{3}褪去凡胎，以{4}成就此间世界一方神灵。	Depois de sofrer por meio de {1} tribulações de crença, {0} atingiu sua divindade. No ano {2} da Era Tiancang, {3} ascendeu de seu corpo humano e se tornou uma divindade por meio de {4}.
-观礼	Participar da Cerimônia
-接受铸体	Ser remodelado
-铸体	Remoldado
-参悟	Inspiração
-准备讲道	Prepare-se para dar uma palestra
-讲道	Dar Palestra
-听讲	Assistir palestra
-护法	Guarda
-绘制	Desenhar
+回转门派	Reverse Sect
+正在离开{0}	Leaving {0}
+被施法	was cast.
+被吸灵	had its Qi absorbed.
+感悟天地	Deep in Thought
+飞升	Ascend
+{0}经过{1}重信仰天劫磨炼，终于神性圆满，于天苍历{2}年{3}褪去凡胎，以{4}成就此间世界一方神灵。	After suffering through {1} Belief Tribulations, {0} has attained their divinity. In the {3} of the year {2} of the Tiancang Era, {0} ascended from their human body and became a deity via {4}.
+观礼	Attend Ceremony
+接受铸体	Be Remolded
+铸体	Remold
+参悟	Inspiration
+准备讲道	Prepare to Give a Lecture
+讲道	Give Lecture
+听讲	Attend Lecture
+护法	Guard
+绘制	Draw
 拜师	Mentor
-收徒	Aprendiz
-被夺舍	Torne-se Possuído
-夺舍	Possuir
-接受传授	Aprender
-传授	Ensinar
-停留	Ficar
-跟随{0}	Seguir {0}
-沉睡	Dormir
-思考，剩余{0:N0}秒	Pensamento, {0:N0} sec restante
-觉醒灵智	Desperte a Inteligência
-觉醒灵智，剩余{0:N0}秒	Despertando a Inteligência, {0:N0} seg restantes
-文中含有敏感词汇，请斟酌后重书。	Contém palavras sensíveis. Reescreva e tente novamente.
-阵法运转	Operação de Matriz
-建造:{0}	Edifício: {0}
+收徒	Apprentice
+被夺舍	Become Possessed
+夺舍	Possess
+接受传授	Learn
+传授	Teach
+停留	Stay
+跟随{0}	Follow {0}
+沉睡	Sleep
+思考，剩余{0:N0}秒	Thinking, {0:N0} sec remaining
+觉醒灵智	Awaken Intelligence
+觉醒灵智，剩余{0:N0}秒	Awakening Intelligence, {0:N0} sec remaining
+文中含有敏感词汇，请斟酌后重书。	This contains sensitive words. Please rewrite and try again.
+阵法运转	Formation Operation
+建造:{0}	Build: {0}
 伐木	Cut Wood
 移除:{0}	Remove: {0}
 拆除:{0}	Demolish: {0}
@@ -1244,7 +1244,7 @@ _结局	_O fim
 拾取	Coleta
 放下:{0}	Abaixe: {0}
 抱起:{0}	Carregar: {0}
-种植:{0}	Plantar: {0}
+种植:{0}	Plant: {0}
 放下	Abaixe
 调查:{0}	Investigar: {0}
 安装建筑:{0}	Ereto: {0}
@@ -2024,9 +2024,9 @@ Name	Name
 行商{0}受人所托，愿使用{1}灵石换取一个{2}	O Mercador Viajante {0} recebeu a tarefa de trocar um {2} por {1} Pedras Espirituais.
 你失去了{0}\n你获得了灵石 X {1}	Você perdeu {0}.\nVocê obteve {1} Pedras Espirituais
 行商{0}受人所托，愿使用{1}换取一个{2}	O Comerciante Viajante {0} foi encarregado de trocar um {2} com {1}.
-购买物资	Comprar
-接受	Aceitar
-拒絕	Recusar
+购买物资	Purchase
+接受	Accept
+拒絕	Refuse
 天下行商	Comerciante Mundial
 迷惘的行商	Comerciante confuso
 点击次数:{0}	Cliques totais:{0}
@@ -2080,7 +2080,7 @@ Name	Name
 从井里打水。	Tire água do poço.
 点燃	Luz
 点燃烟花	Fogo de artifício leve
-放置物品	Colocar item
+放置物品	Place Item
 选择一个物品，将其放在置物台上。	Selecione um item e coloque-o no Display.
 取消放置	Cancelar veiculação
 取消放置建造蓝图中指定的物品。	Cancele a colocação do item selecionado do Planta.
@@ -2127,18 +2127,18 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 刷新设置	Atualizar configurações
 数量	Numero
 种族名字	Nome da raça
-禁用	Banir
+禁用	Ban
 禁用这个物品,小人不会对其发起主动交互。	Proibir o uso deste item. Os personagens não irão interagir com ele por conta própria.
-放置	Lugar
+放置	Place
 将物品的一个单位放置到置物台上。	Coloque um item no Display.
 角色会将该道具搬运至交易区。	O personagem irá mover o item para a área de comércio.
-熔炼	Cheiro
+熔炼	Smelt
 内门弟子将会尝试将这个物品熔炼为灵石。\n每5000灵气可以熔炼为一个灵石。 如果是法宝，则法宝的品阶越高，熔炼出的灵石越多。	Discípulos internos tentarão fundir este item em Pedras Espirituais.\nCada 5.000 Qi pode ser fundido em uma Pedra do Espírito. Artefatos de níveis mais altos concedem mais Qi.
 装备给与	Equip
 将这个装备给与一个角色，角色会自动前来装备。	Dê este equipamento a um personagem. O personagem irá recuperá-lo e equipá-lo automaticamente.
 {0}已经学过这本秘籍了	{0} já estudou este manual.
 {0}没有对应的装备槽位了	{0} não pode equipar este item.
-食用给与	Alimentação
+食用给与	Feed
 将这个物品给与一个角色，角色会自动前来食用。	Dê este item a um personagem. O personagem irá automaticamente recuperá-lo e comê-lo.
 归阵	Matriz de Junção
 搬运这个法宝并将其放置到阵法之中。	Transporte este artefato e coloque-o em uma Matriz.
@@ -2153,7 +2153,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 打开	Abrir
 打开看看里面放的是什么	Abra para ver o que tem dentro.
 删除此物品。	Excluir este item.
-移动到	Mover para
+移动到	Move To
 将物品移动到指定位置。	Mova o item para o local designado.
 系统用	Para o sistema
 删除此单位。	Excluir esta unidade.
@@ -2166,10 +2166,10 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 蕴养这株灵植，调整灵植的养成趋势，并借此收获一些珍稀材料。	Cultive esta planta espiritual e regule seu crescimento para obter materiais raros.
 使该植物着火。纯表现。	Coloque fogo na planta. Apenas para exibição.
 使该植物着火。	Coloque fogo na planta.
-仓库筛选	Filtro
+仓库筛选	Filter
 修改仓库储存类型	Altere o filtro de inventário.
-重新整理	Ordenar
-重新整理仓库	Ordenar o inventário.
+重新整理	Sort
+重新整理仓库	Ordenar inventário.
 删除区域	Delete
 删除这个区域	Delete this area.
 种植物	Grow Plants
@@ -2200,7 +2200,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 装备道具	Equip
 装备或者拾取一个道具	Equipar ou pegar um item
 拾取一个物品，注意这可能会惹别人生气。	Pegue um item. Pode irritar outras pessoas.
-画符	Desenhar
+画符	Draw
 绘制一张灵符。	Desenhe um talismã.
 将一个普通物品炼制成战斗法宝,需要[color=#FF0000]炼宝台[/color]。	Transforme um item comum em um artefato de batalha. Requer uma [color=#FF0000]Mesa de artesanato[/color].
 \n需要炼器等级:	\nRequer Criação de Artefato:
@@ -2223,7 +2223,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 搜索这个角色，获得他身上的道具。	Procure este personagem para adquirir itens.
 搬运并移动这个角色到指定地点。	Transporte este personagem para um local designado.
 埋葬这个尸体，需要选择一个空闲的墓地。	Selecione um cemitério vazio e enterre este cadáver.
-晋升内门	Promover
+晋升内门	Promote
 将这个筑基成功的弟子晋升到内门	Este discípulo foi bem sucedido em estabelecer sua fundação. Promova-os a discípulo interior.
 留下这个角色	Mantenha este personagem.
 门派弟子数量达到上限:{0}。\n你可以扩大门派规模或者将其他弟子踢出门派。	O número de discípulos atingiu o limite: {0}.\nVocê pode aumentar o tamanho de sua seita ou chutar outro discípulo.
@@ -2347,7 +2347,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 请选择一个要埋葬的角色	Selecione um personagem para ser enterrado.
 请选择一处水域	Selecione uma área de água.
 这将会打断当前工作，确认立即进行突破吗？	Fazê-lo vai parar o trabalho atual. Você quer inovar?
-瓶颈突破	Avanço
+瓶颈突破	Breakthrough
 这将会打断当前工作，确认立即进行渡劫吗？	Fazê-lo vai parar o trabalho atual. Você quer sobreviver à Tribulação?
 道行天劫	Tribulação de Realização
 寿元天劫	Tribulação da Vida
@@ -2484,7 +2484,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 {0}\n倍率：{1:N2}	{0}\nRate: {1:N2}
 飞升：{0:F0}人	Personagens Ascensionados: {0:F0}
 历练：{0:F0}次	Aventuras: {0:F0}
-炼丹：{0:F0}次	Alquimia: {0:F0}
+炼丹：{0:F0}次	Alchemy: {0:F0}
 炼宝：{0:F0}次	Artefatos Criados: {0:F0}
 画符：{0:F0}次	Talismãs desenhados: {0:F0}
 击杀生物：{0:F0}个	Criaturas mortas: {0:F0}
