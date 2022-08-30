@@ -1,29 +1,29 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Mood_BigFish">
-			<DisplayName>Caught a big fish.</DisplayName>
-			<Desc>Just caught a big fish and it felt good.</Desc>
-			<StoryDesc>Catching a big fish and it felt really nice</StoryDesc>
+			<DisplayName>Pegou um peixe grande.</DisplayName>
+			<Desc>Acabei de pegar um peixe grande e me senti bem.</Desc>
+			<StoryDesc>Pegar um peixe grande e foi muito bom</StoryDesc>
 		</Text>
 		<Text Name="Mood_BigBigFish">
-			<DisplayName>Caught a giant fish.</DisplayName>
-			<Desc>Just caught a giant fish and it felt good.</Desc>
-			<StoryDesc>Catching a giant fish and it felt very nice</StoryDesc>
+			<DisplayName>Pegou um peixe gigante.</DisplayName>
+			<Desc>Acabei de pegar um peixe gigante e me senti bem.</Desc>
+			<StoryDesc>Pegar um peixe gigante e foi muito bom</StoryDesc>
 		</Text>
 		<Text Name="Mood_BeFished">
-			<DisplayName>Caught.</DisplayName>
-			<Desc>Caught after taking the bait.</Desc>
-			<StoryDesc>Feeling a bit angry for being caught</StoryDesc>
+			<DisplayName>Apanhado.</DisplayName>
+			<Desc>Pego após morder a isca.</Desc>
+			<StoryDesc>Sentindo-se um pouco irritado por ter sido pego</StoryDesc>
 		</Text>
 		<Text Name="Mood_FishSmell">
-			<DisplayName>Stink</DisplayName>
-			<Desc>Ate Demon Flatfish, stinks</Desc>
-			<StoryDesc>eating Demon Flatfish, stinks</StoryDesc>
+			<DisplayName>Fedor</DisplayName>
+			<Desc>Comi Demon Flatfish, fede</Desc>
+			<StoryDesc>comendo Demon Flatfish, fede</StoryDesc>
 		</Text>
 		<Text Name="Mood_FishGood">
-			<DisplayName>Delicious</DisplayName>
-			<Desc>Ate Moonlight Fish, feels good</Desc>
-			<StoryDesc>eating Moonlight Fish, feels good</StoryDesc>
+			<DisplayName>Delicioso</DisplayName>
+			<Desc>Comeu Moonlight Fish, se sente bem</Desc>
+			<StoryDesc>comer Moonlight Fish, se sente bem</StoryDesc>
 		</Text>
 	</List>
 </Texts>

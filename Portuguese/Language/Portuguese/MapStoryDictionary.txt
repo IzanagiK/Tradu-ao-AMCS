@@ -1,13 +1,13 @@
 ﻿Key	Value
-分享码错误或者召唤失败，请重新再试	Código inválido ou falha na convocação, tente novamente
-请输入分享码	Digite o código de compartilhamento
-拍卖功能还未激活	Função de leilão ainda não ativada
-这一次拍卖还没开启	Leilão ainda não começou
-还有赎金没交,拍卖行拒绝了你	O dinheiro não foi enviado, a casa de leilões rejeitou você.
-[NAME]什么都不想做，还是离开这里吧。	[NAME] não queria fazer nada além de ir embora.
-他们被吓跑了，奇观建设继续进行。	Eles foram amedrontados, e então a construção de maravilhas continua.
-辩论旷日持久，最终也没有个结果，奇观建设被耽误了。	O debate se arrastou e, portanto, a construção foi adiada.
-他们骂了几句就走了，奇观建设继续进行。	Eles xingaram e foram embora, e assim a construção de maravilhas continua.
+分享码错误或者召唤失败，请重新再试	Invalid Code or Summon fail, try again
+请输入分享码	Enter Share code
+拍卖功能还未激活	Auction function not yet activated
+这一次拍卖还没开启	Auction has not yet begun
+还有赎金没交,拍卖行拒绝了你	Money has not been submitted, the auction house rejected you.
+[NAME]什么都不想做，还是离开这里吧。	[NAME] didn't want to do a thing but leave.
+他们被吓跑了，奇观建设继续进行。	They were frightened off, and so wonder construction continues.
+辩论旷日持久，最终也没有个结果，奇观建设被耽误了。	Debate dragged on, and so wonder construction was delayed.
+他们骂了几句就走了，奇观建设继续进行。	They swore and left, and so wonder construction continues.
 来的人越来越多，很多人甚至还对建筑设计评头论足，奇观建设被耽误了。	More and more came to critique the design, and so the consruction of the wonder was delayed.
 他们居然还责备我们不领情，奇观建设继续进行。估计他们明天也不会来了。	They left, accusing us of being ungrateful, and wonder construction continued. They probably won't come tomorrow either.
 他们说了好半天话，最终给了我们一朵纸做的红花，奇观建设被耽误了。	They talked for ages and gave us a badge made of paper, so the wonder construction was delayed.
@@ -670,13 +670,13 @@
 [NAME]尽情放纵，十分舒适。获得了5日的好心情。	[NAME] had a grand old time. Their mood would be great for the next 5 days.
 [NAME]在大竹林深处反复搜寻，终于在某个溪流边寻得这枚黑白相间的玉佩。	[NAME] searched carefully in the deep of the Great Bamboo Forest, and found this jade at the bank of a stream.
 玉佩碎裂之后，远处有一道天貊的气息飞了过来。	After the jade is broken, a breath of divine panda fly from far away.
-岐黄	Cura
-烹饪	Cozinhando
-版筑	Construção
-耕作	Agricultura
-采掘	Escavação
-雅艺	Artesanato
-巧匠	Construindo
+岐黄	Healing
+烹饪	Cooking
+版筑	Construction
+耕作	Farming
+采掘	Excavation
+雅艺	Artisanry
+巧匠	Crafting
 处世	Social
 [rand_lable=desc_time,desc_place,desc_weather]，[name]在垂钓时，突然心中一动，对%s一道又有感悟。	[rand_lable=desc_time,desc_place,desc_weather], [name] is fishing and suddenly have an Eureka about %s.
 {0}只将少量食物分给了路人，几乎没人通过这次活动认识我们。	{0} gave out a bit of food to passersby, but no one really got to know us as a result of this activity.
@@ -2006,13 +2006,14 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\")	GameUlt.KillBoss(\"Boss_Long\"
 请选择一个物品或者尸体	Select an Item or a Corpse
 可蕴养，当前目标:%s	Can be nurtured, current target: %s
 无法蕴养	Unable to nurture.
-
-
-
-
-
-
-
-
-
-
+[NAME]发现一年之期未满，造化玉籽并未凝结。只得离去。 	[NAME] discovered that the one-year period had not yet elapsed and so the Fortune Seed had not yet condensed. There was no other option but to depart.
+[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派法宝赠与[NAME]。	[NAME] ask the leader of [SCHOOL] for some good things, and the leader has to give [NAME] the sect artifact.
+[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派功法赠与[NAME]。	[NAME] ask the leader of [SCHOOL] for some good things, and the leader has to give [NAME] the sect manual.
+[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派宝物赠与[NAME]。	[NAME] ask the leader of [SCHOOL] for some good things, and the leader has to give [NAME] the sect treasure.
+[NAME]向蜀山表明来意，说有关于飞雷洞青莲祖师所遗留的传承之秘的消息想要商讨。然而蜀山却表示，其实破解飞雷洞的关键是祖师当年所炼一卷图册早已失传。蜀山为此寻觅数千年，事到如今也基本放弃了打算。如果能找到这册图卷，蜀山必有厚报。	[NAME] expressed his intention to Mt. Shu and said that he wanted to discuss the inheritance secret left by the ancestor Blue Lotus of Thunderclap cave. However, Mt. Shu said that the key to cracking the Thunderclap cave was that the atlas refined by the ancestor had long been lost. Mt. Shu has been searching for this for thousands of years, and now it has basically given up its plan. They will gift anyone who can take back the volume.
+[NAME]向蜀山表明来意，说有关于飞雷洞青莲祖师所遗留的传承之秘的消息想商讨。然而蜀山似乎对此早已见怪不怪，随意的将你应付了过去。	[NAME] expressed [ITS] intention to Mt.Shu and said that [IT] wanted to discuss the secret of inheritance left by the ancestor Blue Lotus of Thunderclap cave. However, Mt. Shu seems to have taken it for granted and dealt with [ENHIM] at will.
+[NAME]考虑到此事事关重大，以目前本门和青莲剑宗的关系而言，还是不提为妙。	[NAME] considered the importance of this matter, and it's better not to mention it in terms of the current relationship between our school and Blue Lotus Temple.
+[NAME]向蜀山递交了四象遮天图。蜀山众人惊喜万分，万万没想到早已放弃希望的事情居然会有转机。蜀山掌门直言欠[NAME]的门派天大的人情！	[NAME] submitted the Painting of the Four Symbols to Mt. Shu. People in Mt. Shu were pleasantly surprised. They never expected that things that had given up hope would turn for the better. The leader of Mt Shu frankly said that he owed [NAME] a great favor!
+[NAME]被封为座上宾，直到数天后，蜀山将四象遮天图还回，而后[NAME]离开了蜀山	[NAME] was honored as a guest of honor. A few days later, Mt. Shu returned the Painting of the Four Symbols, and then [NAME] left Mt. Shu.
+获得100点青莲剑宗人情。	Gain 100 connections of Blue Lotus Temple.
+[NAME]身上并没携带此物。	[NAME] do not carry this.
