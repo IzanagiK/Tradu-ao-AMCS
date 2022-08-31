@@ -2143,15 +2143,15 @@ Conquer them, gain your fame!</string>
 	<string name="0xrxw6g7msvn2ovso-n223_ua9y-0" mz="Head">Divine Realm Guards</string>
 	<string name="0xrxw6g7msvn2ovso-n223_ua9y-1" mz="Head">Core Follower</string>
 	<string name="0xrxw6g7msvn2ovso-n229_cqca" mz="beginlisten">Listen</string>
-	<string name="0xrxw6g79fbec4-n88_9fbe" mz="frame">Help</string>
+	<string name="0xrxw6g79fbec4-n88_9fbe" mz="frame">Ajuda</string>
 	<string name="0xrxw6g79fbec4-n94_9fbe" mz="Text">[img]ui/Help/001[/img]</string>
 	<string name="0xrxw6g79fbec4-n96_ea74" mz="boss">Bestiary</string>
 	<string name="0xrxw6g79fbec4-n97_vn1e" mz="search">Search</string>
 	<string name="0xrxw6g79fbec4-n98_vn1e-prompt" mz="F">Search</string>
-	<string name="0xrxw6g7ic0m35-n15_s29t" mz="frame">New Game</string>
+	<string name="0xrxw6g7ic0m35-n15_s29t" mz="frame">Novo Jogo</string>
 	<string name="0xrxw6g7ic0m35-n27_f5tj" mz="n27">Okay</string>
-	<string name="0xrxw6g7ic0m35-n30_f5tj" mz="n30">Yes</string>
-	<string name="0xrxw6g7ic0m35-n31_f5tj" mz="n31">No</string>
+	<string name="0xrxw6g7ic0m35-n30_f5tj" mz="n30">Sim</string>
+	<string name="0xrxw6g7ic0m35-n31_f5tj" mz="n31">Não</string>
 	<string name="0xrxw6g7ic0m35-n64_gsdn" mz="input2">Make some noise.</string>
 	<string name="0xrxw6g7ic0m35-n50_u2ni" mz="input">Make some noise.</string>
 	<string name="0xrxw6g7ic0m35-n44_xtpi-tips" mz="SuffixBnt">You will unlock more suffixes as your sect grows.</string>
@@ -2275,11 +2275,11 @@ Conquer them, gain your fame!</string>
 	<string name="0xrxw6g7do0z3b-n27_sz06" mz="n27">Confirm</string>
 	<string name="0xrxw6g7do0z3b-n35_sz06" mz="n35">Select:</string>
 	<string name="0xrxw6g7f4upcl-n90_f4up" mz="frame">Settings</string>
-	<string name="0xrxw6g7f4upcl-n92_f4up" mz="n92">Music</string>
+	<string name="0xrxw6g7f4upcl-n92_f4up" mz="n92">Música</string>
 	<string name="0xrxw6g7f4upcl-n94_f4up" mz="n94">SFX</string>
 	<string name="0xrxw6g7f4upcl-n97_f4up" mz="n97">HUD Zoom</string>
 	<string name="0xrxw6g7f4upcl-n108_in78" mz="n108">Auto Save</string>
-	<string name="0xrxw6g7f4upcl-n115_vizc" mz="n115">Screen</string>
+	<string name="0xrxw6g7f4upcl-n115_vizc" mz="n115">Tela</string>
 	<string name="0xrxw6g7f4upcl-n116_ta1v" mz="n116">You can't change resolution while in a game.</string>
 	<string name="0xrxw6g7f4upcl-n132_n7j0" mz="n132">BGM Cycle</string>
 	<string name="0xrxw6g7f4upcl-n136_bfm8" mz="n136">Sort Disps</string>
@@ -2310,38 +2310,38 @@ Conquer them, gain your fame!</string>
 	<string name="0xrxw6g7f4upcl-n105_f4up" mz="n105">Reset</string>
 	<string name="0xrxw6g7f4upcl-n123_uuyi-tips" mz="n123">Click to reset tutorial tips</string>
 	<string name="0xrxw6g7f4upcl-n123_uuyi" mz="n123">Reset tips</string>
-	<string name="0xrxw6g7f4upcl-n117_kn11-tips" mz="n117">Disable tutorial voiceover</string>
-	<string name="0xrxw6g7f4upcl-n117_kn11" mz="n117">Disable tutorial voiceover</string>
-	<string name="0xrxw6g7f4upcl-n118_4z9v-tips" mz="n118">When selected, character names will be always shown on screen.</string>
-	<string name="0xrxw6g7f4upcl-n118_4z9v" mz="n118">Show character names</string>
-	<string name="0xrxw6g7f4upcl-n121_n0xf-tips" mz="n121">When selected, time of the mortal realm will be shown at the bottom-left corner.</string>
-	<string name="0xrxw6g7f4upcl-n121_n0xf" mz="n121">Show real time</string>
-	<string name="0xrxw6g7f4upcl-n125_gbiq-tips" mz="n125">When selected, a character's title will be shown below their name.</string>
-	<string name="0xrxw6g7f4upcl-n125_gbiq" mz="n125">Show character titles</string>
-	<string name="0xrxw6g7f4upcl-n127_hu2p-tips" mz="n127">When checked, the game will still play sounds when running in background.</string>
-	<string name="0xrxw6g7f4upcl-n127_hu2p" mz="n127">Game sound in background</string>
-	<string name="0xrxw6g7f4upcl-n129_xip1-tips" mz="n130">When enabled, grid lines will be shown when constructing buildings.</string>
-	<string name="0xrxw6g7f4upcl-n129_xip1" mz="n130">Construction grid</string>
-	<string name="0xrxw6g7f4upcl-n130_j8m6-tips" mz="n129">When enabled, greatly enhances the game's late-game performance. This feature is still under development and testing.</string>
+	<string name="0xrxw6g7f4upcl-n117_kn11-tips" mz="n117">Desativar a narração do tutorial</string>
+	<string name="0xrxw6g7f4upcl-n117_kn11" mz="n117">Desativar locução do tutorial</string>
+	<string name="0xrxw6g7f4upcl-n118_4z9v-tips" mz="n118">Quando selecionado, os nomes dos personagens sempre serão mostrados na tela.</string>
+	<string name="0xrxw6g7f4upcl-n118_4z9v" mz="n118">Exibir nomes de personagens</string>
+	<string name="0xrxw6g7f4upcl-n121_n0xf-tips" mz="n121">Quando selecionado, o tempo do reino mortal será mostrado no canto inferior esquerdo.</string>
+	<string name="0xrxw6g7f4upcl-n121_n0xf" mz="n121">Exibir em tempo real</string>
+	<string name="0xrxw6g7f4upcl-n125_gbiq-tips" mz="n125">Quando selecionado, o título de um personagem será mostrado abaixo de seu nome.</string>
+	<string name="0xrxw6g7f4upcl-n125_gbiq" mz="n125">Exibir títulos</string>
+	<string name="0xrxw6g7f4upcl-n127_hu2p-tips" mz="n127">Quando marcado, o jogo ainda reproduzirá sons ao ser executado em segundo plano.</string>
+	<string name="0xrxw6g7f4upcl-n127_hu2p" mz="n127">Som em segundo plano</string>
+	<string name="0xrxw6g7f4upcl-n129_xip1-tips" mz="n130">Quando ativado, as linhas de grade serão mostradas ao construir edifícios.</string>
+	<string name="0xrxw6g7f4upcl-n129_xip1" mz="n130">Grade de construção</string>
+	<string name="0xrxw6g7f4upcl-n130_j8m6-tips" mz="n129">Quando ativado, aumenta muito o desempenho do jogo no final do jogo. Este recurso ainda está em desenvolvimento e testes.</string>
 	<string name="0xrxw6g7f4upcl-n130_j8m6" mz="n129">Pipelined multithreading*</string>
-	<string name="0xrxw6g7f4upcl-n131_vbb9-tips" mz="n131">When enabled, thought bubbles will be shown when a character gets a new memory.</string>
-	<string name="0xrxw6g7f4upcl-n131_vbb9" mz="n131">Memory bubbles</string>
-	<string name="0xrxw6g7f4upcl-n144_njap-tips" mz="n144">When enabled, the cursor will be locked within the window in game scenes. Only valid in windowed mode.</string>
-	<string name="0xrxw6g7f4upcl-n144_njap" mz="n144">Lock Cursor</string>
-	<string name="0xrxw6g7f4upcl-n145_h7i1-tips" mz="n145">When enabled, it speeds up the process of saving game, but the size of saved files will be considerable larger.</string>
-	<string name="0xrxw6g7f4upcl-n145_h7i1" mz="n145">Fast Saving</string>
-	<string name="0xrxw6g7f4upcl-n150_hasi-tips" mz="n150">Developer mode will active console(CTRL+F8) and Map Edit.</string>
-	<string name="0xrxw6g7f4upcl-n150_hasi" mz="n150">Developer Mode</string>
-	<string name="0xrxw6g7f4upcl-n151_x7ji-tips" mz="n151">Use system cursor</string>
-	<string name="0xrxw6g7f4upcl-n151_x7ji" mz="n151">System Cursor</string>
-	<string name="0xrxw6g7f4upcl-n161_pjlu-tips" mz="n161">If overlapping targets are selected when this is activated, it will open a multi-target selection panel.</string>
-	<string name="0xrxw6g7f4upcl-n161_pjlu" mz="n161">Multi-target Select</string>
-	<string name="0xrxw6g7f4upcl-n162_pjlu-tips" mz="n162">After this is activated, there will be a Swift Mode in the game speed list. In this mode time will flow swiftly.</string>
-	<string name="0xrxw6g7f4upcl-n162_pjlu" mz="n162">Swift Mode</string>
-	<string name="0xrxw6g7f4upcl-n106_f4up" mz="n106">HUD zoom will take effect after restarting the game.</string>
+	<string name="0xrxw6g7f4upcl-n131_vbb9-tips" mz="n131">Quando ativado, balões de pensamento serão mostrados quando um personagem receber uma nova memória.</string>
+	<string name="0xrxw6g7f4upcl-n131_vbb9" mz="n131">Bolhas de memória</string>
+	<string name="0xrxw6g7f4upcl-n144_njap-tips" mz="n144">Quando ativado, o cursor ficará bloqueado dentro da janela nas cenas do jogo. Válido apenas no modo janela.</string>
+	<string name="0xrxw6g7f4upcl-n144_njap" mz="n144">Bloquear Cursor</string>
+	<string name="0xrxw6g7f4upcl-n145_h7i1-tips" mz="n145">Quando ativado, acelera o processo de salvar o jogo, mas o tamanho dos arquivos salvos será consideravelmente maior.</string>
+	<string name="0xrxw6g7f4upcl-n145_h7i1" mz="n145">Salvamento Rápido</string>
+	<string name="0xrxw6g7f4upcl-n150_hasi-tips" mz="n150">O modo de desenvolvedor ativará o console (CTRL+F8) e a edição do mapa.</string>
+	<string name="0xrxw6g7f4upcl-n150_hasi" mz="n150">Modo de desenvolvedor</string>
+	<string name="0xrxw6g7f4upcl-n151_x7ji-tips" mz="n151">Usar cursor do sistema</string>
+	<string name="0xrxw6g7f4upcl-n151_x7ji" mz="n151">Cursor do sistema</string>
+	<string name="0xrxw6g7f4upcl-n161_pjlu-tips" mz="n161">Se alvos sobrepostos forem selecionados quando ativado, ele abrirá um painel de seleção de vários alvos.</string>
+	<string name="0xrxw6g7f4upcl-n161_pjlu" mz="n161">Seleção de vários alvos</string>
+	<string name="0xrxw6g7f4upcl-n162_pjlu-tips" mz="n162">Depois que isso for ativado, haverá um modo RAPIDO na lista de velocidade do jogo. Neste modo o tempo fluirá rapidamente.</string>
+	<string name="0xrxw6g7f4upcl-n162_pjlu" mz="n162">Modo Rápido</string>
+	<string name="0xrxw6g7f4upcl-n106_f4up" mz="n106">O zoom do HUD terá efeito após reiniciar o jogo.</string>
 	<string name="0xrxw6g7f4upcl-n111_in78" mz="n111">30 min</string>
-	<string name="0xrxw6g7f4upcl-n113_vizc" mz="n113">Resolution</string>
-	<string name="0xrxw6g7f4upcl-n110_in78-tips" mz="save">Autosave Interval</string>
+	<string name="0xrxw6g7f4upcl-n113_vizc" mz="n113">Resolução</string>
+	<string name="0xrxw6g7f4upcl-n110_in78-tips" mz="save">Intervalo de salvamento automático</string>
 	<string name="0xrxw6g7f4upcl-n133_n7j0" mz="bgmtimetxt">3 Days</string>
 	<string name="0xrxw6g7f4upcl-n134_n7j0-tips" mz="BGM">Interval</string>
 	<string name="0xrxw6g7f4upcl-n135_bfm8-tips" mz="n135">Sorting order of disciples' names.</string>
@@ -2359,19 +2359,18 @@ Conquer them, gain your fame!</string>
 	<string name="0xrxw6g7f4upcl-n155_u1ro-2" mz="n155">90FPS</string>
 	<string name="0xrxw6g7f4upcl-n155_u1ro-3" mz="n155">120FPS</string>
 	<string name="0xrxw6g7f4upcl-n155_u1ro-4" mz="n155">240FPS</string>
-	<string name="0xrxw6g7f4upcl-n155_u1ro-5" mz="n155">No Limit</string>
-	<string name="0xrxw6g7f4upcl-n157_r4gy-tips" mz="n157">Change voice language</string>
+	<string name="0xrxw6g7f4upcl-n155_u1ro-5" mz="n155">Sem limite</string>
+	<string name="0xrxw6g7f4upcl-n157_r4gy-tips" mz="n157">Alterar idioma de voz</string>
 	<string name="0xrxw6g7f4upcl-n157_r4gy" mz="n157">Voice Language</string>
 	<string name="0xrxw6g7f4upcl-n157_r4gy-0" mz="n157">Chinese</string>
 	<string name="0xrxw6g7f4upcl-n157_r4gy-1" mz="n157">English</string>
-	<string name="0xrxw6g7f4upcl-n158_emze-tips" mz="n158">Change Temperature Unit</string>
-	<string name="0xrxw6g7f4upcl-n158_emze" mz="n158">Temperature Unit</string>
+	<string name="0xrxw6g7f4upcl-n158_emze-tips" mz="n158">Alterar unidade de temperatura</string>
+	<string name="0xrxw6g7f4upcl-n158_emze" mz="n158">Unidade de temperatura</string>
 	<string name="0xrxw6g7f4upcl-n158_emze-0" mz="n158">℃(Celsius)</string>
 	<string name="0xrxw6g7f4upcl-n158_emze-1" mz="n158">℉(Fahrenheit)</string>
 	<string name="0xrxw6g7f4upcl-n156_r4gy" mz="n156">Voice
 Language</string>
-	<string name="0xrxw6g7f4upcl-n159_emze" mz="n159">Temperature
-Unit</string>
+	<string name="0xrxw6g7f4upcl-n159_emze" mz="n159">Unidade de temperatura</string>
 	<string name="0xrxw6g7f4upcl-n149_iiau-tips" mz="LagSelect">Language</string>
 	<string name="0xrxw6g7f4upcl-n160_fkmf-tips" mz="n160">Hotkey Settings</string>
 	<string name="0xrxw6g7f4upcl-n160_fkmf" mz="n160">Hotkey</string>
