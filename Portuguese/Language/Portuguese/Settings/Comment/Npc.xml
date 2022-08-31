@@ -2,17 +2,17 @@
 	<List>
 		<Text Name="NpcDiscipleOfJinDan">
 			<Notes>Painel de comentários do Cultivador Xiandão</Notes>
-			<Title>Cultivador Xiandão</Title>
+			<Title>Xiandao Cultivator</Title>
 			<Desc>Um cultivador que treina com a Lei do coração Dourado na busca pelos caminhos dos imortais. Embora os Cultivadores de Xiandão tenham escolhido uma Lei difícil, e uma Lei de grandeza que realmente da a você uma compreensão abrangente do mundo que leva a liberação final. Embora sua forca individual seja limitada, eles podem lutar em formações para enfrentar o inimigo com a força combinada das massas. Alem disso, eles se destacam na alquimia e no desenho de Talismãs, transformando a natureza com varias técnicas milagrosas. Eles são, sem duvida, a corrente principal do mundo do cultivo.</Desc>
 		</Text>
 		<Text Name="NpcDiscipleOfGod">
 			<Notes>Painel de comentários do Cultivador Shendao</Notes>
-			<Title>Cultivador Shendao</Title>
+			<Title>Shendao Cultivator</Title>
 			<Desc>Cultivadores que reúnem o poder da crença das massas em busca dos caminhos dos deuses. Embora sejam muito poderosos, pois podem obter poder indefinidamente das crenças infinitas, eles perderão irreversivelmente suas identidades no processo por serem dominados por crenças e, eventualmente, se tornarem deuses puros.</Desc>
 		</Text>
 		<Text Name="NpcDiscipleOfBody">
 			<Notes>Painel de comentários do cultivador físico</Notes>
-			<Title>cultivador físico</Title>
+			<Title>Physical Cultivator</Title>
 			<Desc>Lei do cultivo que remonta aos tempos antigos. Aproveite a essência entre o céu e a terra para refinar seu corpo mortal em um imortal. Os Cultivadores físicos são bons na luta, eles enfatizam o uso da forca no cultivo. Mesmo os iniciantes, depois de concluirem os cursos introdutorios, podem rapidamente se tornar poderosos em combate. No entanto, a forma de refinamento do corpo e focada exclusivamente no proprio corpo, ele continua absorvendo as energias entre o céu e a terra, mas dando pouco em troca. Como resultado, e difícil que seu numero cresça. Com o passar do tempo, acabou se tornando muito difícil para eles competir com os cultivadores Xiandão em Ascenção, portanto, eles gradualmente entraram em declínio.</Desc>
 		</Text>
 		<Text Name="NpcWaiMen">
@@ -22,7 +22,7 @@
 		</Text>
 		<Text Name="NpcDaNeng">
 			<Notes>Painel de comentários do mestre</Notes>
-			<Title>Cultivador Ancião</Title>
+			<Title>Ancient Cultivator</Title>
 			<Desc>Os cultivadores que adormeceram devido a seca de Qi nos tempos antigos agora despertaram e retornaram. Eles são muito poderosos.</Desc>
 		</Text>
 		<Text Name="NpcPuppet">
@@ -32,12 +32,12 @@
 		</Text>
 		<Text Name="NpcZombie">
 			<Notes>Painel de comentários de zumbi</Notes>
-			<Title>Zumbi</Title>
+			<Title>Zombie</Title>
 			<Desc>Devido ao mau Feng Shui, alguns dos falecidos se transformaram em seres sem mente famintos por sangue.</Desc>
 		</Text>
 		<Text Name="NpcTeacher">
 			<Notes>Painel de comentários do Cultivador Misterioso</Notes>
-			<Title>Cultivador Misterioso</Title>
+			<Title>Mysterious Cultivator</Title>
 		</Text>
 	</List>
 </Texts>
