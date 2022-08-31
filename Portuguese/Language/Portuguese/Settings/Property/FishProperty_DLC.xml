@@ -1,14 +1,14 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="FishTimes">
-			<DisplayName>Peixe pescado</DisplayName>
+			<DisplayName>Caught Fish</DisplayName>
 			<DisplayValue>{0}</DisplayValue>
-			<Desc>O número de peixes que este cultivador pescou.</Desc>
+			<Desc>The number of fish that this cultivator has caught.</Desc>
 		</Text>
 		<Text Name="HeaviestFish">
-			<DisplayName>Peixe Mais Pesado</DisplayName>
+			<DisplayName>Heaviest Fish</DisplayName>
 			<DisplayValue>{0:f1} Catties</DisplayValue>
-			<Desc>O peso do peixe mais pesado que este cultivador pescou.</Desc>
+			<Desc>The weight of the heaviest fish that this cultivator has caught.</Desc>
 		</Text>
 	</List>
 </Texts>

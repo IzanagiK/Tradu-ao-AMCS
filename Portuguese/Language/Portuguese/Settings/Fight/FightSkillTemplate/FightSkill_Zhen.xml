@@ -2,19 +2,19 @@
 	<List>
 		<Text Name="ChangeZhen">
 			<DisplayName>Change Formation</DisplayName>
-			<Tip>Mude uma formação para cobrir auxiliares expostos.</Tip>
+			<Tip>Change a formation to cover exposed auxiliaries.</Tip>
 		</Text>
 		<Text Name="CancelZhen">
 			<DisplayName>Disband</DisplayName>
-			<Tip>Desfaz a formação. Depois de dissolver uma formação, algum tempo deve passar antes que uma nova formação possa ser formada.</Tip>
+			<Tip>Disbands the formation. After disbanding a formation, some time must pass before a new formation can be formed.</Tip>
 		</Text>
 		<Text Name="JointJian">
 			<DisplayName>Joint Artifact</DisplayName>
-			<Tip>Todos combinam seu Qi para controlar o artefato do pilar de formação e recarrega-lo com Qi, aumentando drasticamente o Poder do Artefato de acordo com o Bonus de Poder de Maestria da Espada da formação. Todos na formação compartilham o custo do Qi.</Tip>
+			<Tip>Everyone combines their Qi in order to control the formation pillar's artifact and refill it with Qi, drastically boosting the Artifact Power according to the formation's Sword Mastery Power Bonus. Everyone in the formation shares the Qi cost.</Tip>
 		</Text>
 		<Text Name="JointSkill">
 			<DisplayName>Joint Spell</DisplayName>
-			<Tip>Todos combinam seu Qi para ajudar o pilar de formação a lancar o proximo feitico, aumentando seu poder. O aumento de poder esta relacionado ao Bonus de Poder de Feitico da formação. Todos na formação compartilham o custo do Qi.</Tip>
+			<Tip>Everyone combines their Qi in order to help the formation pillar cast the next spell, boosting its power. The power increase is related to the formation's Spell Power Bonus. Everyone in the formation shares the Qi cost.</Tip>
 		</Text>
 		<Text Name="ZhenTempAura">
 			<DisplayName>Heat Up</DisplayName>
@@ -36,49 +36,49 @@
 		</Text>
 		<Text Name="FightSkill_Zhen_RevealZhen1">
 			<DisplayName>Heavenly Derivation</DisplayName>
-			<HeadMsg>Selecione um auxiliar inimigo.</HeadMsg>
-			<Tip>Segue o padrão do Stone Sentinel Maze para atacar os pontos fracos da formação do alvo. Diminui sua estabilidade e tem chance de expor seus auxiliares.</Tip>
+			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
+			<Tip>Follows the pattern of the Stone Sentinel Maze to attack the weak points of the target formation. Lowers its stability and has a chance of exposing its auxhilaries.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_RevealZhen2">
 			<DisplayName>Battle Aloofness</DisplayName>
-			<Tip>Causa uma grande quantidade de dano de Qi ao alvo.</Tip>
+			<Tip>Deals a huge amount of Qi damage to the target.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenShield1">
 			<DisplayName>Domain of Five Peaks</DisplayName>
-			<Tip>Crie um domínio medindo um raio de 5 metros ao redor do ponto alvo e use o Qi da formação para se defender.</Tip>
+			<Tip>Create a domain spanning a 5-meter radius around the target point and use the formation's Qi to defend.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenShield2">
 			<DisplayName>Domain of Vastness</DisplayName>
-			<Tip>Crie um domínio que mede um raio de 12 metros ao redor do ponto alvo e use o Qi da formação para se defender.</Tip>
+			<Tip>Create a domain spanning a 12-meter radius around the target point and use the formation's Qi to defend.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenArea1">
 			<DisplayName>Domain of Wood Essence</DisplayName>
-			<Tip>Crie um domínio abrangendo um raio de 8 metros ao redor do ponto de destino. Fertiliza o solo interno e aumenta a resiliência natural de personagens aliados.</Tip>
+			<Tip>Create a domain spanning an 8-meter radius around the target point. Fertilizes the soil inside and increases the natural resilience of allied characters.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenArea2">
 			<DisplayName>Domain of Heavenly Serenity</DisplayName>
-			<Tip>Crie um domínio abrangendo um raio de 8 metros ao redor do ponto de destino. Aumenta o estado mental, humor e velocidade de cultivo de personagens aliados dentro do domínio.</Tip>
+			<Tip>Create a domain spanning an 8-meter radius around the target point. Increases the mental state, mood, cultivation speed of allied characters inside the domain.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointJian1">
 			<DisplayName>Divine Sword of Phoenix</DisplayName>
-			<Tip>Todos combinam seu Qi para controlar o artefato do pilar de formação e recarrega-lo com Qi, aumentando drasticamente o Poder do Artefato de acordo com o Bonus de Poder de Maestria da Espada da formação. Todos na formação compartilham o custo do Qi.</Tip>
+			<Tip>Everyone combines their Qi in order to control the formation pillar's artifact and refill it with Qi, drastically boosting the Artifact Power according to the formation's Sword Mastery Power Bonus. Everyone in the formation shares the Qi cost.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointSkill1">
 			<DisplayName>Divine Dragonroar</DisplayName>
-			<Tip>Todos combinam seu Qi para ajudar o pilar de formação a lancar o proximo feitico, aumentando seu poder. O aumento de poder esta relacionado ao Bonus de Poder de Feitico da formação. Todos na formação compartilham o custo do Qi.</Tip>
+			<Tip>Everyone combines their Qi in order to help the formation pillar cast the next spell, boosting its power. The power increase is related to the formation's Spell Power Bonus. Everyone in the formation shares the Qi cost.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_Stability1">
 			<DisplayName>Divine Obliteration</DisplayName>
-			<HeadMsg>Selecione um auxiliar inimigo.</HeadMsg>
-			<Tip>Causa uma grande quantidade de danos a estabilidade da formação do inimigo.</Tip>
+			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
+			<Tip>Deals a huge amount of damage to the enemy's formation stability.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_Stability2">
 			<DisplayName>Nirvana</DisplayName>
-			<Tip>Recupera a estabilidade da formação.</Tip>
+			<Tip>Recovers formation stability.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhuXian">
 			<DisplayName>Ragestriker</DisplayName>
-			<Tip>Apos um pequeno atraso, causa uma grande quantidade de dano de Qi aos inimigos em um raio de 12 metros do ponto alvo.</Tip>
+			<Tip>After a short delay, deals a huge amount of Qi damage to enemies within a 12-meter radius of the target point.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_BDPW_MissileBase">
 			<DisplayName>Battle Aloofness Bullets</DisplayName>

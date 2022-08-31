@@ -1,70 +1,69 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts Type="Other">
+﻿<Texts Type="Other">
 	<List>
 		<Text Name="Esoterica_SYS_LOST">
 			<DisplayName>Empty</DisplayName>
-			<Desc>Um edifício perdido que ninguém reconhece. \n(Empty)</Desc>
-			<EffectDesc>Nenhum</EffectDesc>
+			<Desc>A lost building that nobody recognizes. \n(Empty)</Desc>
+			<EffectDesc>None</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui1">
 			<DisplayName>Wild Punch</DisplayName>
-			<Desc>Manual secreto milagroso dos tempos modernos, permite alcançar o rejuvenescimento físico.</Desc>
-						<EffectDesc>Increases Perception by 10%.\nIncreases Intelligence by 10%.\nIncreases Luck by 10%.</EffectDesc>
+			<Desc>Miraculous secret manual from modern times, it allows one to achieve physical rejuvenation.</Desc>
+			<EffectDesc>Increases Perception by 10%.\nIncreases Intelligence by 10%.\nIncreases Luck by 10%.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui2">
 			<DisplayName>Awakened Heart</DisplayName>
-			<Desc>Manual secreto milagroso dos tempos modernos, permite concentrar o Qi na cabeça, estimulando o processo de pensamento e melhorando a Inteligência.E...</Desc>
+			<Desc>Miraculous secret manual from modern times, it allows one to concentrate Qi in one's head, stimulating thought process and improving Intelligence. And...</Desc>
 			<EffectDesc>Increases Perception by 10%.\nIncreases Intelligence by 10%.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui3">
 			<DisplayName>Incredible Force</DisplayName>
-			<Desc>Técnica final exclusiva de Dugu Xing, permite que alguém de repente exploda com um poder incrível.</Desc>
+			<Desc>Ultimate technique unique to Dugu Xing, it allows one to suddenly burst out with incredible power.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Incredible Force\nUltimate technique unique to Dugu Xing, it allows one to suddenly burst out with incredible power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui4">
 			<DisplayName>Kunlun Immortal's Law</DisplayName>
-			<Desc>Técnica secreta passada de um imortal desconhecido na Montanha Kunlun, melhora a Inteligência e a Constituição.</Desc>
+			<Desc>Secret technique passed on from an unknown immortal in the Kunlun Mountain, it improves one's Intelligence and Constitution.</Desc>
 			<EffectDesc>Increases Intelligence by 10%.\nIncreases Constitution by 10%.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui5">
 			<DisplayName>Prayer Talisman</DisplayName>
-			<Desc>Encantamento que faz as pessoas se sentirem seguras e felizes.</Desc>
+			<Desc>Incantation that makes people feel safe and happy.</Desc>
 			<EffectDesc>Unlock Talisman: \nPrayer Talisman</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DanXia1">
 			<DisplayName>Evening Glow of Pines</DisplayName>
-			<Desc>Habilidade milagrosa inspirada no cenário de penhascos verdejantes em Mt. Sunshade, aumenta o dano do feitiço.</Desc>
-			<EffectDesc>Aumenta o dano mágico</EffectDesc>
+			<Desc>Miraculous skill inspired by the scenery of verdant cliffs on Mt. Sunshade, it increases one's Spell damage.</Desc>
+			<EffectDesc>Increases Spell damage</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DanXia2">
 			<DisplayName>Violet Clouds</DisplayName>
-			<Desc>Técnica milagrosa inspirada no cenário de penhascos verdejantes no Monte Sunshade, a prática de longo prazo ajusta o Estado Mental e estabiliza o Qi primitivo.</Desc>
+			<Desc>Miraculous technique inspired by the scenery of verdant cliffs on Mt. Sunshade, long-term practice of it adjusts one's Mental State and stabilizes one's primeval Qi.</Desc>
 			<EffectDesc>Improves Mental State.\nExtends Lifespan.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DengXian1">
 			<DisplayName>Secret Eastern Codex (Purple Star Sword)</DisplayName>
-			<Desc>Habilidade de espada final inventada pelo Imperador Imortal do Oriente.Aproveite o poder imperial que habita a Estrela Púrpura com seu espírito primordial e integre-o à aura da espada, tornando-a absolutamente imparável.Este volume também registrou a receita de artesanato para Borealis, um artefato legado inventado pelo Imperador Imortal do Oriente.</Desc>
+			<Desc>Ultimate sword skill invented by the Immortal Emperor of the East. Harness the imperial power dwelling in the Purple Star with your primordial spirit and integrate it into sword aura, making it absolutely unstoppable. This volume also recorded the crafting recipe for Borealis, a Legacy Artifact invented by Immortal Emperor of the East.</Desc>
 			<EffectDesc>Significantly increases Artifact Power.\n Acquire Legacy Artifact: \nBorealis</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_JiuHua">
 			<DisplayName>Codex of Dragon and Phoenix</DisplayName>
-			<Desc>Técnica secreta inventada por antigos sábios, que se inspiraram analisando a forma como o Qi interno circula dentro de dragões e fênix.Dominar esta técnica permite transformar o corpo mortal em um dragão e fênix, melhorando as qualidades físicas.</Desc>
+			<Desc>Secret technique invented by ancient sages, who were inspired by analyzing the way the inner Qi circulate within dragons and phoenixes. Mastering this technique allows one to transform one's mortal body into that of a dragon and phoenix, improving physical qualities.</Desc>
 			<EffectDesc>Increases Perception by 10%.\nIncreases Constitution by 10%.\nIncreases Charisma by 10%.\nIncreases Intelligence by 10%.\nExtends Lifespan.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongHu1">
 			<DisplayName>Flowing Sword Will</DisplayName>
-			<Desc>Sword Will inspirado observando o cenário de um arco-íris branco quebrando pedras nas Cataratas Skypass em Mt. Tiger Paw.Integrando-o em sua habilidade de espada aumenta massivamente o poder de impacto do Artefato.</Desc>
-			<EffectDesc>Melhora o impacto do artefato</EffectDesc>
+			<Desc>Sword Will inspired by observing the scenery of a white rainbow splitting stones at the Skypass Falls in Mt. Tiger Paw. Integrating it within your sword skill massively increase Artifact impact power.</Desc>
+			<EffectDesc>Improves Artifact Impact</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongHu2">
 			<DisplayName>Flying Creek</DisplayName>
-			<Desc>Técnica de respiração inspirada na observação da paisagem nas Cataratas Skypass no Monte Tiger Paw, aumenta sua taxa de recuperação de Qi.</Desc>
-			<EffectDesc>Aumenta a taxa de recuperação de Qi</EffectDesc>
+			<Desc>Breathing technique inspired by observing the scenery at the Skypass Falls on Mt. Tiger Paw, it increases your Qi Recovery Rate.</Desc>
+			<EffectDesc>Increases Qi recovery rate</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan">
 			<DisplayName>Craftsmanship of Earthly Fire</DisplayName>
 			<Desc>Secret crafting method passed down from the ancient immortal Nangong Hong, employing it greatly improves Success Rate when crafting artifacts. \n[color=#D06508]This is in appreciation of the first player to successfully Survive Tribulation: Emerald Palace[/color]</Desc>
-			<EffectDesc>Aumenta significativamente a taxa de sucesso ao criar artefatos.</EffectDesc>
+			<EffectDesc>Significantly increases Success Rate when crafting artifacts.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan1">
 			<DisplayName>Secret Record of Nangong's Tribulation Survival</DisplayName>
@@ -74,51 +73,51 @@
 		<Text Name="Other_Esoterica_XuanKong">
 			<DisplayName>Way of Heavenly Fortune</DisplayName>
 			<Desc>A heaven defying and fortune reversing technique discovered by the ancient immortal Yuan Ruoxue who drew her inspiration from the Heavenly Tribulation itself. Greatly improves Luck. \n[color=#D06508]This is in appreciation of the first player to successfully challenge destiny with a character of the lowest talent, who eventually shaped Tier I Core and ascended: Actually not me[/color]</Desc>
-			<EffectDesc>Aumenta a Sorte em 20%.</EffectDesc>
+			<EffectDesc>Increases Luck by 20%.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ShanHeJue">
 			<DisplayName>Chant of Mountains and Rivers</DisplayName>
-			<Desc>Técnica secreta descoberta pelo Patriarca Celestial que foi inspirado pela circulação da Veia do Dragão, inclui várias maneiras de reconstruir terrenos utilizando a Semente da Fortuna.</Desc>
+			<Desc>Secret technique discovered by the Celestial Patriarch who was inspired by the circulation of Dragon's Vein, it includes several ways of rebuilding terrains by utilizing the Fortune Seed.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Learn Miracle: \nLake Shaping\nLand Shaping\nCreator's Spiritual Soil\nCreator's Spiritual Pond\nFertile Soil\nAcquire Elixir Recipes: \nSpirit Seed\nFortune Sand\nUnlock Building: \nJade Pond of Creator[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongDan">
 			<DisplayName>Dragon Spirit Soul</DisplayName>
-			<Desc>Técnica secreta que se inspirou em fragmentos de memória do Flood Dragon.</Desc>
+			<Desc>Secret technique that took its inspiration from memory fragments of Flood Dragon.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nDragon Elixir\nGreatly increases Artifact Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FengDan">
 			<DisplayName>Phoenix Spirit Soul</DisplayName>
-			<Desc>Técnica secreta que se inspirou em fragmentos de memória de Phoenix.</Desc>
+			<Desc>Secret technique that took its inspiration from memory fragments of Phoenix.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nPhoenix Elixir\nGreatly increases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ZhuLongDan">
 			<DisplayName>Yin &amp; Yang Spirit</DisplayName>
-			<Desc>Técnica secreta que se inspirou nos fragmentos de memória do Torch Dragon.</Desc>
+			<Desc>Secret technique that took its inspiration from the memory fragments of Torch Dragon.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nBalance Spirit Pill\n Acquire the crafting method of Legacy Artifact: \nDraconic Tablet\nFundamentally increases Barrier Power by a significant margin.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen1">
 			<DisplayName>Qi of Triple Purity</DisplayName>
-			<Desc>Lei Secreta do Espírito Forjado a partir de antigas escolas de credo, consideradas há muito perdidas.O cultivo deste método dividirá o Espírito Primordial, criando três subespíritos.</Desc>
+			<Desc>Secret Law of Spirit Forging from ancient schools of creed, thought to be long lost. Cultivation of this method will split one's Primordial Spirit, creating three sub-spirits.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Gains three sub-spirits.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen2">
 			<DisplayName>Apparition of Three Corpses: Good Self Slaying</DisplayName>
-			<Desc>Movimento secreto de divisão de espíritos inventado por cultivadores antigos com base no método de matar três cadáveres para alcançar a iluminação.O praticante deste manual pode utilizar a própria boa consciência como catalisador para separar um ramo do subespírito.</Desc>
+			<Desc>Secret move of spirit-splitting invented by ancient cultivators based on the method of slaying three corpses to achieve enlightenment. Practitioner of this manual can utilize one's own good consciousness as the catalyst to split out one branch of sub-spirit.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Gains one sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen3">
 			<DisplayName>Apparition of Three Corpses: Evil Self Slaying</DisplayName>
-			<Desc>Movimento secreto de divisão de espíritos inventado por cultivadores antigos com base no método de matar três cadáveres para alcançar a iluminação.O praticante deste manual pode utilizar a própria consciência maligna como catalisador para separar um ramo do subespírito.</Desc>
+			<Desc>Secret move of spirit-splitting invented by ancient cultivators based on the method of slaying three corpses to achieve enlightenment. Practitioner of this manual can utilize one's own evil consciousness as the catalyst to split out one branch of sub-spirit.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Gains one sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen4">
 			<DisplayName>Apparition of Three Corpses: True Self Slaying</DisplayName>
-			<Desc>Movimento secreto de divisão de espíritos inventado por cultivadores antigos com base no método de matar três cadáveres para alcançar a iluminação.O praticante deste manual pode utilizar a própria consciência endógena como catalisador para separar um ramo do subespírito.</Desc>
+			<Desc>Secret move of spirit-splitting invented by ancient cultivators based on the method of slaying three corpses to achieve enlightenment. Practitioner of this manual can utilize one's own endogenous consciousness as the catalyst to split out one branch of sub-spirit.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Gains one sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_YanHuangTongShi">
 			<DisplayName>A Comprehensive History of Serica</DisplayName>
-			<Desc>Livro que cobria cinco mil anos de história do país de Serica.Ele registrou uma grande variedade de conteúdos extensos, dentro dos quais estão muitas escolas de pensamentos que são muito inspiradoras para o cultivo.</Desc>
+			<Desc>Book that covered five thousand years of history of the country of Serica. It recorded a wide variety of extensive contents, within which are many school of thoughts that are very inspirational to cultivation.</Desc>
 			<EffectDesc>Increases Intelligence by 20%.\nIncreases Qi Sense by 5.</EffectDesc>
 		</Text>
 	</List>

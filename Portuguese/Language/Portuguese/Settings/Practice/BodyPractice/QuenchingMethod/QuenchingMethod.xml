@@ -1,60 +1,60 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="BPQuenchingMethods_test1">
-			<DisplayName>Teste Verde</DisplayName>
-			<Desc>Um dos feitiços de remodelação mais básico para cultivadores físicos. Cada vez que o feitiço é lançada, a parte alvo passará por remodelação padrão apenas uma vez.</Desc>
+			<DisplayName>Test Green</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators. Each time the spell is cast, the target part will go through standard remolding once.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_test2">
-			<DisplayName>Teste Roxo</DisplayName>
-			<Desc>Um dos feitiços de remodelação mais básico para cultivadores físicos. Cada vez que o feitiço é lançada, a parte alvo passará por remodelação padrão apenas uma vez.</Desc>
+			<DisplayName>Test Purple</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators. Each time the spell is cast, the target part will go through standard remolding once.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_test3">
-			<DisplayName>Teste Laranja</DisplayName>
-			<Desc>Um dos feitiços de remodelação mais básico para cultivadores físicos. Cada vez que o feitiço é lançada, a parte alvo passará por remodelação padrão apenas uma vez.</Desc>
+			<DisplayName>Test Orange</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators. Each time the spell is cast, the target part will go through standard remolding once.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_1">
-			<DisplayName>Remodelagem de pontos de acupuntura</DisplayName>
-			<Desc>Um dos feitiços de remodelação mais básico para cultivadores físicos. Cada vez que o feitiço é lançada, a parte alvo passará por remodelação padrão apenas uma vez.</Desc>
+			<DisplayName>Acupoint Remold</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators. Each time the spell is cast, the target part will go through standard remolding once.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_1_1">
-			<DisplayName>Remodelagem de oito pontos de acupuntura</DisplayName>
-			<Desc>Um dos feitiços de remodelação mais básico para cultivadores físicos, é igual ao uso de Remoldagem de pontos de acupuntura, só que 8 vezes seguidas. Cada vez que o feitiço é lançado, a parte alvo passará por remodelagem padrão oito vezes, e a última vez resultará em pelo menos uma rara direção de evolução.</Desc>
+			<DisplayName>Remold of Eight Acupoints</DisplayName>
+			<Desc>One of the most basic remold spells for physical cultivators, equals using Acupoint Remolding for 8 times in a row. Each time the spell is cast, the target part will go through standard remolding eight times, and the last time will result in at least one rare evolution direction.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_2">
-			<DisplayName>Remodelagem Selvagem</DisplayName>
-			<Desc>Feitiço remodelagem usado por demônios selvagens. Custa mais essências para estimular o corpo físico a fim de criar mais direções de evolução. Cada vez que o feitiço é lançado, a parte alvo passará por remodelação, apenas uma vez, que cria mais direções de evolução.</Desc>
+			<DisplayName>Wild Remold</DisplayName>
+			<Desc>Remold spell used by wild demons. Costs more essence to stimulate the physical body in order to create more evolution directions. Each time the spell is cast, the target part will go through remolding once that creates more evolution directions.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_3">
-			<DisplayName>Remodelagem das Seis Direções</DisplayName>
-			<Desc>Usa a unidade das seis direções para trabalhar a essência, que enfraquece seu atributo, mas oferece mais alta eficiência. Cada vez que o feitiço é lançado, a parte alvo passará por remodelagem básica seis vezes.</Desc>
+			<DisplayName>Remold of Six Directions</DisplayName>
+			<Desc>Uses the unity of the six directions to work the essence, which weakens its trait but offers high efficiency. Each time the spell is cast, the target part will go through basic remolding six times.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_4">
-			<DisplayName>Remodelagem Imperial</DisplayName>
-			<Desc>Feitiço de remodelagem inventado pelos antigos Cinco Imperadores, custa uma grande quantidade de essência para seu efeito total a fim de estimular o corpo a evoluir em direções raras. Cada vez que o feitiço é lançado, a parte alvo passará por remodelação apenas uma vez, que é mais provável que resulte em uma evolução avançada.</Desc>
+			<DisplayName>Emperor Remold</DisplayName>
+			<Desc>Remold spell invented by the ancient Five Emperors, costs a large amount of essence for its full effect in order to stimulate the body to evolve in rare directions. Each time the spell is cast, the target part will go through remolding once which is more likely to result in advanced evolution.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_5">
-			<DisplayName>Remodelagem Aquática</DisplayName>
-			<Desc>Remodela o corpo com cálculo derivado. Cada vez que o feitiço é lançado, a parte alvo passará por remodelagem padrão nove vezes, e a última vez resultará em pelo menos uma rara direção de evolução.</Desc>
+			<DisplayName>Aqua Remold</DisplayName>
+			<Desc>Remolds the body with Derivative Calculation. Each time the spell is cast, the target part will go through standard remolding nine times, and the last time will result in at least one rare evolution direction.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_6">
-			<DisplayName>Estrela roxa remodelada</DisplayName>
-			<Desc>Remodela o corpo de acordo com a Astrologia da Estrela Púrpura. Cada vez que o feitiço é lançado, a parte alvo passará por remodelagem padrão 14 vezes, e a última vez resultará em pelo menos uma direção de evolução excelente.</Desc>
+			<DisplayName>Purple Star Remold</DisplayName>
+			<Desc>Remolds the body in accordance with the Purple Star Astrology. Each time the spell is cast, the target part will go through standard remolding 14 times, and the last time will result in at least one superb evolution direction.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_Sp1">
-			<DisplayName>Quebra da Remodelagem em Chamas</DisplayName>
-			<Desc>Usa quebra da remodelagem do sangue para estimular a essência para a remodelação. Embora o número de possibilidades de evolução para cada tempo de remodelação seja pequeno, haverá uma chance maior de evolução avançada. Se este método for usado para remodelar a coluna, há uma baixa chance de ele sofrer mutação e desenvolver potencial para a evolução de todos os ossos.</Desc>
+			<DisplayName>Firestruck Remold</DisplayName>
+			<Desc>Uses Firestruck Blood to stimulate the essence for remolding. Although the number of evolution possibilities for each time of remolding is small, there will be a higher chance of advanced evolution. If this method is used to remold the spine, there is a low chance for it to mutate and develop potential for the evolution of all the bones.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_Sp2">
-			<DisplayName>Remodelagem Ilusória</DisplayName>
-			<Desc>Usa Remodelagem Ilusória para estimular a essência da remodelação. Embora o número de possibilidades de evolução para cada tempo de remodelação seja pequeno, haverá uma chance maior de evolução avançada. Se este método for usado para remodelar o cérebro, há uma baixa chance de sofrer mutação e desenvolver potencial para a evolução de todos os órgãos.</Desc>
+			<DisplayName>Illusion Remold</DisplayName>
+			<Desc>Uses Illusion Remold to stimulate the essence for remolding. Although the number of evolution possibilities for each time of remolding is small, there will be a higher chance of advanced evolution. If this method is used to remold the brain, there is a low chance for it to mutate and develop potential for the evolution of all the organs.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_Sp3">
-			<DisplayName>Remodelagem Rejeitada</DisplayName>
-			<Desc>Usa Coração Transcendente para fornecer Poder Rejeitado para estimular a essência para a remodelação. Embora o número de possibilidades de evolução para cada tempo de remodelação seja pequeno, haverá uma chance maior de evolução avançada. Se este método for usado para remodelar o coração, há uma baixa chance de ele sofrer mutação e desenvolver potencial para a evolução de toda a carne.</Desc>
+			<DisplayName>Rejection Remold</DisplayName>
+			<Desc>Uses Transcendent Heart to provide Rejected Power to stimulate the essence for remolding. Although the number of evolution possibilities for each time of remolding is small, there will be a higher chance of advanced evolution. If this method is used to remold the heart, there is a low chance for it to mutate and develop potential for the evolution of all the flesh.</Desc>
 		</Text>
 		<Text Name="BPQuenchingMethods_ReQuenching">
-			<DisplayName>Remodelagem Destrutiva</DisplayName>
-			<Desc>Uma vez que o produto Qi é rejeitado pelo corpo do refinador, ele usa Immortal Essence para redefinir todos os resultados de remoldagem em uma determinada parte para devolvê-la ao estado mortal.</Desc>
+			<DisplayName>Destruction Remold</DisplayName>
+			<Desc>Since the Qi product is rejected by the refiner's body, it uses Immortal Essence to reset all the remolding results in a certain part to return it to the mortal state.</Desc>
 		</Text>
 	</List>
 </Texts>

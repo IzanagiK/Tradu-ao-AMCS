@@ -2,147 +2,147 @@
 	<List>
 		<Text Name="SunnyDay">
 			<DisplayName>Clear Skies</DisplayName>
-			<StoryDesc>É um céu claro e ainda areja em toda a terra</StoryDesc>
+			<StoryDesc>Clear skies and still airs throughout the land</StoryDesc>
 		</Text>
 		<Text Name="Overcast">
 			<DisplayName>Cloudy</DisplayName>
-			<StoryDesc>Uma espessa camada de nuvem cobre o céu acima</StoryDesc>
+			<StoryDesc>A thick layer of cloud covers the sky above</StoryDesc>
 		</Text>
 		<Text Name="LightRain">
 			<DisplayName>Light Rain</DisplayName>
-			<StoryDesc>Uma fina cortina de chuva varre as planícies</StoryDesc>
+			<StoryDesc>A thin curtain of rain sweeps across the plains</StoryDesc>
 		</Text>
 		<Text Name="HeavyRain">
 			<DisplayName>Heavy Rain</DisplayName>
-			<StoryDesc>Os céus se abriram, encharcando tudo abaixo com chuva forte</StoryDesc>
+			<StoryDesc>The skies have opened, drenching all below with heavy rain</StoryDesc>
 		</Text>
 		<Text Name="LightSnow">
 			<DisplayName>Light Snow</DisplayName>
-			<StoryDesc>Uma leve neve paira no ar e cobre a terra com um brilho cintilante</StoryDesc>
+			<StoryDesc>A light snow hangs in the air and dusts the land with a shimmering gleam</StoryDesc>
 		</Text>
 		<Text Name="HeavySnow">
 			<DisplayName>Heavy Snow</DisplayName>
-			<StoryDesc>Uma forte nevasca traz consigo um frio cortante e ventos fortes</StoryDesc>
+			<StoryDesc>Heavy snowfall brings with it a biting cold and harsh winds</StoryDesc>
 		</Text>
 		<Text Name="DenseFog">
 			<DisplayName>Thick Fog</DisplayName>
-			<StoryDesc>Nuvens convergem no céu e uma densa névoa cai sobre a terra</StoryDesc>
+			<StoryDesc>Clouds converge in the sky and a dense fog falls upon the land</StoryDesc>
 		</Text>
 		<Text Name="Melancholy">
 			<DisplayName>Gloomy Mood</DisplayName>
-			<StoryDesc>Um clima sombrio permeia o ar</StoryDesc>
+			<StoryDesc>A gloomy mood permeates the air</StoryDesc>
 		</Text>
 		<Text Name="SpringAir">
 			<DisplayName>Spring's Coming</DisplayName>
-			<StoryDesc>O cheiro fresco da primavera varre as terras</StoryDesc>
+			<StoryDesc>The crisp smell of spring sweeps the lands</StoryDesc>
 		</Text>
 		<Text Name="HarvestAir">
 			<DisplayName>Spirit of Harvest</DisplayName>
-			<StoryDesc>É tempo de colheita, e um ar alegre desce</StoryDesc>
+			<StoryDesc>It's harvest time, and a jolly air descends</StoryDesc>
 		</Text>
 		<Text Name="Ambiguous">
 			<DisplayName>Romantic Air</DisplayName>
-			<StoryDesc>O amor está no ar</StoryDesc>
+			<StoryDesc>Love is in the air</StoryDesc>
 		</Text>
 		<Text Name="Impetuous">
 			<DisplayName>Irritation</DisplayName>
-			<StoryDesc>Existe uma atmosfera impulsiva</StoryDesc>
+			<StoryDesc>There is an impulsive atmosphere</StoryDesc>
 		</Text>
 		<Text Name="MouldRains">
 			<DisplayName>Rainy Season</DisplayName>
-			<StoryDesc>Chuvas prolongadas caem sobre a terra</StoryDesc>
+			<StoryDesc>Extended rains pour down upon the land</StoryDesc>
 		</Text>
 		<Text Name="Drought">
 			<DisplayName>Drought</DisplayName>
-			<StoryDesc>O sol queima tudo abaixo com seu olhar de fogo</StoryDesc>
+			<StoryDesc>The sun scorches all below with its fiery gaze</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm">
 			<DisplayName>Rainstorm</DisplayName>
-			<StoryDesc>A tempestade está causando estragos</StoryDesc>
+			<StoryDesc>Rainstorm is wreaking havoc</StoryDesc>
 		</Text>
 		<Text Name="Fohn">
 			<DisplayName>Foehn Wind</DisplayName>
-			<StoryDesc>Ventos quentes e secos sopram</StoryDesc>
+			<StoryDesc>Warm, dry winds blow by</StoryDesc>
 		</Text>
 		<Text Name="DustStorm">
 			<DisplayName>Dust Storm</DisplayName>
-			<StoryDesc>O céu escurece enquanto a poeira e a areia enchem o ar</StoryDesc>
+			<StoryDesc>The sky dims as dust and sand fill the air</StoryDesc>
 		</Text>
 		<Text Name="LingRarefiedWave">
 			<DisplayName>Qi Drought</DisplayName>
-			<StoryDesc>Chega uma seca de Qi</StoryDesc>
+			<StoryDesc>A Qi Drought arrives</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave">
 			<DisplayName>Burst of Qi</DisplayName>
-			<StoryDesc>As forças de Qi sobem e abundam por toda a terra</StoryDesc>
+			<StoryDesc>Qi forces rise, and abound throughout the land</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave_Little">
 			<DisplayName>Qi Swell</DisplayName>
-			<StoryDesc>Qi permeia o ar</StoryDesc>
+			<StoryDesc>Qi pervades the air</StoryDesc>
 		</Text>
 		<Text Name="HeatWave">
 			<DisplayName>Heat</DisplayName>
-			<StoryDesc>Uma onda de calor queima implacavelmente</StoryDesc>
+			<StoryDesc>A wave of heat blazes relentlessly</StoryDesc>
 		</Text>
 		<Text Name="ColdWave">
 			<DisplayName>Cold Winter</DisplayName>
-			<StoryDesc>Ventos frios e vendavais geladas descem</StoryDesc>
+			<StoryDesc>Cold winds and icy gales descend</StoryDesc>
 		</Text>
 		<Text Name="HeatWaveInWinter">
 			<DisplayName>Warm Wind</DisplayName>
-			<StoryDesc>O pálido sol de inverno brilha quando uma corrente quente chega</StoryDesc>
+			<StoryDesc>The pale winter sun shines as a warm current arrives</StoryDesc>
 		</Text>
 		<Text Name="ColdWaveInSummer">
 			<DisplayName>Chilly Wind</DisplayName>
-			<StoryDesc>Uma refrescante brisa de verão sopra</StoryDesc>
+			<StoryDesc>A refreshing summer breeze blows</StoryDesc>
 		</Text>
 		<Text Name="PermanentNight">
 			<DisplayName>Polar Night</DisplayName>
-			<StoryDesc>É uma noite sem fim</StoryDesc>
+			<StoryDesc>It is a neverending night</StoryDesc>
 		</Text>
 		<Text Name="Miasma">
 			<DisplayName>Noxious Air</DisplayName>
-			<StoryDesc>Uma atmosfera nociva se espalha</StoryDesc>
+			<StoryDesc>A noxious atmosphere spreads</StoryDesc>
 		</Text>
 		<Text Name="LightningStorm">
 			<DisplayName>Thunderstorm</DisplayName>
-			<StoryDesc>O trovão estrondoso rola pela terra enquanto o relâmpago dança entre as nuvens</StoryDesc>
+			<StoryDesc>Booming thunder rolls through the land as lightning dances between the clouds</StoryDesc>
 		</Text>
 		<Text Name="LightningStormNoLong">
 			<DisplayName>Thunderstorm</DisplayName>
-			<StoryDesc>O trovão estrondoso rola pela terra enquanto o relâmpago dança entre as nuvens</StoryDesc>
+			<StoryDesc>Booming thunder rolls through the land as lightning dances between the clouds</StoryDesc>
 		</Text>
 		<Text Name="FohnNoFeng">
 			<DisplayName>Foehn Wind</DisplayName>
-			<StoryDesc>Ventos quentes e secos sopram</StoryDesc>
+			<StoryDesc>Warm, dry winds blow by</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm_Long">
 			<DisplayName>Rainstorm</DisplayName>
-			<StoryDesc>A tempestade está causando estragos</StoryDesc>
+			<StoryDesc>Rainstorm is wreaking havoc</StoryDesc>
 		</Text>
 		<Text Name="LuShu_SunnyDay">
 			<DisplayName>Sunny Day (due to Lushu)</DisplayName>
-			<StoryDesc>Céus claros e tranquilos em toda a terra</StoryDesc>
+			<StoryDesc>Clear skies and still airs throughout the land</StoryDesc>
 		</Text>
 		<Text Name="Fei_HeavyRain">
 			<DisplayName>Heavy Rain (due to Fei)</DisplayName>
-			<StoryDesc>Os céus se abriram, encharcando tudo abaixo com chuva forte</StoryDesc>
+			<StoryDesc>The skies have opened, drenching all below with heavy rain</StoryDesc>
 		</Text>
 		<Text Name="Fei_Overcast">
 			<DisplayName>Overcast (due to Fei)</DisplayName>
-			<StoryDesc>Uma espessa camada de nuvem cobre o céu acima</StoryDesc>
+			<StoryDesc>A thick layer of cloud covers the sky above</StoryDesc>
 		</Text>
 		<Text Name="MuYu_LightRain">
 			<DisplayName>Light Rain (due to Raindance Blade)</DisplayName>
-			<StoryDesc>Uma fina cortina de chuva varre as planícies</StoryDesc>
+			<StoryDesc>A thin curtain of rain sweeps across the plains</StoryDesc>
 		</Text>
 		<Text Name="SpringFestival">
 			<DisplayName>Spring Festival</DisplayName>
-			<StoryDesc>Uma atmosfera de celebração enche o ar quando o Festival da Primavera chega</StoryDesc>
+			<StoryDesc>A celebratory atmosphere fills the air as Spring Festival arrives</StoryDesc>
 		</Text>
 		<Text Name="ZuShiBiHu">
 			<DisplayName>Air of Cultivation</DisplayName>
-			<StoryDesc>Há ares de cultivo</StoryDesc>
+			<StoryDesc>Theres is air of Cultivation</StoryDesc>
 		</Text>
 	</List>
 </Texts>

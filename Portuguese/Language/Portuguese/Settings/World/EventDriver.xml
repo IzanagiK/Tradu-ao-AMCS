@@ -1,32 +1,32 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Template">
-			<DisplayName>Modelo</DisplayName>
-			<Types.0.DisplayName>Eventos de encontros fortuitos</Types.0.DisplayName>
-			<Types.0.Desc>Estes incluem Trilhas da Besta Antiga, e Trilhas do Cultivador Antigo.</Types.0.Desc>
-			<Types.1.DisplayName>Poderosos Eventos Inimigos</Types.1.DisplayName>
-			<Types.1.Desc>Estes incluem difícil Invasão de Cultivadores, e Invasão das Bestas.</Types.1.Desc>
-			<Types.2.DisplayName>Eventos Raros</Types.2.DisplayName>
-			<Types.2.Desc>Estes incluem encontros climáticos difíceis, Encontros Familiares, e Tesouro Avançado Desenterrado.</Types.2.Desc>
-			<Types.3.DisplayName>Eventos Secretos</Types.3.DisplayName>
-			<Types.3.Desc>Estes incluem Manifestar Mandato, e Manifestando Mandato.</Types.3.Desc>
-			<Types.4.DisplayName>Eventos de Visitantes</Types.4.DisplayName>
-			<Types.4.Desc>Estes incluem a adesão de refugiados, Pedidos de transeuntes, e Visitantes Imortais.</Types.4.Desc>
-			<Types.5.DisplayName>Eventos Inimigos</Types.5.DisplayName>
-			<Types.5.Desc>Estes incluem Invasão de Cultivadores, e Invasão de Monstros.</Types.5.Desc>
-			<Types.6.DisplayName>Eventos Comuns</Types.6.DisplayName>
-			<Types.6.Desc>Estes incluem Encontros Climáticos, e a atmosfera da seita muda.</Types.6.Desc>
-			<Types.7.DisplayName>Eventos Avançados</Types.7.DisplayName>
-			<Types.7.Desc>Estes incluem Encontros Meteorológicos Especiais, Tesouro Descoberto, e Qi Surges.</Types.7.Desc>
+			<DisplayName>Template</DisplayName>
+			<Types.0.DisplayName>Fortuitous Encounter Events</Types.0.DisplayName>
+			<Types.0.Desc>These include Ancient Beast Tracks, and Ancient Cultivator Tracks.</Types.0.Desc>
+			<Types.1.DisplayName>Powerful Enemy Events</Types.1.DisplayName>
+			<Types.1.Desc>These include difficult Invasion of Cultivators, and Invasion of Beasts.</Types.1.Desc>
+			<Types.2.DisplayName>Rare Events</Types.2.DisplayName>
+			<Types.2.Desc>These include difficult Weather Encounters, Familiar Encounters, and Advanced Treasure Unearthed.</Types.2.Desc>
+			<Types.3.DisplayName>Secret Events</Types.3.DisplayName>
+			<Types.3.Desc>These include Manifesting Mandate, and Manifesting Mandate.</Types.3.Desc>
+			<Types.4.DisplayName>Visitor Events</Types.4.DisplayName>
+			<Types.4.Desc>These include Joining Refugees, Passerby Requests, and Immortal Visitors.</Types.4.Desc>
+			<Types.5.DisplayName>Enemy Events</Types.5.DisplayName>
+			<Types.5.Desc>These include Invasion of Cultivators, and Invasion of Monsters.</Types.5.Desc>
+			<Types.6.DisplayName>Common Events</Types.6.DisplayName>
+			<Types.6.Desc>These include Weather Encounters, and Sect Atmosphere Changes.</Types.6.Desc>
+			<Types.7.DisplayName>Advanced Events</Types.7.DisplayName>
+			<Types.7.Desc>These include Special Weather Encounters, Treasure Unearthed, and Qi Surges.</Types.7.Desc>
 		</Text>
 		<Text Name="EasyFate">
-			<DisplayName>Pacífico</DisplayName>
+			<DisplayName>Peaceful</DisplayName>
 		</Text>
 		<Text Name="NormalFate">
-			<DisplayName>Média</DisplayName>
+			<DisplayName>Medium</DisplayName>
 		</Text>
 		<Text Name="HardFate">
-			<DisplayName>Selvagem</DisplayName>
+			<DisplayName>Savage</DisplayName>
 		</Text>
 	</List>
 </Texts>

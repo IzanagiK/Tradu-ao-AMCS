@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="GodPractice_GodPowerEffect">
 			<DisplayName>Divinity</DisplayName>
-			<Desc>À medida que a Divindade aumenta, o personagem pode exercer mais controle sobre o poder divino e, assim, tornar-se mais poderoso, enquanto ao mesmo tempo o multiplicador de humor também aumenta..</Desc>
+			<Desc>As one's Divinity increases, the character can exert more control over divine power and thus become more powerful, while at the same time the Mood multiplier is increased as well.</Desc>
 		</Text>
 		<Text Name="GodPractice_GodPowerEffect_A">
 			<DisplayName>Divinity</DisplayName>
@@ -14,19 +14,19 @@
 		</Text>
 		<Text Name="GodPractice_Xinzhai">
 			<DisplayName>Mind Fasting</DisplayName>
-			<Desc>Reduza temporariamente o impacto das emoções no humor através do jejum mental. Quanto mais tempo demorar o Jejum Mental, mais tempo seus efeitos persistirão após a conclusão. Seu Estado Mental não mudará durante o Jejum da Mente.</Desc>
+			<Desc>Temporarily reduce the impact of emotions on Mood through Mind Fasting. The more time it takes in Mind Fasting, the longer its effects persist after completion. Your Mental State will not change for the duration of the Mind Fasting.</Desc>
 		</Text>
 		<Text Name="GodPractice_GodLike">
 			<DisplayName>Deification</DisplayName>
-			<Desc>Tajuste temporariamente a Divindade para 99,99% em 300 segundos e ganhe permanentemente 1% de Divindade após o término.</Desc>
+			<Desc>Temporarily adjust Divinity to 99.99% within 300 seconds, and permanently gain 1% Divinity after it finishes.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_XinYang_KeJi">
 			<DisplayName>Restrained</DisplayName>
-			<Desc>Cultivo da Fé - Restringido</Desc>
+			<Desc>Faith Cultivation - Restrained</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_XinYang_ZongYu">
 			<DisplayName>Indulging</DisplayName>
-			<Desc>Cultivo da Fé - Indulgente</Desc>
+			<Desc>Faith Cultivation - Indulging</Desc>
 		</Text>
 	</List>
 </Texts>

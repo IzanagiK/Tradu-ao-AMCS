@@ -2,21 +2,21 @@
 	<List>
 		<Text Name="BuildCurb1">
 			<DisplayName>Obstruction</DisplayName>
-			<Desc>Enquanto construíam uma maravilha, algumas pessoas começaram a causar confusão sobre o Feng Shui aqui.</Desc>
-			<Selections.0.Display>Vence-los com um porrete.</Selections.0.Display>
-			<Selections.1.Display>Debata Feng Shui com eles.</Selections.1.Display>
+			<Desc>While constructing a wonder, some people started causing a fuss about the Feng Shui here.</Desc>
+			<Selections.0.Display>Beat them with a club.</Selections.0.Display>
+			<Selections.1.Display>Debate Feng Shui with them.</Selections.1.Display>
 		</Text>
 		<Text Name="BuildCurb2">
 			<DisplayName>Obstruction</DisplayName>
-			<Desc>Enquanto construía uma maravilha, algumas pessoas se aproximaram para perguntar o que esta acontecendo.</Desc>
-			<Selections.0.Display>Ignore-os.</Selections.0.Display>
-			<Selections.1.Display>Explique a situação.</Selections.1.Display>
+			<Desc>While constructing a wonder, some people came over to ask what's going on.</Desc>
+			<Selections.0.Display>Ignore them.</Selections.0.Display>
+			<Selections.1.Display>Explain the situation.</Selections.1.Display>
 		</Text>
 		<Text Name="BuildCurb3">
 			<DisplayName>Obstruction</DisplayName>
-			<Desc>Ao construir uma maravilha, algumas pessoas queriam nos dar uma recompensa.</Desc>
-			<Selections.0.Display>Faça-os voltar amanha.</Selections.0.Display>
-			<Selections.1.Display>Aceite a recompensa.</Selections.1.Display>
+			<Desc>While constructing a wonder, some people wanted to give us a reward.</Desc>
+			<Selections.0.Display>Have them come back tomorrow.</Selections.0.Display>
+			<Selections.1.Display>Accept the reward.</Selections.1.Display>
 		</Text>
 	</List>
 </Texts>

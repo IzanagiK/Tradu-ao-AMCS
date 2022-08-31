@@ -1,94 +1,94 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Weather_Sunny">
-			<DisplayName>Tempo bom</DisplayName>
-			<Desc>O tempo está bom.</Desc>
-			<StoryDesc>Sentindo que um clima tão bom realmente coloca um sorriso no rosto!</StoryDesc>
+			<DisplayName>Clear</DisplayName>
+			<Desc>The weather is nice out.</Desc>
+			<StoryDesc>Feeling that Such nice weather really puts a smile on one's face!</StoryDesc>
 		</Text>
 		<Text Name="Weather_Overcast">
-			<DisplayName>Nublado</DisplayName>
-			<Desc>Está muito nublado.</Desc>
-			<StoryDesc>Sentindo que um dia tão sombrio é bastante triste</StoryDesc>
+			<DisplayName>Cloudy</DisplayName>
+			<Desc>It's quite cloudy out.</Desc>
+			<StoryDesc>Feeling that Such a bleak day is rather dreary</StoryDesc>
 		</Text>
 		<Text Name="Weather_LightRain">
-			<DisplayName>Chuva fraca</DisplayName>
-			<Desc>Está chuviscando.</Desc>
-			<StoryDesc>Sentir que a chuva leve realmente imbui uma sensação de serenidade</StoryDesc>
+			<DisplayName>Light Rain</DisplayName>
+			<Desc>It's drizzling out.</Desc>
+			<StoryDesc>Feeling that Light rain really imbues one with a sense of serenity</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeavyRain">
-			<DisplayName>Chuva forte</DisplayName>
-			<Desc>Está chovendo!</Desc>
-			<StoryDesc>Sentindo que uma chuva tão forte pode dar nos nervos</StoryDesc>
+			<DisplayName>Heavy Rain</DisplayName>
+			<Desc>It's pouring out!</Desc>
+			<StoryDesc>Feeling that Such a downpour can get on one's nerves</StoryDesc>
 		</Text>
 		<Text Name="Weather_LightSnow">
-			<DisplayName>Neve fraca</DisplayName>
-			<Desc>Posso ver rajadas lá fora!</Desc>
-			<StoryDesc>Sentir que as rajadas voando iluminam o espírito</StoryDesc>
+			<DisplayName>Light Snow</DisplayName>
+			<Desc>I can see flurries outside!</Desc>
+			<StoryDesc>Feeling that The flurries flying all about brightens one's spirits</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeavySnow">
-			<DisplayName>Neve Forte</DisplayName>
-			<Desc>Parece uma nevasca lá fora!</Desc>
-			<StoryDesc>Sentindo que uma nevasca tão forte é realmente uma delícia</StoryDesc>
+			<DisplayName>Heavy Snow</DisplayName>
+			<Desc>It's looks like a blizzard outside!</Desc>
+			<StoryDesc>Feeling that Such a heavy snowfall really is a delight</StoryDesc>
 		</Text>
 		<Text Name="Weather_DenseFog">
-			<DisplayName>Névoa espessa</DisplayName>
-			<Desc>O nevoeiro é tão denso que parece uma sopa de ervilha!</Desc>
-			<StoryDesc>Sentindo que A névoa é tão espessa que é bastante irritante</StoryDesc>
+			<DisplayName>Thick Fog</DisplayName>
+			<Desc>The fog is so thick out, it's like pea soup!</Desc>
+			<StoryDesc>Feeling that The fog is so thick that it's rather annoying</StoryDesc>
 		</Text>
 		<Text Name="Weather_SpringAir">
-			<DisplayName>Primavera chegando</DisplayName>
-			<Desc>A primavera finalmente chegou!</Desc>
-			<StoryDesc>Sentindo que a chegada da primavera realmente revigora o espírito</StoryDesc>
+			<DisplayName>Spring's Coming</DisplayName>
+			<Desc>Spring is finally here!</Desc>
+			<StoryDesc>Feeling that The arrival of spring really invigorates the spirit</StoryDesc>
 		</Text>
 		<Text Name="Weather_Melancholy">
-			<DisplayName>Humor Sombrio</DisplayName>
-			<Desc>Não sei por que, mas todo mundo está deprimido ultimamente...</Desc>
-			<StoryDesc>Sentindo que o clima sombrio deixou uma sensação palpável de melancolia no ar</StoryDesc>
+			<DisplayName>Gloomy Mood</DisplayName>
+			<Desc>I don't know why but everyone has been down in the dumps lately...</Desc>
+			<StoryDesc>Feeling that The gloomy mood has left a palpable sense of melancholy in the air</StoryDesc>
 		</Text>
 		<Text Name="Weather_HarvestAir">
-			<DisplayName>Espírito da Colheita</DisplayName>
-			<Desc>Que colheita abundante, estou tão feliz!</Desc>
-			<StoryDesc>Sentindo que uma colheita tão abundante deixa todos satisfeitos</StoryDesc>
+			<DisplayName>Spirit of Harvest</DisplayName>
+			<Desc>What an abundant harvest, I'm so happy!</Desc>
+			<StoryDesc>Feeling that Such an abundant harvest leaves everyone content</StoryDesc>
 		</Text>
 		<Text Name="Weather_Impetuous">
-			<DisplayName>Irritação</DisplayName>
-			<Desc>É difícil manter a calma recentemente.</Desc>
-			<StoryDesc>Sentindo que há uma sensação palpável de irritabilidade no ar, todo mundo parece irritado</StoryDesc>
+			<DisplayName>Irritation</DisplayName>
+			<Desc>It's difficult to stay calm recently.</Desc>
+			<StoryDesc>Feeling that There's a palpable sense of irritability in the air, everyone seems testy</StoryDesc>
 		</Text>
 		<Text Name="Weather_Hail">
-			<DisplayName>Salve</DisplayName>
-			<Desc>Está saindo.</Desc>
-			<StoryDesc>Sentir que o granizo tende a tornar a pessoa um pouco preocupante</StoryDesc>
+			<DisplayName>Hail</DisplayName>
+			<Desc>It's hailing out.</Desc>
+			<StoryDesc>Feeling that Hail tends to make one a bit worrisome</StoryDesc>
 		</Text>
 		<Text Name="Weather_MouldRains">
-			<DisplayName>Estação chuvosa</DisplayName>
-			<Desc>A estação chuvosa chegou.</Desc>
-			<StoryDesc>Sentindo que toda essa chuva realmente deixa a pessoa agitada</StoryDesc>
+			<DisplayName>Rainy Season</DisplayName>
+			<Desc>The rainy season is here.</Desc>
+			<StoryDesc>Feeling that All this rain really makes one agitated</StoryDesc>
 		</Text>
 		<Text Name="Weather_Drought">
-			<DisplayName>Seca</DisplayName>
-			<Desc>A estação árida chegou.</Desc>
-			<StoryDesc>Sentir que as secas sempre nos preocupam</StoryDesc>
+			<DisplayName>Drought</DisplayName>
+			<Desc>The arid season is here.</Desc>
+			<StoryDesc>Feeling that Droughts always make one worry</StoryDesc>
 		</Text>
 		<Text Name="Weather_Rainstorm">
-			<DisplayName>Tempestade</DisplayName>
-			<Desc>Está uma tempestade.</Desc>
-			<StoryDesc>Sentir que tempestades como essa sempre deixam a pessoa ansiosa</StoryDesc>
+			<DisplayName>Rainstorm</DisplayName>
+			<Desc>It's stormy out.</Desc>
+			<StoryDesc>Feeling that Rainstorms like this always make one anxious</StoryDesc>
 		</Text>
 		<Text Name="Weather_Fohn">
-			<DisplayName>Evento de Foehn</DisplayName>
-			<Desc>Há um vento Foehn por perto.</Desc>
-			<StoryDesc>Sentir que os Ventos Foehn sempre fazem sentir que todo o corpo precisa de hidratação</StoryDesc>
+			<DisplayName>Foehn Wind</DisplayName>
+			<Desc>There's a Foehn Wind about.</Desc>
+			<StoryDesc>Feeling that Foehn Winds always make one feel like one's whole body needs moisturizing</StoryDesc>
 		</Text>
 		<Text Name="Weather_DustStorm">
-			<DisplayName>Tempestade de poeira</DisplayName>
-			<Desc>Uma tempestade de poeira surgiu.</Desc>
-			<StoryDesc>Sentindo que a Tempestade de Pó espalhou sujeira por toda parte. EM TODOS OS LUGARES</StoryDesc>
+			<DisplayName>Dust Storm</DisplayName>
+			<Desc>A Dust Storm has sprung up.</Desc>
+			<StoryDesc>Feeling that Dust Storm spread dirt everywhere. EVERYWHERE</StoryDesc>
 		</Text>
 		<Text Name="Weather_LingRarefiedWave">
-			<DisplayName>Seca Qi</DisplayName>
-			<Desc>Há uma seca de Qi.</Desc>
-			<StoryDesc>Sentir que a seca de A Qi realmente deixa a pessoa mal à vontade</StoryDesc>
+			<DisplayName>Qi Drought</DisplayName>
+			<Desc>There's a Qi drought.</Desc>
+			<StoryDesc>Feeling that A Qi drought really leaves one feeling ill at ease</StoryDesc>
 		</Text>
 		<Text Name="Weather_LingUpWave">
 			<DisplayName>Burst of Qi</DisplayName>
@@ -96,54 +96,54 @@
 			<StoryDesc>Feeling that A Burst of Qi really leaves one feeling pleased</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeatWave">
-			<DisplayName>Calor</DisplayName>
-			<Desc>Esse início súbito de calor é insuportável...</Desc>
-			<StoryDesc>Sentindo que O início súbito do calor deixa a pessoa ansiosa</StoryDesc>
+			<DisplayName>Heat</DisplayName>
+			<Desc>This sudden onset of heat is unbearable...</Desc>
+			<StoryDesc>Feeling that The sudden onset of heat leaves one feeling anxious</StoryDesc>
 		</Text>
 		<Text Name="Weather_ColdWave">
-			<DisplayName>Inverno frio</DisplayName>
-			<Desc>Um inverno frio se instalou.</Desc>
-			<StoryDesc>Sentindo que os invernos frios deixam a pessoa pouco à vontade</StoryDesc>
+			<DisplayName>Cold Winter</DisplayName>
+			<Desc>A cold winter has set in.</Desc>
+			<StoryDesc>Feeling that Cold winters leave one ill at ease</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeatWaveInWinter">
-			<DisplayName>Vento Quente</DisplayName>
-			<Desc>Um vento quente nas profundezas do inverno é um alívio bem-vindo.</Desc>
-			<StoryDesc>Sentindo que um vento quente no inverno dá vontade de alongar</StoryDesc>
+			<DisplayName>Warm Wind</DisplayName>
+			<Desc>A warm wind in the depths of winter is a welcome reprieve.</Desc>
+			<StoryDesc>Feeling that A warm wind in winter makes one want to stretch</StoryDesc>
 		</Text>
 		<Text Name="Weather_ColdWaveInSummer">
-			<DisplayName>Vento frio</DisplayName>
-			<Desc>Uma brisa fresca no meio do verão é um alívio bem-vindo.</Desc>
-			<StoryDesc>Sentindo que Uma brisa fresca no verão é sempre reconfortante</StoryDesc>
+			<DisplayName>Chilly Wind</DisplayName>
+			<Desc>A cool breeze in midsummer is a welcome reprieve.</Desc>
+			<StoryDesc>Feeling that A cool breeze in summer is always comforting</StoryDesc>
 		</Text>
 		<Text Name="Weather_PermanentNight">
-			<DisplayName>Noite Polar</DisplayName>
-			<Desc>Uma noite polar está aqui.</Desc>
-			<StoryDesc>Sentindo que uma noite polar pode ser assustadora</StoryDesc>
+			<DisplayName>Polar Night</DisplayName>
+			<Desc>A polar night is here.</Desc>
+			<StoryDesc>Feeling that A polar night can be scary</StoryDesc>
 		</Text>
 		<Text Name="Weather_Miasma">
-			<DisplayName>Ar Nocivo</DisplayName>
-			<Desc>Um miasma está se espalhando.</Desc>
-			<StoryDesc>Sentir aquela sensação melhor de cobrir o nariz e a boca quando um miasma está prestes a acontecer</StoryDesc>
+			<DisplayName>Noxious Air</DisplayName>
+			<Desc>A miasma is spreading about.</Desc>
+			<StoryDesc>Feeling that feeling better to cover one's nose and mouth when a miasma is about</StoryDesc>
 		</Text>
 		<Text Name="Weather_LightningStorm">
-			<DisplayName>Tempestade</DisplayName>
-			<Desc>Uma tempestade está causando estragos.</Desc>
-			<StoryDesc>Sentir que tempestades como essa causam estragos nos nervos</StoryDesc>
+			<DisplayName>Thunderstorm</DisplayName>
+			<Desc>A thunderstorm is wreaking havoc.</Desc>
+			<StoryDesc>Feeling that Thunderstorms like this wreak havoc on one's nerves</StoryDesc>
 		</Text>
 		<Text Name="Weather_LuShu_SunnyDay">
-			<DisplayName>Canto maravilhoso</DisplayName>
-			<Desc>O som das feras soa como um belo canto.</Desc>
-			<StoryDesc>Sentindo que os chamados da natureza podem realmente dar uma sensação de satisfação</StoryDesc>
+			<DisplayName>Wonderful Singing</DisplayName>
+			<Desc>The sound of beasts sounds like beautiful singing.</Desc>
+			<StoryDesc>Feeling that The calls of the wild can really imbue one with a sense of satisfaction</StoryDesc>
 		</Text>
 		<Text Name="Weather_SpringFestival">
-			<DisplayName>Festival da Primavera a todo vapor</DisplayName>
-			<Desc>A atmosfera de férias pode ser realmente inebriante.</Desc>
-			<StoryDesc>Sentir aquela sensação fácil de estar imerso na alegria de um festival</StoryDesc>
+			<DisplayName>Spring Festival in Full Swing</DisplayName>
+			<Desc>The holiday atmosphere can prove truly intoxicating.</Desc>
+			<StoryDesc>Feeling that feeling easy to be immersed in the joy of a festival</StoryDesc>
 		</Text>
 		<Text Name="Weather_ZuShiBiHu">
-			<DisplayName>Égide do Grão-Mestre</DisplayName>
-			<Desc>A proteção do pai fundador impregna a Seita com um ar de imortalidade.</Desc>
-			<StoryDesc>Sentindo que o mundo do Imortal parece abundante em todos os lugares</StoryDesc>
+			<DisplayName>Grandmaster's Aegis</DisplayName>
+			<Desc>The founding father's protection suffuses the Sect with an air of Immortality.</Desc>
+			<StoryDesc>Feeling that The world of the Immortal seems to abound all around</StoryDesc>
 		</Text>
 	</List>
 </Texts>

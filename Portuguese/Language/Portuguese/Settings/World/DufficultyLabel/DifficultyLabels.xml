@@ -1,157 +1,157 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="MapSize">
-			<DisplayName>Tamanho do mapa</DisplayName>
-			<Values.0.Name>Pequeno</Values.0.Name>
-			<Values.0.Desc>Tamanho do mapa: 96x96</Values.0.Desc>
-			<Values.1.Name>Média</Values.1.Name>
-			<Values.1.Desc>Tamanho do mapa: 128x128</Values.1.Desc>
-			<Values.2.Name>Grande</Values.2.Name>
-			<Values.2.Desc>Tamanho do mapa: 196x196</Values.2.Desc>
+			<DisplayName>Map Size</DisplayName>
+			<Values.0.Name>Small</Values.0.Name>
+			<Values.0.Desc>Map Size: 96x96</Values.0.Desc>
+			<Values.1.Name>Medium</Values.1.Name>
+			<Values.1.Desc>Map Size: 128x128</Values.1.Desc>
+			<Values.2.Name>Large</Values.2.Name>
+			<Values.2.Desc>Map Size: 196x196</Values.2.Desc>
 		</Text>
 		<Text Name="ThunderAddion">
-			<DisplayName>Dificuldade de tribulação</DisplayName>
-			<Desc>Nível de dificuldade das Tribulações Celestiais.</Desc>
-			<Values.0.Name>Muito Baixo</Values.0.Name>
-			<Values.0.Desc>0.25x Dificuldade de tribulação</Values.0.Desc>
-			<Values.1.Name>Fraco</Values.1.Name>
-			<Values.1.Desc>0.7x Dificuldade de tribulação</Values.1.Desc>
-			<Values.2.Name>Ordinário</Values.2.Name>
-			<Values.2.Desc>1x Dificuldade de tribulação</Values.2.Desc>
-			<Values.3.Name>Forte</Values.3.Name>
-			<Values.3.Desc>1.2x Dificuldade de tribulação</Values.3.Desc>
-			<Values.4.Name>Muito Alto</Values.4.Name>
-			<Values.4.Desc>1.4x Dificuldade de tribulação</Values.4.Desc>
+			<DisplayName>Tribulation Difficulty</DisplayName>
+			<Desc>Difficulty level of Heavenly Tribulations.</Desc>
+			<Values.0.Name>Very Low</Values.0.Name>
+			<Values.0.Desc>0.25x Tribulation Difficulty</Values.0.Desc>
+			<Values.1.Name>Weak</Values.1.Name>
+			<Values.1.Desc>0.7x Tribulation Difficulty</Values.1.Desc>
+			<Values.2.Name>Ordinary</Values.2.Name>
+			<Values.2.Desc>1x Tribulation Difficulty</Values.2.Desc>
+			<Values.3.Name>Strong</Values.3.Name>
+			<Values.3.Desc>1.2x Tribulation Difficulty</Values.3.Desc>
+			<Values.4.Name>Very High</Values.4.Name>
+			<Values.4.Desc>1.4x Tribulation Difficulty</Values.4.Desc>
 		</Text>
 		<Text Name="FightDifficultCoefficient">
-			<DisplayName>Dificuldade de combate</DisplayName>
-			<Desc>Dificuldade de Cultivadores, Monstros, Bestas Antigas, Cultivadores Antigos e Seitas.</Desc>
-			<Values.0.Name>Muito Baixo</Values.0.Name>
-			<Values.0.Desc>0.33x Dificuldade de combate</Values.0.Desc>
-			<Values.1.Name>Fraco</Values.1.Name>
-			<Values.1.Desc>0.67x Dificuldade de combate</Values.1.Desc>
-			<Values.2.Name>Ordinário</Values.2.Name>
-			<Values.2.Desc>1x Dificuldade de combate</Values.2.Desc>
-			<Values.3.Name>Forte</Values.3.Name>
-			<Values.3.Desc>1.33x Dificuldade de combate</Values.3.Desc>
-			<Values.4.Name>Muito Alto</Values.4.Name>
-			<Values.4.Desc>1.67x Dificuldade de combate</Values.4.Desc>
+			<DisplayName>Combat Difficulty</DisplayName>
+			<Desc>Difficulty of Cultivators, Monsters, Ancient Beasts, Ancient Cultivators and Sects.</Desc>
+			<Values.0.Name>Very Low</Values.0.Name>
+			<Values.0.Desc>0.33x Combat Difficulty</Values.0.Desc>
+			<Values.1.Name>Weak</Values.1.Name>
+			<Values.1.Desc>0.67x Combat Difficulty</Values.1.Desc>
+			<Values.2.Name>Ordinary</Values.2.Name>
+			<Values.2.Desc>1x Combat Difficulty</Values.2.Desc>
+			<Values.3.Name>Strong</Values.3.Name>
+			<Values.3.Desc>1.33x Combat Difficulty</Values.3.Desc>
+			<Values.4.Name>Very High</Values.4.Name>
+			<Values.4.Desc>1.67x Combat Difficulty</Values.4.Desc>
 		</Text>
 		<Text Name="LiveDifficulty">
-			<DisplayName>Dificuldade de Sobrevivência</DisplayName>
-			<Desc>A velocidade com que as plantas crescem e multiplicam a produção de culturas.</Desc>
-			<Values.0.Name>Muito Baixo</Values.0.Name>
-			<Values.0.Desc>2x Crescimento da planta, 2x Rendimento da Colheita</Values.0.Desc>
+			<DisplayName>Survival Difficulty</DisplayName>
+			<Desc>The speed at which plants grow and crop production multiplier.</Desc>
+			<Values.0.Name>Very Low</Values.0.Name>
+			<Values.0.Desc>2x Plant Growth, 2x Harvest Yield</Values.0.Desc>
 			<Values.1.Name>Low</Values.1.Name>
-			<Values.1.Desc>1.5x Crescimento da planta, 1.5x Rendimento da Colheita</Values.1.Desc>
-			<Values.2.Name>Ordinário</Values.2.Name>
-			<Values.2.Desc>1x Crescimento da planta, 1x Rendimento da Colheita</Values.2.Desc>
+			<Values.1.Desc>1.5x Plant Growth, 1.5x Harvest Yield</Values.1.Desc>
+			<Values.2.Name>Ordinary</Values.2.Name>
+			<Values.2.Desc>1x Plant Growth, 1x Harvest Yield</Values.2.Desc>
 		</Text>
 		<Text Name="BaseMood">
-			<DisplayName>Humor base</DisplayName>
-			<Desc>O valor de humor base para caracteres durante seu status padrão.</Desc>
-			<Values.0.Name>Muito Alto</Values.0.Name>
-			<Values.0.Desc>2x Humor base</Values.0.Desc>
-			<Values.1.Name>Alto</Values.1.Name>
-			<Values.1.Desc>1.5x Humor base</Values.1.Desc>
-			<Values.2.Name>Ordinário</Values.2.Name>
-			<Values.2.Desc>1x Humor base</Values.2.Desc>
+			<DisplayName>Base Mood</DisplayName>
+			<Desc>The base mood value for characters during their default status.</Desc>
+			<Values.0.Name>Very High</Values.0.Name>
+			<Values.0.Desc>2x Base Mood</Values.0.Desc>
+			<Values.1.Name>High</Values.1.Name>
+			<Values.1.Desc>1.5x Base Mood</Values.1.Desc>
+			<Values.2.Name>Ordinary</Values.2.Name>
+			<Values.2.Desc>1x Base Mood</Values.2.Desc>
 		</Text>
 		<Text Name="WorkAddp">
-			<DisplayName>Eficiência do trabalho básico</DisplayName>
-			<Desc>A velocidade com que os personagens executam mais trabalho.</Desc>
-			<Values.0.Name>Muito rápido</Values.0.Name>
-			<Values.0.Desc>2x Eficiência do trabalho</Values.0.Desc>
-			<Values.1.Name>Ágil</Values.1.Name>
-			<Values.1.Desc>1.5x Eficiência do trabalho</Values.1.Desc>
-			<Values.2.Name>Ordinário</Values.2.Name>
-			<Values.2.Desc>1x Eficiência do trabalho</Values.2.Desc>
+			<DisplayName>Basic Work Efficiency</DisplayName>
+			<Desc>The speed at which characters perform most work.</Desc>
+			<Values.0.Name>Very Quick</Values.0.Name>
+			<Values.0.Desc>2x Work Efficiency</Values.0.Desc>
+			<Values.1.Name>Agile</Values.1.Name>
+			<Values.1.Desc>1.5x Work Efficiency</Values.1.Desc>
+			<Values.2.Name>Ordinary</Values.2.Name>
+			<Values.2.Desc>1x Work Efficiency</Values.2.Desc>
 		</Text>
 		<Text Name="PracticeAddp">
-			<DisplayName>Velocidade de cultivo base</DisplayName>
-			<Desc>A velocidade com que os personagens cultivam.</Desc>
-			<Values.0.Name>Muito rápido</Values.0.Name>
-			<Values.0.Desc>2x Velocidade de cultivo</Values.0.Desc>
-			<Values.1.Name>Ágil</Values.1.Name>
-			<Values.1.Desc>1.5x Velocidade de cultivo</Values.1.Desc>
-			<Values.2.Name>Ordinário</Values.2.Name>
-			<Values.2.Desc>1x Velocidade de cultivo</Values.2.Desc>
+			<DisplayName>Base Cultivation Speed</DisplayName>
+			<Desc>The speed at which characters cultivate.</Desc>
+			<Values.0.Name>Very Quick</Values.0.Name>
+			<Values.0.Desc>2x Cultivation Speed</Values.0.Desc>
+			<Values.1.Name>Agile</Values.1.Name>
+			<Values.1.Desc>1.5x Cultivation Speed</Values.1.Desc>
+			<Values.2.Name>Ordinary</Values.2.Name>
+			<Values.2.Desc>1x Cultivation Speed</Values.2.Desc>
 		</Text>
 		<Text Name="MapExploringAddp">
-			<DisplayName>Velocidade de aventura base</DisplayName>
-			<Desc>A velocidade com que os personagens completam aventuras.</Desc>
-			<Values.0.Name>Muito rápido</Values.0.Name>
-			<Values.0.Desc>2x Velocidade de Aventura</Values.0.Desc>
-			<Values.1.Name>Ágil</Values.1.Name>
-			<Values.1.Desc>1.5x Velocidade de Aventura</Values.1.Desc>
-			<Values.2.Name>Ordinário</Values.2.Name>
-			<Values.2.Desc>1x Velocidade de Aventura</Values.2.Desc>
+			<DisplayName>Base Adventure Speed</DisplayName>
+			<Desc>The speed at which characters complete adventures.</Desc>
+			<Values.0.Name>Very Quick</Values.0.Name>
+			<Values.0.Desc>2x Adventure Speed</Values.0.Desc>
+			<Values.1.Name>Agile</Values.1.Name>
+			<Values.1.Desc>1.5x Adventure Speed</Values.1.Desc>
+			<Values.2.Name>Ordinary</Values.2.Name>
+			<Values.2.Desc>1x Adventure Speed</Values.2.Desc>
 		</Text>
 		<Text Name="TreeExpAddtion">
-			<DisplayName>Custo de Inspiração</DisplayName>
-			<Desc>Inspiração necessária para os personagens aprenderem manuais.</Desc>
-			<Values.0.Name>Muito Baixo</Values.0.Name>
-			<Values.0.Desc>0.5x Custo de Inspiração</Values.0.Desc>
-			<Values.1.Name>Baixo</Values.1.Name>
-			<Values.1.Desc>0.75x Custo de Inspiração</Values.1.Desc>
-			<Values.2.Name>Ordinário</Values.2.Name>
-			<Values.2.Desc>1x Custo de Inspiração</Values.2.Desc>
+			<DisplayName>Inspiration Cost</DisplayName>
+			<Desc>Inspiration required for characters to learn manuals.</Desc>
+			<Values.0.Name>Very Low</Values.0.Name>
+			<Values.0.Desc>0.5x Inspiration Cost</Values.0.Desc>
+			<Values.1.Name>Low</Values.1.Name>
+			<Values.1.Desc>0.75x Inspiration Cost</Values.1.Desc>
+			<Values.2.Name>Ordinary</Values.2.Name>
+			<Values.2.Desc>1x Inspiration Cost</Values.2.Desc>
 		</Text>
 		<Text Name="AverageTimePerEvent">
-			<DisplayName>Intervalo de Eventos</DisplayName>
-			<Desc>O intervalo de tempo entre os eventos.</Desc>
-			<Values.0.Name>Muito longo</Values.0.Name>
-			<Values.0.Desc>Em média, um evento ocorrerá a cada 3 dias.</Values.0.Desc>
-			<Values.1.Name>Longo</Values.1.Name>
-			<Values.1.Desc>Em média, um evento ocorrerá a cada 2,5 dias.</Values.1.Desc>
-			<Values.2.Name>Ordinário</Values.2.Name>
-			<Values.2.Desc>Em média, um evento ocorrerá a cada 2 dias.</Values.2.Desc>
-			<Values.3.Name>Curto</Values.3.Name>
-			<Values.3.Desc>Em média, um evento ocorrerá a cada 1,5 dias.</Values.3.Desc>
-			<Values.4.Name>Muito Curto</Values.4.Name>
-			<Values.4.Desc>Em média, um evento ocorrerá a cada day.</Values.4.Desc>
+			<DisplayName>Event Interval</DisplayName>
+			<Desc>The time interval between events.</Desc>
+			<Values.0.Name>Very Long</Values.0.Name>
+			<Values.0.Desc>On average, one event will occur every 3 days.</Values.0.Desc>
+			<Values.1.Name>Long</Values.1.Name>
+			<Values.1.Desc>On average, one event will occur every 2,5 days.</Values.1.Desc>
+			<Values.2.Name>Ordinary</Values.2.Name>
+			<Values.2.Desc>On average, one event will occur every 2 days.</Values.2.Desc>
+			<Values.3.Name>Short</Values.3.Name>
+			<Values.3.Desc>On average, one event will occur every 1,5 days.</Values.3.Desc>
+			<Values.4.Name>Very Short</Values.4.Name>
+			<Values.4.Desc>On average, one event will occur every day.</Values.4.Desc>
 		</Text>
 		<Text Name="DoubleRate">
-			<DisplayName>Eventos Duplos</DisplayName>
-			<Desc>Sempre que um evento ocorre, há uma chance de outro evento ser acionado.</Desc>
-			<Values.0.Name>Nenhum</Values.0.Name>
-			<Values.0.Desc>Eventos duplos não ocorrerão.</Values.0.Desc>
-			<Values.1.Name>Baixo</Values.1.Name>
-			<Values.1.Desc>10% chance de eventos duplos.</Values.1.Desc>
-			<Values.2.Name>Média</Values.2.Name>
-			<Values.2.Desc>20% chance de eventos duplos.</Values.2.Desc>
-			<Values.3.Name>Alto</Values.3.Name>
-			<Values.3.Desc>30% chance de eventos duplos.</Values.3.Desc>
-			<Values.4.Name>Muito Alto</Values.4.Name>
-			<Values.4.Desc>40% chance de eventos duplos.</Values.4.Desc>
+			<DisplayName>Double Events</DisplayName>
+			<Desc>Whenever an event occurs, there is a chance another event will trigger.</Desc>
+			<Values.0.Name>None</Values.0.Name>
+			<Values.0.Desc>Double events will not occur.</Values.0.Desc>
+			<Values.1.Name>Low</Values.1.Name>
+			<Values.1.Desc>10% chance of double events.</Values.1.Desc>
+			<Values.2.Name>Medium</Values.2.Name>
+			<Values.2.Desc>20% chance of double events.</Values.2.Desc>
+			<Values.3.Name>High</Values.3.Name>
+			<Values.3.Desc>30% chance of double events.</Values.3.Desc>
+			<Values.4.Name>Very High</Values.4.Name>
+			<Values.4.Desc>40% chance of double events.</Values.4.Desc>
 		</Text>
 		<Text Name="TripleRate">
-			<DisplayName>Triplos Eventos</DisplayName>
-			<Desc>Sempre que um evento ocorre, há uma chance de dois eventos adicionais acionarem.</Desc>
-			<Values.0.Name>Nenhum</Values.0.Name>
-			<Values.0.Desc>Eventos triplos não ocorrerão.</Values.0.Desc>
-			<Values.1.Name>Baixo</Values.1.Name>
-			<Values.1.Desc>5% chance de eventos triplos.</Values.1.Desc>
-			<Values.2.Name>Média</Values.2.Name>
-			<Values.2.Desc>10% chance de eventos triplos.</Values.2.Desc>
-			<Values.3.Name>Alto</Values.3.Name>
-			<Values.3.Desc>15% chance de eventos triplos.</Values.3.Desc>
-			<Values.4.Name>Muito Alto</Values.4.Name>
-			<Values.4.Desc>20% chance de eventos triplos.</Values.4.Desc>
+			<DisplayName>Triple Events</DisplayName>
+			<Desc>Whenever an event occurs, there is a chance two additional events will trigger.</Desc>
+			<Values.0.Name>None</Values.0.Name>
+			<Values.0.Desc>Triple events will not occur.</Values.0.Desc>
+			<Values.1.Name>Low</Values.1.Name>
+			<Values.1.Desc>5% chance of triple events.</Values.1.Desc>
+			<Values.2.Name>Medium</Values.2.Name>
+			<Values.2.Desc>10% chance of triple events.</Values.2.Desc>
+			<Values.3.Name>High</Values.3.Name>
+			<Values.3.Desc>15% chance of triple events.</Values.3.Desc>
+			<Values.4.Name>Very High</Values.4.Name>
+			<Values.4.Desc>20% chance of triple events.</Values.4.Desc>
 		</Text>
 		<Text Name="BlankWeight">
-			<DisplayName>Sem Evento</DisplayName>
-			<Desc>Quando um evento ocorre, há uma chance de que este evento não seja acionado.</Desc>
-			<Values.0.Name>Muito Alto</Values.0.Name>
-			<Values.0.Desc>60% chance de evento não desencadeando</Values.0.Desc>
-			<Values.1.Name>Alto</Values.1.Name>
-			<Values.1.Desc>45% chance de evento não desencadeando</Values.1.Desc>
-			<Values.2.Name>Média</Values.2.Name>
-			<Values.2.Desc>30% chance de evento não desencadeando</Values.2.Desc>
-			<Values.3.Name>Baixo</Values.3.Name>
-			<Values.3.Desc>15% chance de evento não desencadeando</Values.3.Desc>
-			<Values.4.Name>Nenhum</Values.4.Name>
-			<Values.4.Desc>Eventos sempre desencadearão.</Values.4.Desc>
+			<DisplayName>No Event</DisplayName>
+			<Desc>When an event occurs, there is a chance that this event will not trigger.</Desc>
+			<Values.0.Name>Very High</Values.0.Name>
+			<Values.0.Desc>60% chance of event not triggering</Values.0.Desc>
+			<Values.1.Name>High</Values.1.Name>
+			<Values.1.Desc>45% chance of event not triggering</Values.1.Desc>
+			<Values.2.Name>Medium</Values.2.Name>
+			<Values.2.Desc>30% chance of event not triggering</Values.2.Desc>
+			<Values.3.Name>Low</Values.3.Name>
+			<Values.3.Desc>15% chance of event not triggering</Values.3.Desc>
+			<Values.4.Name>None</Values.4.Name>
+			<Values.4.Desc>Events will always trigger.</Values.4.Desc>
 		</Text>
 	</List>
 </Texts>

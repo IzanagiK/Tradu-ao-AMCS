@@ -1,14 +1,14 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="School_13">
-			<DisplayName>Relação da Seita - WuDang Sect</DisplayName>
-			<Desc>A atitude dos discípulos de sua seita ao lidar com a Seita Wudang.</Desc>
-			<Selection.0.DisplayName>Benevolente</Selection.0.DisplayName>
-			<Selection.0.Desc>Lidando com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malévola</Selection.1.DisplayName>
-			<Selection.1.Desc>Lidando com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Evitando problemas</Selection.2.DisplayName>
-			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
+			<DisplayName>Sect Relation - WuDang Sect</DisplayName>
+			<Desc>The attitude your sect's disciples shall take when dealing with Wudang Sect.</Desc>
+			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.Desc>Dealing with them with a friendly attitude.</Selection.0.Desc>
+			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.Desc>Dealing with them with a hostile attitude.</Selection.1.Desc>
+			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.Desc>Take the initiative to evade them when encountering their people.</Selection.2.Desc>
 		</Text>
 	</List>
 </Texts>

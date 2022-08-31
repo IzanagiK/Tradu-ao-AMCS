@@ -2,49 +2,49 @@
 	<List>
 		<Text Name="GodStory_1">
 			<DisplayName>Preaching</DisplayName>
-			<Desc>Durante a viagem, [NAME] continuou pregando e ajudando mortais necessitados ao longo do caminho.</Desc>
+			<Desc>While travelling, [NAME] kept preaching and helping mortals in need along the way.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="GodStory_2">
 			<DisplayName>Preaching</DisplayName>
-			<Desc>Durante a viagem, [NAME] deparei com alguns mortais necessitados e os ajudou a sair de problemas.</Desc>
+			<Desc>While travelling, [NAME] came across some mortals in need and helped them get out of trouble.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_1">
 			<DisplayName>War of Mortals</DisplayName>
-			<Desc>[NAME] Apressou-se para [PLACE], e descobriu que estava envolvido em uma guerra com muitos sofrendo.</Desc>
-			<Selections.0.Display>Urge parar a guerra</Selections.0.Display>
-			<Selections.1.Display>Suprima a guerra com forca bruta</Selections.1.Display>
+			<Desc>[NAME] rushed to [PLACE], and found that it was engulfed in war with many suffering.</Desc>
+			<Selections.0.Display>Urge a stop to the war</Selections.0.Display>
+			<Selections.1.Display>Suppress war with brute force</Selections.1.Display>
 			<Selections.1.Tip>Golden Core</Selections.1.Tip>
-			<Selections.2.Display>Sair</Selections.2.Display>
+			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_2">
 			<DisplayName>Plagues wreak havoc</DisplayName>
-			<Desc>[NAME] Apressou-se para [PLACE] apenas para descobrir que a praga estava em pleno vigor, varias aldeias  já haviam sido dizimadas.</Desc>
-			<Selections.0.Display>Curar os pacientes</Selections.0.Display>
+			<Desc>[NAME] rushed to [PLACE] only to find that plague was in full force, several villages had already been wiped out.</Desc>
+			<Selections.0.Display>Cure the patients</Selections.0.Display>
 			<Selections.0.Tip>Golden Core</Selections.0.Tip>
-			<Selections.1.Display>Quarentena e bloqueio</Selections.1.Display>
-			<Selections.2.Display>Sair</Selections.2.Display>
+			<Selections.1.Display>Quarantine and lockdown</Selections.1.Display>
+			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_3">
 			<DisplayName>Evils in the World</DisplayName>
-			<Desc>[NAME] Apressou-se para [PLACE] apenas para encontrar a área repleta de qi maligno, as pessoas entraram em pânico.</Desc>
-			<Selections.0.Display>Use estrategia</Selections.0.Display>
-			<Selections.1.Display>Use forca bruta</Selections.1.Display>
+			<Desc>[NAME] rushed to [PLACE] only to find the area replete with evil qi, the people were in a panic.</Desc>
+			<Selections.0.Display>Use strategy</Selections.0.Display>
+			<Selections.1.Display>Use brute force</Selections.1.Display>
 			<Selections.1.Tip>Golden Core</Selections.1.Tip>
-			<Selections.2.Display>Sair</Selections.2.Display>
+			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_4">
 			<DisplayName>Sudden Disaster</DisplayName>
-			<Desc>While [NAME] Apressou-se para [PLACE] apenas para descobrir que a situação era terrivel, com muitos lutando para escapar do desastre.</Desc>
-			<Selections.0.Display>Ajude as pessoas</Selections.0.Display>
-			<Selections.1.Display>Sair</Selections.1.Display>
+			<Desc>While [NAME] rushed to [PLACE] only to find the situation was dire, with many scrambling to escape the disaster.</Desc>
+			<Selections.0.Display>Help the people</Selections.0.Display>
+			<Selections.1.Display>Leave</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_Gong_God_1">
 			<DisplayName>Lost Law</DisplayName>
-			<Desc>Ao chegar que o ravina mencionou,[NAME] descobriu que o raio aqui era fraco, mas incomum.</Desc>
-			<Selections.0.Display>Verifique a ravina</Selections.0.Display>
-			<Selections.1.Display>Sair</Selections.1.Display>
+			<Desc>Upon arriving that the ravine mentioned, [NAME] found that the lightning here was faint, yet unusual.</Desc>
+			<Selections.0.Display>Check the ravine</Selections.0.Display>
+			<Selections.1.Display>Leave</Selections.1.Display>
 		</Text>
 	</List>
 </Texts>
