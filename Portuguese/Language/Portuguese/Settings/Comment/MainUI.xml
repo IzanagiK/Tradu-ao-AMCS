@@ -3,42 +3,42 @@
 		<Text Name="MainUIWorldTime">
 			<Notes>Comment Panel of World Clock</Notes>
 			<Title>World Clock</Title>
-			<Desc>A cidade de bayeux e a cidade atual em que vivo,.</Desc>
-			<Tips>Clique com o botão direito para abrir o painel de comentários do [color=#D06508]Relógio mundial[/color].</Tips>
+			<Desc>Tempo do mundo, cujos números aumentam à medida que o jogo avança.</Desc>
+			<Tips>Clique com RMB para abrir o painel de comentários do[color=#D06508]World Clock[/color]</Tips>
 		</Text>
 		<Text Name="MainUIWeather">
 			<Notes>Only used to show tips at the entrance of comment panel of Weather.</Notes>
-			<Tips>Clique com o botão direito para abrir o painel de comentários de [color=#D06508]Clima[/color].</Tips>
+			<Tips>Clique com RMB para abrir o painel de comentários de [color=#D06508]Weather[/color].</Tips>
 		</Text>
 		<Text Name="MainUISectFengShui">
 			<Notes>Comment Panel of Sect's Feng Shui</Notes>
 			<Title>Sect's Feng Shui</Title>
-			<Desc>A seita Feng Shui.</Desc>
-			<Tips>Clique com o botão direito para abrir o painel de comentários da [color=#D06508]Seita Feng Shui[/color].</Tips>
+			<Desc>O Feng Shui de uma seita.</Desc>
+			<Tips>Clique com RMB para abrir o painel de comentários do [color=#D06508]Sect's Feng Shui[/color].</Tips>
 		</Text>
 		<Text Name="MainUIRoomFengShui">
 			<Notes>Comment Panel of Room's Feng Shui</Notes>
 			<Title>Room's Feng Shui</Title>
 			<Desc>O Feng Shui de uma sala.</Desc>
-			<Tips>Clique com o botão direito para abrir o painel de comentários de [color=#D06508]Quartos Feng Shui[/color].</Tips>
+			<Tips>Clique com RMB para abrir o painel de comentários de [color=#D06508]Room's Feng Shui[/color].</Tips>
 		</Text>
 		<Text Name="MainUILingShi">
 			<Notes>Comment Panel of Spirit Stone</Notes>
 			<Title>Spirit Stone Coin</Title>
-			<Desc>Produto universalmente aceito que pode ser usado como moeda para o comercio com outros.</Desc>
-			<Tips>Clique com o botão direito para abrir o painel de comentários de [color=#D06508]Spirit Stone[/color].</Tips>
+			<Desc>Produto universalmente aceito, que pode ser usado como moeda para comercio.</Desc>
+			<Tips>Clique com RMB para abrir o painel de comentários do [color=#D06508]Spirit Stone[/color].</Tips>
 		</Text>
 		<Text Name="MainUIInfluence">
 			<Notes>Comment Panel of Influence</Notes>
 			<Title>Influence</Title>
 			<Desc>A influencia de sua seita no mundo mortal pode ser usada para expandir seu poder no mundo mortal.</Desc>
-			<Tips>Clique com o botão direito para abrir o painel de comentários de [color=#D06508]Influencia[/color].</Tips>
+			<Tips>Clique com RMB para abrir o painel de comentários de [color=#D06508]Influence[/color].</Tips>
 		</Text>
 		<Text Name="MainUIWuXingGraph">
 			<Notes>Comment Panel of Five Element Diagram</Notes>
 			<Title>Five Element Diagram</Title>
-			<Desc>O Diagrama dos Cinco Elementos mostra cada uma das relações sinergicas entre os cinco elementos - Metal, Madeira, Água, Fogo e Terra.</Desc>
-			<Tips>Clique com o RMB para abrir o painel de comentários do [color=#D06508]Diagrama dos Cinco Elementos[/color].</Tips>
+			<Desc>O Diagrama dos Cinco Elementos mostra cada uma das relações sinergicas e antagonicas entre os cinco elementos - Metal, Madeira, Água, Fogo e Terra.</Desc>
+			<Tips>Clique com RMB para abrir o painel de comentários do [color=#D06508]Five Element Diagram[/color].</Tips>
 		</Text>
 	</List>
 </Texts>
