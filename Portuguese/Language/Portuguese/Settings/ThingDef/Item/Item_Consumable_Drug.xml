@@ -61,6 +61,7 @@
 		<Text Name="Item_TuEssence" sParam="Item">
 			<ThingName>Ocher Essence</ThingName>
 			<Desc>Medicina milagrosa do elemento Terra, com Qi turbulento morando dentro dele. Não pode ser consumido diretamente. Diz-se que a Essência Ocre cresce na Caverna Drake de Mt. Kunlun.</Desc>
+			<Item.FabaoSuffix>Idol, Puppet, Root, Seal</Item.FabaoSuffix>													
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
