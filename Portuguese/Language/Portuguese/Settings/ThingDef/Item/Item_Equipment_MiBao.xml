@@ -210,63 +210,63 @@
 		</Text>
 		<Text Name="Item_MiBao_KuiHuaShenJian" sParam="Item">
 			<ThingName>Unus</ThingName>
-			<Desc>Secret sword forged according to the Sunflower Refining Law, it is made by carving and piecing 3 Divine Jade together and mounted with 1 Fortune Seed. It then needs to absorb the breath of Polar Night Ouroboros to become a spirit. Every time this sword is used against the enemy, the first strike is several times of its original power. (Once equipped, right click to try to absorb Breath of Polar Night)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Breath of Polar Night 12 times.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Power of first sword strike increased by 500%. The effect is reset when replenishing Qi to the artifact.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Espada secreta forjada de acordo com a Lei de Refinação do Girassol, é feita esculpindo e juntando 3 Jade Divina e montada com 1 Semente da Fortuna. Ele então precisa absorver o sopro do Ouroboros da Noite Polar para se tornar um espírito. Toda vez que esta espada é usada contra o inimigo, o primeiro golpe é várias vezes de seu poder original. (Uma vez equipado, clique com o botão direito para tentar absorver Breath of Polar Night)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva Breath of Polar Night 12 vezes.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>O poder do primeiro golpe de espada aumentou em 500%. O efeito é redefinido ao reabastecer o Qi no artefato.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ZhuXianZhenTu" sParam="Item">
 			<ThingName>Slayer's Formation</ThingName>
-			<Desc>Secret chart of Formation Diagram that records the Ragestriker Formation. It is said to be the most ruthless Formation of all on ancient battlefields, being virtually invincible and unstoppable.</Desc>
+			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação do Ragestriker. Diz-se que é a formação mais implacável de todas nos campos de batalha antigos, sendo praticamente invencível e imparável.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_QiXingZhenTu" sParam="Item">
 			<ThingName>Conqueror's Formation</ThingName>
-			<Desc>Secret chart of Formation Diagram that records the Conqueror's Formation. It is said to be capable of harnessing the Grand Chariot's divine light of Aloofness, which grants it omniscient demon-slaying powers.</Desc>
+			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação do Conquistador. Diz-se que é capaz de aproveitar a luz divina de distanciamento da Grande Carruagem, que lhe concede poderes oniscientes de matar demônios.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianDiWuFangZhenTu" sParam="Item">
 			<ThingName>Impregnable Formation</ThingName>
-			<Desc>Secret chart of Formation Diagram that records the Impregnable Formation. It is said to be capable of deploying a indestructible field with the Five Directional Banners of Heaven and Earth to protect anything in the universe.</Desc>
+			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação Inexpugnável. Diz-se que é capaz de implantar um campo indestrutível com as Cinco Bandeiras Direcionais do Céu e da Terra para proteger qualquer coisa no universo.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_LiuYuZhenTu" sParam="Item">
 			<ThingName>Divine Law Formation</ThingName>
-			<Desc>Secret chart of Formation Diagram that records the Divine Law Formation. It is said to be a Formation of divinators of the six gods of Celestial Court, capable of turning the Mortal Realm into a paradise and making people live in spiritual harmony.</Desc>
+			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação da Lei Divina. Diz-se que é uma Formação de divinadores dos seis deuses da Corte Celestial, capazes de transformar o Reino Mortal em um paraíso e fazer as pessoas viverem em harmonia espiritual.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_LongXingZhenTu" sParam="Item">
 			<ThingName>Dragonrider Formation</ThingName>
-			<Desc>Secret Formation Diagram that records the Dragonrider Formation. It is said to be a dragon controlling Formation. When deployed, one can draw the power of Dragonsoul to perform some powerful Formation miracles.</Desc>
+			<Desc>Diagrama de Formação Secreta que registra a Formação do Cavaleiro do Dragão. Diz-se que é um dragão que controla a Formação. Quando implantado, pode-se extrair o poder de Dragonsoul para realizar alguns poderosos milagres de Formação.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_FengHunZhenTu" sParam="Item">
 			<ThingName>Phoenix Sword Formation</ThingName>
-			<Desc>Secret chart of Formation Diagram that records the Phoenix Sword Formation. It is said to be a phoenix-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</Desc>
+			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação da Espada da Fênix. Diz-se que é uma formação controladora da fênix. Quando implantado, pode-se extrair o poder de Phoenixsoul para realizar alguns milagres poderosos de Formação.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YinYangZhenTu" sParam="Item">
 			<ThingName>Yin Yang Formation</ThingName>
-			<Desc>Secret chart of Formation Diagram that records the Yin Yang Formation. It is said that this Formation is deployed according to the Rule of Yin and Yang. Utilizing the transformation of Yin and Yang, the Formation becomes extremely flexible.</Desc>
+			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação Yin Yang. Diz-se que esta Formação é implantada de acordo com a Regra do Yin e Yang. Utilizando a transformação de Yin e Yang, a Formação se torna extremamente flexível.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_SanYinZhenTu" sParam="Item">
 			<ThingName>Dark Force Formation</ThingName>
-			<Desc>Secret Formation Diagram that records the Dark Force Formation. It is said to be a Formation formed by pure Yin energy, which can greatly enhance your power.</Desc>
+			<Desc>Diagrama de Formação Secreta que registra a Formação da Força Negra. Diz-se que é uma Formação formada por pura energia Yin, que pode aumentar muito seu poder.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_BaMenZhenTu" sParam="Item">
 			<ThingName>Abyssal Sword Formation</ThingName>
-			<Desc>Secret Formation Diagram that records the Abyssal Sword Formation. It is said to be a Formation that is deployed according to the rules of the Eight Trigram Gates, with both offensive and defensive capabilities. Very miraculous.</Desc>
+			<Desc>Diagrama de Formação Secreta que registra a Formação da Espada Abissal. Diz-se que é uma formação que é implantada de acordo com as regras dos Oito Trigramas, com capacidades ofensivas e defensivas. Muito milagroso.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShenMuZhenTu" sParam="Item">
 			<ThingName>Wood Spirit Formation</ThingName>
@@ -282,51 +282,51 @@
 		</Text>
 		<Text Name="Item_Wonder_BaBaoGongDe" sParam="Item">
 			<ThingName>Heart of Merit</ThingName>
-			<Desc>The true essence formed in the Pool of the Eight Virtues, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada na Piscina das Oito Virtudes, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_WanDaoZunFaZuo" sParam="Item">
 			<ThingName>Heart of Law</ThingName>
-			<Desc>The true essence formed in the Throne of Ten Thousand Taos, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada no Trono dos Dez Mil Taos, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_QiQingQingTongShu" sParam="Item">
 			<ThingName>Heart of Emotion</ThingName>
-			<Desc>The true essence formed in the Sacred Wood of Emotions, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada na Madeira Sagrada das Emoções, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_ZhouTianXingDouPan" sParam="Item">
 			<ThingName>Heart of the Stars</ThingName>
-			<Desc>The true essence formed in the Astral Plate of Universal Cycle, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada na Placa Astral do Ciclo Universal, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_WuLongXuanJinTa" sParam="Item">
 			<ThingName>Heart of the Sun</ThingName>
-			<Desc>The true essence formed in the Draconic Pagoda of Yang, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada no Pagode Dracônico do Yang, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_ShuShanJianChi" sParam="Item">
 			<ThingName>Heart of the Sword</ThingName>
-			<Desc>The true essence formed in the Blue Lotus Pool of Sword, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada no Blue Lotus Pool of Sword, que também é a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_LingYuFeng" sParam="Item">
 			<ThingName>Heart of Jade</ThingName>
-			<Desc>The true essence formed in the Numinous Peak, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada no Pico Numinoso, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_WanGuXieFaTan" sParam="Item">
 			<ThingName>Heart of Crimson</ThingName>
-			<Desc>The true essence formed in the Altar of Deathly Sorcery, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada no Altar da Feitiçaria Mortal, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_XuanCiTianKeng" sParam="Item">
 			<ThingName>Heart of Stone</ThingName>
-			<Desc>The true essence formed in the Crater of Meta-magnetic, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada na Cratera do Metamagnético, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_QiShaShenBei" sParam="Item">
 			<ThingName>Heart of the Seven-Slaughtering</ThingName>
-			<Desc>The true essence formed in the Divine Stele of Seven Slaughters, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada na Estela Divina das Sete Matanças, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_XuanYinShengQuan" sParam="Item">
 			<ThingName>Heart of the Moon</ThingName>
-			<Desc>The true essence formed in the Sacred Spring of Yin, which is also the root of all its profoundness.</Desc>
+			<Desc>A verdadeira essência formada na Fonte Sagrada do Yin, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_YaoZuYiHai" sParam="Item">
 			<ThingName>Ancestral Yaoguai's Remains</ThingName>
-			<Desc>The concentrated substance formed by the remaining spirit within the Ancestral Yaoguai's Remains, which is also the root of all its profoundness.</Desc>
+			<Desc>A substância concentrada formada pelo espírito remanescente dentro dos Restos do Ancestral Yaoguai, que também é a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_QianKunLingJing" sParam="Item">
 			<ThingName>Universe Spirit Crystal</ThingName>
