@@ -62,19 +62,19 @@
 		</Text>
 		<Text Name="Item_MiBao_TaiYiFenGuangJian" sParam="Item">
 			<ThingName>Borealis</ThingName>
-			<Desc>Divine sword passed on from an ancient Taoist school. Refine a thousand pound of jade mixed with a hundred ounce of Jade Essence jade to congeal into a sword incubation, and then quench it with the power of Heavenly Tribulation to create Swordsprite. Once drawn, the sword will split out multiple swordsprites. Very miraculous.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Survive 7 Ascension Tribulations while carrying an artifact.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>For every 7 attacks, generate a swordsprite that lasts 7 seconds.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Espada divina passada de uma antiga escola taoísta. Refinar mil libras de jade misturado com cem onças de jade de Essência de Jade para congelar em uma incubação de espada e, em seguida, extingui-la com o poder da Tribulação Celestial para criar Swordsprite. Uma vez desembainhada, a espada dividirá vários swordsprites. Muito milagroso.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Sobreviva a 7 Tribulações da Ascensão carregando um artefato.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Para cada 7 ataques, gere um swordsprite que dura 7 segundos.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_WuqiLeiFu" sParam="Item">
 			<ThingName>Thunder Talisman</ThingName>
-			<Desc>Ancient artifact of the Mystic Unity Sect. After drawing the talisman with Divine Mind, on shall harness the power of Heavenly Tribulation of Five Elements to make it spiritual. Significantly improves one's comprehension of Spell.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Survive a Heavenly Tribulation of Metal element while carrying an artifact.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.ActiveCondition.1.des>Survive a Heavenly Tribulation of Wood element while carrying an artifact.</Item.Fabao.ActiveCondition.1.des>
-			<Item.Fabao.ActiveCondition.2.des>Survive a Heavenly Tribulation of Water element while carrying an artifact.</Item.Fabao.ActiveCondition.2.des>
-			<Item.Fabao.ActiveCondition.3.des>Survive a Heavenly Tribulation of Fire element while carrying an artifact.</Item.Fabao.ActiveCondition.3.des>
-			<Item.Fabao.ActiveCondition.4.des>Survive a Heavenly Tribulation of Earth element while carrying an artifact.</Item.Fabao.ActiveCondition.4.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Spell skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato antigo da Seita da Unidade Mística. Depois de desenhar o talismã com a Mente Divina, deve aproveitar o poder da Tribulação Celestial dos Cinco Elementos para torná-lo espiritual. Melhora significativamente a compreensão do Feitiço.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Sobreviva a uma Tribulação Celestial do elemento Metal enquanto carrega um artefato.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>Sobreviva a uma Tribulação Celestial da Madeira enquanto carrega um artefato.</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>Sobreviva a um elemento da Tribulação Celestial da Água enquanto carrega um artefato.</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>Sobreviva a um elemento Heavenly Tribulation of Fire enquanto carrega um artefato.</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>Sobreviva a um elemento da Tribulação Celestial da Terra enquanto carrega um artefato.</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Nível de habilidade de magia aumentado em 10.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JinFabao" sParam="Item">
 			<ThingName>White Cloud Banner</ThingName>
