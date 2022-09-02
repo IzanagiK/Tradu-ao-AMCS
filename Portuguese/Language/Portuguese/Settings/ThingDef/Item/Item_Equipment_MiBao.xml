@@ -132,81 +132,81 @@
 		</Text>
 		<Text Name="Item_MiBao_YuanShenXinJian" sParam="Item">
 			<ThingName>Truthbringer</ThingName>
-			<Desc>Secret artifact of Buddhist tradition according to legends. Skeleton remains left by ascended immortals are used as the core, which is then infused into 99 swords. More than a hundred years of meditation with a Heart of Sword is then needed for it to become a spirit. Significantly improves one's Comprehension in Sword Mastery.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Meditate for 360 years while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Sword Mastery skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato secreto da tradição budista de acordo com as lendas. Restos de esqueleto deixados por imortais ascendidos são usados como núcleo, que é então infundido em 99 espadas. São necessários mais de cem anos de meditação com um Coração de Espada para que ele se torne um espírito. Melhora significativamente a compreensão do domínio da espada.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Medite por 360 anos durante a incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Nível de habilidade de domínio da espada aumentado em 10.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ZhuXianJian" sParam="Item">
 			<ThingName>Ragestriker</ThingName>
-			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with nine Lumina Cores to create the incubation of Metal element, which then absorbs Celestial Thunders to become spiritual. Its power multiplies when fighting against enemies that are also using artifacts. (Once equipped, right click to try to absorb Thunderstorm)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Thunderstorm 9 times.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Deals 1.5x damage when fighting against other artifacts.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou o Chifre do Dragão de Inundação como o núcleo, combinado com nove Núcleos Lumina para criar a incubação do elemento Metal, que então absorve os Trovões Celestiais para se tornar espiritual. Seu poder se multiplica ao lutar contra inimigos que também estão usando artefatos. (Uma vez equipado, clique com o botão direito para tentar absorver a Tempestade)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorver Trovoada 9 vezes.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Causa 1,5x de dano ao lutar contra outros artefatos.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_LuXianJian" sParam="Item">
 			<ThingName>Deathbringer</ThingName>
-			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with a hundred pound of Fire Essence ore to create the incubation of Fire element, which then absorbs Foehn Wind to become spiritual. There is a chance of spirit power spike occurring when attacking with it, dealing multiplied damage. (Once equipped, right click to try to absorb Foehn Wind)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Foehn Wind 9 times.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>When dealing damage, there is a 10% chance of dealing 5x damage.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou Chifre do Dragão de Inundação como o núcleo, combinado com cem libras de minério de Essência de Fogo para criar a incubação do elemento Fogo, que então absorve o Vento Foehn para se tornar espiritual. Há uma chance de ocorrer um pico de poder espiritual ao atacar com ele, causando dano multiplicado. (Uma vez equipado, clique com o botão direito para tentar absorver o Vento Foehn)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva Foehn Wind 9 vezes.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Ao causar dano, há 10% de chance de causar 5x de dano.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_XianXianJian" sParam="Item">
 			<ThingName>Endless Fury</ThingName>
-			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with nine branches of Phoenixwood to create the incubation of Wood element, which then absorbs Noxious Air to become spiritual. Its attacks are accompanied by a power of corrosion, dealing additional damage to Qi Barrier. (Once equipped, right click to try to absorb Noxious Air)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Noxious Air 9 times.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Deals 1.5x damage when attacking the enemy's body itself.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou o Chifre do Dragão de Inundação como o núcleo, combinado com nove ramos de Phoenixwood para criar a incubação do elemento Madeira, que então absorve o Ar Nocivo para se tornar espiritual. Seus ataques são acompanhados por um poder de corrosão, causando dano adicional à Barreira Qi. (Uma vez equipado, clique com o botão direito para tentar absorver o Ar Nocivo)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorver Ar Nocivo 9 vezes.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Causa 1,5x de dano ao atacar o próprio corpo do inimigo.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JueXianJian" sParam="Item">
 			<ThingName>Wrathbringer</ThingName>
-			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with nine Holy Stones to create the incubation of Earth element, which then absorbs Sandstorms to become spiritual. When launching an attack, there is a small chance of dealing a special damage, the amount of which is relative to the enemy's Qi. (Once equipped, right click to try to absorb Sandstorm)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Sandstorm 9 times.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing an additional damage that is equal to 30% of the current target's Qi.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou o Chifre do Dragão de Inundação como o núcleo, combinado com nove Pedras Sagradas para criar a incubação do elemento Terra, que então absorve as Tempestades de Areia para se tornar espiritual. Ao lançar um ataque, há uma pequena chance de causar um dano especial, cuja quantidade é relativa ao Qi do inimigo. (Uma vez equipado, clique com o botão direito para tentar absorver Sandstorm)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva Tempestade de Areia 9 vezes.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Ao atacar o próprio corpo do inimigo, há 1% de chance de causar um dano adicional igual a 30% do Qi do alvo atual.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianLangDing" sParam="Item">
 			<ThingName>Sirius Spike</ThingName>
-			<Desc>Wicked artifact from another realm. Using the remaining evilness left by ascended immortal as the catalyst, the essence of Gnarled Vine's power is condensed onto a Demon Wolf's Fang. Nurture it with your own essence to make it spiritual. This artifact is extremely thin and sensitive when being used in battle. Once triggered, it will split into 9 apparitions to attack the enemy. It is a vicious weapon. (Once equipped, right click to feed essence to it)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Feed the artifact 18 times with your essence.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>For every 3 attacks, generates 9 spike apparitions that last 3 seconds.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato perverso de outro reino. Usando a maldade restante deixada pelo imortal ascendido como catalisador, a essência do poder de Gnarled Vine é condensada em uma Presa de um Lobo Demônio. Alimente-o com sua própria essência para torná-lo espiritual. Este artefato é extremamente fino e sensível ao ser usado em batalha. Uma vez acionado, ele se dividirá em 9 aparições para atacar o inimigo. É uma arma cruel. (Uma vez equipado, clique com o botão direito para alimentar a essência)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Alimente o artefato 18 vezes com sua essência.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Para cada 3 ataques, gera 9 aparições de pico que duram 3 segundos.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianShu" sParam="Item">
 			<ThingName>Sword of Dubhe</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Power. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Power Bonus by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente seu Poder de Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta seu bônus de poder de artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianQuan" sParam="Item">
 			<ThingName>Sword of Megrez</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Qi. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Qi Bonus by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente seu Qi de Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta seu bônus de Qi de artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianJi" sParam="Item">
 			<ThingName>Sword of Phegda</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact's Knockback Resistance. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact's Knockback Resistance by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar a Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente a Resistência de Repulsão do Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta a Resistência de Repulsão do seu Artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianXuan" sParam="Item">
 			<ThingName>Sword of Merak</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Turn Speed. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Turn Speed by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente sua Velocidade de Turno do Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta a velocidade de giro do artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YuHeng" sParam="Item">
 			<ThingName>Sword of Alioth</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Qi Recovery Rate. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Qi Recovery Rate by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente sua Taxa de Recuperação de Qi do Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta sua taxa de recuperação de Qi de artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_KaiYang" sParam="Item">
 			<ThingName>Sword of Mizar</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Knockback. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Knockback by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente seu Artifact Knockback. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta seu Repulsão de Artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YaoGuang" sParam="Item">
 			<ThingName>Sword of Elkeid</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Fly Speed. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Fly Speed by 30%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente sua Velocidade de Voo de Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta a Velocidade de Voo do Artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_KuiHuaShenJian" sParam="Item">
 			<ThingName>Unus</ThingName>
