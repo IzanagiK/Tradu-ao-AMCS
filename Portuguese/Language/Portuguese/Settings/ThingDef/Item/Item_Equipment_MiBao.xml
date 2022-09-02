@@ -78,57 +78,57 @@
 		</Text>
 		<Text Name="Item_MiBao_JinFabao" sParam="Item">
 			<ThingName>White Cloud Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Sagacity Fruit essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Earth element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Wood element.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Earth element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Wood element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a essência Sagacity Fruit em um Tough Demon Beast Hide como a bandeira e, em seguida, utilizou o poder de um elemento do Núcleo Dourado da Terra de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Madeira.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado da Terra de Nível I enquanto carrega esta incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Aumenta em 100% o dano aos alvos do elemento Madeira.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_MuFabao" sParam="Item">
 			<ThingName>Green Lotus Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Gnarled Vine essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Water element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Earth element.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Water element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Earth element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a essência Gnarled Vine em um Tough Demon Beast Hide como a bandeira e, em seguida, utilizou o poder de um elemento Golden Core of Water de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Terra.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado de Água de Nível I ao realizar esta incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Aumenta o dano aos alvos do elemento Terra em 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShuiFabao" sParam="Item">
 			<ThingName>Black Vulture Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Prismatic Lotus essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Metal element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Fire element.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Metal element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Fire element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o pólo, desenhando com a essência Prismatic Lotus em um Tough Demon Beast Hide como a bandeira, e então utilizou o poder de um elemento do Núcleo Dourado de Metal de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Fogo.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado de Metal de Nível I enquanto realiza esta incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Aumenta em 100% o dano aos alvos do elemento Fogo.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_HuoFabao" sParam="Item">
 			<ThingName>Soaring Flame Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Crimson Fruit essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Wood element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Metal element.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Wood element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Metal element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a essência Crimson Fruit em um Tough Demon Beast Hide como a bandeira e, em seguida, utilizou o poder de um elemento Golden Core of Wood de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Metal.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado de Madeira de Nível I enquanto realiza esta incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Aumenta o dano aos alvos do elemento Metal em 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TuFabao" sParam="Item">
 			<ThingName>Yellow Apricot Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Ochre Essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Fire element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Water element.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Fire element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Water element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso de Phoenix como o poste, desenhando com Ochre Essence em um Tough Demon Beast Hide como a bandeira e, em seguida, utilizou o poder de um elemento Golden Core of Fire de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Água.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado de Fogo de Nível I enquanto carrega esta incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Aumenta em 100% o dano a alvos do elemento Água.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JinLianShenZuo" sParam="Item">
 			<ThingName>Golden Lotus Stand</ThingName>
-			<Desc>Long-lost Legacy Artifact of Buddhist tradition. Using Prismatic Lotus as the incubation, it is infused with thirty-six Dark Scales of Flood Dragon, and then nurtured with its own essence to become spiritual. This artifact has such a huge Qi Capacity that, although it cannot be used to attack, it can protect one's body from any artifact damage.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Spend 100,000 stamina while carrying this artifact.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Surrounding the whole body, it focuses on defense and will not attack.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato de Legado Perdido da Tradição Budista. Usando o Lótus Prismático como a incubação, ele é infundido com trinta e seis Escamas Negras do Dragão do Dilúvio, e então nutrido com sua própria essência para se tornar espiritual. Este artefato tem uma capacidade de Qi tão grande que, embora não possa ser usado para atacar, ele pode proteger o corpo de qualquer dano de artefato.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Gaste 100.000 stamina enquanto carrega este artefato.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Envolvendo todo o corpo, foca na defesa e não ataca.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TunLingShenJian" sParam="Item">
 			<ThingName>Spellbound Scissors</ThingName>
-			<Desc>Amazing artifact crafted by ancient Taoist school that imitated the Spellbound Beasts. This artifact was created by using 2 Flood Dragon's Horns as the basis and then smelting ten thousand pounds of Spirit Stone to quench it into being. The more Qi spent while using this artifact, the more powerful it becomes.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Spend a total of 100,000,000 Qi while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>For every 10,000 Qi consumed, damage is increased by 10%, up to a maximum of 1000%. The effect is reset when replenishing Qi to the artifact.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Incrível artefato criado pela antiga escola taoísta que imitava as Bestas Encantadas. Este artefato foi criado usando 2 Chifres de Dragão de Inundação como base e, em seguida, fundindo dez mil libras de Pedra do Espírito para extingui-lo. Quanto mais Qi é gasto ao usar este artefato, mais poderoso ele se torna.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Gaste um total de 100.000.000 Qi durante a incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Para cada 10.000 Qi consumidos, o dano aumenta em 10%, até um máximo de 1000%. O efeito é redefinido ao reabastecer o Qi no artefato.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShenNongDing" sParam="Item">
 			<ThingName>Cauldron of the Harvest</ThingName>
-			<Desc>It is said to be a imitation of the cauldron used by Divine Farmer of old. The cauldron's body is carved out of Divine Jade, and forged by using Phoenix Fire Jade as the Spark of fire while combined with the powerful potency from ten thousands pounds of Spirit Leaf. When using this artifact, the more types of Elixir the user has taken, the more extent to which they will be able to stimulate its power.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Concoct 36 Elixirs while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>For each kind of Elixir consumed, its power is increased by 5%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Diz-se que é uma imitação do caldeirão usado pelo Fazendeiro Divino de antigamente. O corpo do caldeirão é esculpido em Jade Divino e forjado usando o Phoenix Fire Jade como a Centelha de fogo enquanto combinado com a poderosa potência de dez mil libras de Folha do Espírito. Ao usar este artefato, quanto mais tipos de Elixir o usuário tiver, mais ele poderá estimular seu poder.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Faça 36 Elixires durante a incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Para cada tipo de Elixir consumido, seu poder é aumentado em 5%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_QingNingFeiYu" sParam="Item">
 			<ThingName>Feather of Agility</ThingName>
-			<Desc>Precious artifact from the Otherworld. Combine Phoenix's Oblivion Feather and Mantle Feather, and then neutralize its blaze with the essence of ten thousand pounds of Purity Leaf to create the incubation. Which then needs to undergo a process of closed-door self-training in a quiet and tranquil location in order to become spiritual. When using this artifact to attack, there is a chance of activating Breath of Tranquility to compensate yourself, reducing Spell Cast Delay by 1 second.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Stay on Heavenstep Peak for 36 days while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Every 2 attacks reduce skill cooldown by 1 second.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato precioso do Outro Mundo. Combine o Oblivion Feather e o Mantle Feather da Phoenix, e então neutralize sua chama com a essência de dez mil libras de Purity Leaf para criar a incubação. Que então precisa passar por um processo de autotreinamento a portas fechadas em um local calmo e tranquilo para se tornar espiritual. Ao usar este artefato para atacar, há uma chance de ativar Breath of Tranquility para compensar a si mesmo, reduzindo o Atraso de Conjuração de Feitiços em 1 segundo.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Permaneça no Pico Heavenstep por 36 dias enquanto realiza a incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>A cada 2 ataques reduz a recarga da habilidade em 1 segundo.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YuanShenXinJian" sParam="Item">
 			<ThingName>Truthbringer</ThingName>
