@@ -2,63 +2,63 @@
 	<List>
 		<Text Name="Item_MiBao_WuDuZhuXianSword" sParam="Item">
 			<ThingName>Venombane</ThingName>
-			<Desc>Wicked artifact as recorded in the Book of a Hundred Poisons. First, a Sword Incubation is formed by mixing nine Phoenixwood with a certain number of Beast Blood that matches the thirty-six heavenly stars. Then five highly poisonous Primordial Spirits from Snake Demons are needed to made it into the final product. When attacking someone with this sword, its venomous breeze can even penetrate one's Qi Barrier and cause damage on the enemy directly.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Kill 5 Snake Demons while carrying this item.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>For every 15th strike, it will attack the cultivator's body itself, penetrating shield and deal additional damage.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato perverso registrado no Livro dos Cem Venenos. Primeiro, uma incubação de espada é formada pela mistura de nove Phoenixwood com um certo número de Beast Blood que combina com as trinta e seis estrelas celestiais. Então, cinco Espíritos Primordiais altamente venenosos de Snake Demons são necessários para torná-lo no produto final. Ao atacar alguém com esta espada, sua brisa venenosa pode até penetrar na Barreira de Qi e causar danos diretamente ao inimigo.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Mate 5 Demônios Cobra carregando este item.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>A cada 15 golpes, ele atacará o próprio corpo do cultivador, penetrando no escudo e causando dano adicional.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_BaiLingZhanXianSword" sParam="Item">
 			<ThingName>Immortal Slayer</ThingName>
-			<Desc>Ancient sword technique passed down from the Wutai Sect of old. It is made by first melting ten Spirit Crystals along with a Soul Pearl  to form a Sword Incubation, and then sacrificing the Blessings of a hundred living beings to it. Each time the sword is used, its Blessing and power will gradually increase, until infused with Qi again.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Kill 100 living beings while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>The base power of artifact is increased by 1% for every 1 second the sword maintained flying. The effect is cleared when it returns.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Técnica de espada antiga transmitida da antiga Seita Wutai. É feito primeiro derretendo dez Cristais Espirituais junto com uma Pérola da Alma para formar uma Incubação de Espadas e, em seguida, sacrificando as Bênçãos de cem seres vivos a ela. Cada vez que a espada é usada, sua Bênção e poder aumentarão gradualmente, até serem infundidos com Qi novamente.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Mate 100 seres vivos durante a incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>O poder base do artefato é aumentado em 1% a cada 1 segundo que a espada continua voando. O efeito é limpo quando retorna.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShiErShaShenMoLingSha" sParam="Item">
 			<ThingName>Sand of Destruction</ThingName>
-			<Desc>Vicious artifact recorded in the Book of a Hundred Poisons. It is crafted by first mixing thousands of pounds of Igneocopper Powder with the five Spirit Liquids and concoct them into a small bag of Spirit Powder, then sacrificing twelve living beings with Primordial Spirit level of cultivation to it to incite ferociousness. By using this artifact, one can pollute the artifact of his opponent, making it unavailable for a period of time.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Kill 12 living beings with Primordial Spirit while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>For every 12 attacks on a same artifact, it can disable the target for a certain length of time corresponding to its tier.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato cruel registrado no Livro dos Cem Venenos. Ele é criado misturando primeiro milhares de libras de Pó de Igneocobre com os cinco Líquidos Espirituais e os prepara em um pequeno saco de Pó Espiritual, depois sacrificando doze seres vivos com nível de cultivo do Espírito Primordial para incitar a ferocidade. Ao usar este artefato, pode-se poluir o artefato de seu oponente, tornando-o indisponível por um período de tempo.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Mate 12 seres vivos com Espírito Primordial enquanto carrega a incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Para cada 12 ataques em um mesmo artefato, ele pode desabilitar o alvo por um determinado período de tempo correspondente ao seu nível.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianMoHuaXueShenDao" sParam="Item">
 			<ThingName>Bloodsucker</ThingName>
-			<Desc>Wicked artifact from the realm of Demons. First, thousands of pounds of Igneocopper essence are refined into an incubation. Then the primordial yang essence from 27 male living beings are needed to form its spirit. When using this artifact, the lower one's Health is, the higher the artifact's power becomes.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Kill 27 male living beings while carrying this rare incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>For every 1% Health lower, Artifact Power is increased by 5%.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato perverso do reino dos Demônios. Primeiro, milhares de quilos de essência de Igneocobre são refinados em uma incubação. Então, a essência yang primordial de 27 seres vivos masculinos é necessária para formar seu espírito. Ao usar este artefato, quanto menor for a Saúde de um, maior será o poder do artefato.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Mate 27 seres vivos do sexo masculino enquanto carrega esta incubação rara.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Para cada 1% de Vida menor, o Poder do Artefato aumenta em 5%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YinHunZhu" sParam="Item">
 			<ThingName>Vortex Orb</ThingName>
-			<Desc>Secret Legacy Artifact passed down from the ancient demonic school of Blood Master Searcher. It is created by combining 9 Soul Pearl s while utilizing grudges as the catalyst to form one small orb, and then harness the lives of 36 living beings with Primordial Spirit level of cultivation. By killing with this orb, one can gradually incite ferociousness within it. Each person killed will increase its power by 10%, up to a maximum stacks of 36. However, a single day without blood and it will return to slumber.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Kill 36 living beings with Primordial Spirit while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Each living being killed will increase its power by 10%, up to a maximum stacks of 36. The effect is cleared if it doesn't drink blood for 1 day.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato do Legado Secreto transmitido da antiga escola demoníaca do Blood Master Searcher. Ele é criado combinando 9 Soul Pearls enquanto utiliza rancores como catalisador para formar um pequeno orbe e, em seguida, aproveitar as vidas de 36 seres vivos com o nível de cultivo do Espírito Primordial. Ao matar com este orbe, pode-se gradualmente incitar a ferocidade dentro dele. Cada pessoa morta aumentará seu poder em 10%, até um máximo de 36 pilhas. No entanto, um único dia sem sangue e ele voltará a dormir.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Mate 36 seres vivos com o Espírito Primordial enquanto carrega a incubação.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Cada ser vivo morto aumentará seu poder em 10%, até um máximo de 36 acúmulos. O efeito é cancelado se não beber sangue por 1 dia.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JiuTianYuanYangChi" sParam="Item">
 			<ThingName>Heavenly Measure</ThingName>
-			<Desc>Guardian artifact passed by Guangcheng Zi, the golden immortal of Chan Cult. It has nine golden flowers and a wisp of purple Qi dwelling on it. Each golden flower is congealed from the essence of one Lumina Core, while the purple Qi is refined from the Breath of Tribulation. Every nine attacks with this artifact will launch a wisp of yang Qi to attack the target's body itself with appalling power.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Spiritual refine the incubation 9 times.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Every 9th attack will cast a spell on the target enemy.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato guardião passado por Guangcheng Zi, o imortal dourado do Culto Chan. Tem nove flores douradas e um fio de Qi roxo morando nela. Cada flor dourada é congelada da essência de um Núcleo Lumina, enquanto o Qi roxo é refinado do Sopro da Tribulação. A cada nove ataques com este artefato lançará um fio de yang Qi para atacar o próprio corpo do alvo com um poder terrível.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Refinar a incubação espiritual 9 vezes.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Cada 9º ataque lançará um feitiço no inimigo alvo.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_LongXinYinYangGui" sParam="Item">
 			<ThingName>Draconic Tablet</ThingName>
-			<Desc>Legacy Artifact inspired by the remains of the Torch Dragon's primordial spirit. Its core is formed by condensing a hundred pound of Jade and the essence of Torch Dragon together, aided with the power of change harnessed from nine consecutive midday and midnights to become spirit. Significantly improves one's Comprehension in Protection.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Specter refine at midday or midnight successfully for 9 continuous days.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>Protection skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato Legado inspirado nos restos do espírito primordial do Dragão da Tocha. Seu núcleo é formado pela condensação de cem libras de Jade e a essência do Torch Dragon juntos, auxiliados pelo poder de mudança aproveitado de nove meios-dias e meia-noites consecutivos para se tornar espírito. Melhora significativamente a compreensão da proteção.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Refinamento de espectro ao meio-dia ou meia-noite com sucesso por 9 dias contínuos.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Nível de habilidade de proteção aumentado em 10.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_DaiShenZhu" sParam="Item">
 			<ThingName>Illusion Sphere</ThingName>
-			<Desc>Legacy Artifact passed on from the Book of a Hundred Poisons. Using a beast Soul Pearl  as the basis, it is fused with drugs of Five Elements to form a core. The orb is then infused with drugs of Five Elements successively with the spirit refinement technique. Although the object cannot be used to attack nor defend, it can bring you back from death once in case of fatal calamity. Very mysterious.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Attempt to spiritual refinement the artifact 25 times.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>At the cost of being shattered, defy death once and restore all damage dealt to you.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato de Legado transmitido do Livro dos Cem Venenos. Usando uma Besta Soul Pearl como base, ela é fundida com drogas dos Cinco Elementos para formar um núcleo. O orbe é então infundido com drogas dos Cinco Elementos sucessivamente com a técnica de refinamento do espírito. Embora o objeto não possa ser usado para atacar nem defender, ele pode trazê-lo de volta da morte uma vez em caso de calamidade fatal. Muito misterioso.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Tente refinar espiritualmente o artefato 25 vezes.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Ao custo de ser destruído, desafie a morte uma vez e restaure todo o dano causado a você.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_QiJueShenZhen" sParam="Item">
 			<ThingName>Needles of Tribulation</ThingName>
-			<Desc>Artifact crafted by the ancient cultivators to fight the heaven itself with their lives. Seven divine needles were congealed from seven precious materials, which are then repeatedly tempered to reach a state in between tangibility and intangibility and fused into a incubation. Due to the conflict between physical properties, the divine needle at this point would have become like a mortal object again. Its power needs to be gradually reactivated through specter refinement for it to complete. When using this artifact, the closer you are to the end of your lifespan, the more powerful it becomes.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Successfully specter refine the artifact 11 times.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>The closer the user to maximum lifespan, the more powerful the artifact will be.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato criado pelos antigos cultivadores para lutar contra o próprio céu com suas vidas. Sete agulhas divinas foram congeladas a partir de sete materiais preciosos, que são então repetidamente temperados para atingir um estado entre tangibilidade e intangibilidade e fundidos em uma incubação. Devido ao conflito entre as propriedades físicas, a agulha divina neste ponto teria se tornado um objeto mortal novamente. Seu poder precisa ser reativado gradualmente através do refinamento do espectro para que ele seja concluído. Ao usar este artefato, quanto mais próximo você estiver do fim de sua vida útil, mais poderoso ele se tornará.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Refinar com sucesso o artefato 11 vezes.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Quanto mais próximo o usuário estiver da vida útil máxima, mais poderoso será o artefato.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_XiXingShenSuo" sParam="Item">
 			<ThingName>Stardust Shuttle</ThingName>
-			<Desc>Secret artifact of the ancient Taiyin Cult. An incubation is forged by combining the essence of Ice Crystal with the meridian channels from a Flood Dragon's tail, and then nurtured with breath of a maiden. When attacking with this artifact, a portion of damage it caused can be converted into the artifact's own Qi.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Carried and nurtured by a maiden girl for one year.</Item.Fabao.ActiveCondition.0.des>
-			<Item.Fabao.SpecialAbility.0.Desc>10% of damage dealt will be replenished to the artifact's Qi.</Item.Fabao.SpecialAbility.0.Desc>
+			<Desc>Artefato secreto do antigo Culto Taiyin. Uma incubação é forjada combinando a essência do Cristal de Gelo com os canais meridianos da cauda de um Dragão de Inundação, e então nutrida com o sopro de uma donzela. Ao atacar com este artefato, uma parte do dano causado pode ser convertida no próprio Qi do artefato.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Carregado e nutrido por uma menina solteira por um ano.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>10% do dano causado será reposto no Qi do artefato.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TaiYiFenGuangJian" sParam="Item">
 			<ThingName>Borealis</ThingName>
