@@ -51,7 +51,7 @@
 			<Tasks.12.TaskDesc>O jogador pode colocar o cursor em Cortar para ver sua tecla de atalho.</Tasks.12.TaskDesc>
 			<Tasks.13.TaskDesc>Use a tecla de atalho {0} para acessar rapidamente o corte de madeira.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Arraste e selecione uma área-alvo para emitir Corte em lote.</Tasks.14.TaskDesc>
-			<Tasks.16.TaskDesc>Mude para o modo de velocidade 3x clicando em 3x no canto superior esquerdo.</Tasks.16.TaskDesc>
+			<Tasks.16.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.16.TaskDesc>
 			<Tasks.18.TaskDesc>Aguarde até que o corte esteja completo.</Tasks.18.TaskDesc>
 			<Tasks.20.TipsData.Desc>O tutorial usa a coleta de madeira como exemplo, e outros materiais como minérios, metais, alimentos, etc. são coletados de forma semelhante.</Tasks.20.TipsData.Desc>
 			<Tasks.22.TaskDesc>Clique em Build no canto inferior esquerdo para abrir a página de Buildings.</Tasks.22.TaskDesc>
@@ -74,46 +74,46 @@
 		</Text>
 		<Text Name="BuildRoom">
 			<Type>Basic</Type>
-			<DisplayName>Room Construction</DisplayName>
-			<Desc>Learn basic room construction in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Room Planning</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Construct a Room</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Set an Entrance for the Room</Chapters.0.Tasks.1>
-			<Chapters.0.Tasks.2>Place Furniture</Chapters.0.Tasks.2>
-			<Chapters.0.Tasks.3>Place Decorations</Chapters.0.Tasks.3>
-			<Chapters.0.Tasks.4>Wait until the construction is complete.</Chapters.0.Tasks.4>
-			<Chapters.1.DisplayName>Room Arrangement &amp; Related Stats</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Select a Resident</Chapters.1.Tasks.0>
-			<Chapters.1.Tasks.1>Check Room Stats</Chapters.1.Tasks.1>
-			<Tasks.1.TipsData.Desc>We have enough resources, now let's use them to build a room for characters to live in.</Tasks.1.TipsData.Desc>
-			<Tasks.2.TaskDesc>Click Build in the bottom left corner to open the Build page.</Tasks.2.TaskDesc>
-			<Tasks.3.TaskDesc>Click Wall to begin the placing mode.</Tasks.3.TaskDesc>
-			<Tasks.4.TaskDesc>Drag and place the wall at the designated location.</Tasks.4.TaskDesc>
-			<Tasks.7.TaskDesc>Click Door to begin the placing mode.</Tasks.7.TaskDesc>
-			<Tasks.8.TaskDesc>Place the door at the designated location.</Tasks.8.TaskDesc>
-			<Tasks.11.TaskDesc>Click Life to open the Life Buildings page.</Tasks.11.TaskDesc>
+			<DisplayName>Construção de Quartos</DisplayName>
+			<Desc>Aprenda a construção básica de ambientes neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Planejamento de Quartos</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Construa um quarto</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Defina uma entrada para o quarto</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Coloque Móveis</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Coloque decorações</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Aguarde até que a construção esteja concluída.</Chapters.0.Tasks.4>
+			<Chapters.1.DisplayName>Arranjo de quartos &amp; Estatísticas relacionadas</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Selecione um morador</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Verifique as estatísticas da sala</Chapters.1.Tasks.1>
+			<Tasks.1.TipsData.Desc>Temos recursos suficientes, agora vamos usá-los para construir um quarto para os personagens viverem.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Clique em Build(Construção) no canto inferior esquerdo para abrir a página de construção.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Clique em Wall(Parede) para iniciar o modo de posicionamento.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Arraste e coloque a parede nos locais designados.</Tasks.4.TaskDesc>
+			<Tasks.7.TaskDesc>Clique em Door(Porta) para iniciar o modo de posicionamento.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Posicione a Porta no local designado.</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>Clique em Life para abrir a página Life Buildings.</Tasks.11.TaskDesc>
 			<Tasks.11.UiData.Name>Life</Tasks.11.UiData.Name>
-			<Tasks.12.TaskDesc>Click Bed to begin the placing mode.</Tasks.12.TaskDesc>
-			<Tasks.13.TaskDesc>Place the bed at the designated location.</Tasks.13.TaskDesc>
-			<Tasks.16.TaskDesc>Click Decoration to open the Decorative Buildings page.</Tasks.16.TaskDesc>
+			<Tasks.12.TaskDesc>Clique em Bed(Cama) para iniciar o modo de posicionamento.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Posicione a Cama no local designado.</Tasks.13.TaskDesc>
+			<Tasks.16.TaskDesc>Clique em Decoration(Decoração) para abrir a página de Decorative Buildings(Construções decorativas).</Tasks.16.TaskDesc>
 			<Tasks.16.UiData.Name>Decoration</Tasks.16.UiData.Name>
-			<Tasks.17.TaskDesc>Click Oil Lamp to begin the placing mode.</Tasks.17.TaskDesc>
-			<Tasks.18.TaskDesc>Place the Oil Lamp at the designated location.</Tasks.18.TaskDesc>
-			<Tasks.22.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.22.TaskDesc>
-			<Tasks.24.TaskDesc>Wait until the construction is complete.</Tasks.24.TaskDesc>
-			<Tasks.26.TipsData.Desc>After the tutorial for room planning, the player can plan other rooms according to their needs, but remember that the largest size of a room is 400 and the smallest is 3.</Tasks.26.TipsData.Desc>
-			<Tasks.28.TaskDesc>Click the bed in the room.</Tasks.28.TaskDesc>
-			<Tasks.29.TaskDesc>Click to assign ownership.</Tasks.29.TaskDesc>
+			<Tasks.17.TaskDesc>Clique na Oil Lamp(Lâmpada a óleo) para iniciar o modo de posicionamento.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Coloque a Oil Lamp(Lâmpada a óleo) no local designado.</Tasks.18.TaskDesc>
+			<Tasks.22.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.22.TaskDesc>
+			<Tasks.24.TaskDesc>Aguarde até que a construção esteja concluída.</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>Após o tutorial de planejamento de cômodos, o jogador pode planejar outros cômodos de acordo com suas necessidades, mas lembre-se que o maior tamanho de um cômodo é 400 e o menor é 3.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Clique na cama no quarto.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Clique para atribuir(assign) a propriedade.</Tasks.29.TaskDesc>
 			<Tasks.29.UiData.Name>Assign</Tasks.29.UiData.Name>
-			<Tasks.30.TaskDesc>Click the first character and arrange the bed for him.</Tasks.30.TaskDesc>
-			<Tasks.31.TaskDesc>Confirm the arrangement.</Tasks.31.TaskDesc>
-			<Tasks.33.TaskDesc>Select the room by clicking the empty area in it.</Tasks.33.TaskDesc>
-			<Tasks.34.TipsData.Desc>The player can use this to name the room.</Tasks.34.TipsData.Desc>
-			<Tasks.35.TipsData.Desc>The player can use this to check the current temperature in the room.</Tasks.35.TipsData.Desc>
-			<Tasks.36.TipsData.Desc>The player can use this to check the effect of the room.</Tasks.36.TipsData.Desc>
-			<Tasks.37.TipsData.Desc>The player can use this to check the layout of the room.</Tasks.37.TipsData.Desc>
-			<Tasks.38.TipsData.Desc>The player can use this to check the attractiveness of the room.</Tasks.38.TipsData.Desc>
-			<Tasks.39.TipsData.Desc>Having a room is one of the most basic needs for disciples. It is important to provide a comfortable room for disciples.</Tasks.39.TipsData.Desc>
+			<Tasks.30.TaskDesc>Clique no primeiro personagem e designe a cama para ele.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Confirme a disposição.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Selecione a sala clicando na área vazia nela.</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>O jogador pode usar isso para dar um nome ao ambiente.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TipsData.Desc>O jogador pode usar isso para verificar a temperatura atual no ambiente.</Tasks.35.TipsData.Desc>
+			<Tasks.36.TipsData.Desc>O jogador pode usar isso para verificar o efeito do ambiente.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TipsData.Desc>O jogador pode usar isso para verificar o layout do ambiente.</Tasks.37.TipsData.Desc>
+			<Tasks.38.TipsData.Desc>O jogador pode usar isso para verificar a atratividade do ambiente.</Tasks.38.TipsData.Desc>
+			<Tasks.39.TipsData.Desc>Ter um quarto é uma das necessidades mais básicas dos discípulos. É importante fornecer um quarto confortável para os discípulos.</Tasks.39.TipsData.Desc>
 		</Text>
 		<Text Name="ExploreMap">
 			<Type>Basic</Type>
@@ -130,7 +130,7 @@
 			<Chapters.2.Tasks.1>Inspect the Plant Found</Chapters.2.Tasks.1>
 			<Tasks.1.TaskDesc>Click the Explore button in the bottom menu.</Tasks.1.TaskDesc>
 			<Tasks.2.TaskDesc>Click the fogged in the bottom left corner to issue an Explore task.</Tasks.2.TaskDesc>
-			<Tasks.5.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.5.TaskDesc>
+			<Tasks.5.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.5.TaskDesc>
 			<Tasks.7.TaskDesc>Wait until the exploration is complete.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Click the cargo box found in the exploration.</Tasks.9.TaskDesc>
 			<Tasks.10.TipsData.Desc>Resources are found during exploration. Open them using the interactive button.</Tasks.10.TipsData.Desc>
@@ -174,7 +174,7 @@
 			<Tasks.2.UiData.Name>Work</Tasks.2.UiData.Name>
 			<Tasks.3.TaskDesc>Click Well.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>Place the well at the designated location.</Tasks.4.TaskDesc>
-			<Tasks.6.TaskDesc>Wait until the construction is complete.</Tasks.6.TaskDesc>
+			<Tasks.6.TaskDesc>Aguarde até que a construção esteja concluída.</Tasks.6.TaskDesc>
 			<Tasks.8.TipsData.Desc>Wells can provide a source of clean water for characters. Water can also be stored in a water vat for contingencies.</Tasks.8.TipsData.Desc>
 			<Tasks.10.TaskDesc>Click Hunt in the bottom menu.</Tasks.10.TaskDesc>
 			<Tasks.11.TaskDesc>Click the hen in the top right corner to hunt it.</Tasks.11.TaskDesc>
@@ -184,7 +184,7 @@
 			<Tasks.17.TaskDesc>Place the cursor on Explore to see its hotkey.</Tasks.17.TaskDesc>
 			<Tasks.18.TaskDesc>Use the hotkey {0} to quickly access Hunt.</Tasks.18.TaskDesc>
 			<Tasks.19.TaskDesc>Drag and select a target area to issue Hunt in batch.</Tasks.19.TaskDesc>
-			<Tasks.21.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.21.TaskDesc>
+			<Tasks.21.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>Wait until hunting is complete.</Tasks.23.TaskDesc>
 			<Tasks.25.TipsData.Desc>Use Hunt to quickly obtain food. But the number of animals is limited and their breeding rate is slow, so farming is necessary for constant resources of food.</Tasks.25.TipsData.Desc>
 			<Tasks.27.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.27.TaskDesc>
@@ -243,7 +243,7 @@
 			<Tasks.29.TaskDesc>Click Equipment to leave out all equipment.</Tasks.29.TaskDesc>
 			<Tasks.30.TaskDesc>Click Cultivation to leave out cultivation-related resources.</Tasks.30.TaskDesc>
 			<Tasks.31.TaskDesc>Click the close button to close the page.</Tasks.31.TaskDesc>
-			<Tasks.32.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.32.TaskDesc>
+			<Tasks.32.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.32.TaskDesc>
 			<Tasks.34.TaskDesc>After a while, the disciples will store the items according to their category.</Tasks.34.TaskDesc>
 			<Tasks.36.TipsData.Desc>Once there are too many items in store, the player can expand and plan other storages for more detailed management and easier access to the info of resources.</Tasks.36.TipsData.Desc>
 			<Tasks.38.TaskDesc>Double click to select the room for Storage 2.</Tasks.38.TaskDesc>
@@ -257,7 +257,7 @@
 			<Tasks.45.UiData.Name>Place Item</Tasks.45.UiData.Name>
 			<Tasks.46.TaskDesc>Click Ice Crystal Ore.</Tasks.46.TaskDesc>
 			<Tasks.47.TaskDesc>Wait for them to be placed.</Tasks.47.TaskDesc>
-			<Tasks.48.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.48.TaskDesc>
+			<Tasks.48.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.48.TaskDesc>
 			<Tasks.51.TaskDesc>Double click to select the room for Storage 2.</Tasks.51.TaskDesc>
 			<Tasks.52.TaskDesc>Wait 10 seconds to see the change in room temperature.</Tasks.52.TaskDesc>
 			<Tasks.53.TipsData.Desc>The room temperature is down. A larger room's temperature will be more difficult to adjust and requires more sources of heat to rise.</Tasks.53.TipsData.Desc>
@@ -283,7 +283,7 @@
 			<Tasks.5.TaskDesc>Select the refugee.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Click Accept in the character's menu.</Tasks.6.TaskDesc>
 			<Tasks.6.UiData.Name>Accept</Tasks.6.UiData.Name>
-			<Tasks.7.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.7.TaskDesc>
+			<Tasks.7.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Wait until your people accept this character.</Tasks.9.TaskDesc>
 			<Tasks.11.TipsData.Desc>You've gained a new character. Each character excels at a type of work. Open the Work Schedule menu and arrange suitable work for each character.</Tasks.11.TipsData.Desc>
 			<Tasks.13.TaskDesc>Click to open the Work Schedule menu.</Tasks.13.TaskDesc>
@@ -343,7 +343,7 @@
 			<Tasks.12.TaskDesc>Click to make a Healing Balm.</Tasks.12.TaskDesc>
 			<Tasks.12.UiData.Name>Healing Balm</Tasks.12.UiData.Name>
 			<Tasks.13.TaskDesc>Click to close the Produce page on the table.</Tasks.13.TaskDesc>
-			<Tasks.14.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.14.TaskDesc>
+			<Tasks.14.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.14.TaskDesc>
 			<Tasks.16.TaskDesc>Wait until the Healing Balm is made.</Tasks.16.TaskDesc>
 			<Tasks.18.TipsData.Desc>There are not many herbs in the wild, so the player can plan a herb garden in advance to ensure a steady supply of herbs.</Tasks.18.TipsData.Desc>
 			<Tasks.21.TaskDesc>Click the notification of injury in the left.</Tasks.21.TaskDesc>
@@ -504,7 +504,7 @@
 			<Tasks.6.TaskDesc>Click Eat in the character's Status menu.</Tasks.6.TaskDesc>
 			<Tasks.6.UiData.Name>Eat</Tasks.6.UiData.Name>
 			<Tasks.7.TaskDesc>Click to select Fasting Pill.</Tasks.7.TaskDesc>
-			<Tasks.9.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.9.TaskDesc>
+			<Tasks.9.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.9.TaskDesc>
 			<Tasks.11.TaskDesc>Wait until the NPC eats the pill.</Tasks.11.TaskDesc>
 			<Tasks.13.TaskDesc>The player can place the cursor on the Need for Food bar to see the change.</Tasks.13.TaskDesc>
 			<Tasks.15.TipsData.Desc>The reason for fasting in the game is to reduce disciples' consumption of food and water to decrease their need for food and drink and therefore the cost of resources, but reducing an inner disciple's need for food and water will reduce the amount of stamina converted from food.</Tasks.15.TipsData.Desc>
@@ -776,7 +776,7 @@
 			<Tasks.23.TaskDesc>The player can place the cursor on a location near giant ginkgo to know the chance of breakthrough there.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Click a location near giant ginkgo for breakthrough.</Tasks.25.TaskDesc>
 			<Tasks.26.TaskDesc>Click Yes.</Tasks.26.TaskDesc>
-			<Tasks.27.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.27.TaskDesc>
+			<Tasks.27.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.27.TaskDesc>
 			<Tasks.30.TaskDesc>Click Close.</Tasks.30.TaskDesc>
 			<Tasks.31.TaskDesc>Wait until the disciple arrives for breakthrough.</Tasks.31.TaskDesc>
 			<Tasks.33.TaskDesc>Click the notification for failed breakthrough in the left.</Tasks.33.TaskDesc>
@@ -977,7 +977,7 @@
 			<Tasks.25.TaskDesc>Click Move.</Tasks.25.TaskDesc>
 			<Tasks.25.UiData.Name>Move</Tasks.25.UiData.Name>
 			<Tasks.26.TaskDesc>Click Place and place it at the designated location.</Tasks.26.TaskDesc>
-			<Tasks.27.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.27.TaskDesc>
+			<Tasks.27.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.27.TaskDesc>
 			<Tasks.29.TaskDesc>Wait for completion.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>Click Feng Shui in the top left to exit the Feng Shui mode.</Tasks.31.TaskDesc>
 			<Tasks.32.TaskDesc>Placing the Igneocopper Bar has improved the Fire element in the environment.</Tasks.32.TaskDesc>
@@ -1022,8 +1022,8 @@
 			<Tasks.17.TaskDesc>Click to select Iron Bar.</Tasks.17.TaskDesc>
 			<Tasks.18.TaskDesc>Place it at the designated location in the blueprint.</Tasks.18.TaskDesc>
 			<Tasks.19.TaskDesc>Right-click to cancel the Build mode.</Tasks.19.TaskDesc>
-			<Tasks.21.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.21.TaskDesc>
-			<Tasks.23.TaskDesc>Wait until the construction is complete.</Tasks.23.TaskDesc>
+			<Tasks.21.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Aguarde até que a construção esteja concluída.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Click to select Iron Bed.</Tasks.25.TaskDesc>
 			<Tasks.26.TaskDesc>Click to assign ownership.</Tasks.26.TaskDesc>
 			<Tasks.26.UiData.Name>Assign</Tasks.26.UiData.Name>
@@ -1067,7 +1067,7 @@
 			<Tasks.13.TaskDesc>Select Spirit Stone.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Click Trade in the bottom menu.</Tasks.14.TaskDesc>
 			<Tasks.14.UiData.Name>Trade Area</Tasks.14.UiData.Name>
-			<Tasks.15.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.15.TaskDesc>
+			<Tasks.15.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.15.TaskDesc>
 			<Tasks.17.TaskDesc>Wait for the items to be moved to the trade area.</Tasks.17.TaskDesc>
 			<Tasks.19.TipsData.Desc>Every time a merchant comes, they will bring a large amount of resources, so prepare the items that need to be traded beforehand in case you miss the trading time.</Tasks.19.TipsData.Desc>
 			<Tasks.21.TaskDesc>Click to select the merchant.</Tasks.21.TaskDesc>
@@ -1167,7 +1167,7 @@
 			<Tasks.44.TaskDesc>Click Yes.</Tasks.44.TaskDesc>
 			<Tasks.45.TipsData.Desc>Once the event is dealt with, the policy window will no longer show the exclamation point.</Tasks.45.TipsData.Desc>
 			<Tasks.46.TaskDesc>Click to close the Power Management menu.</Tasks.46.TaskDesc>
-			<Tasks.48.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.48.TaskDesc>
+			<Tasks.48.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.48.TaskDesc>
 			<Tasks.50.TaskDesc>An event window that pops up after the charity event is completed.</Tasks.50.TaskDesc>
 			<Tasks.51.TaskDesc>Click to check the result.</Tasks.51.TaskDesc>
 			<Tasks.52.TipsData.Desc>After the player successfully completes an event, the agency will gain a lot of followers. A large number of followers benefit the expansion of the agency.</Tasks.52.TipsData.Desc>
