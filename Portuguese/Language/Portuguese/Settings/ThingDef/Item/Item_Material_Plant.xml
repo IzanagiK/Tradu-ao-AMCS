@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Item_Grass" sParam="Item">
 			<ThingName>Hay</ThingName>
-			<Desc>A bundle of hay.</Desc>
+			<Desc>Um punhado de feno.</Desc>
 			<Item.FabaoSuffix>Rope, Cord, Grass</Item.FabaoSuffix>
 			<Item.BeMaterial.NamePrefix>Hay</Item.BeMaterial.NamePrefix>
 		</Text>
