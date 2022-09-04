@@ -28,12 +28,12 @@
 		<Text Name="NpcPractice">
 			<Notes>Comment Panel of Character Cultivation/Training</Notes>
 			<Title>Cultivation Panel</Title>
-			<Desc>Painel de cultivo</Desc>
+			<Desc>Painel de Cultivo</Desc>
 		</Text>
 		<Text Name="NpcZhuJi">
 			<Notes>Comment Panel of Character Foundation Training</Notes>
-			<Title>Cultivation Panel</Title>
-			<Desc>Painel de Fundação</Desc>
+			<Title>Foundation Panel</Title>
+			<Desc>Painel da Fundação</Desc>
 		</Text>
 		<Text Name="NpcGnosis">
 			<Notes>Comment Panel of Character Intelligence</Notes>
@@ -43,32 +43,32 @@
 		<Text Name="NpcEquipment">
 			<Notes>Comment Panel of Character Gear</Notes>
 			<Title>Gear Page</Title>
-			<Desc>Pagina de engrenagem</Desc>
+			<Desc>Gear Page</Desc>
 		</Text>
 		<Text Name="NpcEquipmentOfBodyPractice">
 			<Notes>Comment Panel of Gear and Secret Body Configurations</Notes>
-			<Title>Gear Page</Title>
-			<Desc>Painel de configurações de engrenagem e corpo secreto</Desc>
+			<Title>Gear and Secret Body Configurations Panel</Title>
+			<Desc>Gear and Secret Body Configurations Panel</Desc>
 		</Text>
 		<Text Name="NpcCombatStyle">
 			<Notes>Comment Panel of Character's Battle Tactic</Notes>
 			<Title>Battle Tactic Panel</Title>
-			<Desc>Painel de tática de batalha</Desc>
+			<Desc>Painel de táticas de batalha</Desc>
 		</Text>
 		<Text Name="NpcDetailProperty">
 			<Notes>Comment Panel of Character's Detailed Stats</Notes>
 			<Title>Detailed Stats Panel</Title>
-			<Desc>Painel de Estatísticas detalhadas</Desc>
+			<Desc>Detailed Stats Panel</Desc>
 		</Text>
 		<Text Name="NpcDrugResistance">
 			<Notes>Comment Panel of Character's Medicine Tolerance</Notes>
 			<Title>Medicine Tolerance Panel</Title>
-			<Desc>Painel de tolerância a medicamentos</Desc>
+			<Desc>Medicine Tolerance Panel</Desc>
 		</Text>
 		<Text Name="Secret">
 			<Notes>Comment Panel of Mystery</Notes>
 			<Title>Mystery Panel</Title>
-			<Desc>Painel de mistério</Desc>
+			<Desc>Painel de Mistério</Desc>
 		</Text>
 		<Text Name="Character">
 			<Notes>Comment Panel of NPC</Notes>
@@ -78,7 +78,7 @@
 		<Text Name="Clue">
 			<Notes>Comment Panel of Clue</Notes>
 			<Title>Clue Panel</Title>
-			<Desc>Painel de dicas</Desc>
+			<Desc>Painel de Dicas</Desc>
 		</Text>
 		<Text Name="ZhenGraph">
 			<Notes>Comment Panel of Formation Diagram</Notes>
@@ -93,12 +93,12 @@
 		<Text Name="ZhenEyesOverview">
 			<Notes>Comment Panel of Auxiliary Overview</Notes>
 			<Title>Auxiliary Overview Panel</Title>
-			<Desc>Painel auxiliar de visão geral</Desc>
+			<Desc>Auxiliary Overview Panel</Desc>
 		</Text>
 		<Text Name="WorkSchedule">
 			<Notes>Comment Panel of Work Schedule</Notes>
 			<Title>Work Schedule Panel</Title>
-			<Desc>Painel de cronograma de trabalho</Desc>
+			<Desc>Painel de Cronograma de Trabalho</Desc>
 		</Text>
 		<Text Name="SectOverview">
 			<Notes>Comment Panel of Sect Overview</Notes>
@@ -127,17 +127,17 @@
 		<Text Name="SectGift">
 			<Notes>Comment Panel of Sect Gift</Notes>
 			<Title>Gift</Title>
-			<Desc>Presente da seita</Desc>
+			<Desc>Presente da Seita</Desc>
 		</Text>
 		<Text Name="SectTransaction">
 			<Notes>Comment Panel of Sect Trade</Notes>
 			<Title>Sect Trade</Title>
-			<Desc>Comercio da seita</Desc>
+			<Desc>Comercio da Seita</Desc>
 		</Text>
 		<Text Name="SectMessageManagement">
 			<Notes>Comment Panel of Sect Messages</Notes>
 			<Title>Sect Messages</Title>
-			<Desc>Mensagens de seita</Desc>
+			<Desc>Mensagens da Seita</Desc>
 		</Text>
 		<Text Name="SectLaws">
 			<Notes>Comment Panel of Sect Rules</Notes>
@@ -147,7 +147,7 @@
 		<Text Name="PedlarTransaction">
 			<Notes>Comment Panel of Trade</Notes>
 			<Title>Trade</Title>
-			<Desc>Troca</Desc>
+			<Desc>Comércio</Desc>
 		</Text>
 		<Text Name="KeyholeReport">
 			<Notes>Comment Panel of Secret</Notes>
@@ -157,12 +157,12 @@
 		<Text Name="RefineBody">
 			<Notes>Comment Panel of Remold</Notes>
 			<Title>Remold Panel</Title>
-			<Desc>Painel de remodelação</Desc>
+			<Desc>Painel de Remodelação</Desc>
 		</Text>
 		<Text Name="DomesticateSpiritBeast">
 			<Notes>Comment Panel of Pet Raising</Notes>
 			<Title>Pet Raising</Title>
-			<Desc>criação de animais de estimação</Desc>
+			<Desc>Criação de Animais/Pet</Desc>
 		</Text>
 		<Text Name="TrainSpiritBeast">
 			<Notes>Comment Panel of Pet Training</Notes>
@@ -172,32 +172,32 @@
 		<Text Name="FeedSpiritBeast">
 			<Notes>Comment Panel of Pet Food Nutrition</Notes>
 			<Title>Pet Food Nutrition</Title>
-			<Desc>Nutrição da comida do Pet</Desc>
+			<Desc>Nutrição da comida de Pet</Desc>
 		</Text>
 		<Text Name="BehaviorRecordSpiritBeast">
 			<Notes>Comment Panel of Pet Behavior Records</Notes>
 			<Title>Pet Behavior</Title>
-			<Desc>Comportamento do animal de estimação</Desc>
+			<Desc>Comportamento do Pet</Desc>
 		</Text>
 		<Text Name="EmotionAndThinkingOfAnimal">
 			<Notes>Comment Panel of Thought and Thinking</Notes>
 			<Title>Thought and Thinking</Title>
-			<Desc>Reflexão e Pensamento</Desc>
+			<Desc>Reflexões e Pensamentos</Desc>
 		</Text>
 		<Text Name="EmotionATarget">
 			<Notes>About Thought: Comment Panel of Realization</Notes>
 			<Title>Thought: Realization</Title>
-			<Desc>Três fragmentos de Pensamento de Realização idênticos podem ser combinados em um Pensamento de Realização.</Desc>
+			<Desc>Três fragmentos de Pensamento de Realização idênticos podem ser combinados em um pensamento de Realização.</Desc>
 		</Text>
 		<Text Name="EmotionAScene">
 			<Notes>About Thought: Comment Panel of Rationality</Notes>
 			<Title>Thought: Rationality</Title>
-			<Desc>Três fragmentos de pensamento de racionalidade idênticos podem ser combinados em um pensamento de racionalidade.</Desc>
+			<Desc>Três fragmentos de pensamento de Racionalidade idênticos podem ser combinados em um pensamento de Racionalidade.</Desc>
 		</Text>
 		<Text Name="EmotionAEmotion">
 			<Notes>About Thought: Comment Panel of Perception</Notes>
 			<Title>Thought: Perception</Title>
-			<Desc>Três fragmentos de pensamento de percepção idênticos podem ser combinados em um pensamento de percepção.</Desc>
+			<Desc>Três fragmentos de pensamento de Percepção idênticos podem ser combinados em um pensamento de Percepção.</Desc>
 		</Text>
 	</List>
 </Texts>

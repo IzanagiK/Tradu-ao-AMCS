@@ -158,47 +158,47 @@
 		</Text>
 		<Text Name="BaseSave">
 			<Type>Basic</Type>
-			<DisplayName>Basic Survival</DisplayName>
-			<Desc>Learn basic survival in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Obtain Water</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Build Wells</Chapters.0.Tasks.0>
-			<Chapters.1.DisplayName>How to Hunt</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Use Hunt Order in Character Menu</Chapters.1.Tasks.0>
-			<Chapters.1.Tasks.1>Use Hunt Order in Prey's Menu</Chapters.1.Tasks.1>
-			<Chapters.1.Tasks.2>Use the Hotkey for Hunt</Chapters.1.Tasks.2>
-			<Chapters.2.DisplayName>How to Farm</Chapters.2.DisplayName>
-			<Chapters.2.Tasks.0>Select a Field</Chapters.2.Tasks.0>
-			<Chapters.2.Tasks.1>Select Crops</Chapters.2.Tasks.1>
-			<Tasks.1.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>Click Work to open the Work Buildings page.</Tasks.2.TaskDesc>
+			<DisplayName>Sobrevivência Básica</DisplayName>
+			<Desc>Aprenda o básico sobre sobrevivência neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Como obter água</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Construa um poço</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Como Caçar</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Use o comando de caça no menu de personagens</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Use a ordem de caçar no menu da presa</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Use a tecla de atalho para caçar</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Como fazer uma fazenda</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Selecione um campo</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Selecione as culturas</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Clique em Work para abrir a página Work Buildings.</Tasks.2.TaskDesc>
 			<Tasks.2.UiData.Name>Work</Tasks.2.UiData.Name>
-			<Tasks.3.TaskDesc>Click Well.</Tasks.3.TaskDesc>
-			<Tasks.4.TaskDesc>Place the well at the designated location.</Tasks.4.TaskDesc>
-			<Tasks.6.TaskDesc>Aguarde até que a construção esteja concluída.</Tasks.6.TaskDesc>
-			<Tasks.8.TipsData.Desc>Wells can provide a source of clean water for characters. Water can also be stored in a water vat for contingencies.</Tasks.8.TipsData.Desc>
-			<Tasks.10.TaskDesc>Click Hunt in the bottom menu.</Tasks.10.TaskDesc>
-			<Tasks.11.TaskDesc>Click the hen in the top right corner to hunt it.</Tasks.11.TaskDesc>
-			<Tasks.14.TaskDesc>Click the rabbit nearby.</Tasks.14.TaskDesc>
-			<Tasks.15.TaskDesc>Click to select an animal to be Hunted.</Tasks.15.TaskDesc>
+			<Tasks.3.TaskDesc>Clique Well(Poço).</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Posicione o poço no local designado.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Aguarde até que a construção seja concluída.</Tasks.6.TaskDesc>
+			<Tasks.8.TipsData.Desc>Os poços podem fornecer uma fonte de água limpa para os personagens. A água também pode ser armazenada em um tanque de água para enventuais imprevistos..</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Clique em Caçar no menu inferior.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Clique na galinha no canto superior direito para caçá-la.</Tasks.11.TaskDesc>
+			<Tasks.14.TaskDesc>Clique no coelho nas proximidades.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Clique para selecionar um animal para ser caçado.</Tasks.15.TaskDesc>
 			<Tasks.15.UiData.Name>Hunt</Tasks.15.UiData.Name>
-			<Tasks.17.TaskDesc>Place the cursor on Explore to see its hotkey.</Tasks.17.TaskDesc>
-			<Tasks.18.TaskDesc>Use the hotkey {0} to quickly access Hunt.</Tasks.18.TaskDesc>
-			<Tasks.19.TaskDesc>Drag and select a target area to issue Hunt in batch.</Tasks.19.TaskDesc>
+			<Tasks.17.TaskDesc>Coloque o cursor em Explorar para ver sua tecla de atalho..</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Use a tecla de atalho {0} para acessar rapidamente a caça.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Arraste e selecione uma área alvo para emitir uma ordem de caça.</Tasks.19.TaskDesc>
 			<Tasks.21.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.21.TaskDesc>
-			<Tasks.23.TaskDesc>Wait until hunting is complete.</Tasks.23.TaskDesc>
-			<Tasks.25.TipsData.Desc>Use Hunt to quickly obtain food. But the number of animals is limited and their breeding rate is slow, so farming is necessary for constant resources of food.</Tasks.25.TipsData.Desc>
-			<Tasks.27.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.27.TaskDesc>
-			<Tasks.28.TaskDesc>Click the Area page.</Tasks.28.TaskDesc>
+			<Tasks.23.TaskDesc>Espere até que a caça esteja completa.</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>Use a Caça para obter comida rapidamente. Mas o número de animais é limitado e sua taxa de reprodução é lenta, de modo que a agricultura é necessária para recursos constantes de alimentos.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Clique em Area.</Tasks.28.TaskDesc>
 			<Tasks.28.UiData.Name>Area</Tasks.28.UiData.Name>
-			<Tasks.29.TaskDesc>Click Field.</Tasks.29.TaskDesc>
-			<Tasks.30.TaskDesc>Select a field in the designated fertile soil.</Tasks.30.TaskDesc>
-			<Tasks.33.TaskDesc>Select the field.</Tasks.33.TaskDesc>
-			<Tasks.34.TaskDesc>Click the interactive button Grow Plants.</Tasks.34.TaskDesc>
+			<Tasks.29.TaskDesc>Clique em Campo(Field).</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Selecione um campo no solo fértil designado.</Tasks.30.TaskDesc>
+			<Tasks.33.TaskDesc>Selecione o campo.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Clique no botão interativo de Cultivação de Plantas.</Tasks.34.TaskDesc>
 			<Tasks.34.UiData.Name>Grow Plants</Tasks.34.UiData.Name>
-			<Tasks.35.TaskDesc>The player can place the cursor on Wheat to see the info on planting wheat.</Tasks.35.TaskDesc>
-			<Tasks.36.TaskDesc>The player can place the cursor on Mushroom to see the info on planting mushroom.</Tasks.36.TaskDesc>
-			<Tasks.37.TaskDesc>Select Wheat to plant.</Tasks.37.TaskDesc>
-			<Tasks.39.TipsData.Desc>There are many kinds of food in the game. Not only can crops grow in soil, they can also grow in water.</Tasks.39.TipsData.Desc>
+			<Tasks.35.TaskDesc>O jogador pode colocar o cursor sobre trigo para ver as informações sobre o plantio do trigo.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>O jogador pode colocar o cursor sobre o cogumelos para ver as informações sobre como plantar cogumelos.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Selecione Trigo para plantar.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>Existem muitos tipos de comida no jogo. As culturas não só podem crescer no solo, como também podem crescer na água.</Tasks.39.TipsData.Desc>
 		</Text>
 		<Text Name="StrongArea">
 			<Type>Basic</Type>
@@ -216,7 +216,7 @@
 			<Chapters.2.Tasks.2>Check Temperature of Storage Again</Chapters.2.Tasks.2>
 			<Tasks.1.TipsData.Desc>Different resources are located in different areas, and as their number increases, it will be inconvenient for the player to access them, so storage is used to categorize and manage resources.</Tasks.1.TipsData.Desc>
 			<Tasks.2.TipsData.Desc>First, let's plan an area for materials and tools in the middle, so it will be easy to access them as your sect expands to all directions.</Tasks.2.TipsData.Desc>
-			<Tasks.3.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.3.TaskDesc>
+			<Tasks.3.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>Click the Area page.</Tasks.4.TaskDesc>
 			<Tasks.4.UiData.Name>Area</Tasks.4.UiData.Name>
 			<Tasks.5.TaskDesc>Click Storage to begin storage planning.</Tasks.5.TaskDesc>
@@ -229,7 +229,7 @@
 			<Tasks.13.TaskDesc>Click the close button to close the page.</Tasks.13.TaskDesc>
 			<Tasks.15.TipsData.Desc>Some resources will spoil as time progresses, so we need a low temperature storage for this type of resources.</Tasks.15.TipsData.Desc>
 			<Tasks.17.TipsData.Desc>Next, we will plan a storage area for food near the kitchen for more efficient access while cooking, and a closed room helps to adjust the temperature for better storage of food.</Tasks.17.TipsData.Desc>
-			<Tasks.18.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.18.TaskDesc>
+			<Tasks.18.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.18.TaskDesc>
 			<Tasks.19.TaskDesc>Click the Area page.</Tasks.19.TaskDesc>
 			<Tasks.19.UiData.Name>Area</Tasks.19.UiData.Name>
 			<Tasks.20.TaskDesc>Click Storage to begin storage planning.</Tasks.20.TaskDesc>
@@ -1566,7 +1566,7 @@
 			<Chapters.0.Tasks.0>Expand Storage</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Expand Field</Chapters.0.Tasks.1>
 			<Tasks.1.TipsData.Desc>When the storage hits full capacity, the player can expand the area of storage to increase its capacity.</Tasks.1.TipsData.Desc>
-			<Tasks.2.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.2.TaskDesc>
+			<Tasks.2.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.2.TaskDesc>
 			<Tasks.3.TaskDesc>Click the Area page.</Tasks.3.TaskDesc>
 			<Tasks.3.UiData.Name>Area</Tasks.3.UiData.Name>
 			<Tasks.4.TaskDesc>Click Storage to begin storage planning.</Tasks.4.TaskDesc>
@@ -1578,7 +1578,7 @@
 			<Tasks.9.TipsData.Desc>An expanded storage will keep the filter settings of the original storage.</Tasks.9.TipsData.Desc>
 			<Tasks.10.TaskDesc>Close the Storage menu.</Tasks.10.TaskDesc>
 			<Tasks.12.TipsData.Desc>When the area of the field can no longer satisfy the inner disciples' needs, the player can expand the field to increase the acreage of the area for plants.</Tasks.12.TipsData.Desc>
-			<Tasks.13.TaskDesc>Use the hotkey {0} to open the Build page.</Tasks.13.TaskDesc>
+			<Tasks.13.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Click Field to begin field planning.</Tasks.14.TaskDesc>
 			<Tasks.15.TaskDesc>Drag to expand the field.</Tasks.15.TaskDesc>
 			<Tasks.16.TaskDesc>Right-click to cancel the Build mode.</Tasks.16.TaskDesc>
