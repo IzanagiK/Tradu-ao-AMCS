@@ -2,16 +2,16 @@
 	<List>
 		<Text Name="Body_Gong_3">
 			<DisplayName>Ancestral Yaoguai Body</DisplayName>
-			<Desc>It is told to be the physical training  cultivation Law passed down by the Ancestral Yaoguai. This Law excels at remolding organs, as it believes there's countless treasures hidden in the organs of all creatures and understanding their secrets will make a physical body divine and embrace oblivion. Note that this Law contains many secret bodies tailormade for various species of Yaoguai, and if the body structure is different, it will be hard for the Law to take effect.</Desc>
-			<SelectDesc>Physical training means combining energy, Qi and spirit into one, cutting out Qi and any other magical items and beginning practice with only the physical body. Do you want to take this Law?</SelectDesc>
+			<Desc>Diz-se que é a Lei de cultivo de treinamento físico passada pelos Yaoguai Ancestrais. Esta Lei é excelente em remodelar órgãos, pois acredita que há inúmeros tesouros escondidos nos órgãos de todas as criaturas e entender seus segredos fará um corpo físico divino e abraçará o esquecimento. Observe que esta Lei contém muitos corpos secretos feitos sob medida para várias espécies de Yaoguai, e se a estrutura do corpo for diferente, será difícil para a Lei entrar em vigor.</Desc>
+			<SelectDesc>O treinamento físico significa combinar energia, Qi e espírito em um, cortando o Qi e quaisquer outros itens mágicos e começando a prática apenas com o corpo físico. Você quer tomar esta Lei?</SelectDesc>
 			<Stages.0.DisplayName>Remold Phase</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Physical Reborn</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Físico Renascido</Stages.0.Necks.0.DisplayName>
 			<Stages.1.DisplayName>Marrow-cleansing Phase</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Marrow Change</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Alteração de medula</Stages.1.Necks.0.DisplayName>
 			<Stages.2.DisplayName>Incubation Phase</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Unifying Oneness</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Unidade Unificadora</Stages.2.Necks.0.DisplayName>
 			<Stages.3.DisplayName>Chaos Phase</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Paramount Penalty</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Penalidade primordial</Stages.3.Necks.0.DisplayName>
 		</Text>
 	</List>
 </Texts>
