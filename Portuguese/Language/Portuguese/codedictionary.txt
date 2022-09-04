@@ -2051,8 +2051,8 @@ Name	Name
 让精怪禁止移动。	Forbid the Sentient Spirit from moving.
 取消建造	Cancel
 指定归属	Assign
-制定归属，如果对象是床也会改变房间所有者。	Assign ownership. If the target is a bed, the owner of the room will also change.
-打开生产面板	Open the Produce menu.
+制定归属，如果对象是床也会改变房间所有者。	Atribuir propriedade. Se o alvo for uma cama, o dono do quarto também será alterado.
+打开生产面板	Abra o menu de produção.
 祭祀仙人遗蜕	Worship the immortal's mortal body.
 激活	Activate
 激活剑阵,需要一个角色前来操作，剑阵会在战斗结束后自动关闭。	Activate a sword formation (requires one character to control). The formation will be closed after battle ends.
@@ -2160,7 +2160,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 开采这个矿石	Mine this ore.
 收获这个植物	Harvest this plant.
 砍伐	Chop
-砍伐这棵树木	Chop down this tree.
+砍伐这棵树木	Corta esta árvore.
 移除这个植物	Remove this plant.
 蕴养	Nurture
 蕴养这株灵植，调整灵植的养成趋势，并借此收获一些珍稀材料。	Nurture this spiritual plant and regulate its growth to gain rare materials.
@@ -2286,11 +2286,11 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 [color=#D06508][{0}][/color]已解锁\n	[color=#D06508][{0}][/color] has been unlocked.\n
 请选择建筑蓝图建造地点	Select a building site for the blueprint.
 [color=#ff0000]未满足蓝图建造需求地形[/color]	[color=#ff0000]Unsuitable building terrain for the blueprint.[/color]
-房间最小面积为4，最大面积为400	The smallest size of a room is 4. The largest is 400.
+房间最小面积为4，最大面积为400	O menor tamanho de uma sala é 4. O maior é 400.
 选择建造地点	Select a building site
 (按[keycode]RotBuilding[/keycode]旋转)	(Press [keycode]RotBuilding[/keycode] to rotate.)
 [color=#ff0000]已达到最大拥有个数:{0}[/color]	[color=#ff0000]Has reached the maximum number:{0}[/color]
-<font color=#FF0000>地点不适合</font>	<font color=#FF0000>Unsuitable Site</font>
+<font color=#FF0000>地点不适合</font>	<font color=#FF0000>Local Inadequado</font>
 更换建筑原材料	Replace Building Raw Material
 风水:	Feng Shui:
 请框选导出的蓝图范围	Drag and select the blueprint area.

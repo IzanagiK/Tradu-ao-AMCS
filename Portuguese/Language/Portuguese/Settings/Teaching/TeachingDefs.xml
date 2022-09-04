@@ -117,44 +117,44 @@
 		</Text>
 		<Text Name="ExploreMap">
 			<Type>Basic</Type>
-			<DisplayName>Exploration</DisplayName>
+			<DisplayName>Exploração</DisplayName>
 			<Desc>Aprenda o básico de exploração neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>First Exploration</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Issue an Explore Order</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Inspect the Creature and Box Found</Chapters.0.Tasks.1>
-			<Chapters.1.DisplayName>Second Exploration</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Use the Hotkey for Explore</Chapters.1.Tasks.0>
-			<Chapters.1.Tasks.1>Inspect the Soil and Ores Found</Chapters.1.Tasks.1>
-			<Chapters.2.DisplayName>Third Exploration</Chapters.2.DisplayName>
-			<Chapters.2.Tasks.0>Keep Exploring</Chapters.2.Tasks.0>
-			<Chapters.2.Tasks.1>Inspect the Plant Found</Chapters.2.Tasks.1>
-			<Tasks.1.TaskDesc>Click the Explore button in the bottom menu.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>Click the fogged in the bottom left corner to issue an Explore task.</Tasks.2.TaskDesc>
+			<Chapters.0.DisplayName>Primeira Exploração</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Emita uma pedido de exploração</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Inspecione a criatura e a caixa encontrada</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Segunda Exploração</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Use a tecla de atalho para explorar</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Inspecione o solo e os minérios encontrados</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Terceira Exploração</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Continue Explorando</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Inspecione a planta encontrada</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Clique no botão Explorar no menu inferior.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Clique no enevoado no canto inferior esquerdo para emitir uma tarefa de exploração.</Tasks.2.TaskDesc>
 			<Tasks.5.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.5.TaskDesc>
-			<Tasks.7.TaskDesc>Wait until the exploration is complete.</Tasks.7.TaskDesc>
-			<Tasks.9.TaskDesc>Click the cargo box found in the exploration.</Tasks.9.TaskDesc>
-			<Tasks.10.TipsData.Desc>Resources are found during exploration. Open them using the interactive button.</Tasks.10.TipsData.Desc>
+			<Tasks.7.TaskDesc>Aguarde até que a exploração seja concluída.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Clique na caixa de carga encontrada na exploração.</Tasks.9.TaskDesc>
+			<Tasks.10.TipsData.Desc>Os recursos são encontrados durante a exploração. Abra-os usando o botão interativo.</Tasks.10.TipsData.Desc>
 			<Tasks.10.TipsData.Name>Search</Tasks.10.TipsData.Name>
-			<Tasks.11.TaskDesc>Click the rabbit found in the exploration.</Tasks.11.TaskDesc>
-			<Tasks.12.TipsData.Desc>Some wild animal is found. Hunt or tame it to obtain resources.</Tasks.12.TipsData.Desc>
-			<Tasks.14.TipsData.Desc>Useful resources and animals can be found during exploration. The player can acquire these resources in the early stages and the animals can be used to hunt or farm.</Tasks.14.TipsData.Desc>
-			<Tasks.16.TaskDesc>Place the cursor on Hunt to see its hotkey.</Tasks.16.TaskDesc>
-			<Tasks.17.TaskDesc>Use the hotkey {0} to quickly access Explore.</Tasks.17.TaskDesc>
-			<Tasks.18.TaskDesc>Click the fogged area in the top right corner to issue an Explore task.</Tasks.18.TaskDesc>
-			<Tasks.20.TaskDesc>Wait until the exploration is complete.</Tasks.20.TaskDesc>
-			<Tasks.22.TaskDesc>Click the ore vein found in the exploration.</Tasks.22.TaskDesc>
-			<Tasks.23.TipsData.Desc>A vein of rare ores is found, which can be collected if needed.</Tasks.23.TipsData.Desc>
-			<Tasks.24.TaskDesc>Place the cursor on the newly discovered soil to check the info.</Tasks.24.TaskDesc>
-			<Tasks.25.TipsData.Desc>This is a fertile soil that can be used for farming.</Tasks.25.TipsData.Desc>
-			<Tasks.27.TipsData.Desc>Ore veins and fertile soils can be found during exploration. The player can use them for mining and farming if needed.</Tasks.27.TipsData.Desc>
-			<Tasks.29.TaskDesc>Use the hotkey {0} to quickly access Explore.</Tasks.29.TaskDesc>
-			<Tasks.30.TaskDesc>Click the fogged area in the top left corner to issue an Explore task.</Tasks.30.TaskDesc>
-			<Tasks.32.TaskDesc>Wait until the exploration is complete.</Tasks.32.TaskDesc>
-			<Tasks.35.TaskDesc>Click the giant ginkgo found in the exploration.</Tasks.35.TaskDesc>
-			<Tasks.36.TipsData.Desc>Giant ginkgo is not only beautiful but can also gather Qi. It is a helpful and rare resource for the early stage of training.</Tasks.36.TipsData.Desc>
-			<Tasks.37.TaskDesc>Click the lotus found in the exploration.</Tasks.37.TaskDesc>
-			<Tasks.38.TipsData.Desc>In the early stages, lotus is an affordable resource for food.</Tasks.38.TipsData.Desc>
-			<Tasks.40.TipsData.Desc>The player can use Explore to gradually search all the areas in the map and discover new resources, soils, animals, etc.</Tasks.40.TipsData.Desc>
+			<Tasks.11.TaskDesc>Clique no coelho encontrado na exploração.</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Alguns animais selvagens são encontrados. Cace ou domestique para obter recursos.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TipsData.Desc>Recursos úteis e animais podem ser encontrados durante a exploração. O jogador pode adquirir esses recursos nas fases iniciais e os animais podem ser usados para caçar ou cultivar.</Tasks.14.TipsData.Desc>
+			<Tasks.16.TaskDesc>Posicione o cursor em caçar(Hunt) para ver a tecla de atalho.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Use a tecla de atalho {0} para acessar rapidamente a exploração.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Clique na área enevoada no canto superior direito para emitir uma tarefa de exploração.</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Aguarde até que a exploração seja concluída.</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>Clique no veio de minério encontrado na exploração.</Tasks.22.TaskDesc>
+			<Tasks.23.TipsData.Desc>Um veio de minérios raros encontrado, que pode ser coletado se necessário.</Tasks.23.TipsData.Desc>
+			<Tasks.24.TaskDesc>Posicione o cursor no solo recém-descoberto para verificar as informações.</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>Este é um solo fértil que pode ser usado para a agricultura.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TipsData.Desc>Veios de minério e solos férteis podem ser encontrados durante a exploração. O jogador pode usá-los para mineração e agricultura, se necessário.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TaskDesc>Use a tecla de atalho {0} para acessar rapidamente a exploração.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Clique na área enevoada no canto superior esquerdo para emitir uma tarefa de exploração.</Tasks.30.TaskDesc>
+			<Tasks.32.TaskDesc>Aguarde até que a exploração seja concluída.</Tasks.32.TaskDesc>
+			<Tasks.35.TaskDesc>Clique no Ginkgo gigante encontrado na exploração.</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>O Ginkgo gigante não é apenas bonito, mas também pode reunir Qi. É um recurso útil e raro para o estágio inicial do treinamento.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TaskDesc>Clique no lótus encontrado na exploração.</Tasks.37.TaskDesc>
+			<Tasks.38.TipsData.Desc>Nos estágios iniciais, o lótus é um recurso acessível para comida.</Tasks.38.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>O jogador pode usar Explorar para pesquisar gradualmente todas as áreas do mapa e descobrir novos recursos, solos, animais, etc.</Tasks.40.TipsData.Desc>
 		</Text>
 		<Text Name="BaseSave">
 			<Type>Basic</Type>
@@ -773,8 +773,8 @@
 			<Tasks.17.TaskDesc>Breakthrough</Tasks.17.TaskDesc>
 			<Tasks.19.TaskDesc>The player can place the cursor on a location near ore veins to know the chance of breakthrough there.</Tasks.19.TaskDesc>
 			<Tasks.21.TaskDesc>The player can place the cursor on a location near shallow water to know the chance of breakthrough there.</Tasks.21.TaskDesc>
-			<Tasks.23.TaskDesc>The player can place the cursor on a location near giant ginkgo to know the chance of breakthrough there.</Tasks.23.TaskDesc>
-			<Tasks.25.TaskDesc>Click a location near giant ginkgo for breakthrough.</Tasks.25.TaskDesc>
+			<Tasks.23.TaskDesc>The player can place the cursor on a location near giant Ginkgo to know the chance of breakthrough there.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Click a location near giant Ginkgo for breakthrough.</Tasks.25.TaskDesc>
 			<Tasks.26.TaskDesc>Click Yes.</Tasks.26.TaskDesc>
 			<Tasks.27.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.27.TaskDesc>
 			<Tasks.30.TaskDesc>Click Close.</Tasks.30.TaskDesc>
