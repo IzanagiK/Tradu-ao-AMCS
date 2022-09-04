@@ -5,12 +5,12 @@
 		</Text>
 		<Text Name="Item_BrownRockBlock" sParam="Item">
 			<ThingName>Brownstone Block</ThingName>
-			<Desc>Very common brick made from brownstone. Can be used more effectively in crafting, but its Attractiveness is quite poor.</Desc>
+			<Desc>Tijolo muito comum feito de Briwbstone. Pode ser usado de forma mais eficaz na criação, mas sua atratividade é muito baixa.</Desc>
 			<Item.BeMaterial.NamePrefix>Brownstone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_GrayRockBlock" sParam="Item">
 			<ThingName>Graystone Block</ThingName>
-			<Desc>Brick made from Graystone. Can be used more effectively in crafting, but its Attractiveness is quite average.</Desc>
+			<Desc>Tijolo feito de Graystone. Pode ser usado de forma mais eficaz na criação, mas sua atratividade é bastante média.</Desc>
 			<Item.BeMaterial.NamePrefix>Graystone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_MarbleBlock" sParam="Item">
@@ -20,22 +20,22 @@
 		</Text>
 		<Text Name="Item_JadeBlock" sParam="Item">
 			<ThingName>Jade Block</ThingName>
-			<Desc>Brick made from jade stone. Can be used more effectively in crafting.</Desc>
+			<Desc>Tijolo feito de Jade Stone. Pode ser usado de forma mais eficaz na criação.</Desc>
 			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SkyStoneBlock" sParam="Item">
 			<ThingName>Holy Stone Block</ThingName>
-			<Desc>Brick made from Holy Stone. Can be used more effectively in crafting.</Desc>
+			<Desc>Tijolo feito de Holy Stone. Pode ser usado de forma mais eficaz na criação.</Desc>
 			<Item.BeMaterial.NamePrefix>Holy Stone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingStoneBlock" sParam="Item">
 			<ThingName>Spirit Stone Block</ThingName>
-			<Desc>Brick made from spirit stones. Can be used more effectively in crafting.</Desc>
+			<Desc>Tijolo feito de Spirit Stone. Pode ser usado de forma mais eficaz na criação.</Desc>
 			<Item.BeMaterial.NamePrefix>Spirit Stone</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingCrystalBlock" sParam="Item">
 			<ThingName>Spirit Crystal Block</ThingName>
-			<Desc>Brick made from Spirit Crystal. Can be used more effectively in crafting.</Desc>
+			<Desc>Tijolo feito de Spirit Crystal. Pode ser usado de forma mais eficaz na criação.</Desc>
 			<Item.BeMaterial.NamePrefix>Spirit Crystal</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
