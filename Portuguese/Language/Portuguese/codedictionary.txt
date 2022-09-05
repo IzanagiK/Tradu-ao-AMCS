@@ -3658,7 +3658,7 @@ Trap编辑。	Trap Edit.
 因神国中神民怨念累积到100%而产生的信仰天劫。如果度过，则使怨念清零，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次	A Heavenly Tribulation caused by the 100% accumulated hatred from the divine residents in the Divine Realm. If the character survives, all hatred will be cleared; if not, they will be obliterated. \nBelief Tribulations Survived: {0} times
 {0:N0}秒	{0:N0} Sec
 因神性圆满而产生的信仰天劫。如果度过，则留下遗蜕神化飞升，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次	A Heavenly Tribulation caused by the fulfilled divinity. If the character survives, they will ascend into immortality and leave their mortal body behind; if not, they will be obliterated. \nBelief Tribulations Survived: {0} times
-修为到达圆满境后，可直面自身执念而引动信仰天劫。如果度过，则斩却执念，于神国中开辟一块新区域，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次	Once the cultivation reaches the Attainment State, the character can face their own obsession and cause a Belief Tribulation. If the character survives, they will detach from all obsessions and create a new area in the Divine Realm; if not, they will be obliterated. \nBelief Tribulations Survived: {0} times
+修为到达圆满境后，可直面自身执念而引动信仰天劫。如果度过，则斩却执念，于神国中开辟一块新区域，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次Uma vez que o cultivo atinge o Estado de Realização, o personagem pode enfrentar sua própria obsessão e causar uma Tribulação de Crenças. Se o personagem sobreviver, ele se desprenderá de todas as obsessões e criará uma nova área no Reino Divino; se não, eles serão obliterados. \nTribulações de Crença Sobrevividas: {0} times
 {0}代弟子	Gen {0} Disciple
 飞升滞留次数	Hovers
 滞留{0}次	Hover {0} times.
@@ -3678,11 +3678,11 @@ Trap编辑。	Trap Edit.
 影响灵宠的术法威力和灵气消耗。	Affects the Pet's Spell Power and Qi Cost.
 {0}:{1}\n通过锻炼可以提高，{0}营养越高，提高越快。	{0}:{1}\nCan be improved through exercise. The higher the nutrition {0}, the faster it can be improved.
 {0}营养：{1:N0}\n营养上限：100\n营养越高，对应的属性成长越快，消耗也越多，通过不同的饮食习惯来影响当前营养。	{0} Nutrition: {1:N0}\nNutrition cap: 100\nThe higher the nutrition, the faster the corresponding stats grow and the more it consumes. You can affect the current nutrition with different dietary habits.
-半妖型态的妖族在一定时间后都将面对化形天劫，成功度过即可成功化为人形，失败则会被打回原型。灵智碎片越多天劫便越快降临。	Yaoguai in half-human forms will face Shapeshifting Tribulation after a period of time. Those who succeed will shapeshift into human forms, while those who fail will be reversed to their original appearances. The more Intelligence Shards there are, the sooner the tribulation would come.
+半妖型态的妖族在一定时间后都将面对化形天劫，成功度过即可成功化为人形，失败则会被打回原型。灵智碎片越多天劫便越快降临。	Yaoguai em formas semi-humanas enfrentará a Tribulação de Metamorfose após um período de tempo. Aqueles que tiverem sucesso mudarão de forma para formas humanas, enquanto aqueles que falharem serão revertidos para suas aparências originais. Quanto mais fragmentos de inteligência houver, mais cedo a tribulação chegaria.
 {0:N0}天	{0:N0} d
-这个动物由修行者夺舍而来，觉醒灵智以后会迎来最严格的化形天劫，是否确定觉醒灵智	This animal was possessed by a cultivator. Once awakened intelligence, it will face the harshest Shapeshifting Tribulation. Are you sure you want to awaken its intelligence?
+这个动物由修行者夺舍而来，觉醒灵智以后会迎来最严格的化形天劫，是否确定觉醒灵智	Este animal foi possuído por um cultivador. Uma vez despertada a inteligência, ela enfrentará a mais dura Tribulação de Metamorfose. Tem certeza de que deseja despertar sua inteligência?
 是否确定觉醒灵智	Are you sure you want to awaken intelligence?
-是否确定合成灵智碎片，合成以后将无法取消	Are you sure you want to synthesize Intelligence Shard? Once synthesized, it cannot be reversed.
+是否确定合成灵智碎片，合成以后将无法取消	Tem certeza de que deseja sintetizar fragmento de inteligência? Uma vez sintetizado, não pode ser revertido.
 思绪：{0}/{1}	Thought: {0}/{1}
 开启灵智\n{0:P0}	Awaken Intelligence\n{0:P0}
 开启\n灵智	Awaken\nIntelligence
