@@ -3669,7 +3669,7 @@ Trap编辑。	Trap Edit.
 阴\n	Yin\n
 鼎炉\n鼎炉之限：{0:F0}\n炼精化气：{1:F0}/{0:F0}\n阶段：{2}\n{3}\n\n[color=#D06508]炼精化气：修炼时消耗精元并提高灵气最大值。\n鼎炉之限：肉身所能承担炼精化气的最大数值，由先天潜力决定。[/color]	Inner Cauldron\nInner Cauldron Limit: {0:F0}\nRefinement Qi {1:F0}/{0:F0}\nPhase:{2}\n{3}\n\n[color=#D06508]Refinamento do Qi: Cultivo custa Vigor e aumenta o Qi Máximo.\nLimite do Caldeirão Interno: O valor máximo do Qi de Refinamento que um corpo pode suportar. Este valor é decidido pelo potencial.[/color]
 神民数量\n神国中拥有的神民数量。	Number of Divine Residents\nThe number of divine residents in the Divine Realm.
-信徒数量\n靠行走天下获得。在开辟神国之前，你最多只能拥有1000个信徒。	Number of Followers\nObtained from travelling around the world. Before establishing a Divine Realm, you can have 1,000 followers at most.
+信徒数量\n靠行走天下获得。在开辟神国之前，你最多只能拥有1000个信徒。	Número de seguidores\nObtido de viajar ao redor do mundo. Antes de estabelecer um Reino Divino, você pode ter no máximo 1.000 seguidores.
 分神：\n已获得：{0}\n可寄托：{1}\n已寄托：{2}({4})\n未获得：{3}	Sub-spirits: \nObtained: {0}\nAvailable to attach: {1}\nAttached: {2}({4})\nNot Obtained: {3}
 可提高灵宠锻炼的效果以及解锁更多行为。	Improves the effects of Pet exercise and unlock more Acts.
 影响灵宠的灵气上限。	Affects the Pet's Qi Cap.
@@ -3708,15 +3708,15 @@ Trap编辑。	Trap Edit.
 点击切换至该角色	Click to switch to this character.
 平衡	Balance
 随心所欲，顺其自然	Let nature take its course.
-弟子会自己安排修炼行为	Disciples will plan their own cultivation training schedule.
+弟子会自己安排修炼行为	Os discípulos planejarão seu próprio cronograma de treinamento de cultivo.
 克己	Restrained
 [克己]克制自己之欲望，使神性的获得速度加快。同时获得临时的神性加值(最多为真实神性的一半)。\n克己状态下心境不会减少且加速增加。	[Restrained] Restrains your own desires and accelerates the increase of divinity. At the same time, obtains temporary additional divinity (no greater than half of the base divinity). \nWhile restrained, your mental state will increase at a faster pace, instead of reducing.
-[境界]持续修行功法直到功法达到瓶颈	[Practice] Continue practicing a Law until it reaches the limit.
+[境界]持续修行功法直到功法达到瓶颈	[Practice] Continue praticando uma Lei até atingir o limite.
 放纵	Indulgence
 调心	Mind
 [放纵]放纵自己之欲望，使自己神性获得速度降低。同时获得临时的人性加值(最多为真实神性的一半)。\n放纵状态下心境不会增加且加速减少。	[Indulgence] Indulges in your own desires and slow down the increase of divinity. At the same time, obtains temporary additional humanity (no greater than half of the base divinity). \nWhile indulging, your mental state will reduce at a faster pace, instead of increasing.
-[心境]持续调整心境直到心境无暇	[Mind] Continue to adjust mental state until Pristine Mind.
-[练功]自主进行练习，获取较多参悟经验。	[Train] Trains automatically for increased Inspiration XP.
+[心境]持续调整心境直到心境无暇	[Mind] Continue a ajustar o estado mental até a Mente Pura.
+[练功]自主进行练习，获取较多参悟经验。	[Train] Treina automaticamente para aumentar o XP de Inspiração.
 {0}_积累灵性：{1}	{0}_Accumulated Blessing: {1}
 [多个物体]	[Multiple Objects]
 一个区域	One Area
