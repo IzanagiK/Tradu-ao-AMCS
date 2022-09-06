@@ -370,21 +370,21 @@
 煞性隐隐	Minor Curse
 煞性凝练	Moderate Curse
 煞性凌冽	Major Curse
-自身生长速度很慢，对周边环境产生极大的正面增益。	Very slow growth rate; major positive effect on the surrounding environment.
-自身生长速度较慢，对周边环境产生较大的正面增益。	Slow growth rate; medium positive effect on the surrounding environment.
-自身生长速度略慢，对周边环境产生略微的正面增益。	Somewhat slow growth rate; minor positive effect on the surrounding environment.
-自身生长速度略快，对周边环境产生略微的负面影响。	Somewhat fast growth rate; minor negative effect on the surrounding environment.
-自身生长速度较快，对周边环境产生较大的负面影响。	Fast growth rate; medium negative effect on the surrounding environment.
-自身生长速度很快，对周边环境产生极大的负面影响。	Very fast growth rate; major negative effect on the surrounding environment.
+自身生长速度很慢，对周边环境产生极大的正面增益。	Taxa de crescimento muito lenta; grande efeito positivo sobre o meio ambiente.
+自身生长速度较慢，对周边环境产生较大的正面增益。	Taxa de crescimento lenta; efeito positivo médio sobre o meio ambiente.
+自身生长速度略慢，对周边环境产生略微的正面增益。	Taxa de crescimento um pouco lenta; menor efeito positivo sobre o meio ambiente.
+自身生长速度略快，对周边环境产生略微的负面影响。	Taxa de crescimento um pouco rápida; menor efeito negativo sobre o meio ambiente.
+自身生长速度较快，对周边环境产生较大的负面影响。	Taxa de crescimento rápido; efeito negativo médio sobre o meio ambiente.
+自身生长速度很快，对周边环境产生极大的负面影响。	Taxa de crescimento muito rápida; grande efeito negativo sobre o meio ambiente.
 空	Empty
-鼎炉潜力尚未开发，炼精化气效率极高。	Undeveloped Inner Cauldron potential; very high Stamina conversion efficiency.
+鼎炉潜力尚未开发，炼精化气效率极高。	Potencial do Caldeirão Interno não desenvolvido; eficiência de conversão de Stamina muito alta.
 始	Sparse
-鼎炉潜力开发伊始，炼精化气效率较高。	Recently developed Inner Cauldron potential; high Stamina conversion efficiency.
-鼎炉潜力开发泰半，炼精化气效率正常。	Half-developed Inner Cauldron potential; normal Stamina conversion efficiency.
+鼎炉潜力开发伊始，炼精化气效率较高。	Potencial do Caldeirão Interno recentemente desenvolvido; alta eficiência de conversão de resistência.
+鼎炉潜力开发泰半，炼精化气效率正常。	Potencial do Caldeirão Interior semidesenvolvido; eficiência normal de conversão de resistência.
 盈	Full
-鼎炉潜力几尽枯竭，炼精化气效率较慢。	Inner Cauldron potential near depletion; low Stamina conversion efficiency.
+鼎炉潜力几尽枯竭，炼精化气效率较慢。	Potencial do Caldeirão Interno próximo ao esgotamento; baixa eficiência de conversão de Stamina.
 满	Bursting
-鼎炉潜力开发至极限，需结丹以突破鼎炉之限。	Extremely developed Inner Cauldron potential; very slow Stamina conversion efficiency.
+鼎炉潜力开发至极限，需结丹以突破鼎炉之限。	Potencial do Caldeirão Interior extremamente desenvolvido; eficiência de conversão de Stamina muito lenta.
 护御	Protection
 修行	Practice
 仇恨	Hatred
@@ -392,7 +392,7 @@
 冷淡	Indifferent
 友好	Friend
 尊敬	Respect
-影响值是处理代理点事务的资源。主要用于建设重要建筑比如奇观和主殿，以及各种政策的消耗。主殿每日会产出影响值，在某些事件中使用处世手段也可以获得。	Influence is a resource used to manage any agency's business. For example, building wonders and main halls, implementing policies and so on. Influence will be produced by the main hall every day, or acquired through social skills in certain events.
+影响值是处理代理点事务的资源。主要用于建设重要建筑比如奇观和主殿，以及各种政策的消耗。主殿每日会产出影响值，在某些事件中使用处世手段也可以获得。	Influência é um recurso usado para gerenciar os negócios de qualquer agência. Por exemplo, construir maravilhas e salões principais, implementar políticas e assim por diante. A influência será produzida pelo salão principal todos os dias, ou adquirida através de habilidades sociais em determinados eventos.
 略有灵韵	Mild Spirit
 灵韵天生	Natural Spirit
 灵韵澎湃	Strong Spirit
@@ -434,17 +434,17 @@
 远离炼宝台	and Away from the Crafting Table
 远离炼丹炉	and Away from the Alchemy Furnace
 远离炉灶	and Away from the Stove
-你的情感依然很丰富，依然会被喜怒哀乐所动。这些凡人的情感让你对神力的掌握倍加艰难，但也正因如此，就算是很平凡很微小的信仰你都能感受并收取。	You still have many human emotions such as joy, anger and sorrow. These human emotions have made it difficult for you to master divine powers, but at the same time, you can feel and absorb even the slightest mortal belief.
-你对凡人的情感逐渐收敛，已经很少会有极端的狂喜或悲恸。得益于此，你对神力的掌握渐渐加深，但来自众生的那些平凡微小的信仰你已无法尽数感知。	You have less human emotions and can hardly feel extreme joy or sorrow. You have become more attuned to divine powers, but can no longer perceive all the mortal and small beliefs.
-凡人的喜怒哀乐对你的影响越来越少，而你对神力的运用也渐入佳境。但逐渐失去凡人心态的你也越发难以吸收那些平凡而普通的信仰。	Human emotions affect you less and less, and you begin to master divine powers. But your loss of humanity has rendered you less perceptive to human beliefs.
-你的情感已经十分淡漠，很少有什么事可以让你动容。你对神力的运用越发自如，但来自诸多平凡信众的信仰对你而言已近乎尘砾。	You have become very indifferent toward people and worldly affairs. You are more in tune with divine powers, but ordinary people's beliefs are almost nothing to you.
-你几乎没有了人类的情感，众生在你眼中皆无不同。你对神力的运用已达巅峰，但绝大部分普通的信仰对你已经毫无意义。	You have lost nearly all human emotions and see no difference between any lifeform. You have mastered the ultimate divine powers, but at the same time, most people's beliefs have become meaningless in your eyes.
+你的情感依然很丰富，依然会被喜怒哀乐所动。这些凡人的情感让你对神力的掌握倍加艰难，但也正因如此，就算是很平凡很微小的信仰你都能感受并收取。	Você ainda tem muitas emoções humanas, como alegria, raiva e tristeza. Essas emoções humanas tornaram difícil para você dominar os poderes divinos, mas, ao mesmo tempo, você pode sentir e absorver até mesmo a menor crença mortal.
+你对凡人的情感逐渐收敛，已经很少会有极端的狂喜或悲恸。得益于此，你对神力的掌握渐渐加深，但来自众生的那些平凡微小的信仰你已无法尽数感知。	Você tem menos emoções humanas e dificilmente pode sentir extrema alegria ou tristeza. Você se tornou mais sintonizado com os poderes divinos, mas não pode mais perceber todas as crenças mortais e pequenas.
+凡人的喜怒哀乐对你的影响越来越少，而你对神力的运用也渐入佳境。但逐渐失去凡人心态的你也越发难以吸收那些平凡而普通的信仰。	As emoções humanas o afetam cada vez menos, e você começa a dominar os poderes divinos. Mas sua perda de humanidade tornou você menos receptivo às crenças humanas.
+你的情感已经十分淡漠，很少有什么事可以让你动容。你对神力的运用越发自如，但来自诸多平凡信众的信仰对你而言已近乎尘砾。	Você se tornou muito indiferente em relação às pessoas e assuntos mundanos. Você está mais em sintonia com os poderes divinos, mas as crenças das pessoas comuns não são quase nada para você.
+你几乎没有了人类的情感，众生在你眼中皆无不同。你对神力的运用已达巅峰，但绝大部分普通的信仰对你已经毫无意义。	Você perdeu quase todas as emoções humanas e não vê diferença entre nenhuma forma de vida. Você dominou os poderes divinos supremos, mas, ao mesmo tempo, as crenças da maioria das pessoas perderam o sentido aos seus olhos.
 杀戮	Killing
 杀死{0}({1:N0})个生灵	Kills {0} ({1:N0}) creatures
-被杀戮之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时专注杀戮而战法激进，因此御器技能突破极限2级，术法技能突破极限2级，护体技能降低5级。	Haunted by the intent to kill. Practice efficiency, learning speed and mental state are drastically reduced. In the state, the character will focus on killing, thus improving their battle skills. Breakthroughs 2 levels of Artifact Mastery and Spell, and lowers 5 levels of Protection.
+被杀戮之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时专注杀戮而战法激进，因此御器技能突破极限2级，术法技能突破极限2级，护体技能降低5级。	Assombrado pela intenção de matar. A eficiência da prática, a velocidade de aprendizado e o estado mental são drasticamente reduzidos. No estado, o personagem se concentrará em matar, melhorando assim suas habilidades de batalha. Avança 2 níveis de Maestria de Artefato e Feitiço e reduz 5 níveis de Proteção.
 自弃	Giving Up
-失败累积{0}({1:N0})次（炼丹，炼器，突破，战斗中倒地）	Fails {0} ({1:N0}) times. This includes failing in alchemy, artifact crafting and breakthrough, or being knocked down during battles.
-被自弃之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时自暴自弃而奋不顾死，因此御器技能突破极限2级，术法技能突破极限2级，护体技能降低5级。	Ready to give up. Practice efficiency, learning speed and mental state are drastically reduced. In the state, the character will give up hope, thus risking everything they have. Breakthroughs 2 levels of Artifact Mastery and Spell, and lowers 5 levels of Protection.
+失败累积{0}({1:N0})次（炼丹，炼器，突破，战斗中倒地）	Fails {0} ({1:N0}) times. Isso inclui falhar em alquimia, criação de artefatos e avanços, ou ser derrubado durante as batalhas.
+被自弃之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时自暴自弃而奋不顾死，因此御器技能突破极限2级，术法技能突破极限2级，护体技能降低5级。	Pronto para desistir. A eficiência da prática, a velocidade de aprendizado e o estado mental são drasticamente reduzidos. No estado, o personagem vai perder a esperança, arriscando assim tudo o que tem. Avança 2 níveis de Maestria de Artefato e Feitiço e reduz 5 níveis de Proteção.
 贪婪	Greedy
 食用12阶的物品累积{0}({1:N0})次	Eats {0} ({1:N0}) Tier 12 items
 被贪婪之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时不舍珍宝而倍加惜命，因此御器技能，术法技能降低2级，护体技能突破极限3级。	Driven by greed. Practice efficiency, learning speed and mental state are drastically reduced. In the state, the character will value their treasures too much to risk dying. Lowers 2 levels of Artifact Mastery and Spell, and breakthroughs 3 levels of Protection.
