@@ -265,57 +265,57 @@
 		</Text>
 		<Text Name="MemberExpansion">
 			<Type>Basic</Type>
-			<DisplayName>Expandindo</DisplayName>
-			<Desc>Learn basic expanding in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Aceitar um novo membro</Chapters.0.DisplayName>
+			<DisplayName>Expandindo a Seita</DisplayName>
+			<Desc>Aprenda o básico de expansão neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Aceitando um novo membro</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Confira o evento para refugiados</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Emitir um pedido de aceitação</Chapters.0.Tasks.1>
 			<Chapters.1.DisplayName>Organizar o trabalho para o novo membro</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Atribuir um trabalho adequado</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Fornecer ferramentas</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Equipar ferramentas</Chapters.1.Tasks.2>
-			<Chapters.2.DisplayName>Atenda às Necessidades do Novo Sócio</Chapters.2.DisplayName>
+			<Chapters.2.DisplayName>Atender às necessidades do novo membro</Chapters.2.DisplayName>
 			<Chapters.2.Tasks.0>Inspecionar necessidades</Chapters.2.Tasks.0>
-			<Chapters.2.Tasks.1>Selecione uma cama e quarto</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.1>Selecione uma cama e um quarto</Chapters.2.Tasks.1>
 			<Tasks.1.TaskDesc>Aguarde o evento de aceitação de refugiados aparecer.</Tasks.1.TaskDesc>
 			<Tasks.2.TaskDesc>Clique em Confirmar.</Tasks.2.TaskDesc>
-			<Tasks.3.TipsData.Desc>No jogo, haverá refugiados pedindo para se juntar à seita.  É uma boa oportunidade para expansão, mas crescer muito rápido pressionará a infraestrutura e o fornecimento de alimentos, portanto, considere com cuidado.</Tasks.3.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>No jogo, haverá refugiados pedindo para se juntar à seita. É uma boa oportunidade para expansão, mas crescer muito rápido pressionará a infraestrutura e o fornecimento de alimentos, portanto, considere com cuidado.</Tasks.3.TipsData.Desc>
 			<Tasks.5.TaskDesc>Selecione o refugiado.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Clique em Aceitar no menu do personagem.</Tasks.6.TaskDesc>
 			<Tasks.6.UiData.Name>Accept</Tasks.6.UiData.Name>
-			<Tasks.7.TaskDesc>Mude para o modo 3x acelerado clicando em 3x no canto superior esquerdo.</Tasks.7.TaskDesc>
+			<Tasks.7.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Espere até que seu povo aceite esse personagem.</Tasks.9.TaskDesc>
-			<Tasks.11.TipsData.Desc>Você ganhou um novo personagem.  Cada personagem se destaca em um tipo de trabalho.  Abra o menu Horário de Trabalho e organize o trabalho adequado para cada personagem.</Tasks.11.TipsData.Desc>
+			<Tasks.11.TipsData.Desc>Você ganhou um novo personagem. Cada personagem se destaca em um tipo de trabalho.  Abra o menu Work e organize o trabalho adequado para cada personagem.</Tasks.11.TipsData.Desc>
 			<Tasks.13.TaskDesc>Clique para abrir o menu Horário de Trabalho.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Mova o cursor para um tipo de trabalho para ver a capacidade de cada personagem para realizá-lo e tente escolher o personagem mais adequado para o trabalho.</Tasks.14.TaskDesc>
-			<Tasks.15.TaskDesc>Como o primeiro personagem tem a melhor habilidade de ser um curador, clique na posição de curador do terceiro personagem para cancelá-lo.</Tasks.15.TaskDesc>
-			<Tasks.16.TaskDesc>Como o terceiro personagem tem a melhor habilidade de ser um minerador, clique na posição de minerador do primeiro personagem para cancelá-lo.</Tasks.16.TaskDesc>
+			<Tasks.15.TaskDesc>Como o primeiro personagem tem a melhor habilidade de ser um curador/healer, clique na posição de curador do terceiro personagem para cancelá-lo.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Como o terceiro personagem tem a melhor habilidade em mineração, clique na posição de minerador do primeiro personagem para cancelá-lo.</Tasks.16.TaskDesc>
 			<Tasks.17.TaskDesc>Feche esta página.</Tasks.17.TaskDesc>
-			<Tasks.18.TipsData.Desc>Você atribuiu trabalho para os personagens e fornecer uma ferramenta adequada pode melhorar muito a eficiência do trabalho.</Tasks.18.TipsData.Desc>
-			<Tasks.20.TaskDesc>Selecione um local de trabalho para mostrar seu status abaixo.</Tasks.20.TaskDesc>
-			<Tasks.21.TaskDesc>Clique em Produzir.</Tasks.21.TaskDesc>
+			<Tasks.18.TipsData.Desc>Você atribuiu trabalho para os personagens. fornecer uma ferramenta adequada pode melhorar muito a eficiência do trabalho.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Selecione um local de trabalho para mostrar seu status.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Clique em Produzir/Produce.</Tasks.21.TaskDesc>
 			<Tasks.21.UiData.Name>Produce</Tasks.21.UiData.Name>
 			<Tasks.22.TaskDesc>Faça uma picareta.</Tasks.22.TaskDesc>
 			<Tasks.22.UiData.Name>Pickaxe</Tasks.22.UiData.Name>
-			<Tasks.23.TaskDesc>Feche a página Produzir.</Tasks.23.TaskDesc>
+			<Tasks.23.TaskDesc>Feche a página Produção.</Tasks.23.TaskDesc>
 			<Tasks.24.TaskDesc>Aguarde até que a produção seja concluída.</Tasks.24.TaskDesc>
 			<Tasks.26.TaskDesc>Selecione um personagem que precisa da picareta.</Tasks.26.TaskDesc>
-			<Tasks.28.TaskDesc>Clique no botão interativo Equipar.</Tasks.28.TaskDesc>
+			<Tasks.28.TaskDesc>Clique no botão interativo Equipar/Equip.</Tasks.28.TaskDesc>
 			<Tasks.28.UiData.Name>Equip</Tasks.28.UiData.Name>
-			<Tasks.29.TaskDesc>Clique em Picareta.</Tasks.29.TaskDesc>
+			<Tasks.29.TaskDesc>Clique na Picareta.</Tasks.29.TaskDesc>
 			<Tasks.30.TaskDesc>Espere até que o personagem equipe a picareta.</Tasks.30.TaskDesc>
 			<Tasks.32.TipsData.Desc>Atribuir um trabalho adequado a um novo discípulo ajuda a melhorar a eficiência do trabalho para toda a seita.  Ao organizar diferentes trabalhos, diferentes ferramentas devem ser fornecidas aos discípulos para aumentar sua eficiência individual.</Tasks.32.TipsData.Desc>
-			<Tasks.34.TipsData.Desc>Se as necessidades de um personagem não forem atendidas, seu humor será afetado negativamente, o que diminui sua eficiência no trabalho e até mesmo o deixa folgado no trabalho.  Agora vamos ver o que o novo personagem precisa.</Tasks.34.TipsData.Desc>
+			<Tasks.34.TipsData.Desc>Se as necessidades de um personagem não forem atendidas, seu humor será afetado negativamente, o que diminui sua eficiência no trabalho e até mesmo o deixa preguiçoso no trabalho. Agora vamos ver o que o novo personagem precisa.</Tasks.34.TipsData.Desc>
 			<Tasks.35.TaskDesc>Selecione o novo personagem.</Tasks.35.TaskDesc>
-			<Tasks.36.TaskDesc>Clique no menu Humor.</Tasks.36.TaskDesc>
-			<Tasks.37.TipsData.Desc>O personagem precisa de um quarto.  Arranje um quarto vago para ele.</Tasks.37.TipsData.Desc>
+			<Tasks.36.TaskDesc>Clique no menu Humor/mood.</Tasks.36.TaskDesc>
+			<Tasks.37.TipsData.Desc>O personagem precisa de um quarto. Arranje um quarto vago para ele.</Tasks.37.TipsData.Desc>
 			<Tasks.37.TipsData.Name>Quarto necessário</Tasks.37.TipsData.Name>
 			<Tasks.39.TaskDesc>Clique na cama no quarto.</Tasks.39.TaskDesc>
 			<Tasks.40.TaskDesc>Clique para atribuir a propriedade.</Tasks.40.TaskDesc>
 			<Tasks.40.UiData.Name>Assign</Tasks.40.UiData.Name>
 			<Tasks.41.TaskDesc>Clique no primeiro personagem e arrume a cama para ele.</Tasks.41.TaskDesc>
 			<Tasks.42.TaskDesc>Confirme o arranjo.</Tasks.42.TaskDesc>
-			<Tasks.44.TipsData.Desc>Preste muita atenção ao humor dos personagens e satisfaça suas necessidades para garantir que a seita funcione com mais eficiência.  Além de esperar que os refugiados se juntem, o jogador pode enviar discípulos internos para encontrar novos personagens para se juntar ou participar de eventos especiais para recrutar novos discípulos após estabelecer a seita.  O jogador pode explorar esses conteúdos avançados enquanto joga.</Tasks.44.TipsData.Desc>
+			<Tasks.44.TipsData.Desc>Preste muita atenção ao humor dos personagens e satisfaça suas necessidades para garantir que a seita funcione com mais eficiência. Além de esperar que os refugiados se juntem, o jogador pode enviar discípulos internos para encontrar novos personagens para se juntar ou participar de eventos especiais para recrutar novos discípulos após estabelecer a seita. O jogador pode explorar esses conteúdos avançados enquanto joga.</Tasks.44.TipsData.Desc>
 		</Text>
 		<Text Name="Treatment">
 			<Type>Basic</Type>
@@ -343,7 +343,7 @@
 			<Tasks.12.TaskDesc>Clique para fazer um bálsamo de cura.</Tasks.12.TaskDesc>
 			<Tasks.12.UiData.Name>Healing Balm</Tasks.12.UiData.Name>
 			<Tasks.13.TaskDesc>Clique para fechar a página Produzir na tabela.</Tasks.13.TaskDesc>
-			<Tasks.14.TaskDesc>Mude para o modo 3x acelerado clicando em 3x no canto superior esquerdo.</Tasks.14.TaskDesc>
+			<Tasks.14.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.14.TaskDesc>
 			<Tasks.16.TaskDesc>Espere até que o Healing Balm seja feito.</Tasks.16.TaskDesc>
 			<Tasks.18.TipsData.Desc>Não há muitas ervas na natureza, então o jogador pode planejar um jardim de ervas com antecedência para garantir um suprimento constante de ervas.</Tasks.18.TipsData.Desc>
 			<Tasks.21.TaskDesc>Clique na notificação de lesão à esquerda.</Tasks.21.TaskDesc>
@@ -504,7 +504,7 @@
 			<Tasks.6.TaskDesc>Clique em Comer no menu Status do personagem.</Tasks.6.TaskDesc>
 			<Tasks.6.UiData.Name>Eat</Tasks.6.UiData.Name>
 			<Tasks.7.TaskDesc>Clique para selecionar Pílula de Jejum.</Tasks.7.TaskDesc>
-			<Tasks.9.TaskDesc>Mude para o modo 3x acelerado clicando em 3x no canto superior esquerdo.</Tasks.9.TaskDesc>
+			<Tasks.9.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.9.TaskDesc>
 			<Tasks.11.TaskDesc>Espere até que o NPC coma a pílula.</Tasks.11.TaskDesc>
 			<Tasks.13.TaskDesc>O jogador pode colocar o cursor na barra Need for Food para ver a mudança.</Tasks.13.TaskDesc>
 			<Tasks.15.TipsData.Desc>A razão para jejuar no jogo é reduzir o consumo de comida e água dos discípulos para diminuir sua necessidade de comida e bebida e, portanto, o custo dos recursos, mas reduzir a necessidade de comida e água de um discípulo interno reduzirá a quantidade de resistência convertida de  Comida.</Tasks.15.TipsData.Desc>
@@ -776,7 +776,7 @@
 			<Tasks.23.TaskDesc>O jogador pode colocar o cursor em um local próximo ao gigante Ginkgo para saber a chance de avanço por lá.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Clique em um local perto do gigante Ginkgo para avançar.</Tasks.25.TaskDesc>
 			<Tasks.26.TaskDesc>Clique em Sim.</Tasks.26.TaskDesc>
-			<Tasks.27.TaskDesc>Mude para o modo 3x acelerado clicando em 3x no canto superior esquerdo.</Tasks.27.TaskDesc>
+			<Tasks.27.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.27.TaskDesc>
 			<Tasks.30.TaskDesc>Clique em Fechar.</Tasks.30.TaskDesc>
 			<Tasks.31.TaskDesc>Espere até que o discípulo chegue para a descoberta.</Tasks.31.TaskDesc>
 			<Tasks.33.TaskDesc>Clique na notificação de falha na descoberta à esquerda.</Tasks.33.TaskDesc>
@@ -977,7 +977,7 @@
 			<Tasks.25.TaskDesc>Clique em Mover.</Tasks.25.TaskDesc>
 			<Tasks.25.UiData.Name>Move</Tasks.25.UiData.Name>
 			<Tasks.26.TaskDesc>Clique em Colocar e coloque-o no local designado.</Tasks.26.TaskDesc>
-			<Tasks.27.TaskDesc>Mude para o modo 3x acelerado clicando em 3x no canto superior esquerdo.</Tasks.27.TaskDesc>
+			<Tasks.27.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.27.TaskDesc>
 			<Tasks.29.TaskDesc>Aguarde a conclusão.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>Clique em Feng Shui no canto superior esquerdo para sair do modo Feng Shui.</Tasks.31.TaskDesc>
 			<Tasks.32.TaskDesc>Colocar a Barra de Igneocobre melhorou o elemento Fogo no ambiente.</Tasks.32.TaskDesc>
@@ -1022,7 +1022,7 @@
 			<Tasks.17.TaskDesc>Clique para selecionar Barra de Ferro.</Tasks.17.TaskDesc>
 			<Tasks.18.TaskDesc>Coloque-o no local designado na planta.</Tasks.18.TaskDesc>
 			<Tasks.19.TaskDesc>Clique com o botão direito do mouse para cancelar o modo Build.</Tasks.19.TaskDesc>
-			<Tasks.21.TaskDesc>Mude para o modo 3x acelerado clicando em 3x no canto superior esquerdo.</Tasks.21.TaskDesc>
+			<Tasks.21.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>Aguarde até que a construção está concluída.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Clique para selecionar Cama de Ferro.</Tasks.25.TaskDesc>
 			<Tasks.26.TaskDesc>Clique para atribuir a propriedade.</Tasks.26.TaskDesc>
@@ -1067,7 +1067,7 @@
 			<Tasks.13.TaskDesc>Selecione Pedra do Espírito.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Clique em Negociar no menu inferior.</Tasks.14.TaskDesc>
 			<Tasks.14.UiData.Name>Trade Area</Tasks.14.UiData.Name>
-			<Tasks.15.TaskDesc>Mude para o modo 3x acelerado clicando em 3x no canto superior esquerdo.</Tasks.15.TaskDesc>
+			<Tasks.15.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.15.TaskDesc>
 			<Tasks.17.TaskDesc>Aguarde até que os itens sejam movidos para a área de comércio.</Tasks.17.TaskDesc>
 			<Tasks.19.TipsData.Desc>Toda vez que um comerciante chega, ele traz uma grande quantidade de recursos, então prepare os itens que precisam ser negociados com antecedência caso você perca o horário de negociação.</Tasks.19.TipsData.Desc>
 			<Tasks.21.TaskDesc>Clique para selecionar o comerciante.</Tasks.21.TaskDesc>
@@ -1167,7 +1167,7 @@
 			<Tasks.44.TaskDesc>Clique em Sim.</Tasks.44.TaskDesc>
 			<Tasks.45.TipsData.Desc>Uma vez que o evento é tratado, a janela de política não mostrará mais o ponto de exclamação.</Tasks.45.TipsData.Desc>
 			<Tasks.46.TaskDesc>Clique para fechar o menu Gerenciamento de energia.</Tasks.46.TaskDesc>
-			<Tasks.48.TaskDesc>Mude para o modo 3x acelerado clicando em 3x no canto superior esquerdo.</Tasks.48.TaskDesc>
+			<Tasks.48.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.48.TaskDesc>
 			<Tasks.50.TaskDesc>Uma janela de evento que aparece após a conclusão do evento de caridade.</Tasks.50.TaskDesc>
 			<Tasks.51.TaskDesc>Clique para conferir o resultado.</Tasks.51.TaskDesc>
 			<Tasks.52.TipsData.Desc>Depois que o jogador concluir um evento com sucesso, a agência ganhará muitos seguidores.  Um grande número de seguidores beneficia a expansão da agência.</Tasks.52.TipsData.Desc>

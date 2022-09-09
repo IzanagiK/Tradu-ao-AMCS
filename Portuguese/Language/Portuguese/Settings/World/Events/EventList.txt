@@ -1,11 +1,11 @@
 ﻿ID	Name	Desc	sParam1	sParam2
 ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:妖兽种族) (宝物:物品类型lable 权重:ID|ID.)  (角色:数据名字) (秘闻:随机秘闻ID|ID) (路人：行为描述)(动物进攻：种族)（精怪来临：精怪类型）	(路人：附加标记)（精怪来临：具体名称  用|隔开。必须要有种族）
-1	Clear	It is a very clear and bright day, but you don't know how long it will last.	SunnyDay	
-2	Cloudy	It is a very grim and cloudy day, but you don't know how long it will last.	Overcast	
-3	Light Rain	It has started to rain lightly.	LightRain	
-4	Heavy Rain	It has started to rain heavily.	HeavyRain	
-5	Thick Fog	A thick fog has suddenly started to form.	DenseFog	
-6	Gloomy Mood	A strange gloomy mood has begun permeating the sect.	Melancholy	
+1	Clear	é um dia muito claro e brilhante, mas você não sabe quanto tempo vai durar.	SunnyDay	
+2	Cloudy	é um dia muito sombrio e nublado, mas você não sabe quanto tempo vai durar.	Overcast	
+3	Light Rain	Começou a chover levemente.	LightRain	
+4	Heavy Rain	Começou a chover forte.	HeavyRain	
+5	Thick Fog	Uma névoa espessa de repente começou a se formar.	DenseFog	
+6	Gloomy Mood	Um estranho humor sombrio começou a permear a seita.	Melancholy	
 7	Romance	A romantic atmosphere has begun permeating the sect.	Ambiguous	
 8	Irritation	People all over the sect suddenly has begun getting irritated easily.	Impetuous	
 9	Hail	It has started to hail. (Unimplemented)	Impetuous	
@@ -27,7 +27,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 25	Treasure	A beam of light has shot down from the sky. It seems to be something precious.	FightFabao	
 26	Treasure	A fierce magical fight happened over the sky not far from here. Something precious has dropped near the area.	FightFabao	
 27	Treasure	A beam of light suddenly shot up into the sky. A treasure seems to be gracing this area.	FightFabao	
-28	Passer-by Refugee	A refugee escaping the war is passing by, and [IT] wishes to join you.	Human	
+28	Passer-by Refugee	Um refugiado fugindo da guerra está passando, e[IT] deseja se juntar a você.	Human	
 29	Secret		1	
 30	Secret		2	
 31	Secret		3	
@@ -284,7 +284,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 30020	Thunderstorm	A thunderstorm is coming, and the Metal Element across heaven and earth is extremely active.	LightningStorm	
 30021	Assault	A few mysterious assassins are ordered to attack your sect.	Normal	Human
 30022	Thunderstorm	Answering the Mysterious Cavern unrest, a thunderstorm strikes.	Lightning_DragonHole	
-30028	Passer-by Refugee	A refugee escaping the war is passing by, and [IT] wishes to join you.	Human	
+30028	Passer-by Refugee	Um refugiado fugindo da guerra está passando, e [IT] deseja se juntar a você.	Human	
 30043	Confused Stranger	A stranger lost their way around here, and wishes that we could help them.	Confused Stranger	
 30044	Curious Stranger	A curious stranger came across this place by accident, and [IT] want to know what we are doing exactly.	Curious Stranger	
 30045	Injured Stranger	A stranger is injured, and [IT] wish to stay here for a while and ask for our help.	Injured Stranger	RandomDamage
