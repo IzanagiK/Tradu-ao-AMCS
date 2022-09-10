@@ -6,18 +6,18 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 4	Heavy Rain	Começou a chover forte.	HeavyRain	
 5	Thick Fog	Uma névoa espessa de repente começou a se formar.	DenseFog	
 6	Gloomy Mood	Um estranho humor sombrio começou a permear a seita.	Melancholy	
-7	Romance	A romantic atmosphere has begun permeating the sect.	Ambiguous	
-8	Irritation	People all over the sect suddenly has begun getting irritated easily.	Impetuous	
-9	Hail	It has started to hail. (Unimplemented)	Impetuous	
-10	Rainy Season	The rainy season has started.	MouldRains	
-11	Drought	The drought season has started.	Drought	
-12	Rainstorm	A heavy rainstorm has started, and the Water Element across heaven and earth is extremely active.	Rainstorm	
-13	Foehn Wind	A dry and warm foehn wind has started, and the Fire Element across heaven and earth is extremely active.	Fohn	
-14	Dust Storm	A dust storm is sweeping across the land, and the Earth Element across heaven and earth is extremely active.	DustStorm	
-15	Qi Drought	For unknown reasons, it is in a drought season of Qi across heaven and earth.	LingRarefiedWave	
-16	Heat	Summer heat is coming, so it will be extremely warm. Be sure to prevent heatstroke.	HeatWave	
-17	Cold Winter	A cold winter is coming, so the weather will be freezing. Be sure to stay warm.	ColdWave	
-18	Polar Night	A strange cloud is covering the sun. It will be a while until you can see sunlight again.	PermanentNight	
+7	Romance	Um clima romântico começou a permear a seita.	Ambiguous	
+8	Irritation	As pessoas de toda a seita de repente começaram a ficar irritadas facilmente.	Impetuous	
+9	Hail	Começou a chover granizo. (Não implementado)	Impetuous	
+10	Rainy Season	A estação das chuvas começou.	MouldRains	
+11	Drought	A temporada de seca começou.	Drought	
+12	Rainstorm	Uma forte tempestade começou, e o Elemento Água através do céu e da terra esta extremamente ativo.	Rainstorm	
+13	Foehn Wind	Um vento seco e quente começou, e o Elemento Fogo através do céu e da terra esta extremamente ativo.	Fohn	
+14	Dust Storm	Uma tempestade de poeira está varrendo a terra, e o Elemento Terra através do céu e da terra esta extremamente ativo.	DustStorm	
+15	Qi Drought	Por razões desconhecidas, há uma seca de Qi através do céu e da terra.	LingRarefiedWave	
+16	Heat	O calor do verão está chegando, por isso será extremamente quente. Certifique-se de evitar a insolação.	HeatWave	
+17	Cold Winter	Um inverno frio está chegando, então o clima estará congelando. Certifique-se de se manter aquecido.	ColdWave	
+18	Polar Night	Uma estranha nuvem está cobrindo o sol. Vai demorar um pouco até que você possa ver a luz do sol novamente.	PermanentNight	
 19	Miasma	Noxious air is rising over the whole area, and the Wood Element across heaven and earth is extremely active.	Miasma	
 20	Thunderstorm	A thunderstorm is coming, and the Metal Element across heaven and earth is extremely active.	LightningStorm	
 21	Beast	A Fei has shown up near the area, and it has brought continuous rain and illness.	Fei	
@@ -152,8 +152,8 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 10021	Assault	[TXT] has sent experienced elders of the sect to take revenge.	Rich	Human
 10022	Fire of Anger	Your behavior has angered [TXT], and they will take immediate action.		
 10023	Tribulation Day	[NAME]'s cultivation has reached its limit. A Heavenly Tribulation is about to fall!		
-10024	Mysterious Immortal	For several days, you hid during the day and travelled at night, finally arriving at a secluded ravine. As you were about to relax, a light of teleportation suddenly struck, showing the contour of a cultivator.		
-10025	Mysterious Immortal	The mysterious cultivator looked around in deep thought, and then disappeared into another light of teleportation.		
+10024	Mysterious Immortal	Por vários dias, você se escondeu durante o dia e viajou à noite, chegando finalmente a uma ravina isolada. Quando você estava prestes a relaxar, uma luz de teletransporte de repente apareceu, mostrando o contorno de um cultivador.		
+10025	Mysterious Immortal	O misterioso cultivador olhou ao redor em profundo pensamento, e então desapareceu em outra luz de teletransporte.		
 10026	Tutorial	Congratulations! You have mastered the basic features of Amazing Cultivation Simulator.\nNext, you can create your own character in Classic and start a true journey of cultivation.\nEnjoy the game!		
 10027	Perished	This is a bad time. Your Law to cultivation has yet to begin before it is ended. What remains is only the vast land and sea that will sweep your sorrow away.		
 10028	Destroyed	[TXT] What remains is only the vast land and sea that will sweep your sorrow away.		

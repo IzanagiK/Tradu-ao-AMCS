@@ -1336,19 +1336,19 @@ _结局	_The End
 众生之相	People & Beings
 环境生态	Environment & Ecology
 红尘百态	Society & Phenomena
-物品图鉴的内容需要在游戏中通过发现来点亮。	To unlock the contents of the Item Encyclopedia, you need to discover them in game.
-神通图鉴需要玩家阵营的角色亲自学习来点亮。	To unlock the contents of Miracle Encyclopedia, you need characters of your faction to personally learn them.
-功法图鉴需要玩家门派获取来点亮。	To unlock the contents of Law Encyclopedia, your sect needs to obtain them.
-生物图鉴需要玩家拥有或击杀该生物来点亮。	To unlock the contents of Creature Encyclopedia, you need to possess or kill these creatures.
-建筑图鉴需要玩家亲手建造来点亮。	To unlock the contents of Building Encyclopedia, you need to build them personally.
-矿石植被图鉴需要玩家开采来点亮。	To unlock the contents of Ore and Plant Encyclopedia, you need to mine them.
-天气图鉴需要玩家遭遇对应天气来点亮。	To unlock the contents of Weather Encyclopedia, you need to have encountered the corresponding weathers.
-历练事件图鉴需要玩家经历对应事件来点亮。	To unlock the contents of Adventure Event Encyclopedia, you need to have experienced the corresponding events.
-上古阵法图鉴需要玩家结成完整的上古阵法来点亮。	To unlock the contents of Ancient Formation Encyclopedia, you need to form the complete respective formations.
-阵法真意图鉴需要玩家结成包含对应真意的阵法来点亮。	To unlock the contents of Truth of Formation Encyclopedia, you need to form the complete formations of the corresponding Truths.
-门派图鉴需要玩家拜山对应的门派来点亮。	To unlock the contents of Sect Encyclopedia, you need to visit the corresponding sects.
-地点图鉴需要玩家前往目标地点历练来点亮。	To unlock the contents of Location Encyclopedia, you need to travel to these locations for Adventures.
-修炼方式图鉴的内容需要在游戏中通过该方法修炼来点亮。	To unlock the contents of Cultivation Method Encyclopedia, you need to cultivate with the corresponding methods in game.
+物品图鉴的内容需要在游戏中通过发现来点亮。	Para desbloquear o conteúdo da Enciclopédia de Itens, você precisa descobri-los no jogo.
+神通图鉴需要玩家阵营的角色亲自学习来点亮。	Para desbloquear o conteúdo da Miracle Encyclopedia, você precisa que os personagens de sua facção os aprendam pessoalmente.
+功法图鉴需要玩家门派获取来点亮。	Para desbloquear o conteúdo da Enciclopédia da Lei, sua seita precisa obtê-los.
+生物图鉴需要玩家拥有或击杀该生物来点亮。	Para desbloquear o conteúdo da Enciclopédia de Criaturas, você precisa possuir ou matar essas criaturas.
+建筑图鉴需要玩家亲手建造来点亮。	Para desbloquear o conteúdo da Enciclopédia de Construção, você precisa construí-los pessoalmente.
+矿石植被图鉴需要玩家开采来点亮。	Para desbloquear o conteúdo da Enciclopédia de Minérios e Plantas, você precisa minerá-los.
+天气图鉴需要玩家遭遇对应天气来点亮。	Para desbloquear o conteúdo da Enciclopédia do Clima, você precisa ter encontrado os climas correspondentes.
+历练事件图鉴需要玩家经历对应事件来点亮。	Para desbloquear o conteúdo da Enciclopédia de Eventos de Aventura, você precisa ter experimentado os eventos correspondentes.
+上古阵法图鉴需要玩家结成完整的上古阵法来点亮。	Para desbloquear o conteúdo da Enciclopédia de Formações Antigas, você precisa formar as respectivas formações Completamente.
+阵法真意图鉴需要玩家结成包含对应真意的阵法来点亮。	Para desbloquear o conteúdo da Enciclopédia Truth of Formation, você precisa formar as formações completas das Verdades correspondentes.
+门派图鉴需要玩家拜山对应的门派来点亮。	Para desbloquear o conteúdo da Enciclopédia da Seita, você precisa visitar as seitas correspondentes.
+地点图鉴需要玩家前往目标地点历练来点亮。	Para desbloquear o conteúdo da Enciclopédia de Locais, você precisa viajar para esses locais para aventuras.
+修炼方式图鉴的内容需要在游戏中通过该方法修炼来点亮。	Para desbloquear o conteúdo da Enciclopédia de Métodos de Cultivo, você precisa cultivar com os métodos correspondentes no jogo.
 通过在地图环境中选择特定环境解锁。	Select specific environment in map to unlock.
 请先在地图中创建所需建筑及物品，接着通过建筑菜单中的蓝图/导出蓝图 框选一个最大不超过20x20的区域，将其中的建筑（包括置物台上符合条件的物品）导出为建筑蓝图	Please create the required buildings and items in the map, and choose an area no larger than 20*20 spaces via Blueprint/Export Blueprint in the Building menu, exporting the buildings (including available items on Displays) as a blueprint.
 未选择需要上传的内容	You have not selected any content to upload.
@@ -2509,7 +2509,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 成就 ({0}/{1})	Achievements ({0}/{1})
 已拥有	Owned
 未拥有	Unavailable
-图鉴进度：{0}/{1}	Encyclopedia Progress: {0}/{1}
+图鉴进度：{0}/{1}	Progresso da Enciclopédia: {0}/{1}
 {0}\n最大重量：{1:f1}斤\n捕获数量：{2}	{0}\nMax Weight: {1:f1} kg\nCaught Fish: {2}
 灵智碎片已满，无法再继续添加	Intelligence Shard full, unable to add more.
 无法启智	Unable to awaken intelligence.
