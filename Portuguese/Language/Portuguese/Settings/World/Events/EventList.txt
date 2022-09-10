@@ -18,40 +18,40 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 16	Heat	O calor do verão está chegando, por isso será extremamente quente. Certifique-se de evitar a insolação.	HeatWave	
 17	Cold Winter	Um inverno frio está chegando, então o clima estará congelando. Certifique-se de se manter aquecido.	ColdWave	
 18	Polar Night	Uma estranha nuvem está cobrindo o sol. Vai demorar um pouco até que você possa ver a luz do sol novamente.	PermanentNight	
-19	Miasma	Noxious air is rising over the whole area, and the Wood Element across heaven and earth is extremely active.	Miasma	
-20	Thunderstorm	A thunderstorm is coming, and the Metal Element across heaven and earth is extremely active.	LightningStorm	
-21	Beast	A Fei has shown up near the area, and it has brought continuous rain and illness.	Fei	
-22	Beast	A Lushu has shown up near the area, and it has brought clear weather and an auspicious atmosphere.	Lushu	
-23	Strange Little Elf	A group of little beasts from the Otherworld were wandering around with treasures when they passed by your sect. These beasts are very timid, but the two realms have different rules, so common methods used by cultivators cannot affect them, and these little guys often run riot around the world. To get the treasures from them, you need to think of something else.	Lushu	
-24	Beast	Beast D has shown up near the area.	Null	
-25	Treasure	A beam of light has shot down from the sky. It seems to be something precious.	FightFabao	
-26	Treasure	A fierce magical fight happened over the sky not far from here. Something precious has dropped near the area.	FightFabao	
-27	Treasure	A beam of light suddenly shot up into the sky. A treasure seems to be gracing this area.	FightFabao	
+19	Miasma	Um ar nocivo está pairando sobre toda a área, e o Elemento Madeira através do céu e da terra esta extremamente ativo.	Miasma	
+20	Thunderstorm	Uma tempestade está se aproximando, e o Elemento Metal no céu e na terra está extremamente ativo.	LightningStorm	
+21	Beast	Um Fei apareceu perto da área, e trouxe chuva contínua e doenças.	Fei	
+22	Beast	Um Lushu apareceu perto da área, e trouxe um tempo claro e uma atmosfera auspiciosa.	Lushu	
+23	Strange Little Elf	Um grupo de pequenas feras do Outro Mundo estavam vagando com tesouros quando passaram por sua seita. Essas feras são muito tímidas, mas os dois reinos têm regras diferentes, então os métodos comuns usados pelos cultivadores não podem afetá-los, e esses carinhas costumam se revoltar pelo mundo. Para obter os tesouros deles, você precisa pensar em outra coisa.	Lushu	
+24	Beast	A Besta D apareceu perto da área.	Null	
+25	Treasure	Um feixe de luz desceu do céu. Parece ser algo precioso.	FightFabao	
+26	Treasure	Uma luta mágica feroz aconteceu sobre o céu não muito longe daqui. Algo precioso caiu perto da área.	FightFabao	
+27	Treasure	De repente, um feixe de luz disparou para o céu. Um tesouro parece enfeitar esta área.	FightFabao	
 28	Passer-by Refugee	Um refugiado fugindo da guerra está passando, e[IT] deseja se juntar a você.	Human	
 29	Secret		1	
 30	Secret		2	
 31	Secret		3	
 32	Secret		4	
 33	Secret		5	
-34	Attack	A group of savage men from the Southern Jungle has attacked you.	Poorest	Human
-35	Attack	A group of bandits who make a living robbing people across cities and towns has attacked you.	Poor	Human
-36	Attack	A group of rogue cultivators from the East Sea has attacked you for your money and resources.	Normal	Human
-37	Assault	You are under assault by a group of evil cultivators from the west.	Rich	Human
-38	Assault	Your sect is under assault by a group of rogue disciples from evil sects.	Richest	Human
-39	Assault	Your sect is under assault by a group of powerful cultivators.	Normal	Human
-40	Assault	Your sect is under assault by a group of infamous evil cultivators.	Normal	Human
-41	A Different Time	An earthquake happened in the Wild South recently, and a large number of savages and bandits from the south fled here.	33|34	
-42	Immortal Visitor	An immortal friend of yours is visiting your sect, and he probably wants to stay for a few days.	Immortal Visitor	Human
-43	Confused Stranger	A stranger lost their way around here, and wishes that we could help them.	Confused Stranger	
-44	Curious Stranger	A curious stranger came across this place by accident, and [IT] want to know what we are doing exactly.	Curious Stranger	
-45	Injured Stranger	A stranger is injured, and [IT] wish to stay here for a while and ask for our help.	Injured Stranger	RandomDamage
-46	Light Snow	It has started to snow.	LightSnow	
-47	Heavy Snow	It has started to snow heavily.	HeavySnow	
-48	Observer	A cultivator is observing you, but they don't seem to mean any harm.	Observer	Human
-49	Beast Attack	A group of hungry wolves have shown up near here, and they are very hostile.	Wolf	
-50	Beast Attack	A group of crazy rabbits have shown up near here, and they are very hostile.	Rabbit	
-51	Beast Attack	A group of aggressive snakes have shown up near here, and they are very hostile.	Snake	
-52	Beast Attack	A group of frantic boars have shown up near here, and they are very hostile.	Boar	
+34	Attack	Um grupo de homens selvagens da Selva do Sul atacou você.	Poorest	Human
+35	Attack	Um grupo de bandidos que ganha a vida roubando pessoas em cidades e vilas atacou você.	Poor	Human
+36	Attack	Um grupo de cultivadores desonestos do Mar do Leste atacou você por seu dinheiro e recursos.	Normal	Human
+37	Assault	Você está sendo atacado por um grupo de cultivadores malignos do oeste.	Rich	Human
+38	Assault	Sua seita está sendo atacada por um grupo de discípulos desonestos de seitas malignas.	Richest	Human
+39	Assault	Sua seita está sendo atacada por um grupo de cultivadores poderosos.	Normal	Human
+40	Assault	Sua seita está sendo atacada por um grupo de infames cultivadores do mal.	Normal	Human
+41	A Different Time	Um terremoto aconteceu recentemente no Sul Selvagem, e um grande número de selvagens e bandidos do sul fugiram para cá.	33|34	
+42	Immortal Visitor	Um amigo imortal seu está visitando sua seita, e ele provavelmente quer ficar por alguns dias.	Immortal Visitor	Human
+43	Confused Stranger	Um estranho se perdeu por aqui e deseja nossa ajuda.	Confused Stranger	
+44	Curious Stranger	Um estranho curioso encontrou este lugar por acaso, e [IT] quer saber o que estamos fazendo exatamente.	Curious Stranger	
+45	Injured Stranger	Um estranho está ferido, e [IT] deseja ficar aqui por um tempo e pedi nossa ajuda.	Injured Stranger	RandomDamage
+46	Light Snow	Começou a nevar.	LightSnow	
+47	Heavy Snow	Começou a nevar fortemente.	HeavySnow	
+48	Observer	Um cultivador está te observando, mas ele não parecem significar nenhum mal.	Observer	Human
+49	Beast Attack	Um grupo de lobos famintos apareceu aqui perto, e eles são muito hostis.	Wolf	
+50	Beast Attack	Um grupo de coelhos malucos apareceu aqui perto, e eles são muito hostis.	Rabbit	
+51	Beast Attack	Um grupo de cobras agressivas apareceu aqui perto, e elas são muito hostis.	Snake	
+52	Beast Attack	Um grupo de javalis frenéticos apareceu aqui perto, e eles são muito hostis.	Boar	
 53	Secret		6	
 54	Secret		7	
 55	Secret		8	

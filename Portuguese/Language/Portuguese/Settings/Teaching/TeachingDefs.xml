@@ -319,8 +319,8 @@
 		</Text>
 		<Text Name="Treatment">
 			<Type>Basic</Type>
-			<DisplayName>Cura para Discípulos Exteriores</DisplayName>
-			<Desc>Learn basic healing in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<DisplayName>Cura para Discípulos Externos</DisplayName>
+			<Desc>Aprenda o básico de cura neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Fabricação e Armazenamento de Medicamentos</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verificar suprimentos médicos</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Arranje um curandeiro</Chapters.0.Tasks.1>
