@@ -2,39 +2,39 @@
 	<List>
 		<Text Name="Wall" sParam="Building">
 			<ThingName>Wall</ThingName>
-			<Desc>A basic structure which can be used to create a closed room. The room must be within 3-400 grids.</Desc>
+			<Desc>Uma estrutura básica que pode ser utilizada para criar uma sala fechada. A sala deve estar dentro de 3-400 grades.</Desc>
 		</Text>
 		<Text Name="Barrier2" sParam="Building">
 			<ThingName>Fence</ThingName>
-			<Desc>A simple stone or metal railing used to separate different areas. Cannot form a room.</Desc>
+			<Desc>Um simples gradeamento de pedra ou de metal utilizado para separar diferentes áreas. Não pode formar uma sala.</Desc>
 		</Text>
 		<Text Name="Barrier" sParam="Building">
 			<ThingName>Fence</ThingName>
-			<Desc>A simple wooden railing used to separate different areas. Cannot form a room.</Desc>
+			<Desc>Um simples gradeamento de madeira utilizado para separar diferentes áreas. Não pode formar uma sala.</Desc>
 		</Text>
 		<Text Name="Door" sParam="Building">
 			<ThingName>Door</ThingName>
-			<Desc>A basic structure used to enter or exit a room. \n(Connecting doors facing the same direction will be viewed as one door.)</Desc>
+			<Desc>Uma estrutura básica utilizada para entrar ou sair de uma sala. \n(As portas de ligação viradas para a mesma direcção serão vistas como uma porta.)</Desc>
 		</Text>
 		<Text Name="Door_SpringFestival" sParam="Building">
 			<ThingName>Door</ThingName>
-			<Desc>A basic structure used to enter or exit a room. The character for fortune has been added to the door for good luck. \n(Connecting doors facing the same direction will be viewed as one door.)</Desc>
+			<Desc>Uma estrutura básica utilizada para entrar ou sair de uma sala. O carácter de fortuna foi acrescentado à porta para dar boa sorte.. \n(As portas de ligação viradas para a mesma direcção serão vistas como uma porta.)</Desc>
 		</Text>
 		<Text Name="Door_WanYao" sParam="Building">
 			<ThingName>Door</ThingName>
-			<Desc>A basic structure used to enter or exit a room. It is carved with the head of a beast, adding some ominous vibe to it. \n(Connecting doors facing the same direction will be viewed as one door.)</Desc>
+			<Desc>Uma estrutura básica utilizada para entrar ou sair de uma sala. É esculpida com a cabeça de uma besta, adicionando-lhe alguma vibração sinistra. \n(As portas de ligação viradas para a mesma direcção serão vistas como uma porta.)</Desc>
 		</Text>
 		<Text Name="Firecracker" sParam="Building">
 			<ThingName>Firework (Dragon)</ThingName>
-			<Desc>It can bring people joy. Once ignited, all other fireworks within three grids will be lit. It is said that something magical will happen when 9 fireworks are lit at the same time under a starry sky.</Desc>
+			<Desc>Pode trazer alegria às pessoas. Uma vez acendido, todos os outros fogos de artifício dentro de três grelhas serão acesos. Diz-se que algo mágico acontecerá quando 9 fogos de artifício forem acesos ao mesmo tempo sob um céu estrelado..</Desc>
 		</Text>
 		<Text Name="HideDoor" sParam="Building">
 			<ThingName>Entrance</ThingName>
-			<Desc>Only visible in Edit.</Desc>
+			<Desc>Apenas visível em Editar.</Desc>
 		</Text>
 		<Text Name="AirWall" sParam="Building">
 			<ThingName>Air Wall</ThingName>
-			<Desc>Only visible in Edit.</Desc>
+			<Desc>Apenas visível em Editar.</Desc>
 		</Text>
 	</List>
 </Texts>
