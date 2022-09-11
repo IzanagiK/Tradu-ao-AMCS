@@ -2,11 +2,11 @@
 	<List>
 		<Text Name="FloorBase" sParam="Building">
 			<ThingName>Flooring</ThingName>
-			<Desc>Decorative floorings made of all kinds of materials.</Desc>
+			<Desc>Pavimentos decorativos feitos de todo o tipo de materiais.</Desc>
 		</Text>
 		<Text Name="Carpet1" sParam="Building">
 			<ThingName>Carpet</ThingName>
-			<Desc>Decorative carpets made from all kinds of materials that can clean the bottoms of your shoes.</Desc>
+			<Desc>Tapetes decorativos feitos de todo o tipo de materiais que podem limpar o fundo dos seus sapatos.</Desc>
 		</Text>
 		<Text Name="Floor1" sParam="Building">
 			<ThingName>Floorboard</ThingName>
