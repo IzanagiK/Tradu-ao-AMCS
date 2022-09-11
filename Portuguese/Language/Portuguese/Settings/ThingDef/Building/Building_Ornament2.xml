@@ -11,7 +11,7 @@
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="MiracleBase" sParam="Building">
-			<Desc>Seita Maravilha</Desc>
+			<Desc>Sect Wonder</Desc>
 			<StoryBnts.0.Name>Take</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Take this wonder by force.</StoryBnts.0.Desc>
 			<StoryBnts.1.Name>Inspiration</StoryBnts.1.Name>
@@ -27,11 +27,11 @@
 		</Text>
 		<Text Name="Building_WanDaoZunFaZuo" sParam="Building">
 			<ThingName>Throne of Taos</ThingName>
-			<Desc>Cenário icónico do Palácio Kunlun, diz-se que incorporou segredos relativos aos caminhos da criação do céu e da terra.</Desc>
+			<Desc>Cenário icónico do Kunlun Palace, diz-se que incorporou segredos relativos aos caminhos da criação do céu e da terra.</Desc>
 		</Text>
 		<Text Name="Building_WanDaoZunFaZuo_Our" sParam="Building">
 			<ThingName>Throne of Taos</ThingName>
-			<Desc>Cenário icónico do Palácio Kunlun, diz-se que incorporou segredos relativos aos caminhos da criação do céu e da terra.</Desc>
+			<Desc>Cenário icónico do Kunlun Palace, diz-se que incorporou segredos relativos aos caminhos da criação do céu e da terra.</Desc>
 		</Text>
 		<Text Name="Building_QiQingQingTongShu" sParam="Building">
 			<ThingName>Wood of Emotions</ThingName>
@@ -43,27 +43,27 @@
 		</Text>
 		<Text Name="Building_ZhouTianXingDouPan" sParam="Building">
 			<ThingName>Astral Plate</ThingName>
-			<Desc>Cenário icónico do Templo Nuvem Púrpura, diz-se que incorporou segredos sobre a origem do espaço e do tempo, bem como sobre os caminhos do Sol e da Lua.</Desc>
+			<Desc>Cenário icónico do Purple Cloud Temple, diz-se que incorporou segredos sobre a origem do espaço e do tempo, bem como sobre os caminhos do Sol e da Lua.</Desc>
 		</Text>
 		<Text Name="Building_ZhouTianXingDouPan_Our" sParam="Building">
 			<ThingName>Astral Plate</ThingName>
-			<Desc>Cenário icónico do Templo Nuvem Púrpura, diz-se que incorporou segredos sobre a origem do espaço e do tempo, bem como sobre os caminhos do Sol e da Lua.</Desc>
+			<Desc>Cenário icónico do Purple Cloud Temple, diz-se que incorporou segredos sobre a origem do espaço e do tempo, bem como sobre os caminhos do Sol e da Lua.</Desc>
 		</Text>
 		<Text Name="Building_WuLongXuanJinTa" sParam="Building">
 			<ThingName>Draconic Pagoda</ThingName>
-			<Desc>Cenário icónico da Seita da Unidade Mística, diz-se que incorporou segredos relativos aos caminhos do início e do fim.</Desc>
+			<Desc>Cenário icónico da Mystic Unity Sect, diz-se que incorporou segredos relativos aos caminhos do início e do fim.</Desc>
 		</Text>
 		<Text Name="Building_WuLongXuanJinTa_Our" sParam="Building">
 			<ThingName>Draconic Pagoda</ThingName>
-			<Desc>Cenário icónico da Seita da Unidade Mística, diz-se que incorporou segredos relativos aos caminhos do início e do fim.</Desc>
+			<Desc>Cenário icónico da Mystic Unity Sect, diz-se que incorporou segredos relativos aos caminhos do início e do fim.</Desc>
 		</Text>
 		<Text Name="Building_ShuShanJianChi" sParam="Building">
 			<ThingName>Pool of Sword</ThingName>
-			<Desc>Cenário icónico do Templo da Lótus Azul, diz-se que incorporou segredos relativos às formas de criação e destruição.</Desc>
+			<Desc>Cenário icónico do Blue Lotus Temple, diz-se que incorporou segredos relativos às formas de criação e destruição.</Desc>
 		</Text>
 		<Text Name="Building_ShuShanJianChi_Our" sParam="Building">
 			<ThingName>Pool of Sword</ThingName>
-			<Desc>Cenário icónico do Templo da Lótus Azul, diz-se que incorporou segredos relativos às formas de criação e destruição.</Desc>
+			<Desc>Cenário icónico do Blue Lotus Temple, diz-se que incorporou segredos relativos às formas de criação e destruição.</Desc>
 		</Text>
 		<Text Name="Building_LingYuFeng" sParam="Building">
 			<ThingName>Numinous Peak</ThingName>
@@ -75,43 +75,43 @@
 		</Text>
 		<Text Name="Building_WanGuXieFaTan" sParam="Building">
 			<ThingName>Altar of Death</ThingName>
-			<Desc>Cenário icônico do Monte dos Cem Insectos, diz-se que incorporou segredos relativos à nulidade do tempo e do espaço.</Desc>
+			<Desc>Cenário icônico do Mt. Hundred Insects, diz-se que incorporou segredos relativos à nulidade do tempo e do espaço.</Desc>
 		</Text>
 		<Text Name="Building_WanGuXieFaTan_Our" sParam="Building">
 			<ThingName>Altar of Death</ThingName>
-			<Desc>Cenário icônico do Monte dos Cem Insectos, diz-se que incorporou segredos relativos à nulidade do tempo e do espaço.</Desc>
+			<Desc>Cenário icônico do Mt. Hundred Insects, diz-se que incorporou segredos relativos à nulidade do tempo e do espaço.</Desc>
 		</Text>
 		<Text Name="Building_XuanCiTianKeng" sParam="Building">
 			<ThingName>Magnetic Crater</ThingName>
-			<Desc>Cenário icónico do Fosso da Perdição, diz-se que incorporou segredos relativos à desolação do céu e da terra.</Desc>
+			<Desc>Cenário icónico do Pit of Doom, diz-se que incorporou segredos relativos à desolação do céu e da terra.</Desc>
 		</Text>
 		<Text Name="Building_XuanCiTianKeng_Our" sParam="Building">
 			<ThingName>Magnetic Crater</ThingName>
-			<Desc>Cenário icónico do Fosso da Perdição, diz-se que incorporou segredos relativos à desolação do céu e da terra.</Desc>
+			<Desc>Cenário icónico do Pit of Doom, diz-se que incorporou segredos relativos à desolação do céu e da terra.</Desc>
 		</Text>
 		<Text Name="Building_QiShaShenBei" sParam="Building">
 			<ThingName>Stele of Slaughter</ThingName>
-			<Desc>Cenário icónico da Seita Sete-Abates, diz-se que incorporou os segredos da morte de todos os seres vivos.</Desc>
+			<Desc>Cenário icónico da Seven-Slaughtering Sect, diz-se que incorporou os segredos da morte de todos os seres vivos.</Desc>
 		</Text>
 		<Text Name="Building_QiShaShenBei_Our" sParam="Building">
 			<ThingName>Stele of Slaughter</ThingName>
-			<Desc>Cenário icónico da Seita Sete-Abates, diz-se que incorporou os segredos da morte de todos os seres vivos.</Desc>
+			<Desc>Cenário icónico da Seven-Slaughtering Sect, diz-se que incorporou os segredos da morte de todos os seres vivos.</Desc>
 		</Text>
 		<Text Name="Building_XuanYinShengQuan" sParam="Building">
 			<ThingName>Sacred Yin Spring</ThingName>
-			<Desc>Cenário icónico da Seita Exultante, diz-se que incorporou segredos relativos aos caminhos da fortuna.</Desc>
+			<Desc>Cenário icónico da Exultant Sect, diz-se que incorporou segredos relativos aos caminhos da fortuna.</Desc>
 		</Text>
 		<Text Name="Building_XuanYinShengQuan_Our" sParam="Building">
 			<ThingName>Sacred Yin Spring</ThingName>
-			<Desc>Cenário icónico da Seita Exultante, diz-se que incorporou segredos relativos aos caminhos da fortuna.</Desc>
+			<Desc>Cenário icónico da Exultant Sect, diz-se que incorporou segredos relativos aos caminhos da fortuna.</Desc>
 		</Text>
 		<Text Name="Building_YaoZuYiHai" sParam="Building">
 			<ThingName>Ancestral Demon's Remains</ThingName>
-			<Desc>Cenário icónico do Templo Daemonia, diz-se que incorporou memórias do Demónio Ancestral.</Desc>
+			<Desc>Cenário icónico do Daemonia Temple, diz-se que incorporou memórias do Demónio Ancestral.</Desc>
 		</Text>
 		<Text Name="Building_YaoZuYiHai_Our" sParam="Building">
 			<ThingName>Ancestral Demon's Remains</ThingName>
-			<Desc>Cenário icónico do Templo Daemonia, diz-se que incorporou memórias do Demónio Ancestral.</Desc>
+			<Desc>Cenário icónico do Daemonia Temple, diz-se que incorporou memórias do Demónio Ancestral.</Desc>
 		</Text>
 		<Text Name="Building_QiShi1" sParam="Building">
 			<ThingName>Strange Rock</ThingName>
@@ -292,7 +292,7 @@
 		</Text>
 		<Text Name="Build_KunLunFang" sParam="Building">
 			<ThingName>Kunlun Gate</ThingName>
-			<Desc>Um portão majestoso da seita.</Desc>
+			<Desc>Um gate majestoso da sect.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
@@ -454,7 +454,7 @@
 		</Text>
 		<Text Name="Build_WanYaoMen" sParam="Building">
 			<ThingName>Daemonia Gate</ThingName>
-			<Desc>Um portão majestoso da seita.</Desc>
+			<Desc>Um gate majestoso da sect.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
@@ -466,13 +466,13 @@
 		</Text>
 		<Text Name="Building_RPG_YingTianTai" sParam="Building">
 			<ThingName>Heaven Echo Altar</ThingName>
-			<Desc>Uma construção especial recebida de um homem secreto na Fenda do Outro Mundo. Pode ser usado para comunicar com outros mundos em mente, tão misterioso.</Desc>
+			<Desc>Uma building especial recebida de um secret man na Otherworld Rift. Pode ser usado para comunicar com other worlds em mente, tão misterioso.</Desc>
 			<StoryBnts.0.Name>Enter</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Enter the space indicated by the Heaven Echo Altar.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_RPG_YingTianTai_Rpg" sParam="Building">
 			<ThingName>Heaven Echo Altar</ThingName>
-			<Desc>Uma construção especial recebida de um homem secreto na Fenda do Outro Mundo. Pode ser usado para comunicar com outros mundos em mente, tão misterioso.</Desc>
+			<Desc>Uma building especial recebida de um secret man na Otherworld Rift. Pode ser usado para comunicar com other worlds em mente, tão misterioso.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_1" sParam="Building">
 			<ThingName>Lantern Pagoda</ThingName>
