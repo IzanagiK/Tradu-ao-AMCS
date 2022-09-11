@@ -1,7 +1,7 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="OrnamentBase" sParam="Building">
-			<Desc>Uma estrutura decorativa. Pode afectar os Cinco Elementos do seu ambiente com base nos seus materiais.</Desc>
+			<Desc>Uma structure decorativa. Pode afectar os Five Elements do seu ambiente com base nos seus materiais.</Desc>
 		</Text>
 		<Text Name="Building_StoneMan" sParam="Building">
 			<ThingName>Stone Giant</ThingName>
@@ -38,7 +38,7 @@
 		</Text>
 		<Text Name="Building_BigSwordPillar" sParam="Building">
 			<ThingName>Sword Shield</ThingName>
-			<Desc>Os artefactos de reserva podem ser usados para formar um Escudo de Espada, que pode ser activado para defender o ataque dos inimigos. O Escudo só pode proteger discípulos internos. Os artefactos não podem ser recuperados.</Desc>
+			<Desc>Os artifacts de reserva podem ser usados para formar um Sword Shield, que pode ser activado para defender enemies' attack. O Shield só pode proteger inner disciples. Os Artifacts não podem ser recuperados.</Desc>
 		</Text>
 		<Text Name="Building_BigVase" sParam="Building">
 			<ThingName>Vase</ThingName>
@@ -54,7 +54,7 @@
 		</Text>
 		<Text Name="Building_ItemShelf" sParam="Building">
 			<ThingName>Display</ThingName>
-			<Desc>Os artigos podem ser seleccionados e colocados no Ecrã.</Desc>
+			<Desc>Os Items podem ser seleccionados e colocados no Display.</Desc>
 		</Text>
 		<Text Name="Building_ShuZhuangTai" sParam="Building">
 			<ThingName>Dressing Table</ThingName>
@@ -70,7 +70,7 @@
 		</Text>
 		<Text Name="Building_Zhong" sParam="Building">
 			<ThingName>Bell</ThingName>
-			<Desc>Um grande sino que pode ser tocado para alertar e convocar todos os discípulos externos para que evitem o perigo, mas que precisa de ser parado manualmente. Também pode ser usado como decoração, o que afecta os Cinco Elementos do seu ambiente com base nos seus materiais.</Desc>
+			<Desc>Um grande Bell que pode ser tocado para alertar e convocar todos os outer disciples para que evitem o perigo, mas que precisa de ser parado manualmente. Também pode ser usado como decoration, o que afecta os Five Elements do seu ambiente com base nos seus materials.</Desc>
 		</Text>
 		<Text Name="Building_Gu" sParam="Building">
 			<ThingName>Drum</ThingName>
@@ -104,7 +104,7 @@
 		</Text>
 		<Text Name="Building_BookShelf_CangJing" sParam="Building">
 			<ThingName>Manual Pavilion</ThingName>
-			<Desc>Estante utilizada para armazenar manuais secretos, cada uma tem uma capacidade de armazenamento de 100. Quanto mais difícil for o manual, mais espaço de armazenamento é necessário.</Desc>
+			<Desc>Bookshelf utilizada para armazenar secret manuals, cada uma tem uma capacidade de armazenamento de 100. Quanto mais difícil for o manual, mais espaço de armazenamento é necessário.</Desc>
 		</Text>
 		<Text Name="Building_StoneYiJi1" sParam="Building">
 			<ThingName>Bixi Stele</ThingName>
