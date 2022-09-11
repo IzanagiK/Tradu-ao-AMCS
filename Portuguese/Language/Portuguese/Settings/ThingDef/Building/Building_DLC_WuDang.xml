@@ -2,35 +2,35 @@
 	<List>
 		<Text Name="LsXuanWu_Carve" sParam="Building">
 			<ThingName>Black Tortoise Statue</ThingName>
-			<Desc>Statue of a Black Tortoise. Can be used to revive or summon Black Tortoise.</Desc>
+			<Desc>Estátua de uma Tartaruga Negra. Pode ser usada para reanimar ou convocar uma Tartaruga Negra.</Desc>
 		</Text>
 		<Text Name="ZhenWuCarve" sParam="Building">
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 			<ThingName>Perfected Warrior Emperor Statue</ThingName>
-			<Desc>A sacred statue of Perfected Warrior Emperor for worship, with inviolable divine might and boundless blessings.</Desc>
+			<Desc>Uma estátua sagrada do Imperador Guerreiro Perfeito para adoração, com poder divino inviolável e bênçãos sem limites.</Desc>
 		</Text>
 		<Text Name="TurTleMonu" sParam="Building">
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 			<ThingName>Bixi Memorial Stele</ThingName>
-			<Desc>Legend has it that millennia ago, Yu the Great tamed Bixi the Turtle, using it to dredge, divert rivers and control floods. Its contributions are all recorded on this stele.</Desc>
+			<Desc>Diz a lenda que há milénios, Yu o Grande domou a tartaruga Bixi, usando-a para dragar, desviar rios e controlar inundações. As suas contribuições estão todas registadas nesta estela.</Desc>
 		</Text>
 		<Text Name="IncenseTripod" sParam="Building">
 			<ThingName>Incense Cauldron</ThingName>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
-			<Desc>A Taoist cauldron used for burning incense sticks to calm nerves.</Desc>
+			<Desc>Um caldeirão taoísta usado para queimar paus de incenso para acalmar os nervos.</Desc>
 		</Text>
 		<Text Name="DragonIncense" sParam="Building">
 			<ThingName>Dragon Incense</ThingName>
 			<StoryBnts.0.Name>Worship</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Attempt to worship with Dragon Incense.</StoryBnts.0.Desc>
-			<Desc>A miracle in the Southrock Palace that stands on the cliffs of the Wudang Mountains. One must climb on all fours to offer incense. One misstep will lead to a fall off the mountains.</Desc>
+			<Desc>Um milagre no Palácio Southrock que fica nas falésias das Montanhas Wudang. É preciso subir de quatro em quatro para oferecer incenso. Um passo em falso levará a uma queda das montanhas..</Desc>
 		</Text>
 		<Text Name="RedWallDownLeft" sParam="Building">
 			<ThingName>Red Wall Corner (L)</ThingName>
-			<Desc>A wall unique to Wudang Sect. Though mighty and impressive, it cannot be used to create a room.</Desc>
+			<Desc>Uma parede única para a Wudang Sect. Embora poderosa e impressionante, não pode ser usada para criar uma sala.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
@@ -75,7 +75,7 @@
 		</Text>
 		<Text Name="RedWallGate" sParam="Building">
 			<ThingName>Taoist Pagoda</ThingName>
-			<Desc>A grand, solemn-looking Taoist pagoda.</Desc>
+			<Desc>Uma pagoda taoista grandiosa e solene.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
@@ -83,11 +83,11 @@
 			<ThingName>Taichi Drum</ThingName>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
-			<Desc>A decorative structure. It can affect the Five Elements of its surroundings based on its materials.</Desc>
+			<Desc>Uma estrutura decorativa. Pode afectar os Cinco Elementos do seu ambiente com base nos seus materiais.</Desc>
 		</Text>
 		<Text Name="WuDangBigGate" sParam="Building">
 			<ThingName>Wudang Gate</ThingName>
-			<Desc>A majestic gate of Wudang Sect.</Desc>
+			<Desc>Um portão majestoso da Seita Wudang.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
 		</Text>
@@ -120,7 +120,7 @@
 			<ThingName>Sacred Nimbus Plate</ThingName>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
-			<Desc>A structure unique to the Wudang Mountains that is engraved with the sacred title of Perfected Warrior Emperor.</Desc>
+			<Desc>Uma estrutura exclusiva das Montanhas Wudang que está gravada com o título sagrado de Imperador Guerreiro Perfeccionado.</Desc>
 		</Text>
 		<Text Name="WuDangJinDian" sParam="Building">
 			<ThingName>Golden Hall</ThingName>
