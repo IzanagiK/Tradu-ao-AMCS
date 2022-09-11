@@ -2,67 +2,67 @@
 	<List>
 		<Text Name="WorkPlace" sParam="Building">
 			<ThingName>Work Place</ThingName>
-			<Desc>Não requer quaisquer materiais, apenas uma área no terreno para fazer ferramentas simples.</Desc>
+			<Desc>Não requer quaisquer materiais, apenas uma área no terreno para fazer simple tools.</Desc>
 		</Text>
 		<Text Name="MaterialWorkPlace" sParam="Building">
 			<ThingName>Material Work place</ThingName>
-			<Desc>Não requer quaisquer materiais, apenas uma área no terreno para processar materiais simples.</Desc>
+			<Desc>Não requer quaisquer materiais, apenas uma área no terreno para processar simple materials.</Desc>
 		</Text>
 		<Text Name="Bonfire" sParam="Building">
 			<ThingName>Bonfire</ThingName>
-			<Desc>Uma fonte simples de fogo construída a partir de lenha que pode trazer luz e calor ao seu redor. Também pode ser utilizada para uma culinária simples.</Desc>
+			<Desc>Uma fonte simples de fogo construída a partir de lenha que pode trazer luz e calor ao seu redor. Também pode ser utilizada para simple cooking.</Desc>
 		</Text>
 		<Text Name="Kitchen" sParam="Building">
 			<ThingName>Stove</ThingName>
-			<Desc>Um lugar para cozinhar os alimentos.</Desc>
+			<Desc>Um lugar para cozinhar food.</Desc>
 		</Text>
 		<Text Name="StoneMaker" sParam="Building">
 			<ThingName>Stonework</ThingName>
-			<Desc>Um posto de trabalho utilizado para polir blocos de pedra em tijolos de pedra.</Desc>
+			<Desc>Um work station utilizado para polir stone blocks em stone bricks.</Desc>
 		</Text>
 		<Text Name="WeaponMaker" sParam="Building">
 			<ThingName>Forge</ThingName>
-			<Desc>Um posto de trabalho utilizado para forjar barras metálicas em diferentes armas.</Desc>
+			<Desc>Um work station utilizado para forjar metal bars em diferentes weapons.</Desc>
 		</Text>
 		<Text Name="Furnace" sParam="Building">
 			<ThingName>Furnace</ThingName>
-			<Desc>Um posto de trabalho utilizado para fundir minérios em barras metálicas.</Desc>
+			<Desc>Um work station utilizado para fundir ores em metal bars.</Desc>
 		</Text>
 		<Text Name="TextileTable" sParam="Building">
 			<ThingName>Loom</ThingName>
-			<Desc>Um posto de trabalho utilizado para fazer tecido por tecelagem de fio ou linha.</Desc>
+			<Desc>Um work station utilizado para fabricar weaving yarn ou thread.</Desc>
 		</Text>
 		<Text Name="TailorTable" sParam="Building">
 			<ThingName>Sewing Table</ThingName>
-			<Desc>Um posto de trabalho utilizado para fazer roupa.</Desc>
+			<Desc>Um work station utilizado para fabricar clothes.</Desc>
 		</Text>
 		<Text Name="WoodShed" sParam="Building">
 			<ThingName>Timber Station</ThingName>
-			<Desc>Um posto de trabalho utilizado para transformar madeira em viga. Pode facilitar grandemente a utilização eficiente da madeira.</Desc>
+			<Desc>Um work station utilizado para processar wood em Timber. Pode facilitar grandemente a utilização eficiente de wood.</Desc>
 		</Text>
 		<Text Name="MillStone" sParam="Building">
 			<ThingName>Mill</ThingName>
-			<Desc>Um posto de trabalho utilizado para moer grãos em pó para armazenamento. Pode facilitar a utilização eficiente do grão.</Desc>
+			<Desc>Um work station utilizado para moer grain em powder para storage. Pode facilitar a utilização eficiente do grain.</Desc>
 		</Text>
 		<Text Name="HandWorkTable" sParam="Building">
 			<ThingName>Handcraft Station</ThingName>
-			<Desc>Um posto de trabalho utilizado para fazer artigos simples à mão.</Desc>
+			<Desc>Um work station utilizado para fazer simple items à mão.</Desc>
 		</Text>
 		<Text Name="Well" sParam="Building">
 			<ThingName>Well</ThingName>
-			<Desc>Uma fonte de água. A água dos poços é mais higiénica do que a água do deserto, e por isso é menos susceptível de transportar doenças..</Desc>
+			<Desc>Uma source of water. A água dos poços é mais higiénica do que a água do wilderness, e por isso é menos susceptível de transportar disease.</Desc>
 		</Text>
 		<Text Name="MedicineTable" sParam="Building">
 			<ThingName>Medicine Table</ThingName>
-			<Desc>Um posto de trabalho utilizado para fazer medicamentos.</Desc>
+			<Desc>Um work station utilizado para fazer medicine.</Desc>
 		</Text>
 		<Text Name="Building_YiTui" sParam="Building">
 			<ThingName>Immortal's Mortal Body</ThingName>
-			<Desc>Corpo motal deixado por imortais ascendidos.</Desc>
+			<Desc>Motal body deixado por Ascended Immortals.</Desc>
 		</Text>
 		<Text Name="Building_YiTui1" sParam="Building">
 			<ThingName>Deity's Body</ThingName>
-			<Desc>Corpo mortal deixado pelas divindades ascendidas.</Desc>
+			<Desc>Motal body deixado pelas Ascended Deities.</Desc>
 		</Text>
 	</List>
 </Texts>
