@@ -2,19 +2,19 @@
 	<List>
 		<Text Name="Bed" sParam="Building">
 			<ThingName>Bed</ThingName>
-			<Desc>Uma cama de solteiro que lhe pode proporcionar uma boa noite de sono.</Desc>
+			<Desc>Uma bed de solteiro que lhe pode proporcionar uma boa noite de sono.</Desc>
 		</Text>
 		<Text Name="DoubleBed" sParam="Building">
 			<ThingName>Double Bed</ThingName>
-			<Desc>Uma cama de casal adequada para duas pessoas.</Desc>
+			<Desc>Uma double bed adequada para duas pessoas.</Desc>
 		</Text>
 		<Text Name="SmallTable" sParam="Building">
 			<ThingName>Table</ThingName>
-			<Desc>Uma mesa simples para as pessoas tomarem refeições.</Desc>
+			<Desc>Uma table simples para as pessoas tomarem refeições.</Desc>
 		</Text>
 		<Text Name="Table" sParam="Building">
 			<ThingName>Square Table</ThingName>
-			<Desc>Uma mesa tradicional para as pessoas jantarem.</Desc>
+			<Desc>Uma table tradicional para as pessoas jantarem.</Desc>
 		</Text>
 		<Text Name="WaterTank" sParam="Building">
 			<ThingName>Water Vat</ThingName>
@@ -22,7 +22,7 @@
 		</Text>
 		<Text Name="SmallPool" sParam="Building">
 			<ThingName>Destiny Pool</ThingName>
-			<Desc>Uma piscina feita de cobre de fogo e cristal de gelo com uma semente da sorte como núcleo. Pode melhorar gradualmente a qualidade da terra circundante.</Desc>
+			<Desc>Uma pool feita de Fire Copper e Ice Crystal com uma Fortune Seed como núcleo. Pode melhorar gradualmente a qualidade da surrounding earth.</Desc>
 		</Text>
 		<Text Name="StreetLight" sParam="Building">
 			<ThingName>Lamp Post</ThingName>
@@ -77,15 +77,15 @@
 		</Text>
 		<Text Name="GoTable" sParam="Building">
 			<ThingName>Go Table</ThingName>
-			<Desc>Uma pequena mesa Go com uma grelha 19x19 para duas pessoas jogarem um grande jogo de Go on.</Desc>
+			<Desc>Uma pequena table Go com uma grelha 19x19 para duas pessoas jogarem um grande jogo de Go on.</Desc>
 		</Text>
 		<Text Name="GuzhengTable" sParam="Building">
 			<ThingName>Zither Table</ThingName>
-			<Desc>Uma mesa com uma Cítara Chinesa que pode ser tocada por uma pessoa.</Desc>
+			<Desc>Uma table com uma Chinese Zither que pode ser tocada por uma pessoa.</Desc>
 		</Text>
 		<Text Name="CalligraphyTable" sParam="Building">
 			<ThingName>Talisman Table</ThingName>
-			<Desc>Uma mesa com pincéis de escrita, paus de tinta, papel e pedras de tinta que pode ser utilizada para desenhar talismãs. Para além disto, pode também ser utilizada para fins de lazer.</Desc>
+			<Desc>Uma table com writing brushes, ink sticks, paper and inkstones que pode ser utilizada para desenhar talismans. Para além disto, pode também ser utilizada para fins de lazer.</Desc>
 		</Text>
 		<Text Name="CageShelf" sParam="Building">
 			<ThingName>Bird Cage</ThingName>
