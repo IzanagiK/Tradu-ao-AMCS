@@ -2,23 +2,23 @@
 	<List>
 		<Text Name="RockBrown" sParam="Plant">
 			<ThingName>Brown Rock</ThingName>
-			<Desc>Rocky mountain of brown color. Composed of crumbly substance, it is rather difficult to mine usable stone from it.</Desc>
+			<Desc>Montanha rochosa de cor castanha. Composta de substância friável, é bastante difícil extrair dela pedra utilizável.</Desc>
 		</Text>
 		<Text Name="RockGray" sParam="Plant">
 			<ThingName>Gray Rock</ThingName>
-			<Desc>Rocky mountain of gray color. Composed of compact substance, it can be mined for building material.</Desc>
+			<Desc>Montanha rochosa de cor cinzenta. Composta de substância compacta, pode ser minerada para material de construção.</Desc>
 		</Text>
 		<Text Name="RockMarble" sParam="Plant">
 			<ThingName>Marble Rock</ThingName>
-			<Desc>Mountain rock rich in marble, from which Marble can be mined.</Desc>
+			<Desc>Rocha de montanha rica em mármore, da qual o mármore pode ser extraído.</Desc>
 		</Text>
 		<Text Name="RockJade" sParam="Plant">
 			<ThingName>Jade Rock</ThingName>
-			<Desc>Mountain rock rich in jade, from which Jade can be mined.</Desc>
+			<Desc>Rocha de montanha rica em jade, da qual se pode extrair Jade.</Desc>
 		</Text>
 		<Text Name="RockCinnabar" sParam="Plant">
 			<ThingName>Cinnabar Rock</ThingName>
-			<Desc>Mountain rock rich in cinnabar, from which Cinnabar can be mined.</Desc>
+			<Desc>Rocha de montanha rica em cinabar, da qual se pode extrair o Cinnabar.</Desc>
 		</Text>
 	</List>
 </Texts>
