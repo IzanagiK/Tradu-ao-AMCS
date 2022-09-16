@@ -30,7 +30,8 @@
 		</Text>
 		<Text Name="CollectionAndProcessing">
 			<Type>Basic</Type>
-			<DisplayName>Aquisição e Processamento de Materiais</DisplayName>
+			<DisplayName>Aquisição e Processamento 
+de Materiais</DisplayName>
 			<Desc>Aprenda o basico de aquisição e processamento de materiais neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Coleta de madeira</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Use a ordem de cortar de madeira</Chapters.0.Tasks.0>
@@ -74,7 +75,8 @@
 		</Text>
 		<Text Name="BuildRoom">
 			<Type>Basic</Type>
-			<DisplayName>Construção de Quartos</DisplayName>
+			<DisplayName>Construção de 
+Quartos</DisplayName>
 			<Desc>Aprenda a construção básica de ambientes neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Planejamento de Quartos</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Construa um quarto</Chapters.0.Tasks.0>
@@ -202,7 +204,8 @@
 		</Text>
 		<Text Name="StrongArea">
 			<Type>Basic</Type>
-			<DisplayName>Planejamento de Armazem</DisplayName>
+			<DisplayName>Planejamento de 
+Armazem</DisplayName>
 			<Desc>Aprenda o básico do planejamento  de armazem neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Planeje o primeiro armazem</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Selecione um armazem</Chapters.0.Tasks.0>
@@ -286,7 +289,7 @@
 			<Tasks.7.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Espere até que seu povo aceite esse personagem.</Tasks.9.TaskDesc>
 			<Tasks.11.TipsData.Desc>Você ganhou um novo personagem. Cada personagem se destaca em um tipo de trabalho.  Abra o menu Work e organize o trabalho adequado para cada personagem.</Tasks.11.TipsData.Desc>
-			<Tasks.13.TaskDesc>Clique para abrir o menu Horário de Trabalho.</Tasks.13.TaskDesc>
+			<Tasks.13.TaskDesc>Clique para abrir o menu Work.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Mova o cursor para um tipo de trabalho para ver a capacidade de cada personagem para realizá-lo e tente escolher o personagem mais adequado para o trabalho.</Tasks.14.TaskDesc>
 			<Tasks.15.TaskDesc>Como o primeiro personagem tem a melhor habilidade de ser um curador/healer, clique na posição de curador do terceiro personagem para cancelá-lo.</Tasks.15.TaskDesc>
 			<Tasks.16.TaskDesc>Como o terceiro personagem tem a melhor habilidade em mineração, clique na posição de minerador do primeiro personagem para cancelá-lo.</Tasks.16.TaskDesc>
@@ -319,11 +322,12 @@
 		</Text>
 		<Text Name="Treatment">
 			<Type>Basic</Type>
-			<DisplayName>Cura para Discípulos Externos</DisplayName>
+			<DisplayName>Cura para 
+Discípulos Externos</DisplayName>
 			<Desc>Aprenda o básico de cura neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Fabricação e Armazenamento de Medicamentos</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verificar suprimentos médicos</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Arranje um curandeiro</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.1>Defina um curandeiro</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Fazer Remédio</Chapters.0.Tasks.2>
 			<Chapters.1.DisplayName>Curar um discípulo ferido</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Inspecione a lesão</Chapters.1.Tasks.0>
@@ -331,37 +335,37 @@
 			<Chapters.1.Tasks.2>Inspecione a lesão novamente</Chapters.1.Tasks.2>
 			<Tasks.1.TaskDesc>Clique para abrir a lista de medicamentos.</Tasks.1.TaskDesc>
 			<Tasks.2.TipsData.Desc>Cada remédio no jogo tem seu próprio efeito, por exemplo, Healing Balm trata feridas, Bone Healing Balm trata fraturas ósseas, Healing Pill trata órgãos internos, etc. Quando os suprimentos médicos são insuficientes, os discípulos feridos podem não ser tratados a tempo, então  por favor, preste muita atenção ao armazenamento de medicamentos.</Tasks.2.TipsData.Desc>
-			<Tasks.4.TaskDesc>Clique para abrir o menu Horário de Trabalho.</Tasks.4.TaskDesc>
-			<Tasks.5.TaskDesc>O jogador pode colocar o cursor na posição de Curandeiro para ver seus requisitos para habilidades relacionadas e outros trabalhos relevantes.</Tasks.5.TaskDesc>
-			<Tasks.6.TaskDesc>Como o segundo discípulo tem a melhor habilidade para ser um curador, selecione o discípulo para ser um curador e clique para ativar.</Tasks.6.TaskDesc>
-			<Tasks.7.TaskDesc>Feche esta página.</Tasks.7.TaskDesc>
-			<Tasks.9.TaskDesc>Clique na tabela de medicamentos.</Tasks.9.TaskDesc>
-			<Tasks.10.TaskDesc>Clique no botão interativo Produzir na mesa.</Tasks.10.TaskDesc>
+			<Tasks.4.TaskDesc>Clique para abrir o menu Work.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>O jogador pode colocar o cursor na posição de Curandeiro/Healer para ver seus requisitos para a habilidades e outros trabalhos relevantes.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Como o segundo discípulo tem a melhor habilidade/proficiencia para ser um curador, selecione o discípulo para ser um curador e clique para ativar.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Feche a página.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Clique na mesa de medicamentos.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Clique no botão interativo Produce.</Tasks.10.TaskDesc>
 			<Tasks.10.UiData.Name>Produce</Tasks.10.UiData.Name>
 			<Tasks.11.TaskDesc>O jogador pode colocar o cursor em Healing Balm para ver a instrução e seu efeito.</Tasks.11.TaskDesc>
 			<Tasks.11.UiData.Name>Healing Balm</Tasks.11.UiData.Name>
-			<Tasks.12.TaskDesc>Clique para fazer um bálsamo de cura.</Tasks.12.TaskDesc>
+			<Tasks.12.TaskDesc>Clique para fazer um Healing Balm.</Tasks.12.TaskDesc>
 			<Tasks.12.UiData.Name>Healing Balm</Tasks.12.UiData.Name>
-			<Tasks.13.TaskDesc>Clique para fechar a página Produzir na tabela.</Tasks.13.TaskDesc>
+			<Tasks.13.TaskDesc>Clique no "X" para fechar a jenela de produção.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.14.TaskDesc>
 			<Tasks.16.TaskDesc>Espere até que o Healing Balm seja feito.</Tasks.16.TaskDesc>
 			<Tasks.18.TipsData.Desc>Não há muitas ervas na natureza, então o jogador pode planejar um jardim de ervas com antecedência para garantir um suprimento constante de ervas.</Tasks.18.TipsData.Desc>
 			<Tasks.21.TaskDesc>Clique na notificação de lesão à esquerda.</Tasks.21.TaskDesc>
-			<Tasks.23.TaskDesc>Clique no botão Saúde no lado direito do menu do personagem ferido.</Tasks.23.TaskDesc>
+			<Tasks.23.TaskDesc>Clique no icone de saude/status no lado direito do menu do personagem ferido.</Tasks.23.TaskDesc>
 			<Tasks.24.TaskDesc>O jogador pode colocar o cursor na área de Infecção para inspecionar a lesão.</Tasks.24.TaskDesc>
 			<Tasks.25.TaskDesc>O jogador pode colocar o cursor na área do Thighbone para inspecionar a parte lesionada e o efeito da lesão.</Tasks.25.TaskDesc>
-			<Tasks.26.TaskDesc>Clique para fechar o menu Saúde.</Tasks.26.TaskDesc>
-			<Tasks.28.TaskDesc>Clique para abrir o menu Horário de Trabalho.</Tasks.28.TaskDesc>
+			<Tasks.26.TaskDesc>Clique no "X" para fechar o menu de Saúde/status.</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Clique para abrir o menu Work.</Tasks.28.TaskDesc>
 			<Tasks.29.TaskDesc>Clique e ative a posição Curandeiro.</Tasks.29.TaskDesc>
-			<Tasks.30.TaskDesc>Clique em Prioridade máxima para abrir a lista suspensa.</Tasks.30.TaskDesc>
-			<Tasks.31.TaskDesc>Clique em Curador para definir a posição como prioridade máxima.</Tasks.31.TaskDesc>
-			<Tasks.32.TaskDesc>Feche esta página.</Tasks.32.TaskDesc>
-			<Tasks.33.TaskDesc>Aguarde até que a cicatrização esteja completa.</Tasks.33.TaskDesc>
+			<Tasks.30.TaskDesc>Clique em Prioridade para definir o trabalho principal do personagem.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Clique em Curador/healer para definir a posição como prioridade máxima.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Feche a página.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Aguarde até que a cura esteja completa.</Tasks.33.TaskDesc>
 			<Tasks.34.TipsData.Desc>Quando um discípulo definido como curador é ferido, é possível que nenhum personagem trate o discípulo.  O jogador pode atribuir o trabalho do curador a outro discípulo e ajustar o horário de trabalho e prioridade, ou interromper a ação atual de qualquer discípulo, a fim de tratar o discípulo ferido.</Tasks.34.TipsData.Desc>
 			<Tasks.36.TaskDesc>Clique e selecione um discípulo ferido.</Tasks.36.TaskDesc>
-			<Tasks.37.TaskDesc>Clique no botão Saúde no lado direito do Menu Personagem.</Tasks.37.TaskDesc>
+			<Tasks.37.TaskDesc>Clique no botão saude/status no lado direito do Menu Personagem.</Tasks.37.TaskDesc>
 			<Tasks.38.TaskDesc>Podemos ver que a lesão está cicatrizando, o que significa que o discípulo foi efetivamente tratado.</Tasks.38.TaskDesc>
-			<Tasks.40.TipsData.Desc>Existem outros itens no jogo que melhoram os efeitos de cura, como talismãs e acupuntura, esperando o jogador explorar.</Tasks.40.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>Existem outros itens no jogo que melhoram os efeitos de cura, como talismãs e acupuntura, explore e descubra novos meios!</Tasks.40.TipsData.Desc>
 		</Text>
 		<Text Name="ZhuJi">
 			<Type>Cultivation</Type>
@@ -385,7 +389,7 @@
 			<Tasks.5.TipsData.Desc>O treinamento básico de um discípulo externo só está completo quando sua fundação atinge 25k.  Este é o principal requisito para se tornar um discípulo interior.</Tasks.5.TipsData.Desc>
 			<Tasks.7.TaskDesc>Clique para ativar o Work Hard.</Tasks.7.TaskDesc>
 			<Tasks.8.TaskDesc>Clique para fechar o menu Lei e Cultivo.</Tasks.8.TaskDesc>
-			<Tasks.10.TaskDesc>Clique para abrir o menu Horário de Trabalho.</Tasks.10.TaskDesc>
+			<Tasks.10.TaskDesc>Clique para abrir o menu Work.</Tasks.10.TaskDesc>
 			<Tasks.11.TaskDesc>Clique em 8: Trabalhe na Tabela de Horários.</Tasks.11.TaskDesc>
 			<Tasks.12.TaskDesc>Defina-o como Treinamento.</Tasks.12.TaskDesc>
 			<Tasks.13.TaskDesc>Clique em 9: Trabalhe na Tabela de Horários.</Tasks.13.TaskDesc>
@@ -447,7 +451,7 @@
 			<Tasks.25.TaskDesc>Espere até que o discípulo os reconheça como mestre.</Tasks.25.TaskDesc>
 			<Tasks.28.TaskDesc>Clique para selecionar o discípulo interno no estado de Golden Core.</Tasks.28.TaskDesc>
 			<Tasks.29.TipsData.Desc>Um mestre pode ensinar a seus discípulos os manuais que eles aprenderam.  Quando um mestre ensina um manual, custará menos inspiração.</Tasks.29.TipsData.Desc>
-			<Tasks.29.TipsData.Name>Ensinar</Tasks.29.TipsData.Name>
+			<Tasks.29.TipsData.Name>Teach</Tasks.29.TipsData.Name>
 			<Tasks.31.TipsData.Desc>Quando um discípulo é promovido a discípulo interno, ele pode escolher um discípulo interno no estado do Núcleo Dourado ou superior para ser seu mestre.  Quando a Lei do discípulo for a mesma do mestre, a prática do discípulo será mais eficiente.</Tasks.31.TipsData.Desc>
 			<Tasks.33.TaskDesc>O jogador pode clicar aqui para definir o modo de treinamento para Automático para que o discípulo altere automaticamente seu modo de treinamento, se necessário.</Tasks.33.TaskDesc>
 			<Tasks.35.TaskDesc>O jogador pode clicar aqui para definir o modo de treinamento para Prática para que o discípulo continue a ganhar uma grande quantidade de experiência durante a prática.</Tasks.35.TaskDesc>
