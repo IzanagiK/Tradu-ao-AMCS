@@ -370,7 +370,7 @@ Discípulos Externos</DisplayName>
 		<Text Name="ZhuJi">
 			<Type>Cultivation</Type>
 			<DisplayName>Treinamento básico</DisplayName>
-			<Desc>Learn the methods and meaning of foundation training for outer disciples in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Aprenda os métodos e o significado do treinamento básico para discípulos externos neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>O significado do treinamento básico</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique o Treinamento da Fundação</Chapters.0.Tasks.0>
 			<Chapters.1.DisplayName>Treinamento básico</Chapters.1.DisplayName>
@@ -379,46 +379,46 @@ Discípulos Externos</DisplayName>
 			<Chapters.1.Tasks.2>Defina um local de treinamento</Chapters.1.Tasks.2>
 			<Chapters.1.Tasks.3>Espere até que o discípulo comece a treinar</Chapters.1.Tasks.3>
 			<Chapters.2.DisplayName>Outros métodos para melhorar a fundação</Chapters.2.DisplayName>
-			<Chapters.2.Tasks.0>Inspecionar Urso Gall</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.0>Inspecionar Bear Gall</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Verificar Fundação</Chapters.2.Tasks.1>
-			<Chapters.2.Tasks.2>Comer Urso Gall</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.2>Comer Bear Gall</Chapters.2.Tasks.2>
 			<Chapters.2.Tasks.3>Verificar Fundação</Chapters.2.Tasks.3>
-			<Tasks.1.TaskDesc>Clique em qualquer NPC.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>Clique para abrir o menu Lei e Cultivo.</Tasks.2.TaskDesc>
+			<Tasks.1.TaskDesc>Clique no NPC.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Clique para abrir o menu de Leis &amp; Cultivo.</Tasks.2.TaskDesc>
 			<Tasks.3.TipsData.Desc>Conforme mostrado na imagem, se um discípulo externo pular sua rotina diária de treinamento, sua base será reduzida em 1k.  Mesmo um discípulo que completou seu treinamento básico não é exceção.</Tasks.3.TipsData.Desc>
-			<Tasks.5.TipsData.Desc>O treinamento básico de um discípulo externo só está completo quando sua fundação atinge 25k.  Este é o principal requisito para se tornar um discípulo interior.</Tasks.5.TipsData.Desc>
-			<Tasks.7.TaskDesc>Clique para ativar o Work Hard.</Tasks.7.TaskDesc>
-			<Tasks.8.TaskDesc>Clique para fechar o menu Lei e Cultivo.</Tasks.8.TaskDesc>
+			<Tasks.5.TipsData.Desc>O treinamento básico de um discípulo externo só está completo quando sua fundação atinge 25k.  Este é o principal requisito para se tornar um discípulo interno.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Clique para ativar o Trabalhar Duro.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Clique para fechar o menu de Leis &amp; Cultivo.</Tasks.8.TaskDesc>
 			<Tasks.10.TaskDesc>Clique para abrir o menu Work.</Tasks.10.TaskDesc>
-			<Tasks.11.TaskDesc>Clique em 8: Trabalhe na Tabela de Horários.</Tasks.11.TaskDesc>
+			<Tasks.11.TaskDesc>Clique em 8: na Tabela de Horários.</Tasks.11.TaskDesc>
 			<Tasks.12.TaskDesc>Defina-o como Treinamento.</Tasks.12.TaskDesc>
-			<Tasks.13.TaskDesc>Clique em 9: Trabalhe na Tabela de Horários.</Tasks.13.TaskDesc>
+			<Tasks.13.TaskDesc>Clique em 9: na Tabela de Horários.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Defina-o como Treinamento.</Tasks.14.TaskDesc>
-			<Tasks.15.TaskDesc>Feche esta página.</Tasks.15.TaskDesc>
-			<Tasks.17.TaskDesc>Clique em Construir no canto inferior esquerdo para abrir a página Construir.</Tasks.17.TaskDesc>
-			<Tasks.18.TaskDesc>Clique em Seita para abrir a página Construções de Seita.</Tasks.18.TaskDesc>
+			<Tasks.15.TaskDesc>Feche a página.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Clique em Build no canto inferior esquerdo para abrir a página de construção.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Clique em sect para abrir a página Construções da Seita.</Tasks.18.TaskDesc>
 			<Tasks.18.UiData.Name>Sect</Tasks.18.UiData.Name>
-			<Tasks.19.TaskDesc>Clique no local de treinamento</Tasks.19.TaskDesc>
-			<Tasks.20.TaskDesc>Coloque o local de treinamento no local designado.</Tasks.20.TaskDesc>
+			<Tasks.19.TaskDesc>Clique no Training Spot/local de treinamento</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Coloque o Training Spot no local designado.</Tasks.20.TaskDesc>
 			<Tasks.21.TaskDesc>Clique com o botão direito.</Tasks.21.TaskDesc>
-			<Tasks.23.TaskDesc>Clique em 2x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.23.TaskDesc>
+			<Tasks.23.TaskDesc>Clique em velocidade 2x  ​​no canto superior esquerdo para acelerar o jogo.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Espere até que o discípulo externo entre no local de treinamento e comece a treinar.</Tasks.25.TaskDesc>
-			<Tasks.27.TipsData.Desc>O jogador pode organizar e ajustar o horário do treinamento dos discípulos externos para garantir que eles sigam sua rotina diária de treinamento.  Um discípulo externo que ativou o Work Hard treinará fora de seu trabalho diário.  Discípulos com certas marcas podem ganhar base mais rapidamente.</Tasks.27.TipsData.Desc>
+			<Tasks.27.TipsData.Desc>O jogador pode organizar e ajustar o horário do treinamento dos discípulos externos para garantir que eles sigam sua rotina diária de treinamento.  Um discípulo externo que ativou o Work Hard/Trabalhar Duro treinará fora de seu trabalho/tarefas diário. Discípulos com certas carcteristicas podem ganhar base/fundação mais rapidamente.</Tasks.27.TipsData.Desc>
 			<Tasks.29.TaskDesc>O jogador pode colocar o cursor em Bear Gall para ver a Fundação fornecida por ele.</Tasks.29.TaskDesc>
-			<Tasks.31.TaskDesc>Clique em qualquer NPC.</Tasks.31.TaskDesc>
+			<Tasks.31.TaskDesc>Clique no NPC.</Tasks.31.TaskDesc>
 			<Tasks.32.TipsData.Desc>O jogador pode usar o menu Status na parte inferior a qualquer momento para acessar rapidamente informações sobre a fundação de um discípulo externo e ajustar sua estratégia de treinamento.</Tasks.32.TipsData.Desc>
 			<Tasks.34.TaskDesc>Clique no botão Comer no menu abaixo do personagem.</Tasks.34.TaskDesc>
 			<Tasks.34.UiData.Name>Eat</Tasks.34.UiData.Name>
 			<Tasks.35.TaskDesc>Clique para selecionar Bear Gall para o discípulo comer.</Tasks.35.TaskDesc>
 			<Tasks.37.TaskDesc>Espere até que Bear Gall seja comido.</Tasks.37.TaskDesc>
-			<Tasks.39.TipsData.Desc>Este discípulo rapidamente ganhou muita base comendo Bear Gall.</Tasks.39.TipsData.Desc>
-			<Tasks.41.TipsData.Desc>Itens como pílulas e elixires também podem ser comidos para ganhar rapidamente muita base, e também existem outras maneiras de acelerar o treinamento da base, esperando o jogador explorar.</Tasks.41.TipsData.Desc>
+			<Tasks.39.TipsData.Desc>Este discípulo rapidamente ganhou muita fundação comendo Bear Gall.</Tasks.39.TipsData.Desc>
+			<Tasks.41.TipsData.Desc>Itens como pílulas e elixires também podem ser comidos para ganhar rapidamente muita fundação, e também existem outras maneiras de acelerar o treinamento da fundação, Apenas esperando o jogador explorar.</Tasks.41.TipsData.Desc>
 		</Text>
 		<Text Name="GongSelect">
 			<Type>Cultivation</Type>
-			<DisplayName>Seleção de Lei e Modo de Treinamento</DisplayName>
+			<DisplayName>Seleção de Lei &amp; Modo de Treinamento</DisplayName>
 			<Desc>Learn how to select a suitable Law, the meaning of Law matching, how to study from a master and several common training modes in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Adequação e seleção de leis</Chapters.0.DisplayName>
+			<Chapters.0.DisplayName>Law Matching &amp; Selection</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique a correspondência da lei de Tian Wan</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Verifique a correspondência da lei de Zhongli Shu</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Escolha a lei para se tornar discípulo interior</Chapters.0.Tasks.2>
@@ -483,14 +483,14 @@ Discípulos Externos</DisplayName>
 			<Tasks.14.TaskDesc>Verifique a barra de Stamina em Status abaixo.  Agora, a resistência do discípulo foi reabastecida consumindo o elixir.</Tasks.14.TaskDesc>
 			<Tasks.16.TaskDesc>Clique em Praticar no menu Status do personagem.</Tasks.16.TaskDesc>
 			<Tasks.18.TipsData.Desc>Os discípulos internos também podem consumir alimentos e convertê-los em vigor, ou aumentar a taxa de consumo de alimentos e a taxa de ganho de resistência para melhorar ainda mais o efeito de conversão de alimentos em vigor.</Tasks.18.TipsData.Desc>
-			<Tasks.20.TaskDesc>Clique para abrir o menu Lei e Cultivo.</Tasks.20.TaskDesc>
+			<Tasks.20.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.20.TaskDesc>
 			<Tasks.21.TaskDesc>O jogador pode clicar aqui para definir o Auto-comer para que o discípulo coma comida automaticamente para ganhar resistência.</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>O jogador pode clicar aqui para definir Elixirs First para que o discípulo escolha automaticamente comer elixires primeiro para ganhar resistência.</Tasks.23.TaskDesc>
 			<Tasks.25.TipsData.Desc>Existem muitos itens que aumentam a resistência ou a taxa de ganho de resistência, como remédios e tesouros raros, elixires, talismãs, etc.</Tasks.25.TipsData.Desc>
 		</Text>
 		<Text Name="FuQi">
 			<Type>Cultivation</Type>
-			<DisplayName>Absorção de Qi e Jejum</DisplayName>
+			<DisplayName>Qi Absorption &amp; Fasting</DisplayName>
 			<Desc>Learn the meaning of Qi absorption and fasting and the different between the two in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>O que é Jejum</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique a pílula de jejum</Chapters.0.Tasks.0>
@@ -593,7 +593,7 @@ Discípulos Externos</DisplayName>
 			<DisplayName>Fatores relacionados ao cultivo</DisplayName>
 			<Desc>In this tutorial, learn the main factors that affect the cultivation speed of an inner disciple and the effect of these factors.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Aprenda Fatores Relacionados ao Cultivo</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Direito Aberto e Cultivo</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.0>Open Law &amp; Cultivation</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Verifique a correspondência da lei</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Verifique a correspondência dos cinco elementos</Chapters.0.Tasks.2>
 			<Chapters.0.Tasks.3>Verifique Mestre e Discípulo</Chapters.0.Tasks.3>
@@ -603,7 +603,7 @@ Discípulos Externos</DisplayName>
 			<Chapters.0.Tasks.7>Verificar humor</Chapters.0.Tasks.7>
 			<Chapters.0.Tasks.8>Verifique o estado mental</Chapters.0.Tasks.8>
 			<Tasks.1.TaskDesc>Clique e selecione um discípulo interno.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>Clique para abrir o menu Lei e Cultivo.</Tasks.2.TaskDesc>
+			<Tasks.2.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.2.TaskDesc>
 			<Tasks.4.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Law Matching no menu Practice.  Quanto melhor a Lei corresponder, mais eficiente será o cultivo.</Tasks.4.TaskDesc>
 			<Tasks.6.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre a correspondência de cinco elementos no menu de prática.  Quanto melhor a correspondência dos Cinco Elementos, mais eficiente será o cultivo.</Tasks.6.TaskDesc>
 			<Tasks.8.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Mestre e Discípulo no menu Prática.  Se assistido por um mestre em um estado de cultivo mais elevado, a velocidade de cultivo de um discípulo aumentará, e será mais eficiente se o mestre e o discípulo treinarem usando a mesma Lei.</Tasks.8.TaskDesc>
@@ -616,9 +616,9 @@ Discípulos Externos</DisplayName>
 		</Text>
 		<Text Name="LingQi">
 			<Type>Cultivation</Type>
-			<DisplayName>Reunião de Qi e Qi</DisplayName>
+			<DisplayName>Qi &amp; Qi Gathering</DisplayName>
 			<Desc>In this tutorial, learn the source and effect of Qi, an item's ability to condense Qi and how to condense Qi.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Densidade do Qi e Taxa de Recuperação do Qi</Chapters.0.DisplayName>
+			<Chapters.0.DisplayName>Qi Density &amp; Qi Recovery Rate</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique a taxa de recuperação de Qi e Qi</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Verifique a densidade do Qi</Chapters.0.Tasks.1>
 			<Chapters.1.DisplayName>Efeito e alcance da reunião de Qi</Chapters.1.DisplayName>
@@ -634,9 +634,9 @@ Discípulos Externos</DisplayName>
 			<Tasks.0.TipsData.Desc>O Qi que existe na natureza pode ser absorvido pela maioria dos itens, edifícios e plantas.  Um discípulo interno pode absorver e converter o Qi natural em seu próprio, e também usar outros métodos para absorver o Qi de itens, edifícios e plantas.</Tasks.0.TipsData.Desc>
 			<Tasks.2.TaskDesc>Clique e selecione um discípulo interno.</Tasks.2.TaskDesc>
 			<Tasks.3.TaskDesc>O jogador pode colocar o cursor para inspecionar Qi e Qi Recovery.  Os discípulos internos também podem absorver o Qi natural para reabastecer seu próprio Qi.</Tasks.3.TaskDesc>
-			<Tasks.5.TaskDesc>Clique para abrir o menu Lei e Cultivo.</Tasks.5.TaskDesc>
+			<Tasks.5.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.5.TaskDesc>
 			<Tasks.6.TipsData.Desc>O jogador pode colocar o cursor para ver a densidade de Qi atual no menu Practice e, portanto, usá-la para avaliar o ambiente de Qi em torno de um discípulo.</Tasks.6.TipsData.Desc>
-			<Tasks.7.TaskDesc>Clique para fechar o menu Lei e Cultivo.</Tasks.7.TaskDesc>
+			<Tasks.7.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.7.TaskDesc>
 			<Tasks.9.TipsData.Desc>O jogador pode deixar os discípulos internos praticarem em um local com alta densidade de Qi que ajuda a aumentar a velocidade de cultivo e recuperar rapidamente seu Qi.</Tasks.9.TipsData.Desc>
 			<Tasks.11.TaskDesc>Clique para selecionar Gnarled Vine.</Tasks.11.TaskDesc>
 			<Tasks.12.TaskDesc>Clique em Local.</Tasks.12.TaskDesc>
@@ -671,7 +671,7 @@ Discípulos Externos</DisplayName>
 			<Chapters.1.Tasks.1>Entre no Modo Feng Shui</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Inspecione o ambiente próximo aos veios de minério</Chapters.1.Tasks.2>
 			<Chapters.1.Tasks.3>Inspecionar Ambiente Próximo à Água</Chapters.1.Tasks.3>
-			<Chapters.2.DisplayName>Ambiente Elemental e Cultivo</Chapters.2.DisplayName>
+			<Chapters.2.DisplayName>Elemental Environment &amp; Cultivation</Chapters.2.DisplayName>
 			<Chapters.2.Tasks.0>Verifique o tipo de lei</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Verifique a correspondência dos cinco elementos</Chapters.2.Tasks.1>
 			<Chapters.2.Tasks.2>Verifique as estatísticas da madeira do guarda-sol</Chapters.2.Tasks.2>
