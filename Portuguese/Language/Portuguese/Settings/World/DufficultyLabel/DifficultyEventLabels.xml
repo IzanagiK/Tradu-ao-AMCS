@@ -45,7 +45,7 @@
 			<Values.2.Desc>Período de segurança: 60 dias.</Values.2.Desc>
 			<Values.3.Name>Longo</Values.3.Name>
 			<Values.3.Desc>Período de segurança: 120 dias.</Values.3.Desc>
-			<Values.4.Name>Very Long</Values.4.Name>
+			<Values.4.Name>Muito longo</Values.4.Name>
 			<Values.4.Desc>Período de segurança: 240 dias.</Values.4.Desc>
 			<Values.5.Name>Interminável</Values.5.Name>
 			<Values.5.Desc>Os eventos não ocorrerão neste jogo.</Values.5.Desc>
@@ -72,209 +72,209 @@
 		</Text>
 		<Text Name="Lv3_ProtectTime">
 			<DisplayName>Guard Duration</DisplayName>
-			<Desc>Rare events will not occur during the safety period.</Desc>
+			<Desc>Eventos raros não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
-			<Values.0.Desc>There will be no safety period.</Values.0.Desc>
+			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
 			<Values.1.Name>Curto</Values.1.Name>
-			<Values.1.Desc>Safety Period: 25 days.</Values.1.Desc>
+			<Values.1.Desc>SPeríodo de segurança: 25 dias.</Values.1.Desc>
 			<Values.2.Name>Médio</Values.2.Name>
-			<Values.2.Desc>Safety Period: 50 days.</Values.2.Desc>
+			<Values.2.Desc>Período de segurança: 50 dias.</Values.2.Desc>
 			<Values.3.Name>Longo</Values.3.Name>
-			<Values.3.Desc>Safety Period: 100 days.</Values.3.Desc>
-			<Values.4.Name>Very Long</Values.4.Name>
-			<Values.4.Desc>Safety Period: 200 days.</Values.4.Desc>
+			<Values.3.Desc>Período de segurança: 100 dias.</Values.3.Desc>
+			<Values.4.Name>Muito longo</Values.4.Name>
+			<Values.4.Desc>Período de segurança: 200 dias.</Values.4.Desc>
 			<Values.5.Name>Interminável</Values.5.Name>
-			<Values.5.Desc>Events will not occur in this game.</Values.5.Desc>
+			<Values.5.Desc>Os eventos não ocorrerão neste jogo.</Values.5.Desc>
 		</Text>
 		<Text Name="Lv3_IntervalMin">
 			<DisplayName>Minimum Interval</DisplayName>
-			<Desc>The minimum interval between two rare events.</Desc>
+			<Desc>O intervalo mínimo entre dois eventos raros.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Minimum Interval: 5 days.</Values.0.Desc>
+			<Values.0.Desc>Intervalo mínimo: 5 dias.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Minimum Interval: 20 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo mínimo: 20 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Minimum Interval: 35 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo mínimo: 35 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Lv3_IntervalMax">
 			<DisplayName>Maximum Interval</DisplayName>
-			<Desc>If the maximum interval has passed with no rare event occuring, the next event will be a rare event.</Desc>
+			<Desc>Se o intervalo máximo tiver passado sem nenhum evento raro ocorrendo, o próximo evento será um evento raro.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Maximum Interval: 40 days.</Values.0.Desc>
+			<Values.0.Desc>Intervalo máximo: 40 dias.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Maximum Interval: 55 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo máximo: 55 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Maximum Interval: 70 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo máximo: 70 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Secrets_ProtectTime">
 			<DisplayName>Guard Duration</DisplayName>
-			<Desc>Secret events will not occur during the safety period.</Desc>
+			<Desc>Eventos secretos não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
-			<Values.0.Desc>There will be no safety period.</Values.0.Desc>
+			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
 			<Values.1.Name>Curto</Values.1.Name>
-			<Values.1.Desc>Safety Period: 15 days.</Values.1.Desc>
+			<Values.1.Desc>Período de segurança: 15 dias.</Values.1.Desc>
 			<Values.2.Name>Médio</Values.2.Name>
-			<Values.2.Desc>Safety Period: 45 days.</Values.2.Desc>
+			<Values.2.Desc>Período de segurança: 45 dias.</Values.2.Desc>
 			<Values.3.Name>Longo</Values.3.Name>
-			<Values.3.Desc>Safety Period: 75 days.</Values.3.Desc>
+			<Values.3.Desc>Período de segurança: 75 dias.</Values.3.Desc>
 			<Values.4.Name>Interminável</Values.4.Name>
-			<Values.4.Desc>Events will not occur in this game.</Values.4.Desc>
+			<Values.4.Desc>Os eventos não ocorrerão neste jogo.</Values.4.Desc>
 		</Text>
 		<Text Name="Secrets_IntervalMin">
 			<DisplayName>Minimum Interval</DisplayName>
-			<Desc>The minimum interval between two secret events.</Desc>
+			<Desc>O intervalo mínimo entre dois eventos secretos.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Minimum Interval: 1 day.</Values.0.Desc>
+			<Values.0.Desc>Intervalo mínimo: 1 dia.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Minimum Interval: 3 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo mínimo: 3 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Minimum Interval: 5 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo mínimo: 5 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Secrets_IntervalMax">
 			<DisplayName>Maximum Interval</DisplayName>
-			<Desc>If the maximum interval has passed with no secret event occuring, the next event will be a secret event.</Desc>
+			<Desc>Se o intervalo máximo tiver passado sem ocorrência de evento secreto, o próximo evento será um evento secreto.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Maximum Interval: 7 days.</Values.0.Desc>
+			<Values.0.Desc>Intervalo máximo: 7 dias.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Maximum Interval: 9 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo máximo: 9 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Maximum Interval: 15 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo máximo: 15 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Join_ProtectTime">
 			<DisplayName>Guard Duration</DisplayName>
-			<Desc>Visitor events will not occur during the safety period.</Desc>
+			<Desc>Os eventos dos visitantes não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
-			<Values.0.Desc>There will be no safety period.</Values.0.Desc>
+			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
 			<Values.1.Name>Curto</Values.1.Name>
-			<Values.1.Desc>Safety Period: 5 days.</Values.1.Desc>
+			<Values.1.Desc>Período de segurança: 5 dias.</Values.1.Desc>
 			<Values.2.Name>Médio</Values.2.Name>
-			<Values.2.Desc>Safety Period: 25 days.</Values.2.Desc>
+			<Values.2.Desc>Período de segurança: 25 dias.</Values.2.Desc>
 			<Values.3.Name>Longo</Values.3.Name>
-			<Values.3.Desc>Safety Period: 75 days.</Values.3.Desc>
+			<Values.3.Desc>Período de segurança: 75 dias.</Values.3.Desc>
 			<Values.4.Name>Interminável</Values.4.Name>
-			<Values.4.Desc>Events will not occur in this game.</Values.4.Desc>
+			<Values.4.Desc>Os eventos não ocorrerão neste jogo.</Values.4.Desc>
 		</Text>
 		<Text Name="Join_IntervalMin">
 			<DisplayName>Minimum Interval</DisplayName>
-			<Desc>The minimum interval between two visitor events.</Desc>
+			<Desc>O intervalo mínimo entre dois eventos de visitantes.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Minimum Interval: 1 day.</Values.0.Desc>
+			<Values.0.Desc>Intervalo mínimo: 1 day.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Minimum Interval: 3 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo mínimo: 3 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Minimum Interval: 5 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo mínimo: 5 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Join_IntervalMax">
 			<DisplayName>Maximum Interval</DisplayName>
-			<Desc>If the maximum interval has passed with no visitor event occuring, the next event will be a visitor event.</Desc>
+			<Desc>Se o intervalo máximo tiver passado sem que nenhum evento de visitante ocorra, o próximo evento será um evento de visitante.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Maximum Interval: 7 days.</Values.0.Desc>
+			<Values.0.Desc>Intervalo máximo: 7 dias.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Maximum Interval: 9 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo máximo: 9 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Maximum Interval: 15 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo máximo: 15 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Enemy_ProtectTime">
 			<DisplayName>Guard Duration</DisplayName>
-			<Desc>Enemy events will not occur during the safety period.</Desc>
+			<Desc>Os eventos inimigos não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
-			<Values.0.Desc>There will be no safety period.</Values.0.Desc>
+			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
 			<Values.1.Name>Curto</Values.1.Name>
-			<Values.1.Desc>Safety Period: 6 days.</Values.1.Desc>
+			<Values.1.Desc>Período de segurança: 6 dias.</Values.1.Desc>
 			<Values.2.Name>Médio</Values.2.Name>
-			<Values.2.Desc>Safety Period: 12 days.</Values.2.Desc>
+			<Values.2.Desc>Período de segurança: 12 dias.</Values.2.Desc>
 			<Values.3.Name>Longo</Values.3.Name>
-			<Values.3.Desc>Safety Period: 24 days.</Values.3.Desc>
+			<Values.3.Desc>Período de segurança: 24 dias.</Values.3.Desc>
 			<Values.4.Name>Interminável</Values.4.Name>
-			<Values.4.Desc>Events will not occur in this game.</Values.4.Desc>
+			<Values.4.Desc>Os eventos não ocorrerão neste jogo.</Values.4.Desc>
 		</Text>
 		<Text Name="Enemy_IntervalMin">
 			<DisplayName>Minimum Interval</DisplayName>
-			<Desc>The minimum interval between two enemy events.</Desc>
+			<Desc>O intervalo mínimo entre dois eventos inimigos.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Minimum Interval: 2 days.</Values.0.Desc>
+			<Values.0.Desc>Intervalo mínimo: 2 dias.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Minimum Interval: 5 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo mínimo: 5 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Minimum Interval: 8 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo mínimo: 8 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Enemy_IntervalMax">
 			<DisplayName>Maximum Interval</DisplayName>
-			<Desc>If the maximum interval has passed with no enemy event occuring, the next event will be an enemy event.</Desc>
+			<Desc>Se o intervalo máximo tiver passado sem nenhum evento inimigo, o próximo evento será um evento inimigo.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Maximum Interval: 10 days.</Values.0.Desc>
+			<Values.0.Desc>Intervalo máximo: 10 dias.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Maximum Interval: 17 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo máximo: 17 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Maximum Interval: 24 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo máximo: 24 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Lv1_ProtectTime">
 			<DisplayName>Guard Duration</DisplayName>
-			<Desc>Common events will not occur during the safety period.</Desc>
+			<Desc>Eventos comuns não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
-			<Values.0.Desc>There will be no safety period.</Values.0.Desc>
+			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
 			<Values.1.Name>Curto</Values.1.Name>
-			<Values.1.Desc>Safety Period: 5 days.</Values.1.Desc>
+			<Values.1.Desc>Período de segurança: 5 dias.</Values.1.Desc>
 			<Values.2.Name>Médio</Values.2.Name>
-			<Values.2.Desc>Safety Period: 15 days.</Values.2.Desc>
+			<Values.2.Desc>Período de segurança: 15 dias.</Values.2.Desc>
 			<Values.3.Name>Longo</Values.3.Name>
-			<Values.3.Desc>Safety Period: 60 days.</Values.3.Desc>
+			<Values.3.Desc>Período de segurança: 60 dias.</Values.3.Desc>
 			<Values.4.Name>Interminável</Values.4.Name>
-			<Values.4.Desc>Events will not occur in this game.</Values.4.Desc>
+			<Values.4.Desc>Os eventos não ocorrerão neste jogo.</Values.4.Desc>
 		</Text>
 		<Text Name="Lv1_IntervalMin">
 			<DisplayName>Minimum Interval</DisplayName>
-			<Desc>The minimum interval between two common events.</Desc>
+			<Desc>O intervalo mínimo entre dois eventos comuns.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Minimum Interval: 1 day.</Values.0.Desc>
+			<Values.0.Desc>Intervalo mínimo: 1 day.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Minimum Interval: 3 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo mínimo: 3 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Minimum Interval: 5 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo mínimo: 5 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Lv1_IntervalMax">
 			<DisplayName>Maximum Interval</DisplayName>
-			<Desc>If the maximum interval has passed with no common event occuring, the next event will be a common event.</Desc>
+			<Desc>Se o intervalo máximo tiver passado sem que nenhum evento comum ocorra, o próximo evento será um evento comum.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Maximum Interval: 6 days.</Values.0.Desc>
+			<Values.0.Desc>Intervalo máximo: 6 dias.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Maximum Interval: 8 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo máximo: 8 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Maximum Interval: 10 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo máximo: 10 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Lv2_ProtectTime">
 			<DisplayName>Guard Duration</DisplayName>
-			<Desc>Advanced events will not occur during the safety period.</Desc>
+			<Desc>Eventos avançados não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
-			<Values.0.Desc>There will be no safety period.</Values.0.Desc>
+			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
 			<Values.1.Name>Curto</Values.1.Name>
-			<Values.1.Desc>Safety Period: 5 days.</Values.1.Desc>
+			<Values.1.Desc>Período de segurança: 5 dias.</Values.1.Desc>
 			<Values.2.Name>Médio</Values.2.Name>
-			<Values.2.Desc>Safety Period: 15 days.</Values.2.Desc>
+			<Values.2.Desc>Período de segurança: 15 dias.</Values.2.Desc>
 			<Values.3.Name>Longo</Values.3.Name>
-			<Values.3.Desc>Safety Period: 60 days.</Values.3.Desc>
+			<Values.3.Desc>Período de segurança: 60 dias.</Values.3.Desc>
 			<Values.4.Name>Interminável</Values.4.Name>
-			<Values.4.Desc>Events will not occur in this game.</Values.4.Desc>
+			<Values.4.Desc>Os eventos não ocorrerão neste jogo.</Values.4.Desc>
 		</Text>
 		<Text Name="Lv2_IntervalMin">
 			<DisplayName>Minimum Interval</DisplayName>
-			<Desc>The minimum interval between two advanced events.</Desc>
+			<Desc>O intervalo mínimo entre dois eventos avançados.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Minimum Interval: 3 days.</Values.0.Desc>
+			<Values.0.Desc>Intervalo mínimo: 3 dias.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Minimum Interval: 7 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo mínimo: 7 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Minimum Interval: 11 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo mínimo: 11 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Lv2_IntervalMax">
 			<DisplayName>Maximum Interval</DisplayName>
-			<Desc>If the maximum interval has passed with no advanced event occuring, the next event will be an advanced event.</Desc>
+			<Desc>Se o intervalo máximo tiver passado sem ocorrência de eventos avançados, o próximo evento será um evento avançado.</Desc>
 			<Values.0.Name>Curto</Values.0.Name>
-			<Values.0.Desc>Maximum Interval: 15 days.</Values.0.Desc>
+			<Values.0.Desc>Intervalo máximo: 15 dias.</Values.0.Desc>
 			<Values.1.Name>Médio</Values.1.Name>
-			<Values.1.Desc>Maximum Interval: 20 days.</Values.1.Desc>
+			<Values.1.Desc>Intervalo máximo: 20 dias.</Values.1.Desc>
 			<Values.2.Name>Longo</Values.2.Name>
-			<Values.2.Desc>Maximum Interval: 25 days.</Values.2.Desc>
+			<Values.2.Desc>Intervalo máximo: 25 dias.</Values.2.Desc>
 		</Text>
 	</List>
 </Texts>

@@ -417,11 +417,11 @@ Discípulos Externos</DisplayName>
 		<Text Name="GongSelect">
 			<Type>Cultivation</Type>
 			<DisplayName>Seleção de Lei &amp; Modo de Treinamento</DisplayName>
-			<Desc>Learn how to select a suitable Law, the meaning of Law matching, how to study from a master and several common training modes in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Law Matching &amp; Selection</Chapters.0.DisplayName>
+			<Desc>Aprenda como selecionar uma lei adequada, o significado da correspondência das leis, como estudar com um mestre e vários modos de treinamento comuns.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Correspondência de Leis &amp; Escolha</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique a correspondência da lei de Tian Wan</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Verifique a correspondência da lei de Zhongli Shu</Chapters.0.Tasks.1>
-			<Chapters.0.Tasks.2>Escolha a lei para se tornar discípulo interior</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.2>Escolha a lei para se tornar discípulo interno</Chapters.0.Tasks.2>
 			<Chapters.1.DisplayName>Por que os discípulos devem ter um mestre</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Selecione um mestre</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Verifique um mestre</Chapters.1.Tasks.1>
