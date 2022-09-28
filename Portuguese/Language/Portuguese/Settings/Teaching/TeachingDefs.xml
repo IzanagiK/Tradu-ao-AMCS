@@ -457,33 +457,33 @@ Discípulos Externos</DisplayName>
 			<Tasks.35.TaskDesc>O jogador pode clicar aqui para definir o modo de treinamento para Prática para que o discípulo continue a ganhar uma grande quantidade de experiência durante a prática.</Tasks.35.TaskDesc>
 			<Tasks.37.TaskDesc>O jogador pode clicar aqui para definir o modo de treinamento para Buscar a Paz para que o discípulo continue a melhorar o estado mental enquanto busca a paz.</Tasks.37.TaskDesc>
 			<Tasks.39.TaskDesc>O jogador pode clicar aqui para definir o modo de treinamento para Treinamento para que o discípulo continue a ganhar muita inspiração e um pouco de experiência durante a prática.</Tasks.39.TaskDesc>
-			<Tasks.41.TipsData.Desc>Depois que um discípulo se torna um discípulo interno, haverá mais quatro modos de treinamento, cada um dos quais respondendo às diferentes necessidades dos discípulos internos para sua prática.  Por exemplo, a prática é principalmente para ganhar experiência para um avanço mais rápido, a busca da paz é para melhorar o estado mental caso o discípulo fique encantado, o treinamento é para ganhar inspiração para o estudo de manuais, e o jogador também pode escolher Auto para deixar os discípulos internos se ajustarem  seu próprio ritmo de treinamento.  O jogador pode selecionar diferentes modos de treinamento de acordo com as necessidades individuais de cada discípulo interior.</Tasks.41.TipsData.Desc>
+			<Tasks.41.TipsData.Desc>Depois que um discípulo se torna um discípulo interno, haverá mais quatro modos de treinamento, cada um dos quais respondendo às diferentes necessidades dos discípulos internos para sua prática.  Por exemplo, a prática é principalmente para ganhar experiência para um avanço mais rápido, a busca da paz é para melhorar o estado mental caso o discípulo fique encantado, o treinamento é para ganhar inspiração para o estudo de manuais, e o jogador também pode escolher Auto para deixar os discípulos internos se ajustarem  seu próprio ritmo de treinamento.  O jogador pode selecionar diferentes modos de treinamento de acordo com as necessidades individuais de cada discípulo interno.</Tasks.41.TipsData.Desc>
 		</Text>
 		<Text Name="GetJingYuan">
 			<Type>Cultivation</Type>
 			<DisplayName>Energia</DisplayName>
-			<Desc>Learn how to gain and automatically manage stamina in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Aprenda como ganha e gerenciar sua estamina/resistência neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Métodos para ganhar resistência</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verificar resistência</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Coma Pílula de Vigor</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.1>Coma Pílula de stamina</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Verifique a resistência novamente</Chapters.0.Tasks.2>
 			<Chapters.0.Tasks.3>Continue praticando</Chapters.0.Tasks.3>
 			<Chapters.1.DisplayName>Gestão assistida de resistência</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Verifique o consumo automático</Chapters.1.Tasks.0>
-			<Chapters.1.Tasks.1>Verifique os elixires primeiro</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.1>Verifique os elixires</Chapters.1.Tasks.1>
 			<Tasks.1.TaskDesc>Clique e selecione um discípulo interno.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>O jogador pode colocar o cursor na barra de Vigor no Status abaixo para verificar o vigor.  A prática de um discípulo interior precisa custar continuamente vigor, e quando o vigor atinge 0, o discípulo não pode continuar praticando até consumir elixires ou comida para reabastecer o vigor.</Tasks.2.TaskDesc>
+			<Tasks.2.TaskDesc>O jogador pode colocar o cursor na barra de stamina no Status para verificar a stamina.  A prática de um discípulo interno custar continuamente stamina, e quando o stamina atinge 0, o discípulo não pode continuar praticando até consumir elixires ou comida para reabastecer o stamina.</Tasks.2.TaskDesc>
 			<Tasks.4.TaskDesc>O jogador pode colocar o cursor em Stamina Pill para ver seu efeito.</Tasks.4.TaskDesc>
 			<Tasks.5.TaskDesc>Clique em Comer no menu Status do personagem.</Tasks.5.TaskDesc>
 			<Tasks.5.UiData.Name>Eat</Tasks.5.UiData.Name>
-			<Tasks.6.TaskDesc>Clique para selecionar Pílula de Vigor.</Tasks.6.TaskDesc>
+			<Tasks.6.TaskDesc>Clique para selecionar a Pílula de stamina.</Tasks.6.TaskDesc>
 			<Tasks.7.TaskDesc>Clique em 3x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.7.TaskDesc>
 			<Tasks.10.TaskDesc>Espere até que o NPC coma a pílula.</Tasks.10.TaskDesc>
 			<Tasks.12.TaskDesc>Espere até que a resistência seja reabastecida.</Tasks.12.TaskDesc>
 			<Tasks.14.TaskDesc>Verifique a barra de Stamina em Status abaixo.  Agora, a resistência do discípulo foi reabastecida consumindo o elixir.</Tasks.14.TaskDesc>
 			<Tasks.16.TaskDesc>Clique em Praticar no menu Status do personagem.</Tasks.16.TaskDesc>
-			<Tasks.18.TipsData.Desc>Os discípulos internos também podem consumir alimentos e convertê-los em vigor, ou aumentar a taxa de consumo de alimentos e a taxa de ganho de resistência para melhorar ainda mais o efeito de conversão de alimentos em vigor.</Tasks.18.TipsData.Desc>
-			<Tasks.20.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.20.TaskDesc>
+			<Tasks.18.TipsData.Desc>Os discípulos internos também podem consumir alimentos e convertê-los em stamina, ou aumentar a taxa de consumo de alimentos e a taxa de ganho de resistência para melhorar ainda mais o efeito de conversão de alimentos em stamina.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Clique para abrir o menu de leis e cultivo </Tasks.20.TaskDesc>
 			<Tasks.21.TaskDesc>O jogador pode clicar aqui para definir o Auto-comer para que o discípulo coma comida automaticamente para ganhar resistência.</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>O jogador pode clicar aqui para definir Elixirs First para que o discípulo escolha automaticamente comer elixires primeiro para ganhar resistência.</Tasks.23.TaskDesc>
 			<Tasks.25.TipsData.Desc>Existem muitos itens que aumentam a resistência ou a taxa de ganho de resistência, como remédios e tesouros raros, elixires, talismãs, etc.</Tasks.25.TipsData.Desc>
@@ -520,7 +520,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.23.TaskDesc>Clique para selecionar Inedia Pill.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Espere até que o NPC coma a pílula.</Tasks.25.TaskDesc>
 			<Tasks.27.TaskDesc>O jogador pode colocar o cursor na barra Need for Food para ver a mudança.</Tasks.27.TaskDesc>
-			<Tasks.29.TipsData.Desc>A razão para a absorção do Qi é obter energia do ambiente para manter o nível de fome e sede.  Quanto mais eficiente um discípulo absorver o Qi, melhor ele poderá converter comida em vigor.  Quando o consumo de comida e água de um discípulo interno aumenta, a quantidade de energia convertida também aumenta.</Tasks.29.TipsData.Desc>
+			<Tasks.29.TipsData.Desc>A razão para a absorção do Qi é obter energia do ambiente para manter o nível de fome e sede.  Quanto mais eficiente um discípulo absorver o Qi, melhor ele poderá converter comida em stamina.  Quando o consumo de comida e água de um discípulo interno aumenta, a quantidade de energia convertida também aumenta.</Tasks.29.TipsData.Desc>
 		</Text>
 		<Text Name="DProduction">
 			<Type>Cultivation</Type>
@@ -528,7 +528,7 @@ Discípulos Externos</DisplayName>
 			<Desc>Learn how to craft artifacts, concoct elixirs and draw talismans in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Como Preparar Elixires</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Mais Edifícios Obtidos</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Preparar Pílula de Vigor</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.1>Preparar Pílula de stamina</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Use o loop para inventar</Chapters.0.Tasks.2>
 			<Chapters.1.DisplayName>Como criar artefatos</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Artefatos de artesanato</Chapters.1.Tasks.0>
@@ -541,11 +541,11 @@ Discípulos Externos</DisplayName>
 			<Chapters.3.DisplayName>Como cheirar</Chapters.3.DisplayName>
 			<Chapters.3.Tasks.0>Verifique o Qi de um item</Chapters.3.Tasks.0>
 			<Chapters.3.Tasks.1>Itens de cheiro</Chapters.3.Tasks.1>
-			<Tasks.1.TipsData.Desc>Depois que um discípulo se torna um discípulo interior, haverá novas interações esperando para serem ativadas ao construir esses edifícios únicos.</Tasks.1.TipsData.Desc>
+			<Tasks.1.TipsData.Desc>Depois que um discípulo se torna um discípulo interno, haverá novas interações esperando para serem ativadas ao construir esses edifícios únicos.</Tasks.1.TipsData.Desc>
 			<Tasks.3.TaskDesc>Clique e selecione um discípulo interno.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>Clique em Alquimia no menu Status do personagem.</Tasks.4.TaskDesc>
 			<Tasks.4.UiData.Name>Alchemy</Tasks.4.UiData.Name>
-			<Tasks.5.TaskDesc>Clique para selecionar Pílula de Vigor.</Tasks.5.TaskDesc>
+			<Tasks.5.TaskDesc>Clique para selecionar Pílula de stamina.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Clique em Confirmar.</Tasks.6.TaskDesc>
 			<Tasks.7.TaskDesc>Clique para selecionar Fornalha de Alquimia.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Clique para selecionar Fornalha de Alquimia.</Tasks.9.TaskDesc>
@@ -586,7 +586,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.53.TaskDesc>Clique com o botão direito do mouse para cancelar o modo de seleção de destino.</Tasks.53.TaskDesc>
 			<Tasks.55.TaskDesc>Aguarde até que a fundição esteja completa.</Tasks.55.TaskDesc>
 			<Tasks.56.TipsData.Desc>O jogador obteve algumas Pedras Espirituais fundindo lixo agora.</Tasks.56.TipsData.Desc>
-			<Tasks.58.TipsData.Desc>No jogo, vários itens absorvem gradualmente o Qi da natureza.  Um discípulo interior pode fundi-las para obter Pedras Espirituais e dispor de recursos desnecessários.</Tasks.58.TipsData.Desc>
+			<Tasks.58.TipsData.Desc>No jogo, vários itens absorvem gradualmente o Qi da natureza.  Um discípulo interno pode fundi-las para obter Pedras Espirituais e dispor de recursos desnecessários.</Tasks.58.TipsData.Desc>
 		</Text>
 		<Text Name="LookPractice">
 			<Type>Cultivation</Type>
@@ -610,8 +610,8 @@ Discípulos Externos</DisplayName>
 			<Tasks.10.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Qi Density no menu Practice.  Um discípulo treinará mais rápido em um ambiente com maior densidade de Qi.</Tasks.10.TaskDesc>
 			<Tasks.12.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Coziness no menu Practice.  Prédios aconchegantes geralmente incluem camas, almofadas, tronos, Altar da Magia, etc.</Tasks.12.TaskDesc>
 			<Tasks.14.TaskDesc>O jogador pode colocar o cursor para ver as informações da Temporada no menu de Prática.  As estações têm efeitos de bônus diferentes para os discípulos, dependendo dos atributos elementais de suas Leis, por isso é importante escolher uma estação adequada para cultivo e avanço.</Tasks.14.TaskDesc>
-			<Tasks.16.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre o Humor no menu Prática.  O humor de um discípulo interior afeta até certo ponto o cultivo, e um discípulo com um humor melhor muitas vezes treinará com mais eficiência.</Tasks.16.TaskDesc>
-			<Tasks.18.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Estado Mental no menu Prática.  O estado mental de um discípulo interior afeta o cultivo, e um discípulo em um estado mental instável pode ficar encantado.  É importante manter um estado mental estável durante o cultivo.</Tasks.18.TaskDesc>
+			<Tasks.16.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre o Humor no menu Prática.  O humor de um discípulo interno afeta até certo ponto o cultivo, e um discípulo com um humor melhor muitas vezes treinará com mais eficiência.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Estado Mental no menu Prática.  O estado mental de um discípulo interno afeta o cultivo, e um discípulo em um estado mental instável pode ficar encantado.  É importante manter um estado mental estável durante o cultivo.</Tasks.18.TaskDesc>
 			<Tasks.20.TipsData.Desc>Above are the main factors that affect an inner disciple's cultivation speed. Not only do they influence the cultivation speed, but they sometimes affect the other aspects such as breakthrough and gaining inspiration. The player needs to explore more of the contents to train better inner disciples.</Tasks.20.TipsData.Desc>
 		</Text>
 		<Text Name="LingQi">
@@ -730,12 +730,12 @@ Discípulos Externos</DisplayName>
 			<Tasks.3.TaskDesc>Clique em Humor e Social no lado direito do menu Status do personagem.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>O jogador pode verificar a barra de humor no menu de status para saber o humor do discípulo, que é afetado principalmente por diferentes humores na página de humor.</Tasks.4.TaskDesc>
 			<Tasks.6.TaskDesc>Clique em Law &amp; Cultivation no lado direito do menu Status do personagem.</Tasks.6.TaskDesc>
-			<Tasks.7.TipsData.Desc>O estado mental de um discípulo interior é suscetível a mudanças de humor.</Tasks.7.TipsData.Desc>
+			<Tasks.7.TipsData.Desc>O estado mental de um discípulo interno é suscetível a mudanças de humor.</Tasks.7.TipsData.Desc>
 			<Tasks.8.TaskDesc>Clique para fechar o menu Lei e Cultivo.</Tasks.8.TaskDesc>
 			<Tasks.10.TipsData.Desc>O estado mental de um discípulo interno afeta não apenas a eficiência de seu cultivo, mas também a taxa de sucesso de seu avanço, fabricação de elixir e fabricação de artefatos.  Geralmente, um estado mental estável beneficia o cultivo.  Mudanças de humor afetam muito o estado mental, pois ele se deteriorará mais rapidamente e se recuperará mais lentamente quando o humor estiver muito baixo, e quando o estado mental estiver muito baixo, o discípulo pode ficar fascinado e perder o controle.</Tasks.10.TipsData.Desc>
 			<Tasks.12.TaskDesc>Clique em Buscar Paz no menu Status do personagem.</Tasks.12.TaskDesc>
 			<Tasks.15.TaskDesc>Clique em 3x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.15.TaskDesc>
-			<Tasks.17.TaskDesc>Espere até que o discípulo interior comece a buscar a paz.</Tasks.17.TaskDesc>
+			<Tasks.17.TaskDesc>Espere até que o discípulo interno comece a buscar a paz.</Tasks.17.TaskDesc>
 			<Tasks.20.TaskDesc>Este discípulo restaurou um pequeno estado mental depois de buscar a paz.</Tasks.20.TaskDesc>
 			<Tasks.22.TipsData.Desc>Levará algum tempo para recuperar o estado mental de um discípulo buscando a paz, então quando é uma emergência, outros métodos precisam ser aplicados para restaurar o estado mental.</Tasks.22.TipsData.Desc>
 			<Tasks.24.TaskDesc>O jogador pode ler as instruções da Purity Leaf para saber seu efeito.</Tasks.24.TaskDesc>
@@ -767,7 +767,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.4.TaskDesc>Clique em Law &amp; Cultivation no lado direito do menu Status do personagem.</Tasks.4.TaskDesc>
 			<Tasks.5.TipsData.Desc>O jogador pode verificar as informações sobre o limite atual do discípulo.</Tasks.5.TipsData.Desc>
 			<Tasks.6.TaskDesc>Clique para fechar o menu Lei e Cultivo.</Tasks.6.TaskDesc>
-			<Tasks.8.TipsData.Desc>Quando a prática de um discípulo interior atinge um limite no estado atual, ele só pode começar a próxima fase após uma descoberta bem-sucedida, por isso é especialmente importante conhecer os métodos para a descoberta.  Há muitas maneiras de romper um limite, por exemplo, confiando no meio ambiente e no acaso, indo em aventuras, revivendo a vida de um discípulo externo, sobrevivendo a uma tribulação de trovão, etc. Este tutorial ensina como confiar no meio ambiente e no acaso.</Tasks.8.TipsData.Desc>
+			<Tasks.8.TipsData.Desc>Quando a prática de um discípulo interno atinge um limite no estado atual, ele só pode começar a próxima fase após uma descoberta bem-sucedida, por isso é especialmente importante conhecer os métodos para a descoberta.  Há muitas maneiras de romper um limite, por exemplo, confiando no meio ambiente e no acaso, indo em aventuras, revivendo a vida de um discípulo externo, sobrevivendo a uma tribulação de trovão, etc. Este tutorial ensina como confiar no meio ambiente e no acaso.</Tasks.8.TipsData.Desc>
 			<Tasks.10.TaskDesc>Clique em Breakthrough no menu Status do personagem.</Tasks.10.TaskDesc>
 			<Tasks.10.UiData.Name>Breakthrough</Tasks.10.UiData.Name>
 			<Tasks.11.TipsData.Desc>Custo do recurso à direita indica que o avanço custará uma quantidade de recursos como Qi, vida útil, itens e experiência.  Se os requisitos não forem atendidos, o jogador não poderá selecionar um local para o avanço.</Tasks.11.TipsData.Desc>
@@ -1046,7 +1046,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.40.TaskDesc>Coloque-o no local designado na planta.</Tasks.40.TaskDesc>
 			<Tasks.41.TaskDesc>Clique em Incensário.</Tasks.41.TaskDesc>
 			<Tasks.42.TaskDesc>Coloque-o no local designado na planta.</Tasks.42.TaskDesc>
-			<Tasks.44.TipsData.Desc>O edifício principal do Feng Shui no quarto de um discípulo interno é geralmente a cama, almofada, trono, etc. Os quartos que contêm esses edifícios do Feng Shui são geralmente quartos que devem estar voltados para o sul.  A chave para planejar a sala de um discípulo interior é usar decorações dos elementos que geram a Lei do discípulo.  Uma lâmpada a óleo do elemento Terra gera a Lei do Metal de um discípulo, então use materiais metálicos para construir o local de treinamento.  (Este tutorial usa cama como exemplo)</Tasks.44.TipsData.Desc>
+			<Tasks.44.TipsData.Desc>O edifício principal do Feng Shui no quarto de um discípulo interno é geralmente a cama, almofada, trono, etc. Os quartos que contêm esses edifícios do Feng Shui são geralmente quartos que devem estar voltados para o sul.  A chave para planejar a sala de um discípulo interno é usar decorações dos elementos que geram a Lei do discípulo.  Uma lâmpada a óleo do elemento Terra gera a Lei do Metal de um discípulo, então use materiais metálicos para construir o local de treinamento.  (Este tutorial usa cama como exemplo)</Tasks.44.TipsData.Desc>
 		</Text>
 		<Text Name="WalkStop">
 			<Type>Development</Type>
@@ -1499,7 +1499,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.1.TaskDesc>Clique no botão Seita à direita.</Tasks.1.TaskDesc>
 			<Tasks.2.TaskDesc>No jogo, mais reputação convidará inimigos mais fortes a atacar, então o jogador precisa utilizar os itens do jogo para diminuir a reputação obtida.</Tasks.2.TaskDesc>
 			<Tasks.3.TaskDesc>Clique para fechar o menu Seita.</Tasks.3.TaskDesc>
-			<Tasks.5.TaskDesc>O jogador pode obter o Talismã da Invisibilidade desenhando.  Quando um discípulo interior se aventura com um Talismã da Invisibilidade ativado, ele pode efetivamente diminuir a reputação obtida.</Tasks.5.TaskDesc>
+			<Tasks.5.TaskDesc>O jogador pode obter o Talismã da Invisibilidade desenhando.  Quando um discípulo interno se aventura com um Talismã da Invisibilidade ativado, ele pode efetivamente diminuir a reputação obtida.</Tasks.5.TaskDesc>
 			<Tasks.7.TaskDesc>Clique e selecione um discípulo.</Tasks.7.TaskDesc>
 			<Tasks.8.TaskDesc>Clique em Equipar item.</Tasks.8.TaskDesc>
 			<Tasks.8.UiData.Name>Equip</Tasks.8.UiData.Name>
