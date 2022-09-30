@@ -490,36 +490,36 @@ Discípulos Externos</DisplayName>
 		</Text>
 		<Text Name="FuQi">
 			<Type>Cultivation</Type>
-			<DisplayName>Qi Absorption &amp; Fasting</DisplayName>
-			<Desc>Learn the meaning of Qi absorption and fasting and the different between the two in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<DisplayName>Absorção de Qi e Jejum</DisplayName>
+			<Desc>Aprenda o significado de absorção de Qi e jejum e a diferença entre os dois neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>O que é Jejum</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique a pílula de jejum</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Verifique a necessidade de alimentos</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Use pílula de jejum</Chapters.0.Tasks.2>
 			<Chapters.0.Tasks.3>Verifique novamente a necessidade de alimentos</Chapters.0.Tasks.3>
 			<Chapters.1.DisplayName>O que é Absorção de Qi</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Verifique a pílula Inedia</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.0>Verifique a Inedia Pill</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Verifique a barra de absorção de Qi</Chapters.1.Tasks.1>
-			<Chapters.1.Tasks.2>Use pílula de Índia</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.2>Use Inedia Pill</Chapters.1.Tasks.2>
 			<Chapters.1.Tasks.3>Verifique a barra de absorção de Qi novamente</Chapters.1.Tasks.3>
 			<Tasks.1.TaskDesc>O jogador pode colocar o cursor na pílula de jejum para ver a instrução.</Tasks.1.TaskDesc>
 			<Tasks.3.TaskDesc>Clique e selecione um discípulo interno.</Tasks.3.TaskDesc>
-			<Tasks.4.TaskDesc>O jogador pode colocar o cursor na barra Need for Food para verificar a necessidade.</Tasks.4.TaskDesc>
+			<Tasks.4.TaskDesc>O jogador pode colocar o cursor na barra para verificar suas necessidades.</Tasks.4.TaskDesc>
 			<Tasks.6.TaskDesc>Clique em Comer no menu Status do personagem.</Tasks.6.TaskDesc>
 			<Tasks.6.UiData.Name>Eat</Tasks.6.UiData.Name>
 			<Tasks.7.TaskDesc>Clique para selecionar Pílula de Jejum.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.9.TaskDesc>
-			<Tasks.11.TaskDesc>Espere até que o NPC coma a pílula.</Tasks.11.TaskDesc>
-			<Tasks.13.TaskDesc>O jogador pode colocar o cursor na barra Need for Food para ver a mudança.</Tasks.13.TaskDesc>
-			<Tasks.15.TipsData.Desc>A razão para jejuar no jogo é reduzir o consumo de comida e água dos discípulos para diminuir sua necessidade de comida e bebida e, portanto, o custo dos recursos, mas reduzir a necessidade de comida e água de um discípulo interno reduzirá a quantidade de resistência convertida de  Comida.</Tasks.15.TipsData.Desc>
+			<Tasks.11.TaskDesc>Espere até que o discípulo coma a pílula.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>O jogador pode colocar o cursor na barra para verificar suas mudanças.</Tasks.13.TaskDesc>
+			<Tasks.15.TipsData.Desc>A razão para a existência do jejuar no jogo, é reduzir o consumo de comida e água dos discípulos para diminuir sua necessidade de comida e bebida e, portanto, o custo dos recursos, mas reduzir a necessidade de comida e água de um discípulo interno reduzirá a quantidade de resistência convertida de Comida.</Tasks.15.TipsData.Desc>
 			<Tasks.17.TaskDesc>O jogador pode colocar o cursor em Inedia Pill para ver a instrução.</Tasks.17.TaskDesc>
 			<Tasks.19.TaskDesc>Clique e selecione um discípulo interno.</Tasks.19.TaskDesc>
-			<Tasks.20.TaskDesc>O jogador pode colocar o cursor na barra Need for Food para verificar a necessidade.</Tasks.20.TaskDesc>
+			<Tasks.20.TaskDesc>O jogador pode colocar o cursor na barra para verificar suas necessidades.</Tasks.20.TaskDesc>
 			<Tasks.22.TaskDesc>Clique em Comer no menu Status do personagem.</Tasks.22.TaskDesc>
 			<Tasks.22.UiData.Name>Eat</Tasks.22.UiData.Name>
 			<Tasks.23.TaskDesc>Clique para selecionar Inedia Pill.</Tasks.23.TaskDesc>
-			<Tasks.25.TaskDesc>Espere até que o NPC coma a pílula.</Tasks.25.TaskDesc>
-			<Tasks.27.TaskDesc>O jogador pode colocar o cursor na barra Need for Food para ver a mudança.</Tasks.27.TaskDesc>
+			<Tasks.25.TaskDesc>Espere até que o discípulo coma a pílula.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>O jogador pode colocar o cursor na barra para verificar suas mudanças.</Tasks.27.TaskDesc>
 			<Tasks.29.TipsData.Desc>A razão para a absorção do Qi é obter energia do ambiente para manter o nível de fome e sede.  Quanto mais eficiente um discípulo absorver o Qi, melhor ele poderá converter comida em stamina.  Quando o consumo de comida e água de um discípulo interno aumenta, a quantidade de energia convertida também aumenta.</Tasks.29.TipsData.Desc>
 		</Text>
 		<Text Name="DProduction">
