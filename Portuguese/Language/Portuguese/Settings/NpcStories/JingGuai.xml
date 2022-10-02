@@ -1,190 +1,190 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="JGTest">
-			<Events.0.Story>While idling, [name] started to fantasize about becoming human in its mind.</Events.0.Story>
-			<Events.1.Story>While idling, [name]'s mind started drifting toward the good old times with its master.</Events.1.Story>
+			<Events.0.Story>Enquanto estava ocioso, [name] começou a fantasiar sobre se tornar humano em sua mente.</Events.0.Story>
+			<Events.1.Story>Enquanto estava ocioso, a mente de [name] começou a vagar em direção aos bons velhos tempos com seu mestre.</Events.1.Story>
 		</Text>
 		<Text Name="JGTunShi">
-			<Events.0.Story>Good heavens, it's super delicious! I want to have another pound.</Events.0.Story>
-			<Events.1.Story>Just a bit more, please, I swear I'll lose weight after this.</Events.1.Story>
-			<Events.2.Story>While swallowing items, [name] thought of Sentient Spirit [obj_tongling] all of a sudden, wondering whether it had tried these delicacies or not.</Events.2.Story>
-			<Events.3.Story>Cozy! Comfy!</Events.3.Story>
-			<Events.4.Story>Yummy!</Events.4.Story>
-			<Events.5.Story>Ayy yo this lil stuff taste real good.</Events.5.Story>
-			<Events.6.Story>More!</Events.6.Story>
-			<Events.7.Story>Tasty as hell.</Events.7.Story>
-			<Events.8.Story>This is it!</Events.8.Story>
+			<Events.0.Story>Meu Deus, é super delicioso! Eu quero ter outra libra.</Events.0.Story>
+			<Events.1.Story>Só mais um pouco, por favor, juro que vou perder peso depois disso.</Events.1.Story>
+			<Events.2.Story>Enquanto engolia itens, [name] pensou no Sentient Spirit [obj_tongling] de repente, imaginando se ele havia experimentado essas iguarias ou não.</Events.2.Story>
+			<Events.3.Story>Aconchegante! Confortável!</Events.3.Story>
+			<Events.4.Story>Gostoso!</Events.4.Story>
+			<Events.5.Story>Sim, essas coisas pequenas têm um gosto muito bom.</Events.5.Story>
+			<Events.6.Story>Mais!</Events.6.Story>
+			<Events.7.Story>Saboroso pra caramba.</Events.7.Story>
+			<Events.8.Story>É isso aí!</Events.8.Story>
 		</Text>
 		<Text Name="JGTalkDay">
-			<Events.0.Story>While idling, [name] started to fantasize about becoming human in its mind.</Events.0.Story>
-			<Events.1.Story>[name] was caught in a trance for some reason.</Events.1.Story>
-			<Events.2.Story>[name] looked at its kinships living in ignorance, and suddenly felt it's so lucky.</Events.2.Story>
-			<Events.3.Story>[name] [rand_string=made a sudden sneezing sound,made a sudden hiccup,made a sudden yawning sound,started mumbling by itself,suddenly felt a bit itchy,suddenly felt a bit bored,sighed,made a sudden smacking sound,made a sudden licking sound,shook the dust off its body,started humming,wanted to talk to people,wanted to try writing poetry].</Events.3.Story>
-			<Events.4.Story>[name] seemed to have heard someone calling its name.</Events.4.Story>
-			<Events.5.Story>[name] really likes [rand_lable=obj_weather].</Events.5.Story>
-			<Events.6.Story>[name] stared at the nearby [rand_lable=obj_friend,obj_nearthing], [rand_string=zoning out,giggling,pondering on something].</Events.6.Story>
-			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is suddenly feeling homesick.</Events.7.Story>
-			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the [obj_nearthing] nearby...</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food].</Events.9.Story>
-			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. suddenly a great many thoughts and feelings began filling [name]'s mind.</Events.10.Story>
-			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started crying.</Events.11.Story>
-			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt inexplicably irritated with something.</Events.12.Story>
-			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.13.Story>
-			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking about the sunset.</Events.14.Story>
-			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt inexplicably irritated with something.</Events.15.Story>
-			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breathe.</Events.16.Story>
-			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the incentive to try riding [obj_fabao], just to get a feel.</Events.17.Story>
-			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] all of a sudden, just to get a taste.</Events.18.Story>
-			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to pick a fight with someone.</Events.19.Story>
-			<Events.20.Story>Look at me, look at me, look at me!</Events.20.Story>
-			<Events.21.Story>Come here, come here, come here!</Events.21.Story>
-			<Events.22.Story>You! Come over and talk to me.</Events.22.Story>
-			<Events.23.Story>It's so annoying that you guys keep walking around.</Events.23.Story>
-			<Events.24.Story>Would I be as busy as you guys when I became a human?</Events.24.Story>
-			<Events.25.Story>Waddaya lookin' at?</Events.25.Story>
-			<Events.26.Story>What?</Events.26.Story>
-			<Events.27.Story>Wouldn't you guys get dry eyes running around like that?</Events.27.Story>
+			<Events.0.Story>Enquanto estava ocioso, [name] começou a fantasiar sobre se tornar humano em sua mente.</Events.0.Story>
+			<Events.1.Story>[name] foi pego em transe por algum motivo.</Events.1.Story>
+			<Events.2.Story>[name] olhou para seus parentes vivendo na ignorância e, de repente, sentiu que tinha muita sorte.</Events.2.Story>
+			<Events.3.Story>[name] [rand_string=fez um espirro repentino, soltou um soluço repentino, fez um som repentino de bocejo, começou a resmungar sozinho, de repente sentiu um pouco de coceira, de repente sentiu um pouco de tédio, suspirou, fez um súbito som de estalo, fez um súbito som de lambida, sacudiu a poeira de seu corpo, começou a cantarolar, queria falar com as pessoas, queria tentar escrever poesia].</Events.3.Story>
+			<Events.4.Story>[name] parecia ter ouvido alguém chamando seu nome.</Events.4.Story>
+			<Events.5.Story>[name] gosta muito de [rand_lable=obj_weather].</Events.5.Story>
+			<Events.6.Story>[name] olhou para o [rand_lable=obj_friend,obj_nearthing] próximo, [rand_string=zoning out,gggling,pondering on something].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente está com saudades de casa.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se interessou pelo [obj_nearthing] nas proximidades...</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria comer [obj_food].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. de repente, muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a chorar.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar no pôr do sol.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu dificuldade para respirar.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o incentivo de tentar montar [obj_fabao], só para ter uma ideia.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] não sabia por que, mas realmente queria comer um [obj_dan] de repente, só para provar.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria brigar com alguém.</Events.19.Story>
+			<Events.20.Story>Olhe para mim, olhe para mim, olhe para mim!</Events.20.Story>
+			<Events.21.Story>Venha aqui, venha aqui, venha aqui!</Events.21.Story>
+			<Events.22.Story>Você! Venha falar comigo.</Events.22.Story>
+			<Events.23.Story>É tão chato que vocês continuem andando por aí.</Events.23.Story>
+			<Events.24.Story>Eu estaria tão ocupado quanto vocês quando me tornasse humano?</Events.24.Story>
+			<Events.25.Story>Wadday está olhando?</Events.25.Story>
+			<Events.26.Story>O quê?</Events.26.Story>
+			<Events.27.Story>Vocês não ficariam com os olhos secos correndo assim?</Events.27.Story>
 		</Text>
 		<Text Name="JGTalkNight">
-			<Events.0.Story>While idling, [name] started to fantasize about becoming human in its mind.</Events.0.Story>
-			<Events.1.Story>[name] was caught in a trance for some reason.</Events.1.Story>
-			<Events.2.Story>[name] looked at its kinships living in ignorance, and suddenly felt it's so lucky.</Events.2.Story>
-			<Events.3.Story>[name] [rand_string=made a sudden sneezing sound,made a sudden hiccup,made a sudden yawning sound,started mumbling by itself,suddenly felt a bit itchy,suddenly felt a bit bored,sighed,made a sudden smacking sound,made a sudden licking sound,shook the dust off its body,started humming,wanted to talk to people,wanted to try writing poetry].</Events.3.Story>
-			<Events.4.Story>[name] seemed to have heard someone calling its name.</Events.4.Story>
-			<Events.5.Story>[name] really likes [rand_lable=obj_weather].</Events.5.Story>
-			<Events.6.Story>[name] stared at the nearby [rand_lable=obj_friend,obj_nearthing], [rand_string=zoning out,giggling,pondering on something].</Events.6.Story>
-			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] is suddenly feeling homesick.</Events.7.Story>
-			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly took an interest in the [obj_nearthing] nearby...</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to eat [obj_food].</Events.9.Story>
-			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. suddenly a great many thoughts and feelings began filling [name]'s mind.</Events.10.Story>
-			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started crying.</Events.11.Story>
-			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt inexplicably irritated with something.</Events.12.Story>
-			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.13.Story>
-			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly started thinking about the sunset.</Events.14.Story>
-			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt inexplicably irritated with something.</Events.15.Story>
-			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt difficult to breathe.</Events.16.Story>
-			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly felt the incentive to try riding [obj_fabao], just to get a feel.</Events.17.Story>
-			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] didn't know why but really wanted to eat a [obj_dan] all of a sudden, just to get a taste.</Events.18.Story>
-			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] suddenly wanted to pick a fight with someone.</Events.19.Story>
-			<Events.20.Story>Why are y'all lying down, get up and have some fun!</Events.20.Story>
+			<Events.0.Story>Enquanto estava ocioso, [name] começou a fantasiar sobre se tornar humano em sua mente.</Events.0.Story>
+			<Events.1.Story>[name] foi pego em transe por algum motivo.</Events.1.Story>
+			<Events.2.Story>[name] olhou para seus parentes vivendo na ignorância e, de repente, sentiu que tinha muita sorte.</Events.2.Story>
+			<Events.3.Story>[name] [rand_string=fez um espirro repentino, soltou um soluço repentino, fez um som repentino de bocejo, começou a resmungar sozinho, de repente sentiu um pouco de coceira, de repente sentiu um pouco de tédio, suspirou, fez um súbito som de estalo, fez um súbito som de lambida, sacudiu a poeira de seu corpo, começou a cantarolar, queria falar com as pessoas, queria tentar escrever poesia].</Events.3.Story>
+			<Events.4.Story>[name] parecia ter ouvido alguém chamando seu nome.</Events.4.Story>
+			<Events.5.Story>[name] gosta muito de [rand_lable=obj_weather].</Events.5.Story>
+			<Events.6.Story>[name] olhou para o [rand_lable=obj_friend,obj_nearthing] próximo, [rand_string=zoning out,gggling,pondering on something].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente está com saudades de casa.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se interessou pelo [obj_nearthing] nas proximidades...</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria comer [obj_food].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. de repente, muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a chorar.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar no pôr do sol.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu dificuldade para respirar.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o incentivo de tentar montar [obj_fabao], só para ter uma ideia.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] não sabia por que, mas realmente queria comer um [obj_dan] de repente, só para provar.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria brigar com alguém.</Events.19.Story>
+			<Events.20.Story>Por que vocês estão deitados, levantem-se e divirtam-se!</Events.20.Story>
 			<Events.21.Story>La la la la la la~</Events.21.Story>
-			<Events.22.Story>Who––was––woken––up––already? ––was––woken––up––already? ––woken––up––already? ––up––already? ––already? S–o–r–r–y––oh––s–o–r–r–y––</Events.22.Story>
-			<Events.23.Story>Zzzzzz––I was asleep––––––nope just kidding!</Events.23.Story>
-			<Events.24.Story>Dee dee dee dee dee~</Events.24.Story>
-			<Events.25.Story>Da da da da da~</Events.25.Story>
-			<Events.26.Story>I heard Sentient Spirits often crawl onto your bed in the middle of the night...</Events.26.Story>
-			<Events.27.Story>Aaaaaaaaaaah I'm so miserable––––––––––so much MUD in my N–A–I–L–S––––––––</Events.27.Story>
+			<Events.22.Story>Quem––foi––acordado––acordado––já? ––estava––acordado––acordado––já? ––acordado––acordado––já? ––up––já? --já? D-e-s-c-u-l-p-e––oh––D-e-s-c-u-l-p-e––</Events.22.Story>
+			<Events.23.Story>Zzzzzz––eu estava dormindo––––––não estou brincando!</Events.23.Story>
+			<Events.24.Story>Dee dee dee dee~</Events.24.Story>
+			<Events.25.Story>Da da da da~</Events.25.Story>
+			<Events.26.Story>Ouvi dizer que espíritos sencientes costumam rastejar para sua cama no meio da noite...</Events.26.Story>
+			<Events.27.Story>Aaaaaaaaaaah estou tão miserável––––––––––tanta lama na minha U–N–H–A–S–––––––––</Events.27.Story>
 		</Text>
 		<Text Name="JGTalkNoMove">
-			<Events.0.Story>When can I move? I'm so bored staying in here!</Events.0.Story>
-			<Events.1.Story>Hello? Hello? Anybody! Get your hands off me!</Events.1.Story>
-			<Events.2.Story>My soul has withered, I really want to go out for a walk...</Events.2.Story>
-			<Events.3.Story>Anybody–out–here––I–am–so–bored––</Events.3.Story>
-			<Events.4.Story>Hmph, even if you untie me now, I don't want to move anymore.</Events.4.Story>
-			<Events.5.Story>The sun is blinking and the birds are singing, I'm a cute little monster who wants to start moving~</Events.5.Story>
-			<Events.6.Story>Let go of me, I know you're watching!</Events.6.Story>
-			<Events.7.Story>I'm gonna put Dragon Feces in your tea!</Events.7.Story>
-			<Events.8.Story>How I wish to become human~How I wish to travel everywhere~</Events.8.Story>
-			<Events.9.Story>What is this Igneocopper room that you guys keep talking about?</Events.9.Story>
-			<Events.10.Story>Am I going to just rot in here?</Events.10.Story>
-			<Events.11.Story>Boo hoo~I surrender, I promise I won't run off again.</Events.11.Story>
-			<Events.12.Story>Let–me–out–––</Events.12.Story>
-			<Events.13.Story>Actually I'm not a Sentient Spirit, I'm an old grandpa who was sealed within it. Let me go and I'll teach you a super invincible skill.</Events.13.Story>
-			<Events.14.Story>Doh doh doh doh doh~</Events.14.Story>
-			<Events.15.Story>Dee dee dee dee dee~</Events.15.Story>
-			<Events.16.Story>Da da da da da~</Events.16.Story>
-			<Events.17.Story>I have come to realize one thing in the past few days––that Sentient Spirits probably shouldn't be running around like that.</Events.17.Story>
-			<Events.18.Story>Owooooo––I'm a big bad wolf––</Events.18.Story>
-			<Events.19.Story>Hands off me! I'm gonna turn, I'm gonna turn?</Events.19.Story>
-			<Events.20.Story>Please, let me go!</Events.20.Story>
-			<Events.21.Story>The most important thing being a demon is to be happy yo.</Events.21.Story>
-			<Events.22.Story>Tell you a way that can make me shut up: there ain't. Heh heh heh heh</Events.22.Story>
-			<Events.23.Story>I keep running about thinking away.</Events.23.Story>
-			<Events.24.Story>Come back to see me in two days, and I'll tell you a secret.</Events.24.Story>
-			<Events.25.Story>Am I crazy?</Events.25.Story>
-			<Events.26.Story>I'll tell you a secret....which is, I have no secrets.</Events.26.Story>
-			<Events.27.Story>I had no choice before, but now imma be a good lad.</Events.27.Story>
-			<Events.28.Story>Can't move, my head hurts.</Events.28.Story>
-			<Events.29.Story>Ya ever had hot pot? It tastes real good.</Events.29.Story>
-			<Events.30.Story>Three days later comes another three days, then another three days, over and over.</Events.30.Story>
+			<Events.0.Story>Quando posso me mudar? Estou tão entediado de ficar aqui!</Events.0.Story>
+			<Events.1.Story>Olá? Olá? Qualquer pessoa! Tire suas mãos de mim!</Events.1.Story>
+			<Events.2.Story>Minha alma murchou, eu realmente quero sair para passear...</Events.2.Story>
+			<Events.3.Story>Alguém–fora–aqui––eu–estou–tão–entediado––</Events.3.Story>
+			<Events.4.Story>Hmph, mesmo que você me desamarre agora, não quero mais me mexer.</Events.4.Story>
+			<Events.5.Story>O sol está piscando e os pássaros estão cantando, eu sou um monstrinho fofo que quer começar a se mover~</Events.5.Story>
+			<Events.6.Story>Me solte, eu sei que você está assistindo!</Events.6.Story>
+			<Events.7.Story>Vou colocar fezes de dragão no seu chá!</Events.7.Story>
+			<Events.8.Story>Como desejo me tornar humano~Como desejo viajar para todos os lugares~</Events.8.Story>
+			<Events.9.Story>O que é essa sala de Igneocopper que vocês falam?</Events.9.Story>
+			<Events.10.Story>Vou apodrecer aqui?</Events.10.Story>
+			<Events.11.Story>Boo hoo~Eu me rendo, prometo que não vou fugir novamente.</Events.11.Story>
+			<Events.12.Story>Deixe–me–sair–––</Events.12.Story>
+			<Events.13.Story>Na verdade eu não sou um Espírito Sentiente, sou um velho vovô que foi selado dentro dele. Deixe-me ir e eu vou te ensinar uma habilidade super invencível.</Events.13.Story>
+			<Events.14.Story>Doh doh doh doh~</Events.14.Story>
+			<Events.15.Story>Dee dee dee dee~</Events.15.Story>
+			<Events.16.Story>Da da da da~</Events.16.Story>
+			<Events.17.Story>Eu percebi uma coisa nos últimos dias––que os Espíritos Sencientes provavelmente não deveriam estar correndo assim.</Events.17.Story>
+			<Events.18.Story>Owooooo––Eu sou um lobo mau––</Events.18.Story>
+			<Events.19.Story> Tire as mãos de mim! Vou virar, vou virar?</Events.19.Story>
+			<Events.20.Story>Por favor, deixe-me ir!</Events.20.Story>
+			<Events.21.Story>A coisa mais importante para ser um demônio é ser feliz.</Events.21.Story>
+			<Events.22.Story>Te digo uma maneira que pode me fazer calar a boca: não há. Heh heh heh heh</Events.22.Story>
+			<Events.23.Story>Continuo a pensar sem parar.</Events.23.Story>
+			<Events.24.Story>Volte para me ver em dois dias, e eu vou te contar um segredo.</Events.24.Story>
+			<Events.25.Story>Estou louco?</Events.25.Story>
+			<Events.26.Story>Vou te contar um segredo... que é, não tenho segredos.</Events.26.Story>
+			<Events.27.Story>Eu não tinha escolha antes, mas agora vou ser um bom rapaz.</Events.27.Story>
+			<Events.28.Story>Não consigo me mexer, minha cabeça dói.</Events.28.Story>
+			<Events.29.Story>Você já comeu panela quente? O gosto é muito bom.</Events.29.Story>
+			<Events.30.Story>Três dias depois vem outros três dias, depois mais três dias, repetidamente.</Events.30.Story>
 		</Text>
 		<Text Name="JGEqupt">
-			<Events.0.Story>No...don't equip me, I want to chill out for a bit longer...</Events.0.Story>
-			<Events.1.Story>You only think of me when you have uses for me?</Events.1.Story>
-			<Events.2.Story>What are you going to do with me again! Can you leave me alone for a moment, please!</Events.2.Story>
-			<Events.3.Story>Wow you still remember me? I'm bored as hell...!!</Events.3.Story>
-			<Events.4.Story>Do you stink?</Events.4.Story>
-			<Events.5.Story>Why bring me with you? Going out? Getting into a fight? Gonna be dropped somewhere else?</Events.5.Story>
-			<Events.6.Story>With all due respect, with your current strength, bringing me wouldn't make much of a difference.</Events.6.Story>
-			<Events.7.Story>Oops, oops, someone's gonna equip me.</Events.7.Story>
+			<Events.0.Story>Não... não me equipe, quero relaxar um pouco mais...</Events.0.Story>
+			<Events.1.Story>Você só pensa em mim quando tem utilidades para mim?</Events.1.Story>
+			<Events.2.Story>O que você vai fazer comigo de novo! Você pode me deixar em paz por um momento, por favor!</Events.2.Story>
+			<Events.3.Story> Uau, você ainda se lembra de mim? Estou entediado pra caramba...!!</Events.3.Story>
+			<Events.4.Story>Você fede?</Events.4.Story>
+			<Events.5.Story>Por que me trazer com você? Saindo? Entrar em uma briga? Vai cair em outro lugar?</Events.5.Story>
+			<Events.6.Story>Com todo o respeito, com sua força atual, me trazer não faria muita diferença.</Events.6.Story>
+			<Events.7.Story>Opa, opa, alguém vai me equipar.</Events.7.Story>
 		</Text>
 		<Text Name="JGEqupted">
-			<Events.0.Story>[hename], how can you sweat so much? It's disgusting!</Events.0.Story>
-			<Events.1.Story>[hename], talk to me more, don't just be quiet!</Events.1.Story>
-			<Events.2.Story>[hename], can you do this or not? The previous owner is so much better than you!</Events.2.Story>
-			<Events.3.Story>[hename], can't you keep it steady? The bouncing is killing me.</Events.3.Story>
-			<Events.4.Story>[hename], it's too crowded here in your inventory. Get rid of this guy next to me!</Events.4.Story>
-			<Events.5.Story>[hename], I'll tell you a secret. I'm actually an old grandpa who was sealed inside. Let me go and I'll teach you a super invincible skill.</Events.5.Story>
-			<Events.6.Story>Aaaaah, [hename], look that thing, it's alive! Aaaaaaaah! Why am I alive too!</Events.6.Story>
-			<Events.7.Story>[hename], look up! There's something in the sky!</Events.7.Story>
-			<Events.8.Story>I heard that there is a kind of thing called mount that carries people on their backs. [hename], are you my mount?</Events.8.Story>
-			<Events.9.Story>[hename], help! I can't breathe!! Oh wait, I don't need to breathe.</Events.9.Story>
-			<Events.10.Story>[hename], how about I give you some advice, and you help me reshape?</Events.10.Story>
-			<Events.12.Story>[hename], you must work hard in your cultivation training, I don't want to lose to the pants next door.</Events.12.Story>
-			<Events.13.Story>[hename], think for yourself, why could others do it and why can't you?</Events.13.Story>
-			<Events.14.Story>Doh doh doh doh doh~</Events.14.Story>
-			<Events.15.Story>Dee dee dee dee dee~</Events.15.Story>
-			<Events.16.Story>Da da da da da~</Events.16.Story>
-			<Events.17.Story>[hename], what do you think of the idea of putting me in a warehouse full of treasures?</Events.17.Story>
-			<Events.18.Story>[hename], you are such a noob.</Events.18.Story>
+			<Events.0.Story>[hename], como você pode suar tanto? É nojento!</Events.0.Story>
+			<Events.1.Story>[hename], fale mais comigo, não fique quieto!</Events.1.Story>
+			<Events.2.Story>[hename], você pode fazer isso ou não? O proprietário anterior é muito melhor que você!</Events.2.Story>
+			<Events.3.Story>[hename], você não pode mantê-lo estável? O salto está me matando.</Events.3.Story>
+			<Events.4.Story>[hename], está muito cheio aqui no seu inventário. Livre-se desse cara ao meu lado!</Events.4.Story>
+			<Events.5.Story>[hename], vou te contar um segredo. Na verdade, sou um velho vovô que foi selado por dentro. Deixe-me ir e eu vou te ensinar uma habilidade super invencível.</Events.5.Story>
+			<Events.6.Story>Aaaah, [hename], olha essa coisa, está viva! Aaaaaaah! Por que estou vivo também!</Events.6.Story>
+			<Events.7.Story>[hename], olhe para cima! Há algo no céu!</Events.7.Story>
+			<Events.8.Story>Ouvi dizer que existe um tipo de coisa chamada montaria que carrega pessoas nas costas. [hename], você é minha montaria?</Events.8.Story>
+			<Events.9.Story>[hename], socorro! não consigo respirar!! Ah, espere, eu não preciso respirar.</Events.9.Story>
+			<Events.10.Story>[hename], que tal eu lhe dar alguns conselhos e você me ajudar a reformular?</Events.10.Story>
+			<Events.12.Story>[hename], você deve trabalhar duro em seu treinamento de cultivo, não quero perder para as calças ao lado.</Events.12.Story>
+			<Events.13.Story>[hename], pense por si mesmo, por que os outros podem fazer isso e por que você não pode?</Events.13.Story>
+			<Events.14.Story>Doh doh doh doh~</Events.14.Story>
+			<Events.15.Story>Dee dee dee dee~</Events.15.Story>
+			<Events.16.Story>Da da da da~</Events.16.Story>
+			<Events.17.Story>[hename], o que você acha da ideia de me colocar em um armazém cheio de tesouros?</Events.17.Story>
+			<Events.18.Story>[hename], você é um noob.</Events.18.Story>
 		</Text>
 		<Text Name="JGBreak">
-			<Events.0.Story>[name] suddenly had a bad feeling about this, and its body moved a little.</Events.0.Story>
-			<Events.1.Story>[name] suddenly felt a bout of chills, and very much want to leave this place...</Events.1.Story>
+			<Events.0.Story>[name] de repente teve um mau pressentimento sobre isso, e seu corpo se moveu um pouco.</Events.0.Story>
+			<Events.1.Story>[name] de repente sentiu um arrepio, e queria muito deixar este lugar...</Events.1.Story>
 		</Text>
 		<Text Name="JGRuin">
-			<Events.0.Story>Have mercy please! Stop it now! No more nonsense!</Events.0.Story>
-			<Events.1.Story>I shall return in another life! Do not expect me to beg for mercy!</Events.1.Story>
+			<Events.0.Story>Tenha misericórdia, por favor! Pare com isso agora! Chega de bobagens!</Events.0.Story>
+			<Events.1.Story> Voltarei em outra vida! Não espere que eu implore por misericórdia!</Events.1.Story>
 		</Text>
 		<Text Name="JGMoveSelf">
-			<Events.0.Story>Where are you going to put me?</Events.0.Story>
-			<Events.1.Story>Don't touch me, I don't want to change places.</Events.1.Story>
-			<Events.2.Story>Going to a new place again? I guess I'll try to look forward to it...</Events.2.Story>
-			<Events.3.Story>Where are we going again? Could you please stop switching it back and forth...</Events.3.Story>
-			<Events.4.Story>While I'm fine with it, keep moving things around is not good for Feng Shui though...</Events.4.Story>
-			<Events.5.Story>I want a big warehouse!</Events.5.Story>
+			<Events.0.Story>Onde você vai me colocar?</Events.0.Story>
+			<Events.1.Story>Não me toque, não quero trocar de lugar.</Events.1.Story>
+			<Events.2.Story>Indo para um novo lugar de novo? Acho que vou tentar esperar por isso...</Events.2.Story>
+			<Events.3.Story>Para onde vamos de novo? Você poderia parar de alternar para frente e para trás...</Events.3.Story>
+			<Events.4.Story>Embora eu esteja bem com isso, continuar movendo as coisas não é bom para o Feng Shui...</Events.4.Story>
+			<Events.5.Story>Quero um grande armazém!</Events.5.Story>
 		</Text>
 		<Text Name="JGBuildingUse">
-			<Events.0.Story>Your skill sucks, young man!</Events.0.Story>
-			<Events.1.Story>Can't you speed up a little? Watching you work is like torture.</Events.1.Story>
-			<Events.2.Story>You should be ashamed of using me with such low skill! If I had hands, I would have finished it long ago!</Events.2.Story>
+			<Events.0.Story>Sua habilidade é péssima, jovem!</Events.0.Story>
+			<Events.1.Story>Você não pode acelerar um pouco? Ver você trabalhando é como uma tortura.</Events.1.Story>
+			<Events.2.Story>Você deveria ter vergonha de me usar com uma habilidade tão baixa! Se eu tivesse mãos, já teria terminado há muito tempo!</Events.2.Story>
 		</Text>
 		<Text Name="JGPlantHarvest">
-			<Events.0.Story>[hename], hey! leave some for me!</Events.0.Story>
-			<Events.1.Story>Be careful, don't break it!</Events.1.Story>
+			<Events.0.Story>[hename], ei! deixe um pouco para mim!</Events.0.Story>
+			<Events.1.Story>Tenha cuidado, não quebre!</Events.1.Story>
 		</Text>
 		<Text Name="JGInteractive">
-			<Events.0.Story>Hey! [hename], what are you doing to me!?</Events.0.Story>
-			<Events.1.Story>Can you help me scratch my itch?</Events.1.Story>
-			<Events.2.Story>You look so ugly!</Events.2.Story>
+			<Events.0.Story>Ei! [hename], o que você está fazendo comigo!?</Events.0.Story>
+			<Events.1.Story>Você pode me ajudar a coçar minha coceira?</Events.1.Story>
+			<Events.2.Story>Você está tão feio!</Events.2.Story>
 		</Text>
 		<Text Name="JGInjured">
-			<Events.0.Story>Murder! Help!</Events.0.Story>
-			<Events.1.Story>Spare my life, boss! I swear I won't talk too much ever again!</Events.1.Story>
-			<Events.2.Story>Have mercy please! Stop it now! No more nonsense!</Events.2.Story>
-			<Events.3.Story>I shall return in another life! Do not expect me to beg for mercy!</Events.3.Story>
-			<Events.4.Story>Didn't you eat? You're so weak! If I were you, I would stop right now before making a fool of myself!</Events.4.Story>
+			<Events.0.Story>Assassinato! Ajuda!</Events.0.Story>
+			<Events.1.Story>Poupe minha vida, chefe! Juro que nunca mais vou falar muito!</Events.1.Story>
+			<Events.2.Story>Tenha misericórdia, por favor! Pare com isso agora! Chega de bobagens!</Events.2.Story>
+			<Events.3.Story> Voltarei em outra vida! Não espere que eu implore por misericórdia!</Events.3.Story>
+			<Events.4.Story>Você não comeu? Você é tão fraco! Se eu fosse você, pararia agora antes de me fazer de bobo!</Events.4.Story>
 		</Text>
 		<Text Name="JGTalkToNpc">
-			<Events.0.Story>[hename], don't go. Talk to me!</Events.0.Story>
-			<Events.1.Story>[hename], why are you in such a hurry? Why not slow down and appreciate the world around you.</Events.1.Story>
-			<Events.2.Story>[hename], there's no need to work so hard. A noob like you wouldn't make much of a difference to the sect anyway.</Events.2.Story>
-			<Events.3.Story>[hename], take me out for a ride!</Events.3.Story>
-			<Events.4.Story>[hename], look at me!</Events.4.Story>
-			<Events.5.Story>[hename]! Come here!</Events.5.Story>
-			<Events.6.Story>[hename], you seem so busy every day. Has the Sect Leader given you a Spirit Stone yet?</Events.6.Story>
-			<Events.7.Story>[hename], left, left, left right left!</Events.7.Story>
-			<Events.8.Story>[hename], run, loneliness is chasing you!</Events.8.Story>
+			<Events.0.Story>[hename], não vá. Fale comigo!</Events.0.Story>
+			<Events.1.Story>[hename], por que você está com tanta pressa? Por que não desacelerar e apreciar o mundo ao seu redor.</Events.1.Story>
+			<Events.2.Story>[hename], não há necessidade de trabalhar tanto. Um noob como você não faria muita diferença para a seita de qualquer maneira.</Events.2.Story>
+			<Events.3.Story>[hename], leve-me para um passeio!</Events.3.Story>
+			<Events.4.Story>[hename], olhe para mim!</Events.4.Story>
+			<Events.5.Story>[hename]! Venha aqui!</Events.5.Story>
+			<Events.6.Story>[hename], você parece tão ocupado todos os dias. O Líder da Seita já lhe deu uma Pedra Espiritual?</Events.6.Story>
+			<Events.7.Story>[hename], esquerda, esquerda, esquerda direita esquerda!</Events.7.Story>
+			<Events.8.Story>[hename], corra, a solidão está perseguindo você!</Events.8.Story>
 		</Text>
 	</List>
 </Texts>
