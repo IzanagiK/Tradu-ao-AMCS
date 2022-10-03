@@ -3586,15 +3586,15 @@ Trap编辑。	Trap Edit.
 该角色同时激活的符咒最多只能有{0}个！	This character can only have {0} talismans active at the same time!
 突破时无法使用道具	Items unavailable during breakthrough.
 当前状态无法使用道具	Items unavailable during the current state.
-使用这个物品吗？	Do you want to use this item?
+使用这个物品吗？	Deseja usar este item?
 使用	Use
-丢下这个物品吗？	Do you want to discard this item?
-痛感({0:P0})\n受伤会导致疼痛，当疼痛超过一定值会影响意识。	Pain ({0:P0})\nTaking damage hurts, and when Pain exceeds a certain threshold it will affect Consciousness.
-意识({0:P0})\n大脑受伤会影响该值，意识影响工作效率，当意识过低会导致昏迷。	Willpower ({0:P0})\nThis value is affected when the mind takes damage. Willpower affects work efficiency. When Willpower drops too low, the character becomes unconscious.
-经脉({0:P0})\n经脉受伤会影响该值，经脉影灵气最大值及修炼效率，经脉过低会导致无法修炼。	Meridians ({0:P0})\nThis value is affected when Meridians take damage. Meridians affect Max Qi and training efficiency. When Meridians drop too low, the character cannot continue to train.
-移动({0:P0})\n下肢受伤会影响该值，移动影响走路速度和一些体力工作的效率。	Move ({0:P0})\nThis value is affected when a character's legs take damage. Movement affects walk speed and work efficiency for some physical work.
-身手({0:P0})\n上肢受伤会影响该值，身手影响大部分工作的效率。	Action ({0:P0})\nThis value is affected when a character's arms take damage. Action affects the work efficiency of most types of work.
-感知({0:P0})\n眼睛与耳朵受伤会影响该值，感知影响视野范围和精细工作的效率。	Sense ({0:P0})\nThis value is affected when a character's eyes and ears take damage. Sense affects viewing distance and work efficiency of fine work.
+丢下这个物品吗？	Deseja descartar este item?
+痛感({0:P0})\n受伤会导致疼痛，当疼痛超过一定值会影响意识。	Pain ({0:P0})\nReceber dano dói, e quando a Dor excede um certo limite, ela afetará a Consciência.
+意识({0:P0})\n大脑受伤会影响该值，意识影响工作效率，当意识过低会导致昏迷。	Willpower ({0:P0})\nEste valor é afetado quando a mente sofre dano. A força de vontade afeta a eficiência do trabalho. Quando a Força de Vontade cai muito, o personagem fica inconsciente.
+经脉({0:P0})\n经脉受伤会影响该值，经脉影灵气最大值及修炼效率，经脉过低会导致无法修炼。	Meridians ({0:P0})\nEste valor é afetado quando os Meridianos recebem dano. Os meridianos afetam o Max Qi e a eficiência do treinamento. Quando os Meridianos caem muito baixo, o personagem não pode continuar a treinar.
+移动({0:P0})\n下肢受伤会影响该值，移动影响走路速度和一些体力工作的效率。	Move ({0:P0})\nEste valor é afetado quando as pernas de um personagem sofrem dano. O movimento afeta a velocidade da caminhada e a eficiência do trabalho para alguns trabalhos físicos.
+身手({0:P0})\n上肢受伤会影响该值，身手影响大部分工作的效率。	Action ({0:P0})\nEste valor é afetado quando os braços de um personagem sofrem dano. A ação afeta a eficiência do trabalho da maioria dos tipos de trabalho.
+感知({0:P0})\n眼睛与耳朵受伤会影响该值，感知影响视野范围和精细工作的效率。	Sense ({0:P0})\nEste valor é afetado quando os olhos e ouvidos de um personagem sofrem dano. O sentido afeta a distância de visualização e a eficiência do trabalho fino.
 死因：{0}	Cause of Death: {0}
 {0}\n类型：{1}\n致命部位：{2}\n\n影响：{3}	{0}\nType: {1}\nLethality: {2}\n\nAffects: {3}
 否	No
@@ -3747,16 +3747,16 @@ Trap编辑。	Trap Edit.
 {0}境(剩余:{1:F0}秒)	{0} State (Remaining: {1:F0} sec)
 {0}品金丹	Tier {0} Golden Core
 劫云灵气	Tribulation Qi
-{0}\n选择一个目标，对其发起攻击。(快捷键：[keycode]Attack[/keycode])\n[color=#D06508]右击可改变模式[/color]	{0}\nChoose a target to attack. (Hotkey: [keycode]Attack[/keycode])\n[color=#D06508]Right-click to change mode.[/color]
+{0}\n选择一个目标，对其发起攻击。(快捷键：[keycode]Attack[/keycode])\n[color=#D06508]右击可改变模式[/color]	{0}\nEscolha um alvo para atacar. (Hotkey: [keycode]Attack[/keycode])\n[color=#D06508]Clique com o botão direito do mouse para alterar o modo.[/color]
 [击败模式]	[Defeat Mode]
 [color=#FF0000][击杀模式][/color]	[color=#FF0000][Kill Mode][/color]
-{0}\n防御及保护，开启后会自动反击发起攻击的敌人\n[color=#D06508]点击可改变模式[/color]	{0}\nDefensive. Turn on to automatically attack enemies that attack you.\n[color=#D06508]Click to change mode.[/color]
+{0}\n防御及保护，开启后会自动反击发起攻击的敌人\n[color=#D06508]点击可改变模式[/color]	{0}\nDefensivo. Ligue para atacar automaticamente os inimigos que atacam você..\n[color=#D06508]Clique para alterar o modo.[/color]
 [关闭]	[Off]
 [color=#009900][打开][/color]	[color=#009900][On][/color]
 仅外门	Only Outer Disciples
 仅内门	Only Inner disciples
 外门及内门	Both
-[{0}]\n自动攻击目标\n[color=#D06508]点击可改变模式[/color]	[{0}]\nAttack targets automatically\n[color=#D06508]Click to change mode.[/color]
+[{0}]\n自动攻击目标\n[color=#D06508]点击可改变模式[/color]	[{0}]\nAtacar alvos automaticamente\n[color=#D06508]Clique para alterar o modo.[/color]
 饮水	Drink
 精力	Energy
 \n[color=#FF8B00]消耗平衡点:{0:N0}\n(内门弟子吞服天地灵气补充食物的速度与自身消耗食物的速度在此处达到平衡)[/color]	\n[color=#FF8B00]Equilibrium: {0:N0}\n(An inner disciple has trained their Qi to the extent that they absorb energy from the surrounding environment and no longer needs to eat food.)[/color]
