@@ -525,67 +525,67 @@ Discípulos Externos</DisplayName>
 		<Text Name="DProduction">
 			<Type>Cultivation</Type>
 			<DisplayName>Produção</DisplayName>
-			<Desc>Learn how to craft artifacts, concoct elixirs and draw talismans in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Aprenda a criar artefatos, inventar elixires e desenhar talismãs neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Como Preparar Elixires</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Mais Edifícios Obtidos</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Preparar Pílula de stamina</Chapters.0.Tasks.1>
-			<Chapters.0.Tasks.2>Use o loop para inventar</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.2>Use o Loop para Preparar</Chapters.0.Tasks.2>
 			<Chapters.1.DisplayName>Como criar artefatos</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Artefatos de artesanato</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.0>artesanato de Artefatos</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Comparar materiais avançados</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Comparar materiais básicos</Chapters.1.Tasks.2>
 			<Chapters.1.Tasks.3>Confirmar criação</Chapters.1.Tasks.3>
 			<Chapters.2.DisplayName>Como desenhar talismãs</Chapters.2.DisplayName>
 			<Chapters.2.Tasks.0>Desenhe Talismã de Agilidade</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Influência do papel nos talismãs</Chapters.2.Tasks.1>
-			<Chapters.3.DisplayName>Como cheirar</Chapters.3.DisplayName>
+			<Chapters.3.DisplayName>Como derreter</Chapters.3.DisplayName>
 			<Chapters.3.Tasks.0>Verifique o Qi de um item</Chapters.3.Tasks.0>
-			<Chapters.3.Tasks.1>Itens de cheiro</Chapters.3.Tasks.1>
+			<Chapters.3.Tasks.1>Itens de derretimento</Chapters.3.Tasks.1>
 			<Tasks.1.TipsData.Desc>Depois que um discípulo se torna um discípulo interno, haverá novas interações esperando para serem ativadas ao construir esses edifícios únicos.</Tasks.1.TipsData.Desc>
 			<Tasks.3.TaskDesc>Clique e selecione um discípulo interno.</Tasks.3.TaskDesc>
-			<Tasks.4.TaskDesc>Clique em Alquimia no menu Status do personagem.</Tasks.4.TaskDesc>
+			<Tasks.4.TaskDesc>Clique em Alquimia/Alchemy no menu Status do personagem.</Tasks.4.TaskDesc>
 			<Tasks.4.UiData.Name>Alchemy</Tasks.4.UiData.Name>
-			<Tasks.5.TaskDesc>Clique para selecionar Pílula de stamina.</Tasks.5.TaskDesc>
+			<Tasks.5.TaskDesc>Clique e selecione a Pílula de stamina.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Clique em Confirmar.</Tasks.6.TaskDesc>
 			<Tasks.7.TaskDesc>Clique para selecionar Fornalha de Alquimia.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Clique para selecionar Fornalha de Alquimia.</Tasks.9.TaskDesc>
-			<Tasks.10.TaskDesc>Clique no botão Loop na página Alchemy Furnace abaixo.</Tasks.10.TaskDesc>
+			<Tasks.10.TaskDesc>Clique no botão Loop na página do Alchemy Furnace.</Tasks.10.TaskDesc>
 			<Tasks.10.UiData.ParentObject>thinginfo-Producelist-Stamina Pill</Tasks.10.UiData.ParentObject>
 			<Tasks.11.TaskDesc>Clique em Loop 10x</Tasks.11.TaskDesc>
 			<Tasks.11.UiData.Name>Loop 10x</Tasks.11.UiData.Name>
 			<Tasks.12.TaskDesc>Clique em 3x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.12.TaskDesc>
 			<Tasks.14.TaskDesc>Espere até que a Stamina Pill seja preparada.</Tasks.14.TaskDesc>
-			<Tasks.16.TaskDesc>Clique no botão fechar ao lado da Stamina Pill na página Alchemy Furnace abaixo para cancelar a produção.</Tasks.16.TaskDesc>
+			<Tasks.16.TaskDesc>Clique no botão fechar ao lado da Stamina Pill na página Alchemy Furnace para cancelar a produção.</Tasks.16.TaskDesc>
 			<Tasks.16.UiData.ParentObject>thinginfo-Producelist-Stamina Pill</Tasks.16.UiData.ParentObject>
-			<Tasks.18.TipsData.Desc>Preparar elixires não só precisa dos materiais básicos para elixires, mas os discípulos também precisam aumentar seu nível de alquimia ou aprender outras receitas de elixir para inventar elixires mais avançados.  O jogador também pode usar o Loop para inventar elixires em lote ou cancelar o loop para parar de inventar.</Tasks.18.TipsData.Desc>
+			<Tasks.18.TipsData.Desc>Preparar elixires não só precisa dos materiais básicos para elixires, mas os discípulos também precisam aumentar seu nível de alquimia ou aprender outras receitas de elixir para criar elixires mais avançados.  O jogador também pode usar o Loop para inventar elixires em lote ou cancelar o loop para parar de cria.</Tasks.18.TipsData.Desc>
 			<Tasks.20.TaskDesc>Clique e selecione um discípulo interno.</Tasks.20.TaskDesc>
-			<Tasks.21.TaskDesc>Clique em Criar no menu Status do personagem.</Tasks.21.TaskDesc>
+			<Tasks.21.TaskDesc>Clique em Criar/Craft no menu Status do personagem.</Tasks.21.TaskDesc>
 			<Tasks.21.UiData.Name>Craft</Tasks.21.UiData.Name>
 			<Tasks.22.TaskDesc>Clique em Criação de artefatos</Tasks.22.TaskDesc>
-			<Tasks.25.TaskDesc>O jogador pode colocar o cursor na Espada de Pedra Sagrada para verificar seu material e nível, e a taxa de sucesso e os requisitos para fabricação também são mostrados acima.</Tasks.25.TaskDesc>
-			<Tasks.27.TaskDesc>O jogador pode colocar o cursor em Graystone Blade para verificar seu material e nível, e a taxa de sucesso e os requisitos para fabricação também são mostrados acima.</Tasks.27.TaskDesc>
-			<Tasks.29.TaskDesc>Clique e selecione Graystone Blade para criar.</Tasks.29.TaskDesc>
+			<Tasks.25.TaskDesc>O jogador pode colocar o cursor na Espada de Pedra Sagrada para verificar seu material e nível, e a taxa de sucesso e os requisitos para fabricação também são mostrados.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>O jogador pode colocar o cursor em Graystone Blade para verificar seu material e nível, e a taxa de sucesso e os requisitos para fabricação também são mostrados.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Clique e selecione Graystone Blade para criala.</Tasks.29.TaskDesc>
 			<Tasks.30.TaskDesc>Espere até que o artefato seja criado.</Tasks.30.TaskDesc>
-			<Tasks.32.TipsData.Desc>Qualquer material comum pode ser usado para criar artefatos, mas custará uma quantidade de Qi.  Quanto maior o nível, mais Qi ele precisa.  A taxa de sucesso na fabricação de artefatos está positivamente associada ao estado mental do discípulo, bem como ao seu nível de fabricação de artefatos.</Tasks.32.TipsData.Desc>
+			<Tasks.32.TipsData.Desc>Qualquer material comum pode ser usado para criar artefatos, mas custará uma quantidade de Qi.  Quanto maior o nível(tier/qualidade), mais Qi ele precisa.  A taxa de sucesso na fabricação de artefatos está positivamente associada ao estado mental do discípulo, bem como ao seu nível de fabricação de artefatos.</Tasks.32.TipsData.Desc>
 			<Tasks.34.TaskDesc>Clique em Draw no menu Status do personagem.</Tasks.34.TaskDesc>
 			<Tasks.34.UiData.Name>Draw</Tasks.34.UiData.Name>
-			<Tasks.35.TaskDesc>Clique para selecionar um papel talismã.</Tasks.35.TaskDesc>
-			<Tasks.36.TaskDesc>Clique em Talismã de Agilidade.</Tasks.36.TaskDesc>
+			<Tasks.35.TaskDesc>Clique para selecionar um papel de talismã.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Clique no Talismã de Agilidade.</Tasks.36.TaskDesc>
 			<Tasks.37.TaskDesc>Por favor, siga as instruções para desenhar um talismã e confirme depois que terminar.</Tasks.37.TaskDesc>
 			<Tasks.38.TaskDesc>Clique em Sim.</Tasks.38.TaskDesc>
 			<Tasks.40.TaskDesc>Espere até que o talismã seja desenhado.</Tasks.40.TaskDesc>
-			<Tasks.42.TaskDesc>Clique para selecionar Mesa de Desenho Talismã.</Tasks.42.TaskDesc>
-			<Tasks.43.TaskDesc>Clique em Produzir.</Tasks.43.TaskDesc>
+			<Tasks.42.TaskDesc>Clique para selecionar a Mesa de Desenho de Talismã.</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Clique em Produzir/Produce.</Tasks.43.TaskDesc>
 			<Tasks.43.UiData.Name>Produce</Tasks.43.UiData.Name>
 			<Tasks.44.TipsData.Desc>Conforme mostrado na página Produzir, existem alguns tipos diferentes de papel de talismã, que terão efeitos de bônus diferentes depois que o talismã for sacado.  De um modo geral, o efeito bônus está positivamente associado ao nível do papel talismã.</Tasks.44.TipsData.Desc>
-			<Tasks.45.TaskDesc>Feche a página Produzir.</Tasks.45.TaskDesc>
+			<Tasks.45.TaskDesc>Feche a página produção.</Tasks.45.TaskDesc>
 			<Tasks.47.TipsData.Desc>Quão bem o jogador desenha o talismã será a qualidade do produto final, que também é um fator importante que influencia seu efeito.</Tasks.47.TipsData.Desc>
-			<Tasks.49.TaskDesc>O jogador pode colocar o cursor em Lixo para ver quanto Qi ele absorveu e armazenou.</Tasks.49.TaskDesc>
-			<Tasks.51.TaskDesc>Clique em Smelt na parte inferior da tela.</Tasks.51.TaskDesc>
-			<Tasks.52.TaskDesc>Clique para selecionar Lixo.</Tasks.52.TaskDesc>
-			<Tasks.53.TaskDesc>Clique com o botão direito do mouse para cancelar o modo de seleção de destino.</Tasks.53.TaskDesc>
+			<Tasks.49.TaskDesc>O jogador pode colocar o cursor em Rubbish para ver quanto Qi ele absorveu e armazenou.</Tasks.49.TaskDesc>
+			<Tasks.51.TaskDesc>Clique em Smelt/derreter na parte inferior da tela.</Tasks.51.TaskDesc>
+			<Tasks.52.TaskDesc>Clique para selecionar Rubbish.</Tasks.52.TaskDesc>
+			<Tasks.53.TaskDesc>Clique com o botão direito para cancelar o modo de seleção de alvo.</Tasks.53.TaskDesc>
 			<Tasks.55.TaskDesc>Aguarde até que a fundição esteja completa.</Tasks.55.TaskDesc>
-			<Tasks.56.TipsData.Desc>O jogador obteve algumas Pedras Espirituais fundindo lixo agora.</Tasks.56.TipsData.Desc>
+			<Tasks.56.TipsData.Desc>O jogador obteve algumas Pedras Espirituais fundindo Rubbish agora.</Tasks.56.TipsData.Desc>
 			<Tasks.58.TipsData.Desc>No jogo, vários itens absorvem gradualmente o Qi da natureza.  Um discípulo interno pode fundi-las para obter Pedras Espirituais e dispor de recursos desnecessários.</Tasks.58.TipsData.Desc>
 		</Text>
 		<Text Name="LookPractice">
