@@ -43,7 +43,7 @@ O [jogo](https://store.steampowered.com/app/955900/Amazing_Cultivation_Simulator
 # Como instalar 
 
 ##### Video Tutorial
-[![N|Solid](https://cdn-icons-png.flaticon.com/128/400/400425.png)](https://www.youtube.com/watch?v=8mLCLOtJAjc)
+[![N|Solid](https://cdn-icons-png.flaticon.com/128/400/400425.png)](https://www.youtube.com/watch?v=UPI6qxdAizY)
 
 ##### Guia Escrito
 
