@@ -2506,7 +2506,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 获取镇派法宝：{0:F0}个	Greater Artifacts: {0:F0}
 该操作将会清空您的所有成就和数据，且不可回退。确认继续吗？	This will delete all your data statistics and achievements .Are you sure to continue?
 \n进度：{0:F0}/{1:F0}	\nProgress: {0:F0}/{1:F0}
-成就 ({0}/{1})	Achievements ({0}/{1})
+成就 ({0}/{1})	Conquistas ({0}/{1})
 已拥有	Owned
 未拥有	Unavailable
 图鉴进度：{0}/{1}	Progresso da Enciclopédia: {0}/{1}
@@ -2731,7 +2731,7 @@ Lua代码不能为空	Lua script cannot be empty.
 地图种子	Map Seed
 未选择	Not yet selected
 [color=#008800]（已完成）[/color]	[color=#008800] (Completed)[/color]
-可完成成就：	Available Achievements:
+可完成成就：	Conquistas Disponíveis:
 拍照模式	Camera
 问题上报	Report
 读档	Load
