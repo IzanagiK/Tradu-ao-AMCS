@@ -1,54 +1,54 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="FightSkillEsoterica_1">
-			<DisplayName>Innate Qi</DisplayName>
-			<Desc>A basic technique learned by cultivators. Involves concentrating Qi in the palm of one's hand, and releasing it toward the target.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Innate Qi[/color][/size]</EffectDesc>
+			<DisplayName>Qi inato</DisplayName>
+			<Desc>Uma técnica básica aprendida por cultivadores. Envolve concentrar o Qi na palma da mão e liberá-lo em direção ao alvo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir Habilidade: Qi Inato[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_2">
-			<DisplayName>Firestorm</DisplayName>
-			<Desc>Harness elemental fire energies that abound throughout the world, and manipulate them to scorch the target.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Firestorm[/color][/size]</EffectDesc>
-		</Text>
+			<DisplayName>Tempestade de fogo</DisplayName>
+			<Desc>Aproveite as energias elementais do fogo que abundam em todo o mundo e manipule-as para queimar o alvo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir habilidade: Firestorm[/color][/size]</EffectDesc>
+			</Text>
 		<Text Name="FightSkillEsoterica_3">
-			<DisplayName>Divine Bolt</DisplayName>
-			<Desc>Harness elemental Metal energies that abound throughout the world, and focus them into bolts of Qi to strike at the enemy.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Divine Bolt[/color][/size]</EffectDesc>
-		</Text>
+			<DisplayName>Raio Divino</DisplayName>
+			<Desc>Aproveite as energias elementais do Metal que abundam em todo o mundo e concentre-as em raios de Qi para atacar o inimigo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir Habilidade: Seta Divina[/color][/size]</EffectDesc>
+			</Text>
 		<Text Name="FightSkillEsoterica_4">
 			<DisplayName>Soulsmite</DisplayName>
-			<Desc>Emit an incredibly fast beam of light into the target, devastating their spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Soulsmite[/color][/size]</EffectDesc>
-		</Text>
+			<Desc>Emite um raio de luz incrivelmente rápido no alvo, devastando seu espírito.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir habilidade: Soulsmite[/color][/size]</EffectDesc>
+			</Text>
 		<Text Name="FightSkillEsoterica_Gong1_1">
-			<DisplayName>Heavenly Panacea</DisplayName>
-			<Desc>Call upon the power of ancient water healing to restore Qi for all friendly characters.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Heavenly Panacea[/color][/size]</EffectDesc>
-		</Text>
+			<DisplayName>Panaceia Celestial</DisplayName>
+			<Desc>Invoque o poder da antiga cura pela água para restaurar o Qi de todos os personagens amigos.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir Habilidade: Panaceia Celestial[/color][/size]</EffectDesc>
+			</Text>
 		<Text Name="FightSkillEsoterica_Gong3_1">
-			<DisplayName>Resonant Blade</DisplayName>
-			<Desc>Resonate your spirit with that of an Artifact, greatly increasing its power.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Resonant Blade[/color][/size]</EffectDesc>
-		</Text>
+			<DisplayName>Lâmina Ressonante</DisplayName>
+			<Desc>Ressoe seu espírito com o de um Artefato, aumentando muito seu poder.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir Habilidade: Lâmina Ressonante[/color][/size]</EffectDesc>
+			</Text>
 		<Text Name="FightSkillEsoterica_Gong4_1">
-			<DisplayName>Chaos Void</DisplayName>
-			<Desc>Trigger the power of a Chaos Jade to open a portal to the void, dealing great damage to all enemy targets.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Chaos Void[/color][/size]</EffectDesc>
-		</Text>
+			<DisplayName>Vazio do Caos</DisplayName>
+			<Desc>Acione o poder de uma Jade do Caos para abrir um portal para o vazio, causando grande dano a todos os alvos inimigos.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir Habilidade: Caos Caos[/color][/size]</EffectDesc>
+			</Text>
 		<Text Name="FightSkillEsoterica_Gong4_2">
-			<DisplayName>Spirit Shield</DisplayName>
-			<Desc>Enhance Qi Shield effects for all friendly characters.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Spirit Shield[/color][/size]</EffectDesc>
-		</Text>
+			<DisplayName>Escudo Espiritual</DisplayName>
+			<Desc>Aprimore os efeitos do Escudo Qi para todos os personagens aliados.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir Habilidade: Escudo Espiritual[/color][/size]</EffectDesc>
+			</Text>
 		<Text Name="FightSkillEsoterica_Gong4_3">
-			<DisplayName>Vitality Chant</DisplayName>
-			<Desc>Draw upon the restorative energies of the forests to recover your Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Vitality Chant[/color][/size]</EffectDesc>
-		</Text>
+			<DisplayName>Cântico de Vitalidade</DisplayName>
+			<Desc>Use as energias restauradoras das florestas para recuperar seu Qi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir habilidade: Vitality Chant[/color][/size]</EffectDesc>
+			</Text>
 		<Text Name="FightSkillEsoterica_Gong9_1">
-			<DisplayName>Reversa Cycle</DisplayName>
-			<Desc>Utilize the transmigration cycles of reincarnation to significantly restore your Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Reversa Cycle[/color][/size]</EffectDesc>
+			<DisplayName>Ciclo reverso</DisplayName>
+			<Desc>Utilize os ciclos de transmigração da reencarnação para restaurar significativamente seu Qi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir Habilidade: Ciclo Reverso[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>

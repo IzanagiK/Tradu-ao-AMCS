@@ -1,202 +1,203 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="NpcFight_SneakValue">
-			<DisplayName>Stealth</DisplayName>
-			<Desc>The extent to which the character is hidden while stealthed. The higher this number, the more difficult it is to detect the character.</Desc>
+			<DisplayName>Furtividade</DisplayName>
+			<Desc>A extensão em que o personagem está escondido enquanto está furtivo. Quanto maior esse número, mais difícil é detectar o caractere.</Desc>
 			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="PotentialOfBasepracticeAddValue">
-			<DisplayName>Potential Bonus</DisplayName>
-			<Desc>A character's Potential influences the speed of Foundation Training and the efficiency with which Qi is refined.</Desc>
+			<DisplayName>Bônus potencial</DisplayName>
+			<Desc>O Potencial de um personagem influencia a velocidade do Treinamento Básico e a eficiência com que o Qi é refinado.</Desc>
 		</Text>
 		<Text Name="GodPenaltyAddV">
-			<DisplayName>Condemnation Bonus</DisplayName>
-			<Desc>A character's Condemnation Bonus</Desc>
+			<DisplayName>Bônus de condenação</DisplayName>
+			<Desc>Bônus de condenação de um personagem</Desc>
 		</Text>
 		<Text Name="MaxAccumulativeLingAddV">
-			<DisplayName>Inner Cauldron Limit Bonus</DisplayName>
-			<Desc>The Bonus of an Inner Cauldron Limit</Desc>
+			<DisplayName>Bônus de limite do caldeirão interno</DisplayName>
+			<Desc>O bônus de um limite de caldeirão interno</Desc>
 		</Text>
 		<Text Name="BasepracticeSpeedCoefficient">
-			<DisplayName>Foundation Training Speed Bonus</DisplayName>
-			<Desc>Foundation Training speed of outer disciples.</Desc>
+			<DisplayName>Bônus de velocidade de treinamento básico</DisplayName>
+			<Desc>Velocidade do treinamento básico dos discípulos externos.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="DeepPracticeSpeedSpecialCoefficient">
-			<DisplayName>Cultivation Speed Bonus</DisplayName>
-			<Desc>Cultivation speed gained by Golden Core Cultivators.</Desc>
+			<DisplayName>Bônus de velocidade de cultivo</DisplayName>
+			<Desc>Velocidade de cultivo ganha pelos Cultivadores do Núcleo Dourado.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="MindStateBaseValue">
-			<DisplayName>Base Mental State</DisplayName>
-			<Desc>Base Mental State of inner disciples.</Desc>
+			<DisplayName>Estado Mental Básico</DisplayName>
+			<Desc>Estado Mental Básico dos discípulos internos.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="SpeedOfMindStateCoefficient">
-			<DisplayName>Level of Stable Mental State</DisplayName>
-			<Desc>Speed at which the metal state of inner disciples change.</Desc>
+			<DisplayName>Nível de estado mental estável</DisplayName>
+			<Desc>Velocidade na qual o estado metálico dos discípulos internos muda.</Desc>
 		</Text>
 		<Text Name="SpeedOfMindStateCoefficientByMoods">
-			<DisplayName>Mood affects the speed at which Mental State changes</DisplayName>
+			<DisplayName>O humor afeta a velocidade com que o estado mental muda</DisplayName>
 		</Text>
 		<Text Name="SpeedOfMindStateCoefficientByMoods_Easy">
-			<DisplayName>Mood affects the speed at which Mental State changes</DisplayName>
+			<DisplayName>O humor afeta a velocidade com que o estado mental muda</DisplayName>
 		</Text>
 		<Text Name="InspirationCoefficient">
-			<DisplayName>Comprehension Intelligence Multiplier</DisplayName>
-			<Desc>The higher a person's Intelligence, the easier it is for them to comprehend things in life.</Desc>
+			<DisplayName>Multiplicador de inteligência de compreensão</DisplayName>
+			<Desc>Quanto maior a Inteligência de uma pessoa, mais fácil é para ela compreender as coisas da vida.</Desc>
 		</Text>
 		<Text Name="LingAbsorbSpeed">
-			<DisplayName>Qi Absorption Speed Bonus</DisplayName>
+			<DisplayName>Bônus de velocidade de absorção de Qi</DisplayName>
 		</Text>
 		<Text Name="_SPECIAL_NOADD_NpcLingMaxValue">
 			<DisplayName>Base Qi</DisplayName>
-			<Desc>The Base Qi value of a cultivator.</Desc>
+			<Desc>O valor base do Qi de um cultivador.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcLingMaxValue">
 			<DisplayName>Max Qi</DisplayName>
-			<Desc>Character's Max Qi.</Desc>
+			<Desc>Qi Máximo do Personagem.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="FabaoMake_SpeedAddV">
-			<DisplayName>Artifact Crafting Speed Bonus</DisplayName>
-			<Desc>Crafting speed bonus for when crafting artifacts.</Desc>
+			<DisplayName>Bônus de velocidade de criação de artefatos</DisplayName>
+			<Desc>Bônus de velocidade de criação ao criar artefatos.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="FabaoMake_SuccessRateAddV">
-			<DisplayName>Artifact Crafting Success Rate Bonus</DisplayName>
-			<Desc>Success Rate Bonus for when crafting artifacts.</Desc>
+			<DisplayName>Bônus de taxa de sucesso na criação de artefatos</DisplayName>
+			<Desc>Bônus de taxa de sucesso ao criar artefatos.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="FabaoMake_LingInheritRateAddV">
-			<DisplayName>Artifact Crafting Grade Bonus</DisplayName>
-			<Desc>The effect of Raw Material Qi on artifact grade bonus when crafting artifacts.</Desc>
+			<DisplayName>Bônus de Nota de Criação de Artefatos</DisplayName>
+			<Desc>O efeito do Qi da Matéria-Prima no bônus de grau de artefato ao criar artefatos.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="FabaoMake_QualityAddV">
-			<DisplayName>Artifact Crafting Quality Bonus</DisplayName>
-			<Desc>Item quality bonus when crafting artifacts.</Desc>
+			<DisplayName>Bônus de qualidade de criação de artefatos</DisplayName>
+			<Desc>Bônus de qualidade de item ao criar artefatos.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="FabaoMake_TwelveRateChance">
-			<DisplayName>Base artifact crafting success rate</DisplayName>
-			<Desc>Base success rate when crafting artifacts.</Desc>
+			<DisplayName>Taxa de sucesso na criação de artefatos básicos</DisplayName>
+			<Desc>Taxa de sucesso básica ao criar artefatos.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="DanMake_Speed">
-			<DisplayName>Elixir Concoction Speed</DisplayName>
-			<Desc>The speed, based on Alchemy skill, at which elixirs can be concocted.</Desc>
+			<DisplayName>Velocidade de preparação de elixir</DisplayName>
+			<Desc>A velocidade, com base na habilidade de Alquimia, na qual os elixires podem ser preparados.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="DanMake_SpeedAddV">
-			<DisplayName>Alchemy Speed Bonus</DisplayName>
-			<Desc>Additional Concoction speed bonus when concocting elixirs.</Desc>
+			<DisplayName>Bônus de velocidade de alquimia</DisplayName>
+			<Desc>Bônus de velocidade de preparação adicional ao preparar elixires.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="DanMake_SuccessRate">
-			<DisplayName>Alchemy Concoction Success Rate</DisplayName>
-			<Desc>Success rate, based on Alchemy skill, when concocting elixirs.</Desc>
+			<DisplayName>Taxa de sucesso da mistura de alquimia</DisplayName>
+			<Desc>Taxa de sucesso, com base na habilidade de Alquimia, ao preparar elixires.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="DanMake_SuccessRateAddV">
-			<DisplayName>Alchemy Success Rate Bonus</DisplayName>
-			<Desc>Additional bonus to success rate when concocting elixirs.</Desc>
+			<DisplayName>Bônus de taxa de sucesso de alquimia</DisplayName>
+			<Desc>Bônus adicional à taxa de sucesso ao preparar elixires.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="DanMake_Yield">
-			<DisplayName>Alchemy Yield Bonus</DisplayName>
-			<Desc>Yield bonus granted by Alchemy skill when concocting elixirs.</Desc>
+			<DisplayName>Bônus de rendimento de alquimia</DisplayName>
+			<Desc>Bônus de rendimento concedido pela habilidade Alquimia ao preparar elixires.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="DanMake_YieldAddP">
-			<DisplayName>Elixir Concoction Yield Bonus</DisplayName>
-			<Desc>Additional yield bonus for when concocting elixirs.</Desc>
+			<DisplayName>Bônus de rendimento de mistura de elixir</DisplayName>
+			<Desc>Bônus de rendimento adicional ao preparar elixires.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="PracticeRateAddPFromDan">
-			<DisplayName>Breakthrough Chance Bonus</DisplayName>
-			<Desc>bonus success rate when breakthroughing.</Desc>
+			<DisplayName>Bônus de Chance de Revelação</DisplayName>
+			<Desc>taxa de sucesso de bônus ao avançar.</Desc>
 		</Text>
 		<Text Name="WorldMapFlySpeed">
-			<DisplayName>Adventuring Flying Speed</DisplayName>
+			<DisplayName>Velocidade de vôo de aventura</DisplayName>
 			<DisplayValue>{0:N1} km/Qi</DisplayValue>
-			<Desc>Maximum fly speed when adventuring.</Desc>
+			<Desc>Velocidade máxima de vôo ao se aventurar.</Desc>
 			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="WorldMapFlySpeedAddP">
-			<DisplayName>Adventure Fly Speed Bonus</DisplayName>
-			<Desc>Maximum flying speed bonus when adventuring.</Desc>
+			<DisplayName>Velocidade de vôo de aventura</DisplayName>
+			<DisplayValue>{0:N1} km/Qi</DisplayValue>
+			<Desc>Velocidade máxima de vôo ao se aventurar.</Desc>
 			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="ExperienceNeckTimeCostCoefficient">
-			<DisplayName>Breakthrough Time Multiplier</DisplayName>
-			<Desc>Time multiplier for performing a Breakthrough during adventure.</Desc>
+			<DisplayName>Multiplicador de tempo de avanço</DisplayName>
+			<Desc>Multiplicador de tempo para realizar uma Descoberta durante a aventura.</Desc>
 		</Text>
 		<Text Name="NeckCountdownAddV">
-			<DisplayName>Breakthrough Delay Timer</DisplayName>
-			<DisplayValue>{0:N0} second(s)</DisplayValue>
-			<Desc>Time left in order to perform a Breakthrough.</Desc>
+			<DisplayName>Temporizador de atraso de avanço</DisplayName>
+			<DisplayValue>{0:N0} segundo(s)</DisplayValue>
+			<Desc>Tempo restante para realizar uma descoberta.</Desc>
 		</Text>
 		<Text Name="EsotericaNum">
-			<DisplayName>Manual Limit</DisplayName>
-			<Desc>The maximum amount of manuals.</Desc>
+			<DisplayName>Limite manual</DisplayName>
+			<Desc>A quantidade máxima de manuais.</Desc>
 		</Text>
 		<Text Name="AbilityLvAddV">
-			<DisplayName>Attainment Bonus</DisplayName>
-			<Desc>The actual Attainment bonus value.</Desc>
+			<DisplayName>Bônus de Conquista</DisplayName>
+			<Desc>O valor real do bônus de Conquista.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="ExperiencePrestigeAddP">
-			<DisplayName>Reputation Multiplier</DisplayName>
-			<Desc>Bonus multiplier for reputation acquisition for adventures.</Desc>
+			<DisplayName>Multiplicador de reputação</DisplayName>
+			<Desc>Multiplicador de bônus para aquisição de reputação para aventuras.</Desc>
 			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="ExperienceFindSpeedAddV">
-			<DisplayName>Adventure Exploration Speed</DisplayName>
-			<Desc>Speed bonus when exploring a new area during an adventure.</Desc>
+			<DisplayName>Velocidade de Exploração de Aventura</DisplayName>
+			<Desc>Bônus de velocidade ao explorar uma nova área durante uma aventura.</Desc>
 			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="NutritionToJingYuanK">
-			<DisplayName>Stamina Acquisition Rate</DisplayName>
-			<Desc>Stamina conversion rate for each point of satiety.</Desc>
+			<DisplayName>Taxa de aquisição de resistência</DisplayName>
+			<Desc>Taxa de conversão de resistência para cada ponto de saciedade.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="NutritionWaterAutoRecover">
-			<DisplayName>Qi Absorption Efficiency</DisplayName>
+			<DisplayName>Eficiência de absorção de Qi</DisplayName>
 			<DisplayValue>{0:N2}/sec</DisplayValue>
-			<Desc>The ability to obtain energy directly from heaven and earth to sustain hunger and thirst.</Desc>
+			<Desc>A capacidade de obter energia diretamente do céu e da terra para manter a fome e a sede.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="YaoShou_BaseLing">
-			<DisplayName>Demonic Qi</DisplayName>
-			<Desc>Demonic Qi</Desc>
+			<DisplayName>Qi Demoníaco</DisplayName>
+			<Desc>Qi Demoníaco</Desc>
 		</Text>
 		<Text Name="YaoShou_BaseAttack">
-			<DisplayName>Demonic Attack Power</DisplayName>
-			<Desc>Demonic Attack Power</Desc>
+			<DisplayName>Poder de Ataque Demoníaco</DisplayName>
+			<Desc>Poder de Ataque Demoníaco</Desc>
 		</Text>
 		<Text Name="YaoShou_BaseFabaoNum">
-			<DisplayName>Demonic Artifact Quantity</DisplayName>
-			<Desc>Demonic Artifact Quantity</Desc>
-		</Text>
-		<Text Name="GongMatch_JinAddV">
-			<DisplayName>Metal Law Matching Bonus</DisplayName>
-		</Text>
-		<Text Name="GongMatch_MuAddV">
-			<DisplayName>Wood Law Matching Bonus</DisplayName>
-		</Text>
-		<Text Name="GongMatch_ShuiAddV">
-			<DisplayName>Water Law Matching Bonus</DisplayName>
-		</Text>
-		<Text Name="GongMatch_HuoAddV">
-			<DisplayName>Fire Law Matching Bonus</DisplayName>
-		</Text>
-		<Text Name="GongMatch_TuAddV">
-			<DisplayName>Earth Law Matching Bonus</DisplayName>
-		</Text>
-		<Text Name="GongMatch_NoneAddV">
-			<DisplayName>Undefined Law Matching Bonus</DisplayName>
+			<DisplayName>Quantidade de artefatos demoníacos</DisplayName>
+			<Desc>Quantidade de artefatos demoníacos</Desc>
+			</Text>
+			<Text Name="GongMatch_JinAddV">
+			<DisplayName>Bônus de Correspondência da Lei do Metal</DisplayName>
+			</Text>
+			<Text Name="GongMatch_MuAddV">
+			<DisplayName>Bônus de Correspondência da Lei da Madeira</DisplayName>
+			</Text>
+			<Text Name="GongMatch_ShuiAddV">
+			<DisplayName>Bônus de Correspondência da Lei da Água</DisplayName>
+			</Text>
+			<Text Name="GongMatch_HuoAddV">
+			<DisplayName>Bônus de Correspondência da Lei de Incêndio</DisplayName>
+			</Text>
+			<Text Name="GongMatch_TuAddV">
+			<DisplayName>Bônus de Correspondência da Lei da Terra</DisplayName>
+			</Text>
+			<Text Name="GongMatch_NoneAddV">
+			<DisplayName>Bônus de correspondência de lei indefinida</DisplayName>
 		</Text>
 	</List>
 </Texts>

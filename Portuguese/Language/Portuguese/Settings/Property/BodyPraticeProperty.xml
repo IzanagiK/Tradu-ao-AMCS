@@ -1,189 +1,187 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="BodyPratice_BodyRecover">
-			<DisplayName>Physical Cultivator Self-healing Rate</DisplayName>
-			<Desc>The self-healing speed of Physical cultivators when they were injured.</Desc>
+			<DisplayName>Taxa de autocura do cultivador físico</DisplayName>
+			<Desc>A velocidade de autocura dos cultivadores físicos quando feridos.</Desc>
 			<DisplayValue>{0:P2}/sec</DisplayValue>
 			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_MaxZhenQi">
-			<DisplayName>Max True Qi</DisplayName>
-			<Desc>Maximum True Qi of Physical cultivators.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<DisplayName>Qi verdadeiro máximo</DisplayName>
+			<Desc>Máximo Qi Verdadeiro de cultivadores Físicos.</Desc>
 		</Text>
 		<Text Name="BodyPratice_RecoverZhenQi">
-			<DisplayName>True Qi Recovery Rate Base Value</DisplayName>
-			<Desc>The basic True Qi recovery rate of Physical cultivators.</Desc>
+			<DisplayName>Valor base da taxa de recuperação Qi real</DisplayName>
+			<Desc>A taxa básica de recuperação do Qi Verdadeiro dos cultivadores Físicos.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_DefenseRecoverZhenQi">
-			<DisplayName>Recovery Mode True Qi Recovery Rate</DisplayName>
-			<Desc>The percentage of True Qi to be recovered per second when a physical cultivator's True Qi is exhausted.</Desc>
+			<DisplayName>Taxa de recuperação True Qi do modo de recuperação</DisplayName>
+			<Desc>A porcentagem de Qi Verdadeiro a ser recuperada por segundo quando o Qi Verdadeiro de um cultivador físico está esgotado.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_CatchFaboValue">
-			<DisplayName>Consumption Rate of Suppression</DisplayName>
-			<Desc>The amount of additional True Qi to be consumed when a physical cultivator is suppressing an artifact.</Desc>
+			<DisplayName>Taxa de Supressão de Consumo</DisplayName>
+			<Desc>A quantidade de Qi Verdadeiro adicional a ser consumida quando um cultivador físico está suprimindo um artefato.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_BodyStrong">
-			<DisplayName>Body Strength</DisplayName>
-			<Desc>The ability of a physical cultivator's body to withstand damages. The stronger the body, the less likely it is to die from injuries.</Desc>
+			<DisplayName>Força do corpo</DisplayName>
+			<Desc>A habilidade do corpo de um cultivador físico de resistir a danos. Quanto mais forte o corpo, menor a probabilidade de morrer de lesões.</Desc>
 			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_QuenchingSpeed">
-			<DisplayName>Remold Speed</DisplayName>
-			<Desc>The speed at which Physical cultivators remold their bodies.</Desc>
+			<DisplayName>Velocidade de Remoção</DisplayName>
+			<Desc>A velocidade com que os cultivadores físicos remodelam seus corpos.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAtk_EquptMaxCount">
-			<DisplayName>Offensive Secret Body Count</DisplayName>
-			<Desc>The maximum number of Offensive Secret Bodies that a physical cultivator can activate simultaneously.</Desc>
+			<DisplayName>Contagem de corpos secreta ofensiva</DisplayName>
+			<Desc>O número máximo de Corpos Secretos Ofensivos que um cultivador físico pode ativar simultaneamente.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartDef_EquptMaxCount">
-			<DisplayName>Defensive Secret Body Count</DisplayName>
-			<Desc>The maximum number of Defensive Secret Bodies that a physical cultivator can activate simultaneously.</Desc>
+			<DisplayName>Contagem de corpos secretos defensivos</DisplayName>
+			<Desc>O número máximo de Corpos Secretos Defensivos que um cultivador físico pode ativar simultaneamente.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartBuff_EquptMaxCount">
-			<DisplayName>Effective Secret Body Count</DisplayName>
-			<Desc>The maximum number of Effective Secret Bodies that a physical cultivator can activate simultaneously.</Desc>
+			<DisplayName>Contagem de corpos secreta efetiva</DisplayName>
+			<Desc>O número máximo de Corpos Secretos Efetivos que um cultivador físico pode ativar simultaneamente.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_Other_TunaAddp">
-			<DisplayName>Additional Breathing Effect</DisplayName>
-			<Desc>The bonus applied to a physical cultivator's efficiency of gaining essence from breathing.</Desc>
+			<DisplayName>Efeito de respiração adicional</DisplayName>
+			<Desc>O bônus aplicado à eficiência de um cultivador físico em obter essência pela respiração.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_SuperPartCostAddP">
-			<DisplayName>Secret Body Consumption Rate</DisplayName>
-			<Desc>The bonus applied to the True Qi Consumption Rate of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Taxa de consumo de corpo secreto</DisplayName>
+			<Desc>O bônus aplicado à Taxa de Consumo de Qi Verdadeiro de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_SuperPartRecoverAddP">
-			<DisplayName>Secret Body True Qi Recovery Rate</DisplayName>
-			<Desc>The bonus applied to the True Qi Recovery Rate of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Taxa de recuperação do Qi verdadeiro do corpo secreto</DisplayName>
+			<Desc>O bônus aplicado à Taxa de Recuperação do Qi Verdadeiro de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_AtkPower">
-			<DisplayName>Global Secret Body Power</DisplayName>
-			<Desc>The bonus applied to the power of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Poder Corporal Secreto Global</DisplayName>
+			<Desc>O bônus aplicado ao poder de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_DefPower">
-			<DisplayName>Global Secret Body Endurance</DisplayName>
-			<Desc>The bonus applied to the Endurance of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Resistência Corporal Secreta Global</DisplayName>
+			<Desc>O bônus aplicado à Resistência de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_AtkRate">
-			<DisplayName>Global Secret Body Accuracy</DisplayName>
-			<Desc>The bonus applied to the Attack Accuracy of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Precisão global do corpo secreto</DisplayName>
+			<Desc>O bônus aplicado à Precisão de Ataque de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_DefRate">
-			<DisplayName>Global Secret Body Defense Rate</DisplayName>
-			<Desc>The bonus applied to the Defense Success Rate of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Taxa Global de Defesa Corporal Secreta</DisplayName>
+			<Desc>O bônus aplicado à Taxa de Sucesso de Defesa de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_ArmorPenetration">
-			<DisplayName>Global Secret Body Penetration</DisplayName>
-			<Desc>The bonus applied to the Qi Barrier Penetration of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Penetração Global do Corpo Secreto</DisplayName>
+			<Desc>O bônus aplicado à Penetração da Barreira de Qi de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_CatchFabao">
-			<DisplayName>Global Secret Body Suppression</DisplayName>
-			<Desc>The bonus applied to the Artifact Suppression Chance of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Supressão global de corpos secretos</DisplayName>
+			<Desc>O bônus aplicado à Chance de Supressão de Artefato de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_AtkPower">
-			<DisplayName>Global Secret Body Power</DisplayName>
-			<Desc>The bonus value applied to the power of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Poder Corporal Secreto Global</DisplayName>
+			<Desc>O valor do bônus aplicado ao poder de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_DefPower">
-			<DisplayName>Global Secret Body Endurance</DisplayName>
-			<Desc>The bonus value applied to the Endurance of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Resistência Corporal Secreta Global</DisplayName>
+			<Desc>O valor do bônus aplicado à Resistência de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_AtkRate">
-			<DisplayName>Global Secret Body Accuracy</DisplayName>
-			<Desc>The bonus value applied to the Attack Accuracy of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Precisão global do corpo secreto</DisplayName>
+			<Desc>O valor de bônus aplicado à Precisão de Ataque de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_DefRate">
-			<DisplayName>Global Secret Body Defense Rate</DisplayName>
-			<Desc>The bonus value applied to the Defense Success Rate of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Taxa Global de Defesa Corporal Secreta</DisplayName>
+			<Desc>O valor do bônus aplicado à Taxa de Sucesso de Defesa de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_ArmorPenetration">
-			<DisplayName>Global Secret Body Penetration</DisplayName>
-			<Desc>The bonus value applied to the Qi Barrier Penetration of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Penetração Global do Corpo Secreto</DisplayName>
+			<Desc>O valor do bônus aplicado à Penetração da Barreira de Qi de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_CatchFabao">
-			<DisplayName>Global Secret Body Suppression</DisplayName>
-			<Desc>The bonus value applied to the Artifact Suppression Chance of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Supressão global de corpos secretos</DisplayName>
+			<Desc>O valor de bônus aplicado à Chance de Supressão de Artefato de todos os Corpos Secretos atualmente ativados.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_AngerFireNum">
-			<DisplayName>Max Painful Memories</DisplayName>
-			<Desc>The maximum number of memories Physical cultivators can remember as their Painful Memories.</Desc>
+			<DisplayName>Máximo de memórias dolorosas</DisplayName>
+			<Desc>O número máximo de memórias que os cultivadores físicos podem lembrar como suas memórias dolorosas.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_AngerFireDuration">
-			<DisplayName>Furious Berserk Duration</DisplayName>
-			<Desc>The lasting time of a Furious Berserk when the Physical cultivator initiate it.</Desc>
+			<DisplayName>Duração do Furioso Furioso</DisplayName>
+			<Desc>O tempo de duração de um Furioso Furioso quando o Cultivador Físico o iniciou.</Desc>
 			<DisplayValue>{0:N} sec</DisplayValue>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_AngerFireEffectAddp">
-			<DisplayName>Furious Berserk Effect Multiplier</DisplayName>
-			<Desc>The effective strength of a Furious Berserk when the Physical cultivator initiate it.</Desc>
+			<DisplayName>Multiplicador de Efeito Furioso Furioso</DisplayName>
+			<Desc>A força efetiva de um Furioso Furioso quando o Cultivador Físico o inicia.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_EatItemMaxRate">
-			<DisplayName>Max Devour Item Tier</DisplayName>
-			<Desc>The highest tier of items that Physical cultivators can devour.</Desc>
+			<DisplayName>Nível máximo de itens de devorar</DisplayName>
+			<Desc>O nível mais alto de itens que os cultivadores físicos podem devorar.</Desc>
 			<DisplayValue>Tier {0:N}</DisplayValue>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_EatItemProduceCountAddp">
-			<DisplayName>Bonus to Devouring amount</DisplayName>
-			<Desc>The bonus percentage applied to the number of Essence obtained by Physical cultivators after devouring items.</Desc>
+			<DisplayName>Bônus para devorar a quantidade</DisplayName>
+			<Desc>A porcentagem de bônus aplicada ao número de Essências obtidas por cultivadores Físicos após devorar itens.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_EatItemProduceRateAddp">
-			<DisplayName>Bonus to Devouring rarity</DisplayName>
-			<Desc>The bonus percentage applied to the chance of obtaining rare Essence by Physical cultivators after devouring items.</Desc>
+			<DisplayName>Bônus para Devorar raridade</DisplayName>
+			<Desc>A porcentagem de bônus aplicada à chance de obter Essência rara por cultivadores Físicos após devorar itens.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache1">
-			<DisplayName>Bonus to Remolding uncommonly</DisplayName>
-			<Desc>The bonus chance of an uncommon evolution direction to occur when a physical cultivator is remolding.</Desc>
+			<DisplayName>Bônus para remodelação incomum</DisplayName>
+			<Desc>A chance de bônus de uma direção de evolução incomum ocorrer quando um cultivador físico está sendo remodelado.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache2">
-			<DisplayName>Bonus to Remolding rarely</DisplayName>
-			<Desc>The bonus chance of a rare evolution direction to occur when a physical cultivator is remolding.</Desc>
+			<DisplayName>Bônus para Remoldagem raramente</DisplayName>
+			<Desc>A chance de bônus de uma rara direção de evolução ocorrer quando um cultivador físico está sendo remodelado.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache3">
-			<DisplayName>Bonus to Remolding superbly</DisplayName>
-			<Desc>The bonus chance of a superb evolution direction to occur when a physical cultivator is remolding.</Desc>
+			<DisplayName>Bônus para remodelar soberbamente</DisplayName> <Desc>A chance de bônus de uma direção de evolução soberba ocorrer quando um cultivador físico está remodelando.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache4">
-			<DisplayName>Bonus to Remolding epicly</DisplayName>
-			<Desc>The bonus chance of an epic evolution direction to occur when a physical cultivator is remolding.</Desc>
+			<DisplayName>Bônus para remodelação épica</DisplayName>
+			<Desc>A chance de bônus de uma direção de evolução épica ocorrer quando um cultivador físico está sendo remodelado.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Null">
-			<DisplayName>Remolding Fail Chance Bonus</DisplayName>
+			<DisplayName>Bônus de chance de falha de remodelação</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_MaxFoodAddtion">
-			<DisplayName>Max Hunger Bonus</DisplayName>
-			<Desc>Physical Cultivator's Max Hunger Bonus</Desc>
+			<DisplayName>Bônus Máximo de Fome</DisplayName>
+			<Desc>Bônus Máximo de Fome do Cultivador Físico</Desc>
 			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 	</List>

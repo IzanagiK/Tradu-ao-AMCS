@@ -6,11 +6,11 @@
 		</Text>
 		<Text Name="Building_ColdHole" sParam="Building">
 			<ThingName>Frozen Furnace</ThingName>
-			<Desc>Um antigo sábio tentou aqui inventar um elixir que inverte o destino, mas a sua criação é devastada por uma heavenly tribulation. O fogo da fornalha foi invertido em gelo que não derrete, mesmo após centenas de séculos.</Desc>
+			<Desc>Um antigo sábio tentou aqui inventar um elixir que inverte o destino, mas a sua criação é devastada por uma tribulação celestial. O fogo da fornalha foi invertido em gelo que não derrete, mesmo após centenas de séculos.</Desc>
 		</Text>
 		<Text Name="Building_OuterWorld" sParam="Building">
 			<ThingName>Otherworld Rift</ThingName>
-			<Desc>O espaço aqui foi destruído devido a uma batalha entre sábios poderosos, e transformou-se, ao longo dos anos, numa Otherworld Rift, permitindo que itens ou cultivadores de outros planos o passassem de tempos em tempos.</Desc>
+			<Desc>O espaço aqui foi destruído devido a uma batalha entre sábios poderosos, e transformou-se, ao longo dos anos, numa Fenda do Outro Mundo, permitindo que itens ou cultivadores de outros planos o passassem de tempos em tempos.</Desc>
 		</Text>
 		<Text Name="Building_YinYang" sParam="Building">
 			<ThingName>Yin Yang Stela</ThingName>
@@ -18,13 +18,13 @@
 		</Text>
 		<Text Name="Building_DiMu" sParam="Building">
 			<ThingName>Earthmother Shrine</ThingName>
-			<Desc>Um santuário deixado por um antigo culto de adoração à Earthmother. Pode-se fazer um desejo ao remanescente da vontade da Earthmother’s oferecendo-o com Spirit Stones, embora isto possa trazer desastres naturais.</Desc>
+			<Desc>Um santuário deixado por um antigo culto de adoração à Mãe-Terra. Pode-se fazer um desejo ao remanescente da vontade da Mãe Terra oferecendo-o com Pedras Espirituais, embora isto possa trazer desastres naturais.</Desc>
 		</Text>
 		<Text Name="LingShu" sParam="Building">
 			<ThingName>Illumitree</ThingName>
 			<Desc>Uma planta curiosa que pode transformar solo próximo em spiritual soil. No entanto, o pólen que liberta pode causar blocked meridians e suppressed Qi.</Desc>
 			<StoryBnts.0.Name>Feel</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Feel the Qi around Illumitree.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Sinta o Qi ao redor de Illumitree.</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

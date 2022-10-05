@@ -4,182 +4,182 @@
 			<DisplayName>Test Data</DisplayName>
 		</Text>
 		<Text Name="GlobalEfficiency">
-			<DisplayName>Overall Work Efficiency</DisplayName>
-			<Desc>The cultivators' basic work rate, which affects all work they do.</Desc>
+			<DisplayName>Eficiência geral do trabalho</DisplayName>
+			<Desc>A taxa básica de trabalho dos cultivadores, que afeta todo o trabalho que eles fazem.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="SmithingInjuredChance">
-			<DisplayName>Forging Injury Chance</DisplayName>
-			<Desc>The chance for harmful accidents to occur while carrying out forging work.</Desc>
+			<DisplayName>Chance de ferimento por falsificação</DisplayName>
+			<Desc>A chance de ocorrerem acidentes prejudiciais durante a execução do trabalho de forjamento.</Desc>
 		</Text>
 		<Text Name="MiningInjuredChance">
-			<DisplayName>Digging Injury Chance</DisplayName>
-			<Desc>The chance for harmful accidents to occur while carrying out digging work.</Desc>
+			<DisplayName>Chance de ferimento por escavação</DisplayName>
+			<Desc>A chance de acidentes perigosos ocorrerem durante o trabalho de escavação.</Desc>
 		</Text>
 		<Text Name="ConstructInjuredChance">
-			<DisplayName>Construction Injury Chance</DisplayName>
-			<Desc>The chance for harmful accidents to occur while carrying out building work.</Desc>
+			<DisplayName>Possibilidade de lesão na construção</DisplayName>
+			<Desc>A chance de ocorrerem acidentes prejudiciais durante a execução de trabalhos de construção.</Desc>
 		</Text>
 		<Text Name="DrugProductSpeed">
-			<DisplayName>Medicine Craft Speed</DisplayName>
-			<Desc>The work rate associated with making medicine, affected by mood.</Desc>
+			<DisplayName>Velocidade de fabricação de medicamentos</DisplayName>
+			<Desc>A taxa de trabalho associada à fabricação de remédios, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="TreatSpeed">
-			<DisplayName>Healing Speed</DisplayName>
-			<Desc>The work rate associated with healing, affected by mood.</Desc>
+			<DisplayName>Velocidade de Cura</DisplayName>
+			<Desc>A taxa de trabalho associada à cura, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="TreatSuccessChance">
-			<DisplayName>Healing Success Rate</DisplayName>
-			<Desc>The probability for healing to be carried out successfully. Failure can lead to the injury worsening.</Desc>
+			<DisplayName>Taxa de sucesso de cura</DisplayName>
+			<Desc>A probabilidade de cura ser realizada com sucesso. A falha pode levar ao agravamento da lesão.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="TreatmentExpectQuality">
-			<DisplayName>Healing Estimate</DisplayName>
+			<DisplayName>Estimativa de recuperação</DisplayName>
 			<DisplayValue>{0}%/sec</DisplayValue>
-			<Desc>The estimated value for how long an injury will take to recover following treatment. Can vary somewhat according to the doctor's status.</Desc>
+			<Desc>O valor estimado de quanto tempo uma lesão levará para se recuperar após o tratamento. Pode variar um pouco de acordo com o status do médico.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="TreatmentRealQualityPercentMin">
-			<DisplayName>Minimum Healing</DisplayName>
-			<Desc>The lowest random value that can be attained when carrying out healing.</Desc>
+			<DisplayName>Cura Mínima</DisplayName>
+			<Desc>O menor valor aleatório que pode ser obtido ao realizar a cura.</Desc>
 		</Text>
 		<Text Name="TreatmentRealQualityPercentMax">
-			<DisplayName>Maximum Healing</DisplayName>
-			<Desc>The highest random value that can be attained while carrying out healing.</Desc>
+			<DisplayName>Cura Máxima</DisplayName>
+			<Desc>O maior valor aleatório que pode ser obtido durante a cura.</Desc>
 		</Text>
 		<Text Name="CookingSpeed">
-			<DisplayName>Cooking Speed</DisplayName>
-			<Desc>The work rate associated with cooking, affected by mood.</Desc>
+			<DisplayName>Velocidade de cozimento</DisplayName>
+			<Desc>A taxa de trabalho associada à culinária, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="ButcherSpeed">
-			<DisplayName>Butchering Speed</DisplayName>
-			<Desc>The work rate associated with butchering, affected by mood.</Desc>
+			<DisplayName>Velocidade de corte</DisplayName>
+			<Desc>A taxa de trabalho associada ao abate, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="ButcherYieldEfficiency">
-			<DisplayName>Butchering Yield</DisplayName>
-			<Desc>The ratio of fur and meat yielded from butchering.</Desc>
+			<DisplayName>Rendimento de corte</DisplayName>
+			<Desc>A proporção de pele e carne produzida pelo abate.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="CookingSuccessChance">
-			<DisplayName>Cooking Success Rate</DisplayName>
-			<Desc>The success rate for preparing food. Failure can result in a spoiled meal.</Desc>
+			<DisplayName>Taxa de sucesso na cozinha</DisplayName>
+			<Desc>A taxa de sucesso na preparação de alimentos. A falha pode resultar em uma refeição estragada.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="StoneWorkSpeed">
-			<DisplayName>Stoneworking Speed</DisplayName>
-			<Desc>The work rate associated with processing and polishing stone materials, affected by mood.</Desc>
+			<DisplayName>Velocidade de trabalho em pedra</DisplayName>
+			<Desc>A taxa de trabalho associada ao processamento e polimento de materiais de pedra, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="ConstructionSpeed">
-			<DisplayName>Building Speed</DisplayName>
-			<Desc>The work rate associated with construction, affected by mood.</Desc>
+			<DisplayName>Velocidade de construção</DisplayName>
+			<Desc>A taxa de trabalho associada à construção, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="ConstructSuccessChance">
-			<DisplayName>Building Success Rate</DisplayName>
-			<Desc>The success rate for building structures. Failure can lead to injury.</Desc>
+			<DisplayName>Taxa de sucesso de construção</DisplayName>
+			<Desc>A taxa de sucesso para a construção de estruturas. A falha pode causar ferimentos.</Desc>
 		</Text>
 		<Text Name="PlantWorkSpeed">
-			<DisplayName>Farming Speed</DisplayName>
-			<Desc>The work rate associated with farming, affected by mood.</Desc>
+			<DisplayName>Velocidade de cultivo</DisplayName>
+			<Desc>A taxa de trabalho associada à agricultura, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="PlantHarvestSpeed">
-			<DisplayName>Harvesting Speed</DisplayName>
-			<Desc>The work rate associated with harvesting, affected by mood.</Desc>
+			<DisplayName>Velocidade de colheita</DisplayName>
+			<Desc>A taxa de trabalho associada à colheita, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="PlantHarvestYieldEfficiency">
-			<DisplayName>Harvest Yield</DisplayName>
-			<Desc>The crop yield gained from harvesting crops.</Desc>
+			<DisplayName>Rendimento da colheita</DisplayName>
+			<Desc>O rendimento da colheita obtido com a colheita.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="MiningSpeed">
-			<DisplayName>Mining Speed</DisplayName>
-			<Desc>The work rate associated with mining, affected by mood.</Desc>
+			<DisplayName>Velocidade de Mineração</DisplayName>
+			<Desc>A taxa de trabalho associada à mineração, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="MiningYieldEfficiency">
-			<DisplayName>Mining Yield</DisplayName>
-			<Desc>The yield gained from mining for minerals.</Desc>
+			<DisplayName>Rendimento de mineração</DisplayName>
+			<Desc>O rendimento obtido com a mineração de minerais.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="MadeQualityAddValue">
-			<DisplayName>Crafting Quality Gains</DisplayName>
-			<Desc>The quality that is added to items when crafting them into end products.</Desc>
+			<DisplayName>Criando Ganhos de Qualidade</DisplayName>
+			<Desc>A qualidade adicionada aos itens ao transformá-los em produtos finais.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="ArtRateValue">
-			<DisplayName>Estimated Artwork Value</DisplayName>
-			<Desc>The quality that is added to items when crafting them into end products.</Desc>
+			<DisplayName>Valor estimado da arte</DisplayName>
+			<Desc>A qualidade adicionada aos itens ao transformá-los em produtos finais.</Desc>
 		</Text>
 		<Text Name="SmithingSpeed">
-			<DisplayName>Forging Speed</DisplayName>
-			<Desc>The work rate associated with forging, affected by mood.</Desc>
+			<DisplayName>Velocidade de Forjamento</DisplayName>
+			<Desc>A taxa de trabalho associada ao forjamento, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="HandworkSpeed">
-			<DisplayName>Handicraft Speed</DisplayName>
-			<Desc>The work rate associated with handicraft, affected by mood.</Desc>
+			<DisplayName>Velocidade de artesanato</DisplayName>
+			<Desc>A taxa de trabalho associada ao artesanato, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="TailoringSpeed">
-			<DisplayName>Sewing Speed</DisplayName>
-			<Desc>The work rate associated with sewing, affected by mood.</Desc>
+			<DisplayName>Velocidade de costura</DisplayName>
+			<Desc>A taxa de trabalho associada à costura, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="ManufactureExpectQuality">
-			<DisplayName>Product Quality Estimate</DisplayName>
-			<Desc>The estimated quality of a product being crafted. The end product's value will be within a margin around this estimate.</Desc>
+			<DisplayName>Estimativa de qualidade do produto</DisplayName>
+			<Desc>A qualidade estimada de um produto que está sendo criado. O valor do produto final estará dentro de uma margem em torno dessa estimativa.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="ManufactureRealQualityPercentMin">
-			<DisplayName>Minimum Craft Quality</DisplayName>
-			<Desc>The lowest possible quality of an item being crafted.</Desc>
+			<DisplayName>Qualidade Mínima de Artesanato</DisplayName>
+			<Desc>A qualidade mais baixa possível de um item sendo criado.</Desc>
 		</Text>
 		<Text Name="ManufactureRealQualityPercentMax">
-			<DisplayName>Maximum Craft Quality</DisplayName>
-			<Desc>The highest possible quality of an item being crafted.</Desc>
+			<DisplayName>Qualidade máxima de artesanato</DisplayName>
+			<Desc>A mais alta qualidade possível de um item sendo criado.</Desc>
 		</Text>
 		<Text Name="SmithingQualityAddValue">
-			<DisplayName>Forging Quality Gains</DisplayName>
-			<Desc>The quality that is added to the finished items when forging.</Desc>
+			<DisplayName>Forjando ganhos de qualidade</DisplayName>
+			<Desc>A qualidade adicionada aos itens acabados durante o forjamento.</Desc>
 		</Text>
 		<Text Name="HandworkQualityAddValue">
-			<DisplayName>Handicraft Quality Gains</DisplayName>
-			<Desc>The quality that is added to the finished items when doing handicraft.</Desc>
+			<DisplayName>Ganhos de qualidade de artesanato</DisplayName>
+			<Desc>A qualidade que é adicionada aos itens acabados ao fazer artesanato.</Desc>
 		</Text>
 		<Text Name="TailoringQualityAddValue">
-			<DisplayName>Sewing Quality Gains</DisplayName>
-			<Desc>The quality that is added to the finished items when sewing.</Desc>
+			<DisplayName>Ganhos de qualidade de costura</DisplayName>
+			<Desc>A qualidade adicionada aos itens acabados ao costurar.</Desc>
 		</Text>
 		<Text Name="CuttingSpeed">
-			<DisplayName>Cutting Speed</DisplayName>
-			<Desc>The work rate associated with woodcutting, cutting grass and so on, affected by mood.</Desc>
+			<DisplayName>Velocidade de corte</DisplayName>
+			<Desc>A taxa de trabalho associada ao corte de madeira, corte de grama e assim por diante, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="DisasterFightingSpeed">
-			<DisplayName>Firefighting Speed</DisplayName>
-			<Desc>The work rate associated with firefighting behaviors, affected by mood.</Desc>
+			<DisplayName>Velocidade de combate a incêndio</DisplayName>
+			<Desc>A taxa de trabalho associada aos comportamentos de combate a incêndios, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="DisasterFightingSuccessChance">
-			<DisplayName>Firefighting Success Rate</DisplayName>
-			<Desc>The chance for success when engaging in firefighting maneuvers. Failure can result in injuries.</Desc>
+			<DisplayName>Taxa de sucesso no combate a incêndios</DisplayName>
+			<Desc>A chance de sucesso ao se envolver em manobras de combate a incêndios. A falha pode resultar em ferimentos.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="CleanSpeed">
-			<DisplayName>Cleaning Speed</DisplayName>
-			<Desc>The work rate associated with cleaning, affected by mood.</Desc>
+			<DisplayName>Velocidade de limpeza</DisplayName>
+			<Desc>A taxa de trabalho associada à limpeza, afetada pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="SocialInclination">
-			<DisplayName>Social Tendency</DisplayName>
-			<Desc>The tendency to have different kinds of social behaviors, affected by mood.</Desc>
+			<DisplayName>Tendência Social</DisplayName>
+			<Desc>A tendência a ter diferentes tipos de comportamentos sociais, afetados pelo humor.</Desc>
 			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 	</List>

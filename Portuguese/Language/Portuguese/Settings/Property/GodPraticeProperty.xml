@@ -1,23 +1,23 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="GodCity_MaxResident">
-			<DisplayName>Max Divine Residents</DisplayName>
-			<Desc>The maximum number of followers a Law of Shendao practitioner can accept.</Desc>
+			<DisplayName>Máximo de residentes divinos</DisplayName>
+			<Desc>O número máximo de seguidores que um praticante da Lei de Shendao pode aceitar.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="GodCity_MaxCoreBeliever">
-			<DisplayName>Max Core Follower</DisplayName>
-			<Desc>The maximum number of core followers a Law of Shendao practitioner can accept.</Desc>
+			<DisplayName>Seguidor Máximo Principal</DisplayName>
+			<Desc>O número máximo de seguidores principais que um praticante da Lei de Shendao pode aceitar.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="GodCity_PracticeEffect">
-			<DisplayName>Belief Gains Bonus</DisplayName>
-			<Desc>The Belief bonus gained by a Law of Shendao practitioners from the Divine Realm.</Desc>
+			<DisplayName>Bônus de ganhos de crença</DisplayName>
+			<Desc>O bônus de Crença obtido por praticantes da Lei de Shendao do Reino Divino.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="GodPractice_GodPowerAddV">
-			<DisplayName>Divinity</DisplayName>
-			<Desc>The Divinity Bonus of a Law of Shendao practitioner.</Desc>
+			<DisplayName>Divindade</DisplayName>
+			<Desc>O Bônus Divino de um praticante da Lei de Shendao.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 	</List>

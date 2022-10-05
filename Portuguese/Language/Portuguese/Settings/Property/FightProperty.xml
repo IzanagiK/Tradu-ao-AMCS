@@ -1,137 +1,137 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="NpcFight_BaseHitChance">
-			<DisplayName>Accuracy in Battle</DisplayName>
-			<Desc>The chance of Outer Disciples directly hitting the enemy.</Desc>
+			<DisplayName>Precisão na batalha</DisplayName>
+			<Desc>A chance dos Discípulos Externos acertarem diretamente o inimigo.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_BaseDodgeChance">
-			<DisplayName>Dodge in Battle</DisplayName>
-			<Desc>The chance of Physical cultivators directly dodging an attack.</Desc>
+			<DisplayName>Desviar na Batalha</DisplayName>
+			<Desc>A chance de cultivadores físicos se esquivarem diretamente de um ataque.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoNum">
-			<DisplayName>Number of Artifacts</DisplayName>
-			<Desc>Number of artifacts the character can carry.</Desc>
+			<DisplayName>Número de artefatos</DisplayName>
+			<Desc>Número de artefatos que o personagem pode carregar.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoLingRecoverK">
-			<DisplayName>Artifact Qi Recovery Multiplier</DisplayName>
-			<Desc>The ratio of Qi recovered by an artifact to Qi absorbed from the character.</Desc>
+			<DisplayName>Multiplicador de recuperação Qi do artefato</DisplayName>
+			<Desc>A proporção de Qi recuperado por um artefato para Qi absorvido do personagem.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoPowerAddP">
-			<DisplayName>Artifact Power Bonus</DisplayName>
-			<Desc>Damage ability of artifacts.</Desc>
+			<DisplayName>Bônus de Poder de Artefato</DisplayName>
+			<Desc>Capacidade de dano de artefatos.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoLingRecoverAddP">
-			<DisplayName>Artifact Qi Recovery Bonus</DisplayName>
-			<Desc>Recovery rate of Artifact Qi.</Desc>
+			<DisplayName>Bônus de recuperação de Qi de artefato</DisplayName>
+			<Desc>Taxa de recuperação do Qi do Artefato.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoCoolDownAddP">
-			<DisplayName>Artifact Attack Speed Bonus</DisplayName>
-			<Desc>The minimum interval between Artifact-launched attacks.</Desc>
+			<DisplayName>Bônus de velocidade de ataque de artefato</DisplayName>
+			<Desc>O intervalo mínimo entre ataques lançados por artefatos.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoMaxLingAddP">
-			<DisplayName>Artifact Max Qi Bonus</DisplayName>
-			<Desc>Maximum amount of Qi an artifact may contain.</Desc>
+			<DisplayName>Bônus de Qi Máximo do Artefato</DisplayName>
+			<Desc>Quantidade máxima de Qi que um artefato pode conter.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoRepelDistanceAddV">
-			<DisplayName>Artifact Knockback Distance Bonus</DisplayName>
-			<Desc>Knockback distance when two artifacts clash.</Desc>
+			<DisplayName>Bônus de distância de empurrão de artefato</DisplayName>
+			<Desc>Distância de repulsão quando dois artefatos colidem.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoFlySpeedAddP">
-			<DisplayName>Artifact Flying Speed Bonus</DisplayName>
-			<Desc>Speed at which artifacts fly.</Desc>
+			<DisplayName>Bônus de velocidade de vôo do artefato</DisplayName>
+			<Desc>Velocidade com que os artefatos voam.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoTurnSpeedAddP">
-			<DisplayName>Artifact Turning Speed Bonus</DisplayName>
-			<Desc>Speed at which artifacts turn.</Desc>
+			<DisplayName>Bônus de velocidade de giro de artefato</DisplayName>
+			<Desc>Velocidade na qual os artefatos giram.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoRepelResistanceAddV">
-			<DisplayName>Artifact Knockback Distance Reduction</DisplayName>
-			<Desc>Knockback resistance when two artifacts clash.</Desc>
+			<DisplayName>Redução de distância de knockback de artefato</DisplayName>
+			<Desc>Resistência ao empurrão quando dois artefatos se chocam.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoTrailingLengthAddP">
-			<DisplayName>Artifact Trail Length Bonus</DisplayName>
-			<Desc>Trail length when artifacts fly.</Desc>
+			<DisplayName>Bônus de duração da trilha de artefato</DisplayName>
+			<Desc>Comprimento da trilha quando os artefatos voam.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_SpellPowerAddP">
-			<DisplayName>Spell power bonus.</DisplayName>
-			<Desc>Effect size of spells when casting damage or healing spells.</Desc>
+			<DisplayName>Bônus de poder mágico.</DisplayName>
+			<Desc>Tamanho do efeito dos feitiços ao lançar feitiços de dano ou cura.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_SpellLingCostAddP">
-			<DisplayName>Spell Qi Cost Bonus</DisplayName>
-			<Desc>Qi cost of casting spells.</Desc>
+			<DisplayName>Bônus de custo de Qi de feitiço</DisplayName>
+			<Desc>Custo de Qi para lançar feitiços.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_SpellCastTimeAddP">
-			<DisplayName>Spell Channeling Bonus</DisplayName>
-			<Desc>The length of preparation time needed before releasing Spells.</Desc>
+			<DisplayName>Bônus de canalização de feitiços</DisplayName>
+			<Desc>O tempo de preparação necessário antes de lançar Feitiços.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_SpellCoolDownAddP">
-			<DisplayName>Spell Cooldown Bonus</DisplayName>
+			<DisplayName>Bônus de recarga de feitiço</DisplayName>
 		</Text>
 		<Text Name="NpcFight_FightSkillSoul">
-			<DisplayName>Spell Primordial Soul</DisplayName>
-			<Desc>Only those who have reached the highest level in the ways of Spells are able to produce it. Attach it to a Spell, and the Spell would be automatically released during battle.</Desc>
+			<DisplayName>Feitiço Alma Primordial</DisplayName>
+			<Desc>Somente aqueles que atingiram o nível mais alto nos caminhos dos Feitiços são capazes de produzi-lo. Anexe-o a um Feitiço e o Feitiço será lançado automaticamente durante a batalha.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ShieldConversionRate">
-			<DisplayName>Barrier Power Bonus</DisplayName>
-			<DisplayValue>{0:N3} damage/Qi</DisplayValue>
-			<Desc>The bonus value added to the amount of damage reduction granted by each point of Qi when withstanding damage with Qi Barrier.</Desc>
+			<DisplayName>Bônus de Poder de Barreira</DisplayName>
+			<DisplayValue>{0:N3} Dano/Qi</DisplayValue>
+			<Desc>O valor do bônus adicionado à quantidade de redução de dano concedida por cada ponto de Qi ao suportar dano com Barreira de Qi.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ShieldConversionRateAddP">
-			<DisplayName>Barrier Power Bonus</DisplayName>
-			<Desc>The bonus applied to the amount of damage reduction granted by each point of Qi when withstanding damage with Qi Barrier.</Desc>
+			<DisplayName>Bônus de Poder de Barreira</DisplayName>
+			<Desc>O bônus aplicado à quantidade de redução de dano concedida por cada ponto de Qi ao suportar dano com Barreira de Qi.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ZhenKeyPointNum">
-			<DisplayName>Formation Size</DisplayName>
-			<Desc>The size of the formation with this character as the pillar. A formation with more people will have a larger size.</Desc>
+			<DisplayName>Tamanho da formação</DisplayName>
+			<Desc>O tamanho da formação com este personagem como pilar. Uma formação com mais pessoas terá um tamanho maior.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ZhenEnginePower">
-			<DisplayName>Formation Load</DisplayName>
-			<Desc>The load the formation can carry with this character as the pillar. A more complicated formation is capable of sustaining a heavier load.</Desc>
+			<DisplayName>Carga de formação</DisplayName>
+			<Desc>A carga que a formação pode carregar com este personagem como pilar. Uma formação mais complicada é capaz de sustentar uma carga mais pesada.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ShieldResistanceToJin">
-			<DisplayName>Metal Damage Reduction</DisplayName>
-			<Desc>The damage reduction when the cultivator was sustaining Metal damage.</Desc>
+			<DisplayName>Redução de Danos Metálicos</DisplayName>
+			<Desc>A redução de dano quando o cultivador estava sofrendo dano de metal.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ShieldResistanceToMu">
-			<DisplayName>Wood Damage Reduction</DisplayName>
-			<Desc>The damage reduction when the cultivator was sustaining Wood Damage.</Desc>
+			<DisplayName>Redução de danos à madeira</DisplayName>
+			<Desc>A redução de dano quando o cultivador estava sofrendo dano de madeira.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ShieldResistanceToShui">
-			<DisplayName>Water Damage Reduction</DisplayName>
-			<Desc>The damage reduction when the cultivator was sustaining Water Damage.</Desc>
+			<DisplayName>Redução de danos causados pela água</DisplayName>
+			<Desc>A redução de dano quando o cultivador estava sofrendo Dano de Água.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ShieldResistanceToHuo">
-			<DisplayName>Fire Damage Reduction</DisplayName>
-			<Desc>The damage reduction when the cultivator was sustaining Fire Damage.</Desc>
+			<DisplayName>Redução de danos por incêndio</DisplayName>
+			<Desc>A redução de dano quando o cultivador estava sofrendo dano de fogo.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ShieldResistanceToTu">
-			<DisplayName>Earth Damage Reduction</DisplayName>
-			<Desc>The damage reduction when the cultivator was sustaining Earth Damage.</Desc>
+			<DisplayName>Redução de danos à terra</DisplayName>
+			<Desc>A redução de dano quando o cultivador estava sofrendo dano de terra.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 	</List>
