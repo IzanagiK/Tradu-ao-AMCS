@@ -591,28 +591,28 @@ Discípulos Externos</DisplayName>
 		<Text Name="LookPractice">
 			<Type>Cultivation</Type>
 			<DisplayName>Fatores relacionados ao cultivo</DisplayName>
-			<Desc>In this tutorial, learn the main factors that affect the cultivation speed of an inner disciple and the effect of these factors.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Neste tutorial, aprenda os principais fatores que afetam a velocidade de cultivo de um discípulo interno e o efeito desses fatores.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Aprenda Fatores Relacionados ao Cultivo</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Open Law &amp; Cultivation</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.0>Abrir leis e Cultivo</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Verifique a correspondência da lei</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Verifique a correspondência dos cinco elementos</Chapters.0.Tasks.2>
 			<Chapters.0.Tasks.3>Verifique Mestre e Discípulo</Chapters.0.Tasks.3>
 			<Chapters.0.Tasks.4>Verifique a densidade do Qi</Chapters.0.Tasks.4>
-			<Chapters.0.Tasks.5>Verifique o aconchego</Chapters.0.Tasks.5>
+			<Chapters.0.Tasks.5>Verifique o Conforto</Chapters.0.Tasks.5>
 			<Chapters.0.Tasks.6>Verificar temporada</Chapters.0.Tasks.6>
 			<Chapters.0.Tasks.7>Verificar humor</Chapters.0.Tasks.7>
 			<Chapters.0.Tasks.8>Verifique o estado mental</Chapters.0.Tasks.8>
 			<Tasks.1.TaskDesc>Clique e selecione um discípulo interno.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.2.TaskDesc>
-			<Tasks.4.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Law Matching no menu Practice.  Quanto melhor a Lei corresponder, mais eficiente será o cultivo.</Tasks.4.TaskDesc>
+			<Tasks.2.TaskDesc>Clique para abrir as Leis e Menu de cultivo.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Correspondência de Leis no menu Practice/prática.  Quanto melhor a Lei corresponder, mais eficiente será o cultivo.</Tasks.4.TaskDesc>
 			<Tasks.6.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre a correspondência de cinco elementos no menu de prática.  Quanto melhor a correspondência dos Cinco Elementos, mais eficiente será o cultivo.</Tasks.6.TaskDesc>
 			<Tasks.8.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Mestre e Discípulo no menu Prática.  Se assistido por um mestre em um estado de cultivo mais elevado, a velocidade de cultivo de um discípulo aumentará, e será mais eficiente se o mestre e o discípulo treinarem usando a mesma Lei.</Tasks.8.TaskDesc>
-			<Tasks.10.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Qi Density no menu Practice.  Um discípulo treinará mais rápido em um ambiente com maior densidade de Qi.</Tasks.10.TaskDesc>
-			<Tasks.12.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Coziness no menu Practice.  Prédios aconchegantes geralmente incluem camas, almofadas, tronos, Altar da Magia, etc.</Tasks.12.TaskDesc>
-			<Tasks.14.TaskDesc>O jogador pode colocar o cursor para ver as informações da Temporada no menu de Prática.  As estações têm efeitos de bônus diferentes para os discípulos, dependendo dos atributos elementais de suas Leis, por isso é importante escolher uma estação adequada para cultivo e avanço.</Tasks.14.TaskDesc>
-			<Tasks.16.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre o Humor no menu Prática.  O humor de um discípulo interno afeta até certo ponto o cultivo, e um discípulo com um humor melhor muitas vezes treinará com mais eficiência.</Tasks.16.TaskDesc>
-			<Tasks.18.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Estado Mental no menu Prática.  O estado mental de um discípulo interno afeta o cultivo, e um discípulo em um estado mental instável pode ficar encantado.  É importante manter um estado mental estável durante o cultivo.</Tasks.18.TaskDesc>
-			<Tasks.20.TipsData.Desc>Above are the main factors that affect an inner disciple's cultivation speed. Not only do they influence the cultivation speed, but they sometimes affect the other aspects such as breakthrough and gaining inspiration. The player needs to explore more of the contents to train better inner disciples.</Tasks.20.TipsData.Desc>
+			<Tasks.10.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Densidade de Qi no menu Practice.  Um discípulo treinará mais rápido em um ambiente com maior densidade de Qi.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Conforto no menu Practice.  Prédios aconchegantes geralmente incluem camas, almofadas, tronos, Altar de Magia, etc.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>O jogador pode colocar o cursor para ver as informações da estacões no menu de Practice.  As estações têm efeitos de bônus diferentes para os discípulos, dependendo dos atributos elementais de suas Leis, por isso é importante escolher uma estação adequada para cultivo e avançar.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre o Humor no menu Practice.  O humor de um discípulo interno afeta até certo ponto o cultivo, e um discípulo com um humor melhor muitas vezes treinará com mais eficiência.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>O jogador pode colocar o cursor para ver as informações sobre Estado Mental no menu Practice.  O estado mental de um discípulo interno afeta o cultivo, e um discípulo em um estado mental instável pode ficar desorientado.  É importante manter um estado mental estável durante o cultivo.</Tasks.18.TaskDesc>
+			<Tasks.20.TipsData.Desc>Acima estão os principais fatores que afetam a velocidade de cultivo de um discípulo interno. Eles não apenas influenciam a velocidade de cultivo, mas às vezes afetam outros aspectos, como avanço e inspiração. O jogador precisa explorar mais o conteúdo para treinar melhores discípulos internos.</Tasks.20.TipsData.Desc>
 		</Text>
 		<Text Name="LingQi">
 			<Type>Cultivation</Type>
