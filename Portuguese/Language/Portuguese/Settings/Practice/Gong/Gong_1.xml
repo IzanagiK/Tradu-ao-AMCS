@@ -2,48 +2,48 @@
 	<List>
 		<Text Name="Gong_1_Shui">
 			<DisplayName>Sixteen Supreme Steps Law</DisplayName>
-			<Desc>One of the true elemental Laws of the Taiyi Sect, including 4 states and 16 different limits that require a step-by-step progress. It is not easy to reach a higher state in this Law, but it does not require much to begin with. You will make steadfast progress in cultivation, and immortality may eventually happen.</Desc>
-			<SelectDesc>This Law requires a step-by-step progress and especially a stable foundation, but you have to experience the first tribulation during core shaping. Are you sure you want to follow this Law?</SelectDesc>
+			<Desc>Uma das verdadeiras Leis elementares da Seita Taiyi, incluindo 4 estados e 16 limites diferentes que requerem um progresso passo a passo. Não é fácil alcançar um estado superior nesta Lei, mas não requer muito para começar. Você fará um progresso constante no cultivo, e a imortalidade pode eventualmente acontecer.</Desc>
+			<SelectDesc>Esta Lei requer um progresso passo a passo e especialmente uma base estável, mas você tem que experimentar a primeira tribulação durante a formação do núcleo. Tem certeza de que deseja seguir esta Lei?</SelectDesc>
 			<Stages.0.DisplayName>Qi Congealment</Stages.0.DisplayName>
-			<Stages.0.Desc>The first state on this Law. Requires a peaceful mind and a long time of meditation. It is harder for an intelligent person to banish thoughts from their mind and pass this state.</Stages.0.Desc>
-			<Stages.0.Necks.0.DisplayName>Concentration</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>Concentrate one's mind and banish other random thoughts in meditation. [color=#D06508]\nThis breakthrough will be more difficult for characters with high intelligence.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Introspection</Stages.0.Necks.1.DisplayName>
-			<Stages.0.Necks.1.Desc>After concentration, further perceive the internal change in one's body, like a blind person feeling their surroundings, and finally reach the state of being able to sense the condition of one's internal organs. [color=#D06508]\nThis breakthrough will be more difficult for characters with high intelligence.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Desc>O primeiro estado sobre esta Lei. Requer uma mente pacífica e um longo tempo de meditação. É mais difícil para uma pessoa inteligente banir os pensamentos de sua mente e passar desse estado.</Stages.0.Desc>
+			<Stages.0.Necks.0.DisplayName>Concentração</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Concentre a mente e afaste outros pensamentos aleatórios na meditação. [color=#D06508]\nEsse avanço será mais difícil para personagens com alta inteligência.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Introspecção</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Após a concentração, percebe ainda a mudança interna em seu corpo, como uma pessoa cega sentindo seus arredores, e finalmente alcança o estado de ser capaz de sentir a condição de seus órgãos internos. [color=#D06508]\nEsse avanço será mais difícil para personagens com alta inteligência.[/color]</Stages.0.Necks.1.Desc>
 			<Stages.0.Necks.2.DisplayName>Qi Motion</Stages.0.Necks.2.DisplayName>
-			<Stages.0.Necks.2.Desc>As introspection progresses, one will be able to find the first Qi Sense in meditation. It is the beginning of Stamina Conversion, which is called the 'First Perception'. [color=#D06508]\nThis breakthrough will be more difficult for characters with low Qi sense. \nFailing to breakthrough may lead to injury.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.0.Necks.2.Desc>À medida que a introspecção progride, será possível encontrar o primeiro sentido de Qi na meditação. É o início da Conversão de Vigor, que é chamada de 'First Perception'. [color=#D06508]\nEste avanço será mais difícil para personagens com baixo Qi sense. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.0.Necks.2.Desc>
 			<Stages.0.Necks.3.DisplayName>The Bounded Heavens</Stages.0.Necks.3.DisplayName>
-			<Stages.0.Necks.3.Desc>In this state, you need to gradually increase inner Qi and drive it through the Governing and Conception Vessels to create an inner cycle. This is called the 'Universal Cycle'.</Stages.0.Necks.3.Desc>
+			<Stages.0.Necks.3.Desc>Neste estado, você precisa aumentar gradualmente o Qi interno e conduzi-lo através dos Vasos Governantes e da Concepção para criar um ciclo interno. Isso é chamado de 'Universal Cycle'.</Stages.0.Necks.3.Desc>
 			<Stages.1.DisplayName>Core Shaping</Stages.1.DisplayName>
-			<Stages.1.Desc>The second state in this Law. Requires risking one's life for a regulation between Water and Fire, in order to form one Golden Core.</Stages.1.Desc>
-			<Stages.1.Necks.0.DisplayName>Mind Gate</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.0.Desc>Open up the mind gate to connect with heaven and earth. Leave all the worldly troubles behind.</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Fulfillment</Stages.1.Necks.1.DisplayName>
-			<Stages.1.Necks.1.Desc>Let Qi flow freely throughout one's whole body, allowing you to reach a state of completeness.</Stages.1.Necks.1.Desc>
-			<Stages.1.Necks.2.DisplayName>Inner Cauldron</Stages.1.Necks.2.DisplayName>
-			<Stages.1.Necks.2.Desc>Build an inner cauldron for core shaping using one's chest and abdomen as the cauldron, heart as fire, kidney as water, and life as fuel. [color=#D06508]\nThis breakthrough is more difficult for characters with low Constitution. \nFailing to breakthrough may lead to injury.[/color]</Stages.1.Necks.2.Desc>
-			<Stages.1.Necks.3.DisplayName>Core Congealment</Stages.1.Necks.3.DisplayName>
-			<Stages.1.Necks.3.Desc>Combine one's energy, Qi and spirit into one Golden Core, making it the foundation of the Law.</Stages.1.Necks.3.Desc>
+			<Stages.1.Desc>O segundo estado nesta Lei. Requer arriscar a própria vida por uma regulação entre Água e Fogo, a fim de formar um Núcleo Dourado.</Stages.1.Desc>
+			<Stages.1.Necks.0.DisplayName>Portão mental</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Abra o portão da mente para se conectar com o céu e a terra. Deixe todos os problemas mundanos para trás.</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Realização</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>Deixe o Qi fluir livremente por todo o corpo, permitindo que você alcance um estado de completude.</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Caldeirão Interior</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.Desc>Construa um caldeirão interno para modelar o núcleo usando o peito e o abdômen como caldeirão, o coração como fogo, o rim como água e a vida como combustível. [color=#D06508]\nEste avanço é mais difícil para personagens com baixa Constituição. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.1.Necks.2.Desc>
+			<Stages.1.Necks.3.DisplayName>Congelamento do Núcleo</Stages.1.Necks.3.DisplayName>
+			<Stages.1.Necks.3.Desc>Combine sua energia, Qi e espírito em um Núcleo Dourado, tornando-o a base da Lei.</Stages.1.Necks.3.Desc>
 			<Stages.2.DisplayName>Core Refinement</Stages.2.DisplayName>
-			<Stages.2.Desc>The third state in this Law. Return to one's original and purest nature. One shall free one's mind and realize true self in this state.</Stages.2.Desc>
-			<Stages.2.Necks.0.DisplayName>First Tribulation</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.0.Desc>Thunder of Tribulation will befall you after the formation of Golden Core.</Stages.2.Necks.0.Desc>
+			<Stages.2.Desc>O terceiro estado nesta Lei. Retornar à sua natureza original e mais pura. A pessoa deve libertar sua mente e realizar o verdadeiro eu neste estado.</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Primeira Tribulação</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Trovão da Tribulação acontecerá com você após a formação do Núcleo Dourado.</Stages.2.Necks.0.Desc>
 			<Stages.2.Necks.1.DisplayName>Germinal</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.1.Desc>One's true self gradually forms inside the Golden Core, as if in the earliest stage of prenatal development. [color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.2.Necks.1.Desc>
-			<Stages.2.Necks.2.DisplayName>Embryonic</Stages.2.Necks.2.DisplayName>
-			<Stages.2.Necks.2.Desc>One's true self slowly comes into shape and is ready to grow. [color=#D06508]This breakthrough is more difficult for characters with low Constitution.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.2.Necks.1.Desc>O verdadeiro eu forma-se gradualmente dentro do Núcleo Dourado, como se estivesse no estágio inicial do desenvolvimento pré-natal. [color=#D06508]\nEste avanço é mais difícil para personagens com baixa Inteligência.[/color]</Stages.2.Necks.1.Desc>
+			<Stages.2.Necks.2.DisplayName>Embrionário</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>O verdadeiro eu de uma pessoa lentamente toma forma e está pronto para crescer. [color=#D06508]Este avanço é mais difícil para personagens com baixa Constituição.[/color]</Stages.2.Necks.2.Desc>
 			<Stages.2.Necks.3.DisplayName>Fetal</Stages.2.Necks.3.DisplayName>
-			<Stages.2.Necks.3.Desc>One's purest form in the Innerspirit starts to break through the confines of the mortal body, entering into a state of near immortality on earth.</Stages.2.Necks.3.Desc>
+			<Stages.2.Necks.3.Desc>A forma mais pura no Espírito Interior começa a romper os limites do corpo mortal, entrando em um estado de quase imortalidade na terra.</Stages.2.Necks.3.Desc>
 			<Stages.3.DisplayName>Great Vehicle</Stages.3.DisplayName>
-			<Stages.3.Desc>The fourth state in this Law. The Innerspirit will survive the Thunder of Tribulation, become a being of pure Yang, leave the mortal body behind and ascend as an Immortal.</Stages.3.Desc>
-			<Stages.3.Necks.0.DisplayName>Spirit Forging</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.0.Desc>Forge one's spirit with the Goddess of Earth's pure Yin breaths.</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Spirit Soaring</Stages.3.Necks.1.DisplayName>
-			<Stages.3.Necks.1.Desc>Break away from one's mortal body and let the spirit roam the world. [color=#D06508]\nNote that breaking through will greatly damage one's lifespan.[/color]</Stages.3.Necks.1.Desc>
-			<Stages.3.Necks.2.DisplayName>Spirit Enlightened</Stages.3.Necks.2.DisplayName>
-			<Stages.3.Necks.2.Desc>Enlighten one's spirit with the blessing of heaven. One will face the Heavenly Tribulation after breaking this limit. [color=#D06508]\nIt is extremely difficult to break through, and there will not be any XP Bonus.[/color]</Stages.3.Necks.2.Desc>
-			<Stages.3.Necks.3.DisplayName>Ascension</Stages.3.Necks.3.DisplayName>
-			<Stages.3.Necks.3.Desc>Survive the curse of tribulation from heaven and earth and ascend toward immortality. Otherwise, it will obliterate one's entire existence.</Stages.3.Necks.3.Desc>
+			<Stages.3.Desc>O quarto estado nesta Lei. O Espírito Interior sobreviverá ao Trovão da Tribulação, se tornará um ser de puro Yang, deixará o corpo mortal para trás e ascenderá como um Imortal.</Stages.3.Desc>
+			<Stages.3.Necks.0.DisplayName>Forja do Espírito</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Forje seu espírito com as respirações Yin puras da Deusa da Terra.</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Espírito Elevado</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Afaste-se do corpo mortal e deixe o espírito vagar pelo mundo. [color=#D06508]\nObserve que romper prejudicará muito a vida útil de alguém.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Espírito Iluminado</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.Desc>Ilumine seu espírito com a bênção do céu. A pessoa enfrentará a Tribulação Celestial depois de quebrar esse limite. [color=#D06508]\nÉ extremamente difícil romper e não haverá nenhum bônus de XP.[/color]</Stages.3.Necks.2.Desc>
+			<Stages.3.Necks.3.DisplayName>Ascensão</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.3.Desc>Sobreviva à maldição da tribulação do céu e da terra e ascenda à imortalidade. Caso contrário, ele irá obliterar toda a existência.</Stages.3.Necks.3.Desc>
 		</Text>
 	</List>
 </Texts>

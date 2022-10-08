@@ -1,203 +1,203 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="SystemMessage">
-			<Notes>Painel de comentários da mensagem do sistema</Notes>
-			<Title>Mensagem do Sistema</Title>
+			<Notes>Comment Panel of System Message</Notes>
+			<Title>System Message</Title>
 			<Desc>Mensagem do Sistema</Desc>
 		</Text>
 		<Text Name="Architecture">
-			<Notes>Painel de comentários do edifício</Notes>
-			<Title>Pagina de construção</Title>
+			<Notes>Comment Panel of Building</Notes>
+			<Title>Building Page</Title>
 			<Desc>Pagina de construção</Desc>
 		</Text>
 		<Text Name="NpcProperty">
-			<Notes>Painel de comentários de Estatísticas de personagens</Notes>
-			<Title>Estatísticas do personagem</Title>
+			<Notes>Comment Panel of Character Stats</Notes>
+			<Title>Character Stats</Title>
 			<Desc>Estatísticas do personagem</Desc>
 		</Text>
 		<Text Name="NpcSociality">
-			<Notes>Painel de comentários do personagem social</Notes>
-			<Title>Social do Personagem</Title>
+			<Notes>Comment Panel of Character Social</Notes>
+			<Title>Character Social</Title>
 			<Desc>Social do Personagem</Desc>
 		</Text>
 		<Text Name="NpcHealth">
-			<Notes>Painel de comentários sobre a saúde do personagem</Notes>
-			<Title>Painel de Saúde</Title>
+			<Notes>Comment Panel of Character Health</Notes>
+			<Title>Health Panel</Title>
 			<Desc>Painel de Saúde</Desc>
 		</Text>
 		<Text Name="NpcPractice">
-			<Notes>Painel de comentários de cultivo/treinamento de carater</Notes>
-			<Title>Painel de cultivo</Title>
-			<Desc>Painel de cultivo</Desc>
+			<Notes>Comment Panel of Character Cultivation/Training</Notes>
+			<Title>Cultivation Panel</Title>
+			<Desc>Painel de Cultivo</Desc>
 		</Text>
 		<Text Name="NpcZhuJi">
-			<Notes>Painel de comentários de treinamento de base de carater</Notes>
-			<Title>Painel de Fundação</Title>
-			<Desc>Painel de Fundação</Desc>
+			<Notes>Comment Panel of Character Foundation Training</Notes>
+			<Title>Foundation Panel</Title>
+			<Desc>Painel da Fundação</Desc>
 		</Text>
 		<Text Name="NpcGnosis">
-			<Notes>Painel de comentários de inteligência de personagem</Notes>
-			<Title>Painel de Inteligência</Title>
+			<Notes>Comment Panel of Character Intelligence</Notes>
+			<Title>Intelligence Panel</Title>
 			<Desc>Painel de Inteligência</Desc>
 		</Text>
 		<Text Name="NpcEquipment">
-			<Notes>Painel de comentários do equipamento do personagem</Notes>
-			<Title>Pagina de engrenagem</Title>
-			<Desc>Pagina de engrenagem</Desc>
+			<Notes>Comment Panel of Character Gear</Notes>
+			<Title>Gear Page</Title>
+			<Desc>Gear Page</Desc>
 		</Text>
 		<Text Name="NpcEquipmentOfBodyPractice">
-			<Notes>Painel de comentários de configurações de engrenagem e corpo secreto</Notes>
-			<Title>Painel de configurações de engrenagem e corpo secreto</Title>
-			<Desc>Painel de configurações de engrenagem e corpo secreto</Desc>
+			<Notes>Comment Panel of Gear and Secret Body Configurations</Notes>
+			<Title>Gear and Secret Body Configurations Panel</Title>
+			<Desc>Gear and Secret Body Configurations Panel</Desc>
 		</Text>
 		<Text Name="NpcCombatStyle">
-			<Notes>Painel de comentários da tática de batalha do personagem</Notes>
-			<Title>Painel de tática de batalha</Title>
-			<Desc>Painel de tática de batalha</Desc>
+			<Notes>Comment Panel of Character's Battle Tactic</Notes>
+			<Title>Battle Tactic Panel</Title>
+			<Desc>Painel de táticas de batalha</Desc>
 		</Text>
 		<Text Name="NpcDetailProperty">
-			<Notes>Painel de comentários de Estatísticas detalhadas do personagem</Notes>
-			<Title>Painel de Estatísticas detalhadas</Title>
-			<Desc>Painel de Estatísticas detalhadas</Desc>
+			<Notes>Comment Panel of Character's Detailed Stats</Notes>
+			<Title>Detailed Stats Panel</Title>
+			<Desc>Detailed Stats Panel</Desc>
 		</Text>
 		<Text Name="NpcDrugResistance">
-			<Notes>Painel de comentários da tolerância à medicina do personagem</Notes>
-			<Title>Painel de tolerância a medicamentos</Title>
-			<Desc>Painel de tolerância a medicamentos</Desc>
+			<Notes>Comment Panel of Character's Medicine Tolerance</Notes>
+			<Title>Medicine Tolerance Panel</Title>
+			<Desc>Medicine Tolerance Panel</Desc>
 		</Text>
 		<Text Name="Secret">
-			<Notes>Painel de comentários do mistério</Notes>
-			<Title>Painel de mistério</Title>
-			<Desc>Painel de mistério</Desc>
+			<Notes>Comment Panel of Mystery</Notes>
+			<Title>Mystery Panel</Title>
+			<Desc>Painel de Mistério</Desc>
 		</Text>
 		<Text Name="Character">
-			<Notes>Painel de comentários do NPC</Notes>
-			<Title>Painel de NPC</Title>
+			<Notes>Comment Panel of NPC</Notes>
+			<Title>NPC Panel</Title>
 			<Desc>Painel de NPC</Desc>
 		</Text>
 		<Text Name="Clue">
-			<Notes>Comentário do Painel de Dicas</Notes>
-			<Title>Painel de dicas</Title>
-			<Desc>Painel de dicas</Desc>
+			<Notes>Comment Panel of Clue</Notes>
+			<Title>Clue Panel</Title>
+			<Desc>Painel de Dicas</Desc>
 		</Text>
 		<Text Name="ZhenGraph">
-			<Notes>Painel de Comentário do Diagrama de Formação</Notes>
-			<Title>Painel de Diagrama de Formação</Title>
+			<Notes>Comment Panel of Formation Diagram</Notes>
+			<Title>Formation Diagram Panel</Title>
 			<Desc>Painel de Diagrama de Formação</Desc>
 		</Text>
 		<Text Name="ZhenEdit">
-			<Notes>Painel de comentários de edição de Formação</Notes>
-			<Title>Painel de edição de Formação</Title>
+			<Notes>Comment Panel of Formation Edit</Notes>
+			<Title>Formation Edit Panel</Title>
 			<Desc>Painel de edição de Formação</Desc>
 		</Text>
 		<Text Name="ZhenEyesOverview">
-			<Notes>Painel de comentários da visão geral auxiliar</Notes>
-			<Title>Painel auxiliar de visão geral</Title>
-			<Desc>Painel auxiliar de visão geral</Desc>
+			<Notes>Comment Panel of Auxiliary Overview</Notes>
+			<Title>Auxiliary Overview Panel</Title>
+			<Desc>Auxiliary Overview Panel</Desc>
 		</Text>
 		<Text Name="WorkSchedule">
-			<Notes>Painel de comentários do cronograma de trabalho</Notes>
-			<Title>Painel de cronograma de trabalho</Title>
-			<Desc>Painel de cronograma de trabalho</Desc>
+			<Notes>Comment Panel of Work Schedule</Notes>
+			<Title>Work Schedule Panel</Title>
+			<Desc>Painel de Cronograma de Trabalho</Desc>
 		</Text>
 		<Text Name="SectOverview">
-			<Notes>Painel de comentários da visão geral da seita</Notes>
-			<Title>Painel da Seita</Title>
+			<Notes>Comment Panel of Sect Overview</Notes>
+			<Title>Sect Panel</Title>
 			<Desc>Painel da Seita</Desc>
 		</Text>
 		<Text Name="SectStructure">
-			<Notes>Painel de Comentário da Estrutura da Seita</Notes>
-			<Title>Painel de Estrutura da Seita</Title>
+			<Notes>Comment Panel of Sect Structure</Notes>
+			<Title>Sect Structure Panel</Title>
 			<Desc>Painel de Estrutura da Seita</Desc>
 		</Text>
 		<Text Name="SectFollower">
-			<Notes>Painel de comentários do discípulo da seita</Notes>
-			<Title>Painel de discípulos da Seita</Title>
+			<Notes>Comment Panel of Sect Disciple</Notes>
+			<Title>Sect Disciple Panel</Title>
 			<Desc>Painel de discípulos da Seita</Desc>
 		</Text>
 		<Text Name="SectRelationship">
-			<Notes>Painel de comentários da diplomacia da seita</Notes>
-			<Title>Painel de Diplomacia da Seita</Title>
+			<Notes>Comment Panel of Sect Diplomacy</Notes>
+			<Title>Sect Diplomacy Panel</Title>
 			<Desc>Painel de Diplomacia da Seita</Desc>
 		</Text>
 		<Text Name="PowerManagement">
-			<Notes>Painel de comentários de gerenciamento de energia</Notes>
-			<Title>Gerenciamento de energia</Title>
+			<Notes>Comment Panel of Power Management</Notes>
+			<Title>Power Management</Title>
 		</Text>
 		<Text Name="SectGift">
-			<Notes>Painel de comentários do presente da seita</Notes>
-			<Title>Presente</Title>
-			<Desc>Presente da seita</Desc>
+			<Notes>Comment Panel of Sect Gift</Notes>
+			<Title>Gift</Title>
+			<Desc>Presente da Seita</Desc>
 		</Text>
 		<Text Name="SectTransaction">
-			<Notes>Painel de comentários do comercio da seita</Notes>
-			<Title>Comercio da seita</Title>
-			<Desc>Comercio da seita</Desc>
+			<Notes>Comment Panel of Sect Trade</Notes>
+			<Title>Sect Trade</Title>
+			<Desc>Comercio da Seita</Desc>
 		</Text>
 		<Text Name="SectMessageManagement">
-			<Notes>Painel de comentários de mensagens de seita</Notes>
-			<Title>Mensagens de seita</Title>
-			<Desc>Mensagens de seita</Desc>
+			<Notes>Comment Panel of Sect Messages</Notes>
+			<Title>Sect Messages</Title>
+			<Desc>Mensagens da Seita</Desc>
 		</Text>
 		<Text Name="SectLaws">
-			<Notes>Painel de comentários das regras da secao</Notes>
-			<Title>Regras da Seita</Title>
+			<Notes>Comment Panel of Sect Rules</Notes>
+			<Title>Sect Rules</Title>
 			<Desc>Regras da Seita</Desc>
 		</Text>
 		<Text Name="PedlarTransaction">
-			<Notes>Painel de comentários do comercio</Notes>
-			<Title>Troca</Title>
-			<Desc>Troca</Desc>
+			<Notes>Comment Panel of Trade</Notes>
+			<Title>Trade</Title>
+			<Desc>Comércio</Desc>
 		</Text>
 		<Text Name="KeyholeReport">
-			<Notes>Painel de Comentário do Segredo</Notes>
-			<Title>Segredo</Title>
+			<Notes>Comment Panel of Secret</Notes>
+			<Title>Secret</Title>
 			<Desc>Segredo</Desc>
 		</Text>
 		<Text Name="RefineBody">
-			<Notes>Painel de comentários de remodelação</Notes>
-			<Title>Painel de remodelação</Title>
-			<Desc>Painel de remodelação</Desc>
+			<Notes>Comment Panel of Remold</Notes>
+			<Title>Remold Panel</Title>
+			<Desc>Painel de Remodelação</Desc>
 		</Text>
 		<Text Name="DomesticateSpiritBeast">
-			<Notes>Painel de comentários sobre criação de animais de estimação</Notes>
-			<Title>criação de animais de estimação</Title>
-			<Desc>criação de animais de estimação</Desc>
+			<Notes>Comment Panel of Pet Raising</Notes>
+			<Title>Pet Raising</Title>
+			<Desc>Criação de Animais/Pet</Desc>
 		</Text>
 		<Text Name="TrainSpiritBeast">
-			<Notes>Painel de comentários do treinamento de animais de estimação</Notes>
-			<Title>Treinamento de Pet</Title>
+			<Notes>Comment Panel of Pet Training</Notes>
+			<Title>Pet Training</Title>
 			<Desc>Treinamento de Pet</Desc>
 		</Text>
 		<Text Name="FeedSpiritBeast">
-			<Notes>Painel de comentários sobre Nutrição de alimentos para animais de estimação</Notes>
-			<Title>Nutrição da comida do Pet</Title>
-			<Desc>Nutrição da comida do Pet</Desc>
+			<Notes>Comment Panel of Pet Food Nutrition</Notes>
+			<Title>Pet Food Nutrition</Title>
+			<Desc>Nutrição da comida de Pet</Desc>
 		</Text>
 		<Text Name="BehaviorRecordSpiritBeast">
-			<Notes>Painel de comentários de registros de comportamento de animais de estimação</Notes>
-			<Title>Comportamento do Pet</Title>
-			<Desc>Comportamento do animal de estimação</Desc>
+			<Notes>Comment Panel of Pet Behavior Records</Notes>
+			<Title>Pet Behavior</Title>
+			<Desc>Comportamento do Pet</Desc>
 		</Text>
 		<Text Name="EmotionAndThinkingOfAnimal">
-			<Notes>Painel de comentários de Reflexão e pensamento</Notes>
-			<Title>Reflexão e Pensamento</Title>
-			<Desc>Reflexão e Pensamento</Desc>
+			<Notes>Comment Panel of Thought and Thinking</Notes>
+			<Title>Thought and Thinking</Title>
+			<Desc>Reflexões e Pensamentos</Desc>
 		</Text>
 		<Text Name="EmotionATarget">
-			<Notes>Sobre o Pensamento: Painel de Comentário de Realização</Notes>
-			<Title>Pensamento: Realização</Title>
-			<Desc>Três fragmentos de Pensamento de Realização idênticos podem ser combinados em um Pensamento de Realização.</Desc>
+			<Notes>About Thought: Comment Panel of Realization</Notes>
+			<Title>Thought: Realization</Title>
+			<Desc>Três fragmentos de Pensamento de Realização idênticos podem ser combinados em um pensamento de Realização.</Desc>
 		</Text>
 		<Text Name="EmotionAScene">
-			<Notes>Sobre o pensamento: painel de comentários de racionalidade</Notes>
-			<Title>Pensamento: Racionalidade</Title>
-			<Desc>Três fragmentos de pensamento de racionalidade idênticos podem ser combinados em um pensamento de racionalidade.</Desc>
+			<Notes>About Thought: Comment Panel of Rationality</Notes>
+			<Title>Thought: Rationality</Title>
+			<Desc>Três fragmentos de pensamento de Racionalidade idênticos podem ser combinados em um pensamento de Racionalidade.</Desc>
 		</Text>
 		<Text Name="EmotionAEmotion">
-			<Notes>Sobre o pensamento: painel de percepção de comentários</Notes>
-			<Title>Pensamento: percepção</Title>
-			<Desc>Três fragmentos de pensamento de percepção idênticos podem ser combinados em um pensamento de percepção.</Desc>
+			<Notes>About Thought: Comment Panel of Perception</Notes>
+			<Title>Thought: Perception</Title>
+			<Desc>Três fragmentos de pensamento de Percepção idênticos podem ser combinados em um pensamento de Percepção.</Desc>
 		</Text>
 	</List>
 </Texts>

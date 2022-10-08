@@ -2,35 +2,35 @@
 	<List>
 		<Text Name="Grass" sParam="Plant">
 			<ThingName>Grass</ThingName>
-			<Desc>Wild grass.</Desc>
+			<Desc>Erva selvagem.</Desc>
 		</Text>
 		<Text Name="IceGrass" sParam="Plant">
 			<ThingName>Icegrass</ThingName>
-			<Desc>Wild grass that grow on ice plains.</Desc>
+			<Desc>Erva selvagem que cresce em planícies geladas.</Desc>
 		</Text>
 		<Text Name="Reed" sParam="Plant">
 			<ThingName>Reed</ThingName>
-			<Desc>Plant growing by lake or river, having aesthetic value.</Desc>
+			<Desc>Planta que cresce à beira de um lago ou rio, com valor estético.</Desc>
 		</Text>
 		<Text Name="LongGrass" sParam="Plant">
 			<ThingName>Long Grass</ThingName>
-			<Desc>Wild grass.</Desc>
+			<Desc>Erva selvagem.</Desc>
 		</Text>
 		<Text Name="Raspberry" sParam="Plant">
 			<ThingName>Amber Fruit</ThingName>
-			<Desc>Wild fruit watered by dragon saliva. It has a special spiritual effect, preventing you from feeling hungry or exhausted for half a day after eating it. However, the fruits rot quickly once they are harvested.</Desc>
+			<Desc>Fruta selvagem regada com saliva de dragão. Tem um efeito espiritual especial, impedindo que se sinta com fome ou exausto durante meio dia depois de o comer. No entanto, os frutos apodrecem rapidamente depois de colhidos.</Desc>
 		</Text>
 		<Text Name="Lotus" sParam="Plant">
 			<ThingName>Lotus</ThingName>
-			<Desc>Plant growing in water, having aesthetic value. Its root is edible.</Desc>
+			<Desc>Planta que cresce na água, tendo valor estético. A sua raiz é comestível.</Desc>
 		</Text>
 		<Text Name="LittleRock" sParam="Plant">
 			<ThingName>Little Rock</ThingName>
-			<Desc>Little rocks scattered on the ground.</Desc>
+			<Desc>Pequenas rochas espalhadas no solo.</Desc>
 		</Text>
 		<Text Name="IceLittleRock" sParam="Plant">
 			<ThingName>Small Icerock</ThingName>
-			<Desc>Little rocks scattered on the ground.</Desc>
+			<Desc>Pequenas rochas espalhadas no solo.</Desc>
 		</Text>
 	</List>
 </Texts>

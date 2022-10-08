@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="SYS_FightSkill_Body_AngerFire">
 			<DisplayName>Furious Berserk</DisplayName>
-			<Desc>Lembre-se do [b][my_property=BodyPractice_AngerFireNum|{0:F0}][/b] memorias mais dolorosas de sua vida, e transformar essas emoções negativas em um furioso furioso. Dura [b][my_property=BodyPractice_AngerFireDuration|{0:F0}][/b] segundos. Quanto mais fortes forem as emoções negativas, mais forte sera o efeito.</Desc>
+			<Desc>Recall the [b][my_property=BodyPractice_AngerFireNum|{0:F0}][/b] most painful memories of your life, and transform these negative emotions into a furious berserk. Lasts [b][my_property=BodyPractice_AngerFireDuration|{0:F0}][/b] seconds. The stronger the negative emotions, the stronger the effect.</Desc>
 		</Text>
 	</List>
 </Texts>

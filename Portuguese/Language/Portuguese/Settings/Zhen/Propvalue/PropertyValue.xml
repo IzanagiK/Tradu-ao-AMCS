@@ -2,46 +2,46 @@
 	<List>
 		<Text Name="Stability">
 			<Descript>Stability {1}{0:N1}%</Descript>
-			<ToolTips>As formacoes perderao estabilidade quando atacadas. Se a estabilidade de uma formação cair para 0, ela será quebrada.</ToolTips>
+			<ToolTips>Formations will lose Stability when attacked. If a formation's Stability drops to 0, it will be broken.</ToolTips>
 		</Text>
 		<Text Name="FabaoAtkPower">
 			<Descript>Artifact Mastery Ability {1}{0:N1}</Descript>
-			<ToolTips>O poder do artefato do pilar aumentara assim que a formação for formada. \nArtifact mastery afeta o grau de aumento do poder do artefato do pilar apos a formação de uma formação.</ToolTips>
-			<LuaToolTips>string.format("O poder do artefato do pilar aumentara quando a formação for formada.\nArtifact mastery afeta o grau em que o poder do artefato do pilar aumenta depois que uma formação e formada.\nArtifact Power Aumenta: %.0f%%", (z.FabaoPowerK_Normal-1)*100)</LuaToolTips>
+			<ToolTips>The pillar's artifact power will increase once the formation has been formed. \nArtifact mastery affects the degree of which the pillar's artifact power increase once a formation has been formed.</ToolTips>
+			<LuaToolTips>string.format("The pillar's artifact power will increase once the formation has been formed.\nArtifact mastery affects the degree of which the pillar's artifact power increase once a formation has been formed.\nArtifact Power Increase: %.0f%%", (z.FabaoPowerK_Normal-1)*100)</LuaToolTips>
 		</Text>
 		<Text Name="MagicPower">
 			<Descript>Spell Ability {1}{0:N1}</Descript>
-			<ToolTips>Spell ability afeta o grau em que o poder do artefato do pilar aumenta depois que uma formação e formada. \nSpell ability afeta o grau em que o poder magico do pilar aumenta depois que uma formação e formada.</ToolTips>
-			<LuaToolTips>string.format("O poder do artefato do pilar aumentara quando a formação for formada.\nSpell ability afeta o grau em que o poder do artefato do pilar aumenta depois que uma formação e formada.\nSpell Power Aumenta: %.0f%%", (z.MagicPowerK_Normal-1)*100)</LuaToolTips>
+			<ToolTips>Spell ability affects the degree of which the pillar's artifact power increase once a formation has been formed. \nSpell ability affects the degree of which the pillar's spell power increase once a formation has been formed.</ToolTips>
+			<LuaToolTips>string.format("The pillar's artifact power will increase once the formation has been formed.\nSpell ability affects the degree of which the pillar's artifact power increase once a formation has been formed.\nSpell Power Increase: %.0f%%", (z.MagicPowerK_Normal-1)*100)</LuaToolTips>
 		</Text>
 		<Text Name="Sheild">
 			<Descript>Protection Ability {1}{0:N1}</Descript>
-			<ToolTips>Quando a formação esta sendo atacada, parte do dano recebido será absorvido pela formação, e todos os personagens na formação dividirão o dano restante igualmente. \nA formação sofrera dano reduzido, e o dano final e compartilhado igualmente entre todos os personagens na formação</ToolTips>
-			<LuaToolTips>string.format("A formação sofrera dano reduzido, e o dano final e compartilhado igualmente entre todos os personagens na formação.\nA formação sofrera dano reduzido, e o dano final e compartilhado igualmente entre todos os personagens na formação\nDamage Reduction: %.0f%%", (1-z.EffectDamageP) * 100)</LuaToolTips>
+			<ToolTips>When the formation is being attacked, part of the damage received will be absorbed by the formation, and all the characters in the formation will share the remaining damage equally. \nThe formation will take reduced damage, and the final damage is shared equally among all of the characters in the formation</ToolTips>
+			<LuaToolTips>string.format("The formation will take reduced damage, and the final damage is shared equally among all of the characters in the formation.\nThe formation will take reduced damage, and the final damage is shared equally among all of the characters in the formation\nDamage Reduction: %.0f%%", (1-z.EffectDamageP) * 100)</LuaToolTips>
 		</Text>
 		<Text Name="SkillCooldown">
 			<Descript>Operation Ability {1}{0:N1}</Descript>
-			<ToolTips>a medida que a formação continua operando, ela acumula energia. O Insight da formação pode ser usado para liberar habilidades especiais de formação. Alem do mais, o Qi de todos os personagens na formação será proporcionalmente equilibrado a medida que a formação continua a operar. \nOperation ability afeta a taxa de acumulo de energia e o ciclo do equilibrio do Qi.</ToolTips>
-			<LuaToolTips>string.format("a medida que a formação continua operando, ela acumula energia. Formation Insight pode ser usado para liberar algumas habilidades especiais de formação.Alem disso, o Qi de todos os personagens na formação será proporcionalmente equilibrado a medida que a formação continua a operar.\nOperation ability afeta a taxa de acumulo de energia e o intervalo do equilibrio do Qi.\nTaxa de reducao do ciclo de operacao: %.0f%%\nCiclo de acumulação de insight: %.0f sec\nQi Balance Cycle: %.0f sec", (1-z.EffectZrPointCDP)*100, ZhenMgr:GetZRAddDuration(z), 15 * z.EffectZrPointCDP)</LuaToolTips>
+			<ToolTips>As the formation continues to operate, it will accumulate Energy. Formation Insight can be used to unleash special formation abilities. What's more, the Qi of all characters in the formation will be proportionally balanced as the formation continues to operate. \nOperation ability affects the accumulation rate of Energy and the cycle of the Qi balance.</ToolTips>
+			<LuaToolTips>string.format("As the formation continues to operate, it will accumulate Energy. Formation Insight can be used to unleash some special formation abilities. In addition, the Qi of all characters in the formation will be proportionally balanced as the formation continues to operation.\nOperation ability affects the accumulation rate of Energy and the interval of the Qi balance.\nReduction Rate of the Operation Cycle: %.0f%%\nAccumulation Cycle of Insight: %.0f sec\nQi Balance Cycle: %.0f sec", (1-z.EffectZrPointCDP)*100, ZhenMgr:GetZRAddDuration(z), 15 * z.EffectZrPointCDP)</LuaToolTips>
 		</Text>
 		<Text Name="ReduceCost">
 			<Descript>Formation Efficiency {1}{0:N1}</Descript>
-			<ToolTips>Uma vez que a formação esteja formada, mante-la e usar as habilidades da formação custara Qi de todos os personagens na formação.O custo de Qi para manter a formação esta relacionado ao Max Qi do personagem pilar na formação. O custo de Qi para usar qualquer habilidade de formação esta relacionado ao poder da habilidade. \nA eficiencia de formação afeta o custo de Qi de cada acao de formação.</ToolTips>
-			<LuaToolTips>string.format("Uma vez que a formação esteja formada, mante-la e usar as habilidades da formação custara Qi de todos os personagens na formação.O custo de Qi para manter a formação esta relacionado ao Max Qi do personagem pilar na formação. O custo de Qi para usar qualquer habilidade de formação esta relacionado ao poder da habilidade. \nA eficiencia de formação afeta o custo de Qi de cada acao de formação. \nCusto atual reduzido: %.0f%%", (1 - z.EffectCostP)*100)</LuaToolTips>
+			<ToolTips>Once the formation is formed, maintaining it and using formation skills will cost Qi from every character in the formation. The Qi cost to maintain the formation is related to the Max Qi of the pillar character in the formation. The Qi cost to use any formation skill is related to the power of the skill. \nFormation efficiency affects the Qi cost of each formation action.</ToolTips>
+			<LuaToolTips>string.format("Once the formation is formed, maintaining it and using formation skills will cost Qi from every character in the formation. The Qi cost to maintain the formation is related to the Max Qi of the pillar character in the formation. The Qi cost to use any formation skill is related to the power of the skill. \nFormation efficiency affects the Qi cost of each formation action. \nCurrent Cost Reduced: %.0f%%", (1 - z.EffectCostP)*100)</LuaToolTips>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerup">
 			<Descript>Formation Size {1}{0:N1}</Descript>
-			<ToolTips>O tamanho e determinado pelo numero de nos em uma formação.Quanto mais nos em uma formação, maior será seu tamanho.  A habilidade do personagem pilar determina o tamanho maximo da formação. Se um personagem estiver hospedando uma formação cujo tamanho ultrapassa sua habilidade, a estabilidade da formação será bastante reduzida. Caso contrario, será aumentado.</ToolTips>
-			<LuaToolTips>string.format("O tamanho e determinado pelo numero de nos em uma formação.Quanto mais nos em uma formação, maior será seu tamanho. \nA habilidade do personagem pilar determina o tamanho maximo da formação. Se um personagem estiver hospedando uma formação cujo tamanho ultrapassa sua habilidade, a estabilidade da formação será bastante reduzida. Caso contrario, será aumentado. \nEstabilidade de formação atual ajustada: %.0f", z.fStabilityCoreNpcAddv)</LuaToolTips>
+			<ToolTips>Size is determined by the number of nodes in a formation. The more nodes in a formation, the larger its size.  The ability of the pillar character determines the maximum formation size. If a character is hosting a formation whose size surpasses their ability, the formation stability will be greatly reduced. Otherwise, it will be increased.</ToolTips>
+			<LuaToolTips>string.format("Size is determined by the number of nodes in a formation. The more nodes in a formation, the larger its size. \nThe ability of the pillar character determines the maximum formation size. If a character is hosting a formation whose size surpasses their ability, the formation stability will be greatly reduced. Otherwise, it will be increased. \nAdjusted Current Formation Stability: %.0f", z.fStabilityCoreNpcAddv)</LuaToolTips>
 		</Text>
 		<Text Name="NpcZhenPressurePowerup">
 			<Descript>Formation Load {1}{0:N1}</Descript>
-			<ToolTips>A carga de formação e determinada pela complexidade da estrutura de formação. Uma formação com auxiliares mais afastados do pilar tera uma carga maior. A habilidade do personagem pilar determina a carga maxima de formação. Se o personagem estiver hospedando uma formação cuja carga de formação ultrapasse sua habilidade, o custo de formação será bastante aumentado. Caso contrario, será reduzido.</ToolTips>
-			<LuaToolTips>string.format("A carga de formação e determinada pela complexidade da estrutura de formação. Uma formação com auxiliares mais afastados do pilar tera uma carga maior. \nA habilidade do personagem pilar determina a carga maxima de formação. Se o personagem estiver hospedando uma formação cuja carga de formação ultrapasse sua habilidade, o custo de formação será bastante aumentado. Caso contrario, será reduzido. \nQi Cost/sec: %.0f", z.CostLingPerSec)</LuaToolTips>
+			<ToolTips>Formation load is determined by the complexity of the formation structure. A formation with auxiliaries further away from the pillar will have a greater load. The ability of the pillar character determines the maximum formation load. If the character is hosting a formation whose formation load surpasses their ability, the formation cost will be greatly increased. Otherwise, it will be reduced.</ToolTips>
+			<LuaToolTips>string.format("Formation load is determined by the complexity of the formation structure. A formation with auxiliaries further away from the pillar will have a greater load. \nThe ability of the pillar character determines the maximum formation load. If the character is hosting a formation whose formation load surpasses their ability, the formation cost will be greatly increased. Otherwise, it will be reduced. \nQi Cost/sec: %.0f", z.CostLingPerSec)</LuaToolTips>
 		</Text>
 		<Text Name="NpcZhenPoint">
 			<Descript>Formation Energy {1}{0:N1}</Descript>
-			<ToolTips>a medida que a formação continua operando, ela acumula energia. A energia de formação pode ser usada para liberar habilidades especiais de formação. No entanto, uma formação tem limitacoes quanto a quantidade de energia que pode armazenar. Assim que a limitacao for alcancada, a energia deixara de aumentar.</ToolTips>
+			<ToolTips>As the formation continues to operate, it will accumulate Energy. Formation Energy can be used to unleash special formation abilities. However, a formation has limitation as to the amount of Energy it can store. Once the limitation has been reached, Energy will cease to increase.</ToolTips>
 		</Text>
 	</List>
 </Texts>

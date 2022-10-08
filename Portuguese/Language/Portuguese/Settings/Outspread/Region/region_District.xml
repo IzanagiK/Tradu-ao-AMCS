@@ -1,31 +1,31 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Region_Base">
-			<Desc>E uma área onde vários tipos de edifícios de produção podem ser construídos..</Desc>
+			<Desc>It is an area, where various kinds of production buildings can be built.</Desc>
 		</Text>
 		<Text Name="zhongyuan">
 			<DisplayName>Central Plains</DisplayName>
-			<Desc>Produz: brownstones (bastante); madeira e trigo (poucos).</Desc>
+			<Desc>Produces: brownstones (plenty); wood and wheat (few).</Desc>
 		</Text>
 		<Text Name="JiangAnWoYe">
 			<DisplayName>Riverbank Plains</DisplayName>
-			<Desc>Produz: trigo (bastante); brownstones (poucos).</Desc>
+			<Desc>Produces: wheat (plenty); brownstones (few).</Desc>
 		</Text>
 		<Text Name="DaXueYuan">
 			<DisplayName>The Great Snowland</DisplayName>
-			<Desc>Produz: pedras espirituais (abundancia); madeira (poucos).</Desc>
+			<Desc>Produces: spirit stones (plenty); wood (few).</Desc>
 		</Text>
 		<Text Name="DaMo">
 			<DisplayName>Great Desert</DisplayName>
-			<Desc>Produz: pedras espirituais (abundancia); pedras (poucas).</Desc>
+			<Desc>Produces: spirit stones (plenty); stones (few).</Desc>
 		</Text>
 		<Text Name="NanHuang">
 			<DisplayName>Wild South</DisplayName>
-			<Desc>Produz: madeira (bastante).</Desc>
+			<Desc>Produces: wood (plenty).</Desc>
 		</Text>
 		<Text Name="OurPlace">
 			<DisplayName>Mt. South</DisplayName>
-			<Desc>Produtos: madeira, pedras e trigo.</Desc>
+			<Desc>Produces: wood, stones and wheat.</Desc>
 		</Text>
 	</List>
 </Texts>

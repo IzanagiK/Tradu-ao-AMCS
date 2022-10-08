@@ -1,65 +1,65 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Animal_EatLikeFood">
-			<Events.0.Story>[name] found that [hename] seems to like it a lot.</Events.0.Story>
+			<Events.0.Story>[name] descobriu que [hename] parece gostar muito.</Events.0.Story>
 		</Text>
 		<Text Name="Animal_EatDisLikeFood">
-			<Events.0.Story>[name] found that [hename] didn't seem to like it all that much.</Events.0.Story>
+			<Events.0.Story>[name] descobriu que [hename] não parecia gostar muito disso.</Events.0.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story">
-			<Events.0.Story>[name] stroked [hename], and [hename] winked appreciatively.</Events.0.Story>
-			<Events.1.Story>[name] stroked [hename], and [hename] squirmed away nervously.</Events.1.Story>
-			<Events.2.Story>[name] saw [hename] lying about, without a care in the world. So they went over and gave it a hard poke.</Events.2.Story>
-			<Events.3.Story>[name] went to play with [hename], but [hename] just took one look at [name] before wandering off, uninterested.</Events.3.Story>
-			<Events.4.Story>[name] saw that [hename] had taken a sudden interest in the nearby [obj_nearthing], giving it a good sniff and a lick or two.</Events.4.Story>
-			<Events.5.Story>[hename] sniffed [name], appeared unimpressed, and walked off.</Events.5.Story>
-			<Events.6.Story>[hename] ran around [name] excitedly.</Events.6.Story>
+			<Events.0.Story>[name] acariciou [hename], e [hename] piscou em agradecimento.</Events.0.Story>
+			<Events.1.Story>[name] acariciou [hename], e [hename] se afastou nervosamente.</Events.1.Story>
+			<Events.2.Story>[name] viu [hename] deitado, sem nenhuma preocupação no mundo. Então eles foram até lá e deram uma cutucada forte.</Events.2.Story>
+			<Events.3.Story>[name] foi brincar com [hename], mas [hename] apenas deu uma olhada em [name] antes de se afastar, desinteressado.</Events.3.Story>
+			<Events.4.Story>[name] viu que [hename] se interessou repentinamente pelo [obj_nearthing] próximo, dando uma boa cheirada e uma lambida ou duas.</Events.4.Story>
+			<Events.5.Story>[hename] cheirou [name], não se impressionou e foi embora.</Events.5.Story>
+			<Events.6.Story>[hename] correu ao redor de [name] animadamente.</Events.6.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Rabbit">
-			<Events.0.Story>[name] took [hename] into their arms, and played with them awhile.</Events.0.Story>
-			<Events.1.Story>[name] petted [hename]'s big floppy ears.</Events.1.Story>
+			<Events.0.Story>[name] pegou [hename] em seus braços e brincou com eles por um tempo.</Events.0.Story>
+			<Events.1.Story>[name] acariciou as orelhas grandes de [hename].</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Chicken">
-			<Events.0.Story>[name] picked [hename] up in their arms, and flung them into the sky. [hename] flapped its wings about in fright, littering the ground with feathers.</Events.0.Story>
-			<Events.1.Story>Upon seeing [name], [hename] seemed to suddenly have an idea about something or another, and started clucking away to itself.</Events.1.Story>
+			<Events.0.Story>[name] pegou [hename] em seus braços e atirou-os para o céu. [hename] bateu as asas assustado, cobrindo o chão com penas.</Events.0.Story>
+			<Events.1.Story>Ao ver [name], [hename] pareceu de repente ter uma ideia sobre uma coisa ou outra, e começou a cacarejar sozinho.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Wolf">
-			<Events.0.Story>[name] stroked [hename], and [hename] ruffed gently to show their appreciation.</Events.0.Story>
-			<Events.1.Story>[hename] ran circles around [name], leaping around and barking.</Events.1.Story>
-			<Events.2.Story>[hename] laid flat on the ground, narrowing its gaze at [name] with a dangerous glint in its eyes.</Events.2.Story>
-			<Events.3.Story>[hename] wagged their tail at [name].</Events.3.Story>
+			<Events.0.Story>[name] acariciou [hename] e [hename] acariciou suavemente para mostrar sua gratidão.</Events.0.Story>
+			<Events.1.Story>[hename] correu em círculos ao redor de [name], pulando e latindo.</Events.1.Story>
+			<Events.2.Story>[hename] se deitou no chão, estreitando o olhar para [name] com um brilho perigoso nos olhos.</Events.2.Story>
+			<Events.3.Story>[hename] abanou o rabo para [name].</Events.3.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Snake">
-			<Events.0.Story>Seeing [name] approach, [hename] raised its head up high, flicking out its tongue in their direction.</Events.0.Story>
-			<Events.1.Story>[name] took [hename] into their arms, and played with them awhile.</Events.1.Story>
-			<Events.2.Story>[name] watched with morbid curiosity as [hename] swallowed a huge rat in one gulp.</Events.2.Story>
+			<Events.0.Story>Vendo [name] se aproximar, [hename] levantou a cabeça bem alto, sacudindo a língua na direção deles.</Events.0.Story>
+			<Events.1.Story>[name] pegou [hename] em seus braços e brincou com eles por um tempo.</Events.1.Story>
+			<Events.2.Story>[name] observou com curiosidade mórbida como [hename] engoliu um rato enorme de uma só vez.</Events.2.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Boar">
-			<Events.0.Story>[hename] suddenly shoved angrily at [name] with its snout.</Events.0.Story>
-			<Events.1.Story>[name] saw [hename] lazing about on the ground, grunting to itself. So they picked up a stone and tossed it at them.</Events.1.Story>
+			<Events.0.Story>[hename] de repente empurrou com raiva para [name] com seu focinho.</Events.0.Story>
+			<Events.1.Story>[name] viu [hename] descansando no chão, grunhindo para si mesmo. Então eles pegaram uma pedra e jogaram neles.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Bear">
-			<Events.0.Story>Upon seeing [name], [hename] spread its arms wide and hurried over to them excitedly. [name] was terrified and ran off as fast as their legs would take them.</Events.0.Story>
-			<Events.1.Story>[name] took a look at [hename], then [hename] appeared to be angry about something and pummeled at the ground.</Events.1.Story>
+			<Events.0.Story>Ao ver [name], [hename] abriu os braços e correu até eles animadamente. [name] ficou apavorado e correu o mais rápido que suas pernas permitiam.</Events.0.Story>
+			<Events.1.Story>[name] deu uma olhada em [hename], então [hename] pareceu estar bravo com alguma coisa e deu um soco no chão.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Turtle">
-			<Events.0.Story>[name] stroked [hename], and [hename] hid inside their shell in a hurry.</Events.0.Story>
-			<Events.1.Story>[name] found [hename] lying about, without a care in the world. So they went over and gave it a poke. [hename] retreated into its shell.</Events.1.Story>
-			<Events.2.Story>[name] went to play with [hename], but [hename] just took one look at [name] before slowly shrinking back inside its shell.</Events.2.Story>
-			<Events.3.Story>[hename] took a sudden interest in the nearby [obj_nearthing], giving it a good sniff.</Events.3.Story>
-			<Events.4.Story>[name] went over to play with [hename], and [hename] extended their head forward, blowing bubbles at them.</Events.4.Story>
+			<Events.0.Story>[name] acariciou [hename], e [hename] se escondeu dentro de sua concha com pressa.</Events.0.Story>
+			<Events.1.Story>[name] encontrou [hename] deitado, sem nenhuma preocupação no mundo. Então eles foram até lá e deram uma cutucada. [hename] recuou para sua concha.</Events.1.Story>
+			<Events.2.Story>[name] foi brincar com [hename], mas [hename] apenas deu uma olhada em [name] antes de encolher lentamente de volta para dentro de seu shell.</Events.2.Story>
+			<Events.3.Story>[hename] se interessou repentinamente pelo [obj_nearthing] próximo, dando uma boa cheirada.</Events.3.Story>
+			<Events.4.Story>[name] foi brincar com [hename], e [hename] estendeu a cabeça para frente, soprando bolhas neles.</Events.4.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Frog">
-			<Events.0.Story>[name] felt that [hename] seemed to be deep in thought about something important. But when they looked back again, it was just hopping along as usual.</Events.0.Story>
-			<Events.1.Story>[name] placed [hename] upon the palm of their hand. [hename] ribbited and spurted water in [name]'s face, before hopping about with glee.</Events.1.Story>
+			<Events.0.Story>[name] sentiu que [hename] parecia estar pensando profundamente sobre algo importante. Mas quando eles olharam para trás novamente, estava apenas pulando como de costume.</Events.0.Story>
+			<Events.1.Story>[name] colocou [hename] na palma de suas mãos. [hename] mordeu e jorrou água no rosto de [name], antes de pular de alegria.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Fei">
-			<Events.0.Story>[name] stroked [hename], and [hename] let out a soft, joyful cry.</Events.0.Story>
-			<Events.1.Story>[hename] gazed affectionally at [name] in the distance.</Events.1.Story>
+			<Events.0.Story>[name] acariciou [hename], e [hename] soltou um choro suave e alegre.</Events.0.Story>
+			<Events.1.Story>[hename] olhou carinhosamente para [name] ao longe.</Events.1.Story>
 		</Text>
 		<Text Name="WisdomWithAnimal_Story_Lushu">
-			<Events.0.Story>[name] stroked [hename], and [hename] shook its head about furiously.</Events.0.Story>
-			<Events.1.Story>[hename] thought that [name] was coming over to pet it, so it quickly laid down and pretended to be asleep.</Events.1.Story>
+			<Events.0.Story>[name] acariciou [hename], e [hename] balançou a cabeça furiosamente.</Events.0.Story>
+			<Events.1.Story>[hename] pensou que [name] estava vindo para acariciá-lo, então ele rapidamente se deitou e fingiu estar dormindo.</Events.1.Story>
 		</Text>
 	</List>
 </Texts>

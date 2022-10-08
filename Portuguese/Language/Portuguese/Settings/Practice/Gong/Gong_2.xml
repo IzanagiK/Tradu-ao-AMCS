@@ -2,48 +2,48 @@
 	<List>
 		<Text Name="Gong_2_Mu">
 			<DisplayName>Myriad Artifact Law</DisplayName>
-			<Desc>Passed down by the Avarice Lord in the Supreme Clarity. The ultimate secret Law for artifact crafting of Mt. Sunshade. Only the most ingenious people can practice this Law. A master of this Law can craft anything into an artifact. This Law leads its follower through 5 heavens and 15 palaces. Once completed, one can leave the earth and ascend toward immortality.</Desc>
-			<SelectDesc>One will excel in artifact crafting when cultivating in this Law, but will not be skilled in battles. Are you sure you want to follow this Law?</SelectDesc>
+			<Desc>Transmitido pelo Senhor da Avareza na Suprema Clareza. A lei secreta final para a criação de artefatos do Mt. Sunshade. Somente as pessoas mais engenhosas podem praticar esta Lei. Um mestre desta Lei pode criar qualquer coisa em um artefato. Esta Lei conduz seu seguidor por 5 céus e 15 palácios. Uma vez concluído, pode-se deixar a terra e ascender à imortalidade.</Desc>
+			<SelectDesc>A pessoa se destacará na criação de artefatos ao cultivar nesta Lei, mas não será habilidosa em batalhas. Tem certeza de que deseja seguir esta Lei?</SelectDesc>
 			<Stages.0.DisplayName>Heaven of Equanimity</Stages.0.DisplayName>
-			<Stages.0.Desc>The first heaven. It seeks the natural enlightenment in a state of equanimity and starts the Law to immortality, thus called the 'Heaven of Equanimity'.</Stages.0.Desc>
-			<Stages.0.Necks.0.DisplayName>Palace of Five Centers</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>Meditate in a sitting position with the top of one's head and the center of soles and palms facing upwards. Let blood and Qi flow through the five centers. [color=#D06508]\nThis breakthrough will be more difficult for characters with high intelligence.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Palace of Five Qi</Stages.0.Necks.1.DisplayName>
-			<Stages.0.Necks.1.Desc>The flow of Qi and blood is the movement inside stillness. Sense the natural formation of the Five Qi inside the vessels, as it grows alongside the running blood. [color=#D06508]\nThis breakthrough will be more difficult for characters with low Constitution. \nFailing to breakthrough may lead to injury.[/color]</Stages.0.Necks.1.Desc>
-			<Stages.0.Necks.2.DisplayName>Palace of Spiritual Mind</Stages.0.Necks.2.DisplayName>
-			<Stages.0.Necks.2.Desc>Use the spiritual mind to return the Five Qi into the sea of Qi. Repeat it for a gradual progress of cultivation. [color=#D06508]\nThis breakthrough can be completed after repeated attempts.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.0.Desc>O primeiro céu. Ela busca a iluminação natural em estado de equanimidade e inicia a Lei para a imortalidade, assim chamada de 'Céu da Equanimidade'.</Stages.0.Desc>
+			<Stages.0.Necks.0.DisplayName>Palácio dos Cinco Centros</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Medite na posição sentada com o topo da cabeça e o centro das solas e palmas voltadas para cima. Deixe o sangue e o Qi fluir através dos cinco centros. [color=#D06508]\nEsse avanço será mais difícil para personagens com alta inteligência.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Palácio dos Cinco Qi</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>O fluxo de Qi e sangue é o movimento dentro do silêncio. Sinta a formação natural dos Cinco Qi dentro dos vasos, à medida que cresce junto com o sangue que corre. [color=#D06508]\nEste avanço será mais difícil para personagens com baixa Constituição. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Palácio da Mente Espiritual</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>Use a mente espiritual para devolver os Cinco Qi ao mar de Qi. Repita-o para um progresso gradual do cultivo. [color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas.[/color]</Stages.0.Necks.2.Desc>
 			<Stages.1.DisplayName>Heaven of Longevity</Stages.1.DisplayName>
-			<Stages.1.Desc>The second heaven. It will help to shape the Golden Core and increase one's lifespan and power of miracles, thus called the Heaven of Longevity.</Stages.1.Desc>
-			<Stages.1.Necks.0.DisplayName>Palace of Perception</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.0.Desc>Use Qi to open up the mind gate and connect with heaven and earth. Leave all the worldly troubles behind. [color=#D06508]\nThis breakthrough can be completed after repeated attempts.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Desc>O segundo céu. Isso ajudará a moldar o Núcleo Dourado e aumentar a vida útil e o poder dos milagres, assim chamado de Céu da Longevidade.</Stages.1.Desc>
+			<Stages.1.Necks.0.DisplayName>Palácio da Percepção</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Use Qi para abrir o portão da mente e conectar-se com o céu e a terra. Deixe todos os problemas mundanos para trás. [color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas.[/color]</Stages.1.Necks.0.Desc>
 			<Stages.1.Necks.1.DisplayName>Palace of Great Unity</Stages.1.Necks.1.DisplayName>
-			<Stages.1.Necks.1.Desc>Use one's own primeval Qi to attract natural Qi, progressing in the cultivation Law. [color=#D06508]\nThis breakthrough is more difficult for characters with low Constitution. \nFailing to breakthrough may lead to injury.[/color]</Stages.1.Necks.1.Desc>
-			<Stages.1.Necks.2.DisplayName>Place of Golden Spirit</Stages.1.Necks.2.DisplayName>
-			<Stages.1.Necks.2.Desc>Combine one's energy, Qi and spirit into one Golden Core, making it the foundation of the Law.</Stages.1.Necks.2.Desc>
+			<Stages.1.Necks.1.Desc>Use o próprio Qi primordial para atrair o Qi natural, progredindo na Lei do cultivo. [color=#D06508]\nEste avanço é mais difícil para personagens com baixa Constituição. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Local do Espírito Dourado</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.Desc>Combine sua energia, Qi e espírito em um Núcleo Dourado, tornando-o a base da Lei.</Stages.1.Necks.2.Desc>
 			<Stages.2.DisplayName>Heaven of Destiny</Stages.2.DisplayName>
-			<Stages.2.Desc>The third heaven. Perceive the nature of all beings in the world, learn from others' experience to overcome one's own shortcomings, and lay the foundation for the birth of the Innerspirit.</Stages.2.Desc>
-			<Stages.2.Necks.0.DisplayName>Place of True Fire</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.0.Desc>Trigger the three true fires in the state of Golden Core to smelt everything. [color=#D06508]\nThis breakthrough is more difficult for characters with low Constitution. \nFailing to breakthrough may lead to injury.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>Palace of Creations</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.1.Desc>Enter the mortal realm and feel the ingenuity of all creations with the three true fires, strengthening one's determination.</Stages.2.Necks.1.Desc>
-			<Stages.2.Necks.2.DisplayName>Palace of Ingenuity</Stages.2.Necks.2.DisplayName>
-			<Stages.2.Necks.2.Desc>Meditate in isolation for 24 hours and smelt everything seen in the meditated state into one cauldron, as one has improved skills of artifact crafting and learned ingenuity from the Innerspirit.</Stages.2.Necks.2.Desc>
+			<Stages.2.Desc>O terceiro céu. Perceba a natureza de todos os seres do mundo, aprenda com a experiência dos outros a superar suas próprias deficiências e estabeleça as bases para o nascimento do Espírito Interior.</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Lugar do Fogo Verdadeiro</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Ative os três fogos verdadeiros no estado de Núcleo dourado para sentir o cheiro de tudo. [color=#D06508]\nEste avanço é mais difícil para personagens com baixa Constituição. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Palácio das Criações</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.Desc>Entre no reino mortal e sinta a ingenuidade de todas as criações com os três fogos verdadeiros, fortalecendo a sua determinação.</Stages.2.Necks.1.Desc>
+			<Stages.2.Necks.2.DisplayName>Palácio da Ingenuidade</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>Medite isoladamente por 24 horas e cheire tudo o que for visto no estado meditativo em um caldeirão, pois aprimorou as habilidades de criação de artefatos e aprendeu a engenhosidade do Espírito Interior.</Stages.2.Necks.2.Desc>
 			<Stages.3.DisplayName>Heaven of Pure Yang</Stages.3.DisplayName>
-			<Stages.3.Desc>The fourth heaven. It shapes the Golden Core with the true fire and one's purest spirit and creates the pure Yang Innerspirit of supreme clarity, thus called the Heaven of Pure Yang.</Stages.3.Desc>
-			<Stages.3.Necks.0.DisplayName>Palace of Greater Inspiration</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.0.Desc>Sense one's true self and have an epiphany with the help of the Golden Core. [color=#D06508]\nThis breakthrough can be completed after repeated attempts.[/color]</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Palace of True Self</Stages.3.Necks.1.DisplayName>
-			<Stages.3.Necks.1.Desc>Foster the Golden Core and fortify one's true self. [color=#D06508]\nThis breakthrough can be completed after repeated attempts.[/color]</Stages.3.Necks.1.Desc>
-			<Stages.3.Necks.2.DisplayName>Palace of Divine Incubation</Stages.3.Necks.2.DisplayName>
-			<Stages.3.Necks.2.Desc>The Golden Core breaks as the Innerspirit is born.</Stages.3.Necks.2.Desc>
+			<Stages.3.Desc>O quarto céu. Ele molda o Núcleo Dourado com o fogo verdadeiro e o espírito mais puro e cria o puro Espírito Interior Yang de suprema clareza, assim chamado de Céu do Puro Yang.</Stages.3.Desc>
+			<Stages.3.Necks.0.DisplayName>Palácio da maior inspiração</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Sinta seu verdadeiro eu e tenha uma epifania com a ajuda do Núcleo Dourado. [color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Palácio do Verdadeiro Eu</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Promova o Núcleo Dourado e fortaleça seu verdadeiro eu. [color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Palácio da Incubação Divina</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.Desc>O Núcleo Dourado se rompe quando o Espírito Interior nasce.</Stages.3.Necks.2.Desc>
 			<Stages.4.DisplayName>Heaven of Ultimacy</Stages.4.DisplayName>
-			<Stages.4.Desc>The fifth heaven. Survive the final thunder of tribulation, form the pure Yang spirit of supreme clarity, and ascend above the Heaven of Ultimacy.</Stages.4.Desc>
-			<Stages.4.Necks.0.DisplayName>Palace of Liberation</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.0.Desc>Forge one's spirit with primeval Qi, allowing it to leave the mortal body and roam the world. [color=#D06508]\nNote that this breakthrough will greatly damage one's lifespan.[/color]</Stages.4.Necks.0.Desc>
-			<Stages.4.Necks.1.DisplayName>Palace of Serenity</Stages.4.Necks.1.DisplayName>
-			<Stages.4.Necks.1.Desc>Enlighten one's spirit with the blessing of heaven. One will face the Heavenly Tribulation after breaking this limit. [color=#D06508]\nIt is extremely difficult to breakthrough, and there will not be any XP Bonus.[/color]</Stages.4.Necks.1.Desc>
-			<Stages.4.Necks.2.DisplayName>Palace of Emperor</Stages.4.Necks.2.DisplayName>
-			<Stages.4.Necks.2.Desc>Leave the mortal body behind and ascend toward immortality.</Stages.4.Necks.2.Desc>
+			<Stages.4.Desc>O quinto céu. Sobreviva ao trovão final da tribulação, do puro espírito Yang de suprema clareza, e suba acima do Céu do Ultimato.</Stages.4.Desc>
+			<Stages.4.Necks.0.DisplayName>Palácio da Libertação</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>Forja seu espírito com o Qi primitivo, permitindo que ele deixe o corpo mortal e percorra o mundo. [color=#D06508]\nObserve que esse avanço prejudicará muito a vida útil.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Palácio da Serenidade</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.1.Desc>Ilumine seu espírito com a bênção do céu. A pessoa enfrentará a Tribulação Celestial depois de quebrar este limite. [color=#D06508]\nÉ extremamente difícil avançar e não haverá bônus de XP.[/color]</Stages.4.Necks.1.Desc>
+			<Stages.4.Necks.2.DisplayName>Palácio do Imperador</Stages.4.Necks.2.DisplayName>
+			<Stages.4.Necks.2.Desc>Deixe o corpo mortal para trás e ascenda à imortalidade.</Stages.4.Necks.2.Desc>
 		</Text>
 	</List>
 </Texts>

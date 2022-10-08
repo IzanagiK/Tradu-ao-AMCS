@@ -1049,44 +1049,44 @@
 			<Desc>Create Building Blueprint</Desc>
 		</Text>
 		<Text Name="Harvest">
-			<Display>Harvest</Display>
-			<Desc>[color=#0000FF]Harvest Plant[/color]([keycode]Harvest[/keycode])\nHarvest the plant to obtain its fruit or other products. \nWork Type: Farming</Desc>
+			<Display>Colheita</Display>
+			<Desc>[color=#0000FF]Colheita da planta[/color]([keycode]Colheita[/keycode])\nColhe a planta para obter seus frutos ou outros produtos. \nTipo de Trabalho: Agricultura</Desc>
 		</Text>
 		<Text Name="Log">
-			<Display>Chop</Display>
-			<Desc>[color=#0000FF]Chop Tree[/color]([keycode]Log[/keycode])\nChop down the tree to obtain wood. \nWork Type: Woodcutting</Desc>
+			<Display>Cortar</Display>
+			<Desc>[color=#0000FF]Corte a árvore[/color]([keycode]Log[/keycode])\nDerrube a árvore para obter madeira. \nTipo de Trabalho: Corte de Lenha</Desc>
 		</Text>
 		<Text Name="Mine">
 			<Display>Mine</Display>
-			<Desc>[color=#0000FF]Mine Ore[/color]([keycode]Mine[/keycode])\nMine ores from the mountain to obtain stone or metal materials. \nWork Type: Mining</Desc>
+			<Desc>[color=#0000FF]Minerar minério[/color]([keycode]Mine[/keycode])\nMinere minérios da montanha para obter materiais de pedra ou metal. \nTipo de Trabalho: Mineração</Desc>
 		</Text>
 		<Text Name="Cutoff">
-			<Display>Clear</Display>
-			<Desc>[color=#0000FF]Clear Area[/color]([keycode]Cutoff[/keycode])\nClear all vegetation in the selected area. \nWork Type: Woodcutting</Desc>
+			<Display>Limpar</Display>
+			<Desc>[color=#0000FF]Limpar área[/color]([keycode]Cutoff[/keycode])\nLimpe toda a vegetação na área selecionada. \nTipo de trabalho: Corte de madeira</Desc>
 		</Text>
 		<Text Name="Dismantle">
-			<Display>Demolish</Display>
-			<Desc>[color=#0000FF]Demolish Building[/color]([keycode]Dismantle[/keycode])\nDemolish all buildings in the selected area. \nWork Type: Construction</Desc>
+			<Display>Demolir</Display>
+			<Desc>[color=#0000FF]Demolir Edifício[/color]([keycode]Desmantelar[/keycode])\nDemolir todos os edifícios na área selecionada. \nTipo de Obra: Construção</Desc>
 		</Text>
 		<Text Name="Explore">
-			<Display>Explore</Display>
-			<Desc>[color=#0000FF]Explore Area[/color]([keycode]Explore[/keycode])\nExplore an area covered in a layer of cloud; a character will spend more energy during exploration. \nWork Type: Hunting</Desc>
+			<Display>Explorar</Display>
+			<Desc>[color=#0000FF]Explorar Área[/color]([keycode]Explorar[/keycode])\nExplorar uma área coberta por uma camada de nuvem; um personagem gastará mais energia durante a exploração. \nTipo de Trabalho: Caça</Desc>
 		</Text>
 		<Text Name="Hunting">
-			<Display>Hunt</Display>
-			<Desc>[color=#0000FF]Hunt Animal[/color]([keycode]Hunting[/keycode])\nHunt and butcher a wild animal. \nWork Type: Hunting</Desc>
+			<Display>Caçar</Display>
+			<Desc>[color=#0000FF]Caçar Animal[/color]([keycode]Caça[/keycode])\nCaçar e remover a carne de um animal selvagem. \nTipo de Trabalho: Caça</Desc>
 		</Text>
 		<Text Name="Melting">
-			<Display>Smelt</Display>
-			<Desc>[color=#0000FF]Smelt Item[/color] ([keycode]Melting[/keycode])\nInner disciples will try to smelt this item into spirit stones. \nEvery 5,000 Qi in item means one spirit stone produced. If the item is an artifact, the higher its tier, the more spirit stones it will produce.</Desc>
+			<Display>Fundir</Display>
+			<Desc>[color=#0000FF]Item de Fundição[/color] ([keycode]Delting[/keycode])\nDiscípulos internos tentarão fundir este item em pedras espirituais. \nCada 5.000 Qi em um item significa uma pedra espiritual produzida. Se o item for um artefato, quanto maior o nível, mais pedras espirituais ele produzirá.</Desc>
 		</Text>
 		<Text Name="CancelCMD">
-			<Display>Cancel</Display>
-			<Desc>[color=#0000FF]Cancel Order[/color] ([keycode]CancelCMD[/keycode])\nCancel orders issued in the selected area.</Desc>
+			<Display>Cancelar</Display>
+			<Desc>[color=#0000FF]Cancelar ordens[/color] ([keycode]CancelarCMD[/keycode])\nCancelar ordens emitidas na área selecionada.</Desc>
 		</Text>
 		<Text Name="ClearPlant">
-			<Display>Plant</Display>
-			<Desc>[color=#0000FF]Remove Plant[/color]\nRemove all plants in the selected area.</Desc>
+			<Display>Planta</Display>
+			<Desc>[color=#0000FF]Remover planta[/color]\nRemova todas as plantas da área selecionada.</Desc>
 		</Text>
 		<Text Name="ClearMine ">
 			<Display>Mine</Display>
@@ -1105,12 +1105,12 @@
 			<Desc>[color=#0000FF]Remove Item[/color]\nRemove all items in the selected area.</Desc>
 		</Text>
 		<Text Name="Dismantle2">
-			<Display>Rebuild</Display>
-			<Desc>[color=#0000FF]Rebuild Building[/color] ([keycode]Dismantle[/keycode])\nRebuild all abandoned buildings in the selected area. \nWork Type: Construction</Desc>
+			<Display>Reconstruir</Display>
+			<Desc>[color=#0000FF]Reconstruir prédio[/color] ([keycode]Desmantelar[/keycode])\nReconstruir todos os prédios abandonados na área selecionada. \nTipo de Obra: Construção</Desc>
 		</Text>
 		<Text Name="CancelCMD2">
-			<Display>Ban</Display>
-			<Desc>[color=#0000FF]Ban Item[/color] ([keycode]CancelCMD[/keycode])\nCancel/Activate the ban on items, depending on whether the first item in the selected area is banned or not.</Desc>
+			<Display>Proibir</Display>
+			<Desc>[color=#0000FF]Ban Item[/color] ([keycode]CancelCMD[/keycode])\nCancelar/Ativar a proibição de itens, dependendo se o primeiro item na área selecionada está banido ou não.</Desc>
 		</Text>
 	</List>
 </Texts>

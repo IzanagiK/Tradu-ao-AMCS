@@ -5,319 +5,319 @@
 		</Text>
 		<Text Name="Item_BasePracticeDrug" sParam="Item">
 			<ThingName>Forming Pill</ThingName>
-			<Desc>Pill made by immortal cultivators, it can regulate the five Qi within one's body and stimulate its potential, temporarily increasing Perception, Constitution and Intelligence by 30% for 48 hours. Significantly increases Foundation Training progress for outer disciples when consumed.</Desc>
+			<Desc>Pílula feita por cultivadores imortais, ela pode regular os cinco Qi dentro do corpo e estimular seu potencial, aumentando temporariamente a Percepção, Constituição e Inteligência em 30% por 48 horas. Aumenta significativamente o progresso do Treinamento Básico para discípulos externos quando consumidos.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan" sParam="Item">
 			<ThingName>Stamina Pill</ThingName>
-			<Desc>Improves the body's ability to generate Stamina, increasing Hunger Consumption Rate and Stamina Conversion Rate for 7 days.</Desc>
+			<Desc>Melhora a capacidade do corpo de gerar Vigor, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor por 7 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan2" sParam="Item">
 			<ThingName>Ginseng Pill</ThingName>
-			<Desc>Improves the body's ability to generate Stamina, increasing Hunger Consumption Rate and Stamina Conversion Rate for 14 days.</Desc>
+			<Desc>Melhora a capacidade do corpo de gerar Vigor, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor por 14 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan3" sParam="Item">
 			<ThingName>Resin Essence Powder</ThingName>
-			<Desc>Improves the body's ability to generate Stamina, increasing Hunger Consumption Rate and Stamina Conversion Rate for 28 days.</Desc>
+			<Desc>Melhora a capacidade do corpo de gerar Vigor, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor por 28 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling" sParam="Item">
 			<ThingName>Qi Regen Pill</ThingName>
-			<Desc>Pill rich in Qi. Consume it to restore 3,000 Qi and boost Qi Recovery Rate for 6 hours. It is generally advised to wait with consuming after reaching the core shaping phase, otherwise the user might become injured or even die from not being able to withstand its potency.</Desc>
+			<Desc>Pílula rica em Qi. Consuma-o para restaurar 3.000 Qi e aumentar a taxa de recuperação de Qi por 6 horas. Geralmente, é aconselhável esperar com o consumo após atingir a fase de modelagem do núcleo, caso contrário, o usuário pode se machucar ou até morrer por não ser capaz de suportar sua potência.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling2" sParam="Item">
 			<ThingName>Sun Pill</ThingName>
-			<Desc>Dark purple elixir pill. Consume it to recover a large amount of Qi and increase Max Qi. Consuming it in large quantities significantly diminish the effect. Should only be consumed after having reached the Golden Core phase, otherwise the user might become injured or even die from not being able to withstand its potency.</Desc>
+			<Desc>Pílula de elixir roxa escura. Consuma-o para recuperar uma grande quantidade de Qi e aumentar o Max Qi. Consumi-lo em grandes quantidades diminui significativamente o efeito. Só deve ser consumido após atingir a fase Golden Core, caso contrário o usuário pode se machucar ou até morrer por não conseguir suportar sua potência.</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeRate" sParam="Item">
 			<ThingName>Thought Pill</ThingName>
-			<Desc>Pill made from Sage Fruit and Purity Leaves, it is capable of greatly accelerating one's thought process, doubling the probability of achieving Breakthrough. Lasts 24 hours. Consuming it in large quantities significantly diminish the effect.</Desc>
+			<Desc>Pílula feita de Frutos de Sálvia e Folhas de Pureza, é capaz de acelerar muito o processo de pensamento, dobrando a probabilidade de alcançar a Ruptura. Dura 24 horas. Consumi-lo em grandes quantidades diminui significativamente o efeito.</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeSpeed" sParam="Item">
 			<ThingName>Sprout Pill</ThingName>
-			<Desc>Pill made from Crimson Fruit, it is capable of boosting Cultivation Speed by 30%. Lasts 24 hours.</Desc>
+			<Desc>Pílula feita de Fruta Carmesim, é capaz de aumentar a Velocidade de Cultivo em 30%. Dura 24 horas.</Desc>
 		</Text>
 		<Text Name="Item_Dan_CalmDown" sParam="Item">
 			<ThingName>Purity Pill</ThingName>
-			<Desc>Pill made from Purity Leaves and Ice Crystal Powder, it can stabilize one's Mental State.</Desc>
+			<Desc>Pílula feita de Folhas de Pureza e Pó de Cristal de Gelo, pode estabilizar o Estado Mental.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Happiness" sParam="Item">
 			<ThingName>Euphoria Pill</ThingName>
-			<Desc>Pill that can make one feel happy for 2 days, but it also decreases the efficiency of doing everything by 50%.</Desc>
+			<Desc>Pílula que pode fazer uma pessoa se sentir feliz por 2 dias, mas também diminui a eficiência de fazer tudo em 50%.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger" sParam="Item">
 			<ThingName>Inedia Pill</ThingName>
-			<Desc>Consume Inedia Pill to gain the ability of Qi Absorption for 2 days, automatically recovering Hunger.</Desc>
+			<Desc>Consuma Inedia Pill para ganhar a habilidade de Absorção de Qi por 2 dias, recuperando automaticamente a Fome.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger2" sParam="Item">
 			<ThingName>Fasting Pill</ThingName>
-			<Desc>Consume the Fasting Pill to become immune from hunger for 2 days.</Desc>
+			<Desc>Tome a pílula de jejum para ficar imune à fome por 2 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger1" sParam="Item">
 			<ThingName>Nourish Pill</ThingName>
-			<Desc>Consume it to replenish nutrients, reducing Hunger rate and Fatigue rate for 2 days.</Desc>
+			<Desc>Consumir para repor nutrientes, reduzindo a taxa de fome e a taxa de fadiga por 2 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LostSoul" sParam="Item">
 			<ThingName>Sedation Pill</ThingName>
-			<Desc>Very basic mineral-based pill. Consuming this pill will cause one's brain functions to be repressed, putting the user into a coma for 3 whole days.</Desc>
+			<Desc>Pílula mineral muito básica. Consumir esta pílula fará com que as funções cerebrais sejam reprimidas, colocando o usuário em coma por 3 dias inteiros.</Desc>
 		</Text>
 		<Text Name="Item_Dan_DredgeQi1" sParam="Item">
 			<ThingName>Spirit Powder</ThingName>
-			<Desc>Medicinal powder made from Ginseng and Ganoderma, it can stimulate one's meridian channels and cure injuries with the "Spirit" tag.</Desc>
+			<Desc>Pó medicinal feito de Ginseng e Ganoderma, pode estimular os canais meridianos e curar lesões com a etiqueta "Spirit".</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_DredgeQi" sParam="Item">
 			<ThingName>Qi Flow Pill</ThingName>
-			<Desc>Pill that can neutralize the disordered Qi within one's body, it is capable of effectively curing injuries with the "Spirit" tag.</Desc>
+			<Desc>Pílula que pode neutralizar o Qi desordenado dentro do corpo, é capaz de curar lesões de forma eficaz com a etiqueta "Espírito".</Desc>
 		</Text>
 		<Text Name="Item_Dan_WuLingSan" sParam="Item">
 			<ThingName>Heal Powder</ThingName>
-			<Desc>Elixir capable of curing Inner Injuries with the "Metal", "Wood", "Water", "Fire" and "Earth" tags; relatively slow working.</Desc>
+			<Desc>Elixir capaz de curar Lesões Internas com as etiquetas "Metal", "Madeira", "Água", "Fogo" e "Terra"; trabalho relativamente lento.</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_CureJinDamage" sParam="Item">
 			<ThingName>Wood Pill</ThingName>
-			<Desc>Instantly cure Inner Injuries with the "Wood" tag.</Desc>
+			<Desc>Cure instantaneamente Lesões Internas com a etiqueta "Madeira".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureMuDamage" sParam="Item">
 			<ThingName>Earth Pill</ThingName>
-			<Desc>Instantly cure Inner Injuries with the "Earth" tag.</Desc>
+			<Desc>Cure instantaneamente Lesões Internas com a tag "Earth".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureShuiDamage" sParam="Item">
 			<ThingName>Fire Powder</ThingName>
-			<Desc>Instantly cure Inner Injuries with the "Fire" tag.</Desc>
+			<Desc>Cure instantaneamente Lesões Internas com a tag "Fogo".</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_CureHuoDamage" sParam="Item">
 			<ThingName>Metal Pill</ThingName>
-			<Desc>Instantly cure Inner Injuries with the "Metal" tag.</Desc>
+			<Desc>Cure instantaneamente Lesões Internas com a etiqueta "Metal".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureTuDamage" sParam="Item">
 			<ThingName>Water Pill</ThingName>
-			<Desc>Instantly cure Inner Injuries with the "Water" tag.</Desc>
+			<Desc>Cure instantaneamente Lesões Internas com a etiqueta "Água".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureFiveElementDamage" sParam="Item">
 			<ThingName>Remedy Pill</ThingName>
-			<Desc>Pill capable of curing Inner Injuries with the "Metal", "Wood", "Water", "Fire" and "Earth" tags; relatively quick working.</Desc>
+			<Desc>Pílula capaz de curar Lesões Internas com as etiquetas "Metal", "Madeira", "Água", "Fogo" e "Terra"; trabalho relativamente rápido.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Restore" sParam="Item">
 			<ThingName>Cure Powder</ThingName>
-			<Desc>Stimulate the body's potential, repairing most old scars.</Desc>
+			<Desc>Estimular o potencial do corpo, reparando a maioria das cicatrizes antigas.</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_ExtremeLofty" sParam="Item">
 			<ThingName>Panacea Pill</ThingName>
-			<Desc>Miraculous pill that can exploit the ways of heaven, it is capable of bringing one back from the brink of death, even when the subject has but one breath left. (Cannot be used when dying)</Desc>
+			<Desc>Pílula milagrosa que pode explorar os caminhos do céu, é capaz de trazer alguém de volta à beira da morte, mesmo quando o alvo tem apenas um fôlego. (Não pode ser usado ao morrer)</Desc>
 		</Text>
 		<Text Name="Item_Dan_HundredRefine" sParam="Item">
 			<ThingName>Samsara Pill</ThingName>
-			<Desc>Supreme Taoist elixir that only works the first time it's consumed. It greatly boost cultivation, but should be consumed after the Golden Core phase, otherwise the user might become injured or even die from not being able to withstand its potency.</Desc>
+			<Desc>Supremo elixir taoísta que só funciona na primeira vez que é consumido. Ele aumenta muito o cultivo, mas deve ser consumido após a fase Golden Core, caso contrário, o usuário pode se machucar ou até morrer por não ser capaz de suportar sua potência.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife1" sParam="Item">
 			<ThingName>Life Pill</ThingName>
-			<Desc>Pill that can prolong 180 years of life. It only works to the full extent the first time it's consumed, with subsequent consumptions' potency quickly diminishing.</Desc>
+			<Desc>Pílula que pode prolongar 180 anos de vida. Ele só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife2" sParam="Item">
 			<ThingName>Vitata Elixir</ThingName>
-			<Desc>Elixir that can prolong 200 years of life. It only works to the full extent the first time it's consumed, with subsequent consumptions' potency quickly diminishing.</Desc>
+			<Desc>Elixir que pode prolongar 200 anos de vida. Ele só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife3" sParam="Item">
 			<ThingName>Eternity Pill</ThingName>
-			<Desc>Consume to prolong 500 years of life, as well as increasing the Five Attributes by 10% each. Only works to the full extent the first time it's consumed, with subsequent consumptions' potency quickly diminishing.</Desc>
+			<Desc>Consumir para prolongar 500 anos de vida, além de aumentar os Cinco Atributos em 10% cada. Só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife4" sParam="Item">
 			<ThingName>Regen Pill</ThingName>
-			<Desc>Pill that can prolong 256 years of life. It only works to the full extent the first time it's consumed, with subsequent consumptions' potency quickly diminishing.</Desc>
+			<Desc>Pílula que pode prolongar 256 anos de vida. Ele só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife5" sParam="Item">
 			<ThingName>Morrow Pill</ThingName>
-			<Desc>Pill that can prolong 490 years of life, as well as postponing the coming of Heavenly Tribulation for 49 days. Only works to the full extent the first time it's consumed, with subsequent consumptions' potency quickly diminishing.</Desc>
+			<Desc>Pílula que pode prolongar 490 anos de vida, além de adiar a vinda da Tribulação Celestial por 49 dias. Só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseNeckCountdown1" sParam="Item">
 			<ThingName>Harmony Pill</ThingName>
-			<Desc>Pill that can postpone the coming of Heavenly Tribulation for 108 days. Only works to the full extent the first time it's consumed, with subsequent consumptions' potency quickly diminishing.</Desc>
+			<Desc>Pílula que pode adiar a vinda da Tribulação Celestial por 108 dias. Só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseNeckCountdown2" sParam="Item">
 			<ThingName>Justice Pill</ThingName>
-			<Desc>Deceive the ways of Heaven using the beast spirits within the nine Soul Pearl s, and postpones Heavenly Tribulation for 27 days. Can be consumed multiple times.</Desc>
+			<Desc>Engane os caminhos do Céu usando os espíritos das bestas dentro das nove Pérolas da Alma, e adia a Tribulação Celestial por 27 dias. Pode ser consumido várias vezes.</Desc>
 		</Text>
 		<Text Name="Item_Dan_SwordBall" sParam="Item">
 			<ThingName>Blade Pill</ThingName>
-			<Desc>Elixir pill as recorded in Seven-Slaughtering Sword, it can be created by refining the essence of the five metals with the Alchemy Furnace. Do not swallow—ever.</Desc>
+			<Desc>Pílula de elixir conforme registrada em Seven-Slaughtering Sword, ela pode ser criada refinando a essência dos cinco metais com o Alchemy Furnace. Não engula—nunca.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Defense" sParam="Item">
 			<ThingName>Shield Pill</ThingName>
-			<Desc>Consume to enhance Body Protection Qi for 24 hours.</Desc>
+			<Desc>Consumir para melhorar o Qi de Proteção Corporal por 24 horas.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling3" sParam="Item">
 			<ThingName>Divine Powder</ThingName>
-			<Desc>Consume to restore 300,000 Qi, as well as increasing Max Qi by 100,000 for 48 hours. If one's Cultivation is too low, the user may die from the explosion of Qi reserve.</Desc>
+			<Desc>Consumir para restaurar 300.000 Qi, além de aumentar o Qi Máximo em 100.000 por 48 horas. Se o Cultivo for muito baixo, o usuário pode morrer pela explosão da reserva de Qi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase1" sParam="Item">
 			<ThingName>Heavenly Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Perception by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consumir para ativar seu Qi primitivo, aumentando a Percepção em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase2" sParam="Item">
 			<ThingName>Earthly Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Constitution by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consumir para ativar seu Qi primitivo, aumentando a Constituição em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase3" sParam="Item">
 			<ThingName>Ether Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Charisma by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consumir para ativar seu Qi primitivo, aumentando o Carisma em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase4" sParam="Item">
 			<ThingName>Wisdom Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Intelligence by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consumir para ativar seu Qi primitivo, aumentando a Inteligência em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase5" sParam="Item">
 			<ThingName>Blessed Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Luck by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consumir para ativar seu Qi primitivo, aumentando a Sorte em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBaseFromLife" sParam="Item">
 			<ThingName>Bane Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Five Attributes by 10% each. However, 60 years of life will be lost as a result.</Desc>
+			<Desc>Consumir para ativar seu Qi primitivo, aumentando Cinco Atributos em 10% cada. No entanto, 60 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail1" sParam="Item">
 			<ThingName>Junk Pill</ThingName>
-			<Desc>Remains of a failed pill concocting process. There is strange power surging within, heaven knows what would happen to one who consume them.</Desc>
+			<Desc>Restos de um processo de fabricação de pílula que falhou. Há um poder estranho surgindo dentro, Deus sabe o que aconteceria com quem os consumisse.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail2" sParam="Item">
 			<ThingName>Junk Pill</ThingName>
-			<Desc>Remains of a failed pill concocting process. There is strange power surging within, heaven knows what would happen to one who consume them.</Desc>
+			<Desc>Restos de um processo de fabricação de pílula que falhou. Há um poder estranho surgindo dentro, Deus sabe o que aconteceria com quem os consumisse.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail3" sParam="Item">
 			<ThingName>Junk Pill</ThingName>
-			<Desc>Remains of a failed pill concocting process. There is strange power surging within, heaven knows what would happen to one who consume them.</Desc>
+			<Desc>Restos de um processo de fabricação de pílula que falhou. Há um poder estranho surgindo dentro, Deus sabe o que aconteceria com quem os consumisse.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail4" sParam="Item">
 			<ThingName>Junk Pill</ThingName>
-			<Desc>Defective pill that seems to have absorbed too much of the Alchemy Furnace's fire. Consuming it will cause one's five visceras to burn and Lifespan to diminish. But if one could manage to survive such an injury, it might yet bring some benefits.</Desc>
+			<Desc>Pílula defeituosa que parece ter absorvido muito do fogo da Fornalha de Alquimia. Consumi-lo fará com que as cinco vísceras da pessoa queimem e o tempo de vida diminua. Mas se alguém conseguisse sobreviver a tal lesão, ainda poderia trazer alguns benefícios.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail5" sParam="Item">
 			<ThingName>Junk Pill</ThingName>
-			<Desc>Remains of a failed pill concocting process. There is strange power surging within, heaven knows what would happen to one who consume them.</Desc>
+			<Desc>Restos de um processo de fabricação de pílula que falhou. Há um poder estranho surgindo dentro, Deus sabe o que aconteceria com quem os consumisse.</Desc>
 		</Text>
 		<Text Name="Item_Dan_TreeEXP" sParam="Item">
 			<ThingName>Eureka Pill</ThingName>
-			<Desc>Elixir that contains the heavenly power of creation. Consuming it allows one to feel the movement of Tao and obtain Inspiration from it. The quantity of Inspiration obtained is relative to one's Intelligence and Mental State at the time of consumption.</Desc>
+			<Desc>Elixir que contém o poder celestial da criação. Consumi-lo permite sentir o movimento do Tao e obter dele inspiração. A quantidade de Inspiração obtida é relativa à Inteligência e Estado Mental da pessoa no momento do consumo.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Thin" sParam="Item">
 			<ThingName>Fitness Pill</ThingName>
-			<Desc>Elixir made by immortal cultivators. Consuming it makes a character's body slimmer.</Desc>
+			<Desc>Elixir feito por cultivadores imortais. Consumi-lo torna o corpo de um personagem mais magro.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock" sParam="Item">
 			<ThingName>Fixing Pill</ThingName>
-			<Desc>Elixir made by immortal cultivators. Consuming it locks a character's current appearance.</Desc>
+			<Desc>Elixir feito por cultivadores imortais. Consumi-lo bloqueia a aparência atual de um personagem.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceUnLock" sParam="Item">
 			<ThingName>Truth Pill</ThingName>
-			<Desc>Pill made by immortal cultivators. Consuming it restore a character's true appearance.</Desc>
+			<Desc>Pílula feita por cultivadores imortais. Consumi-lo restaura a verdadeira aparência de um personagem.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock1" sParam="Item">
 			<ThingName>Child Face Drug</ThingName>
-			<Desc>Pill made by immortal cultivators. Consuming it to shape one's face as innocent as a baby's.</Desc>
+			<Desc>Pílula feita por cultivadores imortais. Consumindo-o para moldar um rosto tão inocente quanto o de um bebê.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock2" sParam="Item">
 			<ThingName>Adult Face Drug</ThingName>
-			<Desc>Pill made by immortal cultivators. Consuming it to shape one's face as energetic as an adult's.</Desc>
+			<Desc>Pílula feita por cultivadores imortais. Consumi-lo para moldar o rosto com tanta energia quanto o de um adulto.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock3" sParam="Item">
 			<ThingName>Elder Face Drug</ThingName>
-			<Desc>Pill made by immortal cultivators. Consuming it to shape one's face as profound as an elder's.</Desc>
+			<Desc>Pílula feita por cultivadores imortais. Consumindo-o para moldar o rosto tão profundamente quanto o de um ancião.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fat" sParam="Item">
 			<ThingName>Power Pill</ThingName>
-			<Desc>Elixir made by immortal cultivators. Consuming it makes a character's body bulkier.</Desc>
+			<Desc>Elixir feito por cultivadores imortais. Consumi-lo torna o corpo de um personagem mais volumoso.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul1" sParam="Item">
 			<ThingName>Anguish Pill</ThingName>
-			<Desc>Elixir made by utilizing Anguish Soul Gem as the catalyst. Consuming it grants Inspiration. However, 9 years of your Lifespan will be lost due to its cold and sinister potency.</Desc>
+			<Desc>Elixir feito utilizando a Gema da Alma da Angústia como catalisador. Consumi-lo concede Inspiração. No entanto, 9 anos de sua vida útil serão perdidos devido à sua potência fria e sinistra.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul2" sParam="Item">
 			<ThingName>Soulrend Pill</ThingName>
-			<Desc>Elixir made by utilizing Spirit Soul Gem as the catalyst. Consuming it grants Inspiration. However, your Qi reserve will be damaged due to its intensive potency. Decreases Max Qi by 10.</Desc>
+			<Desc>Elixir feito utilizando Spirit Soul Gem como catalisador. Consumi-lo concede Inspiração. No entanto, sua reserva de Qi será danificada devido à sua potência intensiva. Diminui o Qi Máximo em 10.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul3" sParam="Item">
 			<ThingName>Serene Pill</ThingName>
-			<Desc>Pill made by utilizing Serenity Soul Gem as the catalyst. Consuming it grants Inspiration. Multiple consumptions will gradually enhance its potency. However, the user will be shocked by the residual consciousness of chaos, resulting in brain damage.</Desc>
+			<Desc>Pílula feita utilizando Serenity Soul Gem como catalisador. Consumi-lo concede Inspiração. Múltiplos consumos aumentarão gradualmente sua potência. No entanto, o usuário ficará chocado com a consciência residual do caos, resultando em danos cerebrais.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul4" sParam="Item">
 			<ThingName>Scorch Pill</ThingName>
-			<Desc>Pill made by utilizing Serenity Soul Gem as the catalyst. Consuming it will burn a hundred years of one's Lifespan, granting extraordinary wisdom for 2 hours and hugely increasing the efficiency of gaining Inspiration. However, after the pill takes effect it will cause severe damage to one's mind, permanently reducing Intelligence by 20%. Consuming big quantities of it gradually diminish its potency.</Desc>
+			<Desc>Pílula feita utilizando Serenity Soul Gem como catalisador. Consumi-lo queimará cem anos de vida útil, concedendo sabedoria extraordinária por 2 horas e aumentando enormemente a eficiência de ganhar inspiração. No entanto, após a pílula fazer efeito, ela causará danos graves à mente, reduzindo permanentemente a Inteligência em 20%. Consumir grandes quantidades diminui gradualmente sua potência.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LunHui1" sParam="Item">
 			<ThingName>Sealed-Away Memory: Stardom</ThingName>
-			<Desc>After consumption, you can gain Inspiration from and be moved by this sequence of memory. \n[color=#D06508]This is in appreciation of the Stardom video series made by Xiaoyaosanren for giving me strength and joy![/color]</Desc>
+			<Desc>Após o consumo, você pode ganhar inspiração e ser movido por esta sequência de memória. \n[color=#D06508]Este é um agradecimento à série de vídeos Stardom feita por Xiaoyaosanren por me dar força e alegria![/color]</Desc>
 		</Text>
 		<Text Name="Item_Dan_ReBorn" sParam="Item">
 			<ThingName>Rebirth Pill</ThingName>
-			<Desc>Pill created by utilizing Soul Gems as the catalyst and Soul Pearl s as the active ingredient. Consuming it will allow one to rebirth into a mortal with remolded body. It can save one's life even on the brink of death.</Desc>
+			<Desc>Após o consumo de memória, para você ganhar motivação e memória. \n[color=#D0508]Este é um agradecimento à série de vídeos Stardom feito por Xiaoyaosanren por mim dar força e alegria![/color]</Desc>
 		</Text>
 		<Text Name="Item_Dan_ReBorn_4" sParam="Item">
 			<ThingName>Nirvana Pill</ThingName>
-			<Desc>An elixir created by harnessing energies that resound from cycles of reincarnation. Consuming it allows one to be reborn into a new body, while retaining all previous Inspiration.</Desc>
+			<Desc>Um elixir criado pelo aproveitamento de energias que ressoam de ciclos de reencarnação. Consumi-lo permite renascer em um novo corpo, mantendo toda a inspiração anterior.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LingYuanZhong" sParam="Item">
 			<ThingName>Spirit Seed</ThingName>
-			<Desc>Precious item created by combining Elemental Medicine with the Fortune Seed, it has many wonderful uses. When buried in the ground, it will automatically turn into spiritual veins and extend to all directions, slowly converting the surrounding terrain into Spiritual Soil or Spiritual Water. Wearing it makes one immune to cold and heat, albeit at the cost of a decrease in Attainment due to tricking the ways of Heaven. Consuming it greatly increase one's Max Qi.</Desc>
+			<Desc>Item precioso criado pela combinação da Medicina Elemental com a Semente da Fortuna, tem muitos usos maravilhosos. Quando enterrado no solo, ele se transformará automaticamente em veias espirituais e se estenderá para todas as direções, convertendo lentamente o terreno circundante em Solo Espiritual ou Água Espiritual. Usá-lo torna a pessoa imune ao frio e ao calor, embora ao custo de uma diminuição na Realização devido a enganar os caminhos do Céu. Consumi-lo aumenta muito o Qi Max.</Desc>
 			<StoryBnts.0.Name>Bury</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Bury this item in the ground.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Dan_LingYuanSha" sParam="Item">
 			<ThingName>Fortune Sand</ThingName>
-			<Desc>Through a secret method, refine Fortune Seed into powder. Although its effect is reduced, it can be used as a medium to perform miracles multiple times to create fertile soil.</Desc>
+			<Desc>Através de um método secreto, transforme Fortune Seed em pó. Embora seu efeito seja reduzido, ele pode ser usado como meio para realizar milagres várias vezes para criar um solo fértil.</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_LongDan1" sParam="Item">
 			<ThingName>Dragon Elixir</ThingName>
-			<Desc>Elixir made from the primordial spirit of a Flood Dragon, consume to convert it into one of your sub-spirits, allowing you to control an extra Artifact. Only works the first time it's consumed.</Desc>
+			<Desc>Elixir feito do espírito primordial de um Dragão da Inundação, consuma para convertê-lo em um de seus subespíritos, permitindo que você controle um Artefato extra. Só funciona na primeira vez que é consumido.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FengDan1" sParam="Item">
 			<ThingName>Phoenix Elixir</ThingName>
-			<Desc>Elixir made from the primordial spirit of Phoenix, consume to convert it into one of your sub-spirits, allowing you to control an extra Artifact. Only works the first time it's consumed.</Desc>
+			<Desc>Elixir feito do espírito primordial da Fênix, consuma para convertê-lo em um de seus subespíritos, permitindo que você controle um Artefato extra. Só funciona na primeira vez que é consumido.</Desc>
 		</Text>
 		<Text Name="Item_Dan_ZhuLongDan1" sParam="Item">
 			<ThingName>Torch Elixir</ThingName>
-			<Desc>Elixir made from the primordial spirit of Torch Dragon, consume to convert it into one of your sub-spirits, allowing you to control an extra Artifact. Only works the first time it's consumed.</Desc>
+			<Desc>Elixir feito do espírito primordial do Dragão da Tocha, consuma para convertê-lo em um de seus subespíritos, permitindo que você controle um Artefato extra. Só funciona na primeira vez que é consumido.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen1" sParam="Item">
 			<ThingName>Prime Pill</ThingName>
-			<Desc>Divine pill of the ancient times said to be made from a wisp of primeval Qi of clarity and turbidity from the world's creation. Its concocting method is long lost. By consuming this pill, one can reenact the creation of heaven and earth within one's Primordial Spirit, thus obtaining two sub-spirits. This pill can only be taken once during a lifetime. Only effective when one's Cultivation is at Primordial Spirit level.</Desc>
+			<Desc>Pílula divina dos tempos antigos que se diz ser feita de um fio de Qi primordial de clareza e turbidez da criação do mundo. Seu método de fabricação está perdido há muito tempo. Ao consumir esta pílula, pode-se reencenar a criação do céu e da terra dentro de seu Espírito Primordial, obtendo assim dois sub-espíritos. Esta pílula só pode ser tomada uma vez na vida. Só é eficaz quando o Cultivo está no nível do Espírito Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen2" sParam="Item">
 			<ThingName>Unison Pill</ThingName>
-			<Desc>Divine pill of the ancient times, its concocting method long lost. By consuming this pill one become aware of another self, generating a new sub-spirit. This pill can only be taken once during a lifetime. Only effective when one's Cultivation is at Primordial Spirit level.</Desc>
+			<Desc>Pílula divina dos tempos antigos, seu método de fabricação há muito perdido. Ao consumir esta pílula torna-se consciente de um outro eu, gerando um novo sub-espírito. Esta pílula só pode ser tomada uma vez na vida. Só é eficaz quando o Cultivo está no nível do Espírito Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen3" sParam="Item">
 			<ThingName>Division Pill</ThingName>
-			<Desc>Divine pill of the ancient times, its concocting method long lost. By consuming this pill, one can make use of its strong potency to forcefully generate a new sub-spirit. However, it will cause permanent damage to the cultivator's Mental State. Only effective when one's Cultivation is at Primordial Spirit level.</Desc>
+			<Desc>Pílula divina dos tempos antigos, seu método de fabricação há muito perdido. Ao consumir esta pílula, pode-se fazer uso de sua forte potência para gerar com força um novo sub-espírito. No entanto, causará danos permanentes ao Estado Mental do cultivador. Só é eficaz quando o Cultivo está no nível do Espírito Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_TiShen" sParam="Item">
 			<ThingName>Clone Pill</ThingName>
-			<Desc>After consuming it, you can use a double to participate in an auction, which allows you to escape immediately in case you don't bring enough Spirit Stones.</Desc>
+			<Desc>Depois de consumi-lo, você pode usar um duplo para participar de um leilão, o que permite que você escape imediatamente caso não traga Pedras Espirituais suficientes.</Desc>
 		</Text>
 		<Text Name="Item_QiZhi" sParam="Item">
 			<ThingName>Enlightening Pill</ThingName>
-			<Desc>Can be fed to wild animals, making them enlightened and entering the Awakening State.</Desc>
+			<Desc>Pode ser dado como alimento a animais selvagens, tornando-os iluminados e entrando no Estado do Despertar.</Desc>
 		</Text>
 		<Text Name="Item_Fall_LingZhi" sParam="Item">
 			<ThingName>Autumn Pill</ThingName>
-			<Desc>Improves the Qi of Metal element, so that the animal can gain a deeper understanding of autumn and feel its corresponding thought.</Desc>
+			<Desc>Melhora o elemento Qi do Metal, para que o animal possa obter uma compreensão mais profunda do outono e sentir seu pensamento correspondente.</Desc>
 		</Text>
 		<Text Name="Item_Winter_LingZhi" sParam="Item">
 			<ThingName>Winter Pill</ThingName>
-			<Desc>Improves the Qi of Water element, so that the animal can gain a deeper understanding of winter and feel its corresponding thought.</Desc>
+			<Desc>Melhora o elemento Qi da Água, para que o animal possa obter uma compreensão mais profunda do inverno e sentir seu pensamento correspondente.</Desc>
 		</Text>
 		<Text Name="Item_Spring_LingZhi" sParam="Item">
 			<ThingName>Spring Pill</ThingName>
-			<Desc>Improves the Qi of Wood element, so that the animal can gain a deeper understanding of spring and feel its corresponding thought.</Desc>
+			<Desc>Melhora o elemento Qi da Madeira, para que o animal possa obter uma compreensão mais profunda da primavera e sentir seu pensamento correspondente.</Desc>
 		</Text>
 		<Text Name="Item_Summer_LingZhi" sParam="Item">
 			<ThingName>Summer Pill</ThingName>
-			<Desc>Improves the Qi of Fire element, so that the animal can gain a deeper understanding of summer and feel its corresponding thought.</Desc>
+			<Desc>Melhora o elemento Qi do Fogo, para que o animal possa obter uma compreensão mais profunda do verão e sentir seu pensamento correspondente.</Desc>
 		</Text>
 		<Text Name="Item_Earth_LingZhi" sParam="Item">
 			<ThingName>Ground Pill</ThingName>
-			<Desc>Improves the Qi of Earth element, so that the animal can gain a deeper understanding of earth and feel its corresponding thought.</Desc>
+			<Desc>Melhora o elemento Qi da Terra, para que o animal possa obter uma compreensão mais profunda da terra e sentir seu pensamento correspondente.</Desc>
 		</Text>
 	</List>
 </Texts>

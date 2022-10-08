@@ -2,9 +2,9 @@
 	<List>
 		<Text Name="RPGOnlineNpc">
 			<DisplayName>Test</DisplayName>
-			<Selections.0.Display>Faça upload do personagem</Selections.0.Display>
-			<Selections.1.Display>Convocar um inimigo</Selections.1.Display>
-			<Selections.2.Display>Sair</Selections.2.Display>
+			<Selections.0.Display>Upload the character</Selections.0.Display>
+			<Selections.1.Display>Summon an enemy</Selections.1.Display>
+			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
 	</List>
 </Texts>

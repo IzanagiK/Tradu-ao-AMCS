@@ -1,22 +1,22 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Ls_FirstNoLing">
-			<DisplayName>Qi do Pet exaurido</DisplayName>
-			<Desc>O Qi do animal de estimação foi exaurido. Você deve construir a estatua correspondente para ressuscita-la, e o processo levara três dias.</Desc>
+			<DisplayName>Pet Qi Exhausted</DisplayName>
+			<Desc>The Qi of the pet has been exhausted. You have to build the corresponding statue in order to resurrect it, and the process of which will take three days.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_SecLs">
-			<DisplayName>Segundo Pet</DisplayName>
-			<Desc>Você só pode ter um animal de estimação. Este animal ira desaparecer por um tempo. Para invocar este animal de estimação, você precisa primeiro construir sua estatua.</Desc>
+			<DisplayName>Second Pet</DisplayName>
+			<Desc>You can only have one pet. This pet will disappear for a while. To summon this pet, you need to build its statue first.</Desc>
 		</Text>
 		<Text Name="Ls_Outspread_Stability">
-			<DisplayName>Poder Renomado</DisplayName>
-			<Desc>Floating dragon esta voando alto, com nuvens escuras, raios e trovoes enchendo o ceu. Aqueles que cometeram atos injustos ficarão com muito medo.</Desc>
+			<DisplayName>Renowned Might</DisplayName>
+			<Desc>Floating dragon is flying high above, with dark clouds, lightning and thunders filling the sky. Those who have done wrongful acts shall be very afraid.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_Outspread_Attractive">
-			<DisplayName>Sinais Auspiciosos</DisplayName>
-			<Desc>Dark Phoenix pairou no céu por vários dias antes de cair no topo do salão principal, soltou três longos gritos e voou para longe. A maioria das pessoas acredita que este e um otimo Seven-Slaughtering..</Desc>
+			<DisplayName>Auspicious Signs</DisplayName>
+			<Desc>Dark Phoenix hovered in the sky for several days before it fell on top of the main hall, made three long cries and flew away. Most people believe that this is a very good Seven-Slaughtering.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 	</List>

@@ -1,410 +1,410 @@
-﻿ID	Name	Desc
+ID	Name	Desc
 ID	Achievement Title	Description
-1	Ascensão pela primeira vez	1 person ascended
-2	Adepto da Ascensão	3 pessoas subiram
-3	Ascensão Frequente	5 pessoas subiram
-4	Renomado Cultivador	10 pessoas subiram
-5	Jovens e Inexperientes	1 aventura no total
-6	Aventureiro Casual	100 aventuras no total
-7	Aventureiro Especialista	500 aventuras no total
-8	Mestre da Aventura	1.000 aventuras no total
-9	Alquimista pela primeira vez	1 prática alquímica
-10	Alquimista Qualificado	50 práticas alquímicas
-11	Grande Alquimista	100 práticas alquímicas
-12	Mestre Alquimista	500 práticas alquímicas
-13	Artesão pela primeira vez	1 artefato fabricado
-14	Artesão Qualificado	50 artefatos fabricados
-15	Artesão Especialista	100 artefatos fabricados
-16	Mestre Artesão	500 artefatos fabricados
-17	Desenho pela primeira vez	1 talismã desenhado
-18	Desenho qualificado	50 talismãs desenhados
-19	Desenho de especialistas	100 talismãs sorteados
-20	Desenho Mestre	500 talismãs sorteados
-21	Assassino pela primeira vez	1 criatura morta
-22	Assassino Profissional	100 criaturas mortas
-23	Assassino frio de pedra	500 criaturas mortas
-24	caçadora	1.000 criaturas mortas
-25	Assassino do Cultivador	1 cultivador morto
-26	Nêmesis dos cultivadores	100 cultivadores mortos
-27	Açougueiro de Cultivadores	500 cultivadores mortos
-28	Caçador de Cultivadores	1.000 cultivadores mortos
-29	Buscador pela primeira vez	1 alma pesquisada
-30	Buscador qualificado	10 almas pesquisadas
-31	Pesquisador especialista	50 almas pesquisadas
-32	Mestre Buscador	100 almas pesquisadas
-33	Cozinhar	10 tipos de alimentos cozidos
+1	First-time Ascension	1 pessoa ascendeu
+2	Ascension Adept	3 pessoas ascenderam
+3	Frequent Ascension	5 pessoas ascenderam
+4	Renowned Cultivator	10 pessoas ascenderam
+5	Young and Inexperienced	1 aventura no total
+6	Casual Adventurer	100 aventuras no total
+7	Expert Adventurer	500 aventuras no total
+8	Adventure Master	1,000 aventuras no total
+9	First-time Alchemist	1 prática alquímica
+10	Skilled Alchemist	50 práticas alquímicas
+11	Great Alchemist	100 práticas alquímicas
+12	Master Alchemist	500 práticas alquímicas
+13	First-time Craftsman	1 artefato criado
+14	Skilled Craftsman	50 artefatos criados
+15	Expert Craftsman	100 artefatos criados
+16	Master Craftsman	500 artefatos criados
+17	First-time Drawing	1 talismã desenhado
+18	Skilled Drawing	50 talismãs desenhados
+19	Expert Drawing	100 talismãs desenhados
+20	Master Drawing	500 talismãs desenhados
+21	First-time Killer	1 criatura morta
+22	Professional Killer	100 criaturas mortas
+23	Stone Cold Killer	500 criaturas mortas
+24	Slayer	1,000 criaturas mortas
+25	Cultivator Killer	1 cultivador morto
+26	Cultivators' Nemesis	100 cultivadores mortos
+27	Butcher of Cultivators	500 cultivadores mortos
+28	Slayer of Cultivators	1,000 cultivadores mortos
+29	First-time Searcher	1 alma procurada
+30	Skilled Searcher	10 almas procuradas
+31	Expert Searcher	50 almas procuradas
+32	Master Searcher	100 almas procuradas
+33	Cook	10 tipos de alimentos cozidos
 34	Chef	20 tipos de alimentos cozidos
 35	Master Chef	50 tipos de alimentos cozidos
-36	Um Flash de Insight	1 peça de arte de nível VII feita
-37	Fluxo de Ideias	10 peças de arte de nível VII feitas
-38	Artista Talentoso	50 peças de arte de nível VII feitas
-39	Mais uma venda	1 viajante persuadido a participar
-40	Mais cinco vendas	5 viajantes persuadidos a se juntar
-41	Dez mais vendas	10 viajantes persuadidos a se juntar
-42	Quanto mais melhor	20 viajantes persuadidos a participar
-43	Leitor pela primeira vez	1 manual aprendido através da leitura
-44	Ávido Leitor	10 manuais aprendidos através da leitura
-45	Erudito	50 manuais aprendidos através da leitura
-46	Bibliófilo	100 manuais aprendidos através da leitura
-47	Acidente infeliz	1 discípulo falecido
-48	Um abismo atrai outro	5 discípulos mortos
-49	Desgraça pouca é bobagem	10 discípulos mortos
-50	Fragilidade da Vida	50 discípulos mortos
-51	Perda pesada	1 discípulo interno falecido
-52	Grande Perda	5 discípulos internos mortos
-53	Perda Trágica	10 discípulos internos mortos
-54	Desolado	20 discípulos internos mortos
-55	Eu sou você	1 pessoa possuída
-56	Eles São Eu	5 pessoas possuídas
-57	Eu sou todo mundo	10 pessoas possuídas
-58	Rei da Posse	20 pessoas possuídas
-59	Pisco de um Olho	100 anos de meditação no total
-60	Como o tempo passa	500 anos de meditação no total
-61	Anos Esquecidos	1.000 anos de meditação no total
-62	Mestre da Solidão	5.000 anos de meditação no total
-63	Dê-me sua vida	10 anos de vida dos outros roubados no total
-64	Dê-me mais vida	50 anos de vida dos outros roubados no total
-65	Tal é a vida	500 anos de vida dos outros roubados no total
-66	Morte	1.000 anos de vida dos outros roubados no total
-67	Dor Grave	1 alma refinada
-68	Almas Lamentando	10 almas refinadas
-69	Fonte da Miséria	50 almas refinadas
-70	Diabo	100 almas refinadas
-71	Ladrão de Almas	1 alma tomada
-72	Almas Frescas	10 almas tomadas
-73	Proxy das Almas	50 almas tomadas
-74	Mestre das Almas	100 almas tomadas
-75	Absorção de Sanguine	Absorção de Sanguine feita uma vez
-76	Círculo da Vida	Absorção de Sanguine feita 10 vezes
-77	Regra Yin-Yang	Absorção de Sanguine feita 50 vezes
-78	O Rei da Morte	Absorção de Sanguine feita 100 vezes
-79	Malfeitor	1 sacrifício concluído
-80	Fé do Mal	10 sacrifício concluído
-81	Trazer o mal	50 sacrifício concluído
-82	Apóstolo do Mal	100 sacrifício concluído
-83	Posse de Alma	1 pessoa alma possuída
-84	Alma morta-viva	10 pessoa alma possuída
-85	Alma Eterna	50 pessoa alma possuída
-86	Violação de Creed	100 pessoa alma possuída
-87	Aliado	1 artefato maior adquirido
-88	Harmonia	10 artefatos maiores adquiridos
-89	Viajante	5 novos pontos descobertos durante aventuras (pontos aprendidos através de livros não incluídos)
-90	Explorador	25 novos pontos descobertos durante aventuras (pontos aprendidos através de livros não incluídos)
-91	Grande Andarilho	50 novos pontos descobertos durante aventuras (pontos aprendidos através de livros não incluídos)
-1002	Purificação	Inventa uma pílula samsara
-1003	Cristalização	Inventa uma pílula da eternidade
-1004	Meu Destino	Molde de núcleo dourado
-1005	O Escolhido	Camada I Núcleo Dourado Em forma
-1006	Descendente de Passos Supremos	Cultivar a Lei dos Dezesseis Passos Supremos
-1007	Treinamento Ortodoxo: Passos Supremos	Cultive a Lei dos Dezesseis Passos Supremo com mais de 150% de compatibilidade
-1008	Nível I: Passos Supremos	Modele o Núcleo Dourado nível I com a Lei dos Dezesseis Passos Supremos
-1009	Maestria: Passos Supremos	Ascende através da Lei dos Dezesseis Passos Supremos
-1010	Descendente de Artefato Miríade	Cultive a Lei das Miríades de Artefatos
-1011	Treinamento Ortodoxo: Myriad Artifact	Cultive a Lei das Miríades de Artefatos com mais de 150% de compatibilidade
-1012	Nível I: Myriad Artifact	Modele o Núcleo Dourado nível I com a Lei das Miríades de Artefatos
-1013	Domínio: Myriad Artifact	Ascend through the Myriad Artifact Law
-1014	Descendente de Espada	Cultive a Espada de Sete Abates
-1015	Treinamento Ortodoxo: Espada	Cultive a Espada de Sete Abates com mais de 150% de compatibilidade
-1016	Nível I: Espada	Modele o Núcleo Dourado de Nível I com a Espada de Sete Abates
-1017	Domínio: Espada	Ascende através da Espada sete-abate
-1018	Descendente da pureza de Jade	Cultive a Lei Imortal da Pureza de Jade
-1019	Treinamento Ortodoxo: Pureza de Jade	Cultive a Lei Imortal da Pureza de Jade com mais de 150% de compatibilidade
-1020	Nível I: Pureza de jade	Modele o Núcleo Dourado nível I com a Lei Imortal da Pureza de Jade
-1021	Domínio: Pureza de jade	Ascende através da Lei Imortal da Pureza de Jade
-1022	Descendente do Céu roubando	Cultive a Lei do Céu Roubando
-1023	Treinamento Ortodoxo: Céu roubando	Cultive a Lei do Céu Roubando com mais de 150% de compatibilidade
-1024	Nível I: Céu roubando	Modele o Núcleo Dourado nível I com a Lei de Roubo do Céu
-1025	Domínio: Céu roubando	Ascende através da Lei do Roubo do Céu
-1026	Descendente da Alquimia	Cultivar a Lei da Alquimia Primordial
-1027	Treinamento Ortodoxo: Alquimia	Cultivar a Lei da Alquimia Primordial com mais de 150% de compatibilidade
-1028	Nível I: Alquimia	Modele o Núcleo Dourado nível I com a Lei de Alquimia Primordial
-1029	Domínio: Alquimia	Ascende através da Lei da Alquimia Primordial
-1030	Descendente da Grande Carruagem	Cultive a Grande Lei da Sabedoria da Carruagem
-1031	Treinamento Ortodoxo: Grande Carruagem	Cultive a Lei da Grande Sabedoria da Carruagem com mais de 150% de compatibilidade
-1032	Nível I: Grande Carruagem	Modele o Núcleo Dourado nível I com a Grande Lei da Sabedoria da Carruagem
-1033	Domínio: Grande Carruagem	Ascende através da Grande Lei da Sabedoria da Carruagem
-1034	Descendente da Reencarnação	Cultive a Lei de Reencarnação dos Seis Caminhos
-1035	Treinamento Ortodoxo: Reencarnação	Cultive a Lei de Reencarnação dos Seis Caminhos com mais de 150% de compatibilidade
-1036	Nível I: Reincarnação	Modele o Núcleo Dourado nível I com a Lei de Reencarnação de Seis Caminhos
-1037	Domínio: Reincarnação	Ascende através da Lei de Reencarnação dos Seis Caminhos
-1038	Descendente do Verdadeiro Sol	Cultive a Lei do Refino do Sol Verdadeiro
-1039	Treinamento Ortodoxo: Verdadeiro Sol	Cultive a Lei do Refino do Sol Verdadeiro com mais de 150% de compatibilidade
-1040	Nível I: Verdadeiro Sol	Modele o Núcleo Dourado nível I com a Lei de Refino do Sol Verdadeiro
-1041	Domínio: Verdadeiro Sol	Ascende através da Lei de Refino do Sol Verdadeiro
-1042	Descendente do Refino de Girassol	Cultive a Lei de Refino de Girassol
-1043	Treinamento Ortodoxo: Refinação de Girassol	Cultive a Lei de Refino de Girassol com mais de 150% de compatibilidade
-1044	Nível I: Refinação de girassol	Modele o Núcleo Dourado nível I com a Lei de Refino de Girassol
-1045	Domínio: Refinação de girassol	Ascende através da Lei de Refino de Girassol
-1046	Descendente de Emoção Cortando	Cultive a Lei de Corte de Emoções
-1047	Treinamento Ortodoxo: Emoção Cortando	Cultive a Lei de Corte de Emoções com mais de 150% de compatibilidade
-1048	Nível I: Emoção Cortando	Modele o Núcleo Dourado nível I com a Lei de Corte de Emoções
-1049	Domínio: Emoção Cortando	Ascende através da Lei de Corte de Emoções
-1050	Não reconhecido	A reputação da seita alcança 400: Não reconhecido
-1051	Visível	A reputação da seita alcança 1,000: Visível
-1052	Distinto	A reputação da seita alcança 5,000: Distinto
-1053	Proeminente	A reputação da seita alcança 10,000: Proeminente
-1054	Incomparável	A reputação da seita alcança 40,000: Incomparável
-1055	Respeitado	Seita se torna: Respeitado
-1056	Honrado	Seita se torna: Honrado
-1057	Célebre	Seita se torna: Célebre
-1058	Duvidoso	Seita se torna: Duvidoso
-1059	Notório	Seita se torna: Notório
-1060	Infame	Seita se torna: Infame
-1061	Estabelecido	5 discípulos na seita
-1062	Expansão	10 discípulos na seita
-1063	Próspera	18 discípulos na seita
-1064	Um novo começo	1 discípulo interno na seita
-1065	Florescente	4 discípulos internos na seita
-1066	Riqueza de Talento	8 discípulos internos na seita
-1067	Desastre: Frio Extremo	Sobreviva através do frio extremo
-1068	Desastre: Onda de calor	Sobreviva através da onda de calor
-1069	Desastre: Noite Polar	Sobreviva durante a noite polar
-1070	Psicocinética	Maestria de artefato atinge nível 20
-1071	Fascinante	Feitiço atinge nível 20
-1072	Prova de Morte	Proteção atinge nível 20
-1073	Doutor Imortal	Alquimia atinge nível 20
-1074	Artesão	Artesanato atinge nível 20
-1075	Vinda do Inverno	Passe o 1º ano no jogo
-1076	O tempo voa	Passe o 5º ano no jogo
-1077	Dias passados	Passe o 10º ano no jogo
-1078	Iluminado	Primeiro milagre realizado: Iluminado
-1079	Carismático	Primeiro milagre realizado: Carismático
-1080	Perceptivo	Primeiro milagre realizado: Perceptivo
-1081	Resiliente	Primeiro milagre realizado: Resiliente
-1082	Reconstructor	Primeiro milagre realizado: Reconstructor
-1083	Fazedor de chuva	Primeiro milagre realizado: Fazedor de chuva
-1084	Sem nuvens	Primeiro milagre realizado: Dispersão de Nuvens
-1085	Lobotomia	Parte superior do crânio danificada
-1086	Tiro na cabeça!	Cabeça danificada
-1087	Mortos-vivos	Danos cerebrais
-1088	Sem fígado!	Fígado danificado
-1089	Assexuado
-1090	Meu coração vai continuar	Coração danificado
-1091	Cultivado	Feng Shui da seita é cultivado
-1092	Seita Abençoada Feng Shui se torna abençoado
-1093	Auspicioso	Feng Shui de um quarto se torna auspicioso
-1094	Grande Feng Shui	Feng Shui de um quarto se torna muito auspicioso
-1095	Nível I Imortal	Um imortal que sobreviveu a uma tribulação permanece na seita
-1096	Nível III Imortal	Um imortal que sobreviveu a três tribulações permanece na seita
-1097	Nível V Imortal	Um imortal que sobreviveu a cinco tribulações permanece na seita
-1098	Nível IX Imortal	Um imortal que sobreviveu a nove tribulações permanece na seita
-1099	Raro	Adquira um artefato que passou por 1 reforge celestial
-1100	Precioso	Adquira um artefato que passou por 5 reforges celestiais
-1101	Primoroso	Adquira um artefato que passou por 10 reforges celestiais
-1102	Lendário	Adquira um artefato que passou por 20 reforges celestiais
-2000	Hábil	Artefato com uma qualidade de 100 fabricados
-2001	Engenhoso	Artefato de nível XII fabricado
-2002	Tinta Incrível	Talismã com uma qualidade acima de 95 sorteados
-2003	Extravagante	Artefato de nível XII fundiu
-2004	Triunfante	Sobreviveu à tribulação
-2005	Devastador	Falhou na tribulação e morreu.
-2006	Desesperado	Falhou na tribulação, mas sobreviveu.
-2007	Excelente	Primeiro avanço
-2008	Estabelecimento	Estabeleça uma seita
-2009	Desenvolvimento	Seita se expande para a escola
-2010	Surgimento	Seita se expande para o adobe celestial
-2011	Humilde	Primeira vez reconhecendo alguém como mestre
-2012	Consultor	Primeira vez instruindo alguém
-2013	Amor	Primeira vez em um relacionamento
-2014	Primeiro Passo	Primeira confissão de amor
-2015	Memória Doki Doki	A primeira confissão de amor foi bem sucedida.
-2016	Cara Legal	Primeira confissão de amor falhou
-2017	Corrompido	Primeira vez caindo para o lado demoníaco
-2018	Coração Frio	Primeira vez banindo um discípulo
-2019	Milagroso	Primeira vez desenterrar caixão antigo
+36	A Flash of Insight	1 peça de arte Nível VII feita
+37	Flow of Ideas	10 peças de arte Nível VII feitas
+38	Gifted Artist	50 peças de arte Nível VII feitas
+39	One More Sell	1 viajante persuadido a participar
+40	Five More Sells	5 viajantes persuadidos a participar
+41	Ten More Sells	10 viajantes persuadidos a participar
+42	The More The Merrier	20 viajantes persuadidos a participar
+43	First-time Reader	1 manual aprendido através da leitura
+44	Avid Reader	10 manuais aprendidos através da leitura
+45	Scholar	50 manuais aprendidos através da leitura
+46	Bibliophile	100 manuais aprendidos através da leitura
+47	Unfortunate Accident	1 discípulo falecido
+48	Misfortunes Never Come Singly	5 discípulos falecidos
+49	When It Rains, It Pours	10 discípulos falecidos
+50	Fragility of Life	50 discípulos falecidos
+51	Heavy Loss	1 discípulo interno falecido
+52	Great Loss	5 discípulos internos falecidos
+53	Tragic Loss	10 discípulos internos falecidos
+54	Heartbroken	20 discípulos internos falecidos
+55	I Am You	1 pessoa possuída
+56	They Are Me	5 pessoas possuídas
+57	I Am Everyone	10 pessoas possuídas
+58	King of Possession	20 pessoas possuídas
+59	Blink of an Eye	100 anos de meditação no total
+60	As Time Goes By	500 anos de meditação no total
+61	Forgotten Years	1,000 anos de meditação no total
+62	Master of Solitude	5,000 anos de meditação no total
+63	Give Me Your Life	10 anos da vida de outras pessoas roubados no total
+64	Give Me More Life	50 anos da vida de outros roubados no total
+65	Such Is Life	500 anos da vida de outros roubados no total
+66	Grim Reaper	1.000 anos de vida de outras pessoas roubados no total
+67	Grave Pain	1 alma refinada
+68	Wailing Souls	10 almas refinadas
+69	Source of Misery	50 almas refinadas
+70	Devil	100 almas refinadas
+71	Soul Snatcher	1 alma tomada
+72	Fresh Souls	10 almas tomadas
+73	Proxy of Souls	50 almas tomadas
+74	Master of Souls	100 almas tomadas
+75	Sanguine Absorption	Absorção Sanguínea feita uma vez
+76	Circle of Life	Absorção Sanguínea feita 10 vezes
+77	Yin-Yang Rule	Absorção Sanguínea feita 50 vezes
+78	The King of Death	Absorção Sanguínea feita 100 vezes
+79	Evildoer	1 sacrifício concluído
+80	Faith of Evil	10 sacrifícios concluídos
+81	Evilbringer	50 sacrifícios concluídos
+82	Evil Apostle	100 sacrifícios concluídos
+83	Soul Possession	alma de 1 pessoa possuída
+84	Undead Soul	10 almas de pessoas possuídas
+85	Eternal Soul	50 almas de pessoas possuídas
+86	Violation of Creed	100 almas de pessoas possuídas
+87	Ally	1 artefato maior adquirido
+88	Harmony	10 artefatos maiores adquiridos
+89	Traveler	5 novos pontos descobertos durante as aventuras (pontos aprendidos através de livros não incluídos)
+90	Explorer	25 novos pontos descobertos durante as aventuras (pontos aprendidos através de livros não incluídos)
+91	Great Wanderer	50 novos pontos descobertos durante as aventuras (pontos aprendidos através de livros não incluídos)
+1002	Purification	Prepare uma pílula de Samsara
+1003	Crystallization	Prepare uma pílula da eternidade
+1004	My Destiny	Em forma de núcleo dourado
+1005	The Chosen One	Nível I em Forma de Núcleo Dourado
+1006	Scion of Supreme Steps	Cultive a Lei dos Dezesseis Passos Supremos
+1007	Orthodox Training: Supreme Steps	Cultive a Lei dos Dezesseis Passos Supremos com mais de 150% de compatibilidade
+1008	Tier I: Supreme Steps	Molde o Núcleo Dourado Nível I com a Lei dos Dezesseis Passos Supremos
+1009	Mastery: Supreme Steps	Ascenda através da Lei dos Dezesseis Passos Supremos
+1010	Scion of Myriad Artifact	Cultive a Lei dos Miríades de Artefatos
+1011	Orthodox Training: Myriad Artifact	Cultive a Myriad Artifact Law com mais de 150% de compatibilidade
+1012	Tier I: Myriad Artifact	Molde o Núcleo Dourado de Nível I com a Lei de Dezenas de Artefatos
+1013	Mastery: Myriad Artifact	Ascenda através da Lei de Miríades de Artefatos
+1014	Scion of Sword	Cultive a Espada do Sete Abate
+1015	Orthodox Training: Sword	Cultive a Espada do Sete Abate com mais de 150% de compatibilidade
+1016	Tier I: Sword	Molde o Núcleo Dourado Nível I com a Espada do Sete Abate
+1017	Mastery: Sword	Suba pela Espada do Sete Abate
+1018	Scion of Jade purity	Cultive a Lei Imortal da Pureza de Jade
+1019	Orthodox Training: Jade purity	Cultive a Lei Imortal da Pureza de Jade com mais de 150% de compatibilidade
+1020	Tier I: Jade purity	Molde o Núcleo Dourado Nível I com a Lei Imortal da Pureza de Jade
+1021	Mastery: Jade purity	Ascenda através da Lei Imortal da Pureza de Jade
+1022	Scion of Heaven stealing	Cultive a Lei do Roubo do Céu
+1023	Orthodox Training: Heaven stealing	Cultive a Lei de Roubo dos Céus com mais de 150% de compatibilidade
+1024	Tier I: Heaven stealing	Molde o Núcleo Dourado Nível I com a Lei de Roubo dos Céus
+1025	Mastery: Heaven stealing	Ascenda através da Lei de Roubo do Céu
+1026	Scion of Alchemy	Cultive a Lei da Alquimia Primordial
+1027	Orthodox Training: Alchemy	Cultive a Lei da Alquimia Primordial com mais de 150% de compatibilidade
+1028	Tier I: Alchemy	Molde o Núcleo Dourado Nível I com a Lei de Alquimia Primordial
+1029	Mastery: Alchemy	Ascenda através da Lei da Alquimia Primordial
+1030	Scion of Grand Chariot	Cultive a Lei da Sabedoria da Grande Carruagem
+1031	Orthodox Training: Grand Chariot	Cultive a Lei da Sabedoria da Grande Carruagem com mais de 150% de compatibilidade
+1032	Tier I: Grand Chariot	Molde o Núcleo Dourado Nível I com a Lei da Sabedoria da Grande Carruagem
+1033	Mastery: Grand Chariot	Ascende através da Lei da Sabedoria da Grande Carruagem
+1034	Scion of Reincarnation	Cultive a Lei da Reencarnação dos Seis Caminhos
+1035	Orthodox Training: Reincarnation	Cultive a Lei de Reencarnação dos Seis Caminhos com mais de 150% de compatibilidade
+1036	Tier I: Reincarnation	Molde o Núcleo Dourado de Nível I com a Lei de Reencarnação dos Seis Caminhos
+1037	Mastery: Reincarnation	Ascende através da Lei de Reencarnação dos Seis Caminhos
+1038	Scion of True Sun	Cultive a Verdadeira Lei de Refinamento do Sol
+1039	Orthodox Training: True Sun	Cultive a True Sun Refining Law com mais de 150% de compatibilidade
+1040	Tier I: True Sun	Molde o Núcleo Dourado de Nível I com a Lei de Refinação do Sol Verdadeiro
+1041	Mastery: True Sun	Ascenda através da Lei de Refinamento do Verdadeiro Sol
+1042	Scion of Sunflower Refining	Cultive a Lei de Refinação de Girassol
+1043	Orthodox Training: Sunflower Refining	Cultive a Lei de Refinação de Girassol com mais de 150% de compatibilidade
+1044	Tier I: Sunflower Refining	Molde o Núcleo Dourado de Nível I com a Lei de Refinação de Girassol
+1045	Mastery: Sunflower Refining	Ascenda através da Lei de Refinação de Girassol
+1046	Scion of Emotion Severing	Cultive a Lei de Separação de Emoções
+1047	Orthodox Training: Emotion Severing	Cultive a Lei de Separação de Emoções com mais de 150% de compatibilidade
+1048	Tier I: Emotion Severing	Molde o Núcleo Dourado de Nível I com a Lei de Separação de Emoções
+1049	Mastery: Emotion Severing	Ascenda através da Lei de Separação de Emoções
+1050	Unrecognized	A reputação da seita chega a 400: Não reconhecido
+1051	Visible	A reputação da seita chega a 1.000: Visível
+1052	Distinguished	A reputação da seita chega a 5.000: Distinguido
+1053	Prominent	A reputação da seita chega a 10.000: Proeminente
+1054	Unparalleled	A reputação da seita chega a 40.000: Incomparável
+1055	Respected	Seita se torna: Respeitada
+1056	Honored	Seita se torna: Honrada
+1057	Celebrated	Seita se torna: Celebrada
+1058	Shady	Seita se torna: Sombrio
+1059	Notorious	Seita se torna: Notória
+1060	Infamous	Seita se torna: Infame
+1061	Established	5 discípulos na seita
+1062	Expanding	10 discípulos na seita
+1063	Thriving	18 discípulos na seita
+1064	A New Beginning	1 discípulo interno na seita
+1065	Burgeoning	4 discípulos internos na seita
+1066	Wealth of Talent	8 discípulos internos na seita
+1067	Disaster: Extreme Cold	Sobreviva ao frio extremo
+1068	Disaster: Heat Wave	Sobreviver através da onda de calor
+1069	Disaster: Polar Night	Sobreviver através da noite polar
+1070	Psychokinetic	A maestria de artefato atinge o nível 20
+1071	Spellbinding	O feitiço atinge o nível 20
+1072	Death Proof	A proteção atinge o nível 20
+1073	Immortal Doctor	Alquimia atinge o nível 20
+1074	Craftsman	Criação de artefatos atinge o nível 20
+1075	Coming of Winter	Passe o 1º ano no jogo
+1076	Time Flies	Passe o 5º ano no jogo
+1077	Days Gone By	Passe o 10º ano no jogo
+1078	Enlightened	Primeiro milagre realizado: Iluminado
+1079	Charismatic	Primeiro milagre realizado: Carismático
+1080	Perceptive	Primeiro milagre realizado: Perceptivo
+1081	Resilient	Primeiro milagre realizado: Resiliente
+1082	Reconstructor	Primeiro milagre realizado: Reconstrução
+1083	Rainmaker	Primeiro milagre realizado: Fazer chuva
+1084	Cloudless	Primeiro milagre realizado: Dispersão de Nuvem
+1085	Lobotomy	Parte superior do crânio danificada
+1086	Headshot!	Cabeça danificada
+1087	Living Dead	Cérebro danificado
+1088	Liver-less!	Fígado danificado
+1089	Asexual	Esterilizado
+1090	My Heart Will Go On	Coração danificado
+1091	Cultivated	O Feng Shui da Seita se torna cultivado
+1092	Blessed	O Feng Shui da Seita é abençoado
+1093	Auspicious	O Feng Shui de um quarto torna-se auspicioso
+1094	Great Feng Shui	O Feng Shui de um quarto torna-se muito auspicioso
+1095	Tier I Immortal	Um imortal que sobreviveu a uma tribulação permanece na seita
+1096	Tier III Immortal	Um imortal que sobreviveu a três tribulações permanece na seita
+1097	Tier V Immortal	Um imortal que sobreviveu a cinco tribulações permanece na seita
+1098	Tier IX Immortal	Um imortal que sobreviveu a nove tribulações permanece na seita
+1099	Rare	Adquira um artefato que passou por 1 reforja celestial
+1100	Precious	Adquira um artefato que passou por 5 reforjas celestiais
+1101	Exquisite	Adquira um artefato que tenha passado por 10 reforjas celestiais
+1102	Legendary	Adquira um artefato que passou por 20 reforjas celestiais
+2000	Skillful	Artefato com qualidade 100 criado
+2001	Ingenious	Artefato de Nível XII criado
+2002	Incredible Ink	Talismã com uma qualidade superior a 95 sorteados
+2003	Extravagant	Artefato de Nível XII fundido
+2004	Triumphant	Sobreviveu à tribulação
+2005	Devastating	Falhou a tribulação e morreu
+2006	Despairing	Falhou a tribulação, mas sobreviveu
+2007	Excellent	Primeiro avanço
+2008	Establishment	Estabeleça uma seita
+2009	Development	Seita se expande para a escola
+2010	Emergence	Seita se expande em adobe celestial
+2011	Humble	Primeira vez reconhecendo alguém como mestre
+2012	Adviser	Primeira vez instruindo alguém
+2013	Love	Primeira vez em um relacionamento
+2014	First Step	Primeira confissão de amor
+2015	Doki Doki Memory	Primeira confissão de amor bem sucedida
+2016	Nice Guy	Primeira confissão de amor falhou
+2017	Corrupted	Primeira vez caindo para o lado do demônio
+2018	Cold Hearted	Primeira vez banindo um discípulo
+2019	Miraculous	Primeira vez desenterrando caixão antigo
 2020	Repulsion	Primeira vez comendo fezes
-2021	Indiferença	Primeira vez comendo sujeira
-2022	Eu rejeito minha humanidade	Possuir um animal
-2023	Hora de dormir, não cultivar!	O jogo está em execução há mais de 4 horas, e o tempo atual é entre 0:00-5:00 AM.
-2024	Morto	Dragão morto
-2025	Caído	Phoenix morto
-2026	Regra Yin-Yang	Dragão-tocha morto
-2027	Acelerado	Ter Dragão inundado se transformar em sua verdadeira forma em menos de 60 segundos
-2028	Quebra-chifre	Matar dragão de inundação depois de destruir seu chifre
-2029	Cortador de cauda	Matar dragão de inundação depois de destruir sua cauda
-2030	Furioso	Matar dragão de inundação depois de destruir sua Escala Proibida
-2031	Enfurecido	matar Dragão inundado antes de lançar Dragon's Rage
-2032	Hidratado	matar Dragão Inundação antes de lançar Dilúvio Mortal
-2033	Greve do Sol! Greve do Sol!	5 pessoas para absorvem o derretimento da Phoenix, e ninguém se machuca
-2034	Olhando	Suportar Olhos de Chama por 20 segundos sem se machucar
-2035	Irradiando	Matar Phoenix depois que lança Crystal of the Sun
-2036	A Bela da Fera	Matar Phoenix depois de destruir sua pena da coroa
-2037	Cauda de Problemas	Matar Phoenix depois de destruir sua pena de cauda
-2038	Condensador de Qi	Mantenha um ovo phoenix nem chocando nem morrendo por mais de 36 dias
-2039	Varredura Limpa	Mais de 9 ovos são subjugados derrotando o Dragão da Tocha
-2040	Irreverência	Derrote o Dragão das Tochas depois de destruir sua escala divina
-2041	Caos	Derrote o Dragão das Tochas depois de destruir sua jade
-2042	Paradoxo	Derrote o Dragão da Tocha com um personagem em Máscara mental e Fogo Selvagem
-2043	Subjuga	Derrote o Dragão da Tocha sem qualquer ovo eclodido
-2044	De tirar o fôlego	Derrote o Dragão das Tochas sem ninguém atingido pelo seu hálito
-2045	Raiz espiritual	Primeira vez plantando uma Raiz espiritual
-2046	Colheita	Colher uma raiz de cinco elementos
-2047	Extremidade	Raiz de Cinco Elementos atinge seu limite abençoado ou amaldiçoado
-2048	Direito Natural	Primeira vez compreendendo uma Lei natural
-2049	Lei Divergente	Primeira vez compreendendo uma Lei divergente
-2050	Descanse em paz	Mate um sábio antigo
-2051	Treinador de Animais	Primeira vez domando um animal
-2052	Rebelar-se!	Primeira vez que um animal se transforma em uma besta
-10000	Vale dos Vermes	Aventura especial completa: Vale dos Vermes
-10001	Tesouro do Veneno	Aventura especial completa: Tesouro do Veneno
-10002	Palácio Celestial	Aventura especial completa: Palácio Celestial
-10003	Caverna de Fogo	Aventura especial completa: Caverna de Fogo
-10004	Lago do Céu	Completa aventura especial: Lago do Céu
-10005	Selo do Diabo	Aventura especial completa: Selo do Diabo
-10006	Fora do Céu	Conheça a verdade do mundo
-3000	Educação Em Primeiro Lugar	Construa um Pavilhão Manual pela primeira vez.
-3001	Compartilhamento de Conhecimento	Transcreva um manual usando o Pavilhão Manual pela primeira vez.
-3002	Estude duro	Aprenda um manual na coleção do Pavilhão Manual pela primeira vez.
-3003	Uma Grande Coleção	O total de captação do acervo do Pavilhão Manual chega a 500.
-3004	Uma vasta coleção	O acervo do Pavilhão Manual chega a 2000.
-3005	Uma Imensa Coleção	O total de captação do acervo do Pavilhão Manual chega a 5000.
-3006	Uma Coleção Incomparável	O total de captação do acervo do Pavilhão Manual chega a 10000.
-3007	Liberte a Luz	Crie um Artefato Raro pela primeira vez.
-3008	Pacto de Sangue	Ative um artefato raro pela primeira vez.
-3009	Artefato Novato	Ative 1 Artefato Raro.
-3010	Veterano do artefato	Ative 5 artefatos raros diferentes.
-3011	Especialista em Artefatos	Ative 10 artefatos raros diferentes.
-3012	Mestre do Artefato	Ative 20 artefatos raros diferentes.
-3013	Você está acordado?	Ilumine um espírito consciente.
-3014	Silêncio no Passado	Mate um espírito consciente com Soul Chant.
-3015	Ouça Meu Coração	Testemunhe o nascimento de um espírito consciente devido ao seu acompanhamento de um personagem por um longo tempo.
-3016	Criança da Natureza	Testemunhe o nascimento de um espírito consciente no ambiente natural.
-3017	O que você é mesmo?	Conheça um espírito consciente selvagem.
-3018	Planícies Centrais: Tornando-se humano	Forje um corpo para um espírito consciente.
-3019	Equilíbrio Nutricional Forje um corpo para um espírito consciente com uma proporção equilibrada de Cinco Elementos.
-3020	Para cada um deles	Forje um corpo para um espírito consciente com 100% de proporção de um determinado elemento, escolha uma Lei compatível para eles e promova-os ao Discípulo Interior.
-3021	Comida para todos	Sobreviver por 2 anos sem que o personagem morra com todas as opções de Fuga Estreita ativadas.
-3022	Em Todos os Tempos	Sobreviver por 1 ano sem que o personagem morra com todas as opções de Clima Severo ativados.
-3023	Poder Celestial	Mate todos os monstros no mapa inicial no primeiro ano com todos os monstros extras ativados.
-3024	Edifícios intrincados	Construa o Mini Universo dentro do 1º ano com todas as opções de Edifícios Intrincados ativados.
-3025	Autodidata	Alcance uma seita de morada celestial no primeiro ano com todas as opções de Artes Perdidas ativadas.
-3026	Orçamento rigoroso	Construa o Mini Universo dentro do 1º ano com todas as opções de Recursos Escassos ativadas.
-3027	Melhor que você pode obter	Pegue um personagem com todas as Estatísticas Gerais acima de 5 com todas as opções de Hard Times ativadas.
-3028	Negociação difícil	Compre um item de Nível 10 ou superior a partir de um Viajante no 1º ano com todas as opções de Mercadores Médios ativadas.
-3029	Vá com o Fluxo	Ajude um personagem a alcançar o Espírito Primordial ou estados de cultivo equivalentes no primeiro ano com todas as opções de Inordinance de Tao ativadas.
-3030	Bom Doggo	Mate um monstro no estado golden core ou acima com seu animal de estimação espiritual sozinho no primeiro ano com todas as opções de Animais Frágeis ativados.
-3031	Bem conectado	Alcance 100 Favor com todos os líderes de seita com todas as opções do Mundo Frio ativados.
-3032	Exorcista taoísta	Mate todos atacando Yaoguai no dia 80.
-3033	Assassino assassino do cultivador	Mate o Assassino cultivador atacando no dia 150.
-3034	Não olhe	Não deixe o dragão Jiao aparecer nos primeiros 200 dias enquanto a misteriosa caverna aparece no 30º dia, e depois matar o dragão.
-3035	O Fazendeiro e o Dragão	Não deixe o Dragão Jiao aparecer nos primeiros 200 dias com todas as opções de Temor Antigo ativados, e depois matar o dragão.
-3036	Nível Superior = Mais Dignidade	Atualize os Principais Salões de todas as áreas e cidades para o Nível 3 dentro de 3 anos com todas as opções de Tarefas Mundiais ativadas.
-3037	Os imortais não acreditam em lágrimas	Compre um item de Nível 12 ou superior a partir de uma seita de cultivo dentro do 1º ano com todas as opções de Imortais Sem Emoções ativados.
-3038	Caçador Imortal	Faça todas as seitas se renderem sob a mais alta configuração de poder da seita NPC.
-3039	Yin Slayer	Mate Jiao-dragão sob o mais alto cenário de poder Jiao-dragão.
-3040	A Caçadora	Mate Phoenix sob o mais alto poder de Phoenix.
-3041	Mata-mata de Tao	Mate o Dragão da Tocha sob o mais alto ajuste de poder do Dragão da Tocha.
-3042	Confronto Final	Derrote os inimigos atacando no milo dia com a opção It gets Harder ativada.
-3043	Iniciante de Ascensão	Faça um discípulo ascender ou superior a tribulação que eu dificuldade.
-3046	Profissional de Ascensão	Faça um discípulo ascender ou superior à dificuldade de Tribulação IV.
-3049	Mestre da Ascensão	Faça um discípulo ascender ou superior à dificuldade de Tribulação VII.
-3052	Conquista Iniciante	Conquistar todas as seitas em ou acima do que a tribulação eu dificuldade.
-3055	Profissional de Conquista	Conquiste todas as seitas em ou acima da dificuldade de Tribulação IV.
-3058	Mestre da Conquista	Conquiste todas as seitas em ou acima da dificuldade da Tribulação VII.
-3061	Caminho das Formações	Aprenda com um manual de Formações pela primeira vez.
-3062	Matriz Antiga	Aprenda uma Matriz antiga pela primeira vez.
-3063	Não tantos, mas como Um	Formar uma Matriz pela primeira vez.
-3064	Lenda Renascido	Formar uma Matriz antiga pela primeira vez.
-3065	Agência Munda	Atribua uma agência a um discípulo pela primeira vez.
-3066	Explorador Mundial	Criar e designar agências em todas as cidades e áreas.
-3067	Destacando a natureza	Construa uma Maravilha.
-3068	Basta parar	Construa todas as Maravilhas.
-3069	Escolha do Povo	Ganhe mais de 20000 Seguidores de um único evento de Política.
-3070	Religião Principal	Faça com que 40% ou mais da população de uma cidade ou área se torne a seguidora da sua seita.
-3071	Missionário	Faça com que 40% ou mais da população de cada cidade ou área se torne a seguidora da sua seita.
-3072	Ouça Ye, Ouça Ye	Participe do Leilão pela primeira vez.
-3073	Não pode ter tudo, hein?		Compre todos os itens em um leilão.
-3074	Ante Up	Compre o item misterioso em Leilão.
-3075	Acordo da Sorte	Lance com um preço inferior ao preço de mercado e obtenha o item sendo leiloado.
-3076	Eu ganhei?	Lance com um preço de 10 vezes o preço de mercado ou mais alto e obter o item sendo leiloado.
-3077	Troca Justa	Negocie com o Viajante pela primeira vez.
-3078	Último em Estoque	Compre uma Pedra Espiritual do Comerciante Viajante.
-3079	Matar Não o Ganso	Mate o Mercador Viajante.
-3080	Assistência oportuna	Ganhe 1 Conexão de uma seita NPC.
-3081	Ganho de BFF 10 Conexão de uma única seita NPC.
-3082	Ajuda!!!	Pegue um discípulo emprestado pela primeira vez.
-3083	Tudo por Um	Pegue emprestado 4 discípulos ao mesmo tempo, cada um de uma seita diferente.
-3084	Acertar em cheio	Dê a um líder de seita seu item favorito como presente ao fazer uma visita formal.
-3085	Grande Grande Mundo	Entre em um mapa selvagem pela primeira vez.
-3086	Apenas passando	Entre no mapa de uma seita pela primeira vez.
-3087	Tudo meu!	Colete um item em um mapa selvagem pela primeira vez.
-3088	Agora ou Nunca	Pegue um tesouro no mapa de uma seita enquanto se esconde.
-3089	Conquista: Morada de Sombra	Conquiste a Morada de Sunshade.
-3090	Conquista: Palácio Kunlun	Conquistar o Palácio Kunlun.
-3091	Conquista: Palácio Skydome	Conquistar o Palácio Skydome.
-3092	Conquista: Templo da Nuvem Roxa	Conquistar o Templo da Nuvem Roxa.
-3093	Conquista: Seita da Unidade Mística	Conquistar a Seita da Unidade Mística.
-3094	Conquista: Templo de Lótus Azul	Conquer Blue Lotus Temple.
-3095	Conquista: Morada de Evenfall	Conquistar a Morada de Evenfall.
-3096	Conquista: Monte Cem Insetos	Conquistar o Monte Cem Insetos.
-3097	Conquista: Poço da Perdição	Conquistar o Poço da Perdição.
-3098	Conquista: Sete Seitas abatenas	Conquistar sete seitas de abate.
-3099	Conquista: Seita exultante	Conquistar a Seita Exultante.
-3100	Conquista: Templo da Daemonia	Conquistar o Templo da Demônia.
-3101	Conquista Mundial	Conquistar todas as seitas de cultivo.
-3102	Batedor Mundial	Conquistar todas as seitas do NPC e fazer com que 40% ou mais da população de cada cidade ou área se tornem a seguidora de sua seita.
-3103	Oi	Socialize-se com os outros pela primeira vez.
-3104	Nossos respectivos problemas	Saiba da obsessão de alguém pela primeira vez.
-3105	Jogar com o Coração	Derrube o guarda de alguém pela primeira vez.
-3106	Deixe-me mostrar-lhe ao redor	Convide alguém para sua seita pela primeira vez.
-3107	Verdade Revelada	Resolva um mistério.
-3108	Espírito Animal de Estimação: Cão Divino	Obtenha o Cão Divino.
-3109	Espírito Animal de Estimação: Raposa-espiritual	Obtenha a Raposa Espiritual.
-3110	Espírito Animal de Estimação: Dragão Flutuante	Obtenha o Dragão Flutuante.
-3111	Espírito Animal de Estimação: Fênix Negra	Obtenha a Fênix Negra.
-3112	Totalmente crescido	Desperte totalmente um Animal de Estimação.
-3113	Amigo Animal	Ilumine uma besta.
-3114	Metamorfo: 5 Fragmentos	Faça um Yaoguai possuindo 5 ou mais Fragmentos de Inteligência sobreviverem a Tribulação Metamorfo.
-3115	Metamorfo: 7 Fragmentos	Faça um Yaoguai possuindo 7 ou mais Fragmentos de Inteligência sobreviverem a Tribulação Metamorfo.
-3116	Metamorfo: 9 Fragmentos	Faça um Yaoguai possuindo 9 ou mais Fragmentos de Inteligência sobreviverem a Tribulação Metamorfo.
-3117	Sobrevivente do Céu	Sobreviva a 5 tribulações de alcance.
-3118	Longevidade incomparável	Sobreviva a 5 tribulações de vida.
-3119	Um Culto de Um Próprio	Erguer estátua de crença em uma cidade e conectá-la a um cultivador Shendao.
-3120	Um Guarda de Um Próprio	Nomeie um guarda.
-3121	Um Credo de Um Próprio	Pegue um seguidor do núcleo.
-3122	Seguidores de One's Own	Conceda o desejo épico de um seguidor.
-3123	Uma Relíquia de Um Próprio	Nivele uma relíquia sagrada para o nível 15.
-3124	Um Reino de Um Próprio	Expanda seu reino divino sobrevivendo à tribulação de desprendimento.
-3125	Um Coração próprio	Alcançar o estado mental mais alto do cultivo de Shendao.
-3126	Oração: Trovão Celestial	Aprenda Sutra do Trovão Celestial.
-3127	Criação: Trovão Celestial	Estabeleça um Reino Divino usando Sutra do Trovão Celestial.
-3128	Realização: Trovão Celestial	Alcance o tamanho máximo possível ao estabelecer Divine Realm usando Sutra do Trovão Celestial.
-3129	Ascensão: Trovão Celestial	Ascende estudando Sutra do Trovão Celestial.
-3130	Oração: Oito Cosmos	Aprenda Sutra de Oito Cosmos.
-3131	Criação: Oito Cosmos	Estabeleça um Reino Divino usando Sutra de Oito Cosmos.
-3132	Realização: Oito Cosmos	Alcance o tamanho máximo possível ao estabelecer Divine Realm usando Sutra de Oito Cosmos.
-3133	Ascensão: Oito Cosmos	Ascende estudando Sutra de Oito Cosmos.
-3134	Oração: Salvação Nether	Aprenda Sutra da Salvação Nether.
-3135	Criação: Salvação Nether	Estabeleça um Reino Divino usando Sutra da Salvação Nether.
-3136	Realização: Nether Salvation	Alcance o tamanho máximo possível ao estabelecer Divine Realm usando Sutra da Salvação Nether.
-3137	Ascensão: Salvação Nether	Ascende estudando Sutra da Salvação Nether.
-3138	Essência da Ilusão	Ganhe a Essência da Ilusão através da respiração.
-3139	Essência de Nimbus	Ganhe Nimbus Essence através da respiração.
-3140	Essência Ignis	Ganhe Ignis Essence através da respiração.
-3141	Essência Aqualuna	Ganhe Aqualuna Essence através da respiração.
-3142	Corpo Supremo	Ativar o corpo secreto pela primeira vez.
-3143	Endurecidos pela batalha	Alcance 100 pilhas de Tempered.
-3144	Iniciação: Unidade Primordial	Aprenda Corpo de Unidade Primordial.
-3145	Ascensão: Unidade Primordial	Ascende com Corpo de Unidade Primordial.
-3146	Iniciação: Forging bárbaro	Aprenda Corpo de Forjando Bárbaro.
-3147	Ascensão: Forging bárbaro	Ascende com Corpo de Forjador Bárbaro.
-3148	Iniciação: Yaoguai Ancestral	Aprenda Corpo de Yaoguai Ancestral.
-3149	Ascensão: Ancestral Yaoguai	Ascende com Corpo de Yaoguai Ancestral.
-3150	Iniciação: Obliteração Caída	Aprenda Corpo de Obliteração Caída.
-3151	Ascensão: Obliteração Caída	Ascende com Corpo de Obliteração Caída.
-3152	Junte-se a nós e busque a imortalidade!	Adquira animais de estimação Xiuxiu e Xianxian.
-3153	Panda Imortal	Transforme um panda em humano e ajude-o a ascender em direção à imortalidade.
-3154	Um Peixe	Pegue um peixe.
-3155	100 Peixe	Pegue 100 Peixe.
-3156	1,000 Peixe	Pegue 1,000 Peixe.
-3157	10,000 Peixe	Pegue 10,000 Peixe.
-3158	Isca Tomada	Pegue um animal enquanto pesca.
-3159	Eu escolho você!	Pegue um monstro enquanto pesca.
-3160	Objeto Brilhante	Pegue uma Pedra espiritual enquanto pesca.
-3161	Mestre Pescador	Pegue todas as espécies de peixes.
-3162	Apanhador de Kraken	Pegar um peixe pesava mais de 25 catties.
-3163	Conquest Ingenuity	Obtain all the secret treasures from the steles in Purple Cloud Palace
-3164	Yin Yang Unity	Obtain pet Black Tortoise Miao
-3165	Orthodox Training: Nimbus	Cultivate the Law of Nimbus Conquest with over 150% of compatibility
-3166	Tier I: Nimbus	Shape the Tier I Golden Core with the Law of Nimbus Conquest
-3167	Mastery: Nimbus	Ascend through the Law of Nimbus Conquest														 
+2021	Indifference	Primeira vez comendo sujeira
+2022	I Reject My Humanity	Possuir um animal
+2023	Time to Sleep, Not Cultivate!	O jogo está em execução há mais de 4 horas e o horário atual é entre 0:00 e 5:00 AM.
+2024	Slain	Matar o Dragão da Inundação
+2025	Fallen	Matar Fênix
+2026	Yin-Yang Rule	Dragão da tocha morto
+2027	Fast-paced	Faça o Flood Dragon se transformar em sua verdadeira forma em menos de 60 segundos
+2028	Horn Breaker	Mate o Flood Dragon depois de destruir seu chifre
+2029	Tail Cutter	Mate o Flood Dragon depois de destruir sua cauda
+2030	Furious	Mate o Flood Dragon depois de destruir sua Escala Proibida
+2031	Enraged	Mate o Flood Dragon antes que ele conjure Dragon's Rage
+2032	Hydrated	Mate o Flood Dragon antes que ele conjure Deadly Flood
+2033	Sun Strike! Sun Strike!	5 pessoas absorvem o derretimento de Phoenix e ninguém fica ferido
+2034	Staring	Aguente o Flame Eyes por 20 segundos sem se machucar
+2035	Radiating	Mate Phoenix após lançar Cristal do Sol
+2036	Beauty of the Beast	Mate Phoenix depois de destruir sua pena da coroa
+2037	Tail of Troubles	Mate Phoenix depois de destruir sua pena de cauda
+2038	Qi Condenser	Mantenha um ovo de Phoenix sem incubar nem morrer por mais de 36 dias
+2039	Clean Sweep	Mais de 9 ovos são subjugados derrotando o Dragão da Tocha
+2040	Irreverence	Derrote o Dragão da Tocha depois de destruir sua escama divina
+2041	Chaos	Derrote o Torch Dragon depois de destruir seu jade
+2042	Paradox	Derrote o Torch Dragon com um personagem em Mind Mask e Wild Fire
+2043	Subduer	Derrote o Dragão da Tocha sem nenhum ovo chocado
+2044	Breathtaking	Derrote o Dragão da Tocha sem que ninguém seja atingido por seu sopro
+2045	Spirit Root	Primeira vez plantando uma Raiz Espiritual
+2046	Harvest	Colher uma raiz de cinco elementos
+2047	Extremity	Raiz dos Cinco Elementos atinge seu limite abençoado ou amaldiçoado
+2048	Natural Law	Primeira vez compreendendo uma lei natural
+2049	Divergent Law	Primeira vez compreendendo uma Lei divergente
+2050	Rest In Peace	Mate um sábio antigo
+2051	Animal Trainer	Primeira vez domar um animal
+2052	Rebel!	Primeira vez que um animal se transforma em uma fera
+10000	Valley of Worms	Aventura especial completa: Valley of Worms
+10001	Treasure of Venom	Aventura especial completa: Tesouro de Venom
+10002	Heavenly Palace	Aventura especial completa: Palácio Celestial
+10003	Cave of Fire	Aventura especial completa: Cave of Fire
+10004	Lake of Heaven	Aventura especial completa: Lake of Heaven
+10005	Devil's Seal	Aventura especial completa: Devil's Seal
+10006	Out of the Heaven	Conheça a verdade do mundo
+3000	Education First	Construa um Pavilhão Manual pela primeira vez.
+3001	Knowledge Sharing	Transcreva um manual usando o Manual Pavilion pela primeira vez.
+3002	Study Hard	Aprenda um manual na coleção do Manual Pavilion pela primeira vez.
+3003	A Great Collection	Atingimento total da coleção do Pavilhão Manual chega a 500.
+3004	A Vast Collection	Atingimento total do acervo do Pavilhão Manual chega a 2000.
+3005	An Immense Collection	Atingimento total do acervo do Pavilhão Manual chega a 5.000.
+3006	An Unrivaled Collection	Atingimento total do acervo do Pavilhão Manual chega a 10.000.
+3007	Unleash the Light	Crie um Artefato Raro pela primeira vez.
+3008	Blood Pact	Ative um Artefato Raro pela primeira vez.
+3009	Artifact Novice	Ative 1 Artefato Raro.
+3010	Artifact Veteran	Ative 5 artefatos raros diferentes.
+3011	Artifact Expert	Ative 10 artefatos raros diferentes.
+3012	Artifact Master	Ative 20 artefatos raros diferentes.
+3013	You Awake?	Ilumine um espírito senciente.
+3014	Quiet at Last	Mate um espírito senciente com Soul Chant.
+3015	Listen to My Heart	Testemunhe o nascimento de um espírito senciente por acompanhar um personagem por muito tempo.
+3016	Nature's Child	Testemunhe o nascimento de um espírito senciente em ambiente natural.
+3017	What Even Are You?	Conheça um espírito senciente selvagem.
+3018	Central Plains: Becoming Human	Forje um corpo para um espírito senciente.
+3019	Nutritional Balance	Forje um corpo para um espírito senciente com uma proporção equilibrada de Cinco Elementos.
+3020	To Each Their Own	Forje um corpo para um espírito senciente com 100% de proporção de um determinado elemento, escolha uma Lei compatível para ele e promova-o a Discípulo Interior.
+3021	Food for Everyone	Sobreviva por 2 anos sem que o personagem morra com todas as opções Narrow Escape ativadas.
+3022	In All Weathers	Sobreviva por 1 ano sem que o personagem morra com todas as opções de clima severo ativadas.
+3023	Heavenly Might	Mate todos os monstros no mapa inicial no 1º ano com todos os monstros extras ativados.
+3024	Intricate Buildings	Construa o Mini Universo no 1º ano com todas as opções de Edifícios Intrincados ativadas.
+3025	Self-taught	Alcance uma seita Heavenly Abode no primeiro ano com todas as opções de Lost Arts ativadas.
+3026	Strict Budget	Construa o Mini Universo no 1º ano com todas as opções de Recursos Escassos ativadas.
+3027	Best You Can Get	Pegue um personagem com todas as Estatísticas Gerais acima de 5 com todas as opções de Tempos Difíceis ativadas.
+3028	Hard Bargain	Compre um item de Nível 10 ou superior de um Comerciante Viajante no 1º ano com todas as opções de Comerciantes Malvados ativadas.
+3029	Go with the Flow	Ajude um personagem a alcançar o Espírito Primordial ou estados de cultivo equivalentes no primeiro ano com todas as opções de Inordenação do Tao ativadas.
+3030	Good Doggo	Mate um monstro no estado Golden Core ou superior com seu pet espiritual sozinho no primeiro ano com todas as opções Frail Pets ativadas.
+3031	Well-connected	Alcance 100 Favores com todos os líderes da seita com todas as opções do Mundo Frio ativadas.
+3032	Taoist Exorcist	Mate todos os Yaoguai atacantes no 80º dia.
+3033	Cultivator Killer Killer	Mate o Cultivator Killer atacando no 150º dia.
+3034	Don't Look	Não deixe o Jiao-dragão aparecer nos primeiros 200 dias enquanto a misteriosa caverna aparece no 30º dia, então mate o dragão.
+3035	The Farmer and the Dragon	Não deixe o Jiao-dragão aparecer nos primeiros 200 dias com todas as opções Ancient Awe ativadas, então mate o dragão.
+3036	Higher Level = More Dignity	Aprimore os Salões Principais de todas as áreas e cidades para o Nível 3 em 3 anos com todas as opções de Tarefas Mundiais ativadas.
+3037	Immortals do not believe in tears	Compre um item de Nível 12 ou superior de uma seita de cultivo no 1º ano com todas as opções de Imortais Sem Emoções ativadas.
+3038	Immortal Slayer	Faça todas as seitas se renderem sob a configuração de poder da seita NPC mais alta.
+3039	Yin Slayer	Mate o Jiao-dragão sob a configuração de poder mais alta do Jiao-dragão.
+3040	Yang Slayer	Mate Phoenix sob a configuração de energia mais alta de Phoenix.
+3041	Tao Slayer	Mate o Torch Dragon sob a configuração de poder mais alta do Torch Dragon.
+3042	Final Showdown	Derrote os inimigos atacando no 1000º dia com a opção Fica mais difícil ativada.
+3043	Ascension Beginner	Faça um discípulo ascender na dificuldade Tribulação I ou superior.
+3046	Ascension Professional	Faça um discípulo subir na dificuldade Tribulação IV ou superior.
+3049	Ascension Master	Faça um discípulo subir na dificuldade Tribulação VII ou superior.
+3052	Conquest Beginner	Conquiste todas as seitas na dificuldade Tribulação I ou superior.
+3055	Conquest Professional	Conquiste todas as seitas na dificuldade Tribulação IV ou superior.
+3058	Conquest Master	Conquiste todas as seitas na dificuldade Tribulação VII ou superior.
+3061	Way of Formations	Aprenda com um manual de Formações pela primeira vez.
+3062	Ancient Formation	Aprenda uma formação antiga pela primeira vez.
+3063	Not as Many, but as One	Forme uma formação pela primeira vez.
+3064	Legend Reborn	Forme uma formação antiga pela primeira vez.
+3065	Worldly Agency	Atribua uma Agência a um discípulo pela primeira vez.
+3066	World Explorer	Configure e atribua agências em todas as cidades e áreas.
+3067	Excelling Nature	Construa uma Maravilha.
+3068	Just Stop	Construa todas as Maravilhas.
+3069	People's Choice	Ganhe mais de 20.000 seguidores em um único evento de política.
+3070	Major Religion	Faça com que 40% ou mais da população de uma cidade ou área se torne um seguidor de sua seita.
+3071	Missionary	Faça com que 40% ou mais da população de cada cidade ou área se torne um seguidor de sua seita.
+3072	Hear Ye, Hear Ye	Participe do Leilão pela primeira vez.
+3073	Can't Have It All, Huh?	Compre todos os itens em um leilão.
+3074	Ante Up	Compre o item misterioso no leilão.
+3075	Lucky Deal	Faça um lance com um preço inferior ao preço de mercado e obtenha o item que está sendo leiloado.
+3076	Did I Win?	Dê um lance com um preço 10 vezes o preço de mercado ou superior e obtenha o item que está sendo leiloado.
+3077	Fair Exchange	Negocie pela primeira vez com o Mercador Viajante.
+3078	Last in Stock	Compre uma Pedra Espiritual do Comerciante Viajante.
+3079	Kill Not the Goose	Mate o Mercador Viajante.
+3080	Timely Assistance	Ganhe 1 Conexão de uma seita NPC.
+3081	BFF	Ganhe 10 de Conexão de uma única seita NPC.
+3082	Help!!!	Peça emprestado um discípulo pela primeira vez.
+3083	All for One	Pegue emprestado 4 discípulos ao mesmo tempo, cada um de uma seita diferente.
+3084	Hit the Spot	Dê a um líder de seita seu item favorito como presente ao fazer uma visita formal.
+3085	Big Big World	Entre em um mapa selvagem pela primeira vez.
+3086	Just Passing By	Entre no mapa de uma seita pela primeira vez.
+3087	All Mine!	Colete um item em um mapa selvagem pela primeira vez.
+3088	Now or Never	Pegue um tesouro no mapa de uma seita enquanto se esconde.
+3089	Conquest: Sunshade Abode	Conquiste a morada do guarda-sol.
+3090	Conquest: Kunlun Palace	Conquiste o Palácio Kunlun.
+3091	Conquest: Skydome Palace	Conquiste o Palácio Skydome.
+3092	Conquest: Purple Cloud Temple	Conquiste o Templo da Nuvem Roxa.
+3093	Conquest: Mystic Unity Sect	Conquiste a Seita da Unidade Mística.
+3094	Conquest: Blue Lotus Temple	Conquiste o Templo do Lótus Azul.
+3095	Conquest: Evenfall Abode	Conquiste a Morada do Entardecer.
+3096	Conquest: Mt. Hundred Insects	Conquiste Mt. Cem Insetos.
+3097	Conquest: Pit of Doom	Conquiste o Poço da Perdição.
+3098	Conquest: Seven Slaughtering Sect	Conquiste a Seita dos Sete Abates.
+3099	Conquest: Exultant Sect	Conquiste a Seita Exultante.
+3100	Conquest: Daemonia Temple	Conquiste o Templo Daemonia.
+3101	World Conquest	Conquiste todas as seitas de cultivo.
+3102	World Beater	Conquiste todas as seitas NPC e faça com que 40% ou mais da população de cada cidade ou área se torne um seguidor de sua seita.
+3103	Hello There	Socialize com os outros pela primeira vez.
+3104	Our Respective Problems	Saiba da obsessão de alguém pela primeira vez.
+3105	Play with Heart	Derrube a guarda de alguém pela primeira vez.
+3106	Let Me Show You Around	Convide alguém para sua seita pela primeira vez.
+3107	Truth Revealed	Resolva um mistério.
+3108	Spirit Pet: Divine Dog	Obtenha o Cão Divino.
+3109	Spirit Pet: Spirit Fox	Obtenha o Espírito Raposa.
+3110	Spirit Pet: Float Dragon	Obtenha o Dragão Flutuante.
+3111	Spirit Pet: Dark Phoenix	Obtenha a Fênix Negra.
+3112	Fully Grown	Desperte totalmente um Mascote Espiritual.
+3113	Animal Friend	Ilumine uma fera.
+3114	Shapeshifting: 5 Shards	Faça um Yaoguai com 5 ou mais Fragmentos de Inteligência sobreviver à Tribulação Metamorfose.
+3115	Shapeshifting: 7 Shards	Faça um Yaoguai com 7 ou mais Fragmentos de Inteligência sobreviver à Tribulação Metamorfose.
+3116	Shapeshifting: 9 Shards	Faça um Yaoguai com 9 ou mais Fragmentos de Inteligência sobreviver à Tribulação da Metamorfose.
+3117	Heaven Survivor	Sobreviva a 5 tribulações de realização.
+3118	Unmatched Longevity	Sobreviva a 5 tribulações de vida.
+3119	A Cult of One's Own	Erga uma estátua de crença em uma cidade e conecte-a a um cultivador Shendao.
+3120	A Guard of One's Own	Nomear um Guarda.
+3121	A Creed of One's Own	Obtenha um seguidor principal.
+3122	Followers of One's Own	Conceda o desejo épico de um seguidor.
+3123	A Relic of One's Own	Suba de nível uma Relíquia Sagrada para o Nível 15.
+3124	A Realm of One's Own	Expanda seu reino divino sobrevivendo à tribulação do desapego.
+3125	A Heart of One's Own	Alcance o estado mental mais elevado do cultivo Shendao.
+3126	Prayer: Celestial Thunder	Aprenda o Sutra do Trovão Celestial.
+3127	Creation: Celestial Thunder	Estabeleça um Reino Divino usando o Sutra do Trovão Celestial.
+3128	Attainment: Celestial Thunder	Alcance o tamanho máximo possível ao estabelecer o Reino Divino usando o Sutra do Trovão Celestial.
+3129	Ascension: Celestial Thunder	Ascenda estudando o Sutra do Trovão Celestial.
+3130	Prayer: Eight Cosmos	Aprenda o Sutra dos Oito Cosmos.
+3131	Creation: Eight Cosmos	Estabeleça um Reino Divino usando o Sutra dos Oito Cosmos.
+3132	Attainment: Eight Cosmos	Alcance o tamanho máximo possível ao estabelecer o Reino Divino usando o Sutra dos Oito Cosmos.
+3133	Ascension: Eight Cosmos	Ascenda estudando o Sutra dos Oito Cosmos.
+3134	Prayer: Nether Salvation	Aprenda o Sutra da Salvação Etérea.
+3135	Creation: Nether Salvation	Estabeleça um Reino Divino usando o Sutra da Salvação Etérea.
+3136	Attainment: Nether Salvation	Alcance o tamanho máximo possível ao estabelecer o Reino Divino usando o Sutra da Salvação do Nether.
+3137	Ascension: Nether Salvation	Ascenda estudando o Sutra da Salvação Inferior.
+3138	Illusion Essence	Ganhe Essência da Ilusão através da respiração.
+3139	Nimbus Essence	Ganhe Essência Nimbus através da respiração.
+3140	Ignis Essence	Ganhe Essência Ignis através da respiração.
+3141	Aqualuna Essence	Ganhe Aqualuna Essence através da respiração.
+3142	Supreme Body	Ative o corpo secreto pela primeira vez.
+3143	Battle-hardened	Alcance 100 pilhas de Temperado.
+3144	Initiation: Primordial Unity	Aprenda Corpo da Unidade Primordial.
+3145	Ascension: Primordial Unity	Ascenda com o Corpo da Unidade Primordial.
+3146	Initiation: Barbarous Forging	Aprenda Corpo de Forjamento Bárbaro.
+3147	Ascension: Barbarous Forging	Ascenda com Corpo de Forjamento Bárbaro.
+3148	Initiation: Ancestral Yaoguai	Aprenda Corpo de Yaoguai Ancestral.
+3149	Ascension: Ancestral Yaoguai	Ascenda com o Corpo de Yaoguai Ancestral.
+3150	Initiation: Fallen Obliteration	Aprenda Corpo de Obliteração Caída.
+3151	Ascension: Fallen Obliteration	Ascenda com Corpo de Obliteração Caída.
+3152	Join us and seek immortality!	Adquira animais de estimação Xiuxiu e Xianxian.
+3153	Immortal Panda	Transforme um panda em humano e ajude-o a ascender à imortalidade.
+3154	One Fish	Pegue um peixe.
+3155	100 Fish	Pegue 100 peixes.
+3156	1,000 Fish	Pegue 1.000 peixes.
+3157	10,000 Fish	Pegue 10.000 peixes.
+3158	Bait Taken	Pegue um animal durante a pesca.
+3159	I Choose You!	Pegue um monstro enquanto pesca.
+3160	Shiny Object	Pegue uma Spirit Stone enquanto estiver pescando.
+3161	Master Fisher	Pegue todas as espécies de peixes.
+3162	Kraken Catcher	Pegar um peixe pesava mais de 25 catties.
+3163	Conquest Ingenuity	Obtenha todos os tesouros secretos das estelas em Purple Cloud Palace
+3164	Yin Yang Unity	Obtenha o animal de estimação Tartaruga Negra Miao
+3165	Orthodox Training: Nimbus	Cultive a Lei da Conquista de Nimbus com mais de 150% de compatibilidade
+3166	Tier I: Nimbus	Molde o Núcleo Dourado Nível I com a Lei da Conquista de Nimbus
+3167	Mastery: Nimbus	Ascenda através da Lei da Conquista de Nimbus

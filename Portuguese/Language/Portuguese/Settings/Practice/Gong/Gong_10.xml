@@ -2,25 +2,25 @@
 	<List>
 		<Text Name="Gong_10_Huo">
 			<DisplayName>True Sun Refining Law</DisplayName>
-			<Desc>One of the true elemental Laws of the Taiyi Sect. With the help of the Lesser Yang, Fair Yang and Greater Yang, forge a fire from the three forces of Heaven, Earth and Man. The fire will be extremely powerful and light up everything in its Law. However, the cultivation process can be very dangerous. The true fire might even obliterate one's whole existence if the cultivation goes wrong.</Desc>
-			<SelectDesc>One will excel in spells when cultivating in this Law, but the breakthroughing will be relatively risky. Are you sure you want to follow this Law?</SelectDesc>
+			<Desc>Uma das verdadeiras Leis Elementais da Seita Taiyi. Com a ajuda do Yang Menor, Yang Justo e Yang Maior, forje um fogo das três forças do Céu, Terra e Homem. O fogo será extremamente poderoso e iluminará tudo em sua Lei. No entanto, o processo de cultivo pode ser muito perigoso. O verdadeiro fogo pode até obliterar toda a existência de alguém se o cultivo der errado.</Desc>
+			<SelectDesc>A pessoa se destacará em feitiços ao se cultivar nesta Lei, mas o avanço será relativamente arriscado. Tem certeza de que deseja seguir esta Lei?</SelectDesc>
 			<Stages.0.DisplayName>Man-made Fire</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Spark</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>Sense one's natural spark and light it up. It marks the beginning of cultivation. [color=#D06508]\nFailing to light up the spark may lead to meridian injury.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Man-made Fire</Stages.0.Necks.1.DisplayName>
-			<Stages.0.Necks.1.Desc>Gather the true fire at the mind gate to light up the fire in one's mind and connect with heaven and earth. [color=#D06508]\nIf it goes wrong, the true fire will overflow and burn through one's body, causing immense pain.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.0.DisplayName>Centelha</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Sinta a centelha natural de cada um e acenda-a. Marca o início do cultivo. [color=#D06508]\nDeixar de acender a faísca pode causar lesões nos meridianos.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Fogo feito pelo homem</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Reúna o fogo verdadeiro no portão da mente para acender o fogo na mente e conectar-se com o céu e a terra. [color=#D06508]\nSe der errado, o fogo verdadeiro transbordará e queimará o corpo da pessoa, causando imensa dor.[/color]</Stages.0.Necks.1.Desc>
 			<Stages.1.DisplayName>Earth Fire</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Bellows</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.0.Desc>Use one's body as bellows to stoke the true fire and reforge one's bones in preparation for the shaping of the Fire Pill. [color=#D06508]\nIf it goes wrong, the true fire will invade one's bones and cause the depletion of marrows. Think twice before breakthroughing.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Earth Fire</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Fole</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Use o corpo como fole para atiçar o fogo verdadeiro e reforjar os ossos em preparação para a formação da Pílula de Fogo. [color=#D06508]\nSe der errado, o verdadeiro fogo invadirá os ossos e causará o esgotamento das medulas. Pense duas vezes antes de avançar.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Fogo da Terra</Stages.1.Necks.1.DisplayName>
 			<Stages.2.DisplayName>Heaven Fire</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Lamp Bearer</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.0.Desc>Gather one's whole spirit at the heart and light up the Heart Fire. [color=#D06508]\nIf it goes wrong, Qi will implode and burn one's heart. Prepare in advance before breakthroughing.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>Skyfire</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Portador da lâmpada</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Reúna todo o seu espírito no coração e acenda o Fogo do Coração. [color=#D06508]\nSe der errado, o Qi implodirá e queimará o coração. Prepare-se com antecedência antes de avançar.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Fogo do céu</Stages.2.Necks.1.DisplayName>
 			<Stages.3.DisplayName>Divine Fire</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Spirit Illuminated</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.0.Desc>Enlighten one's spirit with the blessing of heaven. One will face the Heavenly Tribulation after breaking this limit. [color=#D06508]\nIt is extremely difficult to break through, and there will not be any XP Bonus.[/color]</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Ascension</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Espírito Iluminado</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Ilumine seu espírito com a bênção do céu. A pessoa enfrentará a Tribulação Celestial depois de quebrar esse limite. [color=#D06508]\nÉ extremamente difícil romper e não haverá nenhum bônus de XP.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Ascensão</Stages.3.Necks.1.DisplayName>
 		</Text>
 	</List>
 </Texts>

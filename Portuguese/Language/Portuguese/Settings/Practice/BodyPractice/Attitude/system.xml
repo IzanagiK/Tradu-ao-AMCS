@@ -1,23 +1,23 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="LostPart">
-			<DisplayName>Item perdido</DisplayName>
+			<DisplayName>Lost Item</DisplayName>
 		</Text>
 		<Text Name="SYS_ATK">
-			<DisplayName>Postura de Ataque</DisplayName>
-			<Desc>O cultivador físico irá atacar o corpo físico do inimigo com força total, mas a habilidade secreta de defesa do corpo será reduzida</Desc>
+			<DisplayName>Attack Stance</DisplayName>
+			<Desc>The physical cultivator will attack the enemy's physical body with full force, but the secret body's defense ability will be reduced.</Desc>
 		</Text>
 		<Text Name="SYS_NORMAL">
-			<DisplayName>Postura Comum</DisplayName>
-			<Desc>A postura de batalha padrão para cultivadores físicos. Ele primeiro lida com o artefato do inimigo e em seguida, ataca seu corpo físico. Esta postura é igualmente boa no ataque e na defesa, e bem equilibrada em diferentes habilidades.</Desc>
+			<DisplayName>Common Stance</DisplayName>
+			<Desc>The standard battle stance for physical cultivators. It first deals with the enemy's artifact and then attack their physical body. This stance is equally good at attack and defense and well-balanced in different abilities.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_ManJi">
-			<DisplayName>Vontade do bárbaro</DisplayName>
-			<Desc>Usa a forte vontade de batalha para comandar todo o corpo a se mover e atacar diretamente o corpo físico do inimigo, aumentando drasticamente a capacidade de ataque enquanto mantém a defesa instintiva</Desc>
+			<DisplayName>Barbarian Will</DisplayName>
+			<Desc>Uses the strong battle will to command the whole body to move and directly attack the enemy's physical body, drastically increasing the attack ability while maintaining instinctual defense.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_WangZhe">
-			<DisplayName>Vontade do rei</DisplayName>
-			<Desc>Permanece calmo e composto enquanto enfrenta a batalha com o coração de um rei. Reduz o consumo do segredo do corpo.</Desc>
+			<DisplayName>Will of the King</DisplayName>
+			<Desc>Stays calm and composed while facing the battle with the heart of a king. Reduces the secret body consumption.</Desc>
 		</Text>
 	</List>
 </Texts>

@@ -1,133 +1,133 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="LeadExperienceAddtion">
-			<DisplayName>Bônus de fundo</DisplayName>
+			<DisplayName>Bônus em segundo plano</DisplayName>
 		</Text>
 		<Text Name="BaseWorkSpeed">
 			<DisplayName>Eficiência Básica de Trabalho</DisplayName>
-			<DisplayValue>{0}/seg</DisplayValue>
-			<Desc>A velocidade básica de trabalho de um personagem. Indica a quantidade de trabalho que eles podem concluir por segundo.</Desc>
-			<FunctionKind>Estatísticas de produção</FunctionKind>
+			<DisplayValue>{0}/sec</DisplayValue>
+			<Desc>A velocidade de trabalho básica de um personagem. Indica a quantidade de trabalho que eles podem concluir por segundo.</Desc>
+			<FunctionKind>Produce Stats</FunctionKind>
 		</Text>
 		<Text Name="BaseEmotionAddV">
-			<DisplayName>Valor de humor base</DisplayName>
+			<DisplayName>Valor de humor básico</DisplayName>
 			<DisplayValue>{0}</DisplayValue>
-			<Desc>O valor base de humor do personagem.</Desc>
-			<FunctionKind>Estatísticas base</FunctionKind>
+			<Desc>O valor básico do humor do personagem.</Desc>
+			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="MaxAge">
-			<DisplayName>Expectativa de vida</DisplayName>
+			<DisplayName>Vida útil</DisplayName>
 			<DisplayValue>{0}</DisplayValue>
-			<Desc>A maior idade que o personagem pode viver.</Desc>
+			<Desc>A idade mais alta que o personagem pode viver.</Desc>
 		</Text>
 		<Text Name="AgeCostSpeed">
-			<DisplayName>Taxa de diminuição de expectativa de vida</DisplayName>
+			<DisplayName>Taxa de diminuição da vida útil</DisplayName>
 			<Desc>A velocidade com que a vida do personagem passa.</Desc>
-		</Text>
+			</Text>
 		<Text Name="VisionRadius">
-			<DisplayName>Raio de Percepção</DisplayName>
+			<DisplayName>Raio de percepção</DisplayName>
 			<DisplayValue>{0:N2}m</DisplayValue>
-			<Desc>Distância máxima em que o personagem é capaz de perceber o que está à sua volta.</Desc>
-			<FunctionKind>Estatísticas base</FunctionKind>
+			<Desc>Distância máxima na qual o personagem é capaz de perceber seus arredores.</Desc>
+			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="MoveSpeed">
 			<DisplayName>Velocidade de movimento</DisplayName>
 			<DisplayValue>{0:N2}m/sec</DisplayValue>
 			<Desc>A velocidade de movimento do personagem.</Desc>
-			<FunctionKind>Estatísticas base</FunctionKind>
+			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="ComfyTMin">
 			<DisplayName>Temperatura ideal mais baixa</DisplayName>
-			<Desc>Temperatura mais baixa em que o personagem se sente confortável.</Desc>
-			<FunctionKind>Estatísticas base</FunctionKind>
+			<Desc>A temperatura mais baixa em que o personagem se sente confortável.</Desc>
+			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="ComfyTMax">
 			<DisplayName>Temperatura ideal mais alta</DisplayName>
-			<Desc>Temperatura mais alta na qual o personagem se sente confortável.</Desc>
-			<FunctionKind>Estatísticas base</FunctionKind>
+			<Desc>A temperatura mais alta na qual o personagem se sente confortável.</Desc>
+			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="ToleranceTMin">
 			<DisplayName>Tolerância de temperatura mais baixa</DisplayName>
-			<Desc>Temperatura mais baixa que não afeta a saúde do personagem.</Desc>
-			<FunctionKind>Estatísticas base</FunctionKind>
+			<Desc>Menor temperatura que não afeta a saúde do personagem.</Desc>
+			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="ToleranceTMax">
 			<DisplayName>Tolerância de temperatura mais alta</DisplayName>
-			<Desc>Temperatura mais alta que não afeta a saúde do personagem.</Desc>
-			<FunctionKind>Estatísticas base</FunctionKind>
+			<Desc>A temperatura mais alta que não afeta a saúde do personagem.</Desc>
+			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="RecoveryPower">
 			<DisplayName>Resiliência Natural</DisplayName>
-			<DisplayValue>{0}%/seg</DisplayValue>
-			<Desc>A taxa natural de recuperação do personagem de doenças e lesões.</Desc>
-			<FunctionKind>Estatísticas base</FunctionKind>
+			<DisplayValue>{0}%/sec</DisplayValue>
+			<Desc>A taxa natural de recuperação do personagem de doenças e ferimentos.</Desc>
+			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="PainTolerance">
-			<DisplayName>Tolerância à Dor</DisplayName>
+			<DisplayName>Tolerância à dor</DisplayName>
 			<Desc>O nível máximo de dor que o personagem é capaz de tolerar.</Desc>
-			<FunctionKind>Estatísticas base</FunctionKind>
+			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="IntelligenceSkillEXPConstant">
-			<DisplayName>Velocidade de Aprendizagem</DisplayName>
-			<Desc>A quantidade de experiência que o personagem ganha com a prática. Também afeta a velocidade com que os Cultivadores do núcleo dourado ganham inspiração.</Desc>
-			<FunctionKind>Estatísticas de cultivo</FunctionKind>
+			<DisplayName>Velocidade de aprendizado</DisplayName>
+			<Desc>A quantidade de experiência que o personagem ganha com a prática. Também afeta a velocidade com que os Cultivadores do Núcleo Dourado ganham inspiração.</Desc>
+			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="EmotionAmplificationFactor">
 			<DisplayName>Multiplicador de humor</DisplayName>
 		</Text>
 		<Text Name="FavourChangeSpeedRate">
-			<DisplayName>Taxa de alteração favorável</DisplayName>
+			<DisplayName>Taxa de mudança de favor</DisplayName>
 		</Text>
 		<Text Name="NightmareHappenPercent">
-			<DisplayName>Oportunidade de ocorrência de pesadelo</DisplayName>
+			<DisplayName>Ocorrência de Pesadelo</DisplayName>
 			<Desc>A chance do personagem ter um pesadelo.</Desc>
 		</Text>
 		<Text Name="NiceDreamHappenPercent">
-			<DisplayName>Oportunidade de ocorrência de um doce sonho</DisplayName>
-			<Desc>A chance do personagem ter um sonho doce.</Desc>
+			<DisplayName>Ocorrência de Sonho doce</DisplayName>
+			<Desc>A chance do personagem ter um bom sonho.</Desc>
 		</Text>
 		<Text Name="FatigueConsumeConstant">
-			<DisplayName>Bônus de Consumo de Energia</DisplayName>
+			<DisplayName>Bônus de consumo de energia</DisplayName>
 			<Desc>O bônus de consumo de energia do personagem.</Desc>
 		</Text>
 		<Text Name="FatigueRecoveryConstant">
-			<DisplayName>Bônus de reposição de energia</DisplayName>
-			<Desc>O bônus de reposição de energia do personagem.</Desc>
+			<DisplayName>Bônus de reabastecimento de energia</DisplayName>
+			<Desc>O bônus de reabastecimento de energia do personagem.</Desc>
 		</Text>
 		<Text Name="NutritionConsumeConstant">
-			<DisplayName>Bônus de Consumo Alimentar</DisplayName>
+			<DisplayName>Bônus de consumo de alimentos</DisplayName>
 			<Desc>O bônus de velocidade de consumo de comida do personagem.</Desc>
 		</Text>
 		<Text Name="NutritionRecoveryConstant">
-			<DisplayName>Bônus de reposição de alimentos</DisplayName>
-			<Desc>O bônus de reposição de comida do personagem.</Desc>
+			<DisplayName>Bônus de reabastecimento de alimentos</DisplayName>
+			<Desc>O bônus de reabastecimento de comida do personagem.</Desc>
 		</Text>
 		<Text Name="WaterConsumeConstant">
-			<DisplayName>Bônus de Consumo de Água</DisplayName>
+			<DisplayName>Bônus de consumo de água</DisplayName>
 			<Desc>O bônus de consumo de água do personagem.</Desc>
 		</Text>
 		<Text Name="WaterRecoveryConstant">
-			<DisplayName>Bônus de reposição de água</DisplayName>
+			<DisplayName>Bônus de reabastecimento de água</DisplayName>
 			<Desc>O bônus de reposição de água do personagem.</Desc>
 		</Text>
 		<Text Name="HappyConsumeConstant">
-			<DisplayName>Bônus de Consumo de recreação</DisplayName>
-			<Desc>O bônus de consumo de diversão do personagem.</Desc>
+			<DisplayName>Bônus de consumo de recreação</DisplayName>
+			<Desc>O bônus de consumo de recreação do personagem.</Desc>
 		</Text>
 		<Text Name="HappyRecoveryConstant">
-			<DisplayName>Bônus de reposição de recreação</DisplayName>
-			<Desc>O bônus de reposição de diversão do personagem.</Desc>
-		</Text>
+			<DisplayName>Bônus de reabastecimento de recreação</DisplayName>
+			<Desc>O bônus de reabastecimento de recreação do personagem.</Desc>
+			</Text>
 		<Text Name="PracticeFoodConsumeConstant">
 			<DisplayName>Bônus de consumo de essência</DisplayName>
 			<Desc>O bônus de consumo de essência do personagem.</Desc>
 		</Text>
 		<Text Name="PracticeFoodRecoveryConstant">
-			<DisplayName>Bônus de reposição de vigor</DisplayName>
+			<DisplayName>Bônus de Reabastecimento de Vigor</DisplayName>
 			<Desc>O bônus de reposição de essência do personagem.</Desc>
 		</Text>
 		<Text Name="MagicDamageRecoveryPowerAddV">
-			<DisplayName>Resiliência natural para lesões internas</DisplayName>
+			<DisplayName>Resiliência Natural para Lesões Internas</DisplayName>
 		</Text>
 	</List>
 </Texts>
