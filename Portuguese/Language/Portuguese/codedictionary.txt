@@ -210,24 +210,24 @@
 门派	Sects
 昨天	Yesterday
 爱好	Hobby
-猫	Cat
+猫	Gato
 狗	Dog
 早饭	Breakfast
 金	Metal
-木	Wood
-水	Water
-火	Fire
-土	Earth
+木	Madeira
+水	Água
+火	Fogo
+土	Terra
 混元	Hybrid
-心境崩溃	Breakdown
-心境不稳	Unstable
-心境中正	Stable
-心境圆润	Composed
-心境通明	Harmony
-心境无暇	Pristine
-弟子	Disciple
+心境崩溃	Demolir
+心境不稳	instável
+心境中正	Estável
+心境圆润	Composto
+心境通明	Harmonia
+心境无暇	Impecável
+弟子	Discípulo
 精英	Elite
-长老	Elder
+长老	Ancião
 \n温度不适	\nUnsuitable Temperature
 \n灵气不适	\nUnsuitable Qi
 \n肥沃不适	\nUnsuitable Fertility
@@ -2083,10 +2083,10 @@ Name	Name
 放置物品	Place Item
 选择一个物品，将其放在置物台上。	Select an item and place it on the Display.
 取消放置	Cancel Placement
-取消放置建造蓝图中指定的物品。	Cancel placing the selected item of the blueprint.
+取消放置建造蓝图中指定的物品。	Cancele a colocação do item selecionado do blueprint.
 丢下物品	Remove
 将置物台上的物品丢下。	Remove the item from the Display.
-将这个建筑移动到另一个地方，这个命令会在建筑空闲后被执行。	Move this structure to another place. This order will be executed when the structure is empty.
+将这个建筑移动到另一个地方，这个命令会在建筑空闲后被执行。	Mova esta estrutura para outro lugar. Esta ordem será executada quando a estrutura estiver vazia.
 重建	Rebuild
 重新建造这个建筑。	Rebuild this structure.
 采掘	Dig
@@ -2186,37 +2186,37 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 指定动物	Assign Animals
 指定动物活动区域	Specify an area for animals.
 炼化增补 	Refining Supplement 
-炼化同源之物，以增强自身实力。	Refine objects of the same origin to enhance their own power.
-自我修复 	Self-repairing 
-在失去肢体后，吞食建筑材料（木料，金属锭，石块）积累修复度，当修复度积累到100后，就可以完全修复自身损失的部位。	After losing limbs, swallow building materials (timber, metal bars, stones) to accumulate repairness. When repairness reaches 100, all damaged parts will be fully recovered.
+炼化同源之物，以增强自身实力。	Refine objetos da mesma origem para aumentar seu próprio poder.
+自我修复 	Auto-reparável
+在失去肢体后，吞食建筑材料（木料，金属锭，石块）积累修复度，当修复度积累到100后，就可以完全修复自身损失的部位。	Depois de perder membros, engula materiais de construção (madeira, barras de metal, pedras) para acumular reparos. Quando o reparo atingir 100, todas as peças danificadas serão totalmente recuperadas.
 训练	Train
-赞同或反对灵宠的行为，使其执行行为的权重改变。	Approve or discourage certain behaviors of your pet, influencing its preference weight values of different behaviors, thus changing how it acts.
-基础信息	Basics
+赞同或反对灵宠的行为，使其执行行为的权重改变。	Aprovar ou desencorajar determinados comportamentos do seu animal de estimação, influenciando na sua preferência valores de peso de diferentes comportamentos, alterando assim a forma como ele age.
+基础信息	Básico
 灵宠信息	Pet Info
-选择并食用一个道具。\n角色会自动食用食物	Select and eat an item.\nThe character will automatically eat the food.
-吞噬	Devour
-吞噬目标物品，以强大的的肉体将其精华提炼而出。吞噬能力与格物技能等级，消化系统的淬炼程度有关。\n目前最高可吞噬[color=#990000][my_property=BodyPractice_EatItemMaxRate|{0:F2}]阶[/color]的物品。	Devour the target item, and extract the essence out of that item with a strong body. Devouring ability is related to one's Comprehension skill level and degree of Remolding of digestive system.\nCurrently you may devour [color=#990000]tier [my_property=BodyPractice_EatItemMaxRate|{0:F2}][/color] items at maximum.
-选择一个道具,其他角色会将其喂给此角色。	Select an item and another character will feed it to the character.
+选择并食用一个道具。\n角色会自动食用食物	Selecione e coma um item.\nO personagem comerá a comida automaticamente.
+吞噬	Devorar
+吞噬目标物品，以强大的的肉体将其精华提炼而出。吞噬能力与格物技能等级，消化系统的淬炼程度有关。\n目前最高可吞噬[color=#990000][my_property=BodyPractice_EatItemMaxRate|{0:F2}]阶[/color]的物品。	Devore o item alvo e extraia a essência desse item com um corpo forte. A habilidade de devorar está relacionada ao nível de habilidade de compreensão e ao grau de remodelação do sistema digestivo.\nAtualmente, você pode devorar[color=#990000]Nível [my_property=BodyPractice_EatItemMaxRate|{0:F2}][/color] itens no máximo.
+选择一个道具,其他角色会将其喂给此角色。	Selecione um item e outro personagem alimentará o personagem.
 装备道具	Equip
-装备或者拾取一个道具	Equip or pick up an item
-拾取一个物品，注意这可能会惹别人生气。	Pick up an item. It might anger other people.
+装备或者拾取一个道具	Equipar ou pegar um item
+拾取一个物品，注意这可能会惹别人生气。	Pegue um item. Pode irritar outras pessoas.
 画符	Draw
 绘制一张灵符。	Draw a talisman.
-将一个普通物品炼制成战斗法宝,需要[color=#FF0000]炼宝台[/color]。	Craft an ordinary item into a battle artifact. Requires a [color=#FF0000]Crafting Table[/color].
-\n需要炼器等级:	\nRequires Artifact Crafting:
+将一个普通物品炼制成战斗法宝,需要[color=#FF0000]炼宝台[/color]。	Transforme um item comum em um artefato de batalha. Requer uma [color=#FF0000]Mesa de artesanato[/color].
+\n需要炼器等级:	\nRequer Criação de Artefato:
 \n需要灵气:	\nRequired Qi:
 选择要炼制的秘宝	Select a Legacy Artifact to craft.
 吐纳	Breathing
-前往目标地点吐纳天地之间的元气，以获得淬体所需的淬炼精华。吐纳时的季节、时间、天气、环境等均会影响吐纳获得精华的种类和效率。	Go to the target location and breath the primordial Qi between heaven and earth in order to obtain the Essence needed for Remolding. Season, time, weather and environment all have effects on the type and efficiency of Essence you are going to obtain from breathing.
-炼制圣物	Craft Sacred Relic
-将一个普通物品炼制成信仰圣物，一个神道修行者一生只能炼制一件信仰圣物，信仰圣物的强度与修行者息息相关，且具备持续成长的特性。需要[color=#FF0000]炼宝台[/color]。	Craft a common item into a sacred relic. A Shendao cultivator can only craft one sacred artifact in their lifetime. Its power is closely related to the cultivator's and will continue to increase. Requires [color=#FF0000]Crafting Table[/color].
+前往目标地点吐纳天地之间的元气，以获得淬体所需的淬炼精华。吐纳时的季节、时间、天气、环境等均会影响吐纳获得精华的种类和效率。	Vá até o local alvo e respire o Qi primordial entre o céu e a terra para obter a Essência necessária para a Remoldagem. A estação, o tempo, o clima e o ambiente têm efeitos sobre o tipo e a eficiência da Essência que você obterá da respiração.
+炼制圣物	Criar relíquia sagrada
+将一个普通物品炼制成信仰圣物，一个神道修行者一生只能炼制一件信仰圣物，信仰圣物的强度与修行者息息相关，且具备持续成长的特性。需要[color=#FF0000]炼宝台[/color]。	Crie um item comum em uma relíquia sagrada. Um cultivador de Shendao só pode criar um artefato sagrado em sua vida. Seu poder está intimamente relacionado ao do cultivador e continuará aumentando. Requer[color=#FF0000]Mesa de artesanato[/color].
 召回圣物	Recall Sacred Relic
 当圣物不在身上而且可以召回时，直接将其召回并装备。	Directly recall and equip the sacred relic when it is not equipped but able to be recalled.
 你的信仰圣物已经遗失。	Your sacred relic is lost.
 炼制一炉丹药,需要[color=#FF0000]炼丹炉[/color]。	Create an elixir. Requires an [color=#FF0000]Alchemy Furnace[/color].
 \n需要炼丹等级:	\nRequired Alchemy Level:
 选择要炼制的丹药	Select what elixir to create.
-传授给低辈弟子符合其境界的秘籍，参悟消耗降低25%。如果是自身弟子，则再额外降低25%。\n当选择了传授多个秘籍后，传授者会逐个等待弟子参悟值足够时再进行传授。	Imparts a manual suitable to the junior disciple's state (Inspiration XP cost is reduced by 25%). For the character's disciple, the cost is reduced by another 25%.\nWhen imparting multiple manuals, the instructor will wait with imparting them until the disciple has enough Inspiration XP.
+传授给低辈弟子符合其境界的秘籍，参悟消耗降低25%。如果是自身弟子，则再额外降低25%。\n当选择了传授多个秘籍后，传授者会逐个等待弟子参悟值足够时再进行传授。	Fornece um manual adequado ao estado do discípulo júnior (o custo de XP de inspiração é reduzido em 25%). Para o discípulo do personagem, o custo é reduzido em mais 25%.\nAo transmitir vários manuais, o instrutor aguardará para transmiti-los até que o discípulo tenha XP de Inspiração suficiente.
 狩猎	Hunt
 狩猎这个动物并进行屠宰	Cace este animal e mate-o.
 屠宰这个动物获得产物。	Corte este animal para obter produtos.
@@ -2224,11 +2224,11 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 搬运并移动这个角色到指定地点。	Transport this character to a designated place.
 埋葬这个尸体，需要选择一个空闲的墓地。	Select an empty burial ground and bury this corpse.
 晋升内门	Promote
-将这个筑基成功的弟子晋升到内门	This disciple have been successful in establishing their foundation. Promote them to inner disciple.
+将这个筑基成功的弟子晋升到内门	Este discípulo foi bem sucedido em estabelecer sua fundação. Promova-os a discípulo interior.
 留下这个角色	Keep this character.
-门派弟子数量达到上限:{0}。\n你可以扩大门派规模或者将其他弟子踢出门派。	The number of disciples has reached the cap: {0}.\nYou can increase the size of your sect or kick another disciple.
-帮助	Help
-为他提供帮助	Help this person.
+门派弟子数量达到上限:{0}。\n你可以扩大门派规模或者将其他弟子踢出门派。	O número de discípulos atingiu o limite: {0}.\nVocê pode aumentar o tamanho de sua seita ou chutar outro discípulo.
+帮助	Ajuda
+为他提供帮助	Ajude esta pessoa.
 请教	Consult
 请教神秘人。	Consult the mysterious person.
 劝说	Persuade
@@ -2279,7 +2279,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 编辑形象	Edit Avatar
 编辑角色形象。	Edit character avatar.
 装备物品	Equip Item
-装备或者拾取一个物品	Equip or pick up an item.
+装备或者拾取一个物品	Equipar ou pegar um item.
 全部	All
 我的蓝图	My Blueprints
 万界天宫	Realms Palace
@@ -2289,14 +2289,14 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 房间最小面积为4，最大面积为400	O menor tamanho de uma sala é 4. O maior é 400.
 选择建造地点	Select a building site
 (按[keycode]RotBuilding[/keycode]旋转)	(Press [keycode]RotBuilding[/keycode] to rotate.)
-[color=#ff0000]已达到最大拥有个数:{0}[/color]	[color=#ff0000]Has reached the maximum number:{0}[/color]
+[color=#ff0000]已达到最大拥有个数:{0}[/color]	[color=#ff0000]Atingiu o número máximo:{0}[/color]
 <font color=#FF0000>地点不适合</font>	<font color=#FF0000>Local Inadequado</font>
-更换建筑原材料	Replace Building Raw Material
+更换建筑原材料	Substituir Matéria-Prima de Construção
 风水:	Feng Shui:
-请框选导出的蓝图范围	Drag and select the blueprint area.
-尚未建立势力，无法使用势力快捷面板。	The Power panel is unavailable as you haven't established your own Power.
-尚未解锁阵眼，无法使用阵法系统。	You haven't unlocked any auxiliaries. Unable to use the formation system.
-选择一个目标	Select a target.
+请框选导出的蓝图范围	Arraste e selecione a área do blueprint.
+尚未建立势力，无法使用势力快捷面板。	O painel de Poder não está disponível porque você não estabeleceu seu próprio Poder.
+尚未解锁阵眼，无法使用阵法系统。	Você não desbloqueou nenhum auxiliar. Incapaz de usar o sistema de formação.
+选择一个目标	Selecione um alvo.
 请选择一个合适的讲道地点	Select a suitable site to give a lecture.
 请选择一个合适的突破地点	Select a suitable place to breakthrough.
 请选择一个进行吐纳的地点	Select a location to start Breathing.
@@ -3759,25 +3759,25 @@ Trap编辑。	Trap Edit.
 [{0}]\n自动攻击目标\n[color=#D06508]点击可改变模式[/color]	[{0}]\nAtacar alvos automaticamente\n[color=#D06508]Clique para alterar o modo.[/color]
 饮水	Drink
 精力	Energy
-\n[color=#FF8B00]消耗平衡点:{0:N0}\n(内门弟子吞服天地灵气补充食物的速度与自身消耗食物的速度在此处达到平衡)[/color]	\n[color=#FF8B00]Equilibrium: {0:N0}\n(An inner disciple has trained their Qi to the extent that they absorb energy from the surrounding environment and no longer needs to eat food.)[/color]
+\n[color=#FF8B00]消耗平衡点:{0:N0}\n(内门弟子吞服天地灵气补充食物的速度与自身消耗食物的速度在此处达到平衡)[/color]	\n[color=#FF8B00]Equilíbrio: {0:N0}\n(Um discípulo interno treinou seu Qi na medida em que absorve a energia do ambiente circundante e não precisa mais comer.)[/color]
 (被选择)	(Selected)
 +{0:N2}/秒	+{0:N2}/sec
-灵气:{0:N0}/{1:N0}\n灵气是施展内门行为的基础资源。\n角色会将信仰转化为灵气\n当前信仰：{2:F0}	Qi: {0:N0}/{1:N0}\nQi is the basic resource used for cultivation actions. \nCharacters will transform beliefs into Qi.\nCurrent Beliefs: {2:F0}
-灵气:{0:N0}/{1:N0}\n灵气是施展内门行为的基础资源。\n角色会从环境中吸取灵气	Qi: {0:N0}/{1:N0}\nQi is the basic resources for using inner actions.\nCharacters absorb Qi from their surroundings.
-突破进度：{0:P2}({1:N1}/{2:N1})\n{3}	Breakthrough Progress: {0:P2}({1:N1}/{2:N1})\n{3}
-心境：{0:N0}/{1:N0}{11}\n层次：{2}{3}\n趋势：{5}{4:F2}/天\n\t({6})\n突破条件：{7}\n突破进度：{8:P2}({9:N1}/{10:N1})\n\n心境会大幅度影响修炼相关行为的效率和成功率。只有足够强大的心境才能驾驭信徒的祈祷之念。	Mental State: {0:N0}/{1:N0}{11}\nStates: {2}{3}\nInclination: {5}{4:F2}/d \n\t　({6})\nBreakthrough Requirements: {7}\nBreakthrough Progress: {8:P2}({9:N1}/{10:N1})\n\nA character's Mental State affects the efficiency and success rate of training-related actions. Only a mental state strong enough can manage all the followers' prayers.
-\n[color=#FF0000]此角色在其他地方心境有亏，此时心境已达极致，无法圆满。[/color]	\n[color=#FF0000]This character's mental state is not complete in other aspects. Now it has reached its limit and cannot be attained.[/color]
+灵气:{0:N0}/{1:N0}\n灵气是施展内门行为的基础资源。\n角色会将信仰转化为灵气\n当前信仰：{2:F0}	Qi: {0:N0}/{1:N0}\nQi é o recurso básico usado para ações de cultivo. \nOs personagens transformarão crenças em Qi.\nCrenças atuais: {2:F0}
+灵气:{0:N0}/{1:N0}\n灵气是施展内门行为的基础资源。\n角色会从环境中吸取灵气	Qi: {0:N0}/{1:N0}\nO Qi é o recurso básico para usar as ações internas.\nOs personagens absorvem o Qi do ambiente.
+突破进度：{0:P2}({1:N1}/{2:N1})\n{3}	Progresso do avanço: {0:P2}({1:N1}/{2:N1})\n{3}
+心境：{0:N0}/{1:N0}{11}\n层次：{2}{3}\n趋势：{5}{4:F2}/天\n\t({6})\n突破条件：{7}\n突破进度：{8:P2}({9:N1}/{10:N1})\n\n心境会大幅度影响修炼相关行为的效率和成功率。只有足够强大的心境才能驾驭信徒的祈祷之念。	Mental State: {0:N0}/{1:N0}{11}\nStates: {2}{3}\nInclination: {5}{4:F2}/d \n\t　({6})\nRequisitos de avanço: {7}\nProgresso do avanço: {8:P2}({9:N1}/{10:N1})\n\nO Estado Mental de um personagem afeta a eficiência e a taxa de sucesso das ações relacionadas ao treinamento. Apenas um estado mental forte o suficiente pode administrar as orações de todos os seguidores.
+\n[color=#FF0000]此角色在其他地方心境有亏，此时心境已达极致，无法圆满。[/color]	\n[color=#FF0000]O estado mental deste personagem não está completo em outros aspectos. Agora atingiu seu limite e não pode ser alcançado.[/color]
 道行阳:{0}\n道行阴:{1}\n{2}	Yang Attainment:{0}\nYin Attainment:{1}\n{2}
-心境:{0:N0} ({1}){2}\n心境会大幅度影响吐纳时获得精华的效率。\n体修中人皆为直来直往。心境与情绪直接挂钩。	Mental State: {0:N0} ({1}){2}\nMental State greatly affects one's efficiency of obtaining essence when breathing. \nPhysical cultivators are quite straightforward. Mental State is directly linked to Mood.
-真炁：{0:F0}/{1:F0}\n体修专属的战斗资源，会快速的恢复和消耗。真炁会随着境界的提升，身躯的淬炼而提升。	True Qi: {0:F0}/{1:F0}\nCombat resource exclusive to physical cultivators. It both replenish and deplete very fast. True Qi increases along with one's State and body Remolding.
+心境:{0:N0} ({1}){2}\n心境会大幅度影响吐纳时获得精华的效率。\n体修中人皆为直来直往。心境与情绪直接挂钩。	Estado Mental: {0:N0} ({1}){2}\nO Estado Mental afeta muito a eficiência de obter essência ao respirar. \nOs cultivadores físicos são bastante diretos. O Estado Mental está diretamente ligado ao Humor.
+真炁：{0:F0}/{1:F0}\n体修专属的战斗资源，会快速的恢复和消耗。真炁会随着境界的提升，身躯的淬炼而提升。	Qi Verdadeiro: {0:F0}/{1:F0}\nRecurso de combate exclusivo para cultivadores físicos. Ele reabastece e esgota muito rápido. O Qi Verdadeiro aumenta junto com o estado e a remodelação do corpo.
 {1}{0:F2}/秒	{1}{0:F2}/sec
 未进行淬体	Unremolded
 未进行淬体\n在淬体界面进行淬体安排，角色会在修炼时自动进行淬体。\n点击打开淬体界面	Unremolded\nConfigurate Remold settings in the Remold Menu, and the character will automatically remold during cultivation trainings.\nClick to open Remold Menu.
 淬炼部位：{0}\n淬体之法：{1}\n淬炼精华：{2}	Remold Part: {0}\nRemold Spell: {1}\nRemold Essence: {2}
-心境:{0:N0} ({1}){2}\n心境会大幅度影响修炼相关行为的效率和成功率。	Mental State: {0:N0}({1}){2}\nA character's Mental State affects the efficiency and success rate of training-related actions.
+心境:{0:N0} ({1}){2}\n心境会大幅度影响修炼相关行为的效率和成功率。	Estado Mental: {0:N0}({1}){2}\nO Estado Mental de um personagem afeta a eficiência e a taxa de sucesso das ações relacionadas ao treinamento.
 筑基值:{0:F0}/{1:F0} ({2:F0}%)	Foundation: {0:F0}/{1:F0} ({2:F0}%)
-情绪:{0:N0}\n外门弟子情绪低于30会发生怠工。\n内门弟子的情绪太差则会影响到心境的变化甚至发生入魔	Mood: {0:N0}\nWhen an outer disciple's mood drops below 30, they stop working and may begin to slack off.\nIf an inner disciple's mood is too low, it will affect their mental state and they may even become fallen.
-神性：{0:N2}%\n真实值：{1:N2}%\n调整值：{3}{2:N2}%\n{4}\n\n[color=#D06508]随着修行的时间以及特殊行为，神性会逐渐替代人性。当神性达到100%时，角色会发生神化。\n神国建成以前，神性最高只能达到50%。[/color]	Divinity: {0:N2}%\nBase Divinity: {1:N2}%\nModified Divinity: {3}{2:N2}%\n{4}\n\n[color=#D06508]As the cultivation goes on and special actions take place, divinity will gradually replace humanity. When divinity reaches 100%, the character will begin transforming into a deity. \nBefore the establishment of a Divine Realm, divinity can only reach 50% at most.[/color]
+情绪:{0:N0}\n外门弟子情绪低于30会发生怠工。\n内门弟子的情绪太差则会影响到心境的变化甚至发生入魔	Humor: {0:N0}\nQuando o humor de um discípulo externo cai abaixo de 30, ele para de funcionar e pode começar a relaxar.\nSe o humor de um discípulo interno estiver muito baixo, isso afetará seu estado mental e ele poderá até cair.
+神性：{0:N2}%\n真实值：{1:N2}%\n调整值：{3}{2:N2}%\n{4}\n\n[color=#D06508]随着修行的时间以及特殊行为，神性会逐渐替代人性。当神性达到100%时，角色会发生神化。\n神国建成以前，神性最高只能达到50%。[/color]	Divindade: {0:N2}%\nDivindade Base: {1:N2}%\nDivindade Modificada: {3}{2:N2}%\n{4}\n\n[color=#D06508]À medida que o cultivo continua e ações especiais acontecem, a divindade gradualmente substituirá a humanidade. Quando a divindade atinge 100%, o personagem começará a se transformar em uma divindade. \nAntes do estabelecimento de um Reino Divino, a divindade só pode atingir 50% no máximo.[/color]
 归属感：{0:0}	Loyalty: {0:0}
 影响思绪片段产生速度。满足的条件越多，产生得越快。\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}	Affects the speed at which Thought Shards generate. The more conditions fulfilled, the faster they are generated.\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}
 处于养殖区	In Pasture Area
