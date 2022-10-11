@@ -2,57 +2,57 @@
 	<List>
 		<Text Name="Dan_BasePracticeDrug">
 			<DisplayName>Forming Pill</DisplayName>
-			<Desc>Unlock your body's potential, temporarily increasing Perception, Constitution and Intelligence by 30% each.</Desc>
+			<Desc>Desbloqueie o potencial do seu corpo, aumentando temporariamente Percepção, Constituição e Inteligência em 30% cada.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_JingYuan">
 			<DisplayName>Stamina Pill</DisplayName>
-			<Desc>By consuming the Stamina Pill, the ability of one's body to generate Stamina is improved within 7 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
+			<Desc>Ao consumir a Pílula de Vigor, a capacidade do corpo de gerar Vigor é melhorada em 7 dias, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor..</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_JingYuan2">
 			<DisplayName>Ginseng Pill</DisplayName>
-			<Desc>By consuming the Ginseng Pill, the ability of one's body to generate Stamina is improved within 14 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
+			<Desc>Ao consumir a Pílula de Ginseng, a capacidade do corpo de gerar Vigor é melhorada em 14 dias, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_JingYuan3">
 			<DisplayName>Resin Essence Powder</DisplayName>
-			<Desc>By consuming the Resin Essence Powder, the ability of one's body to generate Stamina is improved within 28 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
+			<Desc>Ao consumir o Pó de Essência de Resina, a capacidade do corpo de gerar Vigor é melhorada em 28 dias, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor.</Desc>
 		</Text>
 		<Text Name="Dan_Ling1">
 			<DisplayName>Qi Regen Pill</DisplayName>
-			<Desc>Increases Qi recovery rate by 2,000%.</Desc>
+			<Desc>Aumenta a taxa de recuperação de Qi em 2.000%.</Desc>
 		</Text>
 		<Text Name="Dan_Ling2">
 			<DisplayName>Sun Pill</DisplayName>
 		</Text>
 		<Text Name="Dan_Ling3">
 			<DisplayName>Divine Powder</DisplayName>
-			<Desc>Increases Max Qi by 100,000.</Desc>
+			<Desc>Aumenta o Qi Máximo em 100.000.</Desc>
 		</Text>
 		<Text Name="Dan_Defense">
 			<DisplayName>Shield Pill</DisplayName>
-			<Desc>Increases your base Protection strength by 30%.</Desc>
+			<Desc>Aumenta sua força base de proteção em 30%.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBaseFromLife">
 			<DisplayName>Pill of the Five Clingings</DisplayName>
 		</Text>
 		<Text Name="Dan_FiveBase1">
 			<DisplayName>Heavenly Pill</DisplayName>
-			<Desc>Increases Perception by 30% for 48 hours.</Desc>
+			<Desc>Aumenta a Percepção em 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase2">
 			<DisplayName>Earthly Pill</DisplayName>
-			<Desc>Increases Constitution by 30% for 48 hours.</Desc>
+			<Desc>Aumenta Constituição em 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase3">
 			<DisplayName>Ether Pill</DisplayName>
-			<Desc>Increases Charisma by 30% for 48 hours.</Desc>
+			<Desc>Carisma aumenta 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase4">
 			<DisplayName>Wisdom Pill</DisplayName>
-			<Desc>Increases Intelligence by 30% for 48 hours.</Desc>
+			<Desc>Aumenta a Inteligência em 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase5">
 			<DisplayName>Blessed Pill</DisplayName>
-			<Desc>Increases Luck by 30% for 48 hours.</Desc>
+			<Desc>Aumenta a Sorte em 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_PracticeRate">
 			<DisplayName>Increases the chance of successfully breakthroughing.</DisplayName>
@@ -65,31 +65,31 @@
 		</Text>
 		<Text Name="Dan_CalmDown">
 			<DisplayName>Purity Pill</DisplayName>
-			<Desc>Consumption of the Purity Pill will calm one's Mental State to a certain extent, and reduces the fluctuation of mood within one day.</Desc>
+			<Desc>O consumo da Pílula da Pureza acalmará o Estado Mental até certo ponto e reduzirá a flutuação do humor em um dia.</Desc>
 		</Text>
 		<Text Name="Dan_Happiness">
 			<DisplayName>Euphoria Pill</DisplayName>
-			<Desc>Consumption of the Euphoria Pill will immerse one in happiness within two days, but it greatly hinders work efficiency.</Desc>
+			<Desc>O consumo da Euphoria Pill vai mergulhar a pessoa na felicidade em dois dias, mas atrapalha muito a eficiência do trabalho.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger">
 			<DisplayName>Inedia Pill</DisplayName>
-			<Desc>Consumption of Inedia Pill grants one the ability of Qi Absorption for two days, enabling auto-replenishment of Hunger.</Desc>
+			<Desc>O consumo de Pílula de Inedia concede a habilidade de Absorção de Qi por dois dias, permitindo o reabastecimento automático da Fome.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger1">
 			<DisplayName>Nourish Pill</DisplayName>
-			<Desc>Consumption of the Nourish Pill decreases one's Hunger and Fatigue rates within two days.</Desc>
+			<Desc>O consumo da pílula de nutrição diminui as taxas de fome e fadiga em dois dias.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger2">
 			<DisplayName>Fasting Pill</DisplayName>
-			<Desc>Consumption of Fasting Pill will significantly decrease the speed at which one consumes food and water.</Desc>
+			<Desc>O consumo de pílula de jejum diminuirá significativamente a velocidade com que se consome comida e água.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger3">
 			<DisplayName>Qi Fasting Pill</DisplayName>
-			<Desc>Consumption of Qi Fasting Pill will significantly decrease the speed at which one consumes food and water.</Desc>
+			<Desc>O consumo de Qi Fasting Pill diminuirá significativamente a velocidade com que se consome comida e água.</Desc>
 		</Text>
 		<Text Name="Dan_LostSoul">
 			<DisplayName>Sedation Pill</DisplayName>
-			<Desc>Very basic mineral-based pill. Consuming this pill will cause one's brain function to be repressed and fell into a coma for 3 whole days.</Desc>
+			<Desc>Pílula mineral muito básica. Consumir esta pílula fará com que a função cerebral seja reprimida e caia em coma por 3 dias inteiros.</Desc>
 		</Text>
 		<Text Name="Dan_IncreaseLife1">
 			<DisplayName>Life Pill</DisplayName>
@@ -117,7 +117,7 @@
 		</Text>
 		<Text Name="Modifier_Item_Anodyne">
 			<DisplayName>Painkiller</DisplayName>
-			<Desc>Relieve pain. Its effect will last around 5 days.</Desc>
+			<Desc>Aliviar a dor. Seu efeito durará cerca de 5 dias.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Mint">
 			<DisplayName>Purity Leaf</DisplayName>
@@ -139,11 +139,11 @@
 		</Text>
 		<Text Name="Modifier_Item_Ginseng">
 			<DisplayName>Ginseng</DisplayName>
-			<Desc>Improves natural resilience for a short period of time.</Desc>
+			<Desc>Melhora a resiliência natural por um curto período de tempo.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_RedGinseng">
 			<DisplayName>Red Ginseng</DisplayName>
-			<Desc>Significantly improves natural resilience for a short period of time.</Desc>
+			<Desc>Melhora significativamente a resiliência natural por um curto período de tempo.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_RedGinseng1">
 			<DisplayName>Red Ginseng (Fruit)</DisplayName>
@@ -154,23 +154,23 @@
 		</Text>
 		<Text Name="Modifier_Item_Laxative1">
 			<DisplayName>Weakening</DisplayName>
-			<Desc>After taking the Laxative Pill, one would be considerably weakened and has a very low work efficiency.</Desc>
+			<Desc>Depois de tomar a Pílula Laxante, a pessoa fica consideravelmente enfraquecida e tem uma eficiência de trabalho muito baixa.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_LongXianGuo">
 			<DisplayName>Amber Fruit</DisplayName>
-			<Desc>By consuming the Amber Fruit, one becomes immune to hunger and fatigue within half a day.</Desc>
+			<Desc>Ao consumir a fruta âmbar, a pessoa se torna imune à fome e à fadiga em meio dia.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_LingWater">
 			<DisplayName>Spirit Dew</DisplayName>
-			<Desc>Consumption of Spirit Dew will greatly improve one's recovery rate from wound for a short period of time.</Desc>
+			<Desc>O consumo de Spirit Dew melhorará muito a taxa de recuperação de um ferimento por um curto período de tempo.</Desc>
 		</Text>
 		<Text Name="Dan_LingStone">
 			<DisplayName>Advanced Qi Resonance</DisplayName>
-			<Desc>Use spirit stone in cultivation to resonate with Qi energies, greatly increasing one's Qi Recovery Rate and Cultivation Speed.</Desc>
+			<Desc>Use a pedra espiritual no cultivo para ressoar com as energias do Qi, aumentando muito a Taxa de Recuperação do Qi e a Velocidade de Cultivo.</Desc>
 		</Text>
 		<Text Name="Dan_LingCrystal">
 			<DisplayName>Advanced Qi Resonance</DisplayName>
-			<Desc>Use Spirit Crystal in cultivation to deeply resonate with Qi energies, greatly increasing one's Qi Recovery Rate and Cultivation Speed.</Desc>
+			<Desc>Use o Cristal Espiritual no cultivo para ressoar profundamente com as energias do Qi, aumentando muito a Taxa de Recuperação do Qi e a Velocidade de Cultivo.</Desc>
 		</Text>
 		<Text Name="Dan_IncreaseNeckCountdown1">
 			<DisplayName>Harmony Pill</DisplayName>
@@ -180,11 +180,11 @@
 		</Text>
 		<Text Name="Dan_Fail1">
 			<DisplayName>Junk Pill</DisplayName>
-			<Desc>After taking that strange elixir pill, my body was suddenly shrunk.</Desc>
+			<Desc>Depois de tomar aquela estranha pílula de elixir, meu corpo de repente encolheu.</Desc>
 		</Text>
 		<Text Name="Dan_Fail2">
 			<DisplayName>Junk Pill</DisplayName>
-			<Desc>After taking that strange elixir pill, my body was suddenly enlarged.</Desc>
+			<Desc>Depois de tomar aquela estranha pílula de elixir, meu corpo de repente aumentou.</Desc>
 		</Text>
 		<Text Name="Dan_Fail3">
 			<DisplayName>Junk Pill</DisplayName>
@@ -206,14 +206,14 @@
 		</Text>
 		<Text Name="Dan_Soul4">
 			<DisplayName>Scorch Pill</DisplayName>
-			<Desc>Consume part of your lifespan to gain superb intelligence for 2 hours, but it will leave permanent damage to intelligence afterwards.</Desc>
+			<Desc>Consuma parte de sua vida útil para ganhar inteligência soberba por 2 horas, mas isso deixará danos permanentes à inteligência depois.</Desc>
 		</Text>
 		<Text Name="Dan_Soul4_D">
 			<DisplayName>Scorch Pill Negative</DisplayName>
 		</Text>
 		<Text Name="Dan_LunHui1">
 			<DisplayName>Touched</DisplayName>
-			<Desc>Touched by this section of memory from a different world.</Desc>
+			<Desc>Tocado por esta seção da memória de um mundo diferente.</Desc>
 		</Text>
 		<Text Name="Dan_XianBone">
 			<DisplayName>Divine Bones</DisplayName>
@@ -232,7 +232,7 @@
 		</Text>
 		<Text Name="Modifier_Item_XieHunLu">
 			<DisplayName>Evil Nectar</DisplayName>
-			<Desc>By consuming the Evil Nectar, one's Intelligence and learning ability are increased.</Desc>
+			<Desc>Ao consumir o Nectar do Mal, a inteligência e a capacidade de aprendizado aumentam.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_XieHunLu1">
 			<DisplayName>Evil Nectar (Damage)</DisplayName>
@@ -245,7 +245,7 @@
 		</Text>
 		<Text Name="Modifier_Item_ZaoHuaYuLu">
 			<DisplayName>Fortune Nectar</DisplayName>
-			<Desc>By consuming the Fortune Nectar, one's Primordial Spirit enters a state of oblivion.</Desc>
+			<Desc>Ao consumir o Néctar da Fortuna, o Espírito Primordial de alguém entra em um estado de esquecimento.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_ZaoHuaYuLu1">
 			<DisplayName>Fortune Nectar Effects</DisplayName>
@@ -258,22 +258,22 @@
 		</Text>
 		<Text Name="Modifier_Item_Boss_Meat">
 			<DisplayName>Divine Beast Flesh</DisplayName>
-			<Desc>Greatly increases Max Qi and Lifespan.</Desc>
+			<Desc>Aumenta muito o Max Qi e a vida útil.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_BossZhuLong_Meat">
 			<DisplayName>Primeval Flesh</DisplayName>
-			<Desc>Decreases Attainment and increases Lifespan.</Desc>
+			<Desc>Diminui a realização e aumenta a vida útil.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Dan_FabaoNumAdd">
 			<DisplayName>Increases number of Artifacts by 1.</DisplayName>
-			<Desc>Increases maximum number of Artifacts by 1.</Desc>
+			<Desc>Aumenta o número máximo de artefatos em 1.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_LieShenDan">
 			<DisplayName>Division Pill</DisplayName>
 		</Text>
 		<Text Name="Modifier_Dan_TiShen">
 			<DisplayName>Clone Pill</DisplayName>
-			<Desc>Allows you to escape from an Auction.</Desc>
+			<Desc>Permite escapar de um Leilão.</Desc>
 		</Text>
 	</List>
 </Texts>

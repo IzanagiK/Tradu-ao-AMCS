@@ -2,55 +2,55 @@
 	<List>
 		<Text Name="Modifier_LingZhi_DiaoXie">
 			<DisplayName>sympathy</DisplayName>
-			<Desc>Sympathize with the Spiritual Root, feel the vibe of sadness released by the withering Spiritual Plant, and your Mental State is slightly disturbed.</Desc>
+			<Desc>Simpatize com a Raiz Espiritual, sinta a vibração da tristeza liberada pela Planta Espiritual murcha, e seu Estado Mental é levemente perturbado.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Jin">
 			<DisplayName>Metal-Spirit sympathy</DisplayName>
-			<Desc>Cultivate near a Metal Spirit Root to enter the state of sympathy with it. Perception increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito do Metal para entrar no estado de simpatia com ela. Percepção aumentada, estado mental aumentado, velocidade de cultivo diminuída, potencial aumentado.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Jin">
 			<DisplayName>Metal-Fiend sympathy</DisplayName>
-			<Desc>Cultivate near a Metal Spirit Root to enter the state of sympathy with it. Perception increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito do Metal para entrar no estado de simpatia com ela. Percepção aumentada, Estado Mental diminuído, Velocidade de Cultivo aumentada, Potencial diminuído.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Mu">
 			<DisplayName>Wood-Spirit sympathy</DisplayName>
-			<Desc>Cultivate near a Wood Spirit Root to enter the state of sympathy with it. Constitution increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito da Madeira para entrar no estado de simpatia com ela. Constituição aumentada, Estado Mental aumentado, Velocidade de Cultivo diminuída, Potencial aumentado.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Mu">
 			<DisplayName>Wood-Fiend sympathy</DisplayName>
-			<Desc>Cultivate near a Wood Spirit Root to enter the state of sympathy with it. Constitution increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito da Madeira para entrar no estado de simpatia com ela. Constituição aumentada, Estado Mental diminuído, Velocidade de Cultivo aumentada, Potencial diminuído.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Shui">
 			<DisplayName>Water-Spirit sympathy</DisplayName>
-			<Desc>Cultivate near a Water Spirit Root to enter the state of sympathy with it. Charisma increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito da Água para entrar no estado de simpatia com ela. Carisma aumentado, Estado Mental aumentado, Velocidade de Cultivo diminuída, Potencial aumentado.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Shui">
 			<DisplayName>Water-Fiend sympathy</DisplayName>
-			<Desc>Cultivate near a Water Spirit Root to enter the state of sympathy with it. Charisma increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito da Água para entrar no estado de simpatia com ela. Carisma aumentado, estado mental diminuído, velocidade de cultivo aumentada, potencial diminuído.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Huo">
 			<DisplayName>Fire-Spirit sympathy</DisplayName>
-			<Desc>Cultivate near a Fire Spirit Root to enter the state of sympathy with it. Intelligence increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito de Fogo para entrar no estado de simpatia com ela. Inteligência aumentada, Estado Mental aumentado, Velocidade de Cultivo diminuída, Potencial aumentado.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Huo">
 			<DisplayName>Fire-Fiend sympathy</DisplayName>
-			<Desc>Cultivate near a Fire Spirit Root to enter the state of sympathy with it. Intelligence increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito de Fogo para entrar no estado de simpatia com ela. Inteligência aumentada, Estado Mental diminuído, Velocidade de Cultivo aumentada, Potencial diminuído.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_GT0_Tu">
 			<DisplayName>Earth-Spirit sympathy</DisplayName>
-			<Desc>Cultivate near an Earth Spirit Root to enter the state of sympathy with it. Luck increased, Mental State increased, Cultivation Speed decreased, Potential increased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito da Terra para entrar no estado de simpatia com ela. Sorte aumentada, Estado Mental aumentado, Velocidade de Cultivo diminuída, Potencial aumentado.</Desc>
 		</Text>
 		<Text Name="Modifier_LingZhi_LT0_Tu">
 			<DisplayName>Earth-Fiend sympathy</DisplayName>
-			<Desc>Cultivate near an Earth Spirit Root to enter the state of sympathy with it. Luck increased, Mental State decreased, Cultivation Speed increased, Potential decreased.</Desc>
+			<Desc>Cultive perto de uma Raiz do Espírito da Terra para entrar no estado de simpatia com ela. Sorte aumentada, Estado Mental diminuído, Velocidade de Cultivo aumentada, Potencial diminuído.</Desc>
 		</Text>
 		<Text Name="Story_LingZhi_XinJing1">
 			<DisplayName>Pristine Mind</DisplayName>
-			<Desc>Mental State is increased for a short period of time.</Desc>
+			<Desc>Estado Mental é aumentado por um curto período de tempo.</Desc>
 		</Text>
 		<Text Name="Story_LingZhi_XinJing2">
 			<DisplayName>Disordered Mind</DisplayName>
-			<Desc>Mental State is decreased for a short period of time.</Desc>
+			<Desc>Estado Mental é diminuído por um curto período de tempo.</Desc>
 		</Text>
 		<Text Name="Story_LingZhi_MaxLing1">
 			<DisplayName>Qi Taken</DisplayName>
@@ -72,7 +72,7 @@
 		</Text>
 		<Text Name="Story_LingZhi_RipeLing_A">
 			<DisplayName>Spiritual Cleansing</DisplayName>
-			<Desc>Nourished by the aura of maturity from Spiritual Plants, all Inner Injuries the body has sustained are being healed.</Desc>
+			<Desc>Nutridos pela aura de maturidade das Plantas Espirituais, todas as Lesões Internas que o corpo sofreu estão sendo curadas.</Desc>
 		</Text>
 		<Text Name="Story_LingZhi_RipeSha">
 			<DisplayName>Curse effect from maturity of Spiritual Plant</DisplayName>
