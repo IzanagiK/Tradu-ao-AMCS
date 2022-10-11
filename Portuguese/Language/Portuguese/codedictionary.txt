@@ -38,28 +38,28 @@
 移动	Move
 身手	Action
 感知	Sense
-影响战斗能力。	Affects combat prowess.
+影响战斗能力。	Afeta a proeza de combate.
 对灵气的感知能力，影响灵气护盾穿透率，法宝镇压几率。	The ability to perceive Qi. Affects Qi Barrier Penetration Chance and Artifact Suppression Chance.
-影响角色之间互动事件发生的概率，招募角色的概率等。	Affects the chance of events triggering during interactions between characters and the chance of recruiting new characters.
-对自身身体了解掌控的能力，影响淬体效率，淬体时出现有效进化的概率。在凡人阶段的岐黄技能会一定程度上影响该值。	The ability to comprehend and command one's own body. Affects Remold efficiency, as well as chance of an effective evolution to occur when Remolding. One's Healing skill as a mortal will affect this value to some extent.
-影响烹饪速度，烹饪成功率等。	Affects speed and success rate when cooking.
-影响建筑速度，建筑受伤时的概率等。	Affects speed and chances of being injured during construction work.
-影响种植作物速度，收获作物产量等。	Affects the growth rate of crops and their harvest yield.
-影响采掘速度，采掘产量等。	Affects speed and output of mining.
+影响角色之间互动事件发生的概率，招募角色的概率等。	Afeta a chance de eventos serem desencadeados durante as interações entre personagens e a chance de recrutar novos personagens.
+对自身身体了解掌控的能力，影响淬体效率，淬体时出现有效进化的概率。在凡人阶段的岐黄技能会一定程度上影响该值。	A capacidade de compreender e comandar o próprio corpo. Afeta a eficiência da Remoldagem, bem como a chance de ocorrer uma evolução efetiva na Remoldagem. A habilidade de Cura de um mortal afetará esse valor até certo ponto.
+影响烹饪速度，烹饪成功率等。	Afeta a velocidade e a taxa de sucesso ao cozinhar.
+影响建筑速度，建筑受伤时的概率等。	Afeta a velocidade e as chances de se machucar durante o trabalho de construção.
+影响种植作物速度，收获作物产量等。	Afeta a taxa de crescimento das culturas e o rendimento da colheita.
+影响采掘速度，采掘产量等。	Afeta a velocidade e a produção da mineração.
 对灵感的把握能力，影响淬体时高级进化方向的出现概率。	The ability to handle inspirations. Affects the chance of advanced Evolution Directions to occur in Remolding.
 对世界万物规律的理解能力，影响吐纳和吞噬获得精华的效率。在凡人阶段的巧匠技能会一定程度上影响该值。	The ability to comprehend the laws of everything in nature. Affects the efficiency of gaining essence by Breathing and Devouring. One's Crafting skill as a mortal will affect this value to a certain extent.
-影响进入内门时，御物，术法，护体的初始等级。	Affects the initial level of Artifact Mastery, Spell and Protection when a character becomes an inner disciple.
-影响岐黄，巧匠技巧，在进入内门时转化为炼丹，炼器的比例。	Affects healing and crafting skill. These will be converted into Alchemy and Artifact Crafting when a character becomes an inner disciple.
-影响角色驾驭法宝的能力。	Affects a character's ability to use artifacts.
-影响角色施展咒法的能力。	Affects a character's ability to cast spells.
-影响角色灵气抵挡伤害的能力。	(Protection) Affects a character's ability to defend themself against damage using Qi.
-影响角色结阵的能力。	Affects a character's ability to form formations.
-影响角色灵气最大值。	Affects a character's Max Qi.
-影响炼丹时的速度，炼丹时的产量，炼丹时的成功率。	Affects speed, output and success rate of alchemy.
-影响制作物品品质等。	Affects the quality of crafted Items.
-影响炼器时的速度，炼器产品的质量，炼器成功率以及炼器品阶加成。	Affects speed, product quality, success rate and tier bonus of artifact crafting.
-影响制药速度，治疗外门伤的疗效等	Affects the speed of creating medicine and their effectiveness of treating physical wounds.
-影响制作物品速度，制作物品品质等。	Affects speed and product quality when creating items.
+影响进入内门时，御物，术法，护体的初始等级。	Afeta o nível inicial de Domínio de Artefato, Feitiço e Proteção quando um personagem se torna um discípulo interno.
+影响岐黄，巧匠技巧，在进入内门时转化为炼丹，炼器的比例。	Afeta a habilidade de cura e criação. Estes serão convertidos em Alquimia e Criação de Artefatos quando um personagem se tornar um discípulo interno.
+影响角色驾驭法宝的能力。	Afeta a habilidade de um personagem de usar artefatos.
+影响角色施展咒法的能力。	Afeta a habilidade do personagem de lançar feitiços.
+影响角色灵气抵挡伤害的能力。	(Protection) Afeta a habilidade de um personagem de se defender contra danos usando Qi.
+影响角色结阵的能力。	Afeta a habilidade de um personagem de formar formações.
+影响角色灵气最大值。	Afeta o Max Qi de um personagem.
+影响炼丹时的速度，炼丹时的产量，炼丹时的成功率。	Afeta a velocidade, a produção e a taxa de sucesso da alquimia.
+影响制作物品品质等。	Afeta a qualidade dos itens criados.
+影响炼器时的速度，炼器产品的质量，炼器成功率以及炼器品阶加成。	Afeta a velocidade, qualidade do produto, taxa de sucesso e bônus de nível de criação de artefatos.
+影响制药速度，治疗外门伤的疗效等	Afeta a velocidade de criação de medicamentos e sua eficácia no tratamento de feridas físicas.
+影响制作物品速度，制作物品品质等。	Afeta a velocidade e a qualidade do produto ao criar itens.
 春	Spring 
 夏	Summer 
 秋	Autumn 
@@ -3672,10 +3672,10 @@ Trap编辑。	Trap Edit.
 信徒数量\n靠行走天下获得。在开辟神国之前，你最多只能拥有1000个信徒。	Número de seguidores\nObtido de viajar ao redor do mundo. Antes de estabelecer um Reino Divino, você pode ter no máximo 1.000 seguidores.
 分神：\n已获得：{0}\n可寄托：{1}\n已寄托：{2}({4})\n未获得：{3}	Sub-spirits: \nObtained: {0}\nAvailable to attach: {1}\nAttached: {2}({4})\nNot Obtained: {3}
 可提高灵宠锻炼的效果以及解锁更多行为。	Improves the effects of Pet exercise and unlock more Acts.
-影响灵宠的灵气上限。	Affects the Pet's Qi Cap.
-影响灵宠内丹的各项属性。	Affects the Pet's stats of its Internal Core.
-影响灵宠的灵气护盾强度。	Affects the Pet's Qi Barrier Power.
-影响灵宠的术法威力和灵气消耗。	Affects the Pet's Spell Power and Qi Cost.
+影响灵宠的灵气上限。	Afeta o Qi Cap do Pet.
+影响灵宠内丹的各项属性。	Afeta as estatísticas do Pet de seu Núcleo Interno.
+影响灵宠的灵气护盾强度。	Afeta o Poder da Barreira de Qi do Pet.
+影响灵宠的术法威力和灵气消耗。	Afeta o poder mágico e o custo de Qi do Pet.
 {0}:{1}\n通过锻炼可以提高，{0}营养越高，提高越快。	{0}:{1}\nCan be improved through exercise. The higher the nutrition {0}, the faster it can be improved.
 {0}营养：{1:N0}\n营养上限：100\n营养越高，对应的属性成长越快，消耗也越多，通过不同的饮食习惯来影响当前营养。	{0} Nutrition: {1:N0}\nNutrition cap: 100\nThe higher the nutrition, the faster the corresponding stats grow and the more it consumes. You can affect the current nutrition with different dietary habits.
 半妖型态的妖族在一定时间后都将面对化形天劫，成功度过即可成功化为人形，失败则会被打回原型。灵智碎片越多天劫便越快降临。	Yaoguai em formas semi-humanas enfrentará a Tribulação de Metamorfose após um período de tempo. Aqueles que tiverem sucesso mudarão de forma para formas humanas, enquanto aqueles que falharem serão revertidos para suas aparências originais. Quanto mais fragmentos de inteligência houver, mais cedo a tribulação chegaria.
