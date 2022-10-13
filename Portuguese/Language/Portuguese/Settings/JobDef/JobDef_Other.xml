@@ -73,10 +73,10 @@
 			<DisplayName>Slumber</DisplayName>
 		</Text>
 		<Text Name="JobWaitCMD">
-			<DisplayName>Wait For Orders</DisplayName>
+			<DisplayName>Esperando Ordens</DisplayName>
 		</Text>
 		<Text Name="JobRobItem">
-			<DisplayName>Take By Force</DisplayName>
+			<DisplayName>Tomar pela força</DisplayName>
 		</Text>
 		<Text Name="JobZhenStart">
 			<DisplayName>Form Formation</DisplayName>
@@ -88,35 +88,35 @@
 			<DisplayName>Change Formation</DisplayName>
 		</Text>
 		<Text Name="JobPerformWithBuilding">
-			<DisplayName>Work</DisplayName>
+			<DisplayName>Trabalhar</DisplayName>
 		</Text>
 		<Text Name="JobPerformFree">
-			<DisplayName>Wander</DisplayName>
+			<DisplayName>Vagar</DisplayName>
 		</Text>
 		<Text Name="JobTryTalk">
-			<DisplayName>Talk</DisplayName>
+			<DisplayName>Falar</DisplayName>
 		</Text>
 		<Text Name="JobGotoAndStay">
-			<DisplayName>Go to</DisplayName>
-			<Desc>Go to</Desc>
+			<DisplayName>Va para</DisplayName>
+			<Desc>Va para</Desc>
 		</Text>
 		<Text Name="JobJGTunShi">
-			<DisplayName>Devour</DisplayName>
+			<DisplayName>Devorar</DisplayName>
 		</Text>
 		<Text Name="JobJGRevival">
-			<DisplayName>Revive</DisplayName>
+			<DisplayName>Reviver</DisplayName>
 		</Text>
 		<Text Name="JobYsThink">
-			<DisplayName>Think</DisplayName>
+			<DisplayName>Pensar</DisplayName>
 		</Text>
 		<Text Name="JobStudyThing">
-			<DisplayName>Observe</DisplayName>
+			<DisplayName>Observar</DisplayName>
 		</Text>
 		<Text Name="JobYsToHuman">
 			<DisplayName>Awaken Intelligence</DisplayName>
 		</Text>
 		<Text Name="JobGoFishing">
-			<DisplayName>Fish</DisplayName>
+			<DisplayName>Peixe</DisplayName>
 		</Text>
 	</List>
 </Texts>
