@@ -385,13 +385,13 @@
 鼎炉潜力几尽枯竭，炼精化气效率较慢。	Potencial do Caldeirão Interno próximo ao esgotamento; baixa eficiência de conversão de Stamina.
 满	Bursting
 鼎炉潜力开发至极限，需结丹以突破鼎炉之限。	Potencial do Caldeirão Interior extremamente desenvolvido; eficiência de conversão de Stamina muito lenta.
-护御	Protection
-修行	Practice
+护御	Proteção
+修行	Pratica
 仇恨	Hatred
-敌视	Hostile
-冷淡	Indifferent
-友好	Friend
-尊敬	Respect
+敌视	Hostil
+冷淡	Indiferente
+友好	Amigo
+尊敬	Respeito
 影响值是处理代理点事务的资源。主要用于建设重要建筑比如奇观和主殿，以及各种政策的消耗。主殿每日会产出影响值，在某些事件中使用处世手段也可以获得。	Influência é um recurso usado para gerenciar os negócios de qualquer agência. Por exemplo, construir maravilhas e salões principais, implementar políticas e assim por diante. A influência será produzida pelo salão principal todos os dias, ou adquirida através de habilidades sociais em determinados eventos.
 略有灵韵	Mild Spirit
 灵韵天生	Natural Spirit
@@ -531,8 +531,8 @@
 绝学	Secret Knowledge
 弱点	Weakness
 执念	Weakness
-心仪之物	Favorites
-厌恶之物	Dislikes
+心仪之物	Favoritos
+厌恶之物	Não gosta
 隐秘	Mystery
 随身宝物	Personal Treasure
 软弱	Weak
@@ -545,10 +545,10 @@
 _结局	_The End
     天苍历245年，腊月。\n    立派于月轮山的正道门派太一门，突遭外敌入侵。太一门掌教虽临阵突破金丹，但却在追击敌人时身陷绝龙阵，最终陨落。\n    是夜，太一门满门尽灭。仅有数名外门弟子在传功长老的帮助下逃出山门……	    Year 245 of the Tiancang Era, December. \n    The Taiyi sect, which had established itself near Mt.Fullmoon, was suddenly invaded by enemies. Although the sect leader had performed a breakthrought into Golden Core right before the battle, they ambushed him with a Dragon-Killer Formation as he was in pursuit—this became his undoing.\n    That night, almost the entire Taiyi sect was massacred. Only a handful outer disciples managed to escape the mountain with the help of an elder...
 选择存档	Choose a save file
-今天的{0:N0}点	{0:N0} today
-{0:N0}个小时后	{0:N0} hours later
+今天的{0:N0}点	{0:N0} hoje
+{0:N0}个小时后	{0:N0} Horas Depois
 {0}天后的{1:N0}点	{0} days later at {1:N0} o'clock
-微乎其微	Insignificant
+微乎其微	Insignificante
 {0}成	{0}0 % 
 十	Ten
 一	One
@@ -611,9 +611,9 @@ _结局	_The End
 酉时,日落时分,日沉之刻,傍晚时分,暮色怅晚,鸟倦云舒	It is about 17:00–19:00, light spring up from hovel big and small
 戌时,黄昏时分,日夕之刻,日暮时分,起更之时,华灯初上	It is about 19:00–21:00, darkness returns suppressing the last light
 亥时,人定之时,二更时分,夜深人静,月上柳梢,夜幕深沉	It is about 21:00–23:00, the world is shrouded in darkness and animals roam
-舒服	Comfortable
+舒服	Confortavel
 开心	Delighted
-工作	Work
+工作	Trabalho
 在工作之时，正感觉有点无聊	Working; feels a bit bored
 在工作之时，突然心有所感	Working; gets a sudden feeling
 在工作间余，刚小憩片刻	Taking a break in-between work
@@ -808,13 +808,13 @@ _结局	_The End
 正惬意的享受自己的娱乐时间	Enjoying recreation time
 刚刚玩了个痛快，正准备收收心	Had some great fun already; preparing to get back to work
 正无所事事的消磨着时光	Messing around to kill some time
-走路	Walking
+走路	Andando
 正匆匆赶路	Walking hurriedly
 正兴高采烈的赶路	Walking cheerfully
 正面无表情的赶路	Walking indifferently
 正慢悠悠的走路	Walking slowly
 赶路时略感疲惫，正准备歇一歇脚	Feeling tired after walking; going to get some rest
-搬运	Transporting
+搬运	Transportando
 在搬运之时，正感觉有点无聊	Transporting goods; feels a bit bored
 在搬运间余，刚小憩片刻	Transporting goods; taking a break
 在搬运之时，正在胡思乱想	Transporting goods; distracted by thoughts
@@ -961,7 +961,7 @@ _结局	_The End
 交易区	Trade Area
 等候命令	Waiting for order
 重新激活	Reactivate
-等待	Wait
+等待	Esperar
 拜祖师	Worshipping ancestors
 开启阵法	Activate Formation
 命令与行为	Order & Action
@@ -1008,8 +1008,8 @@ _结局	_The End
 体积 : {0:P0}	Volume: {0:P0}
 拖尾长度 : {0:N1}米	Trail Length: {0:N1}m
 飞行速度 : {0:P1}	Fly Speed: {0:P1}
-友方	Allies
-敌方	Enemies
+友方	Aliados
+敌方	Inimigos
 目标阵营	Target Faction
 作用阵营	Affected Faction
 {0}\n{5}：{4}\n目标类型：{3}\n阵法中每人消耗灵气：{1:N0}点\n阵法灵机：{2}点\n	{0}\n{5}: {4}\nTarget Type: {3}\nQi cost/person in the circle: {1:N0} points\nFormation Energy: {2} points\n
@@ -1053,10 +1053,10 @@ _结局	_The End
 只有对炼器之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Only when the character gains enough understanding of Artifact Crafting (Lv.20 and higher), they can attach that epiphany to their equipment.
 只有道行精深的修行者（300以上），才能将修炼的感悟寄托于装备。	Only a cultivator with a high attainment (300 and higher) can attach the cultivation epiphany to their equipment.
 神兽灵智	Spirituality
-抱拳	Greet
-疑惑	Question
-臣服	Surrender
-失败	Fail
+抱拳	Saudar
+疑惑	Pergunta
+臣服	Render
+失败	Falhou
 你们悉数被击败，已无人有一战之力，一股巨大的力量将你们推出了此地。	You have been defeated one by one and none of you is able to fight back. A strong force has pushed you out of this place.
 尚有未结束的战斗	Unfinished battle
 尚有角色处于隐匿状态	Hidden character(s)
@@ -1100,13 +1100,13 @@ _结局	_The End
 祭拜	Worship
 打水	Draw Water
 扫地	Sweep Floors
-迷惑	Confusion
+迷惑	Confusão
 许愿	Make a Wish
 {0} 享用:{1}	{0} used: {1}
-规划行程	Plan Journey
+规划行程	Planejar Jornada
 休息	Rest
-规划路线	Plan Route
-探索	Explore
+规划路线	Planejar Rota
+探索	Explorar
 面向	Face
 挖土	Dig
 喂食	Feed
@@ -1119,9 +1119,9 @@ _结局	_The End
 放灯	Release Lantern
 被{0}屠宰	was butchered by {0}.
 前往	Go to 
-击杀	Kill
+击杀	Matar
 被{0}击杀	 was killed by {0}.
-历练	Adventure
+历练	Aventura
 驻扎	Camp
 征伐	Conquest
 放下收获	Place Harvest
@@ -1156,12 +1156,12 @@ _结局	_The End
 仔细观察了一番，但思绪碎片过多，无法获得。	Despite careful observation, there are too many pieces of Thought Shards. Unable to obtain.
 思考之前无法通过观察获得更多关于{0}的思绪	Unable to obtain any more Thoughts about {0} through observation before Thinking.
 观察{0}之后未能获得任何思绪碎片。	Failed to obtain any Thought Shards after observation of {0}.
-交流	Talk
-打架	Fighting
+交流	Falar
+打架	Lutando
 接受治疗	Accepting Healing
 等待收留	Awaiting Admission
 等待帮助	Awaiting Help
-收留	Accept
+收留	Aceitar
 提供帮助	Help
 驱逐	Banish
 劝说留下	Persuade to Remain
@@ -1208,18 +1208,18 @@ _结局	_The End
 收徒	Apprentice
 被夺舍	Become Possessed
 夺舍	Possess
-接受传授	Learn
-传授	Teach
-停留	Stay
+接受传授	Aprender
+传授	Ensinar
+停留	Ficar
 跟随{0}	Follow {0}
-沉睡	Sleep
+沉睡	Dormir
 思考，剩余{0:N0}秒	Thinking, {0:N0} sec remaining
 觉醒灵智	Awaken Intelligence
 觉醒灵智，剩余{0:N0}秒	Awakening Intelligence, {0:N0} sec remaining
 文中含有敏感词汇，请斟酌后重书。	This contains sensitive words. Please rewrite and try again.
 阵法运转	Formation Operation
 建造:{0}	Build: {0}
-伐木	Cut Wood
+伐木	Corta Madeira
 移除:{0}	Remove: {0}
 拆除:{0}	Demolish: {0}
 老子好饿，只能吃土了！	I'm so hungry I'll even eat soil!
@@ -1229,8 +1229,8 @@ _结局	_The End
 维修:{0}	Repair: {0}
 娱乐:{0}	Leisure: {0}
 摔倒	Fell
-前往:{0}	Go to: {0}
-前往:目标点	Go to: Target Area
+前往:{0}	Vá para: {0}
+前往:目标点	Vá para: Target Area
 收获:{0}	Gather: {0}
 倒地	Flopped
 取下置物台物品	Remove Display Items
@@ -1252,7 +1252,7 @@ _结局	_The End
 {0}正在发挥药效	{0}Medicine taking effect
 治疗:{0}上的{1}	Heal: {0}'s {1}
 孵化中	Hatching
-进攻	Attack
+进攻	Atacar
 夺剑	Sword Snatching
 施放	Fire
 聚气	Qi Gathering
@@ -1349,7 +1349,7 @@ _结局	_The End
 门派图鉴需要玩家拜山对应的门派来点亮。	Para desbloquear o conteúdo da Enciclopédia da Seita, você precisa visitar as seitas correspondentes.
 地点图鉴需要玩家前往目标地点历练来点亮。	Para desbloquear o conteúdo da Enciclopédia de Locais, você precisa viajar para esses locais para aventuras.
 修炼方式图鉴的内容需要在游戏中通过该方法修炼来点亮。	Para desbloquear o conteúdo da Enciclopédia de Métodos de Cultivo, você precisa cultivar com os métodos correspondentes no jogo.
-通过在地图环境中选择特定环境解锁。	Select specific environment in map to unlock.
+通过在地图环境中选择特定环境解锁。	Selecione o ambiente específico no mapa para desbloquear.
 请先在地图中创建所需建筑及物品，接着通过建筑菜单中的蓝图/导出蓝图 框选一个最大不超过20x20的区域，将其中的建筑（包括置物台上符合条件的物品）导出为建筑蓝图	Please create the required buildings and items in the map, and choose an area no larger than 20*20 spaces via Blueprint/Export Blueprint in the Building menu, exporting the buildings (including available items on Displays) as a blueprint.
 未选择需要上传的内容	You have not selected any content to upload.
 单次上传的建筑蓝图最多允许 20 个	Each upload can only have 20 building blueprints.
@@ -1360,7 +1360,7 @@ _结局	_The End
 [作者]\r\n    	[Author]\r\n    
 [简介]\r\n	[Intro]\r\n
 [内容]\r\n	[Content]\r\n
-\n此模组含有DLC{0}的内容	\nThis MOD contains content from DLC: {0}
+\n此模组含有DLC{0}的内容	\nEste MOD contém conteúdo de DLC: {0}
 建筑蓝图 {0} 数据写入中...	Loading blueprint {0}…
 现在退出未保存的数据将丢失	If you quit now, unsaved progress will be lost.
 蓝图丢失	Blueprint lost
@@ -1393,11 +1393,11 @@ _结局	_The End
 插入第三人称代词（他/她）	Choose third-person pronoun (male/female).
 插入语第三人称物主代词（他的/她的）	Choose a third-person possessive pronoun (his/her).
 确定删除以下背景故事吗？\n\n{0}	Do you want to delete the following background? \n\n{0}
-删除成功	Deleted.
+删除成功	Deletado.
 注意：修改已存在背景故事的分类可能会导致引用轮回者相应背景丢失。	Note: Changing any existed background's category may cause the loss of relevant reincarnator's background.
 不再提醒	Don't show this again
 好的	Okay
-新故事	New Story
+新故事	Nova Historia
 输入数值	Enter Value
 添加特性	Add Trait
 请选择需要保存的内容	Select content to save.
@@ -1480,7 +1480,7 @@ Name	Name
 新武器	New Weapon
 新其他装备	New Other Equipment
 新秘籍	New Manual
-单次上传的物品最多允许 20 个	You can only upload 20 items at a time.
+单次上传的物品最多允许 20 个	Você só pode fazer upload de 20 itens por vez.
 上传的内容中有未保存的物品，请先保存	There are unsaved items in the uploaded content. Please save first.
 等物品	Items
 自定义物品 {0} 数据写入中...	Custom Item {0}'s data is being written…
@@ -1490,7 +1490,7 @@ Name	Name
 俊	some
 美	Beauti
 丽	ful
-物品缺少名称无法保存	Cannot save an unnamed item.
+物品缺少名称无法保存	Não é possível salvar um item sem nome.
 装备缺少主材料无法保存	Cannot save as main material is missing.
 {0} 缺少产出建筑无法保存	{0} does not have output buildings, unable to save.
 {0} 缺少产出方式无法保存	{0} does not have output methods, unable to save.
@@ -1689,14 +1689,14 @@ Name	Name
 (阴)	(Yin)
 怀孕中	Pregnant
 幻影	Phantom
-额外掉落需要在精英怪上才能生效	Only elite monsters can grant extra drops.
-被角色的灵性影响无法转换阵营。	Unable to turn due to character's blessing.
-门派人数已达上限	Reached the maximum sect population
+额外掉落需要在精英怪上才能生效	Apenas monstros de elite podem conceder drops extras.
+被角色的灵性影响无法转换阵营。	Incapaz de virar devido à bênção do personagem.
+门派人数已达上限	Atingiu a população máxima da seita
 妖兽无法被转换阵营	Beasts cannot be turned to your side.
 大能无法被转换阵营	Sages cannot be turned to your side.
 行商无法被转换阵营	Merchants cannot be turned to your side.
 灵兽无法被转换阵营	Spirit Pets cannot be turned to your side.
-体修无法转换阵营。	Physical cultivators cannot be turned to your side.
+体修无法转换阵营。	Os cultivadores físicos não podem se voltar para o seu lado.
 幼年期	Child Stage
 成长期	Learning Stage
 成年期	Mature Stage
@@ -1708,7 +1708,7 @@ Name	Name
 获得符咒：{0} X {1}	Obtained Talisman: {0} X {1}
 获得神民：{0}	Divine Residents Obtained: {0}
 {0}的{1}受伤了!	{0}'s {1} is hurt!
-{0}受伤了!	{0} is hurt!
+{0}受伤了!	{0} está machucado!
 门派声望	Sect's Reputation
 门派善名	Sect's Good Reputation
 门派恶名	Sect's Bad Reputation
@@ -1736,8 +1736,8 @@ Name	Name
 轻身符	Agility Talisman
 怠工	Slack off
 阳寿已尽	Deceased
-同意	Agree
-拒绝	Refuse
+同意	Aceitar
+拒绝	Refusar
 人心叵测	Distrusting
 人心惶惶	Suspicious
 蒸蒸日上	Thriving
@@ -1759,8 +1759,8 @@ Name	Name
 {0}发生事件:{1}	Event in {0}: {1}
 物资不足	Insufficient resources
 {0}发生灾难：{1}	Disaster in {0}: {1}
-招揽而来	Recruited
-招揽弟子	Recruit Disciple
+招揽而来	Recrutado
+招揽弟子	Recruitar Discipulo
 无法习得秘籍\n	Unable to learn manual.\n
 已领悟\n	Learned\n
 秘籍异常\n	Manual Error\n
@@ -1793,10 +1793,10 @@ Name	Name
 {0}瓶颈突破成功	{0}'s breakthrough successful
 仙人{0}经过无量劫难，度{1}重天劫，于天苍历{2}年{3}斩断尘缘，以{4}证得灵仙之境。	After undergoing numerous trials, {0} was struck by Heaven's tribulation {1}; in the {3} of the year {2} of the Tiancang Era, {0}'s left its mortal body and attained immortality due to {4}.
 天劫	Heavenly Tribulation
-瓶颈突破失败	Failed to breakthrough
-遇到瓶颈	 reached a limit.
-修行运转之法	Practice Vortex Law
-伪造的	Fake
+瓶颈突破失败	Falhou o breakthrough
+遇到瓶颈	 atingiu um limite.
+修行运转之法	Praticar Vortex Law
+伪造的	Falso
 \n但似乎是伪造的，效果大打折扣。	\nBut it seems to be a fake and its effects are greatly diminished.
 一张随意为之但充满想象力的符咒，不知道会有什么神奇的效果。	A symbolic talisman brimming with imagination. I wonder what marvelous effects it contains.
 {0}获得淬体之法：[{1}]\n{2}	{0} acquired Remold Spell: [{1}]\n{2}
@@ -1844,9 +1844,9 @@ Name	Name
 应天争夺失败	Lose the Heaven Echo fight
 非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试再次存档或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	We're terribly sorry but your game failed to save.\nYou might want to rage and blame us developers at the moment, and we understand you as this shouldn't have happened.\nSorry! Please try to save again or load an old save.\nIf you need help or wish to report an issue, please contact us at QA@GSQStudio.com.
 无门派	No Sect
-天下门派	World Sects
-门派传闻	Sect Rumor
-无门无派	Unaffiliated
+天下门派	Seitas Mundiais
+门派传闻	Boato da seita
+无门无派	Não afiliado
 门派ID>=500会带来未知的异常	Sect ID>=500 will cause unknown problems.
 由{0}建立的新兴修仙门派，势力强劲且还在成长。	A new sect established by {0}. They are powerful and continues to grow.
 天苍历{0}年，在修行界{1}的{2}覆灭。	{1}'s {2} was destroyed in Tiancang Era, year {0}.
@@ -1927,7 +1927,7 @@ Name	Name
 生产命令需要在相应的建筑上发布，命令发布后角色会自动搬运原材料，并完成生产任务。	Production orders need to be given at the right structure. Once the order has been set, characters will automatically move the material to said structure and complete the task.
 选择熔炉。	Select the furnace.
 点击生产按钮。	Click Produce.
-添加寒晶锭到队列中。	Add Ice Crystal Bar to the queue.
+添加寒晶锭到队列中。	Adicione Ice Crystal Bar na fila.
 等待生产完成。	Wait until the bar has been smelted.
 很好，现在建造一个寒晶鼎来改变我闭关处的五行属性。	Good. Now, build an Ice Crystal Cauldron and change the elemental attribute where I practice.
 建筑是发展门派的核心内容。使用主材料的不同，建筑也会拥有不同的属性，并以此来影响周围的环境。\n例如：寒晶锭建造的建筑，会使周围的水属性增多。	Structures are the core of developing a sect. A building's attribute depends on the main material used in the construction, and its attribute also affects the surrounding environment.\nFor example, a structure made from Ice Crystal Bars will increase the surrounding Water attribute.
@@ -1940,7 +1940,7 @@ Name	Name
 在工作计划面板中，为角色勾选[筑工]。	Head to Schedule and Select [Builder] for the character.
 等待建造完成。	Wait until the construction is complete.
 做的很好，天时地利皆备，我要开始突破了。你速去激活护山大阵以拖延时间。	Well done. Now, as all the conditions are right, I will begin my breakthrough. Please hurry up and activate the Sword Shield to buy us some time.
-弟子遵命！	Yes, Master!
+弟子遵命！	Sim, Mestre!
 你等贼人，竟然趁老夫闭关犯我太一门，如今我金丹已成，尔等受死吧！	Cowards! How dare you attack us while I am in closed cultivation. Now that I've reached the Golden Core state, prepare to die!
 接招，看我太虚神剑！！	Taste my Celestial Sword!
 本座已成上品金丹，我太一门今日便以妖人之血，立威天下！诸弟子听令，速速跟随本座追杀敌人，除恶务尽！	I have reached the Golden Core state. Our Taiyi Sect will make an example out of these wicked souls! All disciples, heed my order: Chase down our enemies and spare no one!
@@ -2547,9 +2547,9 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 濒死	Dying
 (发呆)	(Trance)
 {2}\n灵气值：{0:N0}/{1:N0}\n法宝在空闲时，或灵气耗完后会从角色身上吸取灵气。	{2}\nQi: {0:N0}/{1:N0}\nWhen an artifact is idle or has used up its Qi, it will absorb Qi from the character.
-选择地点	Select a location.
+选择地点	Selecione um local.
 经验加成	XP
-从之前突破失败中获得的成功率加成。失败次数越多，成功率越高。	Failed breakthroughs increase the success rate additively.
+从之前突破失败中获得的成功率加成。失败次数越多，成功率越高。	Avanços fracassados ​​aumentam a taxa de sucesso de forma aditiva.
 心境加成	Mental State
 突破时的心境对突破成功率的影响。	Mental State affects the success rate of breakthrough.
 附加加成	Additional
