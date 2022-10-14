@@ -1,40 +1,40 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Rest">
-			<Desc>Rest</Desc>
-			<Tip>Sleeping recovers Energy.</Tip>
+			<Desc>Descanso</Desc>
+			<Tip>Dormir recupera Energia.</Tip>
 		</Text>
 		<Text Name="Eat">
-			<Desc>Eat</Desc>
-			<Tip>Eating Food: once in the Learning Stage, you can select food in the panel.</Tip>
+			<Desc>Comer</Desc>
+			<Tip>Comer Comida: uma vez no Estágio de Aprendizagem, você pode selecionar comida no painel.</Tip>
 		</Text>
 		<Text Name="Fun">
-			<Desc>Leisure</Desc>
-			<Tip>Increase leisure. Different behaviors' increasing rate will vary.</Tip>
+			<Desc>Lazer</Desc>
+			<Tip>Aumente o lazer.  A taxa crescente de comportamentos diferentes irá variar.</Tip>
 		</Text>
 		<Text Name="Shit">
-			<Desc>Defecate</Desc>
-			<Tip>Defecation is possible in different places.</Tip>
+			<Desc>Defecar</Desc>
+			<Tip>A defecação é possível em diferentes lugares.</Tip>
 		</Text>
 		<Text Name="Attack">
-			<Desc>Attack</Desc>
-			<Tip>Attack all types of characters.</Tip>
+			<Desc>Ataque</Desc>
+			<Tip>Ataque todos os tipos de personagens.</Tip>
 		</Text>
 		<Text Name="Help">
-			<Desc>Help</Desc>
-			<Tip>Help Inner Disciples or Outer Disciples.</Tip>
+			<Desc>Ajuda</Desc>
+			<Tip>Ajude os Discípulos Internos ou Discípulos Externos.</Tip>
 		</Text>
 		<Text Name="HighHelp">
-			<Desc>Advanced Help</Desc>
-			<Tip>Assist with Practice. Requires 80 Intelligence to unlock.</Tip>
+			<Desc>Ajuda avançada</Desc>
+			<Tip>Auxiliar na prática.  Requer 80 de Inteligência para desbloquear.</Tip>
 		</Text>
 		<Text Name="Carry">
-			<Desc>Haul Characters</Desc>
-			<Tip>Haul unconscious or deceased characters. Requires 50 Intelligence to unlock.</Tip>
+			<Desc>Personagens de transporte</Desc>
+			<Tip>Transporte personagens inconscientes ou falecidos.  Requer 50 de Inteligência para desbloquear.</Tip>
 		</Text>
 		<Text Name="Train">
-			<Desc>Exercise</Desc>
-			<Tip>Exercise raises all Stats and the effects of it can be improved with food and drink. The greater the effects of the food and drink consumed, the greater the results of training will be. Must reach Learning Stage to unlock.</Tip>
+			<Desc>Exercício</Desc>
+			<Tip>O exercício aumenta todas as estatísticas e os efeitos podem ser melhorados com comida e bebida.  Quanto maiores os efeitos dos alimentos e bebidas consumidos, maiores serão os resultados do treino.  Deve atingir o estágio de aprendizado para desbloquear.</Tip>
 		</Text>
 	</List>
 </Texts>
