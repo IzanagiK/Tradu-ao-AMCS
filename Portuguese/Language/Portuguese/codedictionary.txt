@@ -2184,12 +2184,12 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 请选择归属	Assign the branch.
 {0}\n堂主：{1}\n\n专精：{2}\n{3}	{0}\nBranch Leader: {1}\n\nExpertise: {2}\n{3}
 指定动物	Assign Animals
-指定动物活动区域	Specify an area for animals.
+指定动物活动区域	Especifique uma área para animais.
 炼化增补 	Refining Supplement 
 炼化同源之物，以增强自身实力。	Refine objetos da mesma origem para aumentar seu próprio poder.
 自我修复 	Auto-reparável
 在失去肢体后，吞食建筑材料（木料，金属锭，石块）积累修复度，当修复度积累到100后，就可以完全修复自身损失的部位。	Depois de perder membros, engula materiais de construção (madeira, barras de metal, pedras) para acumular reparos. Quando o reparo atingir 100, todas as peças danificadas serão totalmente recuperadas.
-训练	Train
+训练	Treinar
 赞同或反对灵宠的行为，使其执行行为的权重改变。	Aprovar ou desencorajar determinados comportamentos do seu animal de estimação, influenciando na sua preferência valores de peso de diferentes comportamentos, alterando assim a forma como ele age.
 基础信息	Básico
 灵宠信息	Pet Info
@@ -2197,10 +2197,10 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 吞噬	Devorar
 吞噬目标物品，以强大的的肉体将其精华提炼而出。吞噬能力与格物技能等级，消化系统的淬炼程度有关。\n目前最高可吞噬[color=#990000][my_property=BodyPractice_EatItemMaxRate|{0:F2}]阶[/color]的物品。	Devore o item alvo e extraia a essência desse item com um corpo forte. A habilidade de devorar está relacionada ao nível de habilidade de compreensão e ao grau de remodelação do sistema digestivo.\nAtualmente, você pode devorar[color=#990000]Nível [my_property=BodyPractice_EatItemMaxRate|{0:F2}][/color] itens no máximo.
 选择一个道具,其他角色会将其喂给此角色。	Selecione um item e outro personagem alimentará o personagem.
-装备道具	Equip
+装备道具	Equipar
 装备或者拾取一个道具	Equipar ou pegar um item
 拾取一个物品，注意这可能会惹别人生气。	Pegue um item. Pode irritar outras pessoas.
-画符	Draw
+画符	Desenhar
 绘制一张灵符。	Draw a talisman.
 将一个普通物品炼制成战斗法宝,需要[color=#FF0000]炼宝台[/color]。	Transforme um item comum em um artefato de batalha. Requer uma [color=#FF0000]Mesa de artesanato[/color].
 \n需要炼器等级:	\nRequer Criação de Artefato:
@@ -2217,7 +2217,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 \n需要炼丹等级:	\nRequired Alchemy Level:
 选择要炼制的丹药	Select what elixir to create.
 传授给低辈弟子符合其境界的秘籍，参悟消耗降低25%。如果是自身弟子，则再额外降低25%。\n当选择了传授多个秘籍后，传授者会逐个等待弟子参悟值足够时再进行传授。	Fornece um manual adequado ao estado do discípulo júnior (o custo de XP de inspiração é reduzido em 25%). Para o discípulo do personagem, o custo é reduzido em mais 25%.\nAo transmitir vários manuais, o instrutor aguardará para transmiti-los até que o discípulo tenha XP de Inspiração suficiente.
-狩猎	Hunt
+狩猎	Caçar
 狩猎这个动物并进行屠宰	Cace este animal e mate-o.
 屠宰这个动物获得产物。	Corte este animal para obter produtos.
 搜索这个角色，获得他身上的道具。	Search this character to acquire items.
@@ -2229,46 +2229,46 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 门派弟子数量达到上限:{0}。\n你可以扩大门派规模或者将其他弟子踢出门派。	O número de discípulos atingiu o limite: {0}.\nVocê pode aumentar o tamanho de sua seita ou chutar outro discípulo.
 帮助	Ajuda
 为他提供帮助	Ajude esta pessoa.
-请教	Consult
-请教神秘人。	Consult the mysterious person.
-劝说	Persuade
-试着劝说这个人留在门派	Persuade the person to stay in the sect.
-指定一个角色进行劝说	Assign a character to persuade him.
+请教	Consultar
+请教神秘人。	Consulte a pessoa misteriosa.
+劝说	Persuadir
+试着劝说这个人留在门派	Persuadir a pessoa a permanecer na seita.
+指定一个角色进行劝说	Atribua um personagem para persuadi-lo.
 成功率:{0}\n	Success Rate: {0}\n
-我们什么都不会答应你，你走吧	We won't promise you anything. Please, leave.
-前往其他地方进行历练	Go and adventure somewhere else.
-选择一个金丹期或以上境界的内门弟子拜师。	Select an inner disciple with Golden Core state or higher to acknowledge as master and study from them.
-请选择合适的内门弟子	Please select a suitable inner disciple.
-取消研习藏经阁秘籍。	Cancel studying the manuals in the Manual Pavilion.
+我们什么都不会答应你，你走吧	Não vamos prometer nada. Por favor saia.
+前往其他地方进行历练	Vá e aventure-se em outro lugar.
+选择一个金丹期或以上境界的内门弟子拜师。	Selecione um discípulo interno com o estado Golden Core ou superior para reconhecer como mestre e estudar com eles.
+请选择合适的内门弟子	Por favor, selecione um discípulo interno adequado.
+取消研习藏经阁秘籍。	Cancele o estudo dos manuais no Pavilhão do Manual.
 阴神夺舍	Lesser Possession
-低端夺舍方式，夺取一个无修为活物的身体。永久降低全部属性。	A basic way of possession. Possesses a living body with no spiritual power. Permanently lowers all stats.
+低端夺舍方式，夺取一个无修为活物的身体。永久降低全部属性。	Uma forma básica de posse. Possui um corpo vivo sem poder espiritual. Reduz permanentemente todas as estatísticas.
 阳神夺舍	Greater Possession
-高级夺舍方式，完全夺取一个无修为活物的身体，无负面作用。	A potent way of possessing. Completely possesses a living body with no spiritual power. No negative effect.
-跟随	Follow
-跟随一个友方角色	Follow an ally.
-取消跟随	Stop Following
-取消跟随当前目标	Stop following the current target.
+高级夺舍方式，完全夺取一个无修为活物的身体，无负面作用。	Uma forma potente de possuir. Possui completamente um corpo vivo sem poder espiritual. Nenhum efeito negativo.
+跟随	Seguir
+跟随一个友方角色	Siga um aliado.
+取消跟随	Parar de seguir
+取消跟随当前目标	Pare de seguir o alvo atual.
 尝试与这个单位交流。\n处事等级及对方对门派的好感度会影响交流结果，但也不是每件事都会直接告诉你。	Try to communicate with this unit. \nYour social skills and their favor of the sect will affect the result of the communication, but they may not tell your everything.
 灵魂拷问	Soul Interrogation
-对弥留的角色进行灵魂拷问，尝试获得对方的秘密。\n拷问会加速角色死亡。	Interrogate the dying character, trying to know their secrets. \nInterrogation will make the character die faster.
-隐匿	Hide
-隐匿气息，降低被发现的概率。\n离开隐匿需要五秒。	Hide presence to lower the chance of being discovered. \nTakes 5 sec to undo hiding.
-交易	Trade
-与行商交易。	Trade with the merchant.
-交谈	Talk
-与行商交谈。	Talk with the merchant.
-捕获	Catch
-捕获小动物。	Catch small animals.
-收养	Adopt
+对弥留的角色进行灵魂拷问，尝试获得对方的秘密。\n拷问会加速角色死亡。	Interrogue o personagem moribundo, tentando conhecer seus segredos. \nA interrogação fará o personagem morrer mais rápido.
+隐匿	Esconder
+隐匿气息，降低被发现的概率。\n离开隐匿需要五秒。	Oculte a presença para diminuir a chance de ser descoberto. \nLeva 5 segundos para desfazer a ocultação.
+交易	Trocar
+与行商交易。	Negocie com o comerciante.
+交谈	Falar
+与行商交谈。	Fale com o comerciante.
+捕获	Capturar
+捕获小动物。	Pegue pequenos animais.
+收养	Adotar
 走走走	Go go go
-转化	Conversion
+转化	Conversão
 灵宠觉醒	Pet Awakened
 召唤灵宠	Summon Pet
 让其观察一个物品、建筑或植物，来获得对应的思绪。限于其低下的灵智，同一种思绪只能通过观察并记住一条。	Order it to observe an item, building or plant to obtain the corresponding Thoughts. Due to its limited intelligence, only one Thought of each kind can be obtained through observation and memorized.
-删除角色	Delete Character
+删除角色	Excluir Personagem
 删除所选择的角色。	Delete the selected character.
-对话	Dialogues
-设置NPC对话。	Set NPC dialogues.
+对话	Diálogos
+设置NPC对话。	Definir diálogos NPC.
 将角色移动到指定位置。	Move character to designated location.
 角色面向	Character Facing
 调整角色面向。	Adjust character facing.
@@ -2278,9 +2278,9 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 妖族变换形态。	Change Yaoguai form.
 编辑形象	Edit Avatar
 编辑角色形象。	Edit character avatar.
-装备物品	Equip Item
+装备物品	Equipar item
 装备或者拾取一个物品	Equipar ou pegar um item.
-全部	All
+全部	Todos
 我的蓝图	My Blueprints
 万界天宫	Realms Palace
 [color=#D06508][{0}][/color]已解锁\n	[color=#D06508][{0}][/color] has been unlocked.\n
@@ -2297,13 +2297,13 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 尚未建立势力，无法使用势力快捷面板。	O painel de Poder não está disponível porque você não estabeleceu seu próprio Poder.
 尚未解锁阵眼，无法使用阵法系统。	Você não desbloqueou nenhum auxiliar. Incapaz de usar o sistema de formação.
 选择一个目标	Selecione um alvo.
-请选择一个合适的讲道地点	Select a suitable site to give a lecture.
-请选择一个合适的突破地点	Select a suitable place to breakthrough.
-请选择一个进行吐纳的地点	Select a location to start Breathing.
-请选择一个合适的渡劫地点	Select a suitable place to survive Tribulation.
-请选择一个合适的飞升地点	Select a suitable place to ascend.
-请选择一个合适的入定地点	Select a suitable place to meditate.
-请选择一个合适的吸灵地点	Select a suitable spot to absorb spirit.
+请选择一个合适的讲道地点	Selecione um local adequado para dar uma palestra.
+请选择一个合适的突破地点	Selecione um local adequado para o breakthrough.
+请选择一个进行吐纳的地点	Selecione um local para iniciar a respiração.
+请选择一个合适的渡劫地点	Selecione um local adequado para sobreviver à Tribulation.
+请选择一个合适的飞升地点	Selecione um local adequado para ascend.
+请选择一个合适的入定地点	Selecione um local adequado para meditate.
+请选择一个合适的吸灵地点	Selecione um local adequado para absorver o spirit.
 请选择一个无修为的生物	Select a creature with no spiritual power.
 请选择一个弥留的角色	Select a dying character.
 请选择一具死去的身体	Select a dead body.
@@ -2313,27 +2313,27 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 请选择一个可以灵淬的物品	Select an item for spiritual refinement.
 请选择一个物体(植物、矿物、建筑)	Select an object (plant, ore, structure).
 请选择一个可以赋灵的物品	Select an item to endow it with spirit.
-请选择一个玄牝珠	Select a Soul Pearl .
+请选择一个玄牝珠	Selecione a Soul Pearl .
 请选择一株植物	Select a plant.
-请选择合适的摆放地点	Select a suitable spot to put it.
+请选择合适的摆放地点	Selecione um local adequado para colocá-lo.
 请选择一个置物台	Select a Display.
 请选择要装备的物品	Select an item to equip.
 请选择要夺取的道具	Select an item to take.
 请选择要吃掉的道具	Select an item to eat.
 请选择要吃掉的材料	Select a material to consume.
 请选择要吃掉的建材	Select a building material to consume.
-请选择要吞噬的道具	Select an item to devour.
-请选择要炼制的道具	Select an item to refine.
+请选择要吞噬的道具	Selecione um item para devorar.
+请选择要炼制的道具	Selecione um item para refinar.
 请选择一个空闲的炼宝炉	Select an empty Crafting Furnace.
-请选择一个道具	Select an item.
-请选择一个法宝	Select an artifact.
-请选择一张符纸	Select a piece of talisman paper.
+请选择一个道具	Selecione um item.
+请选择一个法宝	Selecione um artefato.
+请选择一张符纸	Selecione um pedaço de papel talisman.
 请选择一个无修为的同种族角色	Select a character of the same race with no spiritual power.
 请选择一个无修为的异性同种族角色	Select a same-race character of the opposite-sex with no spiritual power.
-请选择一个角色	Select a character.
+请选择一个角色	Selecione um personagem.
 请选择神国期及以上境界的神道修行者	Select a pantheon cultivator in the divine or higher state.
 请选择一个无修为的角色/弥留中的角色/精怪	Select an uncultivated character/dying character/Sentient Spirit
-请选择一个无修为的角色	Select a character with no spiritual power.
+请选择一个无修为的角色	Selecione um personagem sem poder espiritual.
 请选择目标点	Select a destination.
 请选择攻击目标	Select a target to attack.
 请选择一个要传授的对象	Select a target to impart knowledge on.
@@ -2368,7 +2368,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 攻击目标为非敌方单位，确定要发起攻击吗？	The target is not an enemy. Do you want to attack anyway?
 信仰圣物一生只能炼制一次，确定要使用[{0}]炼制吗？	Sacred Relic can only be crafted once in a lifetime. Do you want to use [{0}] to craft?
 多次画符	Multiple Talisman Drawing
-修炼速度停滞，无法入定。	Unable to meditate as cultivation has stagnated.
+修炼速度停滞，无法入定。	Incapaz de meditar porque o cultivo estagnou.
 寿命不足，无法入定。	Cannot meditate due to insufficient lifespan.
 选择入定时长	Select how long to meditate.
 时长:{2}\n消耗寿元:{0:N0}/{1:N0}   消耗精元：{5}{3:N0}{6}/{4:N0}	Duration: {2}\nLifespan Cost: {0:N0}/{1:N0} Stamina Cost: {5}{3:N0}{6}/{4:N0}
@@ -2388,7 +2388,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 不适合或者已被占用	Unsuitable or occupied.
 地点不可达	Unreachable location.
 该物体没有灵气	This object has no Qi.
-无法蕴养	Unable to nurture.
+无法蕴养	Incapaz de nutrir.
 不是法宝	Not an artifact.
 没有多余的个数	No excess.
 该物品不能食用	This item is not edible.
@@ -2436,19 +2436,19 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 该角色不能作为夺舍目标	This character cannot be set as a target for possession.
 该角色不能被吸灵	This character's spirit cannot be absorbed.
 该角色不在弥留状态	This character is not dying.
-角色已经死亡	This character is dead.
+角色已经死亡	Este personagem está morto.
 该单位不能作为目标	This unit cannot be targeted.
 该对象不能被攻击	This target cannot be attacked.
 不能作为此技能的对象	Cannot be targeted by this skill.
 该物品不能用于炼制	This item cannot be refined.
-没有空闲的个数	All are occupied.
-成功率:{0} 灵气:{1}	Success Rate: {0}Qi: {1}
+没有空闲的个数	Todos estão ocupados.
+成功率:{0} 灵气:{1}	Chance Sucesso: {0}Qi: {1}
 灵气不足:{1}({2:N0}) 炼制成功率:{0}	Insufficient Qi: {1} ({2:N0}) Refinement Success Rate: {0}
 成功率:{0} 灵气:{1} 心境:{2}	Success Rate: {0} Qi: {1} Mental State: {2}
 不能用来炼宝	Unable to be used for artifact crafting.
-该建筑正忙	This building is occupied.
-该物品不能用于绘制符咒	This item cannot be used to draw a talisman.
-不能用来炼丹	Cannot be used for alchemy.
+该建筑正忙	Este edifício está ocupado.
+该物品不能用于绘制符咒	Este item não pode ser usado para desenhar um talisman.
+不能用来炼丹	Não pode ser usado para alquimia.
 不能用来埋葬	Cannot be used to bury.
 已经被使用	Has already been used.
 这个秘籍已经录入了	This manual has been transcribed.
@@ -2543,7 +2543,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 灵气:{0:N0}/{1:N0}	Qi: {0:N0}/{1:N0}
 尸体({0:N0}秒)	Corpse ({0:N0} sec)
 弥留({0:N0}秒)	Dying ({0:N0} sec)
-昏迷	Unconscious
+昏迷	Inconsciente
 濒死	Dying
 (发呆)	(Trance)
 {2}\n灵气值：{0:N0}/{1:N0}\n法宝在空闲时，或灵气耗完后会从角色身上吸取灵气。	{2}\nQi: {0:N0}/{1:N0}\nWhen an artifact is idle or has used up its Qi, it will absorb Qi from the character.
@@ -2551,13 +2551,13 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 经验加成	XP
 从之前突破失败中获得的成功率加成。失败次数越多，成功率越高。	Avanços fracassados ​​aumentam a taxa de sucesso de forma aditiva.
 心境加成	Mental State
-突破时的心境对突破成功率的影响。	Mental State affects the success rate of breakthrough.
+突破时的心境对突破成功率的影响。	Estado Mental afeta a taxa de sucesso de breakthrough.
 附加加成	Additional
-突破时正在生效成功率造成影响的附加效果，例如丹药、奇遇等等。	Additional effects during breakthrough increase the success rate, e.g. Elixirs, Fortuitous Adventure, etc.
+突破时正在生效成功率造成影响的附加效果，例如丹药、奇遇等等。	Efeitos adicionais durante o breakthrough aumentam a taxa de sucesso, por exemplo. Elixires, aventura fortuita, etc.
 风水加成	Feng Shui
-突破时门派风水对突破成功率的影响。	The sect's Feng Shui affects the success rate of breakthroughs.
+突破时门派风水对突破成功率的影响。	O Feng Shui da seita afeta a taxa de sucesso do breakthroughs.
 天气加成	Weather
-突破时的天气对突破成功率的影响。	The weather affects the success rate of breakthroughs.
+突破时的天气对突破成功率的影响。	O clima afeta a taxa de sucesso do breakthroughs.
 阴阳加成	Yin Yang
 突破时的阴阳偏向对突破成功率的影响。\n在五行属性中，火木属阳性，在白天得到加成；金水属阴性，在夜晚得到加成；土则需要阴阳均衡。	Your Yin Yang affects the success fate of breakthroughs.\nAmong the Five Elements, Fire and Wood count as Yang and have a bonus effect during the day. Metal and Water count as Yin and have a bonus effect at night. Earth requires a balanced Yin and Yang.
 时节加成	Season
@@ -2578,8 +2578,8 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 结丹地点的五行属性与功法的匹配度对结丹效果的影响。	The compatibility between the element of the location and that of the Law affects the elixir's effects.
 {0}境	{0}State
 信徒加成	Follower Bonus
-信徒数量对神国面积的影响。	The effect of the number of followers on the size of the Divine Realm.
-心境层次对神国面积的影响。	The effect of the mental state on the size of the Divine Realm.
+信徒数量对神国面积的影响。	O efeito do número de seguidores no tamanho do Divine Realm.
+心境层次对神国面积的影响。	O efeito do estado mental sobre o tamanho do Divine Realm.
 神性加成	Divinity Bonus
 神性对神国面积的影响。	The effect of the divinity on the size of the Divine Realm.
 心绪加成	Distress Bonus
@@ -2620,9 +2620,9 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 模组丢失	Mods Lost
 [玄门秘籍]	[Orthodox Manual]
 [旁门心得]	[Unorthodox Manual]
-全部秘籍	All Manuals
+全部秘籍	Todos os Manuals
 战斗法术	Battle Spells
-收藏	Favorites
+收藏	Favoritos
 独本遗册	Only Existing Copy
 无上大法	Supreme Law
 藏经阁容量：{0}/{1}	Capacity: {0}/{1}
@@ -2640,8 +2640,8 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 重载Skill	Reload Skill
 重载FightDriver	Reload FightDriver
 重载PlaceDefs	Reload PlaceDefs
-成功！	Success!
-失败！	Failed!
+成功！	Sucesso!
+失败！	Falhou!
 当前阵图仍未保存，无法配置布局	The plan has not been saved. Unable to place layout.
 当前阵图无内容，无法配置布局	The plan has no content. Unable to place layout.
 当前阵图配置仍未保存，无法搭建阵图	The plan configuration has not been saved. Unable to create plan.
@@ -2656,7 +2656,7 @@ ui状态异常，请关闭ui再次打开	Unable to load the UI. Please close and
 无效阵图，无法布阵	Invalid plan; unable to form formation.
 残缺阵图，无法布阵	Incomplete plan; unable to form formation.
 阵枢需要一个满足条件的角色主持才可以布阵	The formation can only be formed if a character that meets the requirement hosts the pillar.
-请输入阵法名字	Enter a name for the formation.
+请输入阵法名字	Digite um nome para a formação.
 修改名称	Change Name
 你保存了一个阵法配置，现在你可以通过阵枢角色身上的结阵按钮来进行结阵。	You have saved a formation configuration. Now you can click the Form Formation button on the character appointed as the pillar to create formation.
 已将分享字符串复制到剪切板	A share string has been copied to the clipboard.
@@ -2685,7 +2685,7 @@ ui状态异常，请关闭ui再次打开	Unable to load the UI. Please close and
 \r\n[内容]	\r\n[Content]
 上传	Upload
 更新	Update
-添加新故事	Create New Story
+添加新故事	Criar nova história
 印记	Mark
 脸部伤痕	Facial scarring
 伤疤	Scar
@@ -2775,7 +2775,7 @@ Lua代码不能为空	Lua script cannot be empty.
 确定要离开此地吗？	Do you want to leave this place?
 还不能离开，因为\n{0}	Unable to leave because \n{0}.
 快捷键	Hotkeys
-目标	Target
+目标	Alvo
 时间变化	Time Change
 调整当前时间	Alter current time
 季节变化	Season Change
@@ -2785,7 +2785,7 @@ Lua代码不能为空	Lua script cannot be empty.
 生成物品	Generate Item
 生成随机原材料的物品。	Generate an item from random raw material.
 拍照模式。	Camera.
-天气与季节	Weather & Season
+天气与季节	Tempo e temporada
 更换当前天气与季节	Change current weather and season
 地图编辑	Map Edit
 编辑地图及生成地图中的物品。	Edit map and generate items in the map.
@@ -2798,7 +2798,7 @@ Trap编辑。	Trap Edit.
 编辑移动路线。	Edit routes.
 指定天气	Select Weather
 当前天气变化为指定的天气	Change weather into a specific one.
-地形	Terrain
+地形	Terreno
 坐标点	Coordinates
 矿物	Mineral
 特殊物品	Special
@@ -2826,8 +2826,8 @@ Trap编辑。	Trap Edit.
 将一个物品灵淬	Perform Aura Refinement for an item.
 分裂镇物	Split Relic
 将物品分裂出一个未鉴定的镇物	Split item into an unidentified Relic.
-鉴定镇物	Identify Relic
-将一个镇物鉴定	Identify a Relic.
+鉴定镇物	Identificar Relic
+将一个镇物鉴定	Identifique uma Relic.
 幽淬	Specter Refinement
 将一个物品幽淬	Perform Specter Refinement for an item.
 灵淬	Aura Refinement
@@ -2850,15 +2850,15 @@ Trap编辑。	Trap Edit.
 满神民	Maximize Divine Residents
 加满一个神修的神民	Maximize a pantheon cultivator's Divine Residents.
 提升心境	Improve Mental State
-提升一个角色的心境	Improve a character's Mental State.
+提升一个角色的心境	Melhorar o estado mental de um personagem.
 降低心境	Reduce Mental State
-降低一个角色的心境	Reduce a character's Mental State.
+降低一个角色的心境	Reduza o Estado Mental de um personagem.
 增加参悟值	Increase Inspiration
-增加角色100000点参悟	Increase character's Inspiration by 100,000.
+增加角色100000点参悟	Aumente a inspiração do personagem em 100.000.
 参悟值归零	Clear All Inspiration
 将角色参悟值归零	Clear character's Inspiration.
 植物成长值增加	Increase Plant Growth
-植物成长值增加20	Increase Plant Growth by 20.
+植物成长值增加20	Aumente o crescimento da planta em 20.
 植物成长值减少	Reduce Plant Growth
 植物成长值减少20	Reduce Plant Growth by 20.
 人型角色	Human Character
@@ -2921,12 +2921,12 @@ Trap编辑。	Trap Edit.
 确定重置所有的快捷键吗？	Do you want to reset all hotkeys to their defaults?
 重置快捷键	Reset Hotkeys
 请输入任意按键	Press a key.
-该热键已被系统锁定	This hotkey has been locked by the system.
-该热键存在重复注册	This hotkey is already in use.
+该热键已被系统锁定	Esta tecla de atalho foi bloqueada pelo sistema.
+该热键存在重复注册	Esta tecla de atalho já está em uso.
 选择参与推导的信息	Select information used for deduction
 {0}{1}的线索	{0}{1}'s clues
-讨论	Discuss
-消息	Message
+讨论	Discutir
+消息	Mensagem
 {0}{1}的{2}	{0}{1}'s {2}
 询问	Inquire
 选择需要讨论或者询问的话题	Select topics to discuss or inquire
@@ -2966,8 +2966,8 @@ Trap编辑。	Trap Edit.
 {0}心防瓦解(天真)	{0} has opened up (naive).
 (手语)	(Sign language)
 解锁新的角色：{0}	New character unlocked: {0}
-拷问这个角色	Interrogate this character.
-劝化这个角色	Persuade this character.
+拷问这个角色	Interrogue este personagem.
+劝化这个角色	Persuadir este personagem.
 烛龙想要祈福硬币	Torch dragon wants a prayer coin.
 {1:F0}\n{0}对玩家门派的好感度，好感度会影响可以进行的行为和得到的回答。\n在未打开心防时好感度最高为60，讨论对方的嗜好可以瓦解心防。	{1:F0}\n{0}'s favor to your sect. Their favor will affect available actions and the answer you get from them. \nThe maximum favor is 60 before the character opens up. Talk about their hobbies can help them to open up.
 缘分：{0:P0}	Predestiny: {0:P0}
@@ -2999,7 +2999,7 @@ Trap编辑。	Trap Edit.
 游戏时间	Game Date
 掌门名称	Leader Name
 门派规模	Sect Size
-门派人数	Population
+门派人数	População
 扩展包	DLC
 您好，模组管理器已经上线，您曾经使用的模组需要手动在管理器进行激活，另外我们强烈建议直接从模组商店重新订阅相关模组。	Hello, Mod Manager is now available. Previous mods need to be activated manually in the Manager for them to work. We also strongly recommend you resubscribe to relevant mods from the mod store.
 读取旧世界数据,请耐心等待…	Loading old world data. Please wait…
@@ -3028,7 +3028,7 @@ Trap编辑。	Trap Edit.
 选择后缀	Select Suffix
 创建门派	Create Sect
 入驻	Assign
-体修秘体	Secret Body
+体修秘体	Corpo Secreto
 过期事件({0})	Expired event ({0})
 过期消息({0})	Expired message ({0})
 状态	Status
@@ -3053,8 +3053,8 @@ Trap编辑。	Trap Edit.
 {0}与{1}感情基础\n{2}	{0} and {1}'s emotional foundation.\n{2}
 新人模式下不能改变角色，请直接开始游戏。	You cannot change character in Beginner. Simply enter the game.
 尚未凝练出元灵，只有术法登峰造极之时才能凝练出术法元灵，指定元灵的术法会在战斗时自动释放。	No Primordial Soul has been created yet. Primordial Souls can only be created when one's spell power reaches the highest level. The spell of selecting Primordial Souls will be automatically released during battle.
-选择称号	Choose Title
-无称号	Titleless
+选择称号	Escolha um título
+无称号	Sem título
 其他属性	Misc. Stats
 修改数值	Modify Attributes
 术法元灵({0}/{1})	Spell Primordial Soul ({0}/{1})
@@ -3120,10 +3120,10 @@ Trap编辑。	Trap Edit.
 {0}丢失了	{0} is lost.
 自动选择:{0}	Auto selection: {0}
 \n点击建造	\nClick to build
-影响力	Influence
+影响力	Influência
 [政策] {0}\n	[Policy]{0}\n
 [效果] {0}\n	[Effect]{0}\n
-影响值	Influence
+影响值	Influência
 城市稳定度：{0}\n主流代理势力：{1}	City Stability: {0}\nMain Agency Power: {1}
 选择信仰对象	Select a belief
 [color=#FF0000]该建筑升级需要达到{0}信仰人口[/color]	[color=#FF0000]To upgrade this building, the population of believers needs to reach {0}.[/color]
@@ -3138,7 +3138,7 @@ Trap编辑。	Trap Edit.
 取出数量：{0}	How many to be withdrawn: {0}
 法宝槽位未解锁	Artifact slots locked
 点击打开装备面板	Click to open the Equipment menu.
-健康值	Health
+健康值	Saúde
 真炁	True Qi
 点击打开角色健康面板	Click to open the Health menu.
 点击打开{0}面板	Click to open the {0} menu.
@@ -3178,12 +3178,12 @@ Trap编辑。	Trap Edit.
 [color=#bf642f]掌管能力：{3}[/color]\n魅力加成：{0}\n处世加成：{1}\n境界加成：{2}\n	[color=#bf642f]Management Ability: {3}[/color]\nCharisma Bonus: {0}\nSocial Bonus: {1}\nState Bonus: {2}\n
 [color=#bf642f]分堂掌管压力：{0}[/color]\n{1}	[color=#bf642f]Branch Management Pressure: {0}[/color]\n{1}
 [color=#bf642f]掌管压力：{0}[/color]\n{1}	[color=#bf642f]Management Pressure: {0}[/color]\n{1}
-选择掌门	Choose Sect Leader
-未激活	Inactive
+选择掌门	Escolha o líder da seita
+未激活	Inativo
 [color=#FF0000]未指定掌门[/color]\n	[color=#FF0000]You haven't chosen a Sect Leader.[/color]\n
 [color=#FF0000]未指定专精[/color]\n	[color=#FF0000]Expertise not chosen.[/color]\n
 [color=#FF0000]未指定堂主[/color]\n	[color=#FF0000]You haven't chosen a Branch Leader.[/color]\n
-设置堂主	Leader
+设置堂主	Líder
 更换分堂专精	Change branch expertise
 门派规模达到洞天才可以建立分堂。	Your sect size must have reached Paradise before you can establish a branch.
 分堂名	Branch Name
@@ -3233,8 +3233,8 @@ Trap编辑。	Trap Edit.
 {0}正在外历练，等他回来再说吧。	{0} is out on adventure. Wait till they come back.
 要将{0}驱逐出门派么？这将影响其他角色的情绪。	Banish {0} from the sect? This will affect the mood of other characters.
 门派内的精怪 {0}	Sect's Sentient Spirit {0}
-内门	Inner Disciple
-外门	Outer Disciple
+内门	Discipulo Interno
+外门	Discipulo Externo
 与{0}的好感度为：{1}\n\n{2}	{0}'s favor is: {1}\n\n{2}
 与{0}的好感度为：{1}	{0}'s favor is: {1}
 [模组]	[Mods]
@@ -3257,21 +3257,21 @@ Trap编辑。	Trap Edit.
 准备录入	Ready to transcribe
 所修功法：{0}({2})\n{1}\n性别：{5}\n年龄：{3:N0}\n道行：{4:N0}	Learned Laws: {0} ({2})\n{1}\nGender: {5}\nAge: {3:N0}\nAttainment: {4:N0}
 可选：{0}/{1}	Selectable: {0}/{1}
-选择技能	Select Skills
-选择属性	Select Stats
-选择材料	Select Material
+选择技能	Selecionar Skills
+选择属性	Selecionar Stats
+选择材料	Selecionar Material
 选择建筑	Select Building
-选择主材料	Select main material
-选择丹方	Select Elixir Recipe
-选择秘籍	Select Manual
-选择灵智	Select Intelligence
-选择Modify	Select Modify
+选择主材料	Selecionar main material
+选择丹方	Selecionar Elixir Recipe
+选择秘籍	Selecionar Manual
+选择灵智	Selecionar Intelligence
+选择Modify	Selecionar Modify
 任 意	Any
 请选择可设置区域	Select an area to set
 图片(*.png;*.jpg)\0*.png;*.jpg	Image (*.png;*.jpg)\0*.png;*.jpg
 选择预览图	Choose Preview Image
 请确认comdlg32.ocx是否丢失！_{0}	Confirm whether you have comdlg32.ocx!_{0}
-关闭	Close
+关闭	Fechar
 {0}分钟	{0} min
 持续	Always
 确定要重置教学提示吗？	Are you sure you want to reset the tutorial tips?
@@ -3476,8 +3476,8 @@ Trap编辑。	Trap Edit.
 未获得通行权	Inaccessible
 {0}\n当前有{1}个门派的任务未完成	{0}\n{1} sect tasks are unfinished.
 什么也不给	None
-分配100灵石	Give 100 Spirit Stones
-分配1000灵石	Give 1,000 Spirit Stones
+分配100灵石	Dê 100 Pedras Espirituais
+分配1000灵石	Dê 1.000 Pedras Espirituais
 {0}即将上任代理人，是否给一些盘缠以备不测？（灵石一旦给出无法返还）	{0} is about to be the agent. Do you want to give them resources in case of an emergency? (Once given away, spirit stones cannot be retrieved.)
 资源分配选择	Allocate Resources
 取消入驻	Cancel Assigning
@@ -3574,7 +3574,7 @@ Trap编辑。	Trap Edit.
 新建功能节点	Create New Feature
 新功能	New Feature
 入口	Entrance
-你好！	Hello!
+你好！	Ola!
 循环十次	Loop 10x
 循环五十次	Loop 50x
 无限循环	Loop Endlessly
@@ -3681,7 +3681,7 @@ Trap编辑。	Trap Edit.
 半妖型态的妖族在一定时间后都将面对化形天劫，成功度过即可成功化为人形，失败则会被打回原型。灵智碎片越多天劫便越快降临。	Yaoguai em formas semi-humanas enfrentará a Tribulação de Metamorfose após um período de tempo. Aqueles que tiverem sucesso mudarão de forma para formas humanas, enquanto aqueles que falharem serão revertidos para suas aparências originais. Quanto mais fragmentos de inteligência houver, mais cedo a tribulação chegaria.
 {0:N0}天	{0:N0} d
 这个动物由修行者夺舍而来，觉醒灵智以后会迎来最严格的化形天劫，是否确定觉醒灵智	Este animal foi possuído por um cultivador. Uma vez despertada a inteligência, ela enfrentará a mais dura Tribulação de Metamorfose. Tem certeza de que deseja despertar sua inteligência?
-是否确定觉醒灵智	Are you sure you want to awaken intelligence?
+是否确定觉醒灵智	Tem certeza de que deseja despertar a inteligência?
 是否确定合成灵智碎片，合成以后将无法取消	Tem certeza de que deseja sintetizar fragmento de inteligência? Uma vez sintetizado, não pode ser revertido.
 思绪：{0}/{1}	Thought: {0}/{1}
 开启灵智\n{0:P0}	Awaken Intelligence\n{0:P0}
@@ -3704,12 +3704,12 @@ Trap编辑。	Trap Edit.
 修行相关	Related to Practice
 货币\n灵石是各大门派和行商之间流通的唯一货币。	Currency\nSpirit Stones are the only currency used by all sects and merchants.
 血量	Health
-点击打开角色属性面板	Click to open the Character Stats menu.
-点击切换至该角色	Click to switch to this character.
-平衡	Balance
+点击打开角色属性面板	Clique para abrir o menu de estatísticas do personagem.
+点击切换至该角色	Clique para mudar para este personagem.
+平衡	Equilíbrio
 随心所欲，顺其自然	Let nature take its course.
 弟子会自己安排修炼行为	Os discípulos planejarão seu próprio cronograma de treinamento de cultivo.
-克己	Restrained
+克己	Restringido
 [克己]克制自己之欲望，使神性的获得速度加快。同时获得临时的神性加值(最多为真实神性的一半)。\n克己状态下心境不会减少且加速增加。	[Restrained] Restrains your own desires and accelerates the increase of divinity. At the same time, obtains temporary additional divinity (no greater than half of the base divinity). \nWhile restrained, your mental state will increase at a faster pace, instead of reducing.
 [境界]持续修行功法直到功法达到瓶颈	[Practice] Continue praticando uma Lei até atingir o limite.
 放纵	Indulgence
@@ -3810,9 +3810,9 @@ Trap编辑。	Trap Edit.
 脚本名字不能为空	Script Name cannot be empty.
 显示名字不能为空	Display Name cannot be empty.
 路线点	Route
-角色姓名不能为空，请重新设置姓名	Character Name cannot be empty. Please set the name again.
-姓	Surname
-名	First Name
+角色姓名不能为空，请重新设置姓名	O nome do personagem não pode ficar vazio. Por favor, defina o nome novamente.
+姓	Sobrenome
+名	Primeiro nome
 显示名称	Display Name
 当前年龄	Current Age
 最大年龄	Oldest Age
@@ -3833,7 +3833,7 @@ Lua回调类名	Lua Callback Class Name
 {0}无法使用{1}	{0} cannot use {1}.
 {0}尝试使用了{1}，没有效果，便放回了背包	{0} failed in an attempt to use {1} and then put it back in the bag.
 没有可用的弟子，请先派遣弟子抵达此处。\n在世真仙可以直接降临。	No available disciple. Please send disciples here first. \nDemi-God can directly descend upon this place.
-冒险	Adventure
+冒险	Adventura
 此门派已经闭关戒严，暂时无法进入。	This sect has been closed off to the public. Currently inaccessible.
 此地已封山戒严，暂时无法进入。	This place has been closed off to the public. Currently inaccessible.
 无可用弟子	No available disciple
@@ -3841,11 +3841,11 @@ Lua回调类名	Lua Callback Class Name
 未获得通行权，贸然进入将会受到攻击	Inaccessible. The character will be attacked for forced entry.
 应天台正在闪烁着光芒\n（灵石已经凝聚完成，可以凝取）	Heaven Echo Altar is shinning\n(Spirit Stones Crystallized and can collect)
 应天台的光芒黯淡了下来\n（正在凝聚灵石）	Light on the Heaven Echo Altar faded.\n(Crystallizing Spirit Stones)
-姓名	Name
-种族	Race
-底蕴	Power
-神秘来客	Mystery
-来历	Origin
+姓名	Nome
+种族	Raça
+底蕴	Poder
+神秘来客	Mistério
+来历	Origem
 灵刻	Spirit Carve
 尚未入玄	No linked
 正在上传角色数据	Uploading Data
@@ -3871,32 +3871,32 @@ Lua回调类名	Lua Callback Class Name
 正在获取战斗记录	Receiving Fight Records
 道具	Item
 租借法宝	Borrow Artifact
-求助	Help
+求助	Ajudar
 {0}\n[color=#FF0000]需要：{1}[/color]	{0}\n[color=#FF0000]Requirements: {1}[/color]
 {0}\n[color=#D06508]左键点击添加，右键点击减少\nShift:10倍\nCtrl:100倍[/color]	{0}\n[color=#D06508]Left-click to add. Right-click to reduce.\nShift: 10x \nCtrl: 100x[/color]
-通行权	Access
-寻求门派的求援	Ask for help from the sect
+通行权	Acesso
+寻求门派的求援	Peça ajuda da seita
 交易后，可自由进出此门派所有地点。好感度越高，售价越低。如好感度跌到一般以下，将取消通行权。	After trading, the character can freely enter and exit all locations of this sect. The higher the favor, the lower the price. If the favor is lower than normal, no access will be granted.
 <font color=#9e6404>此功法已收录至藏经阁</font>	<font color=#9e6404>This Law has been placed in the Manual Pavilion.</font>
-外门弟子	Outer Disciples
-{0}弟子	{0} Disciple
+外门弟子	Discipulos Externos
+{0}弟子	{0} Discipulos
 {0}({1}阶)\n{2}	{0} (Tier {1}) \n{2}
 {0}({1}阶)\n{2}\n{3}	{0} (Tier {1}) \n{2}\n{3}
-拥有交易区才可以	Need a trade area to 
-拥有交易区才可以交易	Trading is unavailable without a trade area
-需拜山该门派，与之建立联系才可使用。	You need to visit this sect first before trading.
+拥有交易区才可以	Precisa de uma Trade Area
+拥有交易区才可以交易	A Troca não está disponível sem uma trade area
+需拜山该门派，与之建立联系才可使用。	Você precisa visitar esta seita antes de trocar.
 无需	None
-此物品非常贵重。	This item is very rare and expensive.
-此物品相对稀有，价值贵重。	This item is relatively rare and expensive.
-此物品价值一般。	This item is not worth too much.
-此物品对方根本不需要，毫无价值。	This item is worth nothing to the other person.
-这是真正的宝物，我们很需要。	This is a real treasure. We need it very much.
-此物虽然很实用，但我们库存也有很多，这个价格不能更多了。	This item is practical but we do not need it. I'll buy it at this price.
-这种东西我们并不需要。	We do not need it.
-这也拿来卖？	You want me to buy this?
-东西已经加工过，已失其用，我们并不需要了。	It's already been processed and lost its value. We do not need it.
-这是什么东西，闻所未闻，真的有用么。	What is this? I've never heard of it. It really works?
-我受人之托，前来高价收购{0}。近日只有{1}类物品有利可图。	I have been tasked to purchase {0} with high price. Recently, only {1} items are profitable.
+此物品非常贵重。	Este item é muito raro e caro.
+此物品相对稀有，价值贵重。	Este item é relativamente raro e caro.
+此物品价值一般。	Este item não vale muito.
+此物品对方根本不需要，毫无价值。	Este item não vale nada para a outra pessoa.
+这是真正的宝物，我们很需要。	Este é um verdadeiro tesouro. Precisamos muito.
+此物虽然很实用，但我们库存也有很多，这个价格不能更多了。	Este item é prático, mas não precisamos dele. Vou comprar por esse preço.
+这种东西我们并不需要。	Não precisamos disso.
+这也拿来卖？	Você quer que eu compre isso?
+东西已经加工过，已失其用，我们并不需要了。	Já foi processado e perdeu o valor. Não precisamos.
+这是什么东西，闻所未闻，真的有用么。	O que é isto? Eu nunca ouvi sobre isso. Realmente funciona?
+我受人之托，前来高价收购{0}。近日只有{1}类物品有利可图。	Recebi a tarefa de comprar {0} com preço alto. Recentemente, apenas {1} itens são lucrativos.
 我受人之托，前来高价收购{0}。	I have been tasked to purchase {0} with high price.
 近日只有{0}类物品有利可图。	Recently, only {0} items are profitable.
 我受人之托，前来高价收购{0}。近日{1}类物品过多，简直一文不值。	I have been tasked to purchase {0} with high price. Recently, {1} items are worthless.
@@ -3906,13 +3906,13 @@ Lua回调类名	Lua Callback Class Name
 花费{0}灵石拍卖到以下道具：	Cost {0} spirit stones to buy the following item: 
 （[color=#990000]因无法支付，你将被迫服役{0}天[/color]）	([color=#990000]Unable to pay, you are forced to serve for {0} days[/color].)
 本次拍卖遭遇意外，暂停一次	Due to an accident happend recently, the auction has to be suspended this time.
-赎人	Ransom
-离开	Leave
-好	Good.
+赎人	Resgate
+离开	Sair
+好	Boa.
 赎金在这里	Here's the ransom money.
 溜了溜了	See ya.
-过	Pass.
-最后一轮竞拍	The Last Round!
+过	Passar.
+最后一轮竞拍	A última rodada!
 第{0}轮竞拍	Round {0}
 竞拍品:[{0}]	Auction Item: [{0}]
 【{0}】出价[{1}]	[{0}] bid [{1}].
@@ -3937,17 +3937,17 @@ Lua回调类名	Lua Callback Class Name
 恭喜你完成挑战！您可以回到主菜单选择其他内容或者继续游戏。	Congrats! You completed the challenge! Return to the main menu and choose something else or continue playing.
 由{0}一手创建的修行门派，自成立以来，便如异军突起，短短数年便成就宗师气象，于修行界占据一席之地，留下赫赫威名。	A practice sect established by {0}. It has gained much power since its emergence and even though it has only been active for a few years, others view him as a master. He has made a place for himself in the realm of practice and is now famous.
 江湖名门{0}所处之地，原本只是一座无人问津的荒山，但所谓山不在高，有仙则灵。此地经过{0}几代弟子数百年发展，早已成为仙家洞天福地。	The renown sect {0}'s homeland. Originally, the location was but a barren mountain range. The mountains weren't towering, but within them dwelled immortals. After {0} generations and hundreds of years, it has now become a paradise.
-抱歉，因为某种异常的原因系统忘记了您老门派的名字，需要您重新告诉我们。谢谢。	Sorry, due to some system error your old sect name has been forgotten. Kindly remind us what it was.
-老门派	Old Sect
-神秘大能	Mysterious Power
-输入老门派的名字	Enter a name for your old sect.
+抱歉，因为某种异常的原因系统忘记了您老门派的名字，需要您重新告诉我们。谢谢。	Desculpe, devido a algum erro do sistema, seu antigo nome de seita foi esquecido. Por favor, lembre-nos o que era.
+老门派	Seita Antiga
+神秘大能	Poder Misterioso
+输入老门派的名字	Digite um nome para sua antiga seita.
 太虚傀儡	Void Puppet
 {0}之镇派法宝，乃是前代派中高人的贴身法器。但自从百年前便被封印，再无人启用，似乎在等待着什么。	{0}'s most valued heirloom. It was the weapon of their greatest master, but it was sealed away hundreds of years ago and has gone unused for generations. It seems to be waiting for something, or someone.
 太虚幻境\n假作真时真亦假，无为有时有还无。\n太上有道虚作实，心中无疑幻成真。	Land of Illusion\nIf you dress truth up as false; then, what is truly true and what is truly false?\nWith the power to turn illusion into reality, all one's doubts become true.
 在逃亡途中，你们不幸被追杀的敌人找寻到，生死关头，一名青山高冠的仙人从天而降，飞剑如电，瞬间将追兵斩杀。\n  你们刚准备拜谢救命之恩，那名仙人就挥手阻止了你们，而后连说三声真像，便留下一封信笺，化光而去……	The enemies caught up to you as you were escaping and as they were slaughtering your men one after another, a radiant immortal descended from Heaven. His sword flashed like lightning and the enemy fell to the last man.\n  As you prepared to prostrate yourself in thanks to this stranger, he raised a hand to stop you. After which he muttered an incantation and left you letter, only to disappear in a flash of light…
-数日逃亡之后……	A few days after the escape…
-春去冬来，草长莺飞。数年后……	A few years later...
-观察四周	Observe the Surroundings
+数日逃亡之后……	Alguns dias após a fuga…
+春去冬来，草长莺飞。数年后……	Alguns anos depois...
+观察四周	Observe os arredores
 {0}:{1} 需求:{2}\n	{0}:{1} Requires: {2}\n
 \n分类需求:	\nRequires:
 世界运转	The World Revolves
@@ -3955,7 +3955,7 @@ Lua回调类名	Lua Callback Class Name
 {0}可能会发生事件:\n[color=#D06508]{1}[/color]	{0} Possible events:\n[color=#D06508]{1}[/color]
 神秘杀手	Mysterious Assassin
 信鸽信息	Carrier Pigeon Message
-历练故事	Adventure Story
+历练故事	História de aventura
 江湖秘闻	Worldly Secret
 此地	Here
 历练天下	World Adventure
