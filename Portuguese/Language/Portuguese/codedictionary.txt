@@ -3428,10 +3428,10 @@ Trap编辑。	Trap Edit.
 \n这里面似乎困着一只{0}	\nThere seems to be a {0} trapped in it.
 选择保存文件夹	Select Save Folder
 壁纸已经保存到：\n{0}	Wallpaper saved to：\n{0}
-添加前置模组	Add the required mod
-添加新标签	Add New Label
+添加前置模组	Adicione o mod necessário
+添加新标签	Adicionar novo rótulo
 版本号请使用浮点数	Please use floating-point numbers for game versions.
-设置的所需游戏版本比当前游戏版本更高，请确认	The required game version you have set is higher than the current game version. Please verify
+设置的所需游戏版本比当前游戏版本更高，请确认	A versão necessária do jogo que você definiu é superior à versão atual do jogo. Por favor verifique
 不存在预览图！	Preview image does not exist!
 请设定标签！	Set a label.
 外观美化	Graphics
@@ -3444,7 +3444,7 @@ Trap编辑。	Trap Edit.
 非万界天宫	Not the Realms Palace
 建筑蓝图	Blueprint
 内容	Content
-冒险模式	Adventure Mode
+冒险模式	Modo Aventura
 非中文	Non-Chinese
 正在更新，请耐心等待...	Updating. Please wait…
 更新完成	Update complete
@@ -3458,7 +3458,7 @@ Trap编辑。	Trap Edit.
 更新MOD信息...	Updating mod info…
 上传中，请耐心等待...	Uploading, please be patient…
 正在准备上传...	Waiting to be uploaded…
- 正在上传中，请耐心等待...\n	 Uploading, please be patient…\n
+ 正在上传中，请耐心等待...\n	 Carregando, por favor, seja paciente…\n
   \n当前进度:	  \nProgress:
 上传成功！大约需要10分钟的时间才会在模组订阅面板中出现	Uploaded! Your mod will be viewable in the mod subscription menu in about 10 minutes.
 上传成功！大约需要10分钟的时间才会在模组订阅面板中出现\n请勿修改并妥善保管当前上传模组文件下的Info文件，用于更新该模组	Uploaded! Your mod will be viewable in the mod subscription menu in about 10 minutes.\nPlease do not modify the .info file of the uploaded mod and keep it for future update of this mod.
@@ -3471,8 +3471,8 @@ Trap编辑。	Trap Edit.
   \n当前进度: 	  \nProgress: 
 我们的位置	My Position
 我们不知道这个地方在哪，或许应该多转转？	I wonder where we are. Perhaps we'd better take a look around.
-中立	Neutral
-己方	Ally
+中立	Neutro
+己方	Aliado
 未获得通行权	Inaccessible
 {0}\n当前有{1}个门派的任务未完成	{0}\n{1} sect tasks are unfinished.
 什么也不给	None
@@ -3483,10 +3483,10 @@ Trap编辑。	Trap Edit.
 取消入驻	Cancel Assigning
 门派人数已达上限，不可送回代理人！	Reached the maximum sect population. Unable to recall the agent!
 危险未知	Unknown
-赠送	Send Gift
+赠送	Enviar presente
 赠送以完成任务	Send gifts to complete tasks
 驻扎中	Camping
-返回中	Returning
+返回中	Retornando
 无数次	Numerous times
 次	Times
 {0}\n[color=#990000](这是一个需要进入地图完成的秘闻)[/color]	{0}\n[color=#990000](This is a Secret that can only be completed by entering the map)[/color]
@@ -3568,19 +3568,19 @@ Trap编辑。	Trap Edit.
 保存	Save
 重载完成	Reload Complete
 新建对话节点	Create New Dialogues
-新对话	New Dialogues
+新对话	Novos diálogos
 新建选项节点	Create New Options
-新选项	New Options
+新选项	Novas opções
 新建功能节点	Create New Feature
-新功能	New Feature
+新功能	Novo Recurso
 入口	Entrance
 你好！	Ola!
 循环十次	Loop 10x
 循环五十次	Loop 50x
 无限循环	Loop Endlessly
 取消循环	Cancel Loop
-正在进行中，不能修改原材料。	In progress. Raw material cannot be changed.
-选择秘体	Select Secret Body
+正在进行中，不能修改原材料。	Em andamento. A matéria-prima não pode ser alterada.
+选择秘体	Selecione Secret Body
 {0}\n[color=#990000]已装备于{1}栏位中[/color]	{0}\n[color=#990000]Already equipped in slot {1}[/color]
 认主这个秘宝吗？它将绑定{0}。	Claim this Legacy Artifact? It will be soulbound to {0}.
 该角色同时激活的符咒最多只能有{0}个！	This character can only have {0} talismans active at the same time!
@@ -3620,7 +3620,7 @@ Trap编辑。	Trap Edit.
 心绪：{0:N0}\n所有情绪的绝对值相加，情绪的数量和程度都会提高心绪的复杂程度。心绪也受情绪放大系数影响。\n共五个层次：\n[color=#FFFFFF]■[/color]心咆意哮\n[color=#00c400]■[/color]心猿意马\n[color=#0099cc]■[/color]心念芜杂\n[color=#F700FF]■[/color]心宁气静\n[color=#FF8B00]■[/color]心如止水	Distress: {0:N0}\nThe total absolute value of all mood. The number and extent of the moods will complicate the distress. It is also affected by the mood multiplier. \nFive states in total: \n[color=#FFFFFF]■[/color] Raging Anger \n[color=#00c400]■[/color] Absent Mind \n[color=#0099cc]■[/color] Troubled Soul \n[color=#F700FF]■[/color] Tranquility \n[color=#FF8B00]■[/color] Even-tempered
 \n剩余: {0}	\nRemaining: {0}
 尚未开辟神国	Divine realm has not yet been established.
-角色死亡，无法展开神国	The character is dead. Unable to establish the Divine Realm.
+角色死亡，无法展开神国	O personagem está morto. Incapaz de estabelecer o Divine Realm.
 此处无法展开神国	Unable to establish the Divine Realm here.
 \n兽形态下无法突破瓶颈	\nUnable to breakthrough Limit in beast form.
 内丹战斗强度:	Internal Core Battle Power: 
@@ -3648,9 +3648,9 @@ Trap编辑。	Trap Edit.
 (总值)	(Total)
 (平均值)	(Average)
 全局闪避：{0:P2}	Global Dodge: {0:P2}
-躲闪率：炼体者直接躲避攻击的几率。	Dodge Chance: the chance of Physical cultivators directly dodging an attack.
+躲闪率：炼体者直接躲避攻击的几率。	Dodge Chance: a chance de Cultivadores Físicos se esquivarem diretamente de um ataque.
 身体强度：{0:F2}	Physical Strength: {0:F2}
-身体强度：炼体者身躯的综合强度，决定炼体者承受伤害的能力。	Physical Strength: the comprehensive strength a physical cultivator's body, which determines the ability to bear damage.
+身体强度：炼体者身躯的综合强度，决定炼体者承受伤害的能力。	Physical Strength: a força abrangente do corpo de um cultivador físico, que determina a capacidade de suportar danos.
 等待师父{1}完成{0}。	Waiting for Master {1} to complete {0}.
 正在感悟天地	Deep in though
 [align=center]道行天劫[/align]\n已渡次数:{0}\n可渡次数:{1}\n\n[color=#D06508]道行每达百数，便可与冥冥之中感悟天道对道行之限制。若修成元神，便可运转元神引动天机，以渡道行之天劫。[/color]	[align=center]Attainment Tribulation[/align]\nSurvived Tribulations: {0}\nTribulations Left {1}\n\n[color=#D06508]For every 100 attainment, the character may try for an epiphany of the attainment restriction from the Creed of Heaven. If the character has cultivated a primordial soul, they can use it to gain insight into the mystery of nature to survive the Attainment Tribulation.[/color]
@@ -3671,7 +3671,7 @@ Trap编辑。	Trap Edit.
 神民数量\n神国中拥有的神民数量。	Number of Divine Residents\nThe number of divine residents in the Divine Realm.
 信徒数量\n靠行走天下获得。在开辟神国之前，你最多只能拥有1000个信徒。	Número de seguidores\nObtido de viajar ao redor do mundo. Antes de estabelecer um Reino Divino, você pode ter no máximo 1.000 seguidores.
 分神：\n已获得：{0}\n可寄托：{1}\n已寄托：{2}({4})\n未获得：{3}	Sub-spirits: \nObtained: {0}\nAvailable to attach: {1}\nAttached: {2}({4})\nNot Obtained: {3}
-可提高灵宠锻炼的效果以及解锁更多行为。	Improves the effects of Pet exercise and unlock more Acts.
+可提高灵宠锻炼的效果以及解锁更多行为。	Melhora os efeitos do exercício Pet e desbloqueia mais Atos.
 影响灵宠的灵气上限。	Afeta o Qi Cap do Pet.
 影响灵宠内丹的各项属性。	Afeta as estatísticas do Pet de seu Núcleo Interno.
 影响灵宠的灵气护盾强度。	Afeta o Poder da Barreira de Qi do Pet.
@@ -3693,7 +3693,7 @@ Trap编辑。	Trap Edit.
 请选择一个理智思绪	Select a Rationality Thought.
 请选择一个认知思绪	Select a Realization Thought.
 请选择一个感知思绪	Select a Perception Thought.
-灵智碎片，可通过一条理智，认知，感知类型的思绪合成。	Intelligence Shard, can be synthesized with a Thought of Realization, Rationality and Perception.
+灵智碎片，可通过一条理智，认知，感知类型的思绪合成。	Fragmento de Inteligência, pode ser sintetizado com um Pensamento de Realização, Racionalidade e Percepção.
 灵智碎片：\n{2},{3},{4}\n	Intelligence Shard: \n{2},{3},{4}\n
 [color=#FF0000]{0}[/color]个灵智碎片开启灵智，化形天劫在[color=#FF0000]{1}[/color]天后降临	Awakened with [color=#FF0000]{0}[/color] Intelligence Shards. The Shapeshifting Tribulation is descending in [color=#FF0000]{1}[/color] days.
 {1}({0})\n{2:F0}岁\n寿元:{3}	{1} ({0})\n{2:F0} years old\nLifespan: {3}
@@ -3778,17 +3778,17 @@ Trap编辑。	Trap Edit.
 筑基值:{0:F0}/{1:F0} ({2:F0}%)	Foundation: {0:F0}/{1:F0} ({2:F0}%)
 情绪:{0:N0}\n外门弟子情绪低于30会发生怠工。\n内门弟子的情绪太差则会影响到心境的变化甚至发生入魔	Humor: {0:N0}\nQuando o humor de um discípulo externo cai abaixo de 30, ele para de funcionar e pode começar a relaxar.\nSe o humor de um discípulo interno estiver muito baixo, isso afetará seu estado mental e ele poderá até cair.
 神性：{0:N2}%\n真实值：{1:N2}%\n调整值：{3}{2:N2}%\n{4}\n\n[color=#D06508]随着修行的时间以及特殊行为，神性会逐渐替代人性。当神性达到100%时，角色会发生神化。\n神国建成以前，神性最高只能达到50%。[/color]	Divindade: {0:N2}%\nDivindade Base: {1:N2}%\nDivindade Modificada: {3}{2:N2}%\n{4}\n\n[color=#D06508]À medida que o cultivo continua e ações especiais acontecem, a divindade gradualmente substituirá a humanidade. Quando a divindade atinge 100%, o personagem começará a se transformar em uma divindade. \nAntes do estabelecimento de um Reino Divino, a divindade só pode atingir 50% no máximo.[/color]
-归属感：{0:0}	Loyalty: {0:0}
+归属感：{0:0}	Lealdade: {0:0}
 影响思绪片段产生速度。满足的条件越多，产生得越快。\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}	Affects the speed at which Thought Shards generate. The more conditions fulfilled, the faster they are generated.\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}
-处于养殖区	In Pasture Area
+处于养殖区	Na Pasture Area
 启智与思考\n(快捷键:[keycode]PracticePanel[/keycode])	Awakening Intelligence and Thinking\n(hotkey: [keycode]PracticePanel[/keycode])
 开智期	Awakening State
 思绪碎片：{0}/{1}	Shards: {0}/{1}
 精元容量:{0:F0}/{1:F0} ({2:F0}%)\n灵智碎片足够，而且精元容量已满的时候可以开启灵智。	Stamina capacity: {0:F0}/{1:F0} ({2:F0}%)\nYou can awaken intelligence once Stamina is full and there is enough Intelligence Shards.
 灵气:{0:N0}/{1:N0}\n灵宠的灵气在战斗中回复比较缓慢。当灵气为空时灵兽将会死亡，建立对应雕像可以使其重生。\n角色会从环境中吸取灵气	Qi:{0:N0}/{1:N0}\nPet's Qi slowly replenishes in battle. Once Qi is exhausted, the pet will die. You can build the corresponding statue to revive it.\nCharacter absorbs Qi from the environment.
 当前成长值:{0:N0}%	Current Growth: {0:N0}%
-灵宠会优先食用低优先级的食物	Pets will eat food with low Priority first.
-灵宠会优先食用高优先级的食物	Pets will eat food with high Priority first.
+灵宠会优先食用低优先级的食物	Animais de estimação vão comer alimentos com baixa prioridade primeiro.
+灵宠会优先食用高优先级的食物	Os animais de estimação comerão os alimentos com alta prioridade primeiro.
 阵枢:{0}\n\n	Pillars: {0}\n\n
 阵眼:{0}\n\n	Auxiliaries: {0}\n\n
 {0}\n已失去	{0}\nLost
@@ -3816,9 +3816,9 @@ Trap编辑。	Trap Edit.
 显示名称	Display Name
 当前年龄	Current Age
 最大年龄	Oldest Age
-称号	Title
+称号	Título
 别名	Alias
-组名	Team Name
+组名	Nome do time
 系统互动按钮	System Interactive Buttons
 自定义互动按钮	User Interactive Buttons
 Lua回调类名	Lua Callback Class Name
@@ -3833,12 +3833,12 @@ Lua回调类名	Lua Callback Class Name
 {0}无法使用{1}	{0} cannot use {1}.
 {0}尝试使用了{1}，没有效果，便放回了背包	{0} failed in an attempt to use {1} and then put it back in the bag.
 没有可用的弟子，请先派遣弟子抵达此处。\n在世真仙可以直接降临。	No available disciple. Please send disciples here first. \nDemi-God can directly descend upon this place.
-冒险	Adventura
+冒险	Aventura
 此门派已经闭关戒严，暂时无法进入。	This sect has been closed off to the public. Currently inaccessible.
 此地已封山戒严，暂时无法进入。	This place has been closed off to the public. Currently inaccessible.
-无可用弟子	No available disciple
+无可用弟子	Nenhum discípulo disponível
 确定派遣弟子要进入{0}吗？\n\t参与弟子有：\n{1}	Do you want to send disciples to enter {0}?\n\t Participants include: \n{1}
-未获得通行权，贸然进入将会受到攻击	Inaccessible. The character will be attacked for forced entry.
+未获得通行权，贸然进入将会受到攻击	Inacessível. O personagem será atacado por entrada forçada.
 应天台正在闪烁着光芒\n（灵石已经凝聚完成，可以凝取）	Heaven Echo Altar is shinning\n(Spirit Stones Crystallized and can collect)
 应天台的光芒黯淡了下来\n（正在凝聚灵石）	Light on the Heaven Echo Altar faded.\n(Crystallizing Spirit Stones)
 姓名	Nome
@@ -3849,9 +3849,9 @@ Lua回调类名	Lua Callback Class Name
 灵刻	Spirit Carve
 尚未入玄	No linked
 正在上传角色数据	Uploading Data
-是否确定凝取灵石，这将触发一场战斗。	Sure to Collect Spirit Stones? This will trigger a fight.
-是否确定与当前目标战斗。	Sure to fight with target?
-暂无目标，请先邀请或者随机一个目标	No target. Invite or random select a target
+是否确定凝取灵石，这将触发一场战斗。	Certeza de Coletar Pedras Espirituais? Isso vai desencadear uma luta.
+是否确定与当前目标战斗。	Certeza de lutar com alvo??
+暂无目标，请先邀请或者随机一个目标	Nenhum alvo. Convide ou selecione aleatoriamente um alvo
 角色入玄失败，请重新尝试	Heaven link failed, try again.
 角色入玄成功	Heaven link Success
 {0} 邀请 {1} 进行比试，获得了胜利。	{0} invite {1} to have a fight and win.
@@ -3876,7 +3876,7 @@ Lua回调类名	Lua Callback Class Name
 {0}\n[color=#D06508]左键点击添加，右键点击减少\nShift:10倍\nCtrl:100倍[/color]	{0}\n[color=#D06508]Left-click to add. Right-click to reduce.\nShift: 10x \nCtrl: 100x[/color]
 通行权	Acesso
 寻求门派的求援	Peça ajuda da seita
-交易后，可自由进出此门派所有地点。好感度越高，售价越低。如好感度跌到一般以下，将取消通行权。	After trading, the character can freely enter and exit all locations of this sect. The higher the favor, the lower the price. If the favor is lower than normal, no access will be granted.
+交易后，可自由进出此门派所有地点。好感度越高，售价越低。如好感度跌到一般以下，将取消通行权。	Após a negociação, o personagem pode entrar e sair livremente de todos os locais desta seita. Quanto maior o favor, menor o preço. Se o favor for menor que o normal, nenhum acesso será concedido.
 <font color=#9e6404>此功法已收录至藏经阁</font>	<font color=#9e6404>This Law has been placed in the Manual Pavilion.</font>
 外门弟子	Discipulos Externos
 {0}弟子	{0} Discipulos
@@ -3900,27 +3900,27 @@ Lua回调类名	Lua Callback Class Name
 我受人之托，前来高价收购{0}。	I have been tasked to purchase {0} with high price.
 近日只有{0}类物品有利可图。	Recently, only {0} items are profitable.
 我受人之托，前来高价收购{0}。近日{1}类物品过多，简直一文不值。	I have been tasked to purchase {0} with high price. Recently, {1} items are worthless.
-近日{0}类物品过多，简直一文不值。	Recently, there is a surplus of {0} items, making them almost worthless.
+近日{0}类物品过多，简直一文不值。	Recentemente, há um excedente de {0} itens, tornando-os quase inúteis.
 你好	Hello
 {0}凭借玄凤的火眼金睛，看破了{1}个物品的真面目！	With the piercing sight of Dark Phoenix, {0} has seen through the true nature of {1} items!
 花费{0}灵石拍卖到以下道具：	Cost {0} spirit stones to buy the following item: 
 （[color=#990000]因无法支付，你将被迫服役{0}天[/color]）	([color=#990000]Unable to pay, you are forced to serve for {0} days[/color].)
-本次拍卖遭遇意外，暂停一次	Due to an accident happend recently, the auction has to be suspended this time.
+本次拍卖遭遇意外，暂停一次	Devido a um acidente ocorrido recentemente, o leilão teve que ser suspenso desta vez.
 赎人	Resgate
 离开	Sair
 好	Boa.
-赎金在这里	Here's the ransom money.
-溜了溜了	See ya.
+赎金在这里	Aqui está o dinheiro do resgate.
+溜了溜了	Até mais.
 过	Passar.
 最后一轮竞拍	A última rodada!
 第{0}轮竞拍	Round {0}
 竞拍品:[{0}]	Auction Item: [{0}]
 【{0}】出价[{1}]	[{0}] bid [{1}].
 我	I
-【{0}】放弃了	[{0}] gave up.
+【{0}】放弃了	[{0}] desistiu.
 恭喜{0}以价格{1}赢得本次竞拍！	Congratulate {0} for bidding {1} to win this auction item!
-【{0}】赢得竞拍	[{0}] won the auction item.
-此物品流拍！	This item failed to have any buyer!
+【{0}】赢得竞拍	[{0}] ganhou o item do leilão.
+此物品流拍！	Este item não teve nenhum comprador!
 流拍	Failed Auction
 \n[color=#FF0000]稳定度不足将无法结阵[/color]	\n[color=#FF0000]Unable to create the formation due to insufficient stability.[/color]
 \n[color=#FF4000]规模超出阵枢承载会导致稳定度大幅下降，反之则上升。[/color]	\n[color=#FF4000]If the size is larger than what the pillar character can manage, the stability will drastically decrease; otherwise, it will increase.[/color]
@@ -3932,9 +3932,9 @@ Lua回调类名	Lua Callback Class Name
 所谓风水，指的是目标建筑五行属性，与所在位置五行分布的融洽关系。\n例如：[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]水属性[/color]的环境中，就会因[color=#ff0000]水克火[/color]的原因而风水不好。\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]木属性[/color]的环境中，因[color=#ff0000]木生火[/color]之故，风水就会很棒。\n在屏幕左上角可以随时查看五行生克关系。	Feng Shui refers to a building's element and the harmonic balance of the location's five elements.\nExample: [color=#ff0000]Fire[/color]-element buildings in a [color=#ff0000]Water[/color]-element environment will have bad Feng Shui as [color=#ff0000]Water extinguishes Fire[/color].\n[color=#ff0000]Fire[/color]-element buildings in a [color=#ff0000]Wood[/color]-element environment will have great Feng Shui as [color=#ff0000]Wood fuels Fire[/color].\nYou can view how the five elements interact with each other at any time in the top-left corner.
 你可以通过屏幕左上角的太极图来进入风水视图，在风水试图下，屏幕中央的五边形即为鼠标所在位置的五行分布。	You can enter Feng Shui View via the Taiji icon in the top-left corner. When using Feng Shui View, pointing your cursor at anything will display a five elements layout of the area.
 [color=#ff0000]装饰性建筑[/color]/[color=#ff0000]地板[/color]/[color=#ff0000]墙壁[/color]根据其主材料不同可以改变附近的五行分布，请尝试使用合适的材料去改换床铺附近的建筑，使之风水化凶为吉。	Depending on the material used for [color=#ff0000]Decorations[/color]/[color=#ff0000]Floor[/color]/[color=#ff0000]Walls[/color], you can change the vicinity's five element flow. Try using more appropriate material and change the constructions near the bed in order to improve the Feng Shui.
-一座深山中的大宅因风水不好而频发怪事，请尝试改善大宅中的四个房间的风水，使之化凶为吉。\n可以点击房间中的空地来选中房间。	Due to its bad Feng Shui, strange incidents often occur in a mansion deep within the mountains. Try improving the Feng Shui of the four rooms.\nClick on an empty space in a room to select it.
+一座深山中的大宅因风水不好而频发怪事，请尝试改善大宅中的四个房间的风水，使之化凶为吉。\n可以点击房间中的空地来选中房间。	Devido ao seu mau Feng Shui, incidentes estranhos geralmente ocorrem em uma mansão nas profundezas das montanhas. Tente melhorar o Feng Shui das quatro salas.\nClique em um espaço vazio em uma sala para selecioná-lo.
 房间风水与房内风水建筑的风水有关，此外还因使房间[color=#ff0000]布局[/color]处于恰当状态，无论拥挤或空旷都会影响房间风水。	A room's Feng Shui is affected by the facilities in it, as well as its [color=#ff0000]layout[/color]. That is to say, whether a room is cramped or spacious also affects its Feng Shui.
-恭喜你完成挑战！您可以回到主菜单选择其他内容或者继续游戏。	Congrats! You completed the challenge! Return to the main menu and choose something else or continue playing.
+恭喜你完成挑战！您可以回到主菜单选择其他内容或者继续游戏。	Parabéns! Você completou o desafio! Volte ao menu principal e escolha outra coisa ou continue jogando.
 由{0}一手创建的修行门派，自成立以来，便如异军突起，短短数年便成就宗师气象，于修行界占据一席之地，留下赫赫威名。	A practice sect established by {0}. It has gained much power since its emergence and even though it has only been active for a few years, others view him as a master. He has made a place for himself in the realm of practice and is now famous.
 江湖名门{0}所处之地，原本只是一座无人问津的荒山，但所谓山不在高，有仙则灵。此地经过{0}几代弟子数百年发展，早已成为仙家洞天福地。	The renown sect {0}'s homeland. Originally, the location was but a barren mountain range. The mountains weren't towering, but within them dwelled immortals. After {0} generations and hundreds of years, it has now become a paradise.
 抱歉，因为某种异常的原因系统忘记了您老门派的名字，需要您重新告诉我们。谢谢。	Desculpe, devido a algum erro do sistema, seu antigo nome de seita foi esquecido. Por favor, lembre-nos o que era.
@@ -3942,7 +3942,7 @@ Lua回调类名	Lua Callback Class Name
 神秘大能	Poder Misterioso
 输入老门派的名字	Digite um nome para sua antiga seita.
 太虚傀儡	Void Puppet
-{0}之镇派法宝，乃是前代派中高人的贴身法器。但自从百年前便被封印，再无人启用，似乎在等待着什么。	{0}'s most valued heirloom. It was the weapon of their greatest master, but it was sealed away hundreds of years ago and has gone unused for generations. It seems to be waiting for something, or someone.
+{0}之镇派法宝，乃是前代派中高人的贴身法器。但自从百年前便被封印，再无人启用，似乎在等待着什么。	A herança mais valiosa de {0}. Era a arma de seu maior mestre, mas foi selada há centenas de anos e não foi usada por gerações. Parece estar esperando por algo, ou alguém.
 太虚幻境\n假作真时真亦假，无为有时有还无。\n太上有道虚作实，心中无疑幻成真。	Land of Illusion\nIf you dress truth up as false; then, what is truly true and what is truly false?\nWith the power to turn illusion into reality, all one's doubts become true.
 在逃亡途中，你们不幸被追杀的敌人找寻到，生死关头，一名青山高冠的仙人从天而降，飞剑如电，瞬间将追兵斩杀。\n  你们刚准备拜谢救命之恩，那名仙人就挥手阻止了你们，而后连说三声真像，便留下一封信笺，化光而去……	The enemies caught up to you as you were escaping and as they were slaughtering your men one after another, a radiant immortal descended from Heaven. His sword flashed like lightning and the enemy fell to the last man.\n  As you prepared to prostrate yourself in thanks to this stranger, he raised a hand to stop you. After which he muttered an incantation and left you letter, only to disappear in a flash of light…
 数日逃亡之后……	Alguns dias após a fuga…
@@ -3956,15 +3956,15 @@ Lua回调类名	Lua Callback Class Name
 神秘杀手	Mysterious Assassin
 信鸽信息	Carrier Pigeon Message
 历练故事	História de aventura
-江湖秘闻	Worldly Secret
+江湖秘闻	Segredo Mundial
 此地	Here
-历练天下	World Adventure
+历练天下	Aventura Mundial
 开始测试 {0}！	Start testing {0}!
 {0} 选项{1}显示条件报错！\n	{0} option {1} display condition error!\n
 {0}测试通过！	{0} passed the test!
-成功条件	Success Conditions
-成功结果	Success Results
-失败结果	Failure Results
+成功条件	Condições do Sucesso
+成功结果	Resultados do Sucesso
+失败结果	Resultados da falha
 {0}执行 选项{1} 的 {2} 结果时报错\n	Result error when executing {0} option {1}'s {2}.\n
 天下数据	World Data
 一个新的地点被发现：{0}	A new location has been discovered: {0}
