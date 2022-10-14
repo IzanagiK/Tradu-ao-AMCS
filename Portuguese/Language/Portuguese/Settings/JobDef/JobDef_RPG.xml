@@ -1,52 +1,52 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="JobAIPathMove">
-			<DisplayName>Move</DisplayName>
+			<DisplayName>Mover</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIFree">
-			<DisplayName>Wander</DisplayName>
+			<DisplayName>Andar</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIStay">
-			<DisplayName>Stay</DisplayName>
+			<DisplayName>Ficar</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIRoute">
-			<DisplayName>Patrol</DisplayName>
+			<DisplayName>Patrulhar</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIPatrol">
-			<DisplayName>Roam</DisplayName>
+			<DisplayName>Perambular</DisplayName>
 		</Text>
 		<Text Name="JobRPGPlayerMove">
-			<DisplayName>Move</DisplayName>
+			<DisplayName>Mover</DisplayName>
 		</Text>
 		<Text Name="JobRPGOpt">
-			<DisplayName>Move</DisplayName>
+			<DisplayName>Mover</DisplayName>
 		</Text>
 		<Text Name="JobRPGMine">
-			<DisplayName>Mine</DisplayName>
+			<DisplayName>Minerar</DisplayName>
 		</Text>
 		<Text Name="JobRPGCutoff">
-			<DisplayName>Chop</DisplayName>
+			<DisplayName>Cortar</DisplayName>
 		</Text>
 		<Text Name="JobRPGPickup">
-			<DisplayName>Collect</DisplayName>
+			<DisplayName>Coletar</DisplayName>
 		</Text>
 		<Text Name="JobRPGEat">
-			<DisplayName>Eat</DisplayName>
+			<DisplayName>Comer</DisplayName>
 		</Text>
 		<Text Name="JobRPGDialog">
-			<DisplayName>Talk</DisplayName>
+			<DisplayName>Falar</DisplayName>
 		</Text>
 		<Text Name="JobRPGEquip">
-			<DisplayName>Equip</DisplayName>
+			<DisplayName>Equipar</DisplayName>
 		</Text>
 		<Text Name="JobRPGPassiveMove">
-			<DisplayName>Move</DisplayName>
+			<DisplayName>Mover</DisplayName>
 		</Text>
 		<Text Name="JobRPGMoveTo">
-			<DisplayName>Move To</DisplayName>
+			<DisplayName>Mover para</DisplayName>
 		</Text>
 		<Text Name="JobRPGSlaughter">
-			<DisplayName>Butcher</DisplayName>
+			<DisplayName>Tirar Carne</DisplayName>
 		</Text>
 	</List>
 </Texts>
