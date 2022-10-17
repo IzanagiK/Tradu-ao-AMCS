@@ -1,100 +1,100 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Rabbit">
-			<DisplayName>Rabbit</DisplayName>
-			<Desc>Common Animal: Rabbit</Desc>
+			<DisplayName>Coelho</DisplayName>
+			<Desc>Animal comum: Coelho</Desc>
 			<TalkBefore>Squeak squeak,</TalkBefore>
 			<TalkAfter>, squeak~!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="Chicken">
-			<DisplayName>Chicken</DisplayName>
-			<Desc>Common Animal: Chicken</Desc>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<DisplayName>Frango</DisplayName>
+			<Desc>Animal comum: Frango</Desc>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 			<TalkBefore>Cluck cluck duh,</TalkBefore>
 			<TalkAfter>, cluck cluck!</TalkAfter>
 		</Text>
 		<Text Name="Wolf">
-			<DisplayName>Wolf</DisplayName>
-			<Desc>Common Animal: Wolf</Desc>
+			<DisplayName>Lobo</DisplayName>
+			<Desc>Animal comum: Lobo</Desc>
 			<TalkBefore>Howl,</TalkBefore>
 			<TalkAfter>, howl howl!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="Snake">
-			<DisplayName>Snake</DisplayName>
-			<Desc>Common Animal: Snake</Desc>
+			<DisplayName>Cobra</DisplayName>
+			<Desc>Animal comum: Cobra</Desc>
 			<TalkBefore>Sssss,</TalkBefore>
 			<TalkAfter>, sssss!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="Boar">
-			<DisplayName>Boar</DisplayName>
-			<Desc>Common Animal: Boar</Desc>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<DisplayName>Javali</DisplayName>
+			<Desc>Animal comum: Javali</Desc>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 			<TalkBefore>Oink oink,</TalkBefore>
 			<TalkAfter>, oink!</TalkAfter>
 		</Text>
 		<Text Name="Bear">
-			<DisplayName>Bear</DisplayName>
-			<Desc>Common Animal: Bear</Desc>
+			<DisplayName>Urso</DisplayName>
+			<Desc>Animal comum: Urso</Desc>
 			<TalkBefore>Growl growl,</TalkBefore>
 			<TalkAfter>, growl!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="Turtle">
-			<DisplayName>Turtle</DisplayName>
-			<Desc>Common Animal: Turtle</Desc>
+			<DisplayName>Tartaruga</DisplayName>
+			<Desc>Animal comum: Tartaruga</Desc>
 			<TalkBefore>Clank,</TalkBefore>
 			<TalkAfter>, clank!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="Frog">
-			<DisplayName>Frog</DisplayName>
-			<Desc>Common Animal: Frog</Desc>
+			<DisplayName>Rã</DisplayName>
+			<Desc>Animal comum: Rã</Desc>
 			<TalkBefore>Croak croak,</TalkBefore>
 			<TalkAfter>, croak!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="Fei">
 			<DisplayName>Fei</DisplayName>
-			<Desc>Common Beast: Fei</Desc>
+			<Desc>Besta Comum: Fei</Desc>
 		</Text>
 		<Text Name="Lushu">
 			<DisplayName>Lushu</DisplayName>
-			<Desc>Common Beast: Lushu</Desc>
+			<Desc>Besta Comum: Lushu</Desc>
 		</Text>
 		<Text Name="Cat">
-			<DisplayName>Cat</DisplayName>
-			<Desc>Common Animal: Cat</Desc>
+			<DisplayName>Gato</DisplayName>
+			<Desc>Animal comum: Gato</Desc>
 			<TalkBefore>Meow,</TalkBefore>
 			<TalkAfter>, meow!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="Cattle">
-			<DisplayName>Bull</DisplayName>
-			<Desc>Common Animal: Bull</Desc>
+			<DisplayName>Touro</DisplayName>
+			<Desc>Animal comum: Touro</Desc>
 			<TalkBefore>Moo moo,</TalkBefore>
 			<TalkAfter>, moo moo!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="Tiger">
-			<DisplayName>Tiger</DisplayName>
-			<Desc>Common Animal: Tiger</Desc>
+			<DisplayName>Tigre</DisplayName>
+			<Desc>Animal comum: Tigre</Desc>
 			<TalkBefore>Roar roar,</TalkBefore>
 			<TalkAfter>, growl!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 	</List>
 </Texts>

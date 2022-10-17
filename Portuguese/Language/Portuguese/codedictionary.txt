@@ -113,25 +113,25 @@
 布	Fabric
 骨骼	Bone
 角料	Offcut
-武器	Weapon
-法宝	Artifact
-奇物	Fortuitous Treasure
-披风	Mantle
-衣服	Coat
-裤子	Pants
-食物	Food
-药物	Medicine
-灵丹	Pill
-符咒	Talisman
-符纸	Talisman Paper
-工具	Tool
+武器	Arma
+法宝	Artefato
+奇物	Tesouro fortuito
+披风	Manto
+衣服	Casaco
+裤子	Calça
+食物	Comida
+药物	Medicina
+灵丹	Pílula
+符咒	Talismã
+符纸	Papel Talismã
+工具	Ferramenta
 金属锭	Bar
 秘籍	Manual
 灵石	Spirit Stone
 垃圾	Rubbish
 其他	Misc
-珀	Soul Gem
-宝物	Treasure
+珀	Jóia da Alma
+宝物	Tesouro
 竹子	Bamboo
 灵契	Spirit contract
 正邪未明	Unknown
@@ -153,20 +153,20 @@
 仓库	Storage
 坐南朝北	Facing North
 工坊	Workshop
-角色对外界的探查与反馈的能力，影响角色的视野，以及需要精细工作的效率等属性。	Perception (PER): A character's ability to explore and gather intelligence from the outside world. Affects a character's field of vision and their efficiency of fine work.
-角色身体的强度，影响角色的寿命，抗寒抗热，以及与体力相关的效率等属性。	Constitution (CON): The strength of a character's body. Affects a character's lifespan, cold and heat resistance and efficiency when it comes to physical labor.
-角色获取他人好感的能力，包括外在容貌与内在气质，影响角色的社交能力。	Charisma (CHA): A character's ability to gain favor from others, including their appearance and disposition. Affects a character's social ability.
-角色思考的能力，影响角色的学习速度等属性。	Intelligence (INT): A character's ability to think. Affects the speed of learning.
-角色受上天眷顾的程度，影响角色概率相关的属性。	Luck (LUK): The extent to which a character is favored by the Heaven. Affects stats related to chance.
-角色在修炼上的潜在能力。潜力与角色的年龄与个人经历有关，一旦进入内门就会锁定，无法被改变。	Potential (POT): A character's training potential. Potential is related to the age and background of a character. Once a character becomes an inner disciple, this will be locked and cannot be changed further.
+角色对外界的探查与反馈的能力，影响角色的视野，以及需要精细工作的效率等属性。	Percepção (PER): A habilidade de um personagem de explorar e reunir inteligência do mundo exterior. Afeta o campo de visão de um personagem e sua eficiência de trabalho fino.
+角色身体的强度，影响角色的寿命，抗寒抗热，以及与体力相关的效率等属性。	Constituição (CON): A força do corpo de um personagem. Afeta a vida útil de um personagem, resistência ao frio e ao calor e eficiência quando se trata de trabalho físico.
+角色获取他人好感的能力，包括外在容貌与内在气质，影响角色的社交能力。	Carisma (CHA): A habilidade de um personagem de ganhar o favor dos outros, incluindo sua aparência e disposição. Afeta a habilidade social de um personagem.
+角色思考的能力，影响角色的学习速度等属性。	Inteligência (INT): A habilidade de um personagem de pensar. Afeta a velocidade de aprendizagem.
+角色受上天眷顾的程度，影响角色概率相关的属性。	Sorte (SORTE): A medida em que um personagem é favorecido pelo Céu. Afeta estatísticas relacionadas ao acaso.
+角色在修炼上的潜在能力。潜力与角色的年龄与个人经历有关，一旦进入内门就会锁定，无法被改变。	Potencial (POT): O potencial de treinamento de um personagem. O potencial está relacionado à idade e ao passado de um personagem. Uma vez que um personagem se torna um discípulo interno, isso será bloqueado e não poderá ser alterado.
 灵气	Qi
 历练值	Skill
-领悟值	Comprehension
-修为	Experience
-寿元	Lifespan
-任意	Any
-皮肉	Flesh
-器官	Organ
+领悟值	Compreensão
+修为	Experiência
+寿元	Vida útil
+任意	Todos
+皮肉	Carne
+器官	Órgão
 (吃饭)	(Eating)
 (练功)	(Training)
 (睡觉)	(Sleeping)
@@ -185,29 +185,29 @@
 洗髓期	Marrow-cleansing Phase
 脱胎期	Incubation Phase
 混元期	Chaos Phase
-不朽金身	Immortal Body
-练习御物	Practice Artifact Mastery
-练习功法	Practice Law
-炼制法宝	Refine Artifact
-练习术法	Practice Spell
+不朽金身	Corpo Imortal
+练习御物	Praticar o domínio do artefato
+练习功法	Praticar Lei
+炼制法宝	Refinar Artefato
+练习术法	Praticar Magia
 进行调心	Mind
-练习护体	Train Protection
-炼制丹药	Create Elixir
+练习护体	Train Proteção
+炼制丹药	Criar Elixir
 男人	Male
 女人	Female
-修炼	Cultivation
+修炼	Cultivação
 过往	Past
-美景	Scenery
+美景	Cenário
 动物	Animal
-功法	Law
+功法	Lei
 厨艺	Cooking
-农事	Agriculture
-玄学	Metaphysics
-邪教	Evil Sect
-正派	Just Sect
-秘密	Secret
-天气	Weather
-门派	Sects
+农事	Agricultura
+玄学	Metafísica
+邪教	Seita do Mal
+正派	Seita Justa
+秘密	Secreto
+天气	Tempo
+门派	Seitas
 昨天	Yesterday
 爱好	Hobby
 猫	Gato
@@ -234,20 +234,20 @@
 \n季节不适	\nUnsuitable Season
 \n五行不适	\nUnsuitable Element
 \n灵气不足	\nInsufficient Qi
-上午	Morning
-下午	Afternoon
-无滤镜	No filters
-岁月	Years
-铭记	Remembrance
-幽冥	Netherworld
+上午	Manhã
+下午	Tarde
+无滤镜	Sem filtros
+岁月	Anos
+铭记	Lembrança
+幽冥	Mundo inferior
 水墨	Ink painting
-人间	Mortal World
-红尘	Mortal Realm
-缥缈	Misty
-古卷	Ancient Scroll
-日升	Sunrise
-夏意	Summer
-妙趣	Witty
+人间	Mundo Mortal
+红尘	Reino Mortal
+缥缈	Névoa
+古卷	Pergaminho Antigo
+日升	Nascer do sol
+夏意	Verão
+妙趣	Espirituoso
 [{0}](禁止)	[{0}] (Forbidden)
 (热爱)	(Passionate)
 (着迷)	(Obsessed)
@@ -287,15 +287,15 @@
 九幽绝地	Dire
 山寨	Fortress
 洞天	Heavenly Abode
-精品	Exquisite
-优秀	Excellent
-一般	Common
-糟糕	Poor
+精品	Exótico
+优秀	Excelente
+一般	Comum
+糟糕	Pobre
 无品质	No Quality
-华丽	Magnificent
-精美	Beautiful
-普通	Common
-丑陋	Ugly
+华丽	Magnífico
+精美	Lindo
+普通	Comum
+丑陋	Feio
 圣物	Sacred Relic
 神物	Divine Relic
 灵物	Spirit Relic
@@ -314,8 +314,8 @@
 极热	Scorching
 炎热	Hot
 温度适宜	Moderate
-寒冷	Cold
-极寒	Freezing
+寒冷	Resfriado
+极寒	Congelando
 刺眼	Dazzling
 晃眼	Bright
 光线适宜	Sunlit
@@ -327,14 +327,14 @@
 勉强	Amateur
 不擅	Inept
 巨大	Huge
-大	Large
-中	Medium
-小	Small
+大	Grande
+中	Médio
+小	Pequeno
 拥挤	Full
 恰当	Normal
 空旷	Empty
-豪华	Luxurious
-精致	Refined
+豪华	Luxuoso
+精致	Refinado
 简陋	Bareboned
 美轮美奂	Magnificent
 满目凋敝	Devastated
@@ -598,74 +598,74 @@ _结局	_The End
 非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	Sorry! Failed to save. \nYou might want to rage and blame us developers at the moment, and we understand you as this shouldn't have happened. \nSorry! Please try to load an old save. \nIf you need help or wish to report an issue, please contact us at \nQA@GSQStudio.com.
 读取存档文件	Loading save file
 载入数据:{0}/{1}	Loading data: {0}/{1}
-逆转因果，有干天和。已无法在真仙模式下使用。\n(你已经离开真仙模式)	The world is revolving around its axis and you are no longer part of Immortal.\n(You have left Immortal)
-子时,子夜时分,三更时分,夜半时分,夜深之时,万籁俱静	It is about 23:00–1:00, the night sky is filled with twinkling stars
-丑时,鸡鸣时分,四更时分,星垂夜阔,西月微斜	It is about 1:00–3:00, darkness still reigns supreme but will soon regress
-寅时,黎明时分,平旦之时,五更时分,月沉西落,东方渐白	It is about 3:00–5:00, light begins to shine, expelling the darkness
-卯时,日出时分,破晓时分,日始时分,清晨初雾,晨光初露	It is about 5:00–7:00, the cocks crow heralding a new day
-辰时,早食之刻,日初之时,生气苏始	It is about 7:00–9:00, workers are scurrying to and fro
-巳时,日禺之时,隅中时分	It is about 9:00–11:00, noon is nearing and the sun shines brighter
-午时,日中之时,正午之时,响午时分	It is about 11:00–13:00, the lunch bells chime to roaring laughter
-未时,日央之刻,日昳时分,日斜心慵	It is about 13:00–15:00, half the day has gone but shade is still scarce
-申时,夕食之刻,日闲之时,响午之后	It is about 15:00–17:00, workers are finishing up their daily tasks
-酉时,日落时分,日沉之刻,傍晚时分,暮色怅晚,鸟倦云舒	It is about 17:00–19:00, light spring up from hovel big and small
-戌时,黄昏时分,日夕之刻,日暮时分,起更之时,华灯初上	It is about 19:00–21:00, darkness returns suppressing the last light
-亥时,人定之时,二更时分,夜深人静,月上柳梢,夜幕深沉	It is about 21:00–23:00, the world is shrouded in darkness and animals roam
+逆转因果，有干天和。已无法在真仙模式下使用。\n(你已经离开真仙模式)	O mundo está girando em torno de seu eixo e você não faz mais parte do Imortal.\n(You have left Immortal)
+子时,子夜时分,三更时分,夜半时分,夜深之时,万籁俱静	São cerca de 23:00–1:00, o céu noturno está cheio de estrelas cintilantes
+丑时,鸡鸣时分,四更时分,星垂夜阔,西月微斜	São cerca de 1:00–3:00, a escuridão ainda reina suprema, mas logo regredirá
+寅时,黎明时分,平旦之时,五更时分,月沉西落,东方渐白	São cerca de 3:00–5:00, luz começa a brilhar, expulsando a escuridão
+卯时,日出时分,破晓时分,日始时分,清晨初雾,晨光初露	São cerca de 5:00–7:00, os galos cantam anunciando um novo dia
+辰时,早食之刻,日初之时,生气苏始	São cerca de 7:00–9:00, os trabalhadores estão correndo para lá e para cá
+巳时,日禺之时,隅中时分	São cerca de 9:00–11:00, o meio-dia está se aproximando e o sol brilha mais forte
+午时,日中之时,正午之时,响午时分	São cerca de 11:00–13:00, os sinos do almoço ressoam em gargalhadas
+未时,日央之刻,日昳时分,日斜心慵	São cerca de 13:00–15:00, metade do dia se foi, mas a sombra ainda é escassa
+申时,夕食之刻,日闲之时,响午之后	São cerca de 15:00–17:00, os trabalhadores estão terminando suas tarefas diárias
+酉时,日落时分,日沉之刻,傍晚时分,暮色怅晚,鸟倦云舒	São cerca de 17:00–19:00, luz brota do casebre grande e pequeno
+戌时,黄昏时分,日夕之刻,日暮时分,起更之时,华灯初上	São cerca de 19:00–21:00, a escuridão retorna suprimindo a última luz
+亥时,人定之时,二更时分,夜深人静,月上柳梢,夜幕深沉	São cerca de 21:00–23:00, o mundo está envolto em escuridão e os animais vagam
 舒服	Confortavel
-开心	Delighted
+开心	Encantado
 工作	Trabalho
-在工作之时，正感觉有点无聊	Working; feels a bit bored
-在工作之时，突然心有所感	Working; gets a sudden feeling
-在工作间余，刚小憩片刻	Taking a break in-between work
-在工作之时，突觉莫名伤心	Working; feels a bit sad all of a sudden
-在工作之时，正累的气喘吁吁	Working; panting for breath
-在工作时，突然走神	Working; daydreaming
-在工作时略有所得，正喜上眉梢	Working; feels happy for having learned something
-工作不顺，觉得有点灰心	Work is not going well; feels somewhat frustrated
-正专心工作	Concentrating on work
-无心工作，正想偷懒	Slacking; doesn't want to work
-刚在工作时走了走神	Keeps daydreaming while working
-工作时仿佛犯冲，正感觉有点生气	Feels frustrated while working; feels a bit angry
-正在乐呵呵的工作中	Happily working
-施展神通	Perform Miracle
-练功	Train
-意兴阑珊的准备开始今天的筑基功课	Excitedly prepares for today's foundation training class
-热身结束，刚准备开始筑基	Warm-up finished; about to begin foundation training
-在筑基之时，正感觉有点无聊	Training foundation; feels a bit bored
-在筑基之时，突然心有所感	Training foundation; gets a sudden feeling
-在筑基间余，刚小憩片刻	Training foundation; taking a break
-在筑基之时，突觉莫名伤心	Training foundation; feels a bit sad all of a sudden
-在筑基时突然走神	Training foundation; daydreaming
-在筑基时略有所得，喜上眉梢	Training foundation; feels happy for having learned something
-筑基不顺，觉得有点灰心	Foundation training is not going well; feels somewhat frustrated
-正专心筑基	Concentrating on training foundation
-无心筑基，正想偷懒	Slacking; doesn't want to train foundation
-筑基时处处受挫，正感觉有点生气	Feeling frustrated while training foundation; feels a bit angry
-正懒懒散散的筑基中	Trains foundation without any enthusiasm
-觉得筑基艰难，正有点灰心	Thinks foundation training is difficult; feels discouraged
-正在为筑基困扰	Troubled by the foundation training
-筑基时走岔了气，正准备休息一下	Lost control of Qi during foundation training; going to get some rest
-正在筑基	Training foundation
-练功筑基许久，正累的气喘吁吁	Has trained foundation a long while; panting for breath
-结束今天的筑基功课，刚准备擦擦汗	Has finished today's foundation training; sweating profusely
-刚结束今天的筑基功课	Just finished today's foundation training
-刚完成筑基，正觉得有点意犹未尽	Foundation training completed; thinking about doing extra training
-突破	Breakthrough
-准备突破瓶颈	Preparing for a breakthrough
-突破瓶颈前，正觉得有点心神不宁	About to breakthrough; feels somewhat uneasy
-信心满满，正准备突破瓶颈	Confident; about to perform a breakthrough
-突破结束，正感慨大道难测	Breakthrough completed; having mixed feelings
-打坐修行	Meditation Practice
-刚准备开始修行	Preparing to meditate
-平心静气，准备修行	Calm; ready to begin meditating
-打坐修行许久，正准备休息一下	Has meditated a long while; going to get some rest
-此次修行大有所获，正感欣喜	Learned a lot from the meditation session; very happy about it
-修行时总觉得心神不宁，正打算缓缓	Feels uneasy while meditation: wants to take a break
-修炼时无法静心，刚走了会神	Unable to find inner peace while meditating; just began daydreaming
-在修行之时，正感觉杂念丛生	Meditating; distracted by thoughts
-被突然的悲伤打断了修行	Interrupted by sudden sadness while meditating
-在修行时略有所得，正略感欣喜	Learning something from the meditation; feels happy
-修行不顺，觉得有点灰心	Meditation is not going well; feels somewhat frustrated
+在工作之时，正感觉有点无聊	Trabalhando; se sente um pouco entediado
+在工作之时，突然心有所感	Trabalhando; tem uma sensação repentina
+在工作间余，刚小憩片刻	Fazer uma pausa entre o trabalho
+在工作之时，突觉莫名伤心	Trabalhando; se sente um pouco triste de repente
+在工作之时，正累的气喘吁吁	Trabalhando; ofegante para respirar
+在工作时，突然走神	Trabalhando; sonhando acordado
+在工作时略有所得，正喜上眉梢	Trabalhando; sente-se feliz por ter aprendido algo
+工作不顺，觉得有点灰心	O trabalho não está indo bem; sente-se um pouco frustrado
+正专心工作	Concentrando-se no trabalho
+无心工作，正想偷懒	Desaceleração; não quer trabalhar
+刚在工作时走了走神	Continua a sonhar acordado enquanto trabalha
+工作时仿佛犯冲，正感觉有点生气	Sente-se frustrado enquanto Trabalhando; sente um pouco de raiva
+正在乐呵呵的工作中	Trabalhando feliz
+施展神通	Realizar milagre
+练功	Treinar
+意兴阑珊的准备开始今天的筑基功课	Prepara-se com entusiasmo para a aula de treinamento básico de hoje
+热身结束，刚准备开始筑基	Aquecimento finalizado; prestes a começar o treinamento básico
+在筑基之时，正感觉有点无聊	Fundação de treinamento; se sente um pouco entediado
+在筑基之时，突然心有所感	Fundação de treinamento; tem uma sensação repentina
+在筑基间余，刚小憩片刻	Fundação de treinamento; Tire uma folga
+在筑基之时，突觉莫名伤心	Fundação de treinamento; se sente um pouco triste de repente
+在筑基时突然走神	Fundação de treinamento; sonhando acordado
+在筑基时略有所得，喜上眉梢	Fundação de treinamento; sente-se feliz por ter aprendido algo
+筑基不顺，觉得有点灰心	O treinamento básico não está indo bem; sente-se um pouco frustrado
+正专心筑基	Concentrando-se na base de treinamento
+无心筑基，正想偷懒	Desaceleração; não quer treinar fundação
+筑基时处处受挫，正感觉有点生气	Sentindo-se frustrado ao treinar a base; sente um pouco de raiva
+正懒懒散散的筑基中	Treina fundação sem qualquer entusiasmo
+觉得筑基艰难，正有点灰心	Acha que o treinamento básico é difícil; sente-se desencorajado
+正在为筑基困扰	Incomodado com o treinamento da fundação
+筑基时走岔了气，正准备休息一下	Perdeu o controle do Qi durante o treinamento básico; vai descansar um pouco
+正在筑基	Base de treinamento
+练功筑基许久，正累的气喘吁吁	Há muito tempo treinou fundação; ofegante para respirar
+结束今天的筑基功课，刚准备擦擦汗	Terminou o treinamento básico de hoje; suando profusamente
+刚结束今天的筑基功课	Acabei de terminar o treinamento básico de hoje
+刚完成筑基，正觉得有点意犹未尽	Formação da Fundação concluída; pensando em fazer treino extra
+突破	Avanço
+准备突破瓶颈	Preparando-se para um avanço
+突破瓶颈前，正觉得有点心神不宁	Prestes a romper; sente um pouco desconfortável
+信心满满，正准备突破瓶颈	Confiante; prestes a realizar um avanço
+突破结束，正感慨大道难测	Avanço concluído; tendo sentimentos contraditórios
+打坐修行	Prática de meditação
+刚准备开始修行	Preparando-se para meditar
+平心静气，准备修行	Calma; pronto para começar a meditar
+打坐修行许久，正准备休息一下	Meditou por muito tempo; vai descansar um pouco
+此次修行大有所获，正感欣喜	Aprendi muito com a sessão de meditação; muito feliz com isso
+修行时总觉得心神不宁，正打算缓缓	Sente-se desconfortável durante a meditação: quer fazer uma pausa
+修炼时无法静心，刚走了会神	Incapaz de encontrar a paz interior enquanto medita; apenas começou a sonhar acordado
+在修行之时，正感觉杂念丛生	Meditando; distraído por pensamentos
+被突然的悲伤打断了修行	Interrompido por tristeza repentina enquanto meditava
+在修行时略有所得，正略感欣喜	Aprendendo algo com a meditação; se sente feliz
+修行不顺，觉得有点灰心	A meditação não está indo bem; sente-se um pouco frustrado
 正专心修行	Concentrating on meditating
 无心修行，正想偷懒	Slacking; doesn't want to meditate
 刚在修行时走了走神	Keeps daydreaming while meditating
@@ -767,7 +767,7 @@ _结局	_The End
 正在准备工具，去执行拆迁工作	Preparing demolition tools
 进食	Eating
 正觉得很饿，准备吃点东西	Feels hungry; going to get something to eat
-正大口朵颐	Wolfing down food
+正大口朵颐	Devorando a comida
 吃东西中噎了自己一下，正慌忙的喝水	Choked on something; gulps down water
 正一脸不痛快的吃饭	Eating unhappily
 快乐的享受着进食的乐趣	Enjoys the fun of eating
@@ -1312,30 +1312,30 @@ _结局	_The End
 测试物品	Test Item
 === 加载图鉴数据{0}条 ===	=== {0} illustrated entries loaded ===
 丹药	Elixir
-秘宝	Rare Artifact
-镇物	Relic
-内门杂物	Inner Miscellneous
-装备	Gear
-外门杂物	Outer Miscellneous
+秘宝	Artefato Raro
+镇物	Relíquia
+内门杂物	Interno Miscelânea
+装备	Engrenagem
+外门杂物	Miscelâneos Externos
 材料	Material
-鱼类	Fish 
-修炼途径	Cultivation Method
-上古阵法	Ancient Formation
-阵法真意	Truth of Formation
-神通	Miracle
-妖兽	Monster
-凶兽	Fierce Beast
+鱼类	Peixe 
+修炼途径	Método de cultivo
+上古阵法	Formação Antiga
+阵法真意	Verdade da Formação
+神通	Milagre
+妖兽	Monstro
+凶兽	Besta feroz
 灵宠	Pet
 妖族	Yaoguai
-建筑人文	Building & Culture
-矿石植被	Ore & Plants
-自然奇景	Natural Landscape
-地点	Location
-天下奇物	Rarity & Treasures
-妙法玄机	Magic & Methods
-众生之相	People & Beings
-环境生态	Environment & Ecology
-红尘百态	Society & Phenomena
+建筑人文	Construção & cultura
+矿石植被	Minério & Plantas
+自然奇景	Paisagem natural
+地点	Localização
+天下奇物	Raridade & Tesouros
+妙法玄机	Magia & Métodos
+众生之相	Pessoas & Seres
+环境生态	Ambiente & Ecologia
+红尘百态	Sociedade & fenômenos
 物品图鉴的内容需要在游戏中通过发现来点亮。	Para desbloquear o conteúdo da Enciclopédia de Itens, você precisa descobri-los no jogo.
 神通图鉴需要玩家阵营的角色亲自学习来点亮。	Para desbloquear o conteúdo da Miracle Encyclopedia, você precisa que os personagens de sua facção os aprendam pessoalmente.
 功法图鉴需要玩家门派获取来点亮。	Para desbloquear o conteúdo da Enciclopédia da Lei, sua seita precisa obtê-los.
@@ -1840,7 +1840,7 @@ Name	Name
 \n情绪影响:\n {0:N0}%	\nMood: \n {0:N0}%
 \n境界影响:\n {0:N0}%	\nState: \n {0:N0}%
 目标角色来自DLC:{0}	Target character is from DLC: {0}
-应天争夺成功，返回门派后可获得凝聚的灵石	Win the Heaven Echo fight, will gain crystallized spirit stones after back to sect.
+应天争夺成功，返回门派后可获得凝聚的灵石	Vença a luta Heaven Echo, ganhará pedras espirituais cristalizadas depois de voltar à seita.
 应天争夺失败	Lose the Heaven Echo fight
 非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试再次存档或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	We're terribly sorry but your game failed to save.\nYou might want to rage and blame us developers at the moment, and we understand you as this shouldn't have happened.\nSorry! Please try to save again or load an old save.\nIf you need help or wish to report an issue, please contact us at QA@GSQStudio.com.
 无门派	No Sect
@@ -1945,7 +1945,7 @@ Name	Name
 接招，看我太虚神剑！！	Taste my Celestial Sword!
 本座已成上品金丹，我太一门今日便以妖人之血，立威天下！诸弟子听令，速速跟随本座追杀敌人，除恶务尽！	I have reached the Golden Core state. Our Taiyi Sect will make an example out of these wicked souls! All disciples, heed my order: Chase down our enemies and spare no one!
 众门人	All Disciples
-恭喜您完成《了不起的修仙模拟器》新手教学！\n时长问题无法为您展示游戏大部分内容，这个世界留待您自己去探索了。\n游戏中您可以随时通过右下角的帮助按钮(F10)打开帮助功能，祝您游戏愉快！	Congratulations on finishing the Amazing Cultivation Simulator's tutorial!\nMost of the game content is not available here due to time limitation, so you will have to explore the world on your own.\nYou can access the help manual by clicking the Help button in the bottom right corner or by pressing F10 at any time. Wish you the best!
+恭喜您完成《了不起的修仙模拟器》新手教学！\n时长问题无法为您展示游戏大部分内容，这个世界留待您自己去探索了。\n游戏中您可以随时通过右下角的帮助按钮(F10)打开帮助功能，祝您游戏愉快！	Parabéns por terminar o tutorial do Amazing Cultivation Simulator!\nA maior parte do conteúdo do jogo não está disponível aqui devido à limitação de tempo, então você terá que explorar o mundo por conta própria.\nVocê pode acessar o manual de ajuda clicando no botão Ajuda no canto inferior direito ou pressionando F10 a qualquer momento. Te desejo o melhor!
 积累木料	Timber Collection
 建造材料加工点，并在材料加工点完成50份木料的制作	Build a Material Processing Station and create 50 Timber there.
 有家可归	Home Sweet Home
@@ -2021,8 +2021,8 @@ Name	Name
 你失去了{0}\n你获得了{1}点人情	You lost {0}.\nYou gained {1} Connection.
 {0}近日急需{1}，愿使用派内宝物{2}与你交换。	{0} is in need of {1} lately. The sect is willing to exchange with its treasure {2}.
 你失去了{0}\n你获得了{1}	You lost {0}.\nYou obtained {1}.
-行商{0}受人所托，愿使用{1}灵石换取一个{2}	Traveling Merchant {0} has been tasked to exchange a {2} with {1} Spirit Stones.
-你失去了{0}\n你获得了灵石 X {1}	You lost {0}.\nYou obtained {1} Spirit Stones.
+行商{0}受人所托，愿使用{1}灵石换取一个{2}	O Mercador Viajante {0} recebeu a tarefa de trocar um {2} por {1} Pedras Espirituais.
+你失去了{0}\n你获得了灵石 X {1}	Você perdeu {0}.\nVocê obteve {1} Pedras Espirituais.
 行商{0}受人所托，愿使用{1}换取一个{2}	Traveling Merchant {0} has been tasked to exchange a {2} with {1}.
 购买物资	Purchase
 接受	Accept
@@ -2133,7 +2133,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 将物品的一个单位放置到置物台上。	Place one item on the Display.
 角色会将该道具搬运至交易区。	The character will move the item to the trade area.
 熔炼	Smelt
-内门弟子将会尝试将这个物品熔炼为灵石。\n每5000灵气可以熔炼为一个灵石。 如果是法宝，则法宝的品阶越高，熔炼出的灵石越多。	Inner disciples will try to smelt this item into Spirit Stones.\nEvery 5,000 Qi can be smelted into one Spirit Stone. Artifacts of higher tiers grants more Qi.
+内门弟子将会尝试将这个物品熔炼为灵石。\n每5000灵气可以熔炼为一个灵石。 如果是法宝，则法宝的品阶越高，熔炼出的灵石越多。	Os discípulos internos tentarão fundir este item em Pedras Espirituais.\nCada 5.000 Qi podem ser fundidos em uma Pedra Espiritual. Artefatos de níveis mais altos concedem mais Qi.
 装备给与	Equip
 将这个装备给与一个角色，角色会自动前来装备。	Give this equipment to a character. The character will automatically retrieve and equip it.
 {0}已经学过这本秘籍了	{0} has already studied this manual.
@@ -2211,18 +2211,18 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 炼制圣物	Criar relíquia sagrada
 将一个普通物品炼制成信仰圣物，一个神道修行者一生只能炼制一件信仰圣物，信仰圣物的强度与修行者息息相关，且具备持续成长的特性。需要[color=#FF0000]炼宝台[/color]。	Crie um item comum em uma relíquia sagrada. Um cultivador de Shendao só pode criar um artefato sagrado em sua vida. Seu poder está intimamente relacionado ao do cultivador e continuará aumentando. Requer[color=#FF0000]Mesa de artesanato[/color].
 召回圣物	Recall Sacred Relic
-当圣物不在身上而且可以召回时，直接将其召回并装备。	Directly recall and equip the sacred relic when it is not equipped but able to be recalled.
-你的信仰圣物已经遗失。	Your sacred relic is lost.
-炼制一炉丹药,需要[color=#FF0000]炼丹炉[/color]。	Create an elixir. Requires an [color=#FF0000]Alchemy Furnace[/color].
-\n需要炼丹等级:	\nRequired Alchemy Level:
-选择要炼制的丹药	Select what elixir to create.
+当圣物不在身上而且可以召回时，直接将其召回并装备。	Recupere e equipe diretamente a relíquia sagrada quando ela não estiver equipada, mas puder ser recuperada.
+你的信仰圣物已经遗失。	Sua relíquia sagrada está perdida.
+炼制一炉丹药,需要[color=#FF0000]炼丹炉[/color]。	Crie um elixir. Requer uma [color=#FF0000]Fornalha de Alquimia[/color].
+\n需要炼丹等级:	\nNível de Alquimia Necessário:
+选择要炼制的丹药	Selecione o elixir para criar.
 传授给低辈弟子符合其境界的秘籍，参悟消耗降低25%。如果是自身弟子，则再额外降低25%。\n当选择了传授多个秘籍后，传授者会逐个等待弟子参悟值足够时再进行传授。	Fornece um manual adequado ao estado do discípulo júnior (o custo de XP de inspiração é reduzido em 25%). Para o discípulo do personagem, o custo é reduzido em mais 25%.\nAo transmitir vários manuais, o instrutor aguardará para transmiti-los até que o discípulo tenha XP de Inspiração suficiente.
 狩猎	Caçar
 狩猎这个动物并进行屠宰	Cace este animal e mate-o.
 屠宰这个动物获得产物。	Corte este animal para obter produtos.
 搜索这个角色，获得他身上的道具。	Search this character to acquire items.
-搬运并移动这个角色到指定地点。	Transport this character to a designated place.
-埋葬这个尸体，需要选择一个空闲的墓地。	Select an empty burial ground and bury this corpse.
+搬运并移动这个角色到指定地点。	Transporte este personagem para um local designado.
+埋葬这个尸体，需要选择一个空闲的墓地。	Selecione um cemitério vazio e enterre este cadáver.
 晋升内门	Promote
 将这个筑基成功的弟子晋升到内门	Este discípulo foi bem sucedido em estabelecer sua fundação. Promova-os a discípulo interior.
 留下这个角色	Keep this character.
@@ -2374,29 +2374,29 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 时长:{2}\n消耗寿元:{0:N0}/{1:N0}   消耗精元：{5}{3:N0}{6}/{4:N0}	Duration: {2}\nLifespan Cost: {0:N0}/{1:N0} Stamina Cost: {5}{3:N0}{6}/{4:N0}
 没有可以传授的秘籍或者参悟	No available manual or inspiration.
 参悟经验：{0:F0}/{1:F0}\n	Inspiration XP: {0:F0}/{1:F0}\n
-\n提高道行：{0}\n	\nIncrease Attainment: {0}\n
+\n提高道行：{0}\n	\nAumente a realização: {0}\n
 分类:{0}\n	Category: {0}\n
 参悟经验：{0:F0}/{1:F0}	Inspiration XP: {0:F0}/{1:F0}
 \n[color=#ff0000]境界不够({0}/{1})[/color]	\n[color=#ff0000]Too low State ({0}/{1})[/color]
 \n[color=#ff0000]仅限自行领悟[/color]	\n[color=#ff0000]Applicable only for one's self.[/color]
 \n提高道行：{0}	\nAttainment: {0}
-你选择了传授多个秘籍，传功者会逐个等待弟子参悟值足够时再进行传授。	You have selected multiple manuals. The instructor will wait until the disciple has enough Inspiration XP to impart them.
-请选择秘籍	Please select manuals.
-该角色正在被施展神通	This character is performing a miracle.
-该角色不能作为目标	This character cannot be targeted.
-该角色已经失去珀了	This character has lost soul gem.
-不适合或者已被占用	Unsuitable or occupied.
-地点不可达	Unreachable location.
-该物体没有灵气	This object has no Qi.
+你选择了传授多个秘籍，传功者会逐个等待弟子参悟值足够时再进行传授。	Você selecionou vários manuais. O instrutor esperará até que o discípulo tenha XP de Inspiração suficiente para transmiti-los.
+请选择秘籍	Por favor, selecione os manuais.
+该角色正在被施展神通	Este personagem está realizando um milagre.
+该角色不能作为目标	Este personagem não pode ser alvo.
+该角色已经失去珀了	Este personagem perdeu a gema da alma.
+不适合或者已被占用	Inadequado ou ocupado.
+地点不可达	Local inacessível.
+该物体没有灵气	Este objeto não tem Qi.
 无法蕴养	Incapaz de nutrir.
-不是法宝	Not an artifact.
+不是法宝	Não é um artefato.
 没有多余的个数	No excess.
 该物品不能食用	This item is not edible.
-暂时无法吞噬品阶大于{0:F2}的物品	Unable to devour items with tiers higher than {0:F2} at the moment.
-无法炼化该类型的物品	Unable to refine this type of items.
-没有炼化物品的能力	Unable to refine items.
-无法吞食该物品	Unable to devour this item.
-没有吞食建筑材料的能力	Unable to devour building materials.
+暂时无法吞噬品阶大于{0:F2}的物品	Não é possível devorar itens com níveis superiores a {0:F2} no momento.
+无法炼化该类型的物品	Não foi possível refinar este tipo de itens.
+没有炼化物品的能力	Não foi possível refinar itens.
+无法吞食该物品	Não foi possível devorar este item.
+没有吞食建筑材料的能力	Incapaz de devorar materiais de construção.
 不能放置在此处	Cannot be placed here.
 放置物品到置物台	Place item on the Display.
 该物品正在被使用	This item is being used.
@@ -2488,7 +2488,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 画符：{0:F0}次	Talismans Drawn: {0:F0}
 击杀生物：{0:F0}个	Creatures Killed: {0:F0}
 击杀修行者：{0:F0}个	Cultivators Killed: {0:F0}
-制作食物：{0:F0}种	Food Created: {0:F0} types
+制作食物：{0:F0}种	Alimentos Criados: {0:F0} types
 稀有艺术品：{0:F0}个	Rare Art: {0:F0}
 说服成功：{0:F0}次	Successful Persuasions: {0:F0}
 习得秘籍：{0:F0}本	Manuals Learned: {0:F0}
@@ -2596,38 +2596,38 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 房间内生效，受房间风水影响。	Effective in rooms. Affected by the Feng Shui of the room.
 光烛妥帖	Lighting
 房间内生效，受房间光照影响。	Effective in rooms. Affected by the lighting in the room.
-    每当寿元抵达千数，便可运转元神引动天机，以渡寿元之劫。\n    此劫每度一次，威力增倍，如若度过，便可延长寿元，并借此分化一条元神分神。	    Every 1,000 years, the character can use their primordial spirit to gain insight into the mystery of nature to survive the Lifespan Tribulation. \nThe difficulty of Lifespan Tribulation will double each time the character survives; their lifespan will be prolonged and a sub-spirit will be added.
-    每当道行抵达百数，便可运转元神引动天机，以渡道行之劫。\n    此劫每度一次，威力增倍，如若度过，便可降低道行，并借此分化一条元神分神。	    Every 100 attainment, the character can use their primordial spirit to gain insight into the mystery of nature to survive the Tribulation. \nThe difficulty of Lifespan Tribulation will double each time the character survives; their attainment will be lowered and a sub-spirit will be added.
+    每当寿元抵达千数，便可运转元神引动天机，以渡寿元之劫。\n    此劫每度一次，威力增倍，如若度过，便可延长寿元，并借此分化一条元神分神。	    A cada 1.000 anos, o personagem pode usar seu espírito primordial para entender o mistério da natureza para sobreviver à Tribulação da Vida. \nA dificuldade do Lifespan Tribulation dobrará cada vez que o personagem sobreviver; seu tempo de vida será prolongado e um sub-espírito será adicionado.
+    每当道行抵达百数，便可运转元神引动天机，以渡道行之劫。\n    此劫每度一次，威力增倍，如若度过，便可降低道行，并借此分化一条元神分神。	    A cada 100 conquistas, o personagem pode usar seu espírito primordial para obter insights sobre o mistério da natureza para sobreviver à Tribulação. \nA dificuldade do Lifespan Tribulation dobrará cada vez que o personagem sobreviver; sua realização será reduzida e um sub-espírito será adicionado.
 信仰天劫	Belief Tribulation
-因神国中神民怨念累积而产生的信仰天劫。如果度过，则使怨念清零，如若失败，则灰飞烟灭。	A Heavenly Tribulation caused by the accumulated hatred from the divine residents in the Divine Realm. If the character survives, all hatred will be cleared; if not, they will be obliterated.
-因直面自身执念而产生的信仰天劫。如果度过，则斩却执念，于神国中开辟一块新区域，如若失败，则灰飞烟灭。	A Belief Tribulation caused by facing their own obsessions. If the character survives, they will detach from all obsessions and create a new area in the Divine Realm; if not, they will be obliterated.
+因神国中神民怨念累积而产生的信仰天劫。如果度过，则使怨念清零，如若失败，则灰飞烟灭。	Uma Tribulação Celestial causada pelo ódio acumulado dos residentes divinos no Reino Divino. Se o personagem sobreviver, todo o ódio será eliminado; se não, eles serão obliterados.
+因直面自身执念而产生的信仰天劫。如果度过，则斩却执念，于神国中开辟一块新区域，如若失败，则灰飞烟灭。	Uma Tribulação de Crença causada por enfrentar suas próprias obsessões. Se o personagem sobreviver, ele se desprenderá de todas as obsessões e criará uma nova área no Reino Divino; se não, eles serão obliterados.
 飞升天劫	Ascension Tribulation
-因神性圆满而产生的信仰天劫。如果度过，则神化飞升，如若失败，则灰飞烟灭。	A Belief Tribulation caused by the fulfilled divinity. If the character survives, they will ascend into immortality; if not, they will be obliterated.
+因神性圆满而产生的信仰天劫。如果度过，则神化飞升，如若失败，则灰飞烟灭。	Uma Tribulação de Crença causada pela divindade cumprida. Se o personagem sobreviver, ele ascenderá à imortalidade; se não, eles serão obliterados.
 化形天劫	Shapeshifting Tribulation
-    从动物修行化形，需经历化形天劫才能化身为人。\n    此劫五行俱全，金木水火土五种天劫轮流降临。	    To cultivate from an animal into human form, one must survive the Shapeshifting Tribulation. \n    This tribulation is of all Five Elements, with Metal, Wood, Fire, Water and Earth versions of it descending one after another.
+    从动物修行化形，需经历化形天劫才能化身为人。\n    此劫五行俱全，金木水火土五种天劫轮流降临。	    Para cultivar de um animal para a forma humana, é preciso sobreviver à Tribulação da Mudança de Forma. \n Esta tribulação é de todos os Cinco Elementos, com as versões Metal, Madeira, Fogo, Água e Terra descendo uma após a outra.
 无法在此地突破	Unable to breakthrough at this location.
 \n<font color=#0000FF>[右击可指定原材料]</font>	\n<font color=#0000FF>[Right-click to select raw material]</font>
 适龄提示	Age appropriate tips
-生成全景图片需要一定的时间，请不要移动鼠标并耐心等待直到提示完成。	It takes time to generate the world. Please do not move your mouse and wait until it has been generated.
+生成全景图片需要一定的时间，请不要移动鼠标并耐心等待直到提示完成。	Leva tempo para gerar o mundo. Por favor, não mova o mouse e espere até que ele seja gerado.
 截图已经保存到：\n{0}	Screenshot saved to:\n{0}
 正在拼接图片(1)……	Splicing picture (1)…
 正在拼接图片({0})……	Splicing picture ({0})…
 即将完成……	Almost complete…
-你选择了研习多个秘籍，研习弟子会逐个等待自身参悟值足够时再进行研习。	You have selected multiple manuals. The disciples will wait until they have enough Inspiration to study them.
-\n分类:{0}	\nCategory: {0}
-提高道行:{0}\n	Attainment: +{0}\n
-需求境界：{0}\n	Required State: {0}\n
-模组丢失	Mods Lost
+你选择了研习多个秘籍，研习弟子会逐个等待自身参悟值足够时再进行研习。	Você selecionou vários manuais. Os discípulos esperarão até que tenham inspiração suficiente para estudá-los.
+\n分类:{0}	\nCategoria: {0}
+提高道行:{0}\n	Realização: +{0}\n
+需求境界：{0}\n	Estado requerido: {0}\n
+模组丢失	Mods perdidos
 [玄门秘籍]	[Orthodox Manual]
 [旁门心得]	[Unorthodox Manual]
 全部秘籍	Todos os Manuals
-战斗法术	Battle Spells
+战斗法术	Magias de batalha
 收藏	Favoritos
-独本遗册	Only Existing Copy
-无上大法	Supreme Law
-藏经阁容量：{0}/{1}	Capacity: {0}/{1}
-藏经阁所能容纳的秘籍。秘籍越深奥，录入占用的容量就越多。\n\n当前藏书量为派中弟子提供:\n降低参悟消耗{0}% 	The Manual Pavilion's ability to contain manuals. A more difficult manual will take up more space after being transcribed. \n\nThe current manual capacity is provided by the sect disciples: \nLowers inspiration cost by {0}% 
-这个门派很神秘，需要在游戏中了解更多。	This sect is a mystery. Keep playing the game to know more.
+独本遗册	Apenas cópia existente
+无上大法	Lei suprema
+藏经阁容量：{0}/{1}	Capacidade: {0}/{1}
+藏经阁所能容纳的秘籍。秘籍越深奥，录入占用的容量就越多。\n\n当前藏书量为派中弟子提供:\n降低参悟消耗{0}% 	A capacidade do Manual Pavilion de conter manuais. Um manual mais difícil ocupará mais espaço após ser transcrito. \n\nA capacidade manual atual é fornecida pelos discípulos da seita: \nReduz o custo de inspiração em{0}% 
+这个门派很神秘，需要在游戏中了解更多。	Esta seita é um mistério. Continue jogando para saber mais.
 你已经离开硬核模式	You have exited Hardcore.
 重载所有脚本	Reload all scripts
 重载脚本结束	Scripts reloaded
@@ -2974,9 +2974,9 @@ Trap编辑。	Trap Edit.
 过去三天行为数量：	[color=#D06508]Number of Acts in the past three days: [/color]
 {0}:{1}次\n	{0}:{1}\n
 暂未发生任何行为。	No Acts has taken place so far.
-食物营养（{0}）	Food Nutrition ({0})
-食物营养	Food Nutrition
-锻炼-{0}	Exercise - {0}
+食物营养（{0}）	Nutrição Alimentar ({0})
+食物营养	Nutrição Alimentar
+锻炼-{0}	Exercício - {0}
 非常抱歉！因为大量数据的改变导致上古之兽版本不再支持之前的存档。\n但我们为上古之兽(0.95)前的版本提供了新的开局模式[color=#D06508][轮回开局][/color]。\n轮回开局会延续旧存档的部分故事和数据，您可以通过读取旧存档开始全新的故事！	Sorry! Due to the massive change of data, the Ancient Beast version no longer supports previous saves.\nBut we have prepared a new mode, [color=#D06508][Reincarnation][/color], for any version prior to the Ancient Beast (0.95).\nIn Reincarnation, part of the story and data from your previous save will be continued. You can start a whole new story by loading your previous save.
 您已经完成了序章，[经典模式]和[太虚幻境]已解锁！\n现在您可以继续查看感兴趣的教学内容或者直接开始一场完整的游戏并自行探索。	You have finished the Prologue, Classic and Land of Illusion unlocked!\nNow you can check tutorials or a new game to explore by yourself.
 太虚幻境\n无事件发生\n无角色存在\n瞬间完成建造\n虚空造物\n随意调整时间\n随意召唤天气\n适合大部分玩家	Land of Illusion\nNo events\nNo characters\nInstant construction\nUnlimited creation\nChange time\nControl weather\nFor most players
@@ -3104,7 +3104,7 @@ Trap编辑。	Trap Edit.
 选择弟子	Select a disciple
 影响受戒类事件的成败与收获，在其他事件中也会有作用。	Affects the result and gains of ordination events. Also effective in other events.
 在布施类事件中可收获影响值，在其他事件中也会有作用。	Gains influence during charity events. Also effective in other events.
-影响生产事件中灵石和矿物的产量。	Affects the yield of spirit stones and minerals in production events.
+影响生产事件中灵石和矿物的产量。	Afeta o rendimento de pedras espirituais e minerais em eventos de produção.
 影响生产事件中小麦的产量。	Affects the yield of wheat in production events.
 代理人	Agent
 女性	Female
@@ -3318,11 +3318,11 @@ Trap编辑。	Trap Edit.
 <font color=#D06508>[通灵]</font>\n	<font color=#D06508>[Illuminate]</font>\n
 通灵中...\n	Illuminating...\n
 通灵时间：{0:f2}天\n	Illuminated time: {0:f2} days\n
-五行蕴养:\n	Five Elements Nurture: \n
-{7}<font color=#D06508>[物体]</font>\n灵气：{1:N0}（{5}{6:N2}/s）\n聚灵：{4} {9}\n美观：{0}\n品阶：{3}\n品质：{2}{10}{8}{11}	{7}<font color=#D06508>[Object]</font>\nQi: {1:N0}({5}{6:N2}/s)\nGather Qi: {4} {9}\nAttractiveness: {0}\nTier: {3}\nQuality: {2}{10}{8}{11}
-重量：{0}斤	Weight: {0} Catties
-重量：不值一提	Weight: Almost None
-精怪 · 	Sentient Spirit -  
+五行蕴养:\n	Cinco Elementos Nutrir: \n
+{7}<font color=#D06508>[物体]</font>\n灵气：{1:N0}（{5}{6:N2}/s）\n聚灵：{4} {9}\n美观：{0}\n品阶：{3}\n品质：{2}{10}{8}{11}	{7}<font color=#D06508>[Objeto]</font>\nQi: {1:N0}({5}{6:N2}/s)\nReunir Qi: {4} {9}\nAtratividade: {0}\nNível: {3}\nQualidade: {2}{10}{8}{11}
+重量：{0}斤	Peso: {0} Gatos
+重量：不值一提	Peso: Quase Nenhum
+精怪 · 	Espírito Sensível -  
 傀儡	Vessel
 <font color=#D06508>[原材料]</font>\n{0}\n	<font color=#D06508>[Raw Material]</font>\n{0}\n
 <font color=#D06508>[傀 儡]</font>\n	<font color=#D06508>[Puppet]</font>\n
@@ -3351,8 +3351,8 @@ Trap编辑。	Trap Edit.
 <font color=#D06508>[植物]</font>\n生长效率:{0:N1}%	<font color=#D06508>[Plant]</font>\nGrowth Rate: {0:N1}%
 \n生长百分比:{0:N1}%	\nGrowth: {0:N1}%
 \n成熟百分比:{0:N1}%\n	\nMaturity: {0:N1}%\n
-矿石	Ore
-物体	Object
+矿石	Minério
+物体	Objeto
 \n\n<font color=#D06508>[灵植]</font>\n{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	\n\n<font color=#D06508>[Spiritual Plant]</font>\n{9}: {10:N2}%\nBless Tendency: {8} {0:N2}/d\nNurture: {1}\nWeather: {2}\nSeason: {3}\nFive Element: {4}\nSympathy: {5}\n\nStatus: {6}\n　{7}\n
 当前灵性	Blessing
 当前煞性	Curse
@@ -3371,7 +3371,7 @@ Trap编辑。	Trap Edit.
 <font color=#888888>(房间外无效)</font>	<font color=#888888>(Invalid Outside)</font>
 <font color=#D06508>[通灵镇物]{0}</font>\n	<font color=#D06508>[Spirit Relic]{0}</font>\n
 (未鉴定)\n	(Unidentified)\n
-<font color=#D06508>[装备]</font>\n	<font color=#D06508>[Gear]</font>\n
+<font color=#D06508>[装备]</font>\n	<font color=#D06508>[Equipamento]</font>\n
 <font color=#00FF00>[仅{0}可装备]</font>\n	<font color=#00FF00>[Only to be equipped by {0}]</font>\n
 伤害强度：{0:N1}\n	Damage Power: {0:N1}\n
 攻击速度：{0:N2}次/秒\n	Attack Speed: {0:N2}/sec\n
@@ -3386,9 +3386,9 @@ Trap编辑。	Trap Edit.
 <font color=#D06508>[食用]</font>\n	<font color=#D06508>[Eat]</font>\n
 <font color=#FF0000>(生食)</font>\n	<font color=#FF0000>(Raw)</font>\n
 精元：{0}\n	Stamina: {0}\n
-食物：{0}\n	Food: {0}\n
-水份：{0}\n	Water Content: {0}\n
-娱乐：{0}\n	Leisure: {0}\n
+食物：{0}\n	Comida: {0}\n
+水份：{0}\n	Teor de Água: {0}\n
+娱乐：{0}\n	Lazer: {0}\n
 <font color=#D06508>[药物]</font>\n	<font color=#D06508>[Medicine]</font>\n
 治疗效率：{0:N2}\n	Heal Efficiency: {0:N2}\n
 持续时间：{0:N2}天\n	Duration: {0:N2}d\n
@@ -3396,27 +3396,27 @@ Trap编辑。	Trap Edit.
 <font color=#D06508>[秘籍·{0}]</font>\n	<font color=#D06508>[Secret Manual - {0}]</font>\n
 玄门秘籍	Orthodox Manual
 旁门心得	Unorthodox Manual
-[color=#00FF00][装备后可参悟][/color]\n	[color=#00FF00][Equip to learn][/color]\n
+[color=#00FF00][装备后可参悟][/color]\n	[color=#00FF00][Equipar para aprender][/color]\n
 需求境界：{0}({1})\n	Required State: {0} ({1})\n
 <font color=#FF0000>(境界不够，无法修炼)</font>\n	<font color=#FF0000>(Raise State to train) </font>\n
-<font color=#FFFF33>此秘籍已收录至藏经阁</font>\n	<font color=#FFFF33>This manual has been placed in the Manual Pavilion.</font>\n
+<font color=#FFFF33>此秘籍已收录至藏经阁</font>\n	<font color=#FFFF33>Este manual foi colocado no Pavilhão de Manuais.</font>\n
 <font color=#D06508>[丹药]</font>\n	<font color=#D06508>[Elixir]</font>\n
 灵气：{0}\n	Qi: {0}\n
-筑基值：{0}\n	Foundation: {0}\n
-参悟经验：{0}\n	Inspiration XP: {0}\n
-耐药性：{0:P2}\n	Medicine Resistance: {0:P2}\n
-分神数：{0}\n	Number of Sub-spirits: {0}\n
+筑基值：{0}\n	Fundação: {0}\n
+参悟经验：{0}\n	Inspiração XP: {0}\n
+耐药性：{0:P2}\n	Resistência a remédios: {0:P2}\n
+分神数：{0}\n	Número de Sub-espíritos: {0}\n
 <font color=#D06508>[内丹]</font>\n	<font color=#D06508>[Internal Core]</font>\n
-<font color=#D06508>[法宝]</font>\n	<font color=#D06508>[Artifact]</font>\n
-<font color=#D06508>[法宝·信仰圣物]</font>\n	<font color=#D06508>[Artifact: Sacred Relic]</font>\n
-归属：[color=#D06508]{0}[/color]\n	Owned by: [color=#D06508]{0}[/color]\n
-天劫洗练：{0}次\n	Heavenly Reforge: {0}\n
-五行：相生\n	Five Elements: Connective\n
-五行：相同\n	Five Elements: Equivalent\n
-五行：相克\n	Five Elements: Counteractive\n
-<font color=#D06508>[秘宝]</font>\n	<font color=#D06508>[Legacy Artifact]</font>\n
-<font color=#D06508>[激活进度]</font>\n	<font color=#D06508>[Activation Progress]</font>\n
-<font color=#D06508>[灵器]</font>[color=#66FFFF]({0})[/color]\n	<font color=#D06508>[Spiritual Artifact]</font>[color=#66FFFF]({0})[/color]\n
+<font color=#D06508>[法宝]</font>\n	<font color=#D06508>[Artefato]</font>\n
+<font color=#D06508>[法宝·信仰圣物]</font>\n	<font color=#D06508>[Artefato: Relíquia Sagrada]</font>\n
+归属：[color=#D06508]{0}[/color]\n	Propriedade de: [color=#D06508]{0}[/color]\n
+天劫洗练：{0}次\n	Reforja Celestial: {0}\n
+五行：相生\n	Cinco Elementos: Conectivo\n
+五行：相同\n	Cinco Elementos: Equivalente\n
+五行：相克\n	Cinco Elementos: Contra-Ativa\n
+<font color=#D06508>[秘宝]</font>\n	<font color=#D06508>[Artefato Legado]</font>\n
+<font color=#D06508>[激活进度]</font>\n	<font color=#D06508>[Progresso de Ativação]</font>\n
+<font color=#D06508>[灵器]</font>[color=#66FFFF]({0})[/color]\n	<font color=#D06508>[Artefato Espiritual]</font>[color=#66FFFF]({0})[/color]\n
 激活条件:{0}之灵器({1}/{2})\n	Activation Requirements: {0}'s spiritual artifacts ({1}/{2})\n
 神道修行无法使用灵器\n	Spiritual artifacts are unavailable for the Law of Shendao.\n
 炼体修行无法使用灵器\n	Spiritual artifacts are unavailable for Physical cultivation.\n
@@ -3478,7 +3478,7 @@ Trap编辑。	Trap Edit.
 什么也不给	None
 分配100灵石	Dê 100 Pedras Espirituais
 分配1000灵石	Dê 1.000 Pedras Espirituais
-{0}即将上任代理人，是否给一些盘缠以备不测？（灵石一旦给出无法返还）	{0} is about to be the agent. Do you want to give them resources in case of an emergency? (Once given away, spirit stones cannot be retrieved.)
+{0}即将上任代理人，是否给一些盘缠以备不测？（灵石一旦给出无法返还）	{0} está prestes a ser o agente. Você quer dar-lhes recursos em caso de emergência? (Uma vez doadas, as pedras espirituais não podem ser recuperadas.)
 资源分配选择	Allocate Resources
 取消入驻	Cancel Assigning
 门派人数已达上限，不可送回代理人！	Reached the maximum sect population. Unable to recall the agent!
@@ -3512,8 +3512,8 @@ Trap编辑。	Trap Edit.
 威慑他人。	Threaten others.
 吸引他人。	Appeal to others.
 辩论，或是做坏事。	Debate or prank.
-将食物给他人。	Give others food.
-将灵石送人。大部分凡人都不认识灵石。	Give others spirit stones. Most mortals do not know about spirit stones.
+将食物给他人。	Dê comida aos outros.
+将灵石送人。大部分凡人都不认识灵石。	Dê aos outros pedras espirituais. A maioria dos mortais não conhece as pedras espirituais.
 将木材送人，或是拿起木棍。	Give others wood, or pick up a wood stick.
 将石头送人，或是拿起砖头。	Give others stones, or pick up a brick.
 派遣众弟子或是拥有特殊标签的弟子解决问题。	Send all disciples, or disciples with a special trait to solve the problem.
@@ -3632,13 +3632,13 @@ Trap编辑。	Trap Edit.
 术法伤害加成:	Spell Damage Bonus: 
 术法冷却缩短:	Spell CD Reduction: 
 术法消耗加成:	Spell Cost Bonus: 
-护盾强度:	Barrier Power: 
-法宝战斗强度:	Artifact Battle Power: 
-法宝灵气容量:	Artifact Qi Capacity: 
-法宝回灵速度:	Artifact Qi Recovery: 
-法宝攻击间隔:	Artifact Attack Speed: 
-法宝飞行速度:	Artifact Fly Speed: 
-法宝转弯速度:	Artifact Turn Speed: 
+护盾强度:	Poder de Barreirar: 
+法宝战斗强度:	Artefato Poder de Batalha: 
+法宝灵气容量:	Artefato Capacidade de Qi: 
+法宝回灵速度:	Artefato Recuperação de Qi: 
+法宝攻击间隔:	Artefato Velocidade de Ataque: 
+法宝飞行速度:	Artefato Velocidade de Voo: 
+法宝转弯速度:	Artefato Velocidade de giro: 
 {0:F1}/秒	{0:F1}/sec
 {0:F1}秒	{0:F1}sec
 {0:F0}米/秒	{0:F0}m/sec
@@ -3653,24 +3653,24 @@ Trap编辑。	Trap Edit.
 身体强度：炼体者身躯的综合强度，决定炼体者承受伤害的能力。	Physical Strength: a força abrangente do corpo de um cultivador físico, que determina a capacidade de suportar danos.
 等待师父{1}完成{0}。	Waiting for Master {1} to complete {0}.
 正在感悟天地	Deep in though
-[align=center]道行天劫[/align]\n已渡次数:{0}\n可渡次数:{1}\n\n[color=#D06508]道行每达百数，便可与冥冥之中感悟天道对道行之限制。若修成元神，便可运转元神引动天机，以渡道行之天劫。[/color]	[align=center]Attainment Tribulation[/align]\nSurvived Tribulations: {0}\nTribulations Left {1}\n\n[color=#D06508]For every 100 attainment, the character may try for an epiphany of the attainment restriction from the Creed of Heaven. If the character has cultivated a primordial soul, they can use it to gain insight into the mystery of nature to survive the Attainment Tribulation.[/color]
-[align=center]寿元天劫[/align]\n已渡次数:{0}\n可渡次数:{1}\n\n[color=#D06508]年龄每达千数，便可与冥冥之中感悟天道对寿元之限制。若修成元神，便可运转元神引动天机，以渡寿元之天劫。[/color]	[align=center]Lifespan Tribulation[/align]\nTimes of survival: {0}\nTribulations Left: {1}\n\n[color=#D06508]For every 1,000 years of age, the character will have an epiphany of the lifespan restriction from the Creed of Heaven. If the character has cultivated a primordial soul, they can use it to gain insight into the mystery of nature to survive the Lifespan Tribulation.[/color]
-因神国中神民怨念累积到100%而产生的信仰天劫。如果度过，则使怨念清零，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次	A Heavenly Tribulation caused by the 100% accumulated hatred from the divine residents in the Divine Realm. If the character survives, all hatred will be cleared; if not, they will be obliterated. \nBelief Tribulations Survived: {0} times
+[align=center]道行天劫[/align]\n已渡次数:{0}\n可渡次数:{1}\n\n[color=#D06508]道行每达百数，便可与冥冥之中感悟天道对道行之限制。若修成元神，便可运转元神引动天机，以渡道行之天劫。[/color]	[align=center]Tribulação de Conquista[/align]\nSobreviveu a Tribulações: {0}\nTribulações Esquerdas {1}\n\n[color=#D06508]Para cada 100 de conquista, o personagem pode tentar uma epifania da restrição de conquista do Credo do Céu . Se o personagem cultivou uma alma primordial, ele pode usá-la para entender o mistério da natureza para sobreviver à Tribulação de Conquista.[/color]
+[align=center]寿元天劫[/align]\n已渡次数:{0}\n可渡次数:{1}\n\n[color=#D06508]年龄每达千数，便可与冥冥之中感悟天道对寿元之限制。若修成元神，便可运转元神引动天机，以渡寿元之天劫。[/color]	[align=center]Tribulação do Tempo de Vida[/align]\nTempos de Sobrevivência: {0}\nTribulações Esquerda: {1}\n\n[color=#D06508]Para cada 1.000 anos de idade, o personagem terá uma epifania da restrição de tempo de vida do Credo do Céu. Se o personagem cultivou uma alma primordial, ele pode usá-la para entender o mistério da natureza e sobreviver à Tribulação da Vida.[/color]
+因神国中神民怨念累积到100%而产生的信仰天劫。如果度过，则使怨念清零，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次	Uma Tribulação Celestial causada pelo ódio acumulado de 100% dos residentes divinos no Reino Divino. Se o personagem sobreviver, todo o ódio será eliminado; se não, eles serão obliterados. \nAs tribulações de crença sobreviveram: {0} vezes
 {0:N0}秒	{0:N0} Sec
-因神性圆满而产生的信仰天劫。如果度过，则留下遗蜕神化飞升，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次	A Heavenly Tribulation caused by the fulfilled divinity. If the character survives, they will ascend into immortality and leave their mortal body behind; if not, they will be obliterated. \nBelief Tribulations Survived: {0} times
+因神性圆满而产生的信仰天劫。如果度过，则留下遗蜕神化飞升，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次Uma Tribulação Celestial causada pela divindade cumprida. Se o personagem sobreviver, ele ascenderá à imortalidade e deixará seu corpo mortal para trás; se não, eles serão obliterados. \nAs tribulações de crença sobreviveram: {0} vezes
 修为到达圆满境后，可直面自身执念而引动信仰天劫。如果度过，则斩却执念，于神国中开辟一块新区域，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次	Uma vez que o cultivo atinge o Estado de Realização, o personagem pode enfrentar sua própria obsessão e causar uma Tribulação de Crenças. Se o personagem sobreviver, ele se desprenderá de todas as obsessões e criará uma nova área no Reino Divino; se não, eles serão obliterados. \nTribulações de Crença Sobrevividas: {0} times
 {0}代弟子	Gen {0} Disciple
 飞升滞留次数	Hovers
 滞留{0}次	Hover {0} times.
-心境：{0:N0}/{1:N0}\n层次：{2}{3}\n趋势：{5}{4:F2}/天\n\t({6})\n突破条件：{7}\n突破进度：{8:P2}({9:N1}/{10:N1})\n\n心境会大幅度影响修炼相关行为的效率和成功率。只有足够强大的心境才能驾驭信徒的祈祷之念。	Mental State: {0:N0}/{1:N0}\nStates: {2}{3}\nInclination: {5}{4:F2}/d \n\t ({6})\nBreakthrough Requirements: {7}\nBreakthrough Progress: {8:P2}({9:N1}/{10:N1})\n\nA character's Mental State affects the efficiency and success rate of training-related actions. Only a mental state strong enough can manage all the followers' prayers.
+心境：{0:N0}/{1:N0}\n层次：{2}{3}\n趋势：{5}{4:F2}/天\n\t({6})\n突破条件：{7}\n突破进度：{8:P2}({9:N1}/{10:N1})\n\n心境会大幅度影响修炼相关行为的效率和成功率。只有足够强大的心境才能驾驭信徒的祈祷之念。	Estado mental: {0:N0}/{1:N0}\nEstados: {2}{3}\nInclinação: {5}{4:F2}/d \n\t ({6})\nRequisitos de descoberta: { 7}\nProgresso da Revelação: {8:P2}({9:N1}/{10:N1})\n\nO Estado Mental de um personagem afeta a eficiência e a taxa de sucesso das ações relacionadas ao treinamento. Apenas um estado mental forte o suficiente pode administrar as orações de todos os seguidores.
 师父:	Master:
-金丹品质：{0:N0}\n根本灵气：{1:F0}\n炼精化气：{2:F0}\n上品金丹(1-3)：丹成上品，此世有成仙之契机。\n中品金丹(4-6):丹成中品，修成元婴已是极限，若想飞升，倍加艰难。\n下品金丹(7-9):丹成下品，想修成元婴也将阻难重重。	Golden Core Quality {0:N0}\nBase Qi: {1:F0}\nAnima Conversion: {2:F0}\nHigh-grade Golden Core (I to III): Achieved a High-grade Golden Core, which means a chance to ascend to immortality. \nMid-grade Golden Core (IV to VI): Achieved a Mid-grade Golden Core; barely enough to create an Innerspirit. Ascension will be extremely difficult. \nLow-grade Golden Core (VII to IX): Achieved a Low-grade Golden Core. It will be very difficult to create an Innerspirit.
+金丹品质：{0:N0}\n根本灵气：{1:F0}\n炼精化气：{2:F0}\n上品金丹(1-3)：丹成上品，此世有成仙之契机。\n中品金丹(4-6):丹成中品，修成元婴已是极限，若想飞升，倍加艰难。\n下品金丹(7-9):丹成下品，想修成元婴也将阻难重重。	Qqualidade do Núcleo Dourado {0:N0}\nBase Qi: {1:F0}\nConversão de Anima: {2:F0}\nNúcleo Dourado de alta qualidade (I to III): Conseguiu um Núcleo Dourado de alto grau, o que significa uma chance de ascender à imortalidade. \nNúcleo Dourado de grau médio (IV to VI): Obteve um Golden Core de grau médio; mal o suficiente para criar um Innerspirit. A ascensão será extremamente difícil. \nNúcleo Dourado de Baixo Grau (VII a IX): Obteve um Núcleo Dourado de Grau Baixo. Será muito difícil criar um Innerspirit.
 阳\n	Yang\n
 阴\n	Yin\n
-鼎炉\n鼎炉之限：{0:F0}\n炼精化气：{1:F0}/{0:F0}\n阶段：{2}\n{3}\n\n[color=#D06508]炼精化气：修炼时消耗精元并提高灵气最大值。\n鼎炉之限：肉身所能承担炼精化气的最大数值，由先天潜力决定。[/color]	Inner Cauldron\nInner Cauldron Limit: {0:F0}\nRefinement Qi {1:F0}/{0:F0}\nPhase:{2}\n{3}\n\n[color=#D06508]Refinamento do Qi: Cultivo custa Vigor e aumenta o Qi Máximo.\nLimite do Caldeirão Interno: O valor máximo do Qi de Refinamento que um corpo pode suportar. Este valor é decidido pelo potencial.[/color]
-神民数量\n神国中拥有的神民数量。	Number of Divine Residents\nThe number of divine residents in the Divine Realm.
+鼎炉\n鼎炉之限：{0:F0}\n炼精化气：{1:F0}/{0:F0}\n阶段：{2}\n{3}\n\n[color=#D06508]炼精化气：修炼时消耗精元并提高灵气最大值。\n鼎炉之限：肉身所能承担炼精化气的最大数值，由先天潜力决定。[/color]	Caldeirão Interno\nLimite do Caldeirão Interno: {0:F0}\nRefinamento do Qi {1:F0}/{0:F0}\nPhase:{2}\n{3}\n\n[color=#D06508]Refinamento do Qi: Cultivo custa Vigor e aumenta o Qi Máximo.\nLimite do Caldeirão Interno: O valor máximo do Qi de Refinamento que um corpo pode suportar. Este valor é decidido pelo potencial.[/color]
+神民数量\n神国中拥有的神民数量。	Número de residentes divinos\nO número de residentes divinos no Reino Divino.
 信徒数量\n靠行走天下获得。在开辟神国之前，你最多只能拥有1000个信徒。	Número de seguidores\nObtido de viajar ao redor do mundo. Antes de estabelecer um Reino Divino, você pode ter no máximo 1.000 seguidores.
-分神：\n已获得：{0}\n可寄托：{1}\n已寄托：{2}({4})\n未获得：{3}	Sub-spirits: \nObtained: {0}\nAvailable to attach: {1}\nAttached: {2}({4})\nNot Obtained: {3}
+分神：\n已获得：{0}\n可寄托：{1}\n已寄托：{2}({4})\n未获得：{3}	sub-espíritos: \nObtido: {0}\nDisponível para anexar: {1}\nEm anexo: {2}({4})\nNão obtido: {3}
 可提高灵宠锻炼的效果以及解锁更多行为。	Melhora os efeitos do exercício Pet e desbloqueia mais Atos.
 影响灵宠的灵气上限。	Afeta o Qi Cap do Pet.
 影响灵宠内丹的各项属性。	Afeta as estatísticas do Pet de seu Núcleo Interno.
@@ -3702,7 +3702,7 @@ Trap编辑。	Trap Edit.
 木头	Wood
 皮毛布料	Fur Cloth
 修行相关	Related to Practice
-货币\n灵石是各大门派和行商之间流通的唯一货币。	Currency\nSpirit Stones are the only currency used by all sects and merchants.
+货币\n灵石是各大门派和行商之间流通的唯一货币。	Moeda\nAs Pedras Espirituais são a única moeda usada por todas as seitas e mercadores.
 血量	Health
 点击打开角色属性面板	Clique para abrir o menu de estatísticas do personagem.
 点击切换至该角色	Clique para mudar para este personagem.
@@ -3839,8 +3839,8 @@ Lua回调类名	Lua Callback Class Name
 无可用弟子	Nenhum discípulo disponível
 确定派遣弟子要进入{0}吗？\n\t参与弟子有：\n{1}	Do you want to send disciples to enter {0}?\n\t Participants include: \n{1}
 未获得通行权，贸然进入将会受到攻击	Inacessível. O personagem será atacado por entrada forçada.
-应天台正在闪烁着光芒\n（灵石已经凝聚完成，可以凝取）	Heaven Echo Altar is shinning\n(Spirit Stones Crystallized and can collect)
-应天台的光芒黯淡了下来\n（正在凝聚灵石）	Light on the Heaven Echo Altar faded.\n(Crystallizing Spirit Stones)
+应天台正在闪烁着光芒\n（灵石已经凝聚完成，可以凝取）	O Altar Eco do Céu está brilhando\e(Pedras do Espírito Cristalizadas e podem coletar)
+应天台的光芒黯淡了下来\n（正在凝聚灵石）	A luz do Altar Eco do Céu se desvaneceu.\n(Pedras Espirituais Cristalizantes)
 姓名	Nome
 种族	Raça
 底蕴	Poder
@@ -3858,13 +3858,13 @@ Lua回调类名	Lua Callback Class Name
 {0} 被 {1} 邀请进行战斗，获得了胜利。	{0} is invited by {1} for a fight and win.
 {0} 邀请 {1} 进行比试，惜败。	{0} invite {1} to have a fight and lose.
 {0} 被 {1} 邀请进行战斗，惜败。	{0} is invited by {1} for a fight and lose.
-在应天台凝结灵石时候，{0} 战胜争夺者 {1}，夺得了灵石。	When the Heaven Echo Altar is crystallizing, {0} beat {1} and won spirit stones。
-{0} 在虚空历练时，巧遇应天台凝结灵气，与 {1} 一番争斗以后，{0} 略胜一筹，夺得了灵石。	{0} was training in void and meet Heaven Echo Altar crystallizing, fought with {1} . {0} achieved victory and win spirit stones.
-在应天台凝结灵石时候，{0}不敌争夺者{1}，灵石被夺走了。	When the Heaven Echo Altar is crystallizing, {0} lost to {1} and lost spirit stones。
-{0}在虚空历练时，巧遇应天台凝结灵气，与{1}经过一番苦斗后惜败，未能夺得灵石。	{0} was training in void and meet Heaven Echo Altar crystallizing, fought with {1} but failed and could not win spirit stones.
+在应天台凝结灵石时候，{0} 战胜争夺者 {1}，夺得了灵石。	When the Altar Eco do Céu is crystallizing, {0} beat {1} and won spirit stones。
+{0} 在虚空历练时，巧遇应天台凝结灵气，与 {1} 一番争斗以后，{0} 略胜一筹，夺得了灵石。	{0} estava treinando no void e conhece o Altar Eco do Céu cristalizando, lutou com {1} . {0} alcançou a vitória e ganhou pedras espirituais.
+在应天台凝结灵石时候，{0}不敌争夺者{1}，灵石被夺走了。	Quando o Altar do Eco do Céu estiver cristalizando, {0} perdido para {1} e pedras espirituais perdidas。
+{0}在虚空历练时，巧遇应天台凝结灵气，与{1}经过一番苦斗后惜败，未能夺得灵石。	{0} estava treinando no vazio e encontrou o Altar Eco do Céu cristalizando, lutou com {1} mas falhou e não conseguiu ganhar as pedras espirituais.
 {0} 战胜了 {1}	{0} beat {1}
 {0} 被 {1} 战胜了	{0} was beaten by {1}
-领取的应天奖励将在返回门派以后获得。	Will gain Heaven Echo Altar rewards after back to sect.
+领取的应天奖励将在返回门派以后获得。	Will gain Altar Eco do Céu rewards after back to sect.
 正在获取角色	Receiving Characters
 请输入灵刻	Input Inscription
 获取角色失败	Receiving Faild
@@ -3903,8 +3903,8 @@ Lua回调类名	Lua Callback Class Name
 近日{0}类物品过多，简直一文不值。	Recentemente, há um excedente de {0} itens, tornando-os quase inúteis.
 你好	Hello
 {0}凭借玄凤的火眼金睛，看破了{1}个物品的真面目！	With the piercing sight of Dark Phoenix, {0} has seen through the true nature of {1} items!
-花费{0}灵石拍卖到以下道具：	Cost {0} spirit stones to buy the following item: 
-（[color=#990000]因无法支付，你将被迫服役{0}天[/color]）	([color=#990000]Unable to pay, you are forced to serve for {0} days[/color].)
+花费{0}灵石拍卖到以下道具：	Custa {0} pedras espirituais para comprar o seguinte item:
+（[color=#990000]因无法支付，你将被迫服役{0}天[/color]）	([color=#990000]Não foi possível pagar, você é forçado a servir por {0} dias[/color].)
 本次拍卖遭遇意外，暂停一次	Devido a um acidente ocorrido recentemente, o leilão teve que ser suspenso desta vez.
 赎人	Resgate
 离开	Sair
