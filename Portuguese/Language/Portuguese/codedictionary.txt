@@ -39,15 +39,15 @@
 身手	Action
 感知	Sense
 影响战斗能力。	Afeta a proeza de combate.
-对灵气的感知能力，影响灵气护盾穿透率，法宝镇压几率。	The ability to perceive Qi. Affects Qi Barrier Penetration Chance and Artifact Suppression Chance.
+对灵气的感知能力，影响灵气护盾穿透率，法宝镇压几率。	A capacidade de perceber o Qi. Afeta a Chance de Penetração da Barreira de Qi e a Chance de Supressão de Artefato.
 影响角色之间互动事件发生的概率，招募角色的概率等。	Afeta a chance de eventos serem desencadeados durante as interações entre personagens e a chance de recrutar novos personagens.
 对自身身体了解掌控的能力，影响淬体效率，淬体时出现有效进化的概率。在凡人阶段的岐黄技能会一定程度上影响该值。	A capacidade de compreender e comandar o próprio corpo. Afeta a eficiência da Remoldagem, bem como a chance de ocorrer uma evolução efetiva na Remoldagem. A habilidade de Cura de um mortal afetará esse valor até certo ponto.
 影响烹饪速度，烹饪成功率等。	Afeta a velocidade e a taxa de sucesso ao cozinhar.
 影响建筑速度，建筑受伤时的概率等。	Afeta a velocidade e as chances de se machucar durante o trabalho de construção.
 影响种植作物速度，收获作物产量等。	Afeta a taxa de crescimento das culturas e o rendimento da colheita.
 影响采掘速度，采掘产量等。	Afeta a velocidade e a produção da mineração.
-对灵感的把握能力，影响淬体时高级进化方向的出现概率。	The ability to handle inspirations. Affects the chance of advanced Evolution Directions to occur in Remolding.
-对世界万物规律的理解能力，影响吐纳和吞噬获得精华的效率。在凡人阶段的巧匠技能会一定程度上影响该值。	The ability to comprehend the laws of everything in nature. Affects the efficiency of gaining essence by Breathing and Devouring. One's Crafting skill as a mortal will affect this value to a certain extent.
+对灵感的把握能力，影响淬体时高级进化方向的出现概率。	A capacidade de lidar com inspirações. Afeta a chance de direções de evolução avançadas ocorrerem na Remoldagem.
+对世界万物规律的理解能力，影响吐纳和吞噬获得精华的效率。在凡人阶段的巧匠技能会一定程度上影响该值。	A capacidade de compreender as leis de tudo na natureza. Afeta a eficiência de ganhar essência por Respiração e Devoração. A habilidade de Artesanato como mortal afetará esse valor até certo ponto.
 影响进入内门时，御物，术法，护体的初始等级。	Afeta o nível inicial de Domínio de Artefato, Feitiço e Proteção quando um personagem se torna um discípulo interno.
 影响岐黄，巧匠技巧，在进入内门时转化为炼丹，炼器的比例。	Afeta a habilidade de cura e criação. Estes serão convertidos em Alquimia e Criação de Artefatos quando um personagem se tornar um discípulo interno.
 影响角色驾驭法宝的能力。	Afeta a habilidade de um personagem de usar artefatos.
@@ -167,36 +167,36 @@
 任意	Todos
 皮肉	Carne
 器官	Órgão
-(吃饭)	(Eating)
-(练功)	(Training)
-(睡觉)	(Sleeping)
-无	None
-练气期	Qi Shaping
-结丹期	Core Shaping
-金丹期	Golden Core
-元神期	Primordial Spirit
+(吃饭)	(Comendo)
+(练功)	(Treinamento)
+(睡觉)	(Dormindo)
+无	Nenhum
+练气期	Qi Moldagem
+结丹期	Modelação de Núcleo
+金丹期	Núcleo Dourado
+元神期	Espírito Primordial
 在世真仙	Demi-God
-苦行境	Ascetic State
-传道境	Pilgrim State
-神国境	Divine State
-圆满境	Attainment State
-在世神灵	Demi-God
-淬体期	Remold Phase
-洗髓期	Marrow-cleansing Phase
-脱胎期	Incubation Phase
-混元期	Chaos Phase
+苦行境	Estado Ascético
+传道境	Estado Peregrino
+神国境	Estado Divino
+圆满境	Estado de obtenção
+在世神灵	Semi-deus
+淬体期	Fase de Remoção
+洗髓期	Fase de limpeza da medula
+脱胎期	Fase de Incubação
+混元期	Fase do Caos
 不朽金身	Corpo Imortal
 练习御物	Praticar o domínio do artefato
 练习功法	Praticar Lei
 炼制法宝	Refinar Artefato
 练习术法	Praticar Magia
-进行调心	Mind
+进行调心	Mente
 练习护体	Train Proteção
 炼制丹药	Criar Elixir
-男人	Male
-女人	Female
+男人	Masculino
+女人	Feminino
 修炼	Cultivação
-过往	Past
+过往	Passado
 美景	Cenário
 动物	Animal
 功法	Lei
@@ -208,17 +208,17 @@
 秘密	Secreto
 天气	Tempo
 门派	Seitas
-昨天	Yesterday
+昨天	Ontem
 爱好	Hobby
 猫	Gato
-狗	Dog
+狗	Cão
 早饭	Breakfast
 金	Metal
 木	Madeira
 水	Água
 火	Fogo
 土	Terra
-混元	Hybrid
+混元	Híbrido
 心境崩溃	Demolir
 心境不稳	instável
 心境中正	Estável
@@ -228,19 +228,19 @@
 弟子	Discípulo
 精英	Elite
 长老	Ancião
-\n温度不适	\nUnsuitable Temperature
-\n灵气不适	\nUnsuitable Qi
-\n肥沃不适	\nUnsuitable Fertility
-\n季节不适	\nUnsuitable Season
-\n五行不适	\nUnsuitable Element
-\n灵气不足	\nInsufficient Qi
+\n温度不适	\nTemperatura inadequada
+\n灵气不适	\nQi inadequado
+\n肥沃不适	\nFertilidade Inadequada
+\n季节不适	\nTemporada imprópria
+\n五行不适	\nElemento inadequado
+\n灵气不足	\nQi insuficiente
 上午	Manhã
 下午	Tarde
 无滤镜	Sem filtros
 岁月	Anos
 铭记	Lembrança
 幽冥	Mundo inferior
-水墨	Ink painting
+水墨	Pintura a tinta
 人间	Mundo Mortal
 红尘	Reino Mortal
 缥缈	Névoa
@@ -251,125 +251,125 @@
 [{0}](禁止)	[{0}] (Forbidden)
 (热爱)	(Passionate)
 (着迷)	(Obsessed)
-[{8}]{6}\n能力评分:{0:N0}/{1:N0}({9:N0}%)\n\t等级:{2}/{11}({5})\n\t经验:{3}{4}\n{7}\n\n{10}	[{8}] {6}\nAbility Rating: {0:N0}/{1:N0} ({9:N0}%)\n\tLevel: {2}/{11} ({5})\n\tXP:{3}{4}\n{7}\n\n{10}
+[{8}]{6}\n能力评分:{0:N0}/{1:N0}({9:N0}%)\n\t等级:{2}/{11}({5})\n\t经验:{3}{4}\n{7}\n\n{10}	[{8}] {6}\nClassificação de Habilidade: {0:N0}/{1:N0} ({9:N0}%)\n\tNível: {2}/{11} ({5})\n\tXP:{3}{4}\n{7}\n\n{10}
 {0:F0}秒	{0:F0} sec
 {0:F0}天	{0:F0}d
 ({0:F1}天)	({0:F1}d)
 {0}的{1}	{0}'s {1}
-采集或者历练	Gather or adventure
-水上建筑	Building on Water
-<font color=#B65704>可选主材料(或):\n</font>	<font color=#B65704>Available main material (or):\n</font>
-[color=#FF0000](无库存)[/color]\n[color=#604343]来源：{0}[/color]	[color=#FF0000](None in inventory)[/color]\n[color=#604343]Source:{0}[/color]
-<font color=#B65704>必须材料:\n</font>	<font color=#B65704>Materials required:\n</font>
-神乎其技	Marvelous Skill
-大师	Master
-精通	Experienced
-入门	Novice
-外行	Amateur
-她的	her
-他的	his
-她	she
-他	he
-天苍{0}年第{1}天	Day {1}, year {0} of Tiancang Era
-它的	Its
-它	It
-大吉	Very Auspicious
-吉	Auspicious
-小吉	Slightly Auspicious
-小凶	Slightly Ominous
-凶	Ominous
-大凶	Very Ominous
-仙家洞天	Blessed
-修行宝地	Cultivated
-灵秀之地	Auspicious
-冲煞之所	Ominous
-逆运之局	Sinister
-九幽绝地	Dire
-山寨	Fortress
-洞天	Heavenly Abode
+采集或者历练	Reúna ou aventura
+水上建筑	Construindo sobre a Água
+<font color=#B65704>可选主材料(或):\n</font>	<font color=#B65704>Material principal disponível(or):\n</font>
+[color=#FF0000](无库存)[/color]\n[color=#604343]来源：{0}[/color]	[color=#FF0000](Nenhum no inventário)[/color]\n[color=#604343]Fonte:{0}[/color]
+<font color=#B65704>必须材料:\n</font>	<font color=#B65704>Materiais requisitados:\n</font>
+神乎其技	Habilidade Maravilhosa
+大师	Mestre
+精通	Com experiência
+入门	Novato
+外行	Amador
+她的	sua
+他的	seu
+她	ela
+他	ele
+天苍{0}年第{1}天	Dia {1}, ano {0} da Era Tiancang
+它的	O seu
+它	É
+大吉	Muito auspicioso
+吉	Auspicioso
+小吉	Levemente auspicioso
+小凶	Levemente sinistro
+凶	Ameaçador
+大凶	Muito ameaçador
+仙家洞天	Abençoado
+修行宝地	Cultivado
+灵秀之地	Auspicioso
+冲煞之所	Ameaçador
+逆运之局	Sinistro
+九幽绝地	Terrivel
+山寨	Fortaleza
+洞天	Residência Celestial
 精品	Exótico
 优秀	Excelente
 一般	Comum
 糟糕	Pobre
-无品质	No Quality
+无品质	Sem qualidade
 华丽	Magnífico
 精美	Lindo
 普通	Comum
 丑陋	Feio
-圣物	Sacred Relic
-神物	Divine Relic
-灵物	Spirit Relic
-凡物	Mortal Relic
-土壤肥沃	Rich Soil
-土壤丰饶	Fertile Soil
-土壤良质	Healthy Soil
-土壤贫瘠	Poor Soil
-宛如仙境	Wonderland
-景色绝美	Impressive
-景观优美	Beautiful
-景观不错	Nice
+圣物	Relíquia Sagrada
+神物	Relíquia Divina
+灵物	Relíquia Espiritual
+凡物	Relíquia Mortal
+土壤肥沃	Solo rico
+土壤丰饶	Solo fértil
+土壤良质	Solo Saudável
+土壤贫瘠	Solo pobre
+宛如仙境	País das maravilhas
+景色绝美	Impressionante
+景观优美	Lindo
+景观不错	Agradável
 环境平常	Normal
-环境脏乱	Filthy
-环境恶劣	Horrendous
-极热	Scorching
-炎热	Hot
-温度适宜	Moderate
+环境脏乱	Imundo
+环境恶劣	Horrendo
+极热	Abrasador
+炎热	Quente
+温度适宜	Moderado
 寒冷	Resfriado
 极寒	Congelando
-刺眼	Dazzling
-晃眼	Bright
-光线适宜	Sunlit
-昏暗	Dim
-漆黑	Dark
-卓越	Expert
-擅长	Skilled
+刺眼	Deslumbrante
+晃眼	Brilhante
+光线适宜	Ensolarado
+昏暗	Escurecer
+漆黑	Escuro
+卓越	Especialista
+擅长	Especializado
 中庸	Mediocre
-勉强	Amateur
-不擅	Inept
-巨大	Huge
+勉强	Amador
+不擅	Inepto
+巨大	Enorme
 大	Grande
 中	Médio
 小	Pequeno
 拥挤	Full
 恰当	Normal
-空旷	Empty
+空旷	Vazio
 豪华	Luxuoso
 精致	Refinado
 简陋	Bareboned
-美轮美奂	Magnificent
-满目凋敝	Devastated
-极度危险	Lethal
-致命绝境	Deadly
-危机四伏	Perilous
-暗藏波澜	Dangerous
-略有风险	Risky
-任人宰割	Vulnerable
-不为人知	Anonymous
-籍籍无名	Unknown
-素门凡流	Unrecognized
-略有耳闻	Common
-小有名气	Acknowledged
-初见江湖	Visible
-名声渐传	Recognized
-广为人知	Well-known
-大名鼎鼎	Famous
-闻名遐迩	Distinguished
-名扬天下	Renown
-声震寰宇	Prominent
-百年流传	Acclaimed
-名震千古	Celebrated
-旷古绝今	Unprecedented
-万载留名	Unparalleled
-非常满意	Satisfactory
-还算不错	Adequate
-平淡乏味	Bland
-非常糟糕	Awful
-灵性澎湃	Major Blessing
-灵性充沛	Moderate Blessing
-灵性隐隐	Minor Blessing
-煞性隐隐	Minor Curse
-煞性凝练	Moderate Curse
-煞性凌冽	Major Curse
+美轮美奂	Magnífico
+满目凋敝	Devastado
+极度危险	Letal
+致命绝境	Mortal
+危机四伏	Perigoso
+暗藏波澜	Perigoso
+略有风险	Arriscado
+任人宰割	Vulnerável
+不为人知	Anônimo
+籍籍无名	Desconhecido
+素门凡流	Não reconhecido
+略有耳闻	Comum
+小有名气	Reconhecido
+初见江湖	Visível
+名声渐传	Reconhecido
+广为人知	Bem conhecido
+大名鼎鼎	Famoso
+闻名遐迩	Distinto
+名扬天下	Renome
+声震寰宇	Proeminente
+百年流传	Aclamado
+名震千古	Celebrado
+旷古绝今	Sem precedente
+万载留名	Inigualável
+非常满意	Satisfatório
+还算不错	Adequado
+平淡乏味	Brando
+非常糟糕	Horrível
+灵性澎湃	Bênção Maior
+灵性充沛	Bênção Moderada
+灵性隐隐	Bênção Menor
+煞性隐隐	Maldição Menor
+煞性凝练	Maldição Moderada
+煞性凌冽	Maldição Maior
 自身生长速度很慢，对周边环境产生极大的正面增益。	Taxa de crescimento muito lenta; grande efeito positivo sobre o meio ambiente.
 自身生长速度较慢，对周边环境产生较大的正面增益。	Taxa de crescimento lenta; efeito positivo médio sobre o meio ambiente.
 自身生长速度略慢，对周边环境产生略微的正面增益。	Taxa de crescimento um pouco lenta; menor efeito positivo sobre o meio ambiente.
@@ -387,7 +387,7 @@
 鼎炉潜力开发至极限，需结丹以突破鼎炉之限。	Potencial do Caldeirão Interior extremamente desenvolvido; eficiência de conversão de Stamina muito lenta.
 护御	Proteção
 修行	Pratica
-仇恨	Hatred
+仇恨	Ódio
 敌视	Hostil
 冷淡	Indiferente
 友好	Amigo
@@ -981,12 +981,12 @@ _结局	_The End
 流传在修行界诸多失落传承	many lost legacies that are popular in the cultivators' realm
 [color=#bf642f]分堂掌管能力：{0}[/color]\n	[color=#bf642f]Branch Management Ability: {0}[/color]\n
 {0}加成：{1}\n	{0}: {1}\n
-境界加成：{0}\n	State Bonus: {0}\n
-道行加成：{0}\n	Attainment Bonus: {0}\n
-功法加成：{0}\n	Method Bonus: {0}\n
-交互	Interact
-与这个物体交互	Interact with this object
-拼装耗时 : 	Assembly time: 
+境界加成：{0}\n	Bônus do Estado: {0}\n
+道行加成：{0}\n	Bônus de Conquista: {0}\n
+功法加成：{0}\n	Bônus de Método: {0}\n
+交互	Interagir
+与这个物体交互	Interagir com este objeto
+拼装耗时 : 	Tempo de montagem: 
 自己	You
 默认目标	Default Target
 手选单位	Primary Unit
@@ -996,22 +996,22 @@ _结局	_The End
 灵气最低的目标	Target with Least Qi
 距离最近的目标	Closest Target
 随机目标	Random Target
-阵眼	Auxiliary
-法宝威力 : {0:N0}	Artifact Power: {0:N0}
-灵气容量 : {0:N0}	Qi Capacity: {0:N0}
-回灵速度 : {0:N1}/秒	Qi Recovery: {0:N1}/sec
-飞行速度 : {0:N1}米/秒	Fly Speed: {0:N1}m/sec
-转弯速度 : {0:N0}度/秒	Turn Speed: {0:N0}degrees/sec
-攻击间隔 : {0:N1}秒	Attack Speed: {0:N1}/sec
-击退抵抗 : {0:P0}	Knockback Res: {0:P0}
-击退强度 : {0:P0}	Knockback Power: {0:P0}
+阵眼	Auxiliar
+法宝威力 : {0:N0}	Poder do Artefato: {0:N0}
+灵气容量 : {0:N0}	Capacidade de Qi: {0:N0}
+回灵速度 : {0:N1}/秒	Recuperação de Qi: {0:N1}/sec
+飞行速度 : {0:N1}米/秒	Vel. de vôo: {0:N1}m/sec
+转弯速度 : {0:N0}度/秒	Vel. de curva: {0:N0}degrees/sec
+攻击间隔 : {0:N1}秒	Vel. de ataque: {0:N1}/sec
+击退抵抗 : {0:P0}	Resolução de repulsão: {0:P0}
+击退强度 : {0:P0}	Poder de repulsão: {0:P0}
 体积 : {0:P0}	Volume: {0:P0}
-拖尾长度 : {0:N1}米	Trail Length: {0:N1}m
-飞行速度 : {0:P1}	Fly Speed: {0:P1}
+拖尾长度 : {0:N1}米	Comprimento da trilha: {0:N1}m
+飞行速度 : {0:P1}	Vel. de vôo: {0:P1}
 友方	Aliados
 敌方	Inimigos
-目标阵营	Target Faction
-作用阵营	Affected Faction
+目标阵营	Facção alvo
+作用阵营	Facção afetada
 {0}\n{5}：{4}\n目标类型：{3}\n阵法中每人消耗灵气：{1:N0}点\n阵法灵机：{2}点\n	{0}\n{5}: {4}\nTarget Type: {3}\nQi cost/person in the circle: {1:N0} points\nFormation Energy: {2} points\n
 {0}\n目标阵营：{4}\n目标类型：{3}\n阵法中每人消耗灵气：{1:N0}点\n施法间隔：{2:F1}秒\n	{0}\nTarget Faction: {4}\nTarget Type: {3}\nQi cost/person in the circle: {1:N0} points\nCoolDown: {2:F1} sec\n
 {0}\n目标阵营：{4}\n目标类型：{3}\n消耗灵气：{1:N0}点\n施法间隔：{2:F1}秒\n	{0}\nTarget Faction: {4}\nTarget Type: {3}\nQi Cost: {1:N0}\nCoolDown: {2:F1} sec\n
@@ -1379,7 +1379,7 @@ _结局	_The End
 获取书架：{0}，存储空间：{1} DaoHang	Obtain Shelf: {0}, Storage Space: {1} DaoHang
 存储空间不足，共需要 {0}DaoHang, 仅剩余 {1}DaoHang	Insufficient storage space. Requires {0} DaoHang. Only {1} DaoHang remains.
  秘籍:{0} 	 Manual: {0} 
- 功法:{0} 	 Law: {0} 
+ 功法:{0} 	 Lei: {0} 
 自身功法	Own Law
 入库中	Transcribing
 不限制	Unrestricted
@@ -1440,9 +1440,9 @@ Name	Name
 是	is 
 年龄不足	Not old enough
 妖族化形	Shapeshifted Yaoguai
-{1}:{2:F2}\n(先天:{3:F2} 后天:{4:F2})\n{0}	{1}:{2:F2}\n (Innate: {3:F2}, Postnatal: {4:F2})\n{0}
-\n\n[color=#9e6404]不能共存：[/color]	\n\n[color=#9e6404]Cannot coexist:[/color]
-[新手推荐]\n	[Recommended for beginners]\n
+{1}:{2:F2}\n(先天:{3:F2} 后天:{4:F2})\n{0}	{1}:{2:F2}\n (Inato: {3:F2}, Postnatal: {4:F2})\n{0}
+\n\n[color=#9e6404]不能共存：[/color]	\n\n[color=#9e6404]Não pode coexistir:[/color]
+[新手推荐]\n	[Recomendado para iniciantes]\n
 此经历不可改变。	This background cannot be edited.
 未选择需要保存的内容	Content to save not yet selected.
 轮回者：{0} \n灵智不够，无法保存	Reincarnator: {0} \nInsufficient Intelligence, unable to save.
@@ -2366,20 +2366,20 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 确定要对{0}施展吗？这将会导致它永远失去灵性。	Are you sure you want to use it on {0}? This will cause it to lose its Blessing forever.
 确定要夺舍{0}吗？	Are you sure you want to possess {0}?
 攻击目标为非敌方单位，确定要发起攻击吗？	The target is not an enemy. Do you want to attack anyway?
-信仰圣物一生只能炼制一次，确定要使用[{0}]炼制吗？	Sacred Relic can only be crafted once in a lifetime. Do you want to use [{0}] to craft?
-多次画符	Multiple Talisman Drawing
+信仰圣物一生只能炼制一次，确定要使用[{0}]炼制吗？	A Relíquia Sagrada só pode ser criada uma vez na vida. Deseja usar [{0}] para criar?
+多次画符	Desenho de vários talismãs
 修炼速度停滞，无法入定。	Incapaz de meditar porque o cultivo estagnou.
-寿命不足，无法入定。	Cannot meditate due to insufficient lifespan.
-选择入定时长	Select how long to meditate.
-时长:{2}\n消耗寿元:{0:N0}/{1:N0}   消耗精元：{5}{3:N0}{6}/{4:N0}	Duration: {2}\nLifespan Cost: {0:N0}/{1:N0} Stamina Cost: {5}{3:N0}{6}/{4:N0}
-没有可以传授的秘籍或者参悟	No available manual or inspiration.
-参悟经验：{0:F0}/{1:F0}\n	Inspiration XP: {0:F0}/{1:F0}\n
+寿命不足，无法入定。	Não pode meditar devido à vida útil insuficiente.
+选择入定时长	Selecione por quanto tempo meditar.
+时长:{2}\n消耗寿元:{0:N0}/{1:N0}   消耗精元：{5}{3:N0}{6}/{4:N0}	Duração: {2}\nCusto da vida útil: {0:N0}/{1:N0} Custo de Estamina: {5}{3:N0}{6}/{4:N0}
+没有可以传授的秘籍或者参悟	Nenhum manual ou inspiração disponível.
+参悟经验：{0:F0}/{1:F0}\n	Inspiração XP: {0:F0}/{1:F0}\n
 \n提高道行：{0}\n	\nAumente a realização: {0}\n
-分类:{0}\n	Category: {0}\n
-参悟经验：{0:F0}/{1:F0}	Inspiration XP: {0:F0}/{1:F0}
-\n[color=#ff0000]境界不够({0}/{1})[/color]	\n[color=#ff0000]Too low State ({0}/{1})[/color]
-\n[color=#ff0000]仅限自行领悟[/color]	\n[color=#ff0000]Applicable only for one's self.[/color]
-\n提高道行：{0}	\nAttainment: {0}
+分类:{0}\n	Categoria: {0}\n
+参悟经验：{0:F0}/{1:F0}	Inspiração XP: {0:F0}/{1:F0}
+\n[color=#ff0000]境界不够({0}/{1})[/color]	\n[color=#ff0000]Estado muito baixo ({0}/{1})[/color]
+\n[color=#ff0000]仅限自行领悟[/color]	\n[color=#ff0000]Aplicável apenas para si mesmo.[/color]
+\n提高道行：{0}	\nAtendimento: {0}
 你选择了传授多个秘籍，传功者会逐个等待弟子参悟值足够时再进行传授。	Você selecionou vários manuais. O instrutor esperará até que o discípulo tenha XP de Inspiração suficiente para transmiti-los.
 请选择秘籍	Por favor, selecione os manuais.
 该角色正在被施展神通	Este personagem está realizando um milagre.
@@ -3255,16 +3255,16 @@ Trap编辑。	Trap Edit.
 无法录入	Unable to transcribe
 容量不足	Insufficient storage
 准备录入	Ready to transcribe
-所修功法：{0}({2})\n{1}\n性别：{5}\n年龄：{3:N0}\n道行：{4:N0}	Learned Laws: {0} ({2})\n{1}\nGender: {5}\nAge: {3:N0}\nAttainment: {4:N0}
-可选：{0}/{1}	Selectable: {0}/{1}
+所修功法：{0}({2})\n{1}\n性别：{5}\n年龄：{3:N0}\n道行：{4:N0}	Learned Laws: {0} ({2})\n{1}\nGênero: {5}\nIdade: {3:N0}\nAtendimento: {4:N0}
+可选：{0}/{1}	Selecionável: {0}/{1}
 选择技能	Selecionar Skills
 选择属性	Selecionar Stats
 选择材料	Selecionar Material
-选择建筑	Select Building
+选择建筑	Selecionar edifício
 选择主材料	Selecionar main material
 选择丹方	Selecionar Elixir Recipe
 选择秘籍	Selecionar Manual
-选择灵智	Selecionar Intelligence
+选择灵智	Selecionar Inteligência
 选择Modify	Selecionar Modify
 任 意	Any
 请选择可设置区域	Select an area to set
@@ -3284,63 +3284,63 @@ Trap编辑。	Trap Edit.
 从根本上增加固定值	Base Increase
 新效果	New Effect
 秘籍参悟({0})	Manual Inspiration ({0})
-已习得秘籍：{0}，无法再次领悟。	Learned Manual: {0}, cannot be comprehended again.
-确定要消耗{0:F0}点参悟值领悟{1}么？\n这将消耗掉这本秘籍。	Do you want to spend {0:F0} Inspiration to learn {1}?\nThis manual will be lost.
-提高道行: {0}\n	Attainment: +{0}\n
-秘籍内容:\n	Manual Contents:\n
-\n[color=#9e6404]不能共存：[/color]	\n[color=#9e6404]Cannot coexist:[/color]
-参悟值：{0:F0}\n{1}	Inspiration: {0:F0}\n{1}
-所需境界：{0}\n{1}	Required State: {0}\n{1}
-[color=#ff0000]已达到道行上限[color]\n{0}	[color=#ff0000]Attainment cap reached.[color]\n{0}
+已习得秘籍：{0}，无法再次领悟。	Manual aprendido: {0}, não pode ser compreendido novamente.
+确定要消耗{0:F0}点参悟值领悟{1}么？\n这将消耗掉这本秘籍。	Você quer gastar {0:F0} Inspiração para aprender {1}?\nEste manual será perdido.
+提高道行: {0}\n	Atendimento: +{0}\n
+秘籍内容:\n	Conteúdo do Manual:\n
+\n[color=#9e6404]不能共存：[/color]	\n[color=#9e6404]Não pode coexistir:[/color]
+参悟值：{0:F0}\n{1}	Inspiração: {0:F0}\n{1}
+所需境界：{0}\n{1}	Estado requerido: {0}\n{1}
+[color=#ff0000]已达到道行上限[color]\n{0}	[color=#ff0000]Limite de realização atingido.[color]\n{0}
 \n[color=#9e6404]前置条件：[/color]	\n[color=#9e6404]Prerequisites:[/color]
-[color=#0000FF]已参悟[/color]\n	[color=#0000FF]Learned[/color]\n
-[{2}]\n所需境界:{3}{4}\n<font color=#9e6404>{0}</font>\n{1}	[{2}]\nRequired State: {3} {4}\n<font color=#9e6404>{0}</font>\n{1}
+[color=#0000FF]已参悟[/color]\n	[color=#0000FF]Aprendido[/color]\n
+[{2}]\n所需境界:{3}{4}\n<font color=#9e6404>{0}</font>\n{1}	[{2}]\nEstado requerido: {3} {4}\n<font color=#9e6404>{0}</font>\n{1}
 该角色无法学习此技能	This character cannot learn the skill.
-[color=#ff0000]下一级参悟值：{0:F0}/{1:F0}[color]\n提高道行: {3}\n{2}	[color=#ff0000]Inspiration on next level: {0:F0}/{1:F0}[color]\nAttainment: +{3}\n{2}
-下一级参悟值：{0:F0}/{1:F0}\n提高道行: {3}\n{2}	Inspiration on next level: {0:F0}/{1:F0}\nAttainment: +{3}\n{2}
-参悟值：{0:F0}	Inspiration: {0:F0}
-玄门：{0:F0}	Orthodox: {0:F0}
-旁门：{0:F0}/{1:F0}	Unorthodox: {0:F0}/{1:F0}
-[{2}]\n{3}\n参悟值：{0:F0}/{1:F0}	[{2}]\n{3}\nInspiration: {0:F0}/{1:F0}
+[color=#ff0000]下一级参悟值：{0:F0}/{1:F0}[color]\n提高道行: {3}\n{2}	[color=#ff0000]Inspiração no próximo nível: {0:F0}/{1:F0}[color]\nAtendimento: +{3}\n{2}
+下一级参悟值：{0:F0}/{1:F0}\n提高道行: {3}\n{2}	Inspiração no próximo nível: {0:F0}/{1:F0}\nAtendimento: +{3}\n{2}
+参悟值：{0:F0}	Inspiração: {0:F0}
+玄门：{0:F0}	Ortodoxo: {0:F0}
+旁门：{0:F0}/{1:F0}	Não ortodoxo: {0:F0}/{1:F0}
+[{2}]\n{3}\n参悟值：{0:F0}/{1:F0}	[{2}]\n{3}\nInspiração: {0:F0}/{1:F0}
 [{0}][color=#0000FF](已参悟)[/color]\n{1}	[{0}][color=#0000FF](Learned)[/color]\n{1}
-\n[align=center][color=#9e6404]----已参悟----[/color][/align]	\n[align=center][color=#9e6404]----Learned----[/color][/align]
-\n[align=center][color=#9e6404]----未参悟----[/color][/align]	\n[align=center][color=#9e6404]----Not Learned----[/color][/align]
+\n[align=center][color=#9e6404]----已参悟----[/color][/align]	\n[align=center][color=#9e6404]----Aprendido----[/color][/align]
+\n[align=center][color=#9e6404]----未参悟----[/color][/align]	\n[align=center][color=#9e6404]----Não aprendido----[/color][/align]
 确定要消耗{0:F0}点参悟值提高{1}等级么？	Do you want to spend {0:F0} Inspiration to level up {1}?
 确定要消耗{0:F0}点参悟值参悟{1}么？	Do you want to spend {0:F0} Inspiration to learn {1}?
 [{0:N0}阶	{0:N0}
 {0:N0}阶]	{0:N0}
 杂项	Misc.
-消耗	Consumables
+消耗	Consumíveis
 知道了	OK
 提示	Tip
-是否确认退出当前教学？	Are you sure you want to quit the current tutorial?
+是否确认退出当前教学？	Tem certeza de que deseja sair do tutorial atual?
 请阅读提示({0}秒)	Please read the tip ({0} sec)
-<font color=#D06508>[通灵]</font>\n	<font color=#D06508>[Illuminate]</font>\n
-通灵中...\n	Illuminating...\n
-通灵时间：{0:f2}天\n	Illuminated time: {0:f2} days\n
+<font color=#D06508>[通灵]</font>\n	<font color=#D06508>[Iluminar]</font>\n
+通灵中...\n	Iluminando...\n
+通灵时间：{0:f2}天\n	Tempo iluminado: {0:f2} dias\n
 五行蕴养:\n	Cinco Elementos Nutrir: \n
 {7}<font color=#D06508>[物体]</font>\n灵气：{1:N0}（{5}{6:N2}/s）\n聚灵：{4} {9}\n美观：{0}\n品阶：{3}\n品质：{2}{10}{8}{11}	{7}<font color=#D06508>[Objeto]</font>\nQi: {1:N0}({5}{6:N2}/s)\nReunir Qi: {4} {9}\nAtratividade: {0}\nNível: {3}\nQualidade: {2}{10}{8}{11}
 重量：{0}斤	Peso: {0} Gatos
 重量：不值一提	Peso: Quase Nenhum
 精怪 · 	Espírito Sensível -  
 傀儡	Vessel
-<font color=#D06508>[原材料]</font>\n{0}\n	<font color=#D06508>[Raw Material]</font>\n{0}\n
-<font color=#D06508>[傀 儡]</font>\n	<font color=#D06508>[Puppet]</font>\n
-主人：{0}\n	Owner: {0}\n
-耐久：{0:F0}/{1:F0}\n	Durability: {0:F0}/{1:F0}\n
-移动速度：{0:F1}米/秒\n	Move Speed: {0:F1}m/sec\n
-<font color=#D06508>[建 筑]</font>	<font color=#D06508>[Buildings]</font>
-[color=#00FF00](风水建筑)[/color]	[color=#00FF00](Feng Shui Building)[/color]
-\n燃料剩余: {0:F0}秒	\nRemaining Fuel: {0:F0} sec
-\n水量: {0}	\nWater: {0}
-\n香火值: {0:F2}	\nIncense: {0:F2}
-\n拥有者: {0}	\nOwner: {0}
-\n所属工作: {0}	\nWork: {0}
-\n[color=#D06508](灵兽雕像)[/color]	\n[color=#D06508](Spirit Pet statue)[/color]
-\n重生进度：{0}/{1}	\nRebirth progress: {0}/{1}
-\n等待激活	\nWaiting for activation
-<font color=#00FF00>可选中</font>\n	<font color=#00FF00>Selectable</font>\n
-<font color=#FF0000>不可选中</font>\n	<font color=#FF0000>Not Selectable</font>\n
+<font color=#D06508>[原材料]</font>\n{0}\n	<font color=#D06508>[Matéria-prima]</font>\n{0}\n
+<font color=#D06508>[傀 儡]</font>\n	<font color=#D06508>[Fantoche]</font>\n
+主人：{0}\n	Proprietário: {0}\n
+耐久：{0:F0}/{1:F0}\n	Durabilidade: {0:F0}/{1:F0}\n
+移动速度：{0:F1}米/秒\n	Vel. de movimento: {0:F1}m/sec\n
+<font color=#D06508>[建 筑]</font>	<font color=#D06508>[Edifícios]</font>
+[color=#00FF00](风水建筑)[/color]	[color=#00FF00](Edifício Feng Shui)[/color]
+\n燃料剩余: {0:F0}秒	\nCombustível Restante: {0:F0} sec
+\n水量: {0}	\nÁgua: {0}
+\n香火值: {0:F2}	\nIncenso: {0:F2}
+\n拥有者: {0}	\nProprietário: {0}
+\n所属工作: {0}	\nTrabalho: {0}
+\n[color=#D06508](灵兽雕像)[/color]	\n[color=#D06508](Estátua Espirito do Pet)[/color]
+\n重生进度：{0}/{1}	\nProgresso do renascimento: {0}/{1}
+\n等待激活	\nEsperando ativação
+<font color=#00FF00>可选中</font>\n	<font color=#00FF00>Selecionável</font>\n
+<font color=#FF0000>不可选中</font>\n	<font color=#FF0000>Não selecionável</font>\n
 (成长中)	(Growing)
 (被收获)	(Being Harvested)
 (已成熟)	(Mature)
@@ -3348,65 +3348,65 @@ Trap编辑。	Trap Edit.
 (凋谢中)	(Withering)
 (被烧毁)	(Burning)
 (生长停止)	(Growth Stopped)
-<font color=#D06508>[植物]</font>\n生长效率:{0:N1}%	<font color=#D06508>[Plant]</font>\nGrowth Rate: {0:N1}%
-\n生长百分比:{0:N1}%	\nGrowth: {0:N1}%
-\n成熟百分比:{0:N1}%\n	\nMaturity: {0:N1}%\n
+<font color=#D06508>[植物]</font>\n生长效率:{0:N1}%	<font color=#D06508>[Planta]</font>\nTaxa de crescimento: {0:N1}%
+\n生长百分比:{0:N1}%	\nCrescimento: {0:N1}%
+\n成熟百分比:{0:N1}%\n	\nMaturidade: {0:N1}%\n
 矿石	Minério
 物体	Objeto
-\n\n<font color=#D06508>[灵植]</font>\n{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	\n\n<font color=#D06508>[Spiritual Plant]</font>\n{9}: {10:N2}%\nBless Tendency: {8} {0:N2}/d\nNurture: {1}\nWeather: {2}\nSeason: {3}\nFive Element: {4}\nSympathy: {5}\n\nStatus: {6}\n　{7}\n
+\n\n<font color=#D06508>[灵植]</font>\n{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	\n\n<font color=#D06508>[Planta Espiritual]</font>\n{9}: {10:N2}%\nAbençoe a Tendência: {8} {0:N2}/d\nNutrir: {1}\nTempo: {2}\nEstação: {3}\nCinco Elementos: {4}\nSimpatia: {5}\n\nStatus: {6}\n　{7}\n
 当前灵性	Blessing
 当前煞性	Curse
 范围：{0}	Range: {0}
 腐朽中({0})	Decaying ({0})
 {0}后开始腐朽	 begins decaying in {0}.
-<font color=#00FF00>可选中</font>	<font color=#00FF00>Selectable</font>
-<font color=#FF0000>不可选中</font>	<font color=#FF0000>Not Selectable</font>
-  <font color=#00FF00>[绑定：{0}]</font>\n	  <font color=#00FF00>[Soulbound: {0}]</font>\n
-幽淬次数：{0}次\n	Specter Refinements: {0}\n
-道淬次数：{0}次\n	Tao Refine Times: {0}\n
-灵淬次数：{0}次\n	Spiritual Refinement: {0}\n
-<font color=#888888>(无风水)</font>	<font color=#888888>(No Feng Shui)</font>
-<font color=#00FF00>(契合)</font>	<font color=#00FF00>(compatible)</font>
-<font color=#FF0000>(不合)</font>	<font color=#FF0000>(incompatible)</font>
-<font color=#888888>(房间外无效)</font>	<font color=#888888>(Invalid Outside)</font>
-<font color=#D06508>[通灵镇物]{0}</font>\n	<font color=#D06508>[Spirit Relic]{0}</font>\n
-(未鉴定)\n	(Unidentified)\n
+<font color=#00FF00>可选中</font>	<font color=#00FF00>Selecionável</font>
+<font color=#FF0000>不可选中</font>	<font color=#FF0000>Não selecionável</font>
+  <font color=#00FF00>[绑定：{0}]</font>\n	  <font color=#00FF00>[Alma: {0}]</font>\n
+幽淬次数：{0}次\n	Refinamentos de Espectro: {0}\n
+道淬次数：{0}次\n	Tempos de Refinamento do Tao: {0}\n
+灵淬次数：{0}次\n	Refinamento Espiritual: {0}\n
+<font color=#888888>(无风水)</font>	<font color=#888888>(Sem Feng Shui)</font>
+<font color=#00FF00>(契合)</font>	<font color=#00FF00>(compatível)</font>
+<font color=#FF0000>(不合)</font>	<font color=#FF0000>(incompatível)</font>
+<font color=#888888>(房间外无效)</font>	<font color=#888888>(Exterior inválido)</font>
+<font color=#D06508>[通灵镇物]{0}</font>\n	<font color=#D06508>[Relíquia Espiritual]{0}</font>\n
+(未鉴定)\n	(Não identificado)\n
 <font color=#D06508>[装备]</font>\n	<font color=#D06508>[Equipamento]</font>\n
-<font color=#00FF00>[仅{0}可装备]</font>\n	<font color=#00FF00>[Only to be equipped by {0}]</font>\n
-伤害强度：{0:N1}\n	Damage Power: {0:N1}\n
-攻击速度：{0:N2}次/秒\n	Attack Speed: {0:N2}/sec\n
-攻击距离：{0:N2}米\n	Attack Range: {0:N2}m\n
-护盾转化加成：{0:N3}/点\n	Barrier Conversion Bonus: {0:N3}/point\n
-最适温度上限：{1}[relativetemperature]{0:N2}[/relativetemperature]\n	Ideal Temperature Cap: {1}[relativetemperature]{0:N2}[/relativetemperature]\n
-最适温度下限：{1}[relativetemperature]{0:N2}[/relativetemperature]\n	Ideal Temperature Minimum: {1}[relativetemperature]{0:N2}[/relativetemperature]\n
-神秘	Mystery
-契约：{0}\n	Contract: {0}\n
-移动速度：{0:F2}\n	Move Speed: {0:F2}\n
-移动速度：未改变\n	Move Speed: no change\n
-<font color=#D06508>[食用]</font>\n	<font color=#D06508>[Eat]</font>\n
+<font color=#00FF00>[仅{0}可装备]</font>\n	<font color=#00FF00>[Apenas para ser equipado por {0}]</font>\n
+伤害强度：{0:N1}\n	Poder de dano: {0:N1}\n
+攻击速度：{0:N2}次/秒\n	Vel. de ataque: {0:N2}/sec\n
+攻击距离：{0:N2}米\n	Raio de ataque: {0:N2}m\n
+护盾转化加成：{0:N3}/点\n	Bónus de Conversão de Barreira: {0:N3}/point\n
+最适温度上限：{1}[relativetemperature]{0:N2}[/relativetemperature]\n	Limite de temperatura ideal: {1}[relativetemperature]{0:N2}[/relativetemperature]\n
+最适温度下限：{1}[relativetemperature]{0:N2}[/relativetemperature]\n	Temperatura mínima ideal: {1}[relativetemperature]{0:N2}[/relativetemperature]\n
+神秘	Mistério
+契约：{0}\n	Contrato: {0}\n
+移动速度：{0:F2}\n	Vel. de movimento: {0:F2}\n
+移动速度：未改变\n	Vel. de movimento: sem alteração\n
+<font color=#D06508>[食用]</font>\n	<font color=#D06508>[Comer]</font>\n
 <font color=#FF0000>(生食)</font>\n	<font color=#FF0000>(Raw)</font>\n
-精元：{0}\n	Stamina: {0}\n
+精元：{0}\n	Estamina: {0}\n
 食物：{0}\n	Comida: {0}\n
 水份：{0}\n	Teor de Água: {0}\n
 娱乐：{0}\n	Lazer: {0}\n
-<font color=#D06508>[药物]</font>\n	<font color=#D06508>[Medicine]</font>\n
-治疗效率：{0:N2}\n	Heal Efficiency: {0:N2}\n
-持续时间：{0:N2}天\n	Duration: {0:N2}d\n
-作用部位：	Functionality:
-<font color=#D06508>[秘籍·{0}]</font>\n	<font color=#D06508>[Secret Manual - {0}]</font>\n
-玄门秘籍	Orthodox Manual
-旁门心得	Unorthodox Manual
+<font color=#D06508>[药物]</font>\n	<font color=#D06508>[Medicina]</font>\n
+治疗效率：{0:N2}\n	Eficiência de Cura: {0:N2}\n
+持续时间：{0:N2}天\n	Duração: {0:N2}d\n
+作用部位：	Funcionalidade:
+<font color=#D06508>[秘籍·{0}]</font>\n	<font color=#D06508>[Manual Secreto - {0}]</font>\n
+玄门秘籍	Manual Ortodoxo
+旁门心得	Manual não ortodoxo
 [color=#00FF00][装备后可参悟][/color]\n	[color=#00FF00][Equipar para aprender][/color]\n
-需求境界：{0}({1})\n	Required State: {0} ({1})\n
-<font color=#FF0000>(境界不够，无法修炼)</font>\n	<font color=#FF0000>(Raise State to train) </font>\n
+需求境界：{0}({1})\n	Estado requerido: {0} ({1})\n
+<font color=#FF0000>(境界不够，无法修炼)</font>\n	<font color=#FF0000>(Levantar Estado para treinar) </font>\n
 <font color=#FFFF33>此秘籍已收录至藏经阁</font>\n	<font color=#FFFF33>Este manual foi colocado no Pavilhão de Manuais.</font>\n
 <font color=#D06508>[丹药]</font>\n	<font color=#D06508>[Elixir]</font>\n
 灵气：{0}\n	Qi: {0}\n
 筑基值：{0}\n	Fundação: {0}\n
 参悟经验：{0}\n	Inspiração XP: {0}\n
-耐药性：{0:P2}\n	Resistência a remédios: {0:P2}\n
+耐药性：{0:P2}\n	Resistência Medicinal: {0:P2}\n
 分神数：{0}\n	Número de Sub-espíritos: {0}\n
-<font color=#D06508>[内丹]</font>\n	<font color=#D06508>[Internal Core]</font>\n
+<font color=#D06508>[内丹]</font>\n	<font color=#D06508>[Núcleo Interno]</font>\n
 <font color=#D06508>[法宝]</font>\n	<font color=#D06508>[Artefato]</font>\n
 <font color=#D06508>[法宝·信仰圣物]</font>\n	<font color=#D06508>[Artefato: Relíquia Sagrada]</font>\n
 归属：[color=#D06508]{0}[/color]\n	Propriedade de: [color=#D06508]{0}[/color]\n
@@ -3417,20 +3417,20 @@ Trap编辑。	Trap Edit.
 <font color=#D06508>[秘宝]</font>\n	<font color=#D06508>[Artefato Legado]</font>\n
 <font color=#D06508>[激活进度]</font>\n	<font color=#D06508>[Progresso de Ativação]</font>\n
 <font color=#D06508>[灵器]</font>[color=#66FFFF]({0})[/color]\n	<font color=#D06508>[Artefato Espiritual]</font>[color=#66FFFF]({0})[/color]\n
-激活条件:{0}之灵器({1}/{2})\n	Activation Requirements: {0}'s spiritual artifacts ({1}/{2})\n
-神道修行无法使用灵器\n	Spiritual artifacts are unavailable for the Law of Shendao.\n
-炼体修行无法使用灵器\n	Spiritual artifacts are unavailable for Physical cultivation.\n
+激活条件:{0}之灵器({1}/{2})\n	Requisitos de ativação: artefatos espirituais de {0} ({1}/{2})\n
+神道修行无法使用灵器\n	Artefatos espirituais não estão disponíveis para a Lei de Shendao.\n
+炼体修行无法使用灵器\n	Artefatos espirituais não estão disponíveis para cultivo físico.\n
 <font color=#80D5FF>[精品]</font>	<font color=#80D5FF>[Exquisite]</font>
-孵化进度：{0:N0}%\n	Hatching: {0:N0}%\n
-制作者：	Creator: 
-\n可持有时间：{0}	\nAvailable Time: {0}
+孵化进度：{0:N0}%\n	Incubação: {0:N0}%\n
+制作者：	Criador: 
+\n可持有时间：{0}	\nTempo disponível: {0}
 \n距离下次拍卖会还剩{0}天	\n{0} days until the next auction.
 \n这里面似乎困着一只{0}	\nThere seems to be a {0} trapped in it.
-选择保存文件夹	Select Save Folder
+选择保存文件夹	Selecione Salvar Pasta
 壁纸已经保存到：\n{0}	Wallpaper saved to：\n{0}
 添加前置模组	Adicione o mod necessário
 添加新标签	Adicionar novo rótulo
-版本号请使用浮点数	Please use floating-point numbers for game versions.
+版本号请使用浮点数	Por favor, use números de ponto flutuante para versões de jogos.
 设置的所需游戏版本比当前游戏版本更高，请确认	A versão necessária do jogo que você definiu é superior à versão atual do jogo. Por favor verifique
 不存在预览图！	Preview image does not exist!
 请设定标签！	Set a label.
@@ -3526,45 +3526,45 @@ Trap编辑。	Trap Edit.
 前往{0}-弟子	Go to {0} - Disciple
 前往{0}-主持	Go to {0} - Host
 寻求物资	Search for Resources
-剩余时间：	Time remain:
+剩余时间：	Tempo restante:
 该任务将要求进入地图击杀一位{0}的敌人。	This quest requires to enter the map and kill a {0} enemy.
 该任务要求赠送如下道具：	This quest requires to gift the item:
-完成奖励：	Reward: 
+完成奖励：	Recompensa: 
 {0}点人情	{0} Connection
-{0}点门派好感	{0} Sect Favor
-失败惩罚：	Punish: 
-你接受了该任务	You have accepted the quest.
-接受任务	Accept Quest
-还是算了	Never mind
-请先选择城市	Select a city first
+{0}点门派好感	{0} Favor da Seita
+失败惩罚：	Punir: 
+你接受了该任务	Você aceitou a missão.
+接受任务	Aceitar missão
+还是算了	Deixa para lá
+请先选择城市	Selecione uma cidade primeiro
 {0} {1:N0}岁 {2}	{0}{1:N0} y/o{2}
-可招揽:{0}/{1}	Available for recruitment: {0}/{1}
-分配回门派	Send back to sect
-可分配{0}人	{0} people can be sent.
-分配到{0}地区\n\n	Send to area {0} \n\n
-<font color=#D06508>[地区属性]</font>\n	<font color=#D06508>[Area Stats]</font>\n
-剩余招揽人数:{0}人	Max Recruitable: {0}
-[color=#FFA900]\n[阵眼运转][/color]	[color=#FFA900]\n[Current Auxiliary][/color]
-[color=#FFA900]\n[阵眼玄机][/color]	[color=#FFA900]\n[Auxiliary Link][/color]
-性别:{0}	Gender: {0}
-境界:{0} 或 {1}	State: {0} or {1}
+可招揽:{0}/{1}	Disponível para recrutamento: {0}/{1}
+分配回门派	Enviar de volta para a seita
+可分配{0}人	{0} pessoas podem ser enviadas.
+分配到{0}地区\n\n	Enviar para área {0} \n\n
+<font color=#D06508>[地区属性]</font>\n	<font color=#D06508>[Estatísticas da área]</font>\n
+剩余招揽人数:{0}人	Máximo recrutável: {0}
+[color=#FFA900]\n[阵眼运转][/color]	[color=#FFA900]\n[Auxiliar atual][/color]
+[color=#FFA900]\n[阵眼玄机][/color]	[color=#FFA900]\n[Link Auxiliar][/color]
+性别:{0}	Gênero: {0}
+境界:{0} 或 {1}	Estado: {0} or {1}
 最大灵气:{0}	Max Qi: {0}
-最小道行:{0}	Min Attainment: {0}
-装备道具:{0}	Equipped Items: {0}
-学习秘籍:{0}	Learned Manuals: {0}
-{0}{1}级	Lv {0}{1}
-学习功法:{0}	Learned Laws: {0}
-功法属性:{0}	Law Type: {0}
-\t无	\t None
-\n[color=#FFA900][阵法真意][/color]	\n[color=#FFA900][Truth of Formations][/color]
+最小道行:{0}	Alcance mínimo: {0}
+装备道具:{0}	Itens Equipados: {0}
+学习秘籍:{0}	Manuais aprendidos: {0}
+{0}{1}级	Nv {0}{1}
+学习功法:{0}	Leis aprendidas: {0}
+功法属性:{0}	Tipo de lei: {0}
+\t无	\t Nenhum
+\n[color=#FFA900][阵法真意][/color]	\n[color=#FFA900][Verdade das formações][/color]
 [color=#FFFF00]节点激活条件[/color]	[color=#FFFF00]Node Activation Requirements[/color]
-基础{0}: {1:F2}{2}	Basic {0}:  {1:F2}{2}
-未知之物	Unknown Item
+基础{0}: {1:F2}{2}	Basico {0}:  {1:F2}{2}
+未知之物	Item desconhecido
 对话文件(*.xml;)\0*.xml;	Dialogue File (*.xml;)\0*.xml;
-选择对话文件	Select Dialogue File
-所选对话文件数据异常无法读取	Error. Cannot load the selected dialogue file.
-已经有相同的名称的对话项目，是否覆盖？	Another dialogue project exists under the same name. Do you wish to override?
-注：请尽量使用游戏编辑工具来进行修改对话，以免出现不可预计的错误	Note: Please use in-game edit to modify dialogues in case of any unexpected errors.
+选择对话文件	Selecionar arquivo de diálogo
+所选对话文件数据异常无法读取	Erro. Não é possível carregar o arquivo de diálogo selecionado.
+已经有相同的名称的对话项目，是否覆盖？	Existe outro projeto de diálogo com o mesmo nome. Deseja sobrepor?
+注：请尽量使用游戏编辑工具来进行修改对话，以免出现不可预计的错误	Nota: Por favor, use a edição no jogo para modificar os diálogos em caso de erros inesperados.
 保存	Save
 重载完成	Reload Complete
 新建对话节点	Create New Dialogues
@@ -3577,15 +3577,15 @@ Trap编辑。	Trap Edit.
 你好！	Ola!
 循环十次	Loop 10x
 循环五十次	Loop 50x
-无限循环	Loop Endlessly
-取消循环	Cancel Loop
+无限循环	Loop Infinitamente
+取消循环	Cancelar loop
 正在进行中，不能修改原材料。	Em andamento. A matéria-prima não pode ser alterada.
 选择秘体	Selecione Secret Body
-{0}\n[color=#990000]已装备于{1}栏位中[/color]	{0}\n[color=#990000]Already equipped in slot {1}[/color]
-认主这个秘宝吗？它将绑定{0}。	Claim this Legacy Artifact? It will be soulbound to {0}.
-该角色同时激活的符咒最多只能有{0}个！	This character can only have {0} talismans active at the same time!
-突破时无法使用道具	Items unavailable during breakthrough.
-当前状态无法使用道具	Items unavailable during the current state.
+{0}\n[color=#990000]已装备于{1}栏位中[/color]	{0}\n[color=#990000]Já equipado no slot {1}[/color]
+认主这个秘宝吗？它将绑定{0}。	Reivindicar este Artefato Legado? Ele será vinculado a {0}.
+该角色同时激活的符咒最多只能有{0}个！	Este personagem só pode ter {0} talismãs ativos ao mesmo tempo!
+突破时无法使用道具	Itens indisponíveis durante o avanço.
+当前状态无法使用道具	Itens indisponíveis durante o estado atual.
 使用这个物品吗？	Deseja usar este item?
 使用	Use
 丢下这个物品吗？	Deseja descartar este item?
@@ -3604,41 +3604,41 @@ Trap编辑。	Trap Edit.
 [color=#FF0000]{0}后完全恶化[/color]	[color=#FF0000] becomes completely corrupted in {0}.[/color]
 [color=#006B12]{0}后痊愈[/color]	[color=#006B12] Will recover fully in {0}.[/color]
 \n已治疗(剩余:{0:N0}s)	\nHealed (Remaining: {0:N0} sec)
-\n[color=#D06508]治疗效果不好或自身恢复力太差，请提高治疗效果或自身恢复力。[/color]	\n[color=#D06508]Healing too low or Resilience too poor. Increase Healing or Resilience.[/color]
-\n丹药生效中	\nElixir activate
-\n[color=#D06508]药效不足或自身恢复力太差，请使用更好的药物或提高自身恢复力。[/color]	\n[color=#D06508]Medicine too weak or Resilience too poor. Use a better medicine or increase Resilience.[/color]
-影响:{0:N2}%\n程度:{1:N2}%({4:N4})\n疼痛:{2}\n趋势:{3}\n{5}	Effect: {0:N2}%\nDegree: {1:N2}% ({4:N4})\nPain: {2}\nStatus: {3}\n{5}
-\n[color=#9e6404]内门伤害只能靠服用对应的丹药才能治疗[/color]	\n[color=#9e6404]Inner Damage can only be healed by imbibing the correct elixir.[/color]
+\n[color=#D06508]治疗效果不好或自身恢复力太差，请提高治疗效果或自身恢复力。[/color]	\n[color=#D06508]Cura muito baixa ou Resiliência muito baixa. Aumente a Cura ou Resiliência.[/color]
+\n丹药生效中	\nAtivar Elixir
+\n[color=#D06508]药效不足或自身恢复力太差，请使用更好的药物或提高自身恢复力。[/color]	\n[color=#D06508]Remédio muito fraco ou Resiliência muito pobre. Use um remédio melhor ou aumente a Resiliência.[/color]
+影响:{0:N2}%\n程度:{1:N2}%({4:N4})\n疼痛:{2}\n趋势:{3}\n{5}	Effect: {0:N2}%\nGrau: {1:N2}% ({4:N4})\nPain: {2}\nStatus: {3}\n{5}
+\n[color=#9e6404]内门伤害只能靠服用对应的丹药才能治疗[/color]	\n[color=#9e6404]Dano Interno só pode ser curado bebendo o elixir correto.[/color]
 {0:N2}%({1:N2}%)\n疼痛:{2}	{0:N2}% ({1:N2}%)\nPain: {2}
 [color=#ff0000][显现][/color]	[color=#ff0000][Appear][/color]
-{0}{2}\n显现：{1}	{0}{2}\nAppear: {1}
-不再显现	Do not appear again
+{0}{2}\n显现：{1}	{0}{2}\nAparecer: {1}
+不再显现	Não apareça novamente
 ({0:P2})[未显现]	({0:P2})[Not Appeared]
 [temperature]{0:N0}[/temperature]至[temperature]{1:N0}[/temperature]	[temperature]{0:N0}[/temperature] to [temperature]{1:N0}[/temperature]
 {0:N1}米	{0:N1}m
 {0}是{1}	{0} is {1}
-心绪：{0:N0}\n所有情绪的绝对值相加，情绪的数量和程度都会提高心绪的复杂程度。心绪也受情绪放大系数影响。\n共五个层次：\n[color=#FFFFFF]■[/color]心咆意哮\n[color=#00c400]■[/color]心猿意马\n[color=#0099cc]■[/color]心念芜杂\n[color=#F700FF]■[/color]心宁气静\n[color=#FF8B00]■[/color]心如止水	Distress: {0:N0}\nThe total absolute value of all mood. The number and extent of the moods will complicate the distress. It is also affected by the mood multiplier. \nFive states in total: \n[color=#FFFFFF]■[/color] Raging Anger \n[color=#00c400]■[/color] Absent Mind \n[color=#0099cc]■[/color] Troubled Soul \n[color=#F700FF]■[/color] Tranquility \n[color=#FF8B00]■[/color] Even-tempered
-\n剩余: {0}	\nRemaining: {0}
-尚未开辟神国	Divine realm has not yet been established.
+心绪：{0:N0}\n所有情绪的绝对值相加，情绪的数量和程度都会提高心绪的复杂程度。心绪也受情绪放大系数影响。\n共五个层次：\n[color=#FFFFFF]■[/color]心咆意哮\n[color=#00c400]■[/color]心猿意马\n[color=#0099cc]■[/color]心念芜杂\n[color=#F700FF]■[/color]心宁气静\n[color=#FF8B00]■[/color]心如止水	Distress: {0:N0}\nO valor absoluto total de todo humor. O número e a extensão dos humores complicarão a angústia. Também é afetado pelo multiplicador de humor. \nCinco estados no total: \n[color=#FFFFFF]■[/color] Raging Anger \n[color=#00c400]■[/color] Absent Mind \n[color=#0099cc]■[/color] Alma perturbada \n[color=#F700FF]■[/color] Tranqüilidade \n[color=#FF8B00]■[/color] Equilibrado
+\n剩余: {0}	\nRemanescente: {0}
+尚未开辟神国	O reino divino ainda não foi estabelecido.
 角色死亡，无法展开神国	O personagem está morto. Incapaz de estabelecer o Divine Realm.
-此处无法展开神国	Unable to establish the Divine Realm here.
-\n兽形态下无法突破瓶颈	\nUnable to breakthrough Limit in beast form.
-内丹战斗强度:	Internal Core Battle Power: 
-内丹灵气容量:	Internal Core Qi Capacity: 
-内丹回灵速度:	Internal Core Qi Recovery: 
-内丹攻击间隔:	Internal Core Attack Speed: 
-内丹飞行速度:	Internal Core Flying Speed: 
-内丹转弯速度:	Internal Core Turn Speed: 
-术法伤害加成:	Spell Damage Bonus: 
-术法冷却缩短:	Spell CD Reduction: 
-术法消耗加成:	Spell Cost Bonus: 
+此处无法展开神国	Incapaz de estabelecer o Reino Divino aqui.
+\n兽形态下无法突破瓶颈	\nIncapaz de ultrapassar o Limite na forma de besta.
+内丹战斗强度:	Poder de Batalha do Núcleo Interno: 
+内丹灵气容量:	Capacidade interna do núcleo Qi:
+内丹回灵速度:	Recuperação de Qi do Núcleo Interno:
+内丹攻击间隔:	Vel. de ataque do núcleo interno:
+内丹飞行速度:	Vel. de Voo do Núcleo Interno: 
+内丹转弯速度:	Vel. de giro do núcleo interno: 
+术法伤害加成:	Bônus de Dano Mágico: 
+术法冷却缩短:	Redução de CD de Magia: 
+术法消耗加成:	Bônus de custo de Magia:
 护盾强度:	Poder de Barreirar: 
 法宝战斗强度:	Artefato Poder de Batalha: 
 法宝灵气容量:	Artefato Capacidade de Qi: 
 法宝回灵速度:	Artefato Recuperação de Qi: 
-法宝攻击间隔:	Artefato Velocidade de Ataque: 
-法宝飞行速度:	Artefato Velocidade de Voo: 
-法宝转弯速度:	Artefato Velocidade de giro: 
+法宝攻击间隔:	Artefato Vel. de Ataque: 
+法宝飞行速度:	Artefato Vel. de Voo: 
+法宝转弯速度:	Artefato Vel. de giro: 
 {0:F1}/秒	{0:F1}/sec
 {0:F1}秒	{0:F1}sec
 {0:F0}米/秒	{0:F0}m/sec
@@ -3647,11 +3647,11 @@ Trap编辑。	Trap Edit.
 {0}: {1:F2}/秒\n	{0}: {1:F2}/sec\n
 (总值)	(Total)
 (平均值)	(Average)
-全局闪避：{0:P2}	Global Dodge: {0:P2}
-躲闪率：炼体者直接躲避攻击的几率。	Dodge Chance: a chance de Cultivadores Físicos se esquivarem diretamente de um ataque.
-身体强度：{0:F2}	Physical Strength: {0:F2}
-身体强度：炼体者身躯的综合强度，决定炼体者承受伤害的能力。	Physical Strength: a força abrangente do corpo de um cultivador físico, que determina a capacidade de suportar danos.
-等待师父{1}完成{0}。	Waiting for Master {1} to complete {0}.
+全局闪避：{0:P2}	Esquiva Global: {0:P2}
+躲闪率：炼体者直接躲避攻击的几率。	Esquiva Global: a chance de Cultivadores Físicos se esquivarem diretamente de um ataque.
+身体强度：{0:F2}	Força física: {0:F2}
+身体强度：炼体者身躯的综合强度，决定炼体者承受伤害的能力。	Força física: a força abrangente do corpo de um cultivador físico, que determina a capacidade de suportar danos.
+等待师父{1}完成{0}。	Aguardando o Mestre {1} concluir {0}.
 正在感悟天地	Deep in though
 [align=center]道行天劫[/align]\n已渡次数:{0}\n可渡次数:{1}\n\n[color=#D06508]道行每达百数，便可与冥冥之中感悟天道对道行之限制。若修成元神，便可运转元神引动天机，以渡道行之天劫。[/color]	[align=center]Tribulação de Conquista[/align]\nSobreviveu a Tribulações: {0}\nTribulações Esquerdas {1}\n\n[color=#D06508]Para cada 100 de conquista, o personagem pode tentar uma epifania da restrição de conquista do Credo do Céu . Se o personagem cultivou uma alma primordial, ele pode usá-la para entender o mistério da natureza para sobreviver à Tribulação de Conquista.[/color]
 [align=center]寿元天劫[/align]\n已渡次数:{0}\n可渡次数:{1}\n\n[color=#D06508]年龄每达千数，便可与冥冥之中感悟天道对寿元之限制。若修成元神，便可运转元神引动天机，以渡寿元之天劫。[/color]	[align=center]Tribulação do Tempo de Vida[/align]\nTempos de Sobrevivência: {0}\nTribulações Esquerda: {1}\n\n[color=#D06508]Para cada 1.000 anos de idade, o personagem terá uma epifania da restrição de tempo de vida do Credo do Céu. Se o personagem cultivou uma alma primordial, ele pode usá-la para entender o mistério da natureza e sobreviver à Tribulação da Vida.[/color]
@@ -3659,7 +3659,7 @@ Trap编辑。	Trap Edit.
 {0:N0}秒	{0:N0} Sec
 因神性圆满而产生的信仰天劫。如果度过，则留下遗蜕神化飞升，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次Uma Tribulação Celestial causada pela divindade cumprida. Se o personagem sobreviver, ele ascenderá à imortalidade e deixará seu corpo mortal para trás; se não, eles serão obliterados. \nAs tribulações de crença sobreviveram: {0} vezes
 修为到达圆满境后，可直面自身执念而引动信仰天劫。如果度过，则斩却执念，于神国中开辟一块新区域，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次	Uma vez que o cultivo atinge o Estado de Realização, o personagem pode enfrentar sua própria obsessão e causar uma Tribulação de Crenças. Se o personagem sobreviver, ele se desprenderá de todas as obsessões e criará uma nova área no Reino Divino; se não, eles serão obliterados. \nTribulações de Crença Sobrevividas: {0} times
-{0}代弟子	Gen {0} Disciple
+{0}代弟子	Geração {0} Discípulo
 飞升滞留次数	Hovers
 滞留{0}次	Hover {0} times.
 心境：{0:N0}/{1:N0}\n层次：{2}{3}\n趋势：{5}{4:F2}/天\n\t({6})\n突破条件：{7}\n突破进度：{8:P2}({9:N1}/{10:N1})\n\n心境会大幅度影响修炼相关行为的效率和成功率。只有足够强大的心境才能驾驭信徒的祈祷之念。	Estado mental: {0:N0}/{1:N0}\nEstados: {2}{3}\nInclinação: {5}{4:F2}/d \n\t ({6})\nRequisitos de descoberta: { 7}\nProgresso da Revelação: {8:P2}({9:N1}/{10:N1})\n\nO Estado Mental de um personagem afeta a eficiência e a taxa de sucesso das ações relacionadas ao treinamento. Apenas um estado mental forte o suficiente pode administrar as orações de todos os seguidores.
@@ -3683,13 +3683,13 @@ Trap编辑。	Trap Edit.
 这个动物由修行者夺舍而来，觉醒灵智以后会迎来最严格的化形天劫，是否确定觉醒灵智	Este animal foi possuído por um cultivador. Uma vez despertada a inteligência, ela enfrentará a mais dura Tribulação de Metamorfose. Tem certeza de que deseja despertar sua inteligência?
 是否确定觉醒灵智	Tem certeza de que deseja despertar a inteligência?
 是否确定合成灵智碎片，合成以后将无法取消	Tem certeza de que deseja sintetizar fragmento de inteligência? Uma vez sintetizado, não pode ser revertido.
-思绪：{0}/{1}	Thought: {0}/{1}
+思绪：{0}/{1}	Pensamento: {0}/{1}
 开启灵智\n{0:P0}	Awaken Intelligence\n{0:P0}
 开启\n灵智	Awaken\nIntelligence
-由修行者夺舍而来，只要积累足够精元就可以开启灵智\n精元容量：{0:F0}/{1:F0} ({2:F0}%)	Possessed by a cultivator, can be awakened intelligence as long as there is enough Stamina accumulated.\nStamina capacity: {0:F0}/{1:F0} ({2:F0}%)
-开启灵智\n灵智碎片：{5}/({3}-{4})个\n精元容量：{0:F0}/{1:F0} ({2:F0}%)	Awaken Intelligence\nIntelligence Shard:{5}/({3}-{4})\nStamina capacity: {0:F0}/{1:F0} ({2:F0}%)
-当前状态无法觉醒灵智	Unable to awaken intelligence under the current status.
-正在觉醒灵智	Awakening Intelligence
+由修行者夺舍而来，只要积累足够精元就可以开启灵智\n精元容量：{0:F0}/{1:F0} ({2:F0}%)	Ppossuído por um cultivador, pode ser despertado a inteligência desde que haja suficiente Estamina acumulado.\Capacidade de Estamina: {0:F0}/{1:F0} ({2:F0}%)
+开启灵智\n灵智碎片：{5}/({3}-{4})个\n精元容量：{0:F0}/{1:F0} ({2:F0}%)	Awaken Intelligence\nIntelligence Shard:{5}/({3}-{4})\nCapacidade de Estamina: {0:F0}/{1:F0} ({2:F0}%)
+当前状态无法觉醒灵智	Incapaz de despertar a inteligência sob o status atual.
+正在觉醒灵智	Despertar da Inteligência
 请选择一个理智思绪	Select a Rationality Thought.
 请选择一个认知思绪	Select a Realization Thought.
 请选择一个感知思绪	Select a Perception Thought.
@@ -3697,13 +3697,13 @@ Trap编辑。	Trap Edit.
 灵智碎片：\n{2},{3},{4}\n	Intelligence Shard: \n{2},{3},{4}\n
 [color=#FF0000]{0}[/color]个灵智碎片开启灵智，化形天劫在[color=#FF0000]{1}[/color]天后降临	Awakened with [color=#FF0000]{0}[/color] Intelligence Shards. The Shapeshifting Tribulation is descending in [color=#FF0000]{1}[/color] days.
 {1}({0})\n{2:F0}岁\n寿元:{3}	{1} ({0})\n{2:F0} years old\nLifespan: {3}
-轮回者不能改变经历。	Reincarnators cannot have their background changed.
-\n剩余:{0}	\nRemaining: {0}
-木头	Wood
+轮回者不能改变经历。	Reencarnadores não podem ter seus antecedentes alterados.
+\n剩余:{0}	\nRemanescente: {0}
+木头	Madeira
 皮毛布料	Fur Cloth
 修行相关	Related to Practice
 货币\n灵石是各大门派和行商之间流通的唯一货币。	Moeda\nAs Pedras Espirituais são a única moeda usada por todas as seitas e mercadores.
-血量	Health
+血量	Saúde
 点击打开角色属性面板	Clique para abrir o menu de estatísticas do personagem.
 点击切换至该角色	Clique para mudar para este personagem.
 平衡	Equilíbrio
@@ -3711,18 +3711,18 @@ Trap编辑。	Trap Edit.
 弟子会自己安排修炼行为	Os discípulos planejarão seu próprio cronograma de treinamento de cultivo.
 克己	Restringido
 [克己]克制自己之欲望，使神性的获得速度加快。同时获得临时的神性加值(最多为真实神性的一半)。\n克己状态下心境不会减少且加速增加。	[Restrained] Restrains your own desires and accelerates the increase of divinity. At the same time, obtains temporary additional divinity (no greater than half of the base divinity). \nWhile restrained, your mental state will increase at a faster pace, instead of reducing.
-[境界]持续修行功法直到功法达到瓶颈	[Practice] Continue praticando uma Lei até atingir o limite.
-放纵	Indulgence
-调心	Mind
-[放纵]放纵自己之欲望，使自己神性获得速度降低。同时获得临时的人性加值(最多为真实神性的一半)。\n放纵状态下心境不会增加且加速减少。	[Indulgence] Indulges in your own desires and slow down the increase of divinity. At the same time, obtains temporary additional humanity (no greater than half of the base divinity). \nWhile indulging, your mental state will reduce at a faster pace, instead of increasing.
-[心境]持续调整心境直到心境无暇	[Mind] Continue a ajustar o estado mental até a Mente Pura.
+[境界]持续修行功法直到功法达到瓶颈	[Prática] Continue praticando uma Lei até atingir o limite.
+放纵	Indulgência
+调心	Mente
+[放纵]放纵自己之欲望，使自己神性获得速度降低。同时获得临时的人性加值(最多为真实神性的一半)。\n放纵状态下心境不会增加且加速减少。	[Indulgência] Satisfaça seus próprios desejos e retarde o aumento da divindade. Ao mesmo tempo, obtém humanidade adicional temporária (não maior que a metade da divindade básica). \nEnquanto se entrega, seu estado mental diminuirá em um ritmo mais rápido, em vez de aumentar.
+[心境]持续调整心境直到心境无暇	[Mente] Continue a ajustar o estado mental até a Mente Pura.
 [练功]自主进行练习，获取较多参悟经验。	[Train] Treina automaticamente para aumentar o XP de Inspiração.
 {0}_积累灵性：{1}	{0}_Accumulated Blessing: {1}
-[多个物体]	[Multiple Objects]
-一个区域	One Area
-指定交互角色	Select character to interact with.
-\n[color=#0000FF]所属工作:{0}[/color]	\n[color=#0000FF]Work: {0}[/color]
-\n-\n[color=#009900][按住Shift可指定多个目标][/color]	\n-\n[color=#009900][Hold down the Shift key to select multiple targets][/color]
+[多个物体]	[Vários objetos]
+一个区域	Uma área
+指定交互角色	Selecione o personagem para interagir.
+\n[color=#0000FF]所属工作:{0}[/color]	\n[color=#0000FF]Trabalho: {0}[/color]
+\n-\n[color=#009900][按住Shift可指定多个目标][/color]	\n-\n[color=#009900][Mantenha pressionada a tecla Shift para selecionar vários destinos][/color]
 弱	Weak
 强	Strong
 [align=center]风水详情[/align]	[align=center]Feng Shui Details[/align]
