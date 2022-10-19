@@ -473,7 +473,7 @@
 神修在心境为“寂”时，心境只有在心绪低于100时才会增加。心绪越低，增加速度越快。反之则会减少。	When the mental state is 'still', it will only be raised if the distress is lower than 100. A lower distress means a faster rise. Otherwise it will be reduced.
 欲寂中求圣，必须达神国境后，在克己状态下保持心境300，神性大于20，持续{0:N1}天。角色悟性越高，需要持续的时间越长。	To seek a 'sacred' mind, keep the mental state at 300 and divinity higher than 20 during self-restraining after reaching the Divine State for {0:N1} days. The greater the character's intelligence, the longer it takes to achieve the mental state.
 圣	Sagely
-神修在心境为“圣”时，心境只有在神性大于50的情况下才会增加，神性越高，增加速度越快。反之则会减少。	When the mental state is 'sacred', it will only be raised if the divinity is higher than 50, as a higher divinity means a faster rise. Otherwise it will be reduced.
+神修在心境为“圣”时，心境只有在神性大于50的情况下才会增加，神性越高，增加速度越快。反之则会减少。	Quando o estado mental é 'sagrado', ele só será elevado se a divindade for superior a 50, pois uma divindade superior significa uma ascensão mais rápida. Caso contrário, será reduzido.
 欲圣中求慧，必须保持心境400，持续{0:N1}天。角色悟性越高，需要持续的时间越短。	To seek a 'wise' mind, keep the mental state at 400 for {0:N1} days. The greater the character's intelligence, the faster it is to achieve the mental state.
 慧	Wise
 神修在心境为“慧”时，心境只有在悟性大于8的情况下才会增加，悟性越高，增加速度越快。反之则会减少。	When the mental state is 'wise', it will only be raised if the intelligence is greater than 8, as a greater intelligence means a faster rise. Otherwise it will be reduced.
@@ -481,7 +481,7 @@
 神修在心境为“空”时，心境只有在心绪低于50的情况下才会增加，心绪越低，增加速度越快。反之则会减少。	When the mental state is 'empty', it will only be raised if the distress is lower than 50, as a lower distress means a faster rise. Otherwise it will be reduced.
 欲空中求灵，必须在纵欲状态下，保持心境600，且人性大于60，持续{0:N1}天。角色机缘越高，需要持续时间越短。	To seek a 'spiritual' mind, keep the mental state at 600 and humanity higher than 60 during self-indulgence for {0:N1} days. The greater the character's luck, the faster it is to achieve the mental state.
 灵	Spirit
-神修在心境为“灵”时，心境已然圆满，将持续上升，不收任何外部条件影响。	When the mental state is 'spiritual', it will be fulfilled and raised at a steady pace, not affected by outside factors.
+神修在心境为“灵”时，心境已然圆满，将持续上升，不收任何外部条件影响。	Quando o estado mental é 'espiritual', ele será realizado e elevado em um ritmo constante, não afetado por fatores externos.
 已然圆满，不可突破。	No breakthrough for an attained mind.
 心咆意哮	Raging Anger
 心猿意马	Absent Mind
@@ -543,7 +543,7 @@
 初始化..	Inicializando...
 最后的准备.	Final preparations.
 _结局	_The End
-    天苍历245年，腊月。\n    立派于月轮山的正道门派太一门，突遭外敌入侵。太一门掌教虽临阵突破金丹，但却在追击敌人时身陷绝龙阵，最终陨落。\n    是夜，太一门满门尽灭。仅有数名外门弟子在传功长老的帮助下逃出山门……	    Year 245 of the Tiancang Era, December. \n    The Taiyi sect, which had established itself near Mt.Fullmoon, was suddenly invaded by enemies. Although the sect leader had performed a breakthrought into Golden Core right before the battle, they ambushed him with a Dragon-Killer Formation as he was in pursuit—this became his undoing.\n    That night, almost the entire Taiyi sect was massacred. Only a handful outer disciples managed to escape the mountain with the help of an elder...
+    天苍历245年，腊月。\n    立派于月轮山的正道门派太一门，突遭外敌入侵。太一门掌教虽临阵突破金丹，但却在追击敌人时身陷绝龙阵，最终陨落。\n    是夜，太一门满门尽灭。仅有数名外门弟子在传功长老的帮助下逃出山门……	    Ano 245 da Era Tiancang, dezembro. \n    A seita Taiyi, que havia se estabelecido perto do Monte Lua Cheia, foi subitamente invadida por inimigos. Embora o líder da seita tenha realizado uma incursão no Núcleo Dourado logo antes da batalha, eles o emboscaram com uma Formação Matadora de Dragões enquanto ele estava perseguindo-o. Isso se tornou sua ruína.\n Naquela noite, quase toda a seita Taiyi foi massacrada. Apenas alguns discípulos externos conseguiram escapar da montanha com a ajuda de um ancião...
 选择存档	Choose a save file
 今天的{0:N0}点	{0:N0} hoje
 {0:N0}个小时后	{0:N0} Horas Depois
@@ -804,10 +804,10 @@ _结局	_The End
 刚完成修理建筑，准备洗洗手收工	Just finished repairing a building; going to wash hands and stop working
 正在准备工具，去执行修理建筑	Preparing tools for repairing buildings
 娱乐	Leisure
-正准备娱乐一下放松放松	Going to have some fun and relax
-正惬意的享受自己的娱乐时间	Enjoying recreation time
-刚刚玩了个痛快，正准备收收心	Had some great fun already; preparing to get back to work
-正无所事事的消磨着时光	Messing around to kill some time
+正准备娱乐一下放松放松	Vai se divertir e relaxar
+正惬意的享受自己的娱乐时间	Aproveitando o tempo de lazer
+刚刚玩了个痛快，正准备收收心	Já se divertiu muito; preparando-se para voltar ao trabalho
+正无所事事的消磨着时光	Brincando para matar algum tempo
 走路	Andando
 正匆匆赶路	Walking hurriedly
 正兴高采烈的赶路	Walking cheerfully
@@ -935,7 +935,7 @@ _结局	_The End
 调查	Investigating
 正一脸好奇的查看什么东西	Looking at something curiously
 安装建筑	Erecting buildings
-正满意的看着自己刚刚安装的建筑	Looking at the building just erected with satisfaction
+正满意的看着自己刚刚安装的建筑	Olhando para o prédio recém erguido com satisfação
 正辛苦的安装建筑	Working hard to erect buildings
 屠宰	Butchering
 正掩着口鼻屠宰牲畜	Butchering livestock while covering nose
@@ -953,7 +953,7 @@ _结局	_The End
 养殖区	Pasture
 药田	Herb Garden
 标记区域	Marked Area
-灵植影响范围	Spiritual plants affect their surroundings.
+灵植影响范围	As plantas espirituais afetam seus arredores.
 区域数据	Area Data
 农田	Field
 房间	Room
@@ -970,7 +970,7 @@ _结局	_The End
 金丹之法	Golden Core Law
 凡俗之法	Worldly Law
 显示关于{0}的评论	Show comments on {0}
-管理者审核通过后其他同道中人方可看见此评论	This comment can only be seen by others after the moderator's approval.
+管理者审核通过后其他同道中人方可看见此评论	Este comentário só pode ser visto por outras pessoas após a aprovação do moderador.
 该评论中包含敏感词汇	This comment contains censored words.
 请调息片刻静待下次评论	Please take a break for your next comment.
 评论不能为空	Your comment cannot be empty.
@@ -1063,13 +1063,13 @@ _结局	_The End
 尚有角色处于警戒区域，请先远离门派区域	Character(s) in the alert area. Please stay away from the sect.
 建筑解锁	Unlock Building
 解锁了以下建筑：\n	The following building(s) unlocked: \n
-未获得通行权，门派的大能正在赶来的路上，请速速离开此地。	Unauthorized entry. The sect sage is on their way. Please leave immediately.
+未获得通行权，门派的大能正在赶来的路上，请速速离开此地。	Entrada não autorizada. O sábio da seita está a caminho. Por favor, saia imediatamente.
 警告	Warning
 载入场景数据	Loading map data
 进入场景	Entering area
 载入角色数据	Loading character data
 最后的准备	Final preparations
-{0}({1}岁)	{0} ({1} years old)
+{0}({1}岁)	{0} ({1} anos)
 潜力	Potential
 等级:{0}	Level: {0}
 \n{0}级	\nLv {0}
@@ -1153,7 +1153,7 @@ _结局	_The End
 神秘修行者	Mysterious Cultivator
 观察	Observing
 观察{0}之后，获得了对于{1}的思绪片段。	A Thought Shard of {1} has been obtained after observing {0}.
-仔细观察了一番，但思绪碎片过多，无法获得。	Despite careful observation, there are too many pieces of Thought Shards. Unable to obtain.
+仔细观察了一番，但思绪碎片过多，无法获得。	Apesar da observação cuidadosa, há muitos fragmentos de pensamento. Não foi possível obter.
 思考之前无法通过观察获得更多关于{0}的思绪	Unable to obtain any more Thoughts about {0} through observation before Thinking.
 观察{0}之后未能获得任何思绪碎片。	Failed to obtain any Thought Shards after observation of {0}.
 交流	Falar
@@ -1216,7 +1216,7 @@ _结局	_The End
 思考，剩余{0:N0}秒	Thinking, {0:N0} sec remaining
 觉醒灵智	Awaken Intelligence
 觉醒灵智，剩余{0:N0}秒	Awakening Intelligence, {0:N0} sec remaining
-文中含有敏感词汇，请斟酌后重书。	This contains sensitive words. Please rewrite and try again.
+文中含有敏感词汇，请斟酌后重书。	Este contém palavras sensíveis. Reescreva e tente novamente.
 阵法运转	Formation Operation
 建造:{0}	Build: {0}
 伐木	Corta Madeira
@@ -1260,7 +1260,7 @@ _结局	_The End
 {0}对其施展的{1}	{0} showed them {1}
 似乎什么都不会发生	Nothing seems to happen.
 {0}可能会出现 {1}	{0} might appear at {1}
-似乎没有什么特殊的事情发生	Nothing special seems to happen.
+似乎没有什么特殊的事情发生	Nada de especial parece acontecer.
 门派近期派人前往{0}可能{1}	Dispatching members to {0} might give rise to {1}
 某地	Somewhere
 被替换	was replaced.
@@ -1389,7 +1389,7 @@ _结局	_The End
 出身	Childhood
 历世	Adulthood
 特殊	Special
-插入角色名字	Choose a character name.
+插入角色名字	Escolha um nome de personagem.
 插入第三人称代词（他/她）	Choose third-person pronoun (male/female).
 插入语第三人称物主代词（他的/她的）	Choose a third-person possessive pronoun (his/her).
 确定删除以下背景故事吗？\n\n{0}	Do you want to delete the following background? \n\n{0}
@@ -1401,8 +1401,8 @@ _结局	_The End
 输入数值	Enter Value
 添加特性	Add Trait
 请选择需要保存的内容	Select content to save.
-有需要保存的内容还没有名字	The content you wish to save does not yet have a name.
-需要保存的内容还没有名字	The content you wish to save does not yet have a name.
+有需要保存的内容还没有名字	O conteúdo que você deseja salvar ainda não tem um nome.
+需要保存的内容还没有名字	O conteúdo que você deseja salvar ainda não tem um nome.
 保存成功	Saved.
 背景故事 {0} 数据写入中...	{0}'s background story is being written…
 灵智缺少名称\n	Lack name of Intelligence\n
@@ -1444,7 +1444,7 @@ Name	Name
 \n\n[color=#9e6404]不能共存：[/color]	\n\n[color=#9e6404]Não pode coexistir:[/color]
 [新手推荐]\n	[Recomendado para iniciantes]\n
 此经历不可改变。	This background cannot be edited.
-未选择需要保存的内容	Content to save not yet selected.
+未选择需要保存的内容	Conteúdo para salvar ainda não selecionado.
 轮回者：{0} \n灵智不够，无法保存	Reincarnator: {0} \nInsufficient Intelligence, unable to save.
 自制轮回者	Customize Reincarnator
 轮回者 {0} 数据写入中...	Reincarnator {0}'s data is being written…
@@ -3508,15 +3508,15 @@ Trap编辑。	Trap Edit.
 见面礼	Meeting Gift
 原木	Wood
 石材	Stones
-采取处世手段解决问题，某些时候可以收获吸引力或影响值。	Using social skills to solve problems sometimes can gain appeal or influence.
+采取处世手段解决问题，某些时候可以收获吸引力或影响值。	Usar habilidades sociais para resolver problemas às vezes pode ganhar apelo ou influência.
 威慑他人。	Threaten others.
 吸引他人。	Appeal to others.
 辩论，或是做坏事。	Debate or prank.
 将食物给他人。	Dê comida aos outros.
 将灵石送人。大部分凡人都不认识灵石。	Dê aos outros pedras espirituais. A maioria dos mortais não conhece as pedras espirituais.
-将木材送人，或是拿起木棍。	Give others wood, or pick up a wood stick.
-将石头送人，或是拿起砖头。	Give others stones, or pick up a brick.
-派遣众弟子或是拥有特殊标签的弟子解决问题。	Send all disciples, or disciples with a special trait to solve the problem.
+将木材送人，或是拿起木棍。	Dê madeira aos outros ou pegue um pedaço de madeira.
+将石头送人，或是拿起砖头。	Dê pedras aos outros ou pegue um tijolo.
+派遣众弟子或是拥有特殊标签的弟子解决问题。	Envie todos os discípulos, ou discípulos com uma característica especial para resolver o problema.
 快速增加	Fast increase
 增减平衡	Balanced
 快速减少	Fast decrease
@@ -3527,8 +3527,8 @@ Trap编辑。	Trap Edit.
 前往{0}-主持	Go to {0} - Host
 寻求物资	Search for Resources
 剩余时间：	Tempo restante:
-该任务将要求进入地图击杀一位{0}的敌人。	This quest requires to enter the map and kill a {0} enemy.
-该任务要求赠送如下道具：	This quest requires to gift the item:
+该任务将要求进入地图击杀一位{0}的敌人。	Esta missão requer entrar no mapa e matar um inimigo {0}.
+该任务要求赠送如下道具：	Esta missão requer presentear o item:
 完成奖励：	Recompensa: 
 {0}点人情	{0} Connection
 {0}点门派好感	{0} Favor da Seita
@@ -3652,7 +3652,7 @@ Trap编辑。	Trap Edit.
 身体强度：{0:F2}	Força física: {0:F2}
 身体强度：炼体者身躯的综合强度，决定炼体者承受伤害的能力。	Força física: a força abrangente do corpo de um cultivador físico, que determina a capacidade de suportar danos.
 等待师父{1}完成{0}。	Aguardando o Mestre {1} concluir {0}.
-正在感悟天地	Deep in though
+正在感悟天地	Mas no fundo
 [align=center]道行天劫[/align]\n已渡次数:{0}\n可渡次数:{1}\n\n[color=#D06508]道行每达百数，便可与冥冥之中感悟天道对道行之限制。若修成元神，便可运转元神引动天机，以渡道行之天劫。[/color]	[align=center]Tribulação de Conquista[/align]\nSobreviveu a Tribulações: {0}\nTribulações Esquerdas {1}\n\n[color=#D06508]Para cada 100 de conquista, o personagem pode tentar uma epifania da restrição de conquista do Credo do Céu . Se o personagem cultivou uma alma primordial, ele pode usá-la para entender o mistério da natureza para sobreviver à Tribulação de Conquista.[/color]
 [align=center]寿元天劫[/align]\n已渡次数:{0}\n可渡次数:{1}\n\n[color=#D06508]年龄每达千数，便可与冥冥之中感悟天道对寿元之限制。若修成元神，便可运转元神引动天机，以渡寿元之天劫。[/color]	[align=center]Tribulação do Tempo de Vida[/align]\nTempos de Sobrevivência: {0}\nTribulações Esquerda: {1}\n\n[color=#D06508]Para cada 1.000 anos de idade, o personagem terá uma epifania da restrição de tempo de vida do Credo do Céu. Se o personagem cultivou uma alma primordial, ele pode usá-la para entender o mistério da natureza e sobreviver à Tribulação da Vida.[/color]
 因神国中神民怨念累积到100%而产生的信仰天劫。如果度过，则使怨念清零，如若失败，则灰飞烟灭。\n已渡信仰天劫：{0}次	Uma Tribulação Celestial causada pelo ódio acumulado de 100% dos residentes divinos no Reino Divino. Se o personagem sobreviver, todo o ódio será eliminado; se não, eles serão obliterados. \nAs tribulações de crença sobreviveram: {0} vezes
@@ -3676,7 +3676,7 @@ Trap编辑。	Trap Edit.
 影响灵宠内丹的各项属性。	Afeta as estatísticas do Pet de seu Núcleo Interno.
 影响灵宠的灵气护盾强度。	Afeta o Poder da Barreira de Qi do Pet.
 影响灵宠的术法威力和灵气消耗。	Afeta o poder mágico e o custo de Qi do Pet.
-{0}:{1}\n通过锻炼可以提高，{0}营养越高，提高越快。	{0}:{1}\nCan be improved through exercise. The higher the nutrition {0}, the faster it can be improved.
+{0}:{1}\n通过锻炼可以提高，{0}营养越高，提高越快。	{0}:{1}\nPode ser melhorado através do exercício. Quanto maior a nutrição {0}, mais rápido ela pode ser melhorada.
 {0}营养：{1:N0}\n营养上限：100\n营养越高，对应的属性成长越快，消耗也越多，通过不同的饮食习惯来影响当前营养。	{0} Nutrition: {1:N0}\nNutrition cap: 100\nThe higher the nutrition, the faster the corresponding stats grow and the more it consumes. You can affect the current nutrition with different dietary habits.
 半妖型态的妖族在一定时间后都将面对化形天劫，成功度过即可成功化为人形，失败则会被打回原型。灵智碎片越多天劫便越快降临。	Yaoguai em formas semi-humanas enfrentará a Tribulação de Metamorfose após um período de tempo. Aqueles que tiverem sucesso mudarão de forma para formas humanas, enquanto aqueles que falharem serão revertidos para suas aparências originais. Quanto mais fragmentos de inteligência houver, mais cedo a tribulação chegaria.
 {0:N0}天	{0:N0} d
@@ -3834,8 +3834,8 @@ Lua回调类名	Lua Callback Class Name
 {0}尝试使用了{1}，没有效果，便放回了背包	{0} failed in an attempt to use {1} and then put it back in the bag.
 没有可用的弟子，请先派遣弟子抵达此处。\n在世真仙可以直接降临。	No available disciple. Please send disciples here first. \nDemi-God can directly descend upon this place.
 冒险	Aventura
-此门派已经闭关戒严，暂时无法进入。	This sect has been closed off to the public. Currently inaccessible.
-此地已封山戒严，暂时无法进入。	This place has been closed off to the public. Currently inaccessible.
+此门派已经闭关戒严，暂时无法进入。	Esta seita foi fechada ao público. Atualmente inacessível.
+此地已封山戒严，暂时无法进入。	Este lugar foi fechado ao público. Atualmente inacessível.
 无可用弟子	Nenhum discípulo disponível
 确定派遣弟子要进入{0}吗？\n\t参与弟子有：\n{1}	Do you want to send disciples to enter {0}?\n\t Participants include: \n{1}
 未获得通行权，贸然进入将会受到攻击	Inacessível. O personagem será atacado por entrada forçada.
@@ -3864,7 +3864,7 @@ Lua回调类名	Lua Callback Class Name
 {0}在虚空历练时，巧遇应天台凝结灵气，与{1}经过一番苦斗后惜败，未能夺得灵石。	{0} estava treinando no vazio e encontrou o Altar Eco do Céu cristalizando, lutou com {1} mas falhou e não conseguiu ganhar as pedras espirituais.
 {0} 战胜了 {1}	{0} beat {1}
 {0} 被 {1} 战胜了	{0} was beaten by {1}
-领取的应天奖励将在返回门派以后获得。	Will gain Altar Eco do Céu rewards after back to sect.
+领取的应天奖励将在返回门派以后获得。	Ganhará recompensas do Altar Eco do Céu após voltar à seita.
 正在获取角色	Receiving Characters
 请输入灵刻	Input Inscription
 获取角色失败	Receiving Faild
