@@ -3484,7 +3484,7 @@ Trap编辑。	Trap Edit.
 门派人数已达上限，不可送回代理人！	Reached the maximum sect population. Unable to recall the agent!
 危险未知	Unknown
 赠送	Enviar presente
-赠送以完成任务	Send gifts to complete tasks
+赠送以完成任务	Envie presentes para concluir tarefas
 驻扎中	Camping
 返回中	Retornando
 无数次	Numerous times
@@ -3496,8 +3496,8 @@ Trap编辑。	Trap Edit.
 {0}天劫临近(低于30秒)，拒绝前往。	{0}Heavenly Tribulation is coming (in less than 30 sec). Refused to go.
 {0}正在忙，暂时无法前往。	{0} is now occupied and cannot go.
 门派存亡之际不宜外出。	Your sect is on the verge of being annihilated. This is not the time to leave.
-{0}的的瓶颈即将松动，暂时不宜外出历练。	{0}'s limit is increased. This is not the time for them to adventure.
-{0}正在静修中，不能外出历练。	{0} is meditating. This is not the time for them to adventure.
+{0}的的瓶颈即将松动，暂时不宜外出历练。	O limite de {0} foi aumentado. Este não é o momento para eles se aventurarem.
+{0}正在静修中，不能外出历练。	{0} está meditando. Este não é o momento para eles se aventurarem.
 循环历练	Repeat Adventure
 循环{0}次\n(召回可以中断循环)	Repeat {0} times\n (Recall to stop the repeat)
 无数	Numerous
@@ -3707,7 +3707,7 @@ Trap编辑。	Trap Edit.
 点击打开角色属性面板	Clique para abrir o menu de estatísticas do personagem.
 点击切换至该角色	Clique para mudar para este personagem.
 平衡	Equilíbrio
-随心所欲，顺其自然	Let nature take its course.
+随心所欲，顺其自然	Deixe a natureza seguir seu curso.
 弟子会自己安排修炼行为	Os discípulos planejarão seu próprio cronograma de treinamento de cultivo.
 克己	Restringido
 [克己]克制自己之欲望，使神性的获得速度加快。同时获得临时的神性加值(最多为真实神性的一半)。\n克己状态下心境不会减少且加速增加。	[Restrained] Restrains your own desires and accelerates the increase of divinity. At the same time, obtains temporary additional divinity (no greater than half of the base divinity). \nWhile restrained, your mental state will increase at a faster pace, instead of reducing.
@@ -3731,8 +3731,8 @@ Trap编辑。	Trap Edit.
 \n特殊:\n[color=#FF0000]{0}神秘洞穴[/color]	\nSpecial: \n[color=#FF0000]{0} Mysterious Cave[/color]
 \n镇物:	\nRelic:
 \n无	\nNone
-契合	compatible
-不合	incompatible
+契合	compatível
+不合	incompatível
   ({0}格[{1}])	  ({0} space [{1}])
 拥有者:{0}	Owner: {0}
 房间温度\n室内的当前温度	Room Temperature\nThe current temperature in the room.
@@ -3753,8 +3753,8 @@ Trap编辑。	Trap Edit.
 {0}\n防御及保护，开启后会自动反击发起攻击的敌人\n[color=#D06508]点击可改变模式[/color]	{0}\nDefensivo. Ligue para atacar automaticamente os inimigos que atacam você..\n[color=#D06508]Clique para alterar o modo.[/color]
 [关闭]	[Off]
 [color=#009900][打开][/color]	[color=#009900][On][/color]
-仅外门	Only Outer Disciples
-仅内门	Only Inner disciples
+仅外门	Apenas Discípulos Externos
+仅内门	Apenas discípulos internos
 外门及内门	Both
 [{0}]\n自动攻击目标\n[color=#D06508]点击可改变模式[/color]	[{0}]\nAtacar alvos automaticamente\n[color=#D06508]Clique para alterar o modo.[/color]
 饮水	Drink
@@ -3782,7 +3782,7 @@ Trap编辑。	Trap Edit.
 影响思绪片段产生速度。满足的条件越多，产生得越快。\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}	Affects the speed at which Thought Shards generate. The more conditions fulfilled, the faster they are generated.\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}
 处于养殖区	Na Pasture Area
 启智与思考\n(快捷键:[keycode]PracticePanel[/keycode])	Awakening Intelligence and Thinking\n(hotkey: [keycode]PracticePanel[/keycode])
-开智期	Awakening State
+开智期	Estado de Despertar
 思绪碎片：{0}/{1}	Shards: {0}/{1}
 精元容量:{0:F0}/{1:F0} ({2:F0}%)\n灵智碎片足够，而且精元容量已满的时候可以开启灵智。	Stamina capacity: {0:F0}/{1:F0} ({2:F0}%)\nYou can awaken intelligence once Stamina is full and there is enough Intelligence Shards.
 灵气:{0:N0}/{1:N0}\n灵宠的灵气在战斗中回复比较缓慢。当灵气为空时灵兽将会死亡，建立对应雕像可以使其重生。\n角色会从环境中吸取灵气	Qi:{0:N0}/{1:N0}\nPet's Qi slowly replenishes in battle. Once Qi is exhausted, the pet will die. You can build the corresponding statue to revive it.\nCharacter absorbs Qi from the environment.
@@ -3827,12 +3827,12 @@ Lua回调类名	Lua Callback Class Name
 触发对象组别	Trigger Target Team
 脚本回调	Script Callback
 系统回调	System Callback
-是否要丢弃 {0}?	Do you want to discard {0}?
-该弟子还未能成为内门弟子	This disciple has not become inner disciple.
-无法学习	Cannot learn.
+是否要丢弃 {0}?	Deseja descartar {0}?
+该弟子还未能成为内门弟子	Este discípulo não se tornou discípulo interior.
+无法学习	Não pode aprender.
 {0}无法使用{1}	{0} cannot use {1}.
-{0}尝试使用了{1}，没有效果，便放回了背包	{0} failed in an attempt to use {1} and then put it back in the bag.
-没有可用的弟子，请先派遣弟子抵达此处。\n在世真仙可以直接降临。	No available disciple. Please send disciples here first. \nDemi-God can directly descend upon this place.
+{0}尝试使用了{1}，没有效果，便放回了背包	{0} falhou na tentativa de usar {1} e depois colocá-lo de volta na bolsa.
+没有可用的弟子，请先派遣弟子抵达此处。\n在世真仙可以直接降临。	Nenhum discípulo disponível. Por favor, envie discípulos aqui primeiro. \nDemi-Deus pode descer diretamente sobre este lugar.
 冒险	Aventura
 此门派已经闭关戒严，暂时无法进入。	Esta seita foi fechada ao público. Atualmente inacessível.
 此地已封山戒严，暂时无法进入。	Este lugar foi fechado ao público. Atualmente inacessível.
@@ -3858,7 +3858,7 @@ Lua回调类名	Lua Callback Class Name
 {0} 被 {1} 邀请进行战斗，获得了胜利。	{0} is invited by {1} for a fight and win.
 {0} 邀请 {1} 进行比试，惜败。	{0} invite {1} to have a fight and lose.
 {0} 被 {1} 邀请进行战斗，惜败。	{0} is invited by {1} for a fight and lose.
-在应天台凝结灵石时候，{0} 战胜争夺者 {1}，夺得了灵石。	When the Altar Eco do Céu is crystallizing, {0} beat {1} and won spirit stones。
+在应天台凝结灵石时候，{0} 战胜争夺者 {1}，夺得了灵石。	Quando o Altar Eco do Céu estiver cristalizando, {0} derrotou {1} e ganhou pedras espirituais。
 {0} 在虚空历练时，巧遇应天台凝结灵气，与 {1} 一番争斗以后，{0} 略胜一筹，夺得了灵石。	{0} estava treinando no void e conhece o Altar Eco do Céu cristalizando, lutou com {1} . {0} alcançou a vitória e ganhou pedras espirituais.
 在应天台凝结灵石时候，{0}不敌争夺者{1}，灵石被夺走了。	Quando o Altar do Eco do Céu estiver cristalizando, {0} perdido para {1} e pedras espirituais perdidas。
 {0}在虚空历练时，巧遇应天台凝结灵气，与{1}经过一番苦斗后惜败，未能夺得灵石。	{0} estava treinando no vazio e encontrou o Altar Eco do Céu cristalizando, lutou com {1} mas falhou e não conseguiu ganhar as pedras espirituais.
@@ -3943,8 +3943,8 @@ Lua回调类名	Lua Callback Class Name
 输入老门派的名字	Digite um nome para sua antiga seita.
 太虚傀儡	Void Puppet
 {0}之镇派法宝，乃是前代派中高人的贴身法器。但自从百年前便被封印，再无人启用，似乎在等待着什么。	A herança mais valiosa de {0}. Era a arma de seu maior mestre, mas foi selada há centenas de anos e não foi usada por gerações. Parece estar esperando por algo, ou alguém.
-太虚幻境\n假作真时真亦假，无为有时有还无。\n太上有道虚作实，心中无疑幻成真。	Land of Illusion\nIf you dress truth up as false; then, what is truly true and what is truly false?\nWith the power to turn illusion into reality, all one's doubts become true.
-在逃亡途中，你们不幸被追杀的敌人找寻到，生死关头，一名青山高冠的仙人从天而降，飞剑如电，瞬间将追兵斩杀。\n  你们刚准备拜谢救命之恩，那名仙人就挥手阻止了你们，而后连说三声真像，便留下一封信笺，化光而去……	The enemies caught up to you as you were escaping and as they were slaughtering your men one after another, a radiant immortal descended from Heaven. His sword flashed like lightning and the enemy fell to the last man.\n  As you prepared to prostrate yourself in thanks to this stranger, he raised a hand to stop you. After which he muttered an incantation and left you letter, only to disappear in a flash of light…
+太虚幻境\n假作真时真亦假，无为有时有还无。\n太上有道虚作实，心中无疑幻成真。	Terra da Ilusão\nSe você vestir a verdade como falsa; então, o que é verdadeiramente verdadeiro e o que é verdadeiramente falso?\nCom o poder de transformar a ilusão em realidade, todas as dúvidas se tornam verdadeiras.
+在逃亡途中，你们不幸被追杀的敌人找寻到，生死关头，一名青山高冠的仙人从天而降，飞剑如电，瞬间将追兵斩杀。\n  你们刚准备拜谢救命之恩，那名仙人就挥手阻止了你们，而后连说三声真像，便留下一封信笺，化光而去……	Os inimigos te alcançaram quando você estava fugindo e enquanto eles estavam massacrando seus homens um após o outro, um imortal radiante desceu do céu. Sua espada brilhou como um relâmpago e o inimigo caiu para o último homem.\n Enquanto você se preparava para se prostrar em agradecimento a esse estranho, ele ergueu a mão para detê-lo. Depois disso, ele murmurou um encantamento e deixou uma carta para você, apenas para desaparecer em um flash de luz…
 数日逃亡之后……	Alguns dias após a fuga…
 春去冬来，草长莺飞。数年后……	Alguns anos depois...
 观察四周	Observe os arredores
@@ -3972,5 +3972,5 @@ Lua回调类名	Lua Callback Class Name
 代理事件：{0}（可收集:{1}）	Agency Events: {0} (Collectable: {1})
 代理事件：{0}	Agency Events: {0}
 秘闻：{0}	Secrets: {0}
-{0}来到此地，发现了多件事情的踪迹。于是决定去处理其中一件事情。	{0} came here and found traces of many incidents. So they decided to focus on managing one of them.
+{0}来到此地，发现了多件事情的踪迹。于是决定去处理其中一件事情。	{0} veio aqui e encontrou vestígios de muitos incidentes. Então eles decidiram se concentrar em gerenciar um deles.
 事件选择	Select Event
