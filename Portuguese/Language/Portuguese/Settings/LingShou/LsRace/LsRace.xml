@@ -2,53 +2,53 @@
 	<List>
 		<Text Name="LsDog">
 			<PossibleMagic.0.DisplayName>Watering Plants</PossibleMagic.0.DisplayName>
-			<PossibleMagic.0.Desc>Water plants causing them to mature faster. Only useable via a pet's behavior, can't be used manually.</PossibleMagic.0.Desc>
+			<PossibleMagic.0.Desc>Regue as plantas fazendo com que elas amadureçam mais rápido. Apenas utilizável através do comportamento de um animal de estimação, não pode ser usado manualmente.</PossibleMagic.0.Desc>
 			<PossibleMagic.1.DisplayName>Fertilize Soil</PossibleMagic.1.DisplayName>
-			<PossibleMagic.1.Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Fertile Soil. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.1.Desc>Troca o próprio crescimento e nutrição para converter uma parcela de terra em Solo Fértil. \n[color=#FF0000]Deve ser maduro para fazer isso.[/color]</PossibleMagic.1.Desc>
 			<PossibleMagic.2.DisplayName>Act Playful</PossibleMagic.2.DisplayName>
-			<PossibleMagic.2.Desc>Act Playful towards a character, using enthusiasm and charisma to break down the defenses around their heart. \n[color=#FF0000]Requires 100 Intelligence.[/color]</PossibleMagic.2.Desc>
-			<PossibleSkill.0.Desc>[color=#FF0000]Requires 50 Protection[/color]</PossibleSkill.0.Desc>
-			<PossibleSkill.1.Desc>[color=#FF0000]Requires 100 Protection[/color]</PossibleSkill.1.Desc>
-			<PossibleSkill.2.Desc>[color=#FF0000]Requires 50 Spell[/color]</PossibleSkill.2.Desc>
-			<PossibleSkill.3.Desc>[color=#FF0000]Requires 100 Spell[/color]</PossibleSkill.3.Desc>
+			<PossibleMagic.2.Desc>Aja de forma brincalhona com um personagem, usando entusiasmo e carisma para quebrar as defesas em torno de seu coração. \n[color=#FF0000]Requer 100 de Inteligência.[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Requer 50 de Proteção[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Requer 100 de Proteção[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Requer 50 de Feitiço[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Requer 100 de Feitiço[/color]</PossibleSkill.3.Desc>
 		</Text>
 		<Text Name="LsFox">
 			<PossibleMagic.0.DisplayName>Panacea</PossibleMagic.0.DisplayName>
-			<PossibleMagic.0.Desc>Heals a Disciple's Inner Injuries. Only useable via a pet's behavior, can't be used manually.</PossibleMagic.0.Desc>
+			<PossibleMagic.0.Desc>Cura os ferimentos internos de um discípulo. Apenas utilizável através do comportamento de um animal de estimação, não pode ser usado manualmente.</PossibleMagic.0.Desc>
 			<PossibleMagic.1.DisplayName>Spiritual Soil of Creator</PossibleMagic.1.DisplayName>
-			<PossibleMagic.1.Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Spiritual Soil. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.1.Desc>Troca o próprio crescimento e nutrição para converter uma parcela de terra em Solo Espiritual. \n[color=#FF0000]Deve ser maduro para fazê-lo.[/color]</PossibleMagic.1.Desc>
 			<PossibleMagic.2.DisplayName>Act Playful</PossibleMagic.2.DisplayName>
-			<PossibleMagic.2.Desc>Acts Playful with Traveling Merchant in order to curry Favor. \n [color=#FF0000] Requires 100 Intelligence.[/color]</PossibleMagic.2.Desc>
-			<PossibleSkill.0.Desc>[color=#FF0000]Requires 50 Core[/color]</PossibleSkill.0.Desc>
-			<PossibleSkill.1.Desc>[color=#FF0000]Requires 50 Spell[/color]</PossibleSkill.1.Desc>
-			<PossibleSkill.2.Desc>[color=#FF0000]Requires 50 Qi[/color]</PossibleSkill.2.Desc>
-			<PossibleSkill.3.Desc>[color=#FF0000]Requires 100 Qi[/color]</PossibleSkill.3.Desc>
+			<PossibleMagic.2.Desc>Brinca com o Mercador Viajante para obter favores. \n [color=#FF0000] Requer 100 de Inteligência.[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Requer 50 de Núcleo[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Requer 50 de Feitiço[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Requer 50 de Qi[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Requer 100 de Qi[/color]</PossibleSkill.3.Desc>
 		</Text>
 		<Text Name="LsDragon">
 			<PossibleMagic.0.DisplayName>Chilly Wind</PossibleMagic.0.DisplayName>
-			<PossibleMagic.0.Desc>Heals a Disciple's Heatstroke. Only useable via a pet's behavior, can't be used manually.</PossibleMagic.0.Desc>
+			<PossibleMagic.0.Desc>Cura a Insolação de um Discípulo. Apenas utilizável através do comportamento de um animal de estimação, não pode ser usado manualmente.</PossibleMagic.0.Desc>
 			<PossibleMagic.1.DisplayName>Cold Prison Dispelling</PossibleMagic.1.DisplayName>
-			<PossibleMagic.1.Desc>As the same type of creature as a Flood Dragon, it can dispel the Cold Prison that the Flood Dragons leave behind. \n [color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.1.Desc>Como o mesmo tipo de criatura que um Flood Dragon, ele pode dissipar a Prisão Fria que os Flood Dragons deixam para trás. \n [color=#FF0000]Deve ser maduro para fazê-lo.[/color]</PossibleMagic.1.Desc>
 			<PossibleMagic.2.DisplayName>Icy Breath</PossibleMagic.2.DisplayName>
-			<PossibleMagic.2.Desc>Uses the Flood Dragon's True Qi from within to expel scorching heat. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.2.Desc>Usa o Qi Verdadeiro do Dragão da Inundação de dentro para expulsar o calor escaldante. \n[color=#FF0000]Deve ser maduro para fazê-lo.[/color]</PossibleMagic.2.Desc>
 			<PossibleMagic.3.DisplayName>Renowned Might</PossibleMagic.3.DisplayName>
-			<PossibleMagic.3.Desc>Display your incredible might before an Agency to increase Stability. [color=#FF0000]Requires 100 Intelligence to unlock.[/color]</PossibleMagic.3.Desc>
+			<PossibleMagic.3.Desc>Exiba seu incrível poder diante de uma agência para aumentar a estabilidade. [color=#FF0000]Requer 100 Intelligence to unlock.[/color]</PossibleMagic.3.Desc>
 			<PossibleSkill.0.Desc>Flood Thunder</PossibleSkill.0.Desc>
-			<PossibleSkill.1.Desc>[color=#FF0000]Requires 50 Spell[/color]</PossibleSkill.1.Desc>
-			<PossibleSkill.2.Desc>[color=#FF0000]Requires 100 Spell[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Requer 50 de Feitiço[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Requer 100 de Feitiço[/color]</PossibleSkill.2.Desc>
 		</Text>
 		<Text Name="LsPhoenix">
 			<PossibleMagic.0.DisplayName>Furnace Spell</PossibleMagic.0.DisplayName>
-			<PossibleMagic.0.Desc>Heals a Disciple's Frostbite. Only useable via a pet's behavior, can't be used manually.</PossibleMagic.0.Desc>
+			<PossibleMagic.0.Desc>Cura o Frostbite de um Discípulo. Apenas utilizável através do comportamento de um animal de estimação, não pode ser usado manualmente.</PossibleMagic.0.Desc>
 			<PossibleMagic.1.DisplayName>Scorching Breath</PossibleMagic.1.DisplayName>
-			<PossibleMagic.1.Desc>Uses the Phoenix's True Qi from within to expel bitter cold. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.1.Desc>Usa o Qi Verdadeiro da Fênix de dentro para expulsar o frio amargo. \n[color=#FF0000]Deve ser maduro para fazê-lo.[/color]</PossibleMagic.1.Desc>
 			<PossibleMagic.2.DisplayName>Piercing Sight</PossibleMagic.2.DisplayName>
-			<PossibleMagic.2.Desc>Grant Piercing Sight to an Inner Disciple so that they will be able to see through to an Item's true features while at an Auction. \n[color=#FF0000]Requires 50 Intelligence to unlock. [/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.2.Desc>Conceda Visão Perfurante a um Discípulo Interno para que ele possa ver as verdadeiras características de um Item durante um Leilão. \n[color=#FF0000]Requer 50 de Inteligência para desbloquear. [/color]</PossibleMagic.2.Desc>
 			<PossibleMagic.3.DisplayName>Auspicious Signs</PossibleMagic.3.DisplayName>
-			<PossibleMagic.3.Desc>Display your incredible might before an Agency to increase our side's Appeal. [color=#FF0000]Requires 100 Intelligence to unlock.[/color]</PossibleMagic.3.Desc>
-			<PossibleSkill.0.Desc>[color=#FF0000]Requires 50 Core[/color]</PossibleSkill.0.Desc>
-			<PossibleSkill.1.Desc>[color=#FF0000]Requires 50 Spell[/color]</PossibleSkill.1.Desc>
-			<PossibleSkill.2.Desc>[color=#FF0000]Requires 100 Spell[/color]</PossibleSkill.2.Desc>
+			<PossibleMagic.3.Desc>Mostre seu incrível poder diante de uma agência para aumentar o apelo do nosso lado. [color=#FF0000]Requer 100 Intelligence to unlock.[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Requer 50 de Núcleo[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Requer 50 de Feitiço[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Requer 100 de Feitiço[/color]</PossibleSkill.2.Desc>
 		</Text>
 	</List>
 </Texts>
