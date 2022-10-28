@@ -2,45 +2,45 @@
 	<List>
 		<Text Name="SeeTheSky">
 			<DisplayName>Skygazing</DisplayName>
-			<SingleFormat.0>Wanted to fly while {0} on hills.</SingleFormat.0>
-			<SingleFormat.1>Thought about the hazy past while {0}.</SingleFormat.1>
+			<SingleFormat.0>Queria voar enquanto {0} em colinas.</SingleFormat.0>
+			<SingleFormat.1>Pensei no passado nebuloso enquanto {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="HearEarthQuake">
 			<DisplayName>Hearing Earthquake</DisplayName>
-			<SingleFormat.0>After {0}, nothing happened.</SingleFormat.0>
-			<SingleFormat.1>After {0} then came a strange noise.</SingleFormat.1>
+			<SingleFormat.0>Após {0}, nada aconteceu.</SingleFormat.0>
+			<SingleFormat.1>Depois de {0} veio um barulho estranho.</SingleFormat.1>
 		</Text>
 		<Text Name="HearFarThunder">
 			<DisplayName>Hearing Thunder</DisplayName>
-			<SingleFormat.0>After {0} it rained.</SingleFormat.0>
-			<SingleFormat.1>After {0}, yet nothing happened.</SingleFormat.1>
+			<SingleFormat.0>Depois de {0} choveu.</SingleFormat.0>
+			<SingleFormat.1>Depois de {0}, nada aconteceu.</SingleFormat.1>
 		</Text>
 		<Text Name="SmellRain">
 			<DisplayName>Smelling rain</DisplayName>
-			<SingleFormat.0>After {0} it rained.</SingleFormat.0>
-			<SingleFormat.1>It got dark after {0}.</SingleFormat.1>
+			<SingleFormat.0>Depois de {0} choveu.</SingleFormat.0>
+			<SingleFormat.1>Ficou escuro depois de {0}.</SingleFormat.1>
 		</Text>
 		<Text Name="SmellDecay">
 			<DisplayName>Smelling Rotten</DisplayName>
-			<SingleFormat.0>Maybe something is {0}.</SingleFormat.0>
-			<SingleFormat.1>After {0}, something was not OK.</SingleFormat.1>
+			<SingleFormat.0>Talvez algo seja {0}.</SingleFormat.0>
+			<SingleFormat.1>Após {0}, algo não estava bem.</SingleFormat.1>
 		</Text>
 		<Text Name="HearLoud">
 			<DisplayName>Hearing loudness</DisplayName>
-			<SingleFormat.0>After {0}, jumped in fright.</SingleFormat.0>
+			<SingleFormat.0>Depois de {0}, pulou de susto.</SingleFormat.0>
 		</Text>
 		<Text Name="ClimbHigh">
 			<DisplayName>Climbing</DisplayName>
-			<SingleFormat.0>Likes to {0} tough mountains.</SingleFormat.0>
+			<SingleFormat.0>Gosta de {0} montanhas difíceis.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeStone">
 			<DisplayName>Watching Boulders</DisplayName>
-			<SingleFormat.0>Recalled {0} and Studying Boulders.</SingleFormat.0>
+			<SingleFormat.0>Recuperou {0} e Estudando Pedregulhos.</SingleFormat.0>
 		</Text>
 		<Text Name="Memory">
 			<DisplayName>Recalling</DisplayName>
-			<SingleFormat.0>After {0} something, felt younger.</SingleFormat.0>
-			<SingleFormat.1>Dislike {0} thoughts of the tumultuous pasts.</SingleFormat.1>
+			<SingleFormat.0>Depois de {0} algo, me senti mais jovem.</SingleFormat.0>
+			<SingleFormat.1>Não gosto de {0} pensamentos do passado tumultuado.</SingleFormat.1>
 		</Text>
 		<Text Name="SeeDisciples">
 			<DisplayName>Watching dressing</DisplayName>
@@ -92,7 +92,7 @@
 		</Text>
 		<Text Name="SmellMeal">
 			<DisplayName>Smelling Food</DisplayName>
-			<SingleFormat.0>When {0}, salivates as a result.</SingleFormat.0>
+			<SingleFormat.0>Quando {0}, saliva como resultado.</SingleFormat.0>
 		</Text>
 		<Text Name="SmellFire">
 			<DisplayName>Smelling Burn</DisplayName>
@@ -130,23 +130,23 @@
 		</Text>
 		<Text Name="SeeEast">
 			<DisplayName>Facing East</DisplayName>
-			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+			<SingleFormat.0>Quando {0}, senti uma brisa estranha.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeSouth">
 			<DisplayName>Facing South</DisplayName>
-			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+			<SingleFormat.0>Quando {0}, senti uma brisa estranha.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeWest">
 			<DisplayName>Facing West</DisplayName>
-			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+			<SingleFormat.0>Quando {0}, senti uma brisa estranha.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeNorth">
 			<DisplayName>Facing North</DisplayName>
-			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+			<SingleFormat.0>Quando {0}, senti uma brisa estranha.</SingleFormat.0>
 		</Text>
 		<Text Name="SeeDirt">
 			<DisplayName>Facing Down</DisplayName>
-			<SingleFormat.0>When {0}, felt strange breeze.</SingleFormat.0>
+			<SingleFormat.0>Quando {0}, senti uma brisa estranha.</SingleFormat.0>
 		</Text>
 	</List>
 </Texts>
