@@ -101,7 +101,7 @@
 				Carisma: A habilidade de um personagem de ganhar favores com os outros, não importando sua aparência ou disposição. Afeta a habilidade social de um personagem.
 				Inteligência: A habilidade de um personagem de pensar. Afeta a velocidade de aprendizagem. Sorte: A medida em que um personagem é favorecido pelo Céu. Afeta estatísticas relacionadas ao acaso.
 				Potencial: Um personagem mais jovem com Cinco Atributos melhores terá um potencial maior. Potencial afeta a velocidade do treinamento básico de um personagem.
-				[img]ui/Help_pt/006[/img]]]></Text>
+				[img]ui/Help_en/006[/img]]]></Text>
 		</Help>
 		<Help Name="23" Root="2">
 			<Title>Humores &amp; Precisa</Title>
@@ -148,7 +148,7 @@
 				Movimento: A habilidade de um personagem de se mover, afetada por qualquer lesão na perna ou na coluna. O movimento afeta a velocidade de movimento e a eficiência de um personagem para a maioria dos tipos de trabalho.
 				Destreza: A habilidade de um personagem de realizar manobras, afetada por qualquer lesão no braço ou na coluna. Destreza afeta a eficiência de um personagem para a maioria dos tipos de trabalho.
 				Observação: A habilidade de um personagem de perceber os mundos exteriores, afetada quando os olhos e ouvidos do personagem sofrem danos. A observação afeta a distância de visão e a eficiência para a maioria dos tipos de trabalho.
-				[img]ui/Help_pt/008[/img]]]></Text>
+				[img]ui/Help_en/008[/img]]]></Text>
 		</Help>
 		<Help Name="31" Root="3">
 			<Title>Horário de trabalho</Title>
@@ -156,13 +156,13 @@
 				Você pode usar o menu [color=#2E589A]trabalho[/color] no canto inferior direito para agendar o trabalho dos personagens.
 				Os personagens terminarão seu trabalho de acordo com as prioridades listadas, descendo da esquerda para a direita. Se uma tarefa não for atribuída a um determinado personagem no menu de trabalho, o personagem não executará a tarefa.
 				Portanto, um uso estratégico do cardápio de trabalho pode aumentar a eficiência de toda a seita.
-				[img]ui/Help_pt/009[/img]
+				[img]ui/Help_en/009[/img]
 			[color=#9e6404]Priorizado[/color]
 				Os personagens terminarão sua tarefa priorizada antes de qualquer outra tarefa.
-				[img]ui/Help_pt/010[/img]
+				[img]ui/Help_en/010[/img]
 			[color=#9e6404]Cronograma do discípulo externo[/color]
 				Um cronograma geral para as atividades diárias dos discípulos externos. Um cronograma adequado irá organizar os personagens para comer, beber e dormir antes de abrigar quaisquer emoções negativas devido à fome, sede ou privação de sono.
-				[img]ui/Help_pt/011[/img]]]></Text>
+				[img]ui/Help_en/011[/img]]]></Text>
 		</Help>
 		<Help Name="32" Root="3">
 			<Title>Ordem de construção</Title>
@@ -184,20 +184,20 @@
 				Demolir: Demolir edifícios em uma área selecionada.
 				Explorar: Defina um destino para exploração. O personagem irá em direção ao local selecionado e dispersará qualquer neblina ao longo do caminho.
 				Apague o fogo: Apague o fogo em uma área selecionada.
-				Cancelar: Cancela todos os pedidos emitidos em uma área selecionada. [img]ui/Help_pt/013[/img]]]></Text>
+				Cancelar: Cancela todos os pedidos emitidos em uma área selecionada. [img]ui/Help_en/013[/img]]]></Text>
 		</Help>
 		<Help Name="34" Root="3">
 			<Title>Ordem de Fabricação</Title>
 			<Text><![CDATA[
 				Alguns edifícios podem ser usados para fabricar itens. Clique em 'Fabricar' no painel de interação do edifício para abrir o menu de fabricação.
 				No menu de fabricação, clique com o botão esquerdo em um produto para adicioná-lo à fila de fabricação.
-				[img]ui/Help_pt/014[/img]
+				[img]ui/Help_en/014[/img]
 			[color=#9e6404]Selecione o material principal[/color]
 				No menu de fabricação, clique com o botão direito do mouse no ícone de um produto para selecionar o principal material utilizado para confeccionar este item.
-				[img]ui/Help_pt/017[/img]
+				[img]ui/Help_en/017[/img]
 			[color=#9e6404]Repetir fabricação[/color]
 				No menu de fabricação, clique com o botão esquerdo no botão 'Repetir' na fila de fabricação para selecionar um tipo de repetição para o produto.
-				[img]ui/Help_pt/016[/img]
+				[img]ui/Help_en/016[/img]
 			[color=#9e6404]Organizar fila[/color]
 				No menu de fabricação, clique com o botão esquerdo no botão 'Prioridade máxima' na fila de fabricação para selecionar uma tarefa a ser priorizada.
 				[img]ui/Help_en/015[/img]]]></Text>
@@ -213,7 +213,7 @@
 				Equipar Item: Tente equipar um item.
 				Ataque: Tente atacar uma criatura.
 				Artefato de artesanato: Tente criar um item em um artefato.
-				[img]ui/Help_pt/018[/img]]]></Text>
+				[img]ui/Help_en/018[/img]]]></Text>
 		</Help>
 		<Help Name="36" Root="3">
 			<Title>Planejamento de Área</Title>
@@ -237,19 +237,19 @@
 			<Text><![CDATA[
 				Você pode selecionar diferentes [color=#2E589A]materiais principais[/color] para a construção de um edifício.
 				Os principais materiais afetam a cor do edifício. Os edifícios herdarão o elemento do material principal e serão dotados de características específicas.
-				[img]ui/Help_pt/019[/img]
+				[img]ui/Help_en/019[/img]
 				
 				[color=#9e6404]Por exemplo:[/color]
 				Uma parede feita de ferro será imbuída do elemento Metal, o que a torna mais sólida e menos propensa a pegar fogo do que as paredes de madeira.
 				Um móvel feito de pedras de jade será infundido com o elemento Terra, o que o torna menos durável, mas com maior atratividade.
-				[img]ui/Help_pt/020[/img]]]></Text>
+				[img]ui/Help_en/020[/img]]]></Text>
 		</Help>
 		<Help Name="42" Root="4">
 			<Title>Pontos interativos de edifícios</Title>
 			<Text><![CDATA[
 				Alguns edifícios exigem que os personagens fiquem em um local designado para interagir com eles.
 				Ao colocar edifícios, certifique-se de deixar espaço para pontos interativos.
-				[img]ui/Help_pt/021[/img]]]></Text>
+				[img]ui/Help_en/021[/img]]]></Text>
 		</Help>
 		<Help Name="43" Root="4">
 			<Title>Quarto</Title>
@@ -264,18 +264,18 @@
 				As paredes podem funcionar como isolamento térmico para a sala. Controle a fonte de calor na sala para manter a temperatura ambiente confortável.
 				
 				Os quartos têm classificações diferentes. Veja o exemplo abaixo:
-				[img]ui/Help_pt/022[/img]
+				[img]ui/Help_en/022[/img]
 				Você pode melhorar a classificação da sala colocando o piso ou colocando móveis nela.]]></Text>
 		</Help>
 		<Help Name="51" Root="5">
 			<Title>Cinco elementos</Title>
 			<Text><![CDATA[
 				Estabelecer uma seita desbloqueia o edifício: [color=#2E589A]Observatório[/color].
-			[img]ui/Help_pt/023[/img]
+			[img]ui/Help_en/023[/img]
 				Depois de construir um observatório, você pode ver o grau de concentração dos Cinco Elementos de uma área específica, a influência de uma unidade em seu entorno e o Feng Shui de um edifício.
 				[color=#9e6404]Cinco Elementos[/color]
 				Passe o mouse sobre um bloco específico e o Diagrama dos Cinco Elementos na parte superior da tela mostrará o respectivo grau de concentração dos Cinco Elementos.
-			[img]ui/Help_pt/024[/img]
+			[img]ui/Help_en/024[/img]
 			[color=#9e6404]Elemento de uma unidade[/color]
 				Clique com o botão esquerdo e selecione uma unidade, por exemplo, um edifício, uma planta ou um item. Se esta unidade afetar a concentração do Elemento em seu entorno, um círculo que representa seu Elemento será mostrado ao redor da unidade. A cor do círculo indica o elemento, enquanto o raio mostra a área influenciada pela unidade.
 				
@@ -283,7 +283,7 @@
 				Amarelo significa que o prédio tem Feng Shui ruim. A cor amarela mudará para vermelho quando o Feng Shui for ainda pior e mais sinistro.
 				Um edifício sem qualquer cor (por exemplo, parede) significa que não tem efeito em termos de Feng Shui.
 				Veja abaixo as interações entre os Cinco Elementos:
-				[img]ui/Help_pt/025[/img]]]></Text>
+				[img]ui/Help_en/025[/img]]]></Text>
 		</Help>
 		<Help Name="52" Root="5">
 			<Title>Cultivo &amp; Cinco elementos</Title>
@@ -306,7 +306,7 @@
 				
 				[color=#9e6404]Tome uma mesa de madeira como exemplo:[/color]
 				Se houver minérios de ferro colocados nas proximidades, o Feng Shui da mesa sofrerá com eles, pois o Metal supera a Madeira.
-				[img]ui/Help_pt/036[/img]
+				[img]ui/Help_en/036[/img]
 				Se um poço for construído ao lado da mesa, o Feng Shui se tornará bom porque a Água gera Madeira.
 				[img]ui/Help_en/035[/img]]]></Text>
 		</Help>
@@ -390,9 +390,9 @@
 			Quão bem o humor do personagem ajuda no cultivo. Pode ser melhorado atendendo às necessidades do personagem.
 			[color=#9e6404]8. Bônus de estado mental[/color]
 			Quão bem o estado mental do personagem ajuda no cultivo. Ele pode ser melhorado pela atenção.
-			[img]ui/Help_pt/027[/img]
+			[img]ui/Help_en/027[/img]
 			Depois que um personagem atinge o estado de Golden Core, a experiência de cultivo necessária para progredir para o próximo estado aumentará drasticamente. Aprenda a usar milagres como meditação para melhorar rapidamente a experiência.
-			[img]ui/Help_pt/040[/img]]]></Text>
+			[img]ui/Help_en/040[/img]]]></Text>
 		</Help>
 		<Help Name="63" Root="6">
 			<Title>Vigor &amp; Cultivo</Title>
@@ -545,29 +545,29 @@
 			[color=#9e6404]1. Inserindo locais[/color]
 				A maioria dos locais no jogo agora está disponível para seus cultivadores entrarem e explorarem.
 				Você pode enviar um cultivador para um local acessível e clicar no botão "Entrar" para explorá-lo ainda mais.
-				[img]ui/Help_pt2/044[/img]
+				[img]ui/Help_en2/044[/img]
 				Um Semi-Deus pode entrar em qualquer local instantaneamente. No entanto, os semi-deuses ainda estão sujeitos à sua Tribulação Celestial.
 				Se houver tempo para uma Tribulação, um Semi-Deus explorando um local terá que reunir todo o seu espírito para combatê-lo, o que prejudica muito suas proezas de luta.
 			[color=#9e6404]2. Explore a localização[/color]
 				Existem vários tesouros, inimigos e mistérios escondidos nos mapas de localização.
 				Depois de entrar em um local, um personagem pode se mover (tecla de atalho: V) para explorar a área e procurá-lo.
-				[img]ui/Help_pt2/045[/img]
+				[img]ui/Help_en2/045[/img]
 				Seu cultivador pode encontrar unidades hostis ao explorar um local. Certifique-se de ficar de olho neles.
 			[color=#9e6404]3. Interagir com objetos[/color]
 				Você pode coletar itens em um mapa de localização clicando em 'Coletar' (F1) ao lado do painel de personagens. Observe que esta ação pode induzir a hostilidade de outros personagens.
-				[img]ui/Help_pt2/046[/img]
+				[img]ui/Help_en2/046[/img]
 				Um cultivador pode levar no máximo 6 itens durante uma exploração. Você pode encontrar os itens coletados nos slots [Collected] do painel de equipamentos de um personagem. Você também pode descartar itens coletados lá.
 				Sua seita não ganhará oficialmente esses itens até que os personagens que os carregam retornem à seita em segurança.
-				[img]ui/Help_pt2/047[/img]
+				[img]ui/Help_en2/047[/img]
 				Há também objetos com interações especiais nos mapas de localização para você explorar.
-				[img]ui/Help_pt2/049[/img]
+				[img]ui/Help_en2/049[/img]
 			[color=#9e6404]4. Ocultar[/color]
 				Quando em um mapa de localização, um personagem pode usar o botão 'Ocultar' (tecla de atalho: F2) para se esgueirar.
 				Ao se esgueirar, a chance de ser visto é determinada pela Constituição e Percepção do personagem, a distância entre eles e outros personagens, bem como a diferença entre seus Estados.
 				É mais provável que um personagem furtivo seja visto quando estiver coletando itens raros (nível III ou superior), portanto, tome cuidado. 
 				
 				Você pode dizer a chance do seu personagem ser visto pela cor do ícone em forma de olho no personagem.
-				[img]ui/Help_pt2/050[/img]
+				[img]ui/Help_en2/050[/img]
 				Se não houver um ícone em forma de olho no seu personagem, isso significa que ninguém presta atenção nas ações do seu personagem.
 				Um ícone de olho branco significa que o personagem não será visto.
 				Um ícone de olho amarelo significa que há uma pequena chance de seu personagem ser visto.
@@ -585,13 +585,13 @@
 			<Text><![CDATA[
 				[color=#9e6404]1. Obtain Schemes[/color]
 					Você pode obter Manuais sobre os métodos de criação de Artefatos Legados através de vários meios. Após obter o esquema para um Artefato Legado, você pode criar um Artefato Legado usando o botão Criar Artefato no painel do personagem.
-				[img]ui/Help_pt2/052[/img]
+				[img]ui/Help_en2/052[/img]
 				[color=#9e6404]2. Incubação[/color]
 					Um Artefato de Legado recém-criado ainda é uma Incubação. Para ativar seu poder mágico, você terá que realizar uma série de ações designadas.
 					[img]ui/Help_en2/053[/img]
 				[color=#9e6404]3. Claiming Legacy Artifacts[/color]
 					Após ser ativado, um Legacy Artifact precisa ser Reivindicado por um cultivador para ser colocado em uso. Você pode equipar o Legacy Artifact em um personagem e usá-lo clicando com o botão direito do mouse para reivindicá-lo.
-					[img]ui/Help_pt2/054[/img]
+					[img]ui/Help_en2/054[/img]
 					Um Artefato Legado reivindicado só pode ser usado por seu mestre.]]></Text>
 		</Help>
 		<Help Name="73" Root="7">
@@ -606,11 +606,11 @@
 					Quanto mais Sub-Espíritos Ligados, maior o Estado do Espírito Primordial do cultivador.
 				[color=#9e6404]3. Anexar segmentos[/color]
 					Um cultivador que possua Espírito Primordial pode anexar seus subespíritos na tela de Artefato de Ofício.
-					[img]ui/Help_pt2/055[/img]
+					[img]ui/Help_en2/055[/img]
 					Anexar um Sub-Espírito a um equipamento significa infundir uma parte do poder do cultivador nele usando o Sub-Espírito como veículo.
 					Após anexar um Sub-Espírito, enquanto perde parte de seu poder, o cultivador ganha espaço para explorar novos poderes.
 					Quanto maior o Estado do Espírito Primordial de um cultivador, mais forte o poder pode ser anexado através dos Sub-Espíritos.
-					[img]ui/Help_pt2/056[/img]
+					[img]ui/Help_en2/056[/img]
 				[color=#9e6404]4. Equipamento Espiritual[/color]
 					As peças de equipamento Ligadas com Sub-Espíritos tornam-se Espirituais.
 					Um equipamento Espiritual tem efeito incondicional quando equipado pelo cultivador que produziu o Sub-Espírito que nele reside.
@@ -622,7 +622,7 @@
 			<Title>Desafio da Tribulação</Title>
 			<Text><![CDATA[
 				Depois de alcançar o Estado do Espírito Primordial, um cultivador pode assumir um Desafio da Tribulação da Vida ou Tribulação de Conquista no painel Cultivo.
-				[img]ui/Help_pt2/058[/img]
+				[img]ui/Help_en2/058[/img]
 				Para cada 100 Conquistas que um personagem possui, ele pode enfrentar o Desafio da Conquista Tribulação pela primeira vez. Se forem bem-sucedidos, perderão a Realização e ganharão Sub-Espíritos.
 				Para cada 1000 Lifespan que um personagem tem, ele pode enfrentar Challenge of Life Tribulation pela primeira vez. Se forem bem-sucedidos, eles ganharão Sub-Espíritos e prolongarão sua vida útil.
 				Além disso, cada vez que um personagem sobrevive a uma tribulação para permanecer no plano físico, ele também ganhará Sub-Espíritos e muita Inspiração.
@@ -635,44 +635,44 @@
 				Cultivadores agora podem formar formações para lutar contra seus inimigos.
 				Ao formar Formações, cultivadores individuais são integrados em um todo com destino compartilhado. Além de compartilhar os danos uns dos outros, eles também podem usar artefatos poderosos e feitiços mágicos, que são poderosos demais para cultivadores individuais, para aniquilar seus inimigos.
 				[color=#9e6404]1. Estrutura da Formação[/color]
-					[img]ui/Help_pt2/059[/img]
+					[img]ui/Help_en2/059[/img]
 					Uma Formação típica consiste em um Pilar e vários Auxiliares.
 					O Pilar é o coração e o cérebro das Formações, enquanto os Auxiliares formam o corpo da Formação e fornecem vários bônus.
 					Através de Aventurando-se pelo mundo, você pode obter diversos Manuais sobre diferentes tipos de Pilares e Auxiliares, desbloqueando-os um a um.
 				[color=#9e6404]2. Arranjo de Formação[/color]
 					Após desbloquear pelo menos um tipo de Pilar e um de Auxiliares, você pode acessar a tela de Arranjo de Formação clicando no botão Formação no canto inferior direito.
-					[img]ui/Help_pt2/060[/img]
+					[img]ui/Help_en2/060[/img]
 					Você deve criar um novo Plano quando entrar na tela de Arranjo de Formação pela primeira vez.
-					[img]ui/Help_pt2/061[/img]
+					[img]ui/Help_en2/061[/img]
 					Nomeie um personagem como o Pilar para criar um novo Plano.
-					[img]ui/Help_pt2/062[/img]
+					[img]ui/Help_en2/062[/img]
 					Após a nomeação de um Pilar, você pode verificar as classificações da Formação em formação. A Complexidade ou Poder de uma Formação não pode exceder a capacidade pessoal do Pilar.
-					[img]ui/Help_pt2/063[/img]
+					[img]ui/Help_en2/063[/img]
 					Estabilidade indica se uma Formação pode operar de forma constante. Uma Formação não pode ser formada se sua Estabilidade cair abaixo de 0.
 					O tamanho é determinado pelo número de Auxiliares em uma Formação. Uma formação superdimensionada sofrerá uma grande penalidade de estabilidade.
 					Carga indica a complexidade de uma Formação. Se uma Formação se tornar excessivamente complicada, o custo para mantê-la aumentará bastante.
 
 					Enquanto o Pilar aguentar, você pode colocar Pilares e Auxiliares à vontade para formar um Plano de Formação no lado direito da tela e uni-los usando Links.
-					[img]ui/Help_pt2/064[/img]
+					[img]ui/Help_en2/064[/img]
 				[color=#9e6404]3. Links de formação[/color]
 					Quando você estiver organizando sua formação, você descobrirá que os Pilares e Auxiliares são apresentados como hexágonos com diferentes etiquetas de palavras em algumas de suas bordas.
 					Você vai contar com eles para formar Links entre Pilares e Auxiliares. Somente arestas com a mesma tag de palavra podem ser unidas e formar um Link.
-					[img]ui/Help_pt2/065[/img]
+					[img]ui/Help_en2/065[/img]
 					Links diferentes têm efeitos diferentes. Escolha Auxiliares com o efeito mais desejado e planeje cuidadosamente sua Formação ideal.
-					[img]ui/Help_pt2/066[/img]
+					[img]ui/Help_en2/066[/img]
 					Para que uma Formação funcione como esperado, todas as arestas marcadas devem ser unidas umas às outras, caso contrário a Formação não poderá funcionar devido a Links incompletos.
-					[img]ui/Help_pt2/067[/img]
+					[img]ui/Help_en2/067[/img]
 					A tag "Null" pode ser vinculada a qualquer outra tag. Os links formados desta forma são desprovidos de quaisquer efeitos especiais, mas permitem que a Formação funcione normalmente.
-					[img]ui/Help_pt2/068[/img]
+					[img]ui/Help_en2/068[/img]
 				[color=#9e6404]4. Atribuindo funções[/color]
 					Quando tiver concluído o planejamento, você pode nomear sua formação clicando no botão "Configurações de formação" no canto inferior direito e entrar na tela Atribuição de função.
 					Você pode atribuir caracteres a cada um dos Auxiliares e ao Pilar.
 					Ao longo da rota de um Auxiliar para o Pilar, cada vez que o Elemento de um personagem gera o do próximo personagem, os Links do Auxiliar desse personagem desfrutarão de efeitos especiais amplificados. No entanto, se o Elemento de um personagem superar o do próximo personagem ao longo da rota, os efeitos especiais de seu Auxiliar sofrerão uma penalidade. Portanto, certifique-se de prestar atenção ao Elemento dos personagens em sua Formação!
-					[img]ui/Help_pt2/069[/img]
+					[img]ui/Help_en2/069[/img]
 				[color=#9e6404]5. Atributos de Formação[/color]
 					Cada Formação tem 9 atributos, determinando conjuntamente seu poder e efeito.
 					Na tela Atribuição de Função, você pode verificar o significado de cada atributo passando o mouse sobre seus nomes e lendo as dicas de ferramentas exibidas.
-					[img]ui/Help_pt2/070[/img]
+					[img]ui/Help_en2/070[/img]
 				[color=#9e6404]6. Complete sua formação[/color]
 					Sua Formação é concluída após seguir as etapas mostradas acima.
 					Você pode formar a Formação completa selecionando o personagem designado como Pilar e clicando no botão "Form Formation" que deve aparecer no painel de personagens. Se todos os personagens necessários para formar a Formação estiverem saudáveis ​​e na mesma área com o Pilar, eles formarão automaticamente a Formação designada.
