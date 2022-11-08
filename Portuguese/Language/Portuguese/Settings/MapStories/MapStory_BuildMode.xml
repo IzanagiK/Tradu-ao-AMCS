@@ -2,32 +2,32 @@
 	<List>
 		<Text Name="BuildMode_ChangeTime">
 			<DisplayName>Land of Illusion</DisplayName>
-			<Desc>So, when do you need to adjust the time to?</Desc>
-			<Selections.0.Display>Morning</Selections.0.Display>
-			<Selections.1.Display>Midday</Selections.1.Display>
-			<Selections.2.Display>Dusk</Selections.2.Display>
-			<Selections.3.Display>Nighttime</Selections.3.Display>
-			<Selections.4.Display>Never mind</Selections.4.Display>
+			<Desc>Então, para quando você precisa ajustar o tempo?</Desc>
+			<Selections.0.Display>Manhã</Selections.0.Display>
+			<Selections.1.Display>Meio-dia</Selections.1.Display>
+			<Selections.2.Display>Anoitecer</Selections.2.Display>
+			<Selections.3.Display>Noite</Selections.3.Display>
+			<Selections.4.Display>Deixa para lá</Selections.4.Display>
 		</Text>
 		<Text Name="BuildMode_ChangeSeason">
 			<DisplayName>Land of Illusion</DisplayName>
-			<Desc>So, what season should it be?</Desc>
-			<Selections.0.Display>Spring</Selections.0.Display>
-			<Selections.1.Display>Summer</Selections.1.Display>
-			<Selections.2.Display>Autumn</Selections.2.Display>
-			<Selections.3.Display>Winter</Selections.3.Display>
-			<Selections.4.Display>Never mind</Selections.4.Display>
+			<Desc>Então, que estação deve ser?</Desc>
+			<Selections.0.Display>Primavera</Selections.0.Display>
+			<Selections.1.Display>Verão</Selections.1.Display>
+			<Selections.2.Display>Outono</Selections.2.Display>
+			<Selections.3.Display>Inverno</Selections.3.Display>
+			<Selections.4.Display>Deixa para lá</Selections.4.Display>
 		</Text>
 		<Text Name="BuildMode_ChangeWeather">
 			<DisplayName>Land of Illusion</DisplayName>
-			<Desc>So, what weather should it be?</Desc>
-			<Selections.0.Display>Light Rain/Snow</Selections.0.Display>
-			<Selections.1.Display>Heavy Rain/Snow</Selections.1.Display>
-			<Selections.2.Display>Dust Storm</Selections.2.Display>
-			<Selections.3.Display>Polar Night</Selections.3.Display>
-			<Selections.4.Display>Thunderstorm</Selections.4.Display>
-			<Selections.5.Display>Clear all weather effects</Selections.5.Display>
-			<Selections.6.Display>Never mind</Selections.6.Display>
+			<Desc>Então, que clima deve ser?</Desc>
+			<Selections.0.Display>Leve Chuva/Neve</Selections.0.Display>
+			<Selections.1.Display>Pesada Chuva/Neve</Selections.1.Display>
+			<Selections.2.Display>Tempestade de Areia</Selections.2.Display>
+			<Selections.3.Display>Noite Polar</Selections.3.Display>
+			<Selections.4.Display>Trovoada</Selections.4.Display>
+			<Selections.5.Display>Limpar todos os efeitos climáticos</Selections.5.Display>
+			<Selections.6.Display>Deixa para lá</Selections.6.Display>
 		</Text>
 	</List>
 </Texts>
