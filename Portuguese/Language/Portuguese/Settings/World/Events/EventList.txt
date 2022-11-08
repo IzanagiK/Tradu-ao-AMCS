@@ -48,10 +48,10 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 46	Light Snow	Começou a nevar.	LightSnow	
 47	Heavy Snow	Começou a nevar fortemente.	HeavySnow	
 48	Observer	Um cultivador está te observando, mas ele não parecem significar nenhum mal.	Observer	Human
-49	Beast Attack	Um grupo de lobos famintos apareceu aqui perto, e eles são muito hostis.	Wolf	
-50	Beast Attack	Um grupo de coelhos malucos apareceu aqui perto, e eles são muito hostis.	Rabbit	
-51	Beast Attack	Um grupo de cobras agressivas apareceu aqui perto, e elas são muito hostis.	Snake	
-52	Beast Attack	Um grupo de javalis frenéticos apareceu aqui perto, e eles são muito hostis.	Boar	
+49	Ataque da Besta	Um grupo de lobos famintos apareceu aqui perto, e eles são muito hostis.	Wolf	
+50	Ataque da Besta	Um grupo de coelhos malucos apareceu aqui perto, e eles são muito hostis.	Rabbit	
+51	Ataque da Besta	Um grupo de cobras agressivas apareceu aqui perto, e elas são muito hostis.	Snake	
+52	Ataque da Besta	Um grupo de javalis frenéticos apareceu aqui perto, e eles são muito hostis.	Boar	
 53	Secret		6	
 54	Secret		7	
 55	Secret		8	
@@ -105,13 +105,13 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 108	Invasion of Beasts	Alguns monstros galinha apareceram aqui perto, e eles são muito hostis.	JYCat	TongYong_DropList
 109	Invasion of Beasts	Alguns monstros touro apareceram aqui perto, e eles são muito hostis.	JYCattle	TongYong_DropList
 110	Invasion of Beasts	Alguns monstros tigre apareceram aqui perto, e eles são muito hostis.	JYTiger	TongYong_DropList
-111	Beast Attack	Um grupo de galinhas malucas apareceu aqui perto, e elas são muito hostis.	Chicken	
-112	Beast Attack	Um urso agressivo apareceu aqui perto, e é muito hostil.	Bear	
-113	Beast Attack	Um grupo de tartarugas frenéticas apareceu aqui perto, e elas são muito hostis.	Turtle	
-114	Beast Attack	Um grupo de sapos malucos apareceu aqui perto, e eles são muito hostis.	Frog	
-115	Beast Attack	Um gato agressivo apareceu aqui perto, e é muito hostil.	Cat	
-116	Beast Attack	Um grupo de touros loucos apareceu aqui perto, e eles são muito hostis.	Cattle	
-117	Beast Attack	Um tigre agressivo apareceu aqui perto, e é muito hostil.	Tiger	
+111	Ataque da Besta	Um grupo de galinhas malucas apareceu aqui perto, e elas são muito hostis.	Chicken	
+112	Ataque da Besta	Um urso agressivo apareceu aqui perto, e é muito hostil.	Bear	
+113	Ataque da Besta	Um grupo de tartarugas frenéticas apareceu aqui perto, e elas são muito hostis.	Turtle	
+114	Ataque da Besta	Um grupo de sapos malucos apareceu aqui perto, e eles são muito hostis.	Frog	
+115	Ataque da Besta	Um gato agressivo apareceu aqui perto, e é muito hostil.	Cat	
+116	Ataque da Besta	Um grupo de touros loucos apareceu aqui perto, e eles são muito hostis.	Cattle	
+117	Ataque da Besta	Um tigre agressivo apareceu aqui perto, e é muito hostil.	Tiger	
 118	Attack	Um grupo de cultivadores Yaoguai olham com ganancia as  propriedade de sua seita. Eles apareceram nas proximidades com grande hostilidade.	Poorest	RANDOMYAOGUAI
 119	Attack	Um grupo de cultivadores Yaoguai pretende subverter sua seita. Eles estão vagando nas proximidades com olhos sanguinários.	Poor	RANDOMYAOGUAI
 120	Attack	Um grupo de cultivadores Yaoguai nutre grande ódio contra sua seita por algum motivo, e eles estão prestes a lançar um ataque.	Normal	RANDOMYAOGUAI
