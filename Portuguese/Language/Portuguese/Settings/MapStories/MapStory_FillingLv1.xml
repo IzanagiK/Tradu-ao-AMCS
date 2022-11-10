@@ -1,64 +1,64 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="TESTALL">
-			<DisplayName>Birth of Sages</DisplayName>
-			<Desc>Since the beginning of the Thousand-Year Tide, Ancient Cultivators have been popping up all over the place. Gather as much information as possible, there are already multiple sages being born in this world.</Desc>
-			<Selections.0.Display>Birth of Sages</Selections.0.Display>
+			<DisplayName>Nascimento dos Sábios</DisplayName>
+			<Desc>Desde o início da Maré de Mil Anos, Cultivadores Antigos estão surgindo por toda parte. Reúna o máximo de informações possível, já existem vários sábios nascendo neste mundo.</Desc>
+			<Selections.0.Display>Nascimento dos Sábios</Selections.0.Display>
 		</Text>
 		<Text Name="BaseFillingStory">
-			<DamageCache.0.DescTags>Artifact Smash</DamageCache.0.DescTags>
-			<DamageCache.1.DescTags>Artifact Smash</DamageCache.1.DescTags>
-			<DamageCache.2.DescTags>Artifact Smash</DamageCache.2.DescTags>
-			<DamageCache.3.DescTags>Artifact Smash</DamageCache.3.DescTags>
-			<DamageCache.4.DescTags>Artifact Smash</DamageCache.4.DescTags>
-			<DamageCache.5.DescTags>Artifact Smash</DamageCache.5.DescTags>
-			<DamageCache.6.DescTags>Artifact Smash</DamageCache.6.DescTags>
-			<DamageCache.7.DescTags>Artifact Smash</DamageCache.7.DescTags>
-			<DamageCache.8.DescTags>Artifact Smash</DamageCache.8.DescTags>
-			<DamageCache.9.DescTags>Artifact Smash</DamageCache.9.DescTags>
-			<DamageCache.10.DescTags>Metal Damage</DamageCache.10.DescTags>
-			<DamageCache.11.DescTags>Metal Damage</DamageCache.11.DescTags>
-			<DamageCache.12.DescTags>Metal Damage</DamageCache.12.DescTags>
-			<DamageCache.13.DescTags>Metal Damage</DamageCache.13.DescTags>
-			<DamageCache.14.DescTags>Metal Damage</DamageCache.14.DescTags>
-			<DamageCache.15.DescTags>Wood Damage</DamageCache.15.DescTags>
-			<DamageCache.16.DescTags>Wood Damage</DamageCache.16.DescTags>
-			<DamageCache.17.DescTags>Wood Damage</DamageCache.17.DescTags>
-			<DamageCache.18.DescTags>Wood Damage</DamageCache.18.DescTags>
-			<DamageCache.19.DescTags>Wood Damage</DamageCache.19.DescTags>
-			<DamageCache.20.DescTags>Wood Damage</DamageCache.20.DescTags>
-			<DamageCache.21.DescTags>Water Damage</DamageCache.21.DescTags>
-			<DamageCache.22.DescTags>Water Damage</DamageCache.22.DescTags>
-			<DamageCache.23.DescTags>Water Damage</DamageCache.23.DescTags>
-			<DamageCache.24.DescTags>Water Damage</DamageCache.24.DescTags>
-			<DamageCache.25.DescTags>Water Damage</DamageCache.25.DescTags>
-			<DamageCache.26.DescTags>Fire Damage</DamageCache.26.DescTags>
-			<DamageCache.27.DescTags>Fire Damage</DamageCache.27.DescTags>
-			<DamageCache.28.DescTags>Fire Damage</DamageCache.28.DescTags>
-			<DamageCache.29.DescTags>Fire Damage</DamageCache.29.DescTags>
-			<DamageCache.30.DescTags>Fire Damage</DamageCache.30.DescTags>
-			<DamageCache.31.DescTags>Earth Damage</DamageCache.31.DescTags>
-			<DamageCache.32.DescTags>Earth Damage</DamageCache.32.DescTags>
-			<DamageCache.33.DescTags>Earth Damage</DamageCache.33.DescTags>
-			<DamageCache.34.DescTags>Earth Damage</DamageCache.34.DescTags>
-			<DamageCache.35.DescTags>Earth Damage</DamageCache.35.DescTags>
-			<DamageCache.36.DescTags>Earth Damage</DamageCache.36.DescTags>
+			<DamageCache.0.DescTags>Quebra de Artefato</DamageCache.0.DescTags>
+			<DamageCache.1.DescTags>Quebra de Artefato</DamageCache.1.DescTags>
+			<DamageCache.2.DescTags>Quebra de Artefato</DamageCache.2.DescTags>
+			<DamageCache.3.DescTags>Quebra de Artefato</DamageCache.3.DescTags>
+			<DamageCache.4.DescTags>Quebra de Artefato</DamageCache.4.DescTags>
+			<DamageCache.5.DescTags>Quebra de Artefato</DamageCache.5.DescTags>
+			<DamageCache.6.DescTags>Quebra de Artefato</DamageCache.6.DescTags>
+			<DamageCache.7.DescTags>Quebra de Artefato</DamageCache.7.DescTags>
+			<DamageCache.8.DescTags>Quebra de Artefato</DamageCache.8.DescTags>
+			<DamageCache.9.DescTags>Quebra de Artefato</DamageCache.9.DescTags>
+			<DamageCache.10.DescTags>Danos de Metal</DamageCache.10.DescTags>
+			<DamageCache.11.DescTags>Danos de Metal</DamageCache.11.DescTags>
+			<DamageCache.12.DescTags>Danos de Metal</DamageCache.12.DescTags>
+			<DamageCache.13.DescTags>Danos de Metal</DamageCache.13.DescTags>
+			<DamageCache.14.DescTags>Danos de Metal</DamageCache.14.DescTags>
+			<DamageCache.15.DescTags>Danos de Madeira</DamageCache.15.DescTags>
+			<DamageCache.16.DescTags>Danos de Madeira</DamageCache.16.DescTags>
+			<DamageCache.17.DescTags>Danos de Madeira</DamageCache.17.DescTags>
+			<DamageCache.18.DescTags>Danos de Madeira</DamageCache.18.DescTags>
+			<DamageCache.19.DescTags>Danos de Madeira</DamageCache.19.DescTags>
+			<DamageCache.20.DescTags>Danos de Madeira</DamageCache.20.DescTags>
+			<DamageCache.21.DescTags>Danos de Água</DamageCache.21.DescTags>
+			<DamageCache.22.DescTags>Danos de Água</DamageCache.22.DescTags>
+			<DamageCache.23.DescTags>Danos de Água</DamageCache.23.DescTags>
+			<DamageCache.24.DescTags>Danos de Água</DamageCache.24.DescTags>
+			<DamageCache.25.DescTags>Danos de Água</DamageCache.25.DescTags>
+			<DamageCache.26.DescTags>Danos de Fogo</DamageCache.26.DescTags>
+			<DamageCache.27.DescTags>Danos de Fogo</DamageCache.27.DescTags>
+			<DamageCache.28.DescTags>Danos de Fogo</DamageCache.28.DescTags>
+			<DamageCache.29.DescTags>Danos de Fogo</DamageCache.29.DescTags>
+			<DamageCache.30.DescTags>Danos de Fogo</DamageCache.30.DescTags>
+			<DamageCache.31.DescTags>Dano de Terra</DamageCache.31.DescTags>
+			<DamageCache.32.DescTags>Dano de Terra</DamageCache.32.DescTags>
+			<DamageCache.33.DescTags>Dano de Terra</DamageCache.33.DescTags>
+			<DamageCache.34.DescTags>Dano de Terra</DamageCache.34.DescTags>
+			<DamageCache.35.DescTags>Dano de Terra</DamageCache.35.DescTags>
+			<DamageCache.36.DescTags>Dano de Terra</DamageCache.36.DescTags>
 		</Text>
 		<Text Name="Free_Base">
-			<DisplayName>Wander</DisplayName>
-			<Desc>[NAME] discovered a place with some nice vistas, put [ITS] artifact away and went to take in the scenery.</Desc>
+			<DisplayName>Vaguear</DisplayName>
+			<Desc>[NAME] descobri um lugar com belas vistas, coloquei[ITS] artefato afastado e foi apreciar a paisagem.</Desc>
 		</Text>
 		<Text Name="Free_1">
-			<DisplayName>Drink Tea</DisplayName>
-			<Desc>[NAME] passed by a small town, felt a bit fatigued and so, putting on the look of a commoner, and stopped by to rest up at the local teahouse.</Desc>
+			<DisplayName>Beba chá</DisplayName>
+			<Desc>[NAME] passou por uma pequena cidade, sentiu-se um pouco cansado e assim, fazendo cara de plebeu, e parou para descansar na casa de chá local.</Desc>
 		</Text>
 		<Text Name="Free_2">
-			<DisplayName>Rest</DisplayName>
-			<Desc>[NAME] felt a bit tired along the way and decided to take a nap underneath a tree.</Desc>
+			<DisplayName>Descanso</DisplayName>
+			<Desc>[NAME] sentiu um pouco de cansaço ao longo do caminho e decidiu tirar uma soneca debaixo de uma árvore.</Desc>
 		</Text>
 		<Text Name="Join_Base">
-			<DisplayName>Attune Immortal Destiny</DisplayName>
-			<Desc>[NAME] came across some commoners that had committed themselves to the Tao and so informed the commoners the location of [ITS] School and then headed on.</Desc>
+			<DisplayName>Sintonize Destino Imortal</DisplayName>
+			<Desc>[NAME] encontrou alguns plebeus que se comprometeram com o Tao e, assim, informaram aos plebeus a localização da Escola [ITS] e depois seguiram em frente.</Desc>
 		</Text>
 		<Text Name="Kidnap_Base">
 			<DisplayName>Kidnap mortals</DisplayName>
