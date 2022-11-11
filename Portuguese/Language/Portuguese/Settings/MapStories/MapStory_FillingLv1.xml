@@ -61,55 +61,55 @@
 			<Desc>[NAME] encontrou alguns plebeus que se comprometeram com o Tao e, assim, informaram aos plebeus a localização da Escola [ITS] e depois seguiram em frente.</Desc>
 		</Text>
 		<Text Name="Kidnap_Base">
-			<DisplayName>Kidnap mortals</DisplayName>
-			<Desc>[NAME] performed a miracle and then Kidnapped a few mortals.</Desc>
+			<DisplayName>Raptar mortais</DisplayName>
+			<Desc>[NAME] realizou um milagre e depois sequestrou alguns mortais.</Desc>
 		</Text>
 		<Text Name="Join_1">
-			<DisplayName>Attune Immortal Destiny</DisplayName>
-			<Desc>[NAME] discovered an incredibly talented young individual and revealed a miracle to them in their dream, giving an Immortal Destiny to this commoner. If this disciple decides to seek longevity by following the Tao, they will probably arrive at the Order's gate within a day or two.</Desc>
+			<DisplayName>Sintonize Destino Imortal</DisplayName>
+			<Desc>[NAME] descobriu um jovem incrivelmente talentoso e revelou um milagre para eles em seu sonho, dando um Destino Imortal a esse plebeu. Se este discípulo decidir buscar a longevidade seguindo o Tao, provavelmente chegará ao portão da Ordem dentro de um ou dois dias.</Desc>
 		</Text>
 		<Text Name="Join_2">
-			<DisplayName>Attune Immortal Destiny</DisplayName>
-			<Desc>[NAME] came across a vendetta once every blue moon. Upon seeing a person that was being hunted down and realizing that they their fate seemed to be bound to the School, [NAME] cast a spell to save them and directed them to the School.</Desc>
+			<DisplayName>Sintonize Destino Imortal</DisplayName>
+			<Desc>[NAME] me deparei com uma vingança uma vez a cada lua azul. Ao ver uma pessoa que estava sendo caçada e perceber que seu destino parecia estar ligado à Escola, [NAME] lançou um feitiço para salvá-la e a direcionou para a Escola.</Desc>
 		</Text>
 		<Text Name="Visit_Base">
-			<DisplayName>Chance Encounter</DisplayName>
-			<Desc>[NAME] came across a group of [SCHOOL]'s disciples that came to greet [ENHIM] while out on the road.</Desc>
-			<Selections.0.Display>Proceed</Selections.0.Display>
-			<Selections.1.Display>Amicable Chat</Selections.1.Display>
-			<Selections.2.Display>Small Talk</Selections.2.Display>
-			<Selections.3.Display>Taunt</Selections.3.Display>
-			<Selections.4.Display>Taunt</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
-			<Selections.6.Display>Provoke</Selections.6.Display>
+			<DisplayName>Encontro de Oportunidades</DisplayName>
+			<Desc>[NAME] deparei com um grupo de [SCHOOL]'s discípulos que vieram cumprimentar [ENHIM] enquanto estava na estrada.</Desc>
+			<Selections.0.Display>Prosseguir</Selections.0.Display>
+			<Selections.1.Display>Bate-papo amigável</Selections.1.Display>
+			<Selections.2.Display>Conversa fiada</Selections.2.Display>
+			<Selections.3.Display>zombar</Selections.3.Display>
+			<Selections.4.Display>zombar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
+			<Selections.6.Display>Provocar</Selections.6.Display>
 			<Selections.6.Tip>Golden Core</Selections.6.Tip>
-			<Selections.7.Display>Provoke</Selections.7.Display>
+			<Selections.7.Display>Provocar</Selections.7.Display>
 			<Selections.7.Tip>Golden Core</Selections.7.Tip>
-			<Selections.8.Display>Ignore</Selections.8.Display>
+			<Selections.8.Display>Ignorar</Selections.8.Display>
 			<Selections.8.Tip>Golden Core</Selections.8.Tip>
-			<Selections.9.Display>Ignore</Selections.9.Display>
+			<Selections.9.Display>Ignorar</Selections.9.Display>
 			<Selections.9.Tip>Golden Core</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_1">
-			<DisplayName>Chance Encounter</DisplayName>
-			<Desc>[NAME] happened upon an elder of [SCHOOL] while walking down the road.</Desc>
-			<Selections.0.Display>Proceed</Selections.0.Display>
+			<DisplayName>Encontro de Oportunidades</DisplayName>
+			<Desc>[NAME] aconteceu com um ancião de [SCHOOL] enquanto caminhava pela estrada.</Desc>
+			<Selections.0.Display>Prosseguir</Selections.0.Display>
 			<Selections.1.Display>Visit</Selections.1.Display>
-			<Selections.2.Display>Small Talk</Selections.2.Display>
-			<Selections.3.Display>Sneak Attack</Selections.3.Display>
+			<Selections.2.Display>Conversa fiada</Selections.2.Display>
+			<Selections.3.Display>Ataque furtivo</Selections.3.Display>
 			<Selections.3.Tip>Golden Core</Selections.3.Tip>
-			<Selections.4.Display>Sneak Attack</Selections.4.Display>
+			<Selections.4.Display>Ataque furtivo</Selections.4.Display>
 			<Selections.4.Tip>Golden Core</Selections.4.Tip>
 			<Selections.5.Display>Attack</Selections.5.Display>
 			<Selections.5.Tip>Golden Core</Selections.5.Tip>
-			<Selections.6.Display>Ignore</Selections.6.Display>
-			<Selections.7.Display>Provoke</Selections.7.Display>
+			<Selections.6.Display>Ignorar</Selections.6.Display>
+			<Selections.7.Display>Provocar</Selections.7.Display>
 			<Selections.7.Tip>Golden Core</Selections.7.Tip>
-			<Selections.8.Display>Provoke</Selections.8.Display>
+			<Selections.8.Display>Provocar</Selections.8.Display>
 			<Selections.8.Tip>Golden Core</Selections.8.Tip>
-			<Selections.9.Display>Ignore</Selections.9.Display>
+			<Selections.9.Display>Ignorar</Selections.9.Display>
 			<Selections.9.Tip>Golden Core</Selections.9.Tip>
-			<Selections.10.Display>Ignore</Selections.10.Display>
+			<Selections.10.Display>Ignorar</Selections.10.Display>
 			<Selections.10.Tip>Golden Core</Selections.10.Tip>
 		</Text>
 		<Text Name="Visit_2">
@@ -128,7 +128,7 @@
 			<Selections.9.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.9.Tip>
 			<Selections.10.Display>Sneak in</Selections.10.Display>
 			<Selections.10.Tip>Primordial Spirit state and Luck is high</Selections.10.Tip>
-			<Selections.11.Display>Ignore</Selections.11.Display>
+			<Selections.11.Display>Ignorar</Selections.11.Display>
 		</Text>
 		<Text Name="Story_Base">
 			<DisplayName>The Mortal Realm</DisplayName>
@@ -159,7 +159,7 @@
 			<Desc>[NAME] saw two peculiar beasts fighting in the air from time to time. Both beasts seemed to be performing unnatural feats, it was as if it were a battle between beasts from another world. [NAME] was excited and intrigued for it seemed that the battle between these two beasts hid some mystery.</Desc>
 			<Selections.0.Display>Imitate the strange beasts</Selections.0.Display>
 			<Selections.0.Tip>Perception</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="GoodFight_Base">
 			<DisplayName>Plagues wreak havoc</DisplayName>
@@ -169,7 +169,7 @@
 			<Selections.1.Tip>Qi Shaping</Selections.1.Tip>
 			<Selections.2.Display>Help out insincerely</Selections.2.Display>
 			<Selections.2.Tip>core shaping</Selections.2.Tip>
-			<Selections.3.Display>Ignore</Selections.3.Display>
+			<Selections.3.Display>Ignorar</Selections.3.Display>
 		</Text>
 		<Text Name="GoodFight_1">
 			<DisplayName>Battle between Justice and Evil</DisplayName>
@@ -182,7 +182,7 @@
 			<Selections.2.Tip>core shaping</Selections.2.Tip>
 			<Selections.3.Display>Attack Just Sect Disciple</Selections.3.Display>
 			<Selections.3.Tip>core shaping</Selections.3.Tip>
-			<Selections.4.Display>Ignore</Selections.4.Display>
+			<Selections.4.Display>Ignorar</Selections.4.Display>
 		</Text>
 		<Text Name="BadFight_Base">
 			<DisplayName>Evil Array Refines the Soul</DisplayName>
@@ -192,7 +192,7 @@
 			<Selections.1.Tip>Golden Core</Selections.1.Tip>
 			<Selections.2.Display>Stop them.</Selections.2.Display>
 			<Selections.2.Tip>Golden Core</Selections.2.Tip>
-			<Selections.3.Display>Ignore</Selections.3.Display>
+			<Selections.3.Display>Ignorar</Selections.3.Display>
 		</Text>
 		<Text Name="BadFight_1">
 			<DisplayName>Battle between Justice and Evil</DisplayName>
@@ -205,27 +205,27 @@
 			<Selections.2.Tip>core shaping</Selections.2.Tip>
 			<Selections.3.Display>Attack Just Sect Disciple</Selections.3.Display>
 			<Selections.3.Tip>core shaping</Selections.3.Tip>
-			<Selections.4.Display>Ignore</Selections.4.Display>
+			<Selections.4.Display>Ignorar</Selections.4.Display>
 		</Text>
 		<Text Name="Treasure_Base">
 			<DisplayName>Search for Relics</DisplayName>
 			<Desc>[NAME] inadvertently came across the hidden residence of a cultivator...it seems like it was abandoned quite some time ago.</Desc>
 			<Selections.0.Display>Take a Look</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Treasure_1">
 			<DisplayName>Deep Pool Encounter</DisplayName>
 			<Desc>[NAME] hurried on for days on end, and while fatigued, it wasn't until coming across a deep pool of water at dusk that this one decided to rest. During the night, [NAME] was surprised to discover a light seemed to be coming from the water.</Desc>
 			<Selections.0.Display>Take a Look</Selections.0.Display>
 			<Selections.0.Tip>Enter Practice State</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Base">
 			<DisplayName>Collect Resources</DisplayName>
 			<Desc>When [NAME] arrived at this place, it turned out that there was a lot around that could be gathered.</Desc>
 			<Selections.0.Display>Resource Collection</Selections.0.Display>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="City_Base">
 			<DisplayName>City</DisplayName>
@@ -251,19 +251,19 @@
 			<Desc>[NAME] heard that there were some items produced in [PLACE] that were useful for one's Practice.</Desc>
 			<Selections.0.Display>Search</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Secret_Base">
 			<DisplayName>Look for Clues</DisplayName>
 			<Desc>[NAME] passed by [PLACE] while travelling and discovered that there were a great many people discussing something.</Desc>
 			<Selections.0.Display>Ask around</Selections.0.Display>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Base">
 			<DisplayName>Search for Locations</DisplayName>
 			<Desc>[NAME] heard that there were more than a few terribly interesting places near [PLACE] and so decided to go on an excursion.</Desc>
 			<Selections.0.Display>Search for Secluded Spots</Selections.0.Display>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Cold">
 			<DisplayName>Fortuitous Encounter on the Snowfield</DisplayName>
@@ -278,7 +278,7 @@
 			<Desc>[NAME] saw two peculiar beasts fighting in the air from time to time. Both beasts seemed to be performing unnatural feats, it was as if it were a battle between beasts from another world. [NAME] was excited and intrigued for it seemed that the battle between these two beasts hid some mystery.</Desc>
 			<Selections.0.Display>Imitate the strange beasts</Selections.0.Display>
 			<Selections.0.Tip>Perception</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 			<Selections.2.Display>It's too cold.</Selections.2.Display>
 		</Text>
 		<Text Name="Secret_Cold_Base">
@@ -286,66 +286,66 @@
 			<Desc>[NAME] travelled to [PLACE] and [IT] heard that there were juicy rumors abounding here and so tried to see what could be found out.</Desc>
 			<Selections.0.Display>Ask around</Selections.0.Display>
 			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Cold_Base">
 			<DisplayName>Search for Locations</DisplayName>
 			<Desc>[NAME] heard that there were more than a few terribly interesting places near [PLACE] and so decided to go on an excursion.</Desc>
 			<Selections.0.Display>Search for Secluded Spots</Selections.0.Display>
 			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Cold_Base">
 			<DisplayName>Collect Resources</DisplayName>
 			<Desc>While [NAME] was travelling, it turned out that there was a lot around [PLACE] that could be of use.</Desc>
 			<Selections.0.Display>Gather Local Specialties</Selections.0.Display>
 			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Highfind_Cold_Base">
 			<DisplayName>Gather Treasure</DisplayName>
 			<Desc>[NAME] heard that there were some items produced in [PLACE] that were useful for one's Practice.</Desc>
 			<Selections.0.Display>Search</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 			<Selections.2.Display>It's too cold.</Selections.2.Display>
 		</Text>
 		<Text Name="Visit_Old_Base">
 			<DisplayName>Chance Encounter</DisplayName>
 			<Desc>[NAME] came across a group of [SCHOOL]'s disciples that came to greet [ENHIM] while out on the road.</Desc>
-			<Selections.0.Display>Amicable Chat</Selections.0.Display>
-			<Selections.1.Display>Small Talk</Selections.1.Display>
-			<Selections.2.Display>Taunt</Selections.2.Display>
-			<Selections.3.Display>Taunt</Selections.3.Display>
-			<Selections.4.Display>Ignore</Selections.4.Display>
-			<Selections.5.Display>Provoke</Selections.5.Display>
+			<Selections.0.Display>Bate-papo amigável</Selections.0.Display>
+			<Selections.1.Display>Conversa fiada</Selections.1.Display>
+			<Selections.2.Display>zombar</Selections.2.Display>
+			<Selections.3.Display>zombar</Selections.3.Display>
+			<Selections.4.Display>Ignorar</Selections.4.Display>
+			<Selections.5.Display>Provocar</Selections.5.Display>
 			<Selections.5.Tip>Golden Core</Selections.5.Tip>
-			<Selections.6.Display>Provoke</Selections.6.Display>
+			<Selections.6.Display>Provocar</Selections.6.Display>
 			<Selections.6.Tip>Golden Core</Selections.6.Tip>
-			<Selections.7.Display>Ignore</Selections.7.Display>
+			<Selections.7.Display>Ignorar</Selections.7.Display>
 			<Selections.7.Tip>Golden Core</Selections.7.Tip>
-			<Selections.8.Display>Ignore</Selections.8.Display>
+			<Selections.8.Display>Ignorar</Selections.8.Display>
 			<Selections.8.Tip>Golden Core</Selections.8.Tip>
 		</Text>
 		<Text Name="Visit_Old_1">
 			<DisplayName>Chance Encounter</DisplayName>
 			<Desc>[NAME] happened upon an elder of [SCHOOL] while walking down the road.</Desc>
 			<Selections.0.Display>Visit</Selections.0.Display>
-			<Selections.1.Display>Small Talk</Selections.1.Display>
-			<Selections.2.Display>Sneak Attack</Selections.2.Display>
+			<Selections.1.Display>Conversa fiada</Selections.1.Display>
+			<Selections.2.Display>Ataque furtivo</Selections.2.Display>
 			<Selections.2.Tip>Golden Core</Selections.2.Tip>
-			<Selections.3.Display>Sneak Attack</Selections.3.Display>
+			<Selections.3.Display>Ataque furtivo</Selections.3.Display>
 			<Selections.3.Tip>Golden Core</Selections.3.Tip>
 			<Selections.4.Display>Attack</Selections.4.Display>
 			<Selections.4.Tip>Golden Core</Selections.4.Tip>
-			<Selections.5.Display>Ignore</Selections.5.Display>
-			<Selections.6.Display>Provoke</Selections.6.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
+			<Selections.6.Display>Provocar</Selections.6.Display>
 			<Selections.6.Tip>Golden Core</Selections.6.Tip>
-			<Selections.7.Display>Provoke</Selections.7.Display>
+			<Selections.7.Display>Provocar</Selections.7.Display>
 			<Selections.7.Tip>Golden Core</Selections.7.Tip>
-			<Selections.8.Display>Ignore</Selections.8.Display>
+			<Selections.8.Display>Ignorar</Selections.8.Display>
 			<Selections.8.Tip>Golden Core</Selections.8.Tip>
-			<Selections.9.Display>Ignore</Selections.9.Display>
+			<Selections.9.Display>Ignorar</Selections.9.Display>
 			<Selections.9.Tip>Golden Core</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_Old_2">
@@ -360,7 +360,7 @@
 			<Selections.5.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.5.Tip>
 			<Selections.6.Display>Sneak in</Selections.6.Display>
 			<Selections.6.Tip>Primordial Spirit state and Luck is high</Selections.6.Tip>
-			<Selections.7.Display>Ignore</Selections.7.Display>
+			<Selections.7.Display>Ignorar</Selections.7.Display>
 		</Text>
 	</List>
 </Texts>
