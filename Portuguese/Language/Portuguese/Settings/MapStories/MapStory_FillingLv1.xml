@@ -82,60 +82,60 @@
 			<Selections.4.Display>zombar</Selections.4.Display>
 			<Selections.5.Display>Ignorar</Selections.5.Display>
 			<Selections.6.Display>Provocar</Selections.6.Display>
-			<Selections.6.Tip>Golden Core</Selections.6.Tip>
+			<Selections.6.Tip>Núcleo Dourado</Selections.6.Tip>
 			<Selections.7.Display>Provocar</Selections.7.Display>
-			<Selections.7.Tip>Golden Core</Selections.7.Tip>
+			<Selections.7.Tip>Núcleo Dourado</Selections.7.Tip>
 			<Selections.8.Display>Ignorar</Selections.8.Display>
-			<Selections.8.Tip>Golden Core</Selections.8.Tip>
+			<Selections.8.Tip>Núcleo Dourado</Selections.8.Tip>
 			<Selections.9.Display>Ignorar</Selections.9.Display>
-			<Selections.9.Tip>Golden Core</Selections.9.Tip>
+			<Selections.9.Tip>Núcleo Dourado</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_1">
 			<DisplayName>Encontro de Oportunidades</DisplayName>
 			<Desc>[NAME] aconteceu com um ancião de [SCHOOL] enquanto caminhava pela estrada.</Desc>
 			<Selections.0.Display>Prosseguir</Selections.0.Display>
-			<Selections.1.Display>Visit</Selections.1.Display>
+			<Selections.1.Display>Visitar</Selections.1.Display>
 			<Selections.2.Display>Conversa fiada</Selections.2.Display>
 			<Selections.3.Display>Ataque furtivo</Selections.3.Display>
-			<Selections.3.Tip>Golden Core</Selections.3.Tip>
+			<Selections.3.Tip>Núcleo Dourado</Selections.3.Tip>
 			<Selections.4.Display>Ataque furtivo</Selections.4.Display>
-			<Selections.4.Tip>Golden Core</Selections.4.Tip>
+			<Selections.4.Tip>Núcleo Dourado</Selections.4.Tip>
 			<Selections.5.Display>Attack</Selections.5.Display>
-			<Selections.5.Tip>Golden Core</Selections.5.Tip>
+			<Selections.5.Tip>Núcleo Dourado</Selections.5.Tip>
 			<Selections.6.Display>Ignorar</Selections.6.Display>
 			<Selections.7.Display>Provocar</Selections.7.Display>
-			<Selections.7.Tip>Golden Core</Selections.7.Tip>
+			<Selections.7.Tip>Núcleo Dourado</Selections.7.Tip>
 			<Selections.8.Display>Provocar</Selections.8.Display>
-			<Selections.8.Tip>Golden Core</Selections.8.Tip>
+			<Selections.8.Tip>Núcleo Dourado</Selections.8.Tip>
 			<Selections.9.Display>Ignorar</Selections.9.Display>
-			<Selections.9.Tip>Golden Core</Selections.9.Tip>
+			<Selections.9.Tip>Núcleo Dourado</Selections.9.Tip>
 			<Selections.10.Display>Ignorar</Selections.10.Display>
-			<Selections.10.Tip>Golden Core</Selections.10.Tip>
+			<Selections.10.Tip>Núcleo Dourado</Selections.10.Tip>
 		</Text>
 		<Text Name="Visit_2">
-			<DisplayName>Visit the mountain School</DisplayName>
-			<Desc>[NAME] was hurrying along when realized that the mountain school of [SCHOOL] was nearby.</Desc>
+			<DisplayName>Visite a escola da montanha</DisplayName>
+			<Desc>[NAME] estava correndo quando percebeu que a escola da montanha de [SCHOOL] estava próximo.</Desc>
 			<Selections.0.Display>Enter</Selections.0.Display>
-			<Selections.1.Display>Visit the Sect Leader</Selections.1.Display>
-			<Selections.2.Display>Visit the Sect Leader</Selections.2.Display>
-			<Selections.3.Display>Entrusted by the Skydome Palace</Selections.3.Display>
-			<Selections.4.Display>Secret of the Thunderclap Cave</Selections.4.Display>
-			<Selections.5.Display>Visit</Selections.5.Display>
-			<Selections.6.Display>Visit</Selections.6.Display>
-			<Selections.7.Display>Visit</Selections.7.Display>
-			<Selections.8.Display>Visit</Selections.8.Display>
-			<Selections.9.Display>Visit</Selections.9.Display>
-			<Selections.9.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.9.Tip>
-			<Selections.10.Display>Sneak in</Selections.10.Display>
-			<Selections.10.Tip>Primordial Spirit state and Luck is high</Selections.10.Tip>
+			<Selections.1.Display>Visite o Líder da Seita</Selections.1.Display>
+			<Selections.2.Display>Visite o Líder da Seita</Selections.2.Display>
+			<Selections.3.Display>Confiado pelo Palácio Skydome</Selections.3.Display>
+			<Selections.4.Display>Segredo da Caverna do Trovão</Selections.4.Display>
+			<Selections.5.Display>Visitar</Selections.5.Display>
+			<Selections.6.Display>Visitar</Selections.6.Display>
+			<Selections.7.Display>Visitar</Selections.7.Display>
+			<Selections.8.Display>Visitar</Selections.8.Display>
+			<Selections.9.Display>Visitar</Selections.9.Display>
+			<Selections.9.Tip>O Espírito Primordial ou ambas as partes têm que ter um bom relacionamento.</Selections.9.Tip>
+			<Selections.10.Display>Esgueirar-se em</Selections.10.Display>
+			<Selections.10.Tip>Estado de Espírito Primordial e Sorte é alta</Selections.10.Tip>
 			<Selections.11.Display>Ignorar</Selections.11.Display>
 		</Text>
 		<Text Name="Story_Base">
-			<DisplayName>The Mortal Realm</DisplayName>
-			<Desc>[NAME] passed by a small city, took on a worldly sentiment and so decided to take on the appearance of a commoner and disappeared on into the city.</Desc>
-			<Selections.0.Display>Enjoy the Mortal Realm</Selections.0.Display>
-			<Selections.1.Display>Throw the Mortal Realm into disorder</Selections.1.Display>
-			<Selections.2.Display>Leave</Selections.2.Display>
+			<DisplayName>O Reino Mortal</DisplayName>
+			<Desc>[NAME] passou por uma pequena cidade, assumiu um sentimento mundano e assim decidiu assumir a aparência de um plebeu e desapareceu na cidade.</Desc>
+			<Selections.0.Display>Aproveite o Reino Mortal</Selections.0.Display>
+			<Selections.1.Display>Lançar o Reino Mortal em desordem</Selections.1.Display>
+			<Selections.2.Display>Sair</Selections.2.Display>
 		</Text>
 		<Text Name="Story_1">
 			<DisplayName>The Mortal Realm</DisplayName>
@@ -189,9 +189,9 @@
 			<Desc>[NAME] passed by a town and discovered that resentment abounded in this place. It seems like someone is practicing dark arts.</Desc>
 			<Selections.0.Display>Help out</Selections.0.Display>
 			<Selections.1.Display>Help out insincerely</Selections.1.Display>
-			<Selections.1.Tip>Golden Core</Selections.1.Tip>
+			<Selections.1.Tip>Núcleo Dourado</Selections.1.Tip>
 			<Selections.2.Display>Stop them.</Selections.2.Display>
-			<Selections.2.Tip>Golden Core</Selections.2.Tip>
+			<Selections.2.Tip>Núcleo Dourado</Selections.2.Tip>
 			<Selections.3.Display>Ignorar</Selections.3.Display>
 		</Text>
 		<Text Name="BadFight_1">
@@ -319,46 +319,46 @@
 			<Selections.3.Display>zombar</Selections.3.Display>
 			<Selections.4.Display>Ignorar</Selections.4.Display>
 			<Selections.5.Display>Provocar</Selections.5.Display>
-			<Selections.5.Tip>Golden Core</Selections.5.Tip>
+			<Selections.5.Tip>Núcleo Dourado</Selections.5.Tip>
 			<Selections.6.Display>Provocar</Selections.6.Display>
-			<Selections.6.Tip>Golden Core</Selections.6.Tip>
+			<Selections.6.Tip>Núcleo Dourado</Selections.6.Tip>
 			<Selections.7.Display>Ignorar</Selections.7.Display>
-			<Selections.7.Tip>Golden Core</Selections.7.Tip>
+			<Selections.7.Tip>Núcleo Dourado</Selections.7.Tip>
 			<Selections.8.Display>Ignorar</Selections.8.Display>
-			<Selections.8.Tip>Golden Core</Selections.8.Tip>
+			<Selections.8.Tip>Núcleo Dourado</Selections.8.Tip>
 		</Text>
 		<Text Name="Visit_Old_1">
 			<DisplayName>Chance Encounter</DisplayName>
 			<Desc>[NAME] happened upon an elder of [SCHOOL] while walking down the road.</Desc>
-			<Selections.0.Display>Visit</Selections.0.Display>
+			<Selections.0.Display>Visitar</Selections.0.Display>
 			<Selections.1.Display>Conversa fiada</Selections.1.Display>
 			<Selections.2.Display>Ataque furtivo</Selections.2.Display>
-			<Selections.2.Tip>Golden Core</Selections.2.Tip>
+			<Selections.2.Tip>Núcleo Dourado</Selections.2.Tip>
 			<Selections.3.Display>Ataque furtivo</Selections.3.Display>
-			<Selections.3.Tip>Golden Core</Selections.3.Tip>
+			<Selections.3.Tip>Núcleo Dourado</Selections.3.Tip>
 			<Selections.4.Display>Attack</Selections.4.Display>
-			<Selections.4.Tip>Golden Core</Selections.4.Tip>
+			<Selections.4.Tip>Núcleo Dourado</Selections.4.Tip>
 			<Selections.5.Display>Ignorar</Selections.5.Display>
 			<Selections.6.Display>Provocar</Selections.6.Display>
-			<Selections.6.Tip>Golden Core</Selections.6.Tip>
+			<Selections.6.Tip>Núcleo Dourado</Selections.6.Tip>
 			<Selections.7.Display>Provocar</Selections.7.Display>
-			<Selections.7.Tip>Golden Core</Selections.7.Tip>
+			<Selections.7.Tip>Núcleo Dourado</Selections.7.Tip>
 			<Selections.8.Display>Ignorar</Selections.8.Display>
-			<Selections.8.Tip>Golden Core</Selections.8.Tip>
+			<Selections.8.Tip>Núcleo Dourado</Selections.8.Tip>
 			<Selections.9.Display>Ignorar</Selections.9.Display>
-			<Selections.9.Tip>Golden Core</Selections.9.Tip>
+			<Selections.9.Tip>Núcleo Dourado</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_Old_2">
 			<DisplayName>Visit the mountain School</DisplayName>
 			<Desc>[NAME] was hurrying along when realized that the mountain school of [SCHOOL] was nearby.</Desc>
 			<Selections.0.Display>Visit the Sect Leader</Selections.0.Display>
-			<Selections.1.Display>Visit</Selections.1.Display>
-			<Selections.2.Display>Visit</Selections.2.Display>
-			<Selections.3.Display>Visit</Selections.3.Display>
-			<Selections.4.Display>Visit</Selections.4.Display>
-			<Selections.5.Display>Visit</Selections.5.Display>
+			<Selections.1.Display>Visitar</Selections.1.Display>
+			<Selections.2.Display>Visitar</Selections.2.Display>
+			<Selections.3.Display>Visitar</Selections.3.Display>
+			<Selections.4.Display>Visitar</Selections.4.Display>
+			<Selections.5.Display>Visitar</Selections.5.Display>
 			<Selections.5.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.5.Tip>
-			<Selections.6.Display>Sneak in</Selections.6.Display>
+			<Selections.6.Display>Esgueirar-se em</Selections.6.Display>
 			<Selections.6.Tip>Primordial Spirit state and Luck is high</Selections.6.Tip>
 			<Selections.7.Display>Ignorar</Selections.7.Display>
 		</Text>
