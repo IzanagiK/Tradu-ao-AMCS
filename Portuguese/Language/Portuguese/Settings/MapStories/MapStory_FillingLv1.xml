@@ -172,46 +172,46 @@
 			<Selections.3.Display>Ignorar</Selections.3.Display>
 		</Text>
 		<Text Name="GoodFight_1">
-			<DisplayName>Battle between Justice and Evil</DisplayName>
-			<Desc>[NAME] sees flashes of light as if off swords in the distance, it would seem that there are people fighting.</Desc>
-			<Selections.0.Display>Attack Evil Sect Disciple</Selections.0.Display>
-			<Selections.0.Tip>core shaping</Selections.0.Tip>
-			<Selections.1.Display>Attack Evil Sect Disciple</Selections.1.Display>
-			<Selections.1.Tip>core shaping</Selections.1.Tip>
-			<Selections.2.Display>Attack Just Sect Disciple</Selections.2.Display>
-			<Selections.2.Tip>core shaping</Selections.2.Tip>
-			<Selections.3.Display>Attack Just Sect Disciple</Selections.3.Display>
-			<Selections.3.Tip>core shaping</Selections.3.Tip>
+			<DisplayName>Batalha entre a Justiça e o Mal</DisplayName>
+			<Desc>[NAME] vê flashes de luz como se fossem espadas à distância, parece que há pessoas lutando.</Desc>
+			<Selections.0.Display>Atacar Discípulo da Seita do Mal</Selections.0.Display>
+			<Selections.0.Tip>modelagem do núcleo</Selections.0.Tip>
+			<Selections.1.Display>Atacar Discípulo da Seita do Mal</Selections.1.Display>
+			<Selections.1.Tip>modelagem do núcleo</Selections.1.Tip>
+			<Selections.2.Display>Atacar Discípulo da Seita Justa</Selections.2.Display>
+			<Selections.2.Tip>modelagem do núcleo</Selections.2.Tip>
+			<Selections.3.Display>Atacar Discípulo da Seita Justa</Selections.3.Display>
+			<Selections.3.Tip>modelagem do núcleo</Selections.3.Tip>
 			<Selections.4.Display>Ignorar</Selections.4.Display>
 		</Text>
 		<Text Name="BadFight_Base">
-			<DisplayName>Evil Array Refines the Soul</DisplayName>
-			<Desc>[NAME] passed by a town and discovered that resentment abounded in this place. It seems like someone is practicing dark arts.</Desc>
-			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.1.Display>Help out insincerely</Selections.1.Display>
+			<DisplayName>Matriz maligna refinadora de almas</DisplayName>
+			<Desc>[NAME] passou por uma cidade e descobriu que o ressentimento abundava neste lugar. Parece que alguém está praticando artes das trevas.</Desc>
+			<Selections.0.Display>Ajuda</Selections.0.Display>
+			<Selections.1.Display>Ajude sem sinceridade</Selections.1.Display>
 			<Selections.1.Tip>Núcleo Dourado</Selections.1.Tip>
-			<Selections.2.Display>Stop them.</Selections.2.Display>
+			<Selections.2.Display>Pare-os.</Selections.2.Display>
 			<Selections.2.Tip>Núcleo Dourado</Selections.2.Tip>
 			<Selections.3.Display>Ignorar</Selections.3.Display>
 		</Text>
 		<Text Name="BadFight_1">
-			<DisplayName>Battle between Justice and Evil</DisplayName>
-			<Desc>[NAME] sees flashes of light as if off swords in the distance, it would seem that there are people fighting.</Desc>
-			<Selections.0.Display>Attack Evil Sect Disciple</Selections.0.Display>
-			<Selections.0.Tip>core shaping</Selections.0.Tip>
-			<Selections.1.Display>Attack Evil Sect Disciple</Selections.1.Display>
-			<Selections.1.Tip>core shaping</Selections.1.Tip>
-			<Selections.2.Display>Attack Just Sect Disciple</Selections.2.Display>
-			<Selections.2.Tip>core shaping</Selections.2.Tip>
-			<Selections.3.Display>Attack Just Sect Disciple</Selections.3.Display>
-			<Selections.3.Tip>core shaping</Selections.3.Tip>
+			<DisplayName>Batalha entre a Justiça e o Mal</DisplayName>
+			<Desc>[NAME] vê flashes de luz como se fossem espadas à distância, parece que há pessoas lutando.</Desc>
+			<Selections.0.Display>Atacar Discípulo da Seita do Mal</Selections.0.Display>
+			<Selections.0.Tip>modelagem do núcleo</Selections.0.Tip>
+			<Selections.1.Display>Atacar Discípulo da Seita do Mal</Selections.1.Display>
+			<Selections.1.Tip>modelagem do núcleo</Selections.1.Tip>
+			<Selections.2.Display>Atacar Discípulo da Seita Justa</Selections.2.Display>
+			<Selections.2.Tip>modelagem do núcleo</Selections.2.Tip>
+			<Selections.3.Display>Atacar Discípulo da Seita Justa</Selections.3.Display>
+			<Selections.3.Tip>modelagem do núcleo</Selections.3.Tip>
 			<Selections.4.Display>Ignorar</Selections.4.Display>
 		</Text>
 		<Text Name="Treasure_Base">
-			<DisplayName>Search for Relics</DisplayName>
-			<Desc>[NAME] inadvertently came across the hidden residence of a cultivator...it seems like it was abandoned quite some time ago.</Desc>
-			<Selections.0.Display>Take a Look</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
+			<DisplayName>Pesquisar por relíquias</DisplayName>
+			<Desc>[NAME] inadvertidamente se deparou com a residência escondida de um cultivador ... parece que foi abandonado há algum tempo.</Desc>
+			<Selections.0.Display>dar uma olhada</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Treasure_1">
