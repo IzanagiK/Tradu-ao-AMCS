@@ -216,47 +216,47 @@
 		</Text>
 		<Text Name="Treasure_1">
 			<DisplayName>Deep Pool Encounter</DisplayName>
-			<Desc>[NAME] hurried on for days on end, and while fatigued, it wasn't until coming across a deep pool of water at dusk that this one decided to rest. During the night, [NAME] was surprised to discover a light seemed to be coming from the water.</Desc>
-			<Selections.0.Display>Take a Look</Selections.0.Display>
-			<Selections.0.Tip>Enter Practice State</Selections.0.Tip>
+			<Desc>[NAME] apressou-se dias a fio e, embora fatigado, só ao deparar com uma profunda poça de água ao entardecer é que este decidiu descansar. Durante a noite,[NAME] ficou surpreso ao descobrir que uma luz parecia estar vindo da água.</Desc>
+			<Selections.0.Display>Dê uma olhada</Selections.0.Display>
+			<Selections.0.Tip>Insira o estado de prática</Selections.0.Tip>
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Base">
-			<DisplayName>Collect Resources</DisplayName>
-			<Desc>When [NAME] arrived at this place, it turned out that there was a lot around that could be gathered.</Desc>
-			<Selections.0.Display>Resource Collection</Selections.0.Display>
+			<DisplayName>Coletar recursos</DisplayName>
+			<Desc>Quando [NAME] chegou a este lugar, descobriu-se que havia muito ao redor que poderia ser reunido.</Desc>
+			<Selections.0.Display>Coleta de recursos</Selections.0.Display>
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="City_Base">
-			<DisplayName>City</DisplayName>
-			<Desc>[NAME] came to [PLACE] and discovered that it was densely populated and business was booming.</Desc>
-			<Selections.0.Display>Search for Disciples</Selections.0.Display>
-			<Selections.0.Tip>Luck and Charisma</Selections.0.Tip>
+			<DisplayName>Cidade</DisplayName>
+			<Desc>[NAME] veio [PLACE] e descobriu que era densamente povoado e os negócios estavam crescendo.</Desc>
+			<Selections.0.Display>Procurar por Discípulos</Selections.0.Display>
+			<Selections.0.Tip>Sorte e Carisma</Selections.0.Tip>
 			<Selections.1.Display>Rob Commoners</Selections.1.Display>
-			<Selections.2.Display>Help others</Selections.2.Display>
-			<Selections.3.Display>Purchase Materials</Selections.3.Display>
-			<Selections.4.Display>Depart</Selections.4.Display>
+			<Selections.2.Display>Ajude os outros</Selections.2.Display>
+			<Selections.3.Display>Comprar materiais</Selections.3.Display>
+			<Selections.4.Display>partir</Selections.4.Display>
 		</Text>
 		<Text Name="Business_Base">
-			<DisplayName>Purchase Materials</DisplayName>
-			<Desc>[NAME] discovered that this place had a developed market with low prices and so decided to pick things up before heading back.</Desc>
-			<Selections.0.Display>Purchase Food</Selections.0.Display>
-			<Selections.1.Display>Purchase Marble</Selections.1.Display>
-			<Selections.2.Display>Purchase Timber</Selections.2.Display>
-			<Selections.3.Display>Purchase Iron Ore</Selections.3.Display>
-			<Selections.4.Display>Purchase Cotton</Selections.4.Display>
+			<DisplayName>Comprar materiais</DisplayName>
+			<Desc>[NAME] descobriu que este lugar tinha um mercado desenvolvido com preços baixos e então decidiu pegar as coisas antes de voltar.</Desc>
+			<Selections.0.Display>Comprar comida</Selections.0.Display>
+			<Selections.1.Display>Compra mármore</Selections.1.Display>
+			<Selections.2.Display>Comprar Madeira</Selections.2.Display>
+			<Selections.3.Display>Comprar minério de ferro</Selections.3.Display>
+			<Selections.4.Display>Comprar Algodão</Selections.4.Display>
 		</Text>
 		<Text Name="Highfind_Base">
-			<DisplayName>Gather Treasure</DisplayName>
-			<Desc>[NAME] heard that there were some items produced in [PLACE] that were useful for one's Practice.</Desc>
-			<Selections.0.Display>Search</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
+			<DisplayName>Reunir tesouro</DisplayName>
+			<Desc>[NAME] ouvi dizer que havia alguns itens produzidos em [PLACE] que eram úteis para a prática.</Desc>
+			<Selections.0.Display>Procurar</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Secret_Base">
-			<DisplayName>Look for Clues</DisplayName>
-			<Desc>[NAME] passed by [PLACE] while travelling and discovered that there were a great many people discussing something.</Desc>
-			<Selections.0.Display>Ask around</Selections.0.Display>
+			<DisplayName>Procurar por pistas</DisplayName>
+			<Desc>[NAME] passou por [PLACE] enquanto viajava e descobri que havia muitas pessoas discutindo algo.</Desc>
+			<Selections.0.Display>Pergunte por aí</Selections.0.Display>
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Base">
