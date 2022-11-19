@@ -1,39 +1,39 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Story_LingZhi_YunYangBegin">
-			<DisplayName>Nurture</DisplayName>
-			<Desc>As [NAME] was nurtured by [HENAME] something special happened.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
+			<DisplayName>nutrir</DisplayName>
+			<Desc>Como [NAME] foi nutrido por [HENAME] algo especial aconteceu.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_YunYangEnd">
-			<DisplayName>Finish Nurturing</DisplayName>
-			<Desc>As [NAME] finished nurturing [HENAME] something special happened.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
+			<DisplayName>Concluir Nutrição</DisplayName>
+			<Desc>Como [NAME] terminar de nutrir [HENAME] algo especial aconteceu.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Chance">
-			<DisplayName>Fortuitous Blessing</DisplayName>
-			<Desc>There was a slight change in intelligence while [NAME] was growing.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
+			<DisplayName>Bênção Fortuita</DisplayName>
+			<Desc>Houve uma ligeira mudança na inteligência enquanto [NAME] estava crescendo.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Grow">
-			<DisplayName>Spiritual Plant Maturing</DisplayName>
-			<Desc>As the Spirit Root finished maturing, the Qi throughout heaven and earth suddenly changed, something special happened.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
+			<DisplayName>Planta espiritual amadurecendo</DisplayName>
+			<Desc>Quando a Raiz Espiritual terminou de amadurecer, o Qi em todo o céu e a terra mudou repentinamente, algo especial aconteceu.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Ripe">
-			<DisplayName>Spiritual Plant Ripening</DisplayName>
-			<Desc>There was some sort of sudden reaction on heaven and earth as the Spirit Root ripened, something special happened.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
+			<DisplayName>Amadurecimento Espiritual da Planta</DisplayName>
+			<Desc>Houve algum tipo de reação repentina no céu e na terra quando a Raiz do Espírito amadureceu, algo especial aconteceu.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_LingSha">
-			<DisplayName>Extremity</DisplayName>
-			<Desc>[NAME]'s evil spirit reached an extreme stage and then something happened.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
+			<DisplayName>Extremidade</DisplayName>
+			<Desc>[NAME]O espírito maligno de atingiu um estágio extremo e então algo aconteceu.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Attack">
-			<DisplayName>Invasion of Enemies</DisplayName>
-			<Desc>The Spirit Root was ripe, something big must be about to happen, get ready.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
+			<DisplayName>invasão de inimigos</DisplayName>
+			<Desc>O Spirit Root estava maduro, algo grande deve estar para acontecer, prepare-se.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
 		</Text>
 	</List>
 </Texts>
