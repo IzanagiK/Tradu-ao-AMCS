@@ -2,11 +2,11 @@
 	<List>
 		<Text Name="Ls_XuanWuShield">
 			<DisplayName>Darkarmor Shield</DisplayName>
-			<Desc>Greatly improves the strength of a friendly Qi Barrier and Toughness of its Secret Body.</Desc>
+			<Desc>Melhora muito a força de uma Barreira de Qi amigável e a Resistência de seu Corpo Secreto.</Desc>
 		</Text>
 		<Text Name="Ls_XuanWuBreak">
 			<DisplayName>Conquest Breach</DisplayName>
-			<Desc>Significantly decreases one enemy's Qi Barrier and secret body endurance.</Desc>
+			<Desc>Diminui significativamente a barreira de Qi de um inimigo e a resistência do corpo secreto.</Desc>
 		</Text>
 		<Text Name="Ls_XuanWuWater">
 			<DisplayName>Dark Wave</DisplayName>
@@ -16,11 +16,11 @@
 		</Text>
 		<Text Name="Ls_XuanWuForm">
 			<DisplayName>Turtle Form</DisplayName>
-			<Desc>Increases allies' Formation Stability and grants one Formation Energy. Can only be used on Formations in battle.</Desc>
+			<Desc>Aumenta a estabilidade de formação dos aliados e concede uma energia de formação. Só pode ser usado em formações em batalha.</Desc>
 		</Text>
 		<Text Name="Ls_XuanWuDefac">
 			<DisplayName>Liberty Form</DisplayName>
-			<Desc>Exposes the Auxiliary of enemy's Formation.</Desc>
+			<Desc>Expõe o Auxiliar da Formação do inimigo.</Desc>
 		</Text>
 	</List>
 </Texts>

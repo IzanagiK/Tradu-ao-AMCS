@@ -48,10 +48,10 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 46	Light Snow	Começou a nevar.	LightSnow	
 47	Heavy Snow	Começou a nevar fortemente.	HeavySnow	
 48	Observer	Um cultivador está te observando, mas ele não parecem significar nenhum mal.	Observer	Human
-49	Beast Attack	Um grupo de lobos famintos apareceu aqui perto, e eles são muito hostis.	Wolf	
-50	Beast Attack	Um grupo de coelhos malucos apareceu aqui perto, e eles são muito hostis.	Rabbit	
-51	Beast Attack	Um grupo de cobras agressivas apareceu aqui perto, e elas são muito hostis.	Snake	
-52	Beast Attack	Um grupo de javalis frenéticos apareceu aqui perto, e eles são muito hostis.	Boar	
+49	Ataque da Besta	Um grupo de lobos famintos apareceu aqui perto, e eles são muito hostis.	Wolf	
+50	Ataque da Besta	Um grupo de coelhos malucos apareceu aqui perto, e eles são muito hostis.	Rabbit	
+51	Ataque da Besta	Um grupo de cobras agressivas apareceu aqui perto, e elas são muito hostis.	Snake	
+52	Ataque da Besta	Um grupo de javalis frenéticos apareceu aqui perto, e eles são muito hostis.	Boar	
 53	Secret		6	
 54	Secret		7	
 55	Secret		8	
@@ -105,13 +105,13 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 108	Invasion of Beasts	Alguns monstros galinha apareceram aqui perto, e eles são muito hostis.	JYCat	TongYong_DropList
 109	Invasion of Beasts	Alguns monstros touro apareceram aqui perto, e eles são muito hostis.	JYCattle	TongYong_DropList
 110	Invasion of Beasts	Alguns monstros tigre apareceram aqui perto, e eles são muito hostis.	JYTiger	TongYong_DropList
-111	Beast Attack	Um grupo de galinhas malucas apareceu aqui perto, e elas são muito hostis.	Chicken	
-112	Beast Attack	Um urso agressivo apareceu aqui perto, e é muito hostil.	Bear	
-113	Beast Attack	Um grupo de tartarugas frenéticas apareceu aqui perto, e elas são muito hostis.	Turtle	
-114	Beast Attack	Um grupo de sapos malucos apareceu aqui perto, e eles são muito hostis.	Frog	
-115	Beast Attack	Um gato agressivo apareceu aqui perto, e é muito hostil.	Cat	
-116	Beast Attack	Um grupo de touros loucos apareceu aqui perto, e eles são muito hostis.	Cattle	
-117	Beast Attack	Um tigre agressivo apareceu aqui perto, e é muito hostil.	Tiger	
+111	Ataque da Besta	Um grupo de galinhas malucas apareceu aqui perto, e elas são muito hostis.	Chicken	
+112	Ataque da Besta	Um urso agressivo apareceu aqui perto, e é muito hostil.	Bear	
+113	Ataque da Besta	Um grupo de tartarugas frenéticas apareceu aqui perto, e elas são muito hostis.	Turtle	
+114	Ataque da Besta	Um grupo de sapos malucos apareceu aqui perto, e eles são muito hostis.	Frog	
+115	Ataque da Besta	Um gato agressivo apareceu aqui perto, e é muito hostil.	Cat	
+116	Ataque da Besta	Um grupo de touros loucos apareceu aqui perto, e eles são muito hostis.	Cattle	
+117	Ataque da Besta	Um tigre agressivo apareceu aqui perto, e é muito hostil.	Tiger	
 118	Attack	Um grupo de cultivadores Yaoguai olham com ganancia as  propriedade de sua seita. Eles apareceram nas proximidades com grande hostilidade.	Poorest	RANDOMYAOGUAI
 119	Attack	Um grupo de cultivadores Yaoguai pretende subverter sua seita. Eles estão vagando nas proximidades com olhos sanguinários.	Poor	RANDOMYAOGUAI
 120	Attack	Um grupo de cultivadores Yaoguai nutre grande ódio contra sua seita por algum motivo, e eles estão prestes a lançar um ataque.	Normal	RANDOMYAOGUAI
@@ -188,111 +188,111 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 10057	Phoenix	A Fênix está aqui.		
 10058	Polar Night Begins	Por razões desconhecidas, o reino de repente perdeu o equilíbrio de Yin e Yang. Uma noite escura envolve a área em torno de sua seita.		
 10059	Eggs of Yin	Alguns ovos estranhos apareceram de repente perto de sua seita no meio da noite. Há algo eclodindo dentro deles...		
-10060	Polar Day Begins	For unknown reasons, the realm suddenly lost its balance of Yin and Yang. It turned high noon in the area around your sect... You don't know how long this chaos will continue.		
-10061	Eggs of Yang	A few strange eggs suddenly appeared near your sect in the middle of the day. There is something hatching inside them...		
-10062	Torch Dragon Born	The continued chaos of Yin and Yang finally reached its limit. With a drawn-out sigh, a giant creature started to manifest within the realm.		
-10063	Torch Dragon's Chaos	As the strange eggs began to hatch, the Yin and Yang of this realm slowly lose balance.		
-10064	Torch Dragon's Chaos	As the strange eggs were destroyed, the Yin and Yang of this realm slowly lose balance.		
-10065	Drastic Change	There has been a sudden burst of Qi in the Central Plains. As time goes by, people started to realize that the scale and intensity of the burst was beyond all expectations. It has been spreading from the central bursting point for more than a month, proving that it was actually a drastic change that would affect all cultivators.\nNow, the influence of the burst has reached your sect. As everyone enjoys the overflowing Qi, you wonder what this drastic change could mean for all of you...	LingUpWave_Sp	
-10066	Thousand-year Tide	It has been days since the burst of Qi finished spreading across the realm. From reading old documents, the famous sects eventually decided that it was the tide of Qi that surges every 3,000 years. Ancient cultivators that were in slumber for various reasons started to be revived one by one by the Thousand-year Tide.\nWithout the current order and rules, cultivators in ancient times believed in the law of the jungle. These cultivators with ancient beliefs and long experience in cultivation has caused chaos in the world of cultivators in only a few days...		
-10067	Disaster in the Wild South	A mysterious disaster happened recently on the mountains of the northern borderland. It was said that the ground and mountains shook for a minute, and the sound was so loud that it spread across thousands of miles. When the nearby cultivators arrived, they only found all the mountains to be drowned in water, with strong ominous Qi permeating the area.\nIt seems that a few rare and elusive ancient beasts that hide in the mountains and lakes are affected by the Thousand-year Tide and have become active again.		
-10068	Underground Noise	The Thousand-year Tide has passed. In a little more than a month, ancient cultivators were revived, and ancient beasts started to become active again... The world of cultivators was faced with the drastic change. As time goes by, the world of cultivators has gradually regained its peace and balance. Everything seems to be back on track.\nHowever, underground shakes started to happen frequently in your sect. You don't know what is going on...		
+10060	Polar Day Begins	Por razões desconhecidas, o reino de repente perdeu o equilíbrio de Yin e Yang. Já era meio-dia na área ao redor de sua seita... Você não sabe por quanto tempo esse caos continuará.		
+10061	Eggs of Yang	Alguns ovos estranhos apareceram de repente perto de sua seita no meio do dia. Há algo eclodindo de dentro deles...		
+10062	Torch Dragon Born	O caos contínuo de Yin e Yang finalmente atingiu seu limite. Com um suspiro prolongado, uma criatura gigante começou a se manifestar dentro do reino.		
+10063	Torch Dragon's Chaos	À medida que os estranhos ovos começaram a eclodir, o Yin e o Yang deste reino lentamente perderam o equilíbrio.		
+10064	Torch Dragon's Chaos	À medida que os ovos estranhos foram destruídos, o Yin e o Yang deste reino lentamente perderam o equilíbrio.		
+10065	Drastic Change	Houve uma explosão repentina de Qi nas Planícies Centrais. Com o passar do tempo, as pessoas começaram a perceber que a escala e a intensidade da explosão estavam além de todas as expectativas. Ele vem se espalhando a partir do ponto de explosão central há mais de um mês, provando que na verdade foi uma mudança drástica que afetaria todos os cultivadores.\nAgora, a influência da explosão atingiu sua seita. Como todos apreciam o Qi transbordante, você se pergunta o que essa mudança drástica pode significar para todos vocês...	LingUpWave_Sp	
+10066	Thousand-year Tide	Faz dias desde que a explosão de Qi terminou de se espalhar pelo reino. A partir da leitura de documentos antigos, as seitas famosas finalmente decidiram que era a maré de Qi que surge a cada 3.000 anos. Cultivadores antigos que estavam adormecidos por vários motivos começaram a ser revividos um a um pela Maré de Mil Anos.\nSem a ordem e as regras atuais, os cultivadores dos tempos antigos acreditavam na lei da selva. Esses cultivadores com crenças antigas e longa experiência em cultivo causaram o caos no mundo dos cultivadores em apenas alguns dias...		
+10067	Disaster in the Wild South	Um desastre misterioso aconteceu recentemente nas montanhas da fronteira norte. Foi dito que o chão e as montanhas tremeram por um minuto, e o som foi tão alto que se espalhou por milhares de quilômetros. Quando os cultivadores próximos chegaram, eles só encontraram todas as montanhas afundaram na água, com um forte Qi sinistro permeando a área.\nParece que algumas feras antigas raras e indescritíveis que se escondem nas montanhas e lagos são afetadas pela Maré de mil anos e tornaram-se ativos novamente.		
+10068	Underground Noise	A maré de mil anos passou. Em pouco mais de um mês, cultivadores antigos foram revividos, e feras antigas começaram a se tornar ativas novamente... O mundo dos cultivadores foi confrontado com a mudança drástica. Com o passar do tempo, o mundo dos cultivadores gradualmente recuperou sua paz e equilíbrio. Tudo parece estar de volta aos trilhos.\nNo entanto, tremores subterrâneos começaram a acontecer com frequência em sua seita. Você não sabe o que está acontecendo...		
 10069	Invasion of an Ancient Cultivator	This ancient cultivator has successfully found your sect after careful investigation.		
-10070	Beast Awakens	The beast occupying this land has awakened.		
-10071	Tribulation of Dragons	The power of the Heavenly Tribulation has killed all the unborn Flood Dragons...		
-10072	Disturbance of the Otherworld	There were talks that the Otherworld Rift suddenly opened up lately and several beaming treasures flew out of it, scattering around the world. You sensed something strange going on. It seems that you have a spiritual connection with these treasures and a careful search is warranted.		
-10073	Disturbance of the Otherworld	There were talks that the Otherworld Rift suddenly opened up lately and several beaming treasures flew out of it, scattering around the world. You sensed something strange going on. It seems that you have a spiritual connection with these treasures and a careful search is warranted.		
-10074	Disturbance of the Otherworld	There were talks that the Otherworld Rift suddenly opened up lately and several beaming treasures flew out of it, scattering around the world. You sensed something strange going on. It seems that you have a spiritual connection with these treasures and a careful search is warranted.		
-10075	Disturbance of the Otherworld	There were talks that the Otherworld Rift suddenly opened up lately and several beaming treasures flew out of it, scattering around the world. You sensed something strange going on. It seems that you have a spiritual connection with these treasures and a careful search is warranted.		
-10076	Departure	Why do you send me as a gift to [TXT]?		
-10077	Ascension	[NAME] has attained their divinity and lost all feelings and emotions. With every human relations and connections severed, [IT] have completely transformed into a deity in this realm.	SeeGod	
-10078	Condemnation from the Merchant Union	Because of your rude behavior, the Merchant Union has decided to ban you from their trade list forever.		
-10079	Revenge	[TXT]'s friends and elders have come to your sect looking angry and aggressive, asking for your explanation and apology.	Rich	
-10080	Revenge	[TXT] has betrayed their own sect because of you. Their old friends and elders are very mad and will come asking for your explanation and apology.		
-10081	Connection	[TXT]'s disciple has betrayed their sect because of you, but since you have a good relationship with each other, their senior elders have ordered to not pursue this matter.\n(Connection reduced)		
-10082	Connection	[TXT]'s disciple has betrayed their sect because of you, but since you have a good relationship with each other, they have tried not to pursue this matter. But the favors they owed you are probably not enough to stop them from keeping it quiet.\n(Connection reduced)		
-10083	Visit from the Merchant Union	[NAME] from the Merchant Union comes to visit, and he will stay here for one day.		
+10070	Beast Awakens	A besta que ocupa esta terra despertou.		
+10071	Tribulation of Dragons	O poder da Tribulação Celestial matou todos os Flood Dragons não nascidos...		
+10072	Disturbance of the Otherworld	Houve conversas de que a Fenda do Outro Mundo de repente se abriu recentemente e vários tesouros radiantes voaram para fora dela, espalhando-se pelo mundo. Você sentiu algo estranho acontecendo. Parece que você tem uma conexão espiritual com esses tesouros e uma busca cuidadosa é necessária.		
+10073	Disturbance of the Otherworld	Houve conversas de que a Fenda do Outro Mundo de repente se abriu recentemente e vários tesouros radiantes voaram para fora dela, espalhando-se pelo mundo. Você sentiu algo estranho acontecendo. Parece que você tem uma conexão espiritual com esses tesouros e uma busca cuidadosa é necessária.		
+10074	Disturbance of the Otherworld	Houve conversas de que a Fenda do Outro Mundo de repente se abriu recentemente e vários tesouros radiantes voaram para fora dela, espalhando-se pelo mundo. Você sentiu algo estranho acontecendo. Parece que você tem uma conexão espiritual com esses tesouros e uma busca cuidadosa é necessária.		
+10075	Disturbance of the Otherworld	Houve conversas de que a Fenda do Outro Mundo de repente se abriu recentemente e vários tesouros radiantes voaram para fora dela, espalhando-se pelo mundo. Você sentiu algo estranho acontecendo. Parece que você tem uma conexão espiritual com esses tesouros e uma busca cuidadosa é necessária.		
+10076	Departure	Por que você me envia como presente para [TXT]?		
+10077	Ascension	[NAME] alcançou sua divindade e perdeu todos os sentimentos e emoções. Com todas as relações e conexões humanas cortadas, [IT] se transformou completamente em uma divindade neste reino.	SeeGod	
+10078	Condemnation from the Merchant Union	Por causa de seu comportamento rude, o Merchant Union decidiu bani-lo de sua lista de comércio para sempre.		
+10079	Revenge	[TXT]'s amigos e anciãos vieram à sua seita parecendo zangados e agressivos, pedindo sua explicação e desculpas.	Rich	
+10080	Revenge	[TXT] traiu sua própria seita por sua causa. Seus velhos amigos e mais velhos estão muito bravos e virão pedir sua explicação e desculpas.		
+10081	Connection	[TXT]'s discípulo traiu sua seita por sua causa, mas como vocês têm um bom relacionamento um com o outro, seus anciãos ordenaram não prosseguir com este assunto.\n(Connection reduced)		
+10082	Connection	[TXT]'s discípulo traiu sua seita por sua causa, mas como vocês têm um bom relacionamento um com o outro, eles tentaram não insistir nesse assunto. Mas os favores que eles lhe deviam provavelmente não são suficientes para impedi-los de ficar quieto.\n(Connection reduced)		
+10083	Visit from the Merchant Union	[NAME] do Merchant Union vem nos visitar, e ele vai ficar aqui por um dia.		
 10084	Return from the Otherworld	A few days ago, a group of merchants in the union disappeared while exploring the Otherworld Rift. When everyone thought they were gone for good, the Otherworld Rift opened again and all the merchants came back safely, even bringing many strange items from the Otherworld.\nHowever, a large amount of Otherworld objects have brought in the Creed of Heaven from the Otherworld. Under the influence of the ways of heaven of the Otherworld, some temporary changes have occurred to the heavenly ways in this world as well. Even Torch Dragon, the manifestation of the Rule of Yin and Yang, has become a little strange...		
-10085	Awakened Bear		Bear,10,10,10,10,10,3,Target,,3	At [TXT], a bear came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10086	Awakened Rabbit		Rabbit,10,10,10,10,10,3,Target,,3	At [TXT], a rabbit came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10087	Awakened Chicken		Chicken,10,10,10,10,10,3,Target,,3	At [TXT], a chicken came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10088	Awakened Wolf		Wolf,10,10,10,10,10,3,Target,,3	At [TXT], a wolf came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10089	Awakened Snake		Snake,10,10,10,10,10,3,Target,,3	At [TXT], a snake came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10090	Awakened Boar		Boar,10,10,10,10,10,3,Target,,3	At [TXT], a boar came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10091	Awakened Frog		Frog,10,10,10,10,10,3,Target,,3	At [TXT], a frog came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10092	Awakened Turtle		Turtle,10,10,10,10,10,3,Target,,3	At [TXT], a turtle came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10093	Awakened Cat		Cat,10,10,10,10,10,3,Target,,3	At [TXT], a cat came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10094	Awakened Tiger		Tiger,10,10,10,10,10,3,Target,,3	At [TXT], a tiger came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10095	Awakened Bull		Cattle,10,10,10,10,10,3,Target,,3	At [TXT], a bull came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10096	Master's Enlightenment	Blessed by fortune, [NAME] received enlightenment from [TNAME] at [TIME], and has thus become a Sentient Spirit.		
-10097	Sentient World	Blessed by fortune, [NAME] acquired energy of heaven and earth in [WEATHER], awakening self-consciousness and becoming a Sentient Spirit.		
-10098	Awakening Energy	Blessed by fortune, having spent years at [TNAME]'s side, [NAME] accidentally awakened self-consciousness and become a Sentient Spirit, due to the accumulated energy from listening to words of wisdom.		
-10099	Awakened Bear		Bear,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a bear accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10100	Awakened Rabbit		Rabbit,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a rabbit accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10101	Awakened Chicken		Chicken,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a chicken accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10102	Awakened Wolf		Wolf,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a wolf accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10103	Awakened Snake		Snake,10,10,10,10,10,3,Emotion,,3	At [TXT], a snake came to the realization of "[FRAG]" by chance, and has thus become awakened.
-10104	Awakened Boar		Boar,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a boar accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10105	Awakened Frog		Frog,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a frog accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10106	Awakened Turtle		Turtle,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a turtle accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10107	Awakened Cat		Cat,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a cat accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10108	Awakened Tiger		Tiger,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a tiger accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10109	Awakened Bull		Cattle,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a bull accidentally felt "[FRAG]" several times, becoming awakened as a result.
-10110	Awakened Bear		Bear,10,10,10,10,10,3,Scene,,3	A bear "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
-10111	Awakened Rabbit		Rabbit,10,10,10,10,10,3,Scene,,3	A rabbit "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
-10112	Awakened Chicken		Chicken,10,10,10,10,10,3,Scene,,3	A chicken "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
-10113	Awakened Wolf		Wolf,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a wolf had a sudden Enlightment and became awakened at [TXT].
-10114	Awakened Snake		Snake,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a snake had a sudden Enlightment and became awakened at [TXT].
-10115	Awakened Boar		Boar,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a boar had a sudden Enlightment and became awakened at [TXT].
-10116	Awakened Frog		Frog,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a frog had a sudden Enlightment and became awakened at [TXT].
-10117	Awakened Turtle		Turtle,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a turtle had a sudden Enlightment and became awakened at [TXT].
-10118	Awakened Cat		Cat,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a cat had a sudden Enlightment and became awakened at [TXT].
-10119	Awakened Tiger		Tiger,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a tiger had a sudden Enlightment and became awakened at [TXT].
-10120	Awakened Bull		Cattle,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a bull had a sudden Enlightment and became awakened at [TXT].
-10121	Retreating Enemy	A wave of hostile beings intended to attack you. But after carefully considering your sect's reputation in the cultivation world, they eventually decided to give up.		
-10122	Ascension	[NAME] has gone through all the hardships and finally embraced oblivion with mortal body, ascending above this realm and leaving nothing but legends to be told for future generations.\nA poem as evidence:\n[color=#D06508]Out of the sorted chaos of the universe, the first ever human being was born. The oneness came before duality, and the Four Symbols guarded the earth.\nThe goddess gave life to all creations from clay, while the Great Bright One drew the picture that divided Yin and Yang.\nA hundred years of cultivation passed by while soldiers fought in countless battles. Another thousand years are only a blink of an eye in meditation.\nI shall say no more as the Heavenly Tribulation comes to take me away. All the worldly problems will be gone with the wind after I leave this plane of existence.[/color]	SeeGod	
-10123	Otherworld Merchant	[NAME] from the Traveling Merchant Guild was teleported here via the Otherworld Rift.		
-10124	Otherworld Rift	A horde of rabid beasts were teleported here via the Otherworld Rift.		
-10125	Otherworld Rift	Some monsters were teleported here via the Otherworld Rift.		
-10126	Otherworld Rift	A group of enemies were teleported here via the Otherworld Rift.		
-10127	Converged Fortune	After conquering all sects with unrivaled power, your sect has collected all fortune from the cultivators' realm, and your Mini Universe begins to emit strange, faint light.		
-10128	Converged Fortune	Only within a few years, there have been 50 disciples ascended to immortality in your sect. Therefore, great divine fortune has converged here, and your Mini Universe begins to emit strange, faint light.		
-10129	Converged Fortune	After much hardship, a Golden Core cultivator in your sect has survived nine Heavenly Tribulations, drawing in divine fortune to converge here, and thus your Mini Universe begins to emit strange, faint light.		
-10130	Converged Fortune	As time flies by, your sect has been established here for decades, gradually blending in the environment and absorbing fortune, and thus your Mini Universe begins to emit strange, faint light.		
-10131	Converged Fortune	To unearth the truth of the Taiyi Sect's destruction, you have unexpectedly uncovered the most ancient secret in the world after careful investigation, during which great divine fortune has converged  here, and thus your Mini Universe begins to emit strange, faint light.		
-10132	Converged Fortune	The creed of heaven has shifted drastically, and thus your Mini Universe begins to emit strange, faint light.		
-10133	The time has come	The Mini Universe suddenly shook strangely. You remind the arrangement with Fu Bikong and it is the time.		
-10123	Otherworld Merchant	[NAME] from the Traveling Merchant Guild was teleported here via the Otherworld Rift.		
-10124	Otherworld Rift	A horde of rabid beasts were teleported here via the Otherworld Rift.		
-10125	Otherworld Rift	Some monsters were teleported here via the Otherworld Rift.		
-10126	Otherworld Rift	A group of enemies were teleported here via the Otherworld Rift.		
-30001	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		TongYong_DropList
-30002	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		TongYong_DropList
-30003	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		TongYong_DropList
-30004	Assault	A few mysterious assassins are ordered to attack your sect.	Richest	Human
-30005	Assault	A few mysterious assassins are ordered to attack your sect.	Richest	Human
-30006	Assault	A few mysterious assassins are ordered to attack your sect.	Richest	Human
-30008	Polar Night	A disorder of the Yin Yang Stela caused the Yin energy to overflow. The sun refuses to rise as a result.	YinChaos	
-30009	Heat Wave	The Fiery Chasm becomes unstable, resulting in abnormally high temperature.	Hotpot_Heat	
-30010	Chilling Air	The Frozen Furnace becomes unstable, resulting in abnormally low temperature.	ColdHole_Cold	
-30012	Rainstorm	A heavy rainstorm has started, and the Water Element across heaven and earth is extremely active.	Rainstorm	
-30013	Foehn Wind	A dry and warm foehn wind has started, and the Fire Element across heaven and earth is extremely active.	Fohn	
-30014	Dust Storm	A dust storm is sweeping across the land, and the Earth Element across heaven and earth is extremely active.	DustStorm	
-30015	Qi Drought	For unknown reasons, it is in a drought season of Qi across heaven and earth.	LingRarefiedWave_Longer	
-30018	Polar Night	A strange cloud is covering the sun. It will be a while until you can see sunlight again.	PolarNight	
-30019	Miasma	Noxious air is rising over the whole area, and the Wood Element across heaven and earth is extremely active.	Miasma	
-30020	Thunderstorm	A thunderstorm is coming, and the Metal Element across heaven and earth is extremely active.	LightningStorm	
-30021	Assault	A few mysterious assassins are ordered to attack your sect.	Normal	Human
-30022	Thunderstorm	Answering the Mysterious Cavern unrest, a thunderstorm strikes.	Lightning_DragonHole	
+10085	Awakened Bear		Bear,10,10,10,10,10,3,Target,,3	Em [TXT], um urso chegou à realização de "[FRAG]" por acaso e, assim, despertou.
+10086	Awakened Rabbit		Rabbit,10,10,10,10,10,3,Target,,3	Em [TXT], um coelho chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10087	Awakened Chicken		Chicken,10,10,10,10,10,3,Target,,3	Em [TXT], uma galinha chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10088	Awakened Wolf		Wolf,10,10,10,10,10,3,Target,,3	Em [TXT], um lobo chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10089	Awakened Snake		Snake,10,10,10,10,10,3,Target,,3	Em [TXT], uma cobra chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10090	Awakened Boar		Boar,10,10,10,10,10,3,Target,,3	Em [TXT], um javali chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10091	Awakened Frog		Frog,10,10,10,10,10,3,Target,,3	Em [TXT], um sapo chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10092	Awakened Turtle		Turtle,10,10,10,10,10,3,Target,,3	Em [TXT], uma tartaruga chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10093	Awakened Cat		Cat,10,10,10,10,10,3,Target,,3	Em [TXT], um gato chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10094	Awakened Tiger		Tiger,10,10,10,10,10,3,Target,,3	Em [TXT], um tigre chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10095	Awakened Bull		Cattle,10,10,10,10,10,3,Target,,3	Em [TXT], um touro chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10096	Master's Enlightenment	Abençoado pela fortuna, [NAME] recebeu iluminação de [TNAME] às [TIME], e assim se tornou um Espírito Sentiente.		
+10097	Sentient World	Abençoado pela fortuna, [NAME] adquiriu energia do céu e da terra em [TIME], despertando a autoconsciência e tornando-se um Espírito Sentiente.		
+10098	Awakening Energy	Abençoado pela fortuna, tendo passado anos ao lado de [TNAME], [NAME] acidentalmente despertou autoconsciência e se tornou um Espírito Sentiente, devido à energia acumulada ao ouvir palavras de sabedoria.		
+10099	Awakened Bear		Bear,10,10,10,10,10,3,Emotion,,3	Em [TXT], por algum motivo, um urso acidentalmente sentiu "[FRAG]" várias vezes, despertando como resultado.
+10100	Awakened Rabbit		Rabbit,10,10,10,10,10,3,Emotion,,3	Em [TXT], por algum motivo, um coelho acidentalmente sentiu "[FRAG]" várias vezes, despertando como resultado.
+10101	Awakened Chicken		Chicken,10,10,10,10,10,3,Emotion,,3	Em [TXT], por algum motivo, uma galinha acidentalmente sentiu "[FRAG]" várias vezes, sendo despertada como resultado.
+10102	Awakened Wolf		Wolf,10,10,10,10,10,3,Emotion,,3	Em [TXT], por algum motivo, um lobo acidentalmente sentiu "[FRAG]" várias vezes, despertando como resultado.
+10103	Awakened Snake		Snake,10,10,10,10,10,3,Emotion,,3	Em [TXT], uma cobra chegou à realização de "[FRAG]" por acaso, e assim despertou.
+10104	Awakened Boar		Boar,10,10,10,10,10,3,Emotion,,3	Em [TXT], por algum motivo, um javali acidentalmente sentiu "[FRAG]" várias vezes, despertando como resultado.
+10105	Awakened Frog		Frog,10,10,10,10,10,3,Emotion,,3	Em [TXT], por algum motivo, um sapo acidentalmente sentiu "[FRAG]" várias vezes, despertando como resultado.
+10106	Awakened Turtle		Turtle,10,10,10,10,10,3,Emotion,,3	Em [TXT], por algum motivo, uma tartaruga acidentalmente sentiu "[FRAG]" várias vezes, despertando como resultado.
+10107	Awakened Cat		Cat,10,10,10,10,10,3,Emotion,,3	No [TXT], por algum motivo, um gato acidentalmente sentiu "[FRAG]" várias vezes, despertando como resultado.
+10108	Awakened Tiger		Tiger,10,10,10,10,10,3,Emotion,,3	No [TXT], por algum motivo, um tigre acidentalmente sentiu "[FRAG]" várias vezes, despertando como resultado.
+10109	Awakened Bull		Cattle,10,10,10,10,10,3,Emotion,,3	Em [TXT], por algum motivo, um touro acidentalmente sentiu "[FRAG]" várias vezes, despertando como resultado.
+10110	Awakened Bear		Bear,10,10,10,10,10,3,Scene,,3	Um urso "[FRAG]" várias vezes em [TXT], então teve uma Iluminação repentina e despertou.
+10111	Awakened Rabbit		Rabbit,10,10,10,10,10,3,Scene,,3	Um coelho "[FRAG]" várias vezes em [TXT], então teve uma iluminação repentina e despertou.
+10112	Awakened Chicken		Chicken,10,10,10,10,10,3,Scene,,3	Uma galinha "[FRAG]" várias vezes em [TXT], então teve uma Iluminação repentina e foi despertada.
+10113	Awakened Wolf		Wolf,10,10,10,10,10,3,Scene,,3	Depois de "[FRAG]" várias vezes, um lobo teve uma iluminação repentina e foi despertado em [TXT].
+10114	Awakened Snake		Snake,10,10,10,10,10,3,Scene,,3	Depois de "[FRAG]" várias vezes, uma cobra teve uma iluminação repentina e foi despertada em [TXT].
+10115	Awakened Boar		Boar,10,10,10,10,10,3,Scene,,3	Depois de "[FRAG]" várias vezes, um javali teve uma iluminação repentina e foi despertado em [TXT].
+10116	Awakened Frog		Frog,10,10,10,10,10,3,Scene,,3	Depois de "[FRAG]" várias vezes, um sapo teve uma iluminação repentina e foi despertado em [TXT].
+10117	Awakened Turtle		Turtle,10,10,10,10,10,3,Scene,,3	Depois de "[FRAG]" várias vezes, uma tartaruga tem uma Iluminação repentina e foi despertada em [TXT].
+10118	Awakened Cat		Cat,10,10,10,10,10,3,Scene,,3	Depois de "[FRAG]" várias vezes, um gato teve uma iluminação repentina e foi despertado em [TXT].
+10119	Awakened Tiger		Tiger,10,10,10,10,10,3,Scene,,3	Depois de "[FRAG]" várias vezes, um tigre teve uma iluminação repentina e foi despertado em [TXT].
+10120	Awakened Bull		Cattle,10,10,10,10,10,3,Scene,,3	Depois de "[FRAG]" várias vezes, um touro tem uma Iluminação repentina e foi despertado em [TXT].
+10121	Retreating Enemy	Uma onda de seres hostis destinados a atacá-lo. Mas depois de considerar cuidadosamente a reputação de sua seita no mundo do cultivo, eles finalmente decidiram desistir.		
+10122	Ascension	[NAME] passou por todas as dificuldades e finalmente abraçou o esquecimento com um corpo mortal, ascendendo acima deste reino e deixando nada além de lendas para serem contadas para as gerações futuras.\nUm poema como evidência:\n[color=#D06508]Fora do caos ordenado de do universo, nasceu o primeiro ser humano. A unidade veio antes da dualidade, e os Quatro Símbolos guardavam a terra.\nA deusa deu vida a todas as criações do barro, enquanto o Grande Brilhante desenhou a imagem que dividia Yin e Yang.\nCem anos de cultivo se passaram enquanto os soldados lutavam em inúmeras batalhas. Outros mil anos são apenas um piscar de olhos na meditação.\nNão direi mais nada quando a Tribulação Celestial vier para me levar embora. Todos os problemas mundanos desaparecerão com o vento depois que eu deixar este plano de existência.[/color]	SeeGod	
+10123	Otherworld Merchant	[NAME] da Traveling Merchant Guild foi teletransportado para cá através da Fenda do Outro Mundo.		
+10124	Otherworld Rift	Uma horda de feras raivosas foi teletransportada para cá através da Fenda do Outro Mundo.		
+10125	Otherworld Rift	Alguns monstros foram teletransportados para cá através da Fenda do Outro Mundo.		
+10126	Otherworld Rift	Um grupo de inimigos foi teletransportado para cá através da Fenda do Outro Mundo.		
+10127	Converged Fortune	Depois de conquistar todas as seitas com poder incomparável, sua seita coletou toda a fortuna do reino dos cultivadores, e seu Mini Universo começa a emitir uma luz estranha e fraca.		
+10128	Converged Fortune	Apenas dentro de alguns anos, houve 50 discípulos que ascenderam à imortalidade em sua seita. Portanto, grande fortuna divina convergiu aqui, e seu Mini Universo começa a emitir uma luz estranha e fraca.		
+10129	Converged Fortune	Depois de muitas dificuldades, um cultivador do Núcleo Dourado em sua seita sobreviveu a nove Tribulações Celestiais, atraindo a fortuna divina para convergir aqui, e assim seu Mini Universo começa a emitir uma luz estranha e fraca.		
+10130	Converged Fortune	Com o passar do tempo, sua seita foi estabelecida aqui por décadas, gradualmente se misturando ao ambiente e absorvendo a fortuna, e assim seu Mini Universo começa a emitir uma luz estranha e fraca.		
+10131	Converged Fortune	Para descobrir a verdade da destruição da Seita Taiyi, você inesperadamente descobriu o segredo mais antigo do mundo após cuidadosa investigação, durante a qual a grande fortuna divina convergiu para cá e, assim, seu Mini Universo começa a emitir uma luz estranha e fraca..		
+10132	Converged Fortune	O credo do céu mudou drasticamente e, assim, seu Mini Universo começa a emitir uma luz estranha e fraca.		
+10133	The time has come	O Mini Universo de repente tremeu estranhamente. Você lembra o arranjo com Fu Bikong e é a hora.		
+10123	Otherworld Merchant	[NAME] da Traveling Merchant Guild foi teletransportado para cá através da Fenda do Outro Mundo.		
+10124	Otherworld Rift	Uma horda de feras raivosas foi teletransportada para cá através da Fenda do Outro Mundo.		
+10125	Otherworld Rift	Alguns monstros foram teletransportados para cá através da Fenda do Outro Mundo.		
+10126	Otherworld Rift	Um grupo de inimigos foi teletransportado para cá através da Fenda do Outro Mundo.		
+30001	Invasion of Beasts	Algumas feras apareceram aqui perto, e elas são muito hostis.		TongYong_DropList
+30002	Invasion of Beasts	Algumas feras apareceram aqui perto, e elas são muito hostis.		TongYong_DropList
+30003	Invasion of Beasts	Algumas feras apareceram aqui perto, e elas são muito hostis.		TongYong_DropList
+30004	Assault	Alguns assassinos misteriosos são ordenados a atacar sua seita.	Richest	Human
+30005	Assault	Alguns assassinos misteriosos são ordenados a atacar sua seita.	Richest	Human
+30006	Assault	Alguns assassinos misteriosos são ordenados a atacar sua seita.	Richest	Human
+30008	Polar Night	Um distúrbio do Yin Yang Stela fez com que a energia Yin transbordasse. O sol se recusa a nascer como resultado.	YinChaos	
+30009	Heat Wave	O Fiery Chasm torna-se instável, resultando em temperaturas anormalmente altas.	Hotpot_Heat	
+30010	Chilling Air	O Forno Congelado torna-se instável, resultando em temperatura anormalmente baixa.	ColdHole_Cold	
+30012	Rainstorm	Uma forte tempestade começou, e o Elemento Água no céu e na terra está extremamente ativo.	Rainstorm	
+30013	Foehn Wind	Um vento foehn seco e quente começou, e o Elemento Fogo no céu e na terra está extremamente ativo.	Fohn	
+30014	Dust Storm	Uma tempestade de poeira está varrendo a terra, e o Elemento Terra no céu e na terra está extremamente ativo.	DustStorm	
+30015	Qi Drought	Por razões desconhecidas, está em uma estação seca de Qi no céu e na terra.	LingRarefiedWave_Longer	
+30018	Polar Night	Uma nuvem estranha está cobrindo o sol. Vai demorar um pouco até que você possa ver a luz do sol novamente.	PolarNight	
+30019	Miasma	O ar nocivo está subindo por toda a área, e o Elemento Madeira no céu e na terra está extremamente ativo.	Miasma	
+30020	Thunderstorm	Uma tempestade está chegando, e o Elemento Metal no céu e na terra está extremamente ativo.	LightningStorm	
+30021	Assault	Alguns assassinos misteriosos são ordenados a atacar sua seita.	Normal	Human
+30022	Thunderstorm	Um estranho curioso encontrou este lugar por acidente e [IT] quer saber exatamente o que estamos fazendo.	Lightning_DragonHole	
 30028	Passer-by Refugee	Um refugiado fugindo da guerra está passando, e [IT] deseja se juntar a você.	Human	
-30043	Confused Stranger	A stranger lost their way around here, and wishes that we could help them.	Confused Stranger	
-30044	Curious Stranger	A curious stranger came across this place by accident, and [IT] want to know what we are doing exactly.	Curious Stranger	
+30043	Confused Stranger	Um estranho se perdeu aqui e deseja que possamos ajudá-lo.	Confused Stranger	
+30044	Curious Stranger	Um estranho curioso encontrou este lugar por acidente e [IT] quer saber exatamente o que estamos fazendo.	Curious Stranger	
 30045	Injured Stranger	A stranger is injured, and [IT] wish to stay here for a while and ask for our help.	Injured Stranger	RandomDamage
-30083	Burst of Qi	For unknown reasons, Qi across heaven and earth suddenly started to burst out. A few plants were affected and became Spiritwood.	LingUpWave_Shorter	
-30111	Dust Storm	Due to the influence of the Earthmother Shrine, a dust storm has occured.	DustStorm_Dimu	
-30112	Invasion of Beasts	The Earthmother Shrine has absorbed some nutrition from the soil, enraging a pack of monsters. They have grown hostile!		
-30113	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		
-30114	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		
-30115	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		
-30116	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		
-30117	Heaven Echo Altar	Crystalize Spirit Stones Complete！		
+30083	Burst of Qi	Por razões desconhecidas, o Qi através do céu e da terra de repente começou a explodir. Algumas plantas foram afetadas e se tornaram Spiritwood.	LingUpWave_Shorter	
+30111	Dust Storm	Devido à influência do Santuário Mãe da Terra, uma tempestade de poeira ocorreu.	DustStorm_Dimu	
+30112	Invasion of Beasts	O Santuário Mãe da Terra absorveu alguma nutrição do solo, enfurecendo um bando de monstros. Eles se tornaram hostis!		
+30113	Invasion of Beasts	Algumas feras apareceram aqui perto, e elas são muito hostis.		
+30114	Invasion of Beasts	Algumas feras apareceram aqui perto, e elas são muito hostis.		
+30115	Invasion of Beasts	Algumas feras apareceram aqui perto, e elas são muito hostis.		
+30116	Invasion of Beasts	Algumas feras apareceram aqui perto, e elas são muito hostis.		
+30117	Heaven Echo Altar	Cristalização Spirit Stones foi Completa！		

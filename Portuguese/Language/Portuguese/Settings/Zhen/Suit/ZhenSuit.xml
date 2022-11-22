@@ -1,24 +1,24 @@
 ﻿<Texts Type="Other">
 	<List>
-		<Text Name="Sys_Lost">
+			<Text Name="Sys_Lost">
 			<DisplayName>Empty</DisplayName>
 		</Text>
 		<Text Name="zhuxianzhen">
 			<DisplayName>Ragestriker Formation</DisplayName>
-			<Description>Since time immemorial, this has been the formation with the greatest offensive power. When deployed, it will turn into four banner gates each with a sword hanging above it, completely surrounding the center. Once activated with primordial spirit, the four swords will vibrate, and the formation is immediately filled with Sword Aura. Even the truest immortal will find it difficult to survive in.</Description>
+			<Description>Desde tempos imemoriais, esta tem sido a formação com maior poder ofensivo.  Quando implantado, ele se transformará em quatro portões de banner, cada um com uma espada pendurada acima dele, cercando completamente o centro.  Uma vez ativado com o espírito primordial, as quatro espadas irão vibrar, e a formação é imediatamente preenchida com Sword Aura.  Mesmo o mais verdadeiro imortal achará difícil sobreviver.</Description>
 			<NodeName.0>Ragestriker Plan</NodeName.0>
 			<NodeName.1>Ragestriker</NodeName.1>
 			<NodeName.2>Deathbringer</NodeName.2>
 			<NodeName.3>Endless Fury</NodeName.3>
 			<NodeName.4>Wrathbringer</NodeName.4>
-			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stability</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Artifact Mastery Ability Enhanced</SuitEffect.2.Description>
-			<SuitEffect.3.Description>New Skill: Ragestriker</SuitEffect.3.Description>
+			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Estabilidade</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Nova habilidade: Ragestriker</SuitEffect.3.Description>
 		</Text>
 		<Text Name="qixingzhen">
 			<DisplayName>Conqueror's Formation</DisplayName>
-			<Description>An immortal formation said to have been passed down from the Evil Exorcising Perfected Warrior of Ninth Heavenly Paradise. It can direct the power of seven stars to form the Grand Chariot's divine light of Aloofness, a power capable of obliterate all evil.</Description>
+			<Description>Uma formação imortal que se diz ter sido transmitida pelo Malvado Guerreiro Aperfeiçoado Exorcista do Nono Paraíso Celestial.  Ele pode direcionar o poder de sete estrelas para formar a luz divina de distanciamento da Grande Carruagem, um poder capaz de obliterar todo o mal.</Description>
 			<NodeName.0>Ursae Megrez Claw</NodeName.0>
 			<NodeName.1>Ursae Dubhe Claw</NodeName.1>
 			<NodeName.2>Ursae Merak Claw</NodeName.2>
@@ -26,41 +26,41 @@
 			<NodeName.4>Ursae Alioth Claw</NodeName.4>
 			<NodeName.5>Ursae Mizar Claw</NodeName.5>
 			<NodeName.6>Ursae Elkeid Claw</NodeName.6>
-			<SuitEffect.0.Description>Spell Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Operation Ability Enhanced</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Spell Ability Enhanced</SuitEffect.3.Description>
-			<SuitEffect.4.Description>New Skill: Battle Aloofness</SuitEffect.4.Description>
+			<SuitEffect.0.Description>Habilidade de Magia Aprimorada</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Estabilidade Aprimorada</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Capacidade de operação aprimorada</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Habilidade de Magia Aprimorada</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Nova Habilidade: Distância de Batalha</SuitEffect.4.Description>
 		</Text>
 		<Text Name="wufangbumiezhen">
 			<DisplayName>Impregnable Formation</DisplayName>
-			<Description>A great formation based on the five Vast Banners which have existed since the beginning of time itself. The northern banner is referred to as Black Vulture, the southern as Soaring Flame, the central banner as Yellow Apricot, the western as White Cloud, and the eastern as Green Lotus. The combination of the Five Elements forms the Domain of Vastness, which cannot be invaded despite the changing of natural laws.</Description>
+			<Description>Uma grande formação baseada nas cinco Vastas Bandeiras que existem desde o início dos tempos.  O estandarte do norte é referido como Abutre Negro, o sul como Chama Soaring, o estandarte central como Damasco Amarelo, o ocidental como Nuvem Branca e o oriental como Lótus Verde.  A combinação dos Cinco Elementos forma o Domínio da Vastidão, que não pode ser invadido apesar da mudança das leis naturais.</Description>
 			<NodeName.0>Impregnable Formation</NodeName.0>
 			<NodeName.1>White Cloud Banner</NodeName.1>
 			<NodeName.2>Green Lotus Banner</NodeName.2>
 			<NodeName.3>Black Vulture Banner</NodeName.3>
 			<NodeName.4>Soaring Flame Banner</NodeName.4>
 			<NodeName.5>Yellow Apricot Banner</NodeName.5>
-			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
-			<SuitEffect.3.Description>New Skill: Domain of Vastness</SuitEffect.3.Description>
+			<SuitEffect.0.Description>Capacidade de proteção aprimorada</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Estabilidade Aprimorada</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Capacidade de proteção aprimorada</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Nova Habilidade: Domínio da Vastidão</SuitEffect.3.Description>
 		</Text>
 		<Text Name="liuyuzhen">
 			<DisplayName>Divine Law Formation</DisplayName>
-			<Description>A ceremonial formation of the Celestial Court. When forming this formation, it will unfold a pristine abode of the six gods of the Celestial Court, turning the Mortal Realm into a paradise, granting people spiritual harmony.</Description>
+			<Description>Uma formação cerimonial da Corte Celestial.  Ao formar essa formação, ela se desdobrará em uma morada primitiva dos seis deuses da Corte Celestial, transformando o Reino Mortal em um paraíso, concedendo harmonia espiritual às pessoas.</Description>
 			<NodeName.0>Jade Emperor Formation</NodeName.0>
 			<NodeName.1>Emperor of Polaris Formation</NodeName.1>
 			<NodeName.2>Emperor of North Star Formation</NodeName.2>
 			<NodeName.3>Primordial Unity Formation</NodeName.3>
 			<NodeName.4>Divine Longevity Formation</NodeName.4>
 			<NodeName.5>Emperor of Earth Formation</NodeName.5>
-			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>New Skill: Domain of Heavenly Serenity</SuitEffect.1.Description>
+			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Nova Habilidade: Domínio da Serenidade Celestial</SuitEffect.1.Description>
 		</Text>
 		<Text Name="longxingzhen">
 			<DisplayName>Dragonrider Formation</DisplayName>
-			<Description>A fascinating formation that utilizes the body of Flood Dragon as its foundation. It is said to be a dragon-controlling formation. When used, one can draw upon the power of dragon souls to perform miracles.</Description>
+			<Description>Uma formação fascinante que utiliza o corpo do Flood Dragon como base.  Diz-se que é uma formação controladora de dragões.  Quando usado, pode-se recorrer ao poder das almas do dragão para realizar milagres.</Description>
 			<NodeName.0>Dragon's Forbidden Scale</NodeName.0>
 			<NodeName.1>Dragon's Horn</NodeName.1>
 			<NodeName.2>Dragon's Horn</NodeName.2>
@@ -70,13 +70,13 @@
 			<NodeName.6>Dragon's Claw</NodeName.6>
 			<NodeName.7>Dragon's Claw</NodeName.7>
 			<NodeName.8>Dragon's Tail</NodeName.8>
-			<SuitEffect.0.Description>New Skill: Heavenspell of Dragon</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>New Skill: Divinity Obliteration</SuitEffect.2.Description>
+			<SuitEffect.0.Description>Nova Habilidade: Feitiço do Dragão</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Habilidade de Magia Aprimorada</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Nova habilidade: Obliteração da Divindade</SuitEffect.2.Description>
 		</Text>
 		<Text Name="fengjianzhen">
 			<DisplayName>Phoenix Sword Formation</DisplayName>
-			<Description>A fascinating formation that utilizes the body of Phoenix as its foundation. It is said to be a phoenix-controlling formation. When used, one can draw upon the power of phoenix souls to perform miracles.</Description>
+			<Description>Uma formação fascinante que utiliza o corpo de Phoenix como base.  Diz-se que é uma formação controladora da fênix.  Quando usado, pode-se recorrer ao poder das almas da fênix para realizar milagres.</Description>
 			<NodeName.0>Fire Jade</NodeName.0>
 			<NodeName.1>Oblivion Feather</NodeName.1>
 			<NodeName.2>Mantle Feather</NodeName.2>
@@ -86,30 +86,30 @@
 			<NodeName.6>Ethereal Bone</NodeName.6>
 			<NodeName.7>Blazing Feather</NodeName.7>
 			<NodeName.8>Blazing Feather</NodeName.8>
-			<SuitEffect.0.Description>New Skill: Divine Sword of Phoenix</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Artifact Mastery Ability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>New Skill: Nirvana</SuitEffect.2.Description>
+			<SuitEffect.0.Description>Nova Habilidade: Espada Divina da Fênix</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Nova habilidade: Nirvana</SuitEffect.2.Description>
 		</Text>
 		<Text Name="yinyangzhen">
 			<DisplayName>Yin Yang Formation</DisplayName>
-			<Description>A formation that drew its inspirations from the flow of energies between Heaven and Earth. It is said that this formation is used according to the laws of Yin and Yang. Utilizing the transformation of Yin and Yang, the formation becomes extremely flexible.</Description>
+			<Description>Uma formação que se inspirava no fluxo de energias entre o Céu e a Terra.  Diz-se que esta formação é usada de acordo com as leis do Yin e Yang.  Utilizando a transformação do Yin e Yang, a formação torna-se extremamente flexível.</Description>
 			<NodeName.0>Chaotic Creed of Heaven</NodeName.0>
 			<NodeName.1>Law of Yin</NodeName.1>
 			<NodeName.2>Law of Yang</NodeName.2>
-			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Operation Ability Enhanced</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Habilidade de Magia Aprimorada</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Capacidade de proteção aprimorada</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Capacidade de operação aprimorada</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Eficiência de Formação Aumentada</SuitEffect.4.Description>
 		</Text>
 		<Text Name="sanyinzhen">
 			<DisplayName>Dark Force Formation</DisplayName>
-			<Description>A formation used by utilizing the idea of the Three Talents: Heaven, Earth and Humanity. It is said to be capable of concentrating all the pure Yin energies of the world, which greatly enhances your power.</Description>
+			<Description>Uma formação utilizada utilizando a ideia dos Três Talentos: Céu, Terra e Humanidade.  Diz-se que é capaz de concentrar todas as energias Yin puras do mundo, o que aumenta muito seu poder.</Description>
 			<NodeName.0>Yin Force of Heaven</NodeName.0>
 			<NodeName.1>Yin Force of Earth</NodeName.1>
 			<NodeName.2>Yin Force of Human</NodeName.2>
-			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<SuitEffect.0.Description>Eficiência de Formação Aumentada</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Habilidade de Magia Aprimorada</SuitEffect.1.Description>
 		</Text>
 		<Text Name="bamen_ji">
 			<DisplayName>Abyssal Sword Formation: Auspicious</DisplayName>
@@ -117,7 +117,7 @@
 			<NodeName.0>Openness</NodeName.0>
 			<NodeName.1>Rest</NodeName.1>
 			<NodeName.2>Life</NodeName.2>
-			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
+			<SuitEffect.0.Description>Eficiência de Formação Aumentada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="bamen_xiong">
 			<DisplayName>Abyssal Sword Formation: Ominous</DisplayName>
@@ -125,14 +125,14 @@
 			<NodeName.0>Death</NodeName.0>
 			<NodeName.1>Menace</NodeName.1>
 			<NodeName.2>Damage</NodeName.2>
-			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="bamen_zhong">
 			<DisplayName>Abyssal Sword Formation: Central</DisplayName>
 			<Description>It is said to be a formation used according to the rules of the Eight Trigram Gates, making the formation more compact.</Description>
 			<NodeName.0>Seclusion</NodeName.0>
 			<NodeName.1>Beauty</NodeName.1>
-			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
+			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="jiayimushenzhen">
 			<DisplayName>Wood Spirit Formation</DisplayName>
@@ -142,21 +142,21 @@
 			<NodeName.2>Spirit Tree Leaf</NodeName.2>
 			<NodeName.3>Spirit Tree Trunk</NodeName.3>
 			<NodeName.4>Spirit Tree Root</NodeName.4>
-			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Operation Ability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>New Skill: Domain of Wood Essence</SuitEffect.2.Description>
+			<SuitEffect.0.Description>Eficiência de Formação Aumentada</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Capacidade de operação aprimorada</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Nova Habilidade: Domínio da Essência da Madeira</SuitEffect.2.Description>
 		</Text>
 		<Text Name="wuyuezhen">
 			<DisplayName>Convergence Formation</DisplayName>
-			<Description>A formation formed by the spiritual essence of the Five Peaks. When used, it will present the form of the Five Peaks to ward a location, rendering it indestructible.</Description>
+			<Description>Uma formação formada pela essência espiritual dos Cinco Picos.  Quando usado, apresentará a forma dos Cinco Picos para proteger um local, tornando-o indestrutível.</Description>
 			<NodeName.0>Shape of Emerald Peak</NodeName.0>
 			<NodeName.1>Shape of Precipice</NodeName.1>
 			<NodeName.2>Shape of Plain Isle</NodeName.2>
 			<NodeName.3>Shape of Sanctuary</NodeName.3>
 			<NodeName.4>Shape of Paradise</NodeName.4>
-			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Formation Efficiency Increased</SuitEffect.1.Description>
-			<SuitEffect.2.Description>New Skill: Domain of Five Peaks</SuitEffect.2.Description>
+			<SuitEffect.0.Description>Capacidade de proteção aprimorada</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Eficiência de Formação Aumentada</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Nova Habilidade: Domínio dos Cinco Picos</SuitEffect.2.Description>
 		</Text>
 	</List>
 </Texts>

@@ -1,22 +1,22 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Ls_FirstNoLing">
-			<DisplayName>Pet Qi Exhausted</DisplayName>
-			<Desc>The Qi of the pet has been exhausted. You have to build the corresponding statue in order to resurrect it, and the process of which will take three days.</Desc>
+			<DisplayName>Qi de Pet  esgotado</DisplayName>
+			<Desc>O Qi do animal de estimação foi esgotado. Você deve construir a estátua correspondente para ressuscitá-la, e o processo levará três dias.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_SecLs">
-			<DisplayName>Second Pet</DisplayName>
-			<Desc>You can only have one pet. This pet will disappear for a while. To summon this pet, you need to build its statue first.</Desc>
+			<DisplayName>Segundo Pet</DisplayName>
+			<Desc>Você só pode ter um animal de estimação. Este animal de estimação desaparecerá por um tempo. Para convocar este animal de estimação, você precisa primeiro construir sua estátua.</Desc>
 		</Text>
 		<Text Name="Ls_Outspread_Stability">
 			<DisplayName>Renowned Might</DisplayName>
-			<Desc>Floating dragon is flying high above, with dark clouds, lightning and thunders filling the sky. Those who have done wrongful acts shall be very afraid.</Desc>
+			<Desc>O dragão flutuante está voando alto, com nuvens escuras, raios e trovões enchendo o céu. Aqueles que cometeram atos ilícitos devem ter muito medo.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_Outspread_Attractive">
-			<DisplayName>Auspicious Signs</DisplayName>
-			<Desc>Dark Phoenix hovered in the sky for several days before it fell on top of the main hall, made three long cries and flew away. Most people believe that this is a very good Seven-Slaughtering.</Desc>
+			<DisplayName>Signos Auspiciosos</DisplayName>
+			<Desc>A Fênix Negra pairou no céu por vários dias antes de cair no topo do salão principal, dar três longos gritos e voar para longe. A maioria das pessoas acredita que este é um ótimo Seven-Slaughtering.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 	</List>

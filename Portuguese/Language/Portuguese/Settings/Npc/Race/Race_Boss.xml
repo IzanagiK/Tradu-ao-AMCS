@@ -1,35 +1,35 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Boss_Long">
-			<DisplayName>Flood Dragon</DisplayName>
-			<Desc>Ancient Beast: Flood Dragon</Desc>
-			<FightParts.0.DisplayName>Body</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>Tail</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>Horn</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>L-Front Claw</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>R-Front Claw</FightParts.4.DisplayName>
-			<FightParts.5.DisplayName>L-Hind Claw</FightParts.5.DisplayName>
-			<FightParts.6.DisplayName>R-Hind Claw</FightParts.6.DisplayName>
-			<FightParts.7.DisplayName>Forbidden Scale</FightParts.7.DisplayName>
+			<DisplayName>Dragão da Inundação</DisplayName>
+			<Desc>Besta Antiga: Dragão da Inundação</Desc>
+			<FightParts.0.DisplayName>Corpo</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Cauda</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>chifre</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Garra L-Frontal</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>R-Garra Frontal</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>L-Garra traseira</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>R-Garra traseira</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>Escala Proibida</FightParts.7.DisplayName>
 		</Text>
 		<Text Name="Boss_Feng">
-			<DisplayName>Phoenix</DisplayName>
-			<Desc>Ancient Beast: Phoenix</Desc>
-			<FightParts.0.DisplayName>Body</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>Crown Feather</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>L-Wing</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>R-Wing</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>Tail Feather</FightParts.4.DisplayName>
-			<FightParts.5.DisplayName>Solar Eye</FightParts.5.DisplayName>
+			<DisplayName>Fênix</DisplayName>
+			<Desc>Besta Antiga: Fênix</Desc>
+			<FightParts.0.DisplayName>Corpo</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Pena de coroa</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>L-Asa</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>R-Asa</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Pena de cauda</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Olho Solar</FightParts.5.DisplayName>
 		</Text>
 		<Text Name="Boss_Zhulong">
-			<DisplayName>Torch Dragon</DisplayName>
-			<Desc>Ancient Beast: Flood Dragon</Desc>
-			<FightParts.0.DisplayName>Body</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>Sky Scale</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>Dragon Jade</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>Left Eye</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>Right Eye</FightParts.4.DisplayName>
+			<DisplayName>Dragão da Tocha</DisplayName>
+			<Desc>Besta Antiga: Dragão da Inundação</Desc>
+			<FightParts.0.DisplayName>Corpo</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Escala do Céu</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Jade do Dragão</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Olho esquerdo</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Olho direito</FightParts.4.DisplayName>
 		</Text>
 	</List>
 </Texts>

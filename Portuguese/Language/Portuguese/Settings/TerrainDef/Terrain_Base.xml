@@ -2,46 +2,46 @@
 	<List>
 		<Text Name="TerrainBase">
 			<DisplayName>Terrain Foundation</DisplayName>
-			<StoryDesc>It happens upon the road</StoryDesc>
+			<StoryDesc>Acontece na estrada</StoryDesc>
 		</Text>
 		<Text Name="Null">
 			<DisplayName>Void</DisplayName>
 		</Text>
 		<Text Name="Soil">
 			<DisplayName>Soil</DisplayName>
-			<StoryDesc>It is on the area in which plants may be grown</StoryDesc>
+			<StoryDesc>É na área em que as plantas podem ser cultivadas</StoryDesc>
 		</Text>
 		<Text Name="Soil_Sand">
 			<DisplayName>Sand</DisplayName>
-			<StoryDesc>It is on the sandy area</StoryDesc>
+			<StoryDesc>É na área arenosa</StoryDesc>
 		</Text>
 		<Text Name="Mud">
 			<DisplayName>Mud</DisplayName>
-			<StoryDesc>It is on the muddy area</StoryDesc>
+			<StoryDesc>É na área lamacenta</StoryDesc>
 		</Text>
 		<Text Name="BlackB">
 			<DisplayName>Void</DisplayName>
-			<StoryDesc>It is in the Void</StoryDesc>
+			<StoryDesc>Está no Vazio</StoryDesc>
 		</Text>
 		<Text Name="WetLand">
 			<DisplayName>Wet Earth</DisplayName>
-			<StoryDesc>It is on the area with wet earth</StoryDesc>
+			<StoryDesc>É na área com terra molhada</StoryDesc>
 		</Text>
 		<Text Name="FertileSoil">
 			<DisplayName>Fertile Soil</DisplayName>
-			<StoryDesc>It is on the area in which plants may be grown</StoryDesc>
+			<StoryDesc>É na área em que as plantas podem ser cultivadas</StoryDesc>
 		</Text>
 		<Text Name="StoneLand">
 			<DisplayName>Rocky Terrain</DisplayName>
-			<StoryDesc>It is on the rugged, stony area</StoryDesc>
+			<StoryDesc>É na área acidentada e pedregosa</StoryDesc>
 		</Text>
 		<Text Name="SandLand">
 			<DisplayName>Sand</DisplayName>
-			<StoryDesc>It is on the rugged, stony area</StoryDesc>
+			<StoryDesc>É na área acidentada e cheia de pedras.</StoryDesc>
 		</Text>
 		<Text Name="LingSoil">
 			<DisplayName>Spirit Soil</DisplayName>
-			<StoryDesc>It is on the spiritual area surrounded by Qi</StoryDesc>
+			<StoryDesc>É na área espiritual cercada por Qi</StoryDesc>
 		</Text>
 		<Text Name="DepthDepthWater">
 			<DisplayName>Deep Water</DisplayName>
@@ -54,18 +54,18 @@
 		</Text>
 		<Text Name="ShallowWater">
 			<DisplayName>Shallow Water</DisplayName>
-			<StoryDesc>It is on the waterlogged yet shallow area</StoryDesc>
+			<StoryDesc>É na área alagada, mas rasa.</StoryDesc>
 		</Text>
 		<Text Name="BloodWater">
 			<DisplayName>Thin Blood</DisplayName>
-			<StoryDesc>It is on the usually comes from butchering creatures</StoryDesc>
+			<StoryDesc>É no geralmente vem de criaturas massacrantes</StoryDesc>
 		</Text>
 		<Text Name="DepthBloodWater">
 			<DisplayName>Deep Blood</DisplayName>
 		</Text>
 		<Text Name="LingWater">
 			<DisplayName>Spirit Water</DisplayName>
-			<StoryDesc>It is on the waterlogged yet shallow area</StoryDesc>
+			<StoryDesc>É na área alagada, mas rasa</StoryDesc>
 		</Text>
 		<Text Name="Sand">
 			<DisplayName>Sand</DisplayName>

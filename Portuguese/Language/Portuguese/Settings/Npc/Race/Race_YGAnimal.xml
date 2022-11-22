@@ -1,88 +1,88 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="YGRabbit">
-			<DisplayName>Rabbit Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Rabbit Yaoguai</Desc>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<DisplayName>Coelho Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Coelho Yaoguai</Desc>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="YGChicken">
-			<DisplayName>Chicken Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Chicken Yaoguai</Desc>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<DisplayName>Frango Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Frango Yaoguai</Desc>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 			<TalkBefore>Chirp,</TalkBefore>
 			<TalkAfter>chirp!</TalkAfter>
 		</Text>
 		<Text Name="YGWolf">
-			<DisplayName>Wolf Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Wolf Yaoguai</Desc>
+			<DisplayName>Lobo Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Lobo Yaoguai</Desc>
 			<TalkBefore>Howl,</TalkBefore>
 			<TalkAfter>owooo!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="YGSnake">
-			<DisplayName>Snake Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Snake Yaoguai</Desc>
+			<DisplayName>Cobra Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Cobra Yaoguai</Desc>
 			<TalkBefore>Sssss,</TalkBefore>
 			<TalkAfter>sssss</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="YGBoar">
-			<DisplayName>Boar Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Boar Yaoguai</Desc>
+			<DisplayName>Javali Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Javali Yaoguai</Desc>
 			<TalkBefore>Oink,</TalkBefore>
 			<TalkAfter>oink</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="YGBear">
-			<DisplayName>Bear Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Bear Yaoguai</Desc>
+			<DisplayName>Urso Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Urso Yaoguai</Desc>
 			<TalkBefore>Howl,</TalkBefore>
 			<TalkAfter>growl</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="YGTurtle">
-			<DisplayName>Turtle Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Turtle Yaoguai</Desc>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<DisplayName>Tartaruga Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Tartaruga Yaoguai</Desc>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="YGFrog">
-			<DisplayName>Frog Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Frog Yaoguai</Desc>
+			<DisplayName>Rã Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Rã Yaoguai</Desc>
 			<TalkBefore>Croak,</TalkBefore>
 			<TalkAfter>croak</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="YGCat">
-			<DisplayName>Cat Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Cat Yaoguai</Desc>
+			<DisplayName>Gato Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Gato Yaoguai</Desc>
 			<TalkBefore>Meow,</TalkBefore>
 			<TalkAfter>meow</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="YGCattle">
-			<DisplayName>Bull Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Bull Yaoguai</Desc>
+			<DisplayName>Touro Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Touro Yaoguai</Desc>
 			<TalkBefore>Moo,</TalkBefore>
 			<TalkAfter>moo!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 		<Text Name="YGTiger">
-			<DisplayName>Tiger Yaoguai</DisplayName>
-			<Desc>Animal transformed into Yaoguai due to awakened intelligence: Tiger Yaoguai</Desc>
+			<DisplayName>Tigre Yaoguai</DisplayName>
+			<Desc>Animal transformado em Yaoguai devido à inteligência desperta: Tigre Yaoguai</Desc>
 			<TalkBefore>Growl~</TalkBefore>
 			<TalkAfter>growl!</TalkAfter>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<MaleName>Macho</MaleName>
+			<FemaleName>Fêmea</FemaleName>
 		</Text>
 	</List>
 </Texts>

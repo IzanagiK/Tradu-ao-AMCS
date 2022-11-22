@@ -1,23 +1,23 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="DiMuWish">
-			<DisplayName>Worship</DisplayName>
-			<Desc>Offer Spirit Stones to Earthmother Shrine</Desc>
-			<Selections.0.Display>Wish: Spirit Stones</Selections.0.Display>
-			<Selections.1.Display>Wish: Nature</Selections.1.Display>
+			<DisplayName>Adoração</DisplayName>
+			<Desc>Ofereça Pedras Espirituais ao Santuário Mãe-Terra</Desc>
+			<Selections.0.Display>Desejo: Pedras Espirituais</Selections.0.Display>
+			<Selections.1.Display>Desejo: Natureza</Selections.1.Display>
 		</Text>
 		<Text Name="YinYangCanWu">
-			<DisplayName>Yin Yang Inspiration</DisplayName>
-			<Desc>The Yin Yang Rock contains the rule of Yin and Yang. Meditate on it to gain an insight into cultivation practice.</Desc>
-			<Selections.0.Display>Yin Yang Inspiration</Selections.0.Display>
-			<Selections.1.Display>Nothing happened...</Selections.1.Display>
+			<DisplayName>Inspiração Yin Yang</DisplayName>
+			<Desc>A Rocha Yin Yang contém a regra do Yin e Yang. Medite sobre isso para obter uma visão da prática de cultivo.</Desc>
+			<Selections.0.Display>Inspiração Yin Yang</Selections.0.Display>
+			<Selections.1.Display>Nada aconteceu...</Selections.1.Display>
 		</Text>
 		<Text Name="FeelQi">
-			<DisplayName>Feel Qi</DisplayName>
-			<Desc>There are some incredible Qi surrounding the Illumitree, which can resonate
- with cultivators.</Desc>
-			<Selections.0.Display>Feel Qi</Selections.0.Display>
-			<Selections.1.Display>Nothing happened...</Selections.1.Display>
+			<DisplayName>Sinta o Qi</DisplayName>
+			<Desc>Existem alguns Qi incríveis ao redor do Illumitree, que podem ressoar
+  com cultivadores.</Desc>
+			<Selections.0.Display>Sinta o Qi</Selections.0.Display>
+			<Selections.1.Display>Nada aconteceu...</Selections.1.Display>
 		</Text>
 	</List>
 </Texts>

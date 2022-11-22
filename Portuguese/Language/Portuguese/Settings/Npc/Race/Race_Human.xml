@@ -1,16 +1,16 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Human">
-			<DisplayName>Human</DisplayName>
-			<Desc>Common Animal: Human</Desc>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<DisplayName>Humano</DisplayName>
+			<Desc>Animal Comum: Humano</Desc>
+			<MaleName>Masculino</MaleName>
+			<FemaleName>Feminino</FemaleName>
 		</Text>
 		<Text Name="Human_JGZT">
-			<DisplayName>Sentient Spirit</DisplayName>
-			<Desc>Collective term for objects/buildings/plants that accidentally become illuminated and shapeshifted into human form.</Desc>
-			<MaleName>Male</MaleName>
-			<FemaleName>Female</FemaleName>
+			<DisplayName>Espírito Sensível</DisplayName>
+			<Desc>Termo coletivo para objetos/edifícios/plantas que acidentalmente se iluminam e se transformam em forma humana.</Desc>
+			<MaleName>Masculino</MaleName>
+			<FemaleName>Feminino</FemaleName>
 		</Text>
 	</List>
 </Texts>

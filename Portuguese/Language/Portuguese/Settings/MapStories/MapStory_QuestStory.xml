@@ -1,22 +1,22 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Story_QuestStory_Item_ShangGuYiWenLu">
-			<DisplayName>Examine scroll</DisplayName>
-			<Desc>[NAME] studied the scroll carefully.</Desc>
-			<Selections.0.Display>Read</Selections.0.Display>
-			<Selections.1.Display>Use the Ancient Seal to decipher</Selections.1.Display>
+			<DisplayName>Examinar Pergaminho</DisplayName>
+			<Desc>[NAME] estudou cuidadosamente o pergaminho.</Desc>
+			<Selections.0.Display>Ler</Selections.0.Display>
+			<Selections.1.Display>Use o selo antigo para decifrar</Selections.1.Display>
 		</Text>
 		<Text Name="Story_QuestStory_Item_TaiYiMiDian">
-			<DisplayName>Examine Book</DisplayName>
-			<Desc>[NAME] examined the book.</Desc>
-			<Selections.0.Display>Read</Selections.0.Display>
-			<Selections.1.Display>Use the Universe Seal to decipher</Selections.1.Display>
+			<DisplayName>Examinar Livro</DisplayName>
+			<Desc>[NAME] examinou o livro.</Desc>
+			<Selections.0.Display>Ler</Selections.0.Display>
+			<Selections.1.Display>Use o Universe Seal para decifrar</Selections.1.Display>
 		</Text>
 		<Text Name="Story_QuestStory_Item_JinChuanCanJuan">
-			<DisplayName>Examine the fragments</DisplayName>
-			<Desc>[NAME] tried to examine the Fragment of the Golden Casket Scroll.</Desc>
+			<DisplayName>Examinar os Fragmentos</DisplayName>
+			<Desc>[NAME] tentou examinar o Fragmento do Pergaminho do Golden Casket.</Desc>
 			<Selections.0.Display>Examine</Selections.0.Display>
-			<Selections.1.Display>Use the Primitive Seal to decipher</Selections.1.Display>
+			<Selections.1.Display>Use o Primitive Seal para decifrar</Selections.1.Display>
 		</Text>
 	</List>
 </Texts>

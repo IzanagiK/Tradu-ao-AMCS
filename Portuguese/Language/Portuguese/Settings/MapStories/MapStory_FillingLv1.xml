@@ -1,269 +1,269 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="TESTALL">
-			<DisplayName>Birth of Sages</DisplayName>
-			<Desc>Since the beginning of the Thousand-Year Tide, Ancient Cultivators have been popping up all over the place. Gather as much information as possible, there are already multiple sages being born in this world.</Desc>
-			<Selections.0.Display>Birth of Sages</Selections.0.Display>
+			<DisplayName>Nascimento dos Sábios</DisplayName>
+			<Desc>Desde o início da Maré de Mil Anos, Cultivadores Antigos estão surgindo por toda parte. Reúna o máximo de informações possível, já existem vários sábios nascendo neste mundo.</Desc>
+			<Selections.0.Display>Nascimento dos Sábios</Selections.0.Display>
 		</Text>
 		<Text Name="BaseFillingStory">
-			<DamageCache.0.DescTags>Artifact Smash</DamageCache.0.DescTags>
-			<DamageCache.1.DescTags>Artifact Smash</DamageCache.1.DescTags>
-			<DamageCache.2.DescTags>Artifact Smash</DamageCache.2.DescTags>
-			<DamageCache.3.DescTags>Artifact Smash</DamageCache.3.DescTags>
-			<DamageCache.4.DescTags>Artifact Smash</DamageCache.4.DescTags>
-			<DamageCache.5.DescTags>Artifact Smash</DamageCache.5.DescTags>
-			<DamageCache.6.DescTags>Artifact Smash</DamageCache.6.DescTags>
-			<DamageCache.7.DescTags>Artifact Smash</DamageCache.7.DescTags>
-			<DamageCache.8.DescTags>Artifact Smash</DamageCache.8.DescTags>
-			<DamageCache.9.DescTags>Artifact Smash</DamageCache.9.DescTags>
-			<DamageCache.10.DescTags>Metal Damage</DamageCache.10.DescTags>
-			<DamageCache.11.DescTags>Metal Damage</DamageCache.11.DescTags>
-			<DamageCache.12.DescTags>Metal Damage</DamageCache.12.DescTags>
-			<DamageCache.13.DescTags>Metal Damage</DamageCache.13.DescTags>
-			<DamageCache.14.DescTags>Metal Damage</DamageCache.14.DescTags>
-			<DamageCache.15.DescTags>Wood Damage</DamageCache.15.DescTags>
-			<DamageCache.16.DescTags>Wood Damage</DamageCache.16.DescTags>
-			<DamageCache.17.DescTags>Wood Damage</DamageCache.17.DescTags>
-			<DamageCache.18.DescTags>Wood Damage</DamageCache.18.DescTags>
-			<DamageCache.19.DescTags>Wood Damage</DamageCache.19.DescTags>
-			<DamageCache.20.DescTags>Wood Damage</DamageCache.20.DescTags>
-			<DamageCache.21.DescTags>Water Damage</DamageCache.21.DescTags>
-			<DamageCache.22.DescTags>Water Damage</DamageCache.22.DescTags>
-			<DamageCache.23.DescTags>Water Damage</DamageCache.23.DescTags>
-			<DamageCache.24.DescTags>Water Damage</DamageCache.24.DescTags>
-			<DamageCache.25.DescTags>Water Damage</DamageCache.25.DescTags>
-			<DamageCache.26.DescTags>Fire Damage</DamageCache.26.DescTags>
-			<DamageCache.27.DescTags>Fire Damage</DamageCache.27.DescTags>
-			<DamageCache.28.DescTags>Fire Damage</DamageCache.28.DescTags>
-			<DamageCache.29.DescTags>Fire Damage</DamageCache.29.DescTags>
-			<DamageCache.30.DescTags>Fire Damage</DamageCache.30.DescTags>
-			<DamageCache.31.DescTags>Earth Damage</DamageCache.31.DescTags>
-			<DamageCache.32.DescTags>Earth Damage</DamageCache.32.DescTags>
-			<DamageCache.33.DescTags>Earth Damage</DamageCache.33.DescTags>
-			<DamageCache.34.DescTags>Earth Damage</DamageCache.34.DescTags>
-			<DamageCache.35.DescTags>Earth Damage</DamageCache.35.DescTags>
-			<DamageCache.36.DescTags>Earth Damage</DamageCache.36.DescTags>
+			<DamageCache.0.DescTags>Quebra de Artefato</DamageCache.0.DescTags>
+			<DamageCache.1.DescTags>Quebra de Artefato</DamageCache.1.DescTags>
+			<DamageCache.2.DescTags>Quebra de Artefato</DamageCache.2.DescTags>
+			<DamageCache.3.DescTags>Quebra de Artefato</DamageCache.3.DescTags>
+			<DamageCache.4.DescTags>Quebra de Artefato</DamageCache.4.DescTags>
+			<DamageCache.5.DescTags>Quebra de Artefato</DamageCache.5.DescTags>
+			<DamageCache.6.DescTags>Quebra de Artefato</DamageCache.6.DescTags>
+			<DamageCache.7.DescTags>Quebra de Artefato</DamageCache.7.DescTags>
+			<DamageCache.8.DescTags>Quebra de Artefato</DamageCache.8.DescTags>
+			<DamageCache.9.DescTags>Quebra de Artefato</DamageCache.9.DescTags>
+			<DamageCache.10.DescTags>Danos de Metal</DamageCache.10.DescTags>
+			<DamageCache.11.DescTags>Danos de Metal</DamageCache.11.DescTags>
+			<DamageCache.12.DescTags>Danos de Metal</DamageCache.12.DescTags>
+			<DamageCache.13.DescTags>Danos de Metal</DamageCache.13.DescTags>
+			<DamageCache.14.DescTags>Danos de Metal</DamageCache.14.DescTags>
+			<DamageCache.15.DescTags>Danos de Madeira</DamageCache.15.DescTags>
+			<DamageCache.16.DescTags>Danos de Madeira</DamageCache.16.DescTags>
+			<DamageCache.17.DescTags>Danos de Madeira</DamageCache.17.DescTags>
+			<DamageCache.18.DescTags>Danos de Madeira</DamageCache.18.DescTags>
+			<DamageCache.19.DescTags>Danos de Madeira</DamageCache.19.DescTags>
+			<DamageCache.20.DescTags>Danos de Madeira</DamageCache.20.DescTags>
+			<DamageCache.21.DescTags>Danos de Água</DamageCache.21.DescTags>
+			<DamageCache.22.DescTags>Danos de Água</DamageCache.22.DescTags>
+			<DamageCache.23.DescTags>Danos de Água</DamageCache.23.DescTags>
+			<DamageCache.24.DescTags>Danos de Água</DamageCache.24.DescTags>
+			<DamageCache.25.DescTags>Danos de Água</DamageCache.25.DescTags>
+			<DamageCache.26.DescTags>Danos de Fogo</DamageCache.26.DescTags>
+			<DamageCache.27.DescTags>Danos de Fogo</DamageCache.27.DescTags>
+			<DamageCache.28.DescTags>Danos de Fogo</DamageCache.28.DescTags>
+			<DamageCache.29.DescTags>Danos de Fogo</DamageCache.29.DescTags>
+			<DamageCache.30.DescTags>Danos de Fogo</DamageCache.30.DescTags>
+			<DamageCache.31.DescTags>Dano de Terra</DamageCache.31.DescTags>
+			<DamageCache.32.DescTags>Dano de Terra</DamageCache.32.DescTags>
+			<DamageCache.33.DescTags>Dano de Terra</DamageCache.33.DescTags>
+			<DamageCache.34.DescTags>Dano de Terra</DamageCache.34.DescTags>
+			<DamageCache.35.DescTags>Dano de Terra</DamageCache.35.DescTags>
+			<DamageCache.36.DescTags>Dano de Terra</DamageCache.36.DescTags>
 		</Text>
 		<Text Name="Free_Base">
-			<DisplayName>Wander</DisplayName>
-			<Desc>[NAME] discovered a place with some nice vistas, put [ITS] artifact away and went to take in the scenery.</Desc>
+			<DisplayName>Vaguear</DisplayName>
+			<Desc>[NAME] descobri um lugar com belas vistas, coloquei[ITS] artefato afastado e foi apreciar a paisagem.</Desc>
 		</Text>
 		<Text Name="Free_1">
-			<DisplayName>Drink Tea</DisplayName>
-			<Desc>[NAME] passed by a small town, felt a bit fatigued and so, putting on the look of a commoner, and stopped by to rest up at the local teahouse.</Desc>
+			<DisplayName>Beba chá</DisplayName>
+			<Desc>[NAME] passou por uma pequena cidade, sentiu-se um pouco cansado e assim, fazendo cara de plebeu, e parou para descansar na casa de chá local.</Desc>
 		</Text>
 		<Text Name="Free_2">
-			<DisplayName>Rest</DisplayName>
-			<Desc>[NAME] felt a bit tired along the way and decided to take a nap underneath a tree.</Desc>
+			<DisplayName>Descanso</DisplayName>
+			<Desc>[NAME] sentiu um pouco de cansaço ao longo do caminho e decidiu tirar uma soneca debaixo de uma árvore.</Desc>
 		</Text>
 		<Text Name="Join_Base">
-			<DisplayName>Attune Immortal Destiny</DisplayName>
-			<Desc>[NAME] came across some commoners that had committed themselves to the Tao and so informed the commoners the location of [ITS] School and then headed on.</Desc>
+			<DisplayName>Sintonize Destino Imortal</DisplayName>
+			<Desc>[NAME] encontrou alguns plebeus que se comprometeram com o Tao e, assim, informaram aos plebeus a localização da Escola [ITS] e depois seguiram em frente.</Desc>
 		</Text>
 		<Text Name="Kidnap_Base">
-			<DisplayName>Kidnap mortals</DisplayName>
-			<Desc>[NAME] performed a miracle and then Kidnapped a few mortals.</Desc>
+			<DisplayName>Raptar mortais</DisplayName>
+			<Desc>[NAME] realizou um milagre e depois sequestrou alguns mortais.</Desc>
 		</Text>
 		<Text Name="Join_1">
-			<DisplayName>Attune Immortal Destiny</DisplayName>
-			<Desc>[NAME] discovered an incredibly talented young individual and revealed a miracle to them in their dream, giving an Immortal Destiny to this commoner. If this disciple decides to seek longevity by following the Tao, they will probably arrive at the Order's gate within a day or two.</Desc>
+			<DisplayName>Sintonize Destino Imortal</DisplayName>
+			<Desc>[NAME] descobriu um jovem incrivelmente talentoso e revelou um milagre para eles em seu sonho, dando um Destino Imortal a esse plebeu. Se este discípulo decidir buscar a longevidade seguindo o Tao, provavelmente chegará ao portão da Ordem dentro de um ou dois dias.</Desc>
 		</Text>
 		<Text Name="Join_2">
-			<DisplayName>Attune Immortal Destiny</DisplayName>
-			<Desc>[NAME] came across a vendetta once every blue moon. Upon seeing a person that was being hunted down and realizing that they their fate seemed to be bound to the School, [NAME] cast a spell to save them and directed them to the School.</Desc>
+			<DisplayName>Sintonize Destino Imortal</DisplayName>
+			<Desc>[NAME] me deparei com uma vingança uma vez a cada lua azul. Ao ver uma pessoa que estava sendo caçada e perceber que seu destino parecia estar ligado à Escola, [NAME] lançou um feitiço para salvá-la e a direcionou para a Escola.</Desc>
 		</Text>
 		<Text Name="Visit_Base">
-			<DisplayName>Chance Encounter</DisplayName>
-			<Desc>[NAME] came across a group of [SCHOOL]'s disciples that came to greet [ENHIM] while out on the road.</Desc>
-			<Selections.0.Display>Proceed</Selections.0.Display>
-			<Selections.1.Display>Amicable Chat</Selections.1.Display>
-			<Selections.2.Display>Small Talk</Selections.2.Display>
-			<Selections.3.Display>Taunt</Selections.3.Display>
-			<Selections.4.Display>Taunt</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
-			<Selections.6.Display>Provoke</Selections.6.Display>
-			<Selections.6.Tip>Golden Core</Selections.6.Tip>
-			<Selections.7.Display>Provoke</Selections.7.Display>
-			<Selections.7.Tip>Golden Core</Selections.7.Tip>
-			<Selections.8.Display>Ignore</Selections.8.Display>
-			<Selections.8.Tip>Golden Core</Selections.8.Tip>
-			<Selections.9.Display>Ignore</Selections.9.Display>
-			<Selections.9.Tip>Golden Core</Selections.9.Tip>
+			<DisplayName>Encontro de Oportunidades</DisplayName>
+			<Desc>[NAME] deparei com um grupo de [SCHOOL]'s discípulos que vieram cumprimentar [ENHIM] enquanto estava na estrada.</Desc>
+			<Selections.0.Display>Prosseguir</Selections.0.Display>
+			<Selections.1.Display>Bate-papo amigável</Selections.1.Display>
+			<Selections.2.Display>Conversa fiada</Selections.2.Display>
+			<Selections.3.Display>zombar</Selections.3.Display>
+			<Selections.4.Display>zombar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
+			<Selections.6.Display>Provocar</Selections.6.Display>
+			<Selections.6.Tip>Núcleo Dourado</Selections.6.Tip>
+			<Selections.7.Display>Provocar</Selections.7.Display>
+			<Selections.7.Tip>Núcleo Dourado</Selections.7.Tip>
+			<Selections.8.Display>Ignorar</Selections.8.Display>
+			<Selections.8.Tip>Núcleo Dourado</Selections.8.Tip>
+			<Selections.9.Display>Ignorar</Selections.9.Display>
+			<Selections.9.Tip>Núcleo Dourado</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_1">
-			<DisplayName>Chance Encounter</DisplayName>
-			<Desc>[NAME] happened upon an elder of [SCHOOL] while walking down the road.</Desc>
-			<Selections.0.Display>Proceed</Selections.0.Display>
-			<Selections.1.Display>Visit</Selections.1.Display>
-			<Selections.2.Display>Small Talk</Selections.2.Display>
-			<Selections.3.Display>Sneak Attack</Selections.3.Display>
-			<Selections.3.Tip>Golden Core</Selections.3.Tip>
-			<Selections.4.Display>Sneak Attack</Selections.4.Display>
-			<Selections.4.Tip>Golden Core</Selections.4.Tip>
+			<DisplayName>Encontro de Oportunidades</DisplayName>
+			<Desc>[NAME] aconteceu com um ancião de [SCHOOL] enquanto caminhava pela estrada.</Desc>
+			<Selections.0.Display>Prosseguir</Selections.0.Display>
+			<Selections.1.Display>Visitar</Selections.1.Display>
+			<Selections.2.Display>Conversa fiada</Selections.2.Display>
+			<Selections.3.Display>Ataque furtivo</Selections.3.Display>
+			<Selections.3.Tip>Núcleo Dourado</Selections.3.Tip>
+			<Selections.4.Display>Ataque furtivo</Selections.4.Display>
+			<Selections.4.Tip>Núcleo Dourado</Selections.4.Tip>
 			<Selections.5.Display>Attack</Selections.5.Display>
-			<Selections.5.Tip>Golden Core</Selections.5.Tip>
-			<Selections.6.Display>Ignore</Selections.6.Display>
-			<Selections.7.Display>Provoke</Selections.7.Display>
-			<Selections.7.Tip>Golden Core</Selections.7.Tip>
-			<Selections.8.Display>Provoke</Selections.8.Display>
-			<Selections.8.Tip>Golden Core</Selections.8.Tip>
-			<Selections.9.Display>Ignore</Selections.9.Display>
-			<Selections.9.Tip>Golden Core</Selections.9.Tip>
-			<Selections.10.Display>Ignore</Selections.10.Display>
-			<Selections.10.Tip>Golden Core</Selections.10.Tip>
+			<Selections.5.Tip>Núcleo Dourado</Selections.5.Tip>
+			<Selections.6.Display>Ignorar</Selections.6.Display>
+			<Selections.7.Display>Provocar</Selections.7.Display>
+			<Selections.7.Tip>Núcleo Dourado</Selections.7.Tip>
+			<Selections.8.Display>Provocar</Selections.8.Display>
+			<Selections.8.Tip>Núcleo Dourado</Selections.8.Tip>
+			<Selections.9.Display>Ignorar</Selections.9.Display>
+			<Selections.9.Tip>Núcleo Dourado</Selections.9.Tip>
+			<Selections.10.Display>Ignorar</Selections.10.Display>
+			<Selections.10.Tip>Núcleo Dourado</Selections.10.Tip>
 		</Text>
 		<Text Name="Visit_2">
-			<DisplayName>Visit the mountain School</DisplayName>
-			<Desc>[NAME] was hurrying along when realized that the mountain school of [SCHOOL] was nearby.</Desc>
+			<DisplayName>Visite a escola da montanha</DisplayName>
+			<Desc>[NAME] estava correndo quando percebeu que a escola da montanha de [SCHOOL] estava próximo.</Desc>
 			<Selections.0.Display>Enter</Selections.0.Display>
-			<Selections.1.Display>Visit the Sect Leader</Selections.1.Display>
-			<Selections.2.Display>Visit the Sect Leader</Selections.2.Display>
-			<Selections.3.Display>Entrusted by the Skydome Palace</Selections.3.Display>
-			<Selections.4.Display>Secret of the Thunderclap Cave</Selections.4.Display>
-			<Selections.5.Display>Visit</Selections.5.Display>
-			<Selections.6.Display>Visit</Selections.6.Display>
-			<Selections.7.Display>Visit</Selections.7.Display>
-			<Selections.8.Display>Visit</Selections.8.Display>
-			<Selections.9.Display>Visit</Selections.9.Display>
-			<Selections.9.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.9.Tip>
-			<Selections.10.Display>Sneak in</Selections.10.Display>
-			<Selections.10.Tip>Primordial Spirit state and Luck is high</Selections.10.Tip>
-			<Selections.11.Display>Ignore</Selections.11.Display>
+			<Selections.1.Display>Visite o Líder da Seita</Selections.1.Display>
+			<Selections.2.Display>Visite o Líder da Seita</Selections.2.Display>
+			<Selections.3.Display>Confiado pelo Palácio Skydome</Selections.3.Display>
+			<Selections.4.Display>Segredo da Caverna do Trovão</Selections.4.Display>
+			<Selections.5.Display>Visitar</Selections.5.Display>
+			<Selections.6.Display>Visitar</Selections.6.Display>
+			<Selections.7.Display>Visitar</Selections.7.Display>
+			<Selections.8.Display>Visitar</Selections.8.Display>
+			<Selections.9.Display>Visitar</Selections.9.Display>
+			<Selections.9.Tip>O Espírito Primordial ou ambas as partes têm que ter um bom relacionamento.</Selections.9.Tip>
+			<Selections.10.Display>Esgueirar-se em</Selections.10.Display>
+			<Selections.10.Tip>Estado de Espírito Primordial e Sorte é alta</Selections.10.Tip>
+			<Selections.11.Display>Ignorar</Selections.11.Display>
 		</Text>
 		<Text Name="Story_Base">
-			<DisplayName>The Mortal Realm</DisplayName>
-			<Desc>[NAME] passed by a small city, took on a worldly sentiment and so decided to take on the appearance of a commoner and disappeared on into the city.</Desc>
-			<Selections.0.Display>Enjoy the Mortal Realm</Selections.0.Display>
-			<Selections.1.Display>Throw the Mortal Realm into disorder</Selections.1.Display>
-			<Selections.2.Display>Leave</Selections.2.Display>
+			<DisplayName>O Reino Mortal</DisplayName>
+			<Desc>[NAME] passou por uma pequena cidade, assumiu um sentimento mundano e assim decidiu assumir a aparência de um plebeu e desapareceu na cidade.</Desc>
+			<Selections.0.Display>Aproveite o Reino Mortal</Selections.0.Display>
+			<Selections.1.Display>Lançar o Reino Mortal em desordem</Selections.1.Display>
+			<Selections.2.Display>Sair</Selections.2.Display>
 		</Text>
 		<Text Name="Story_1">
-			<DisplayName>The Mortal Realm</DisplayName>
-			<Desc>[NAME] noticed there was an old woman polishing an iron rod by the riverside.</Desc>
-			<Selections.0.Display>Inquire (Good Intent)</Selections.0.Display>
-			<Selections.1.Display>You gained some understanding.</Selections.1.Display>
-			<Selections.2.Display>Inquire (Evil Intent)</Selections.2.Display>
-			<Selections.3.Display>Her again.</Selections.3.Display>
-			<Selections.4.Display>Her again.</Selections.4.Display>
-			<Selections.5.Display>Her again.</Selections.5.Display>
+			<DisplayName>O Reino Mortal</DisplayName>
+			<Desc>[NAME] notei que havia uma velha polindo uma barra de ferro à beira do rio.</Desc>
+			<Selections.0.Display>Informe-se (Boa Intenção)</Selections.0.Display>
+			<Selections.1.Display>Você ganhou um pouco de compreensão.</Selections.1.Display>
+			<Selections.2.Display>Inquirir (Intenção Maligna)</Selections.2.Display>
+			<Selections.3.Display>Ela de novo.</Selections.3.Display>
+			<Selections.4.Display>Ela de novo.</Selections.4.Display>
+			<Selections.5.Display>Ela de novo.</Selections.5.Display>
 		</Text>
 		<Text Name="Story_2">
-			<DisplayName>The Mortal Realm</DisplayName>
-			<Desc>[NAME] seemed to be destined to come across this scenic spot suffused with natural beauty. Overcome with awe, [IT] sat down right there and didn't know if it would be possible to have an epiphany.</Desc>
-			<Selections.0.Display>Profound Inspiration</Selections.0.Display>
-			<Selections.0.Tip>Intelligence</Selections.0.Tip>
-			<Selections.1.Display>Absorb Qi</Selections.1.Display>
+			<DisplayName>O Reino Mortal</DisplayName>
+			<Desc>[NAME] parecia estar destinado a encontrar este local cénico repleto de belezas naturais. Superado com admiração,[IT] sentou-se ali mesmo e não sabia se seria possível ter uma epifania.</Desc>
+			<Selections.0.Display>Inspiração Profunda</Selections.0.Display>
+			<Selections.0.Tip>Inteligência</Selections.0.Tip>
+			<Selections.1.Display>Absorver Qi</Selections.1.Display>
 		</Text>
 		<Text Name="Story_3">
-			<DisplayName>The Mortal Realm</DisplayName>
-			<Desc>[NAME] saw two peculiar beasts fighting in the air from time to time. Both beasts seemed to be performing unnatural feats, it was as if it were a battle between beasts from another world. [NAME] was excited and intrigued for it seemed that the battle between these two beasts hid some mystery.</Desc>
-			<Selections.0.Display>Imitate the strange beasts</Selections.0.Display>
-			<Selections.0.Tip>Perception</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<DisplayName>O Reino Mortal</DisplayName>
+			<Desc>[NAME] viu duas feras peculiares lutando no ar de tempos em tempos. Ambas as bestas pareciam estar realizando feitos sobrenaturais, era como se fosse uma batalha entre bestas de outro mundo. [NAME] estava excitado e intrigado, pois parecia que a batalha entre essas duas feras escondia algum mistério.</Desc>
+			<Selections.0.Display>Imite as estranhas bestas</Selections.0.Display>
+			<Selections.0.Tip>Percepção</Selections.0.Tip>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="GoodFight_Base">
-			<DisplayName>Plagues wreak havoc</DisplayName>
-			<Desc>[NAME] passed by a town and discovered that plagues wreak havoc in this place. At the entrance to the city it seems that there are some cultivators helping out the townspeople to control the plague. The situation keeps getting worse though, it seems like they won't be able to control it.</Desc>
-			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.1.Display>Help out insincerely</Selections.1.Display>
-			<Selections.1.Tip>Qi Shaping</Selections.1.Tip>
-			<Selections.2.Display>Help out insincerely</Selections.2.Display>
-			<Selections.2.Tip>core shaping</Selections.2.Tip>
-			<Selections.3.Display>Ignore</Selections.3.Display>
+			<DisplayName>Pragas causam destruição</DisplayName>
+			<Desc>[NAME] passou por uma cidade e descobriu que as pragas causam estragos neste lugar. Na entrada da cidade parece que existem alguns cultivadores ajudando os habitantes da cidade a controlar a praga. A situação continua piorando, porém, parece que eles não serão capazes de controlá-la.</Desc>
+			<Selections.0.Display>Ajudar</Selections.0.Display>
+			<Selections.1.Display>Ajudar sem sinceridade</Selections.1.Display>
+			<Selections.1.Tip>Modelagem de Qi</Selections.1.Tip>
+			<Selections.2.Display>Ajudar sem sinceridade</Selections.2.Display>
+			<Selections.2.Tip>modelagem do núcleo</Selections.2.Tip>
+			<Selections.3.Display>Ignorar</Selections.3.Display>
 		</Text>
 		<Text Name="GoodFight_1">
-			<DisplayName>Battle between Justice and Evil</DisplayName>
-			<Desc>[NAME] sees flashes of light as if off swords in the distance, it would seem that there are people fighting.</Desc>
-			<Selections.0.Display>Attack Evil Sect Disciple</Selections.0.Display>
-			<Selections.0.Tip>core shaping</Selections.0.Tip>
-			<Selections.1.Display>Attack Evil Sect Disciple</Selections.1.Display>
-			<Selections.1.Tip>core shaping</Selections.1.Tip>
-			<Selections.2.Display>Attack Just Sect Disciple</Selections.2.Display>
-			<Selections.2.Tip>core shaping</Selections.2.Tip>
-			<Selections.3.Display>Attack Just Sect Disciple</Selections.3.Display>
-			<Selections.3.Tip>core shaping</Selections.3.Tip>
-			<Selections.4.Display>Ignore</Selections.4.Display>
+			<DisplayName>Batalha entre a Justiça e o Mal</DisplayName>
+			<Desc>[NAME] vê flashes de luz como se fossem espadas à distância, parece que há pessoas lutando.</Desc>
+			<Selections.0.Display>Atacar Discípulo da Seita do Mal</Selections.0.Display>
+			<Selections.0.Tip>modelagem do núcleo</Selections.0.Tip>
+			<Selections.1.Display>Atacar Discípulo da Seita do Mal</Selections.1.Display>
+			<Selections.1.Tip>modelagem do núcleo</Selections.1.Tip>
+			<Selections.2.Display>Atacar Discípulo da Seita Justa</Selections.2.Display>
+			<Selections.2.Tip>modelagem do núcleo</Selections.2.Tip>
+			<Selections.3.Display>Atacar Discípulo da Seita Justa</Selections.3.Display>
+			<Selections.3.Tip>modelagem do núcleo</Selections.3.Tip>
+			<Selections.4.Display>Ignorar</Selections.4.Display>
 		</Text>
 		<Text Name="BadFight_Base">
-			<DisplayName>Evil Array Refines the Soul</DisplayName>
-			<Desc>[NAME] passed by a town and discovered that resentment abounded in this place. It seems like someone is practicing dark arts.</Desc>
-			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.1.Display>Help out insincerely</Selections.1.Display>
-			<Selections.1.Tip>Golden Core</Selections.1.Tip>
-			<Selections.2.Display>Stop them.</Selections.2.Display>
-			<Selections.2.Tip>Golden Core</Selections.2.Tip>
-			<Selections.3.Display>Ignore</Selections.3.Display>
+			<DisplayName>Matriz maligna refinadora de almas</DisplayName>
+			<Desc>[NAME] passou por uma cidade e descobriu que o ressentimento abundava neste lugar. Parece que alguém está praticando artes das trevas.</Desc>
+			<Selections.0.Display>Ajuda</Selections.0.Display>
+			<Selections.1.Display>Ajude sem sinceridade</Selections.1.Display>
+			<Selections.1.Tip>Núcleo Dourado</Selections.1.Tip>
+			<Selections.2.Display>Pare-os.</Selections.2.Display>
+			<Selections.2.Tip>Núcleo Dourado</Selections.2.Tip>
+			<Selections.3.Display>Ignorar</Selections.3.Display>
 		</Text>
 		<Text Name="BadFight_1">
-			<DisplayName>Battle between Justice and Evil</DisplayName>
-			<Desc>[NAME] sees flashes of light as if off swords in the distance, it would seem that there are people fighting.</Desc>
-			<Selections.0.Display>Attack Evil Sect Disciple</Selections.0.Display>
-			<Selections.0.Tip>core shaping</Selections.0.Tip>
-			<Selections.1.Display>Attack Evil Sect Disciple</Selections.1.Display>
-			<Selections.1.Tip>core shaping</Selections.1.Tip>
-			<Selections.2.Display>Attack Just Sect Disciple</Selections.2.Display>
-			<Selections.2.Tip>core shaping</Selections.2.Tip>
-			<Selections.3.Display>Attack Just Sect Disciple</Selections.3.Display>
-			<Selections.3.Tip>core shaping</Selections.3.Tip>
-			<Selections.4.Display>Ignore</Selections.4.Display>
+			<DisplayName>Batalha entre a Justiça e o Mal</DisplayName>
+			<Desc>[NAME] vê flashes de luz como se fossem espadas à distância, parece que há pessoas lutando.</Desc>
+			<Selections.0.Display>Atacar Discípulo da Seita do Mal</Selections.0.Display>
+			<Selections.0.Tip>modelagem do núcleo</Selections.0.Tip>
+			<Selections.1.Display>Atacar Discípulo da Seita do Mal</Selections.1.Display>
+			<Selections.1.Tip>modelagem do núcleo</Selections.1.Tip>
+			<Selections.2.Display>Atacar Discípulo da Seita Justa</Selections.2.Display>
+			<Selections.2.Tip>modelagem do núcleo</Selections.2.Tip>
+			<Selections.3.Display>Atacar Discípulo da Seita Justa</Selections.3.Display>
+			<Selections.3.Tip>modelagem do núcleo</Selections.3.Tip>
+			<Selections.4.Display>Ignorar</Selections.4.Display>
 		</Text>
 		<Text Name="Treasure_Base">
-			<DisplayName>Search for Relics</DisplayName>
-			<Desc>[NAME] inadvertently came across the hidden residence of a cultivator...it seems like it was abandoned quite some time ago.</Desc>
-			<Selections.0.Display>Take a Look</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<DisplayName>Pesquisar por relíquias</DisplayName>
+			<Desc>[NAME] inadvertidamente se deparou com a residência escondida de um cultivador ... parece que foi abandonado há algum tempo.</Desc>
+			<Selections.0.Display>dar uma olhada</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Treasure_1">
 			<DisplayName>Deep Pool Encounter</DisplayName>
-			<Desc>[NAME] hurried on for days on end, and while fatigued, it wasn't until coming across a deep pool of water at dusk that this one decided to rest. During the night, [NAME] was surprised to discover a light seemed to be coming from the water.</Desc>
-			<Selections.0.Display>Take a Look</Selections.0.Display>
-			<Selections.0.Tip>Enter Practice State</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Desc>[NAME] apressou-se dias a fio e, embora fatigado, só ao deparar com uma profunda poça de água ao entardecer é que este decidiu descansar. Durante a noite,[NAME] ficou surpreso ao descobrir que uma luz parecia estar vindo da água.</Desc>
+			<Selections.0.Display>Dê uma olhada</Selections.0.Display>
+			<Selections.0.Tip>Insira o estado de prática</Selections.0.Tip>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Base">
-			<DisplayName>Collect Resources</DisplayName>
-			<Desc>When [NAME] arrived at this place, it turned out that there was a lot around that could be gathered.</Desc>
-			<Selections.0.Display>Resource Collection</Selections.0.Display>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<DisplayName>Coletar recursos</DisplayName>
+			<Desc>Quando [NAME] chegou a este lugar, descobriu-se que havia muito ao redor que poderia ser reunido.</Desc>
+			<Selections.0.Display>Coleta de recursos</Selections.0.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="City_Base">
-			<DisplayName>City</DisplayName>
-			<Desc>[NAME] came to [PLACE] and discovered that it was densely populated and business was booming.</Desc>
-			<Selections.0.Display>Search for Disciples</Selections.0.Display>
-			<Selections.0.Tip>Luck and Charisma</Selections.0.Tip>
+			<DisplayName>Cidade</DisplayName>
+			<Desc>[NAME] veio [PLACE] e descobriu que era densamente povoado e os negócios estavam crescendo.</Desc>
+			<Selections.0.Display>Procurar por Discípulos</Selections.0.Display>
+			<Selections.0.Tip>Sorte e Carisma</Selections.0.Tip>
 			<Selections.1.Display>Rob Commoners</Selections.1.Display>
-			<Selections.2.Display>Help others</Selections.2.Display>
-			<Selections.3.Display>Purchase Materials</Selections.3.Display>
-			<Selections.4.Display>Depart</Selections.4.Display>
+			<Selections.2.Display>Ajude os outros</Selections.2.Display>
+			<Selections.3.Display>Comprar materiais</Selections.3.Display>
+			<Selections.4.Display>partir</Selections.4.Display>
 		</Text>
 		<Text Name="Business_Base">
-			<DisplayName>Purchase Materials</DisplayName>
-			<Desc>[NAME] discovered that this place had a developed market with low prices and so decided to pick things up before heading back.</Desc>
-			<Selections.0.Display>Purchase Food</Selections.0.Display>
-			<Selections.1.Display>Purchase Marble</Selections.1.Display>
-			<Selections.2.Display>Purchase Timber</Selections.2.Display>
-			<Selections.3.Display>Purchase Iron Ore</Selections.3.Display>
-			<Selections.4.Display>Purchase Cotton</Selections.4.Display>
+			<DisplayName>Comprar materiais</DisplayName>
+			<Desc>[NAME] descobriu que este lugar tinha um mercado desenvolvido com preços baixos e então decidiu pegar as coisas antes de voltar.</Desc>
+			<Selections.0.Display>Comprar comida</Selections.0.Display>
+			<Selections.1.Display>Compra mármore</Selections.1.Display>
+			<Selections.2.Display>Comprar Madeira</Selections.2.Display>
+			<Selections.3.Display>Comprar minério de ferro</Selections.3.Display>
+			<Selections.4.Display>Comprar Algodão</Selections.4.Display>
 		</Text>
 		<Text Name="Highfind_Base">
-			<DisplayName>Gather Treasure</DisplayName>
-			<Desc>[NAME] heard that there were some items produced in [PLACE] that were useful for one's Practice.</Desc>
-			<Selections.0.Display>Search</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<DisplayName>Reunir tesouro</DisplayName>
+			<Desc>[NAME] ouvi dizer que havia alguns itens produzidos em [PLACE] que eram úteis para a prática.</Desc>
+			<Selections.0.Display>Procurar</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Secret_Base">
-			<DisplayName>Look for Clues</DisplayName>
-			<Desc>[NAME] passed by [PLACE] while travelling and discovered that there were a great many people discussing something.</Desc>
-			<Selections.0.Display>Ask around</Selections.0.Display>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<DisplayName>Procurar por pistas</DisplayName>
+			<Desc>[NAME] passou por [PLACE] enquanto viajava e descobri que havia muitas pessoas discutindo algo.</Desc>
+			<Selections.0.Display>Pergunte por aí</Selections.0.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Base">
 			<DisplayName>Search for Locations</DisplayName>
 			<Desc>[NAME] heard that there were more than a few terribly interesting places near [PLACE] and so decided to go on an excursion.</Desc>
 			<Selections.0.Display>Search for Secluded Spots</Selections.0.Display>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Cold">
 			<DisplayName>Fortuitous Encounter on the Snowfield</DisplayName>
@@ -278,7 +278,7 @@
 			<Desc>[NAME] saw two peculiar beasts fighting in the air from time to time. Both beasts seemed to be performing unnatural feats, it was as if it were a battle between beasts from another world. [NAME] was excited and intrigued for it seemed that the battle between these two beasts hid some mystery.</Desc>
 			<Selections.0.Display>Imitate the strange beasts</Selections.0.Display>
 			<Selections.0.Tip>Perception</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 			<Selections.2.Display>It's too cold.</Selections.2.Display>
 		</Text>
 		<Text Name="Secret_Cold_Base">
@@ -286,81 +286,81 @@
 			<Desc>[NAME] travelled to [PLACE] and [IT] heard that there were juicy rumors abounding here and so tried to see what could be found out.</Desc>
 			<Selections.0.Display>Ask around</Selections.0.Display>
 			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Cold_Base">
 			<DisplayName>Search for Locations</DisplayName>
 			<Desc>[NAME] heard that there were more than a few terribly interesting places near [PLACE] and so decided to go on an excursion.</Desc>
 			<Selections.0.Display>Search for Secluded Spots</Selections.0.Display>
 			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Cold_Base">
 			<DisplayName>Collect Resources</DisplayName>
 			<Desc>While [NAME] was travelling, it turned out that there was a lot around [PLACE] that could be of use.</Desc>
 			<Selections.0.Display>Gather Local Specialties</Selections.0.Display>
 			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Highfind_Cold_Base">
 			<DisplayName>Gather Treasure</DisplayName>
 			<Desc>[NAME] heard that there were some items produced in [PLACE] that were useful for one's Practice.</Desc>
 			<Selections.0.Display>Search</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 			<Selections.2.Display>It's too cold.</Selections.2.Display>
 		</Text>
 		<Text Name="Visit_Old_Base">
 			<DisplayName>Chance Encounter</DisplayName>
 			<Desc>[NAME] came across a group of [SCHOOL]'s disciples that came to greet [ENHIM] while out on the road.</Desc>
-			<Selections.0.Display>Amicable Chat</Selections.0.Display>
-			<Selections.1.Display>Small Talk</Selections.1.Display>
-			<Selections.2.Display>Taunt</Selections.2.Display>
-			<Selections.3.Display>Taunt</Selections.3.Display>
-			<Selections.4.Display>Ignore</Selections.4.Display>
-			<Selections.5.Display>Provoke</Selections.5.Display>
-			<Selections.5.Tip>Golden Core</Selections.5.Tip>
-			<Selections.6.Display>Provoke</Selections.6.Display>
-			<Selections.6.Tip>Golden Core</Selections.6.Tip>
-			<Selections.7.Display>Ignore</Selections.7.Display>
-			<Selections.7.Tip>Golden Core</Selections.7.Tip>
-			<Selections.8.Display>Ignore</Selections.8.Display>
-			<Selections.8.Tip>Golden Core</Selections.8.Tip>
+			<Selections.0.Display>Bate-papo amigável</Selections.0.Display>
+			<Selections.1.Display>Conversa fiada</Selections.1.Display>
+			<Selections.2.Display>zombar</Selections.2.Display>
+			<Selections.3.Display>zombar</Selections.3.Display>
+			<Selections.4.Display>Ignorar</Selections.4.Display>
+			<Selections.5.Display>Provocar</Selections.5.Display>
+			<Selections.5.Tip>Núcleo Dourado</Selections.5.Tip>
+			<Selections.6.Display>Provocar</Selections.6.Display>
+			<Selections.6.Tip>Núcleo Dourado</Selections.6.Tip>
+			<Selections.7.Display>Ignorar</Selections.7.Display>
+			<Selections.7.Tip>Núcleo Dourado</Selections.7.Tip>
+			<Selections.8.Display>Ignorar</Selections.8.Display>
+			<Selections.8.Tip>Núcleo Dourado</Selections.8.Tip>
 		</Text>
 		<Text Name="Visit_Old_1">
 			<DisplayName>Chance Encounter</DisplayName>
 			<Desc>[NAME] happened upon an elder of [SCHOOL] while walking down the road.</Desc>
-			<Selections.0.Display>Visit</Selections.0.Display>
-			<Selections.1.Display>Small Talk</Selections.1.Display>
-			<Selections.2.Display>Sneak Attack</Selections.2.Display>
-			<Selections.2.Tip>Golden Core</Selections.2.Tip>
-			<Selections.3.Display>Sneak Attack</Selections.3.Display>
-			<Selections.3.Tip>Golden Core</Selections.3.Tip>
+			<Selections.0.Display>Visitar</Selections.0.Display>
+			<Selections.1.Display>Conversa fiada</Selections.1.Display>
+			<Selections.2.Display>Ataque furtivo</Selections.2.Display>
+			<Selections.2.Tip>Núcleo Dourado</Selections.2.Tip>
+			<Selections.3.Display>Ataque furtivo</Selections.3.Display>
+			<Selections.3.Tip>Núcleo Dourado</Selections.3.Tip>
 			<Selections.4.Display>Attack</Selections.4.Display>
-			<Selections.4.Tip>Golden Core</Selections.4.Tip>
-			<Selections.5.Display>Ignore</Selections.5.Display>
-			<Selections.6.Display>Provoke</Selections.6.Display>
-			<Selections.6.Tip>Golden Core</Selections.6.Tip>
-			<Selections.7.Display>Provoke</Selections.7.Display>
-			<Selections.7.Tip>Golden Core</Selections.7.Tip>
-			<Selections.8.Display>Ignore</Selections.8.Display>
-			<Selections.8.Tip>Golden Core</Selections.8.Tip>
-			<Selections.9.Display>Ignore</Selections.9.Display>
-			<Selections.9.Tip>Golden Core</Selections.9.Tip>
+			<Selections.4.Tip>Núcleo Dourado</Selections.4.Tip>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
+			<Selections.6.Display>Provocar</Selections.6.Display>
+			<Selections.6.Tip>Núcleo Dourado</Selections.6.Tip>
+			<Selections.7.Display>Provocar</Selections.7.Display>
+			<Selections.7.Tip>Núcleo Dourado</Selections.7.Tip>
+			<Selections.8.Display>Ignorar</Selections.8.Display>
+			<Selections.8.Tip>Núcleo Dourado</Selections.8.Tip>
+			<Selections.9.Display>Ignorar</Selections.9.Display>
+			<Selections.9.Tip>Núcleo Dourado</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_Old_2">
 			<DisplayName>Visit the mountain School</DisplayName>
 			<Desc>[NAME] was hurrying along when realized that the mountain school of [SCHOOL] was nearby.</Desc>
 			<Selections.0.Display>Visit the Sect Leader</Selections.0.Display>
-			<Selections.1.Display>Visit</Selections.1.Display>
-			<Selections.2.Display>Visit</Selections.2.Display>
-			<Selections.3.Display>Visit</Selections.3.Display>
-			<Selections.4.Display>Visit</Selections.4.Display>
-			<Selections.5.Display>Visit</Selections.5.Display>
+			<Selections.1.Display>Visitar</Selections.1.Display>
+			<Selections.2.Display>Visitar</Selections.2.Display>
+			<Selections.3.Display>Visitar</Selections.3.Display>
+			<Selections.4.Display>Visitar</Selections.4.Display>
+			<Selections.5.Display>Visitar</Selections.5.Display>
 			<Selections.5.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.5.Tip>
-			<Selections.6.Display>Sneak in</Selections.6.Display>
+			<Selections.6.Display>Esgueirar-se em</Selections.6.Display>
 			<Selections.6.Tip>Primordial Spirit state and Luck is high</Selections.6.Tip>
-			<Selections.7.Display>Ignore</Selections.7.Display>
+			<Selections.7.Display>Ignorar</Selections.7.Display>
 		</Text>
 	</List>
 </Texts>
