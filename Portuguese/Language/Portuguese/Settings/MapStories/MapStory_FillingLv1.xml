@@ -289,17 +289,17 @@
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Cold_Base">
-			<DisplayName>Search for Locations</DisplayName>
-			<Desc>[NAME] heard that there were more than a few terribly interesting places near [PLACE] and so decided to go on an excursion.</Desc>
-			<Selections.0.Display>Search for Secluded Spots</Selections.0.Display>
-			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
+			<DisplayName>Pesquisar locais</DisplayName>
+			<Desc>[NAME] ouviu dizer que havia mais do que alguns lugares terrivelmente interessantes perto de [PLACE] e então decidiu fazer uma excursão.</Desc>
+			<Selections.0.Display>Procure por locais isolados</Selections.0.Display>
+			<Selections.0.Tip>Resistência ao frio</Selections.0.Tip>
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Find_Cold_Base">
-			<DisplayName>Collect Resources</DisplayName>
-			<Desc>While [NAME] was travelling, it turned out that there was a lot around [PLACE] that could be of use.</Desc>
-			<Selections.0.Display>Gather Local Specialties</Selections.0.Display>
-			<Selections.0.Tip>Cold Resistance</Selections.0.Tip>
+			<DisplayName>Coletar recursos</DisplayName>
+			<Desc>Enquanto [NAME] was travelling, estava viajando, descobri que havia muito por perto [PLACE] isso pode ser útil.</Desc>
+			<Selections.0.Display>Colete especialidades locais</Selections.0.Display>
+			<Selections.0.Tip>Resistência ao frio</Selections.0.Tip>
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Highfind_Cold_Base">
