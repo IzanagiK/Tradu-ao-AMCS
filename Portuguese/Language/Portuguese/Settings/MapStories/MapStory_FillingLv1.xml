@@ -297,22 +297,22 @@
 		</Text>
 		<Text Name="Find_Cold_Base">
 			<DisplayName>Coletar recursos</DisplayName>
-			<Desc>Enquanto [NAME] was travelling, estava viajando, descobri que havia muito por perto [PLACE] isso pode ser útil.</Desc>
+			<Desc>Enquanto [NAME] estava viajando, estava viajando, descobri que havia muito por perto [PLACE] isso pode ser útil.</Desc>
 			<Selections.0.Display>Colete especialidades locais</Selections.0.Display>
 			<Selections.0.Tip>Resistência ao frio</Selections.0.Tip>
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Highfind_Cold_Base">
-			<DisplayName>Gather Treasure</DisplayName>
-			<Desc>[NAME] heard that there were some items produced in [PLACE] that were useful for one's Practice.</Desc>
-			<Selections.0.Display>Search</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
+			<DisplayName>Reunir tesouro</DisplayName>
+			<Desc>[NAME] ouvi dizer que havia alguns itens produzidos em [PLACE] que eram úteis para a prática.</Desc>
+			<Selections.0.Display>Procurar</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
 			<Selections.1.Display>Ignorar</Selections.1.Display>
-			<Selections.2.Display>It's too cold.</Selections.2.Display>
+			<Selections.2.Display>Está muito frio.</Selections.2.Display>
 		</Text>
 		<Text Name="Visit_Old_Base">
-			<DisplayName>Chance Encounter</DisplayName>
-			<Desc>[NAME] came across a group of [SCHOOL]'s disciples that came to greet [ENHIM] while out on the road.</Desc>
+			<DisplayName>Encontro casual</DisplayName>
+			<Desc>[NAME] se deparou com um grupo de [SCHOOL] discípulos de que vieram cumprimentar [ENHIM] enquanto estávam na estrada.</Desc>
 			<Selections.0.Display>Bate-papo amigável</Selections.0.Display>
 			<Selections.1.Display>Conversa fiada</Selections.1.Display>
 			<Selections.2.Display>zombar</Selections.2.Display>
@@ -328,15 +328,15 @@
 			<Selections.8.Tip>Núcleo Dourado</Selections.8.Tip>
 		</Text>
 		<Text Name="Visit_Old_1">
-			<DisplayName>Chance Encounter</DisplayName>
-			<Desc>[NAME] happened upon an elder of [SCHOOL] while walking down the road.</Desc>
+			<DisplayName>Encontro casual</DisplayName>
+			<Desc>[NAME] aconteceu com um ancião de [SCHOOL] enquanto caminhava pela estrada.</Desc>
 			<Selections.0.Display>Visitar</Selections.0.Display>
 			<Selections.1.Display>Conversa fiada</Selections.1.Display>
 			<Selections.2.Display>Ataque furtivo</Selections.2.Display>
 			<Selections.2.Tip>Núcleo Dourado</Selections.2.Tip>
 			<Selections.3.Display>Ataque furtivo</Selections.3.Display>
 			<Selections.3.Tip>Núcleo Dourado</Selections.3.Tip>
-			<Selections.4.Display>Attack</Selections.4.Display>
+			<Selections.4.Display>Atacar</Selections.4.Display>
 			<Selections.4.Tip>Núcleo Dourado</Selections.4.Tip>
 			<Selections.5.Display>Ignorar</Selections.5.Display>
 			<Selections.6.Display>Provocar</Selections.6.Display>
@@ -349,17 +349,17 @@
 			<Selections.9.Tip>Núcleo Dourado</Selections.9.Tip>
 		</Text>
 		<Text Name="Visit_Old_2">
-			<DisplayName>Visit the mountain School</DisplayName>
-			<Desc>[NAME] was hurrying along when realized that the mountain school of [SCHOOL] was nearby.</Desc>
-			<Selections.0.Display>Visit the Sect Leader</Selections.0.Display>
+			<DisplayName>Visite mountain school</DisplayName>
+			<Desc>[NAME] estava correndo quando percebeu que a mountain school de [SCHOOL] estava nas proximidades.</Desc>
+			<Selections.0.Display>Visite o líder da seita</Selections.0.Display>
 			<Selections.1.Display>Visitar</Selections.1.Display>
 			<Selections.2.Display>Visitar</Selections.2.Display>
 			<Selections.3.Display>Visitar</Selections.3.Display>
 			<Selections.4.Display>Visitar</Selections.4.Display>
 			<Selections.5.Display>Visitar</Selections.5.Display>
-			<Selections.5.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.5.Tip>
+			<Selections.5.Tip>Espírito Primordial ou ambas as partes devem ter um bom relacionamento.</Selections.5.Tip>
 			<Selections.6.Display>Esgueirar-se em</Selections.6.Display>
-			<Selections.6.Tip>Primordial Spirit state and Luck is high</Selections.6.Tip>
+			<Selections.6.Tip>Estado do Espírito Primordial é Sorte alta</Selections.6.Tip>
 			<Selections.7.Display>Ignorar</Selections.7.Display>
 		</Text>
 	</List>
