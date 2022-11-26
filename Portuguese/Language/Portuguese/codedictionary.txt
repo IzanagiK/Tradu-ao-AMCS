@@ -36,7 +36,7 @@ Key	Value
 意识	Vontade
 经脉	Meridianos
 移动	Movimento
-身手	Acção
+身手	Ação
 感知	Sentido
 影响战斗能力。	Afeta a proeza de combate.
 对灵气的感知能力，影响灵气护盾穿透率，法宝镇压几率。	A capacidade de perceber o Qi. Afeta a Chance de Penetração da Barreira de Qi e a Chance de Supressão de Artefato.
@@ -1062,15 +1062,15 @@ _结局	_The End
 尚有角色处于隐匿状态	Hidden character(s)
 尚有角色处于警戒区域，请先远离门派区域	Character(s) in the alert area. Please stay away from the sect.
 建筑解锁	Unlock Building
-解锁了以下建筑：\n	The following building(s) unlocked: \n
+解锁了以下建筑：\n	Os seguintes edifícios desbloqueados: \n
 未获得通行权，门派的大能正在赶来的路上，请速速离开此地。	Entrada não autorizada. O sábio da seita está a caminho. Por favor, saia imediatamente.
-警告	Warning
-载入场景数据	Loading map data
-进入场景	Entering area
-载入角色数据	Loading character data
-最后的准备	Final preparations
+警告	Aviso
+载入场景数据	Carregando dados do mapa
+进入场景	Entrando na área
+载入角色数据	Carregando dados do personagem
+最后的准备	Preparativos finais
 {0}({1}岁)	{0} ({1} anos)
-潜力	Potential
+潜力	Potencial
 等级:{0}	Level: {0}
 \n{0}级	\nLv {0}
 {0}{1:F0}  {2}等级	{0}{1:F0} Lv {2}
@@ -1584,26 +1584,26 @@ Name	Name
 请检查网络连接状态，或者上传的模组在商店是否处于下架状态，并重试！	Verifique sua conexão com a Internet, se o mod carregado estiver disponível na loja, e tente novamente.
 取消上传	Cancel Uploading
 模组数据拉取失败	Falha ao carregar os dados do mod
-创建XML文件成功!	XML document created!
-创建文件失败	Failed to create document.
+创建XML文件成功!	XML documento criado!
+创建文件失败	Falha ao criar documento.
 围观	Watch
 慕名而来	Come here for your reputation
 劫掠而来	Come here and Rob you
 雷击	Thunder rains down across the world
 混沌初开，乾坤始奠	Chaos spreads whence the heaven and earth are born
-生成云雾	Generating clouds
-生成山川	Generating the land
-生成河流	Generating bodies of water
-整理山脉	Arranging mountains
-埋下矿石	Burying ores
-生成星辰日月	Generating the heavens
-生成大地土壤	Generating earth and soil
-埋下灵脉	Hiding spirit veins
-喝杯水	Drinking water
-偷埋宝藏	Hiding secret treasures
-推演灵气流动	Deducting the flow of Qi
-推演星辰变化	Deducting the movement of the stars
-可爱的动物	Creating cute animals
+生成云雾	Gerando nuvens
+生成山川	Gerando a terra
+生成河流	Gerando corpos d'água
+整理山脉	Organizando montanhas
+埋下矿石	Enterrando minérios
+生成星辰日月	Gerando os céus
+生成大地土壤	Gerando terra e solo
+埋下灵脉	Escondendo as veias espirituais
+喝杯水	Bebendo água potável
+偷埋宝藏	Escondendo tesouros secretos
+推演灵气流动	Deduzindo o fluxo de Qi
+推演星辰变化	Deduzindo o movimento das estrelas
+可爱的动物	Criando animais fofos
 放点	Arranging
 播种	Sowing seeds
 成长	Growing
@@ -1674,7 +1674,7 @@ Name	Name
 解锁神通:[{0}]\n	Unlock Miracle: [{0}]\n
 解锁淬体之法:[{0}]\n	Unlock Remold Spell: [{0}]\n
 解锁战斗姿态:[{0}]\n	Unlock Battle Stance: [{0}]\n
-天道影响	The laws of nature affect the world
+天道影响	As leis da natureza afetam o mundo
 一个Modifier	One Modifier
 \n里面包含了关于[{0}]的奥义	\n Contents include profound knowledge regarding [{0}].
 成员	Member
@@ -1833,13 +1833,13 @@ Name	Name
 {2}信仰：{0:F0}({1:F0}){3}\n	{2} Belief: {0:F0}({1:F0}) {3}\n
 性别：{0}\n年龄：{1:N0}\n门派：{2}	Gender: {0}\nAge: {1:N0}\nSect: {2}
 神名	Divine Title
-{0}：{1:N0}({2:N0})(最低需要有:{3:N0})	{0}: {1:N0}({2:N0})(Minimum requirement: {3:N0})
+{0}：{1:N0}({2:N0})(最低需要有:{3:N0})	{0}: {1:N0}({2:N0})(Requerimento mínimo: {3:N0})
 神秘瓶颈	Mysterious Limit
 角色属性数据	Character Stats Data
-\n[color=#9e6404]受以下状态影响:[/color]	\n[color=#9e6404]Is under the following effects:[/color]
-\n情绪影响:\n {0:N0}%	\nMood: \n {0:N0}%
-\n境界影响:\n {0:N0}%	\nState: \n {0:N0}%
-目标角色来自DLC:{0}	Target character is from DLC: {0}
+\n[color=#9e6404]受以下状态影响:[/color]	\n[color=#9e6404]Está sob os seguintes efeitos:[/color]
+\n情绪影响:\n {0:N0}%	\nHumor: \n {0:N0}%
+\n境界影响:\n {0:N0}%	\nEstado: \n {0:N0}%
+目标角色来自DLC:{0}	Personagem alvo é de DLC: {0}
 应天争夺成功，返回门派后可获得凝聚的灵石	Vença a luta Heaven Echo, ganhará pedras espirituais cristalizadas depois de voltar à seita.
 应天争夺失败	Lose the Heaven Echo fight
 非常抱歉！存档失败。\n愤怒的您可能会责怪开发团队，您的确有理由这样做，这本不应该发生。\n我们非常抱歉！请尝试再次存档或者读取旧的存档。\n如果需要支持或者报告问题，请发送邮件至:\nQA@GSQStudio.com。	We're terribly sorry but your game failed to save.\nYou might want to rage and blame us developers at the moment, and we understand you as this shouldn't have happened.\nSorry! Please try to save again or load an old save.\nIf you need help or wish to report an issue, please contact us at QA@GSQStudio.com.
