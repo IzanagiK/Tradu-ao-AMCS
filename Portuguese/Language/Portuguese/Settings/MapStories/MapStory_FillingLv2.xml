@@ -1,70 +1,70 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Story_LingZhiGet">
-			<DisplayName>Adventure here</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and recalled that there is supposed to be a Spirit Root that grows here. After searching around it turned out that the area was replete with Earth Qi, there was something out of the ordinary here.</Desc>
-			<Selections.0.Display>Search for the Spirit Root</Selections.0.Display>
-			<Selections.1.Display>Set up a Formation</Selections.1.Display>
-			<Selections.2.Display>Harvest Spirit Root</Selections.2.Display>
-			<Selections.3.Display>Wander around</Selections.3.Display>
-			<Selections.4.Display>Ignore</Selections.4.Display>
+			<DisplayName>Aventure-se aqui</DisplayName>
+			<Desc>[NAME] chegou em [PLACE] e lembrou que deveria haver uma Raiz Espiritual que cresce aqui. Depois de procurar ao redor, descobriu-se que a área estava repleta de Qi da Terra, havia algo fora do comum aqui.</Desc>
+			<Selections.0.Display>Procure a Raiz Espiritual</Selections.0.Display>
+			<Selections.1.Display>Configurar uma formação</Selections.1.Display>
+			<Selections.2.Display>Colher Raiz Espiritual</Selections.2.Display>
+			<Selections.3.Display>Passear</Selections.3.Display>
+			<Selections.4.Display>Ignorar</Selections.4.Display>
 		</Text>
 		<Text Name="Story_LingZhiBeg">
-			<DisplayName>Adventure here</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and recalled that this is where Spirit Root grows.</Desc>
-			<Selections.0.Display>Search for Spirit Root</Selections.0.Display>
-			<Selections.1.Display>Wander around</Selections.1.Display>
-			<Selections.2.Display>Ignore</Selections.2.Display>
+			<DisplayName>Aventure-se aqui</DisplayName>
+			<Desc>[NAME] chegou em [PLACE] e lembrou que é aqui que a Raiz do Espírito cresce aqui.</Desc>
+			<Selections.0.Display>Procure a Raiz Espiritual</Selections.0.Display>
+			<Selections.1.Display>Passear</Selections.1.Display>
+			<Selections.2.Display>Ignorar</Selections.2.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Jin">
 			<DisplayName>Cultivate here</DisplayName>
 			<Desc>[NAME] found that the area was replete with Metal Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Mu">
 			<DisplayName>Cultivate here</DisplayName>
 			<Desc>[NAME] found that the area was replete with Wood Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Shui">
 			<DisplayName>Cultivate here</DisplayName>
 			<Desc>[NAME] found that the area was replete with Water Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Huo">
 			<DisplayName>Cultivate here</DisplayName>
 			<Desc>[NAME] found that the area was replete with Fire Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Tu">
 			<DisplayName>Cultivate here</DisplayName>
 			<Desc>[NAME] found that the area was replete with Earth Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="HighFind_Jin">
 			<DisplayName>Search for Treasure</DisplayName>
@@ -257,9 +257,9 @@
 		<Text Name="LingWu_DanXia">
 			<DisplayName>Sunshade Setting Sun</DisplayName>
 			<Desc>[NAME] was shocked by the majestic vista at Sunshade Precipice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
+			<Selections.0.Display>Meditar</Selections.0.Display>
 			<Selections.0.Tip>Intelligence and Ideal</Selections.0.Tip>
-			<Selections.1.Display>Meditate</Selections.1.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
 			<Selections.1.Tip>Intelligence and Ideal</Selections.1.Tip>
 			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
 		</Text>
@@ -267,14 +267,14 @@
 			<DisplayName>The Land of the Hidden Dragon</DisplayName>
 			<Desc>[NAME] stood before the Wyvern Pool and recalled how in ancient times great power had been collected here when the dragon was released here, and couldn't just stand around.</Desc>
 			<Selections.0.Display>Gained something</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
 			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua2">
 			<DisplayName>The Land of the Phoenix</DisplayName>
 			<Desc>[NAME] stood before the fossilized Phoenixwood at Phoenix Cliff, sighed with emotion, and seemed to hear what sounded like a phoenix call.</Desc>
 			<Selections.0.Display>Gained something</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
 			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_LongHu">
