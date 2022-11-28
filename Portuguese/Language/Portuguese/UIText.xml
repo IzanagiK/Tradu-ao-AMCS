@@ -296,19 +296,19 @@ When the Remold results are of little importance or only contain unimportant lab
 	<string name="0xrxw6g7dyau52ow4j-n7_l5z1-tips" mz="removecountdownbg">The number of times of Thinkings before it was forgotten.</string>
 	<string name="0xrxw6g7dyau52ow4j-n13_vpv7-tips" mz="used">[color=#FF0000]Cannot gain property from this thought.[/color]</string>
 	<string name="0xrxw6g7dyau52ow4i-n13_q19o" mz="considerframe">Think</string>
-	<string name="0xrxw6g7dyau52ow4i-n21_q19o-tips" mz="consider">Three Thoughts of the same type can be synthesized into the corresponding [color=#0000ff]Rationality[/color]/[color=#ff3300]Perception[/color]/[color=#1bd1a5]Realization[/color]. Thoughts will be cleared after each Thinking. Thoughts in the Memories slots and acquired [color=#0000ff]Rationality[/color]/[color=#ff3300]Perception[/color]/[color=#1bd1a5]Realization[/color] will also be forgotten as the number of times of Thinkings increases.</string>
+	<string name="0xrxw6g7dyau52ow4i-n21_q19o-tips" mz="consider">Três Pensamentos do mesmo tipo podem ser sintetizados na correspondente [color=#0000ff]Racionalidade[/color]/[color=#ff3300]Percepção[/color]/[color=#1bd1a5]Realização[/color]. Os pensamentos serão limpos após cada Pensamento. Pensamentos nos slots de Memórias e [color=#0000ff]Racionalidade[/color]/[color=#ff3300]Percepção[/color]/[color=#1bd1a5]Realização[/color] adquiridos também serão esquecidos como o número de tempos de Pensamentos aumenta.</string>
 	<string name="0xrxw6g7dyau52ow4i-n21_q19o" mz="consider">Think</string>
 	<string name="0xrxw6g7dyau52ow4i-n73_l5z1" mz="clearconsider">Clean</string>
-	<string name="0xrxw6g7dyau52ow4i-n69_l5z1" mz="n69">Consume three Thought Shards with the same keyword to gain a whole Thought.
-If no Thought Shards were used, no Thought would be generated.
-After Thinking, all unremembered Thought Shards will be forgotten.
-Both Memories and Thought could be forgotten after multiple Thinkings.</string>
+	<string name="0xrxw6g7dyau52ow4i-n69_l5z1" mz="n69">Consuma três Fragmentos de Pensamento com a mesma palavra-chave para ganhar um Pensamento completo.
+Se nenhum Fragmento de Pensamento fosse usado, nenhum Pensamento seria gerado.
+Depois de Pensar, todos os Fragmentos de Pensamento não lembrados serão esquecidos.
+Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensamentos.</string>
 	<string name="0xrxw6g7dyau52ow4i-n0_dyau" mz="frame">Thought and Thinking</string>
-	<string name="0xrxw6g7dyau52ow4i-n51_l5z1-tips" mz="n51">Automatically generates over time. When their number reaches 40, it will need Thinking in order to start the auto-generating again, which causes them to be forgotten as well. They can also be obtained by Observing, but the same Thought Shard can only be obtained once through Observing.</string>
+	<string name="0xrxw6g7dyau52ow4i-n51_l5z1-tips" mz="n51">Agera automaticamente ao longo do tempo. Quando o número deles chegar a 40, ele precisará do Pensamento para iniciar a geração automática novamente, o que faz com que eles sejam esquecidos também. Eles também podem ser obtidos por Observação, mas o mesmo fragmento de pensamento só pode ser obtido uma vez por observação.</string>
 	<string name="0xrxw6g7dyau52ow4i-n51_l5z1" mz="n51">Thought Shard</string>
-	<string name="0xrxw6g7dyau52ow4i-n58_l5z1-tips" mz="n58">You can memorize a number of Thought Shards into Memories. Memorized Thought Shards will not be forgotten immediately after Thinking, they will only be forgotten after a certain number of Thinkings.</string>
+	<string name="0xrxw6g7dyau52ow4i-n58_l5z1-tips" mz="n58">Você pode memorizar vários fragmentos de pensamento em memórias. Fragmentos de Pensamento Memorizados não serão esquecidos imediatamente após o Pensamento, eles só serão esquecidos após um certo número de Pensamentos.</string>
 	<string name="0xrxw6g7dyau52ow4i-n58_l5z1" mz="n58">Memories (0/6)</string>
-	<string name="0xrxw6g7dyau52ow4i-n76_l5z1-tips" mz="n76">Synthesized by three Thought Shards of the same type. This action need to be performed in the Thought and Thinking menu.</string>
+	<string name="0xrxw6g7dyau52ow4i-n76_l5z1-tips" mz="n76">Sintetizado por três Fragmentos de Pensamento do mesmo tipo. Esta ação precisa ser realizada no menu Pensamento e Pensamento.</string>
 	<string name="0xrxw6g7dyau52ow4i-n76_l5z1" mz="n76">Thought</string>
 	<string name="0xrxw6g7dyau52ow4i-n60_l5z1" mz="n60">Rationality</string>
 	<string name="0xrxw6g7dyau52ow4i-n62_l5z1" mz="n62">Realization</string>
@@ -988,45 +988,45 @@ Inspiration required to learn Earth or undefined manuals is based on the lesser 
 	<string name="0xrxw6g7nv6f52ow3n-n116_9ht9-prompt" mz="F">Pesquisar</string>
 	<string name="0xrxw6g7nv6f52ow3n-n117_9ht9" mz="search">Pesquisar</string>
 	<string name="0xrxw6g7ea74vn2-n109_ea74" mz="content">Test</string>
-	<string name="0xrxw6g7ea74vn2-n108_ea74" mz="title">Project</string>
-	<string name="0xrxw6g7ea74vn0-n122_q2sc" mz="lock">Locked</string>
-	<string name="0xrxw6g7ea74vmz-n97_ea74" mz="frame">Bestiary</string>
-	<string name="0xrxw6g7nv6f52ow3q-n83_lfk7" mz="title">Human</string>
+	<string name="0xrxw6g7ea74vn2-n108_ea74" mz="title">Projeto</string>
+	<string name="0xrxw6g7ea74vn0-n122_q2sc" mz="lock">Bloqueado</string>
+	<string name="0xrxw6g7ea74vmz-n97_ea74" mz="frame">Bestiário</string>
+	<string name="0xrxw6g7nv6f52ow3q-n83_lfk7" mz="title">Humano</string>
 	<string name="0xrxw6g7xko6m8-n95_mykk" mz="title">Test Quests</string>
 	<string name="0xrxw6g7k8u8m4-n9_k8u8" mz="n9">Ups &amp; Downs</string>
 	<string name="0xrxw6g7k8u8m2-n19_xko6" mz="n19">Teclas de atalho</string>
-	<string name="0xrxw6g7k8u8m2-n12_i8c2" mz="n12">This key is bound to a system function.</string>
+	<string name="0xrxw6g7k8u8m2-n12_i8c2" mz="n12">Esta chave está vinculada a uma função do sistema.</string>
 	<string name="0xrxw6g7k8u8m2-n17_xko6" mz="InitKeys">Redefinir teclas de atalho</string>
 	<string name="0xrxw6g7xko6mb-n46_xko6" mz="title">Teclas de atalho</string>
 	<string name="0xrxw6g7lxn752ow2t-n174_g8dw" mz="n172">Memories</string>
 	<string name="0xrxw6g7stle2ovw3-n90_stle" mz="Desc">dasdasdasdasdasda</string>
-	<string name="0xrxw6g7stle2ovw3-n99_stle-tips" mz="n99">Use this selection to try to uncover the truth.</string>
-	<string name="0xrxw6g7stle2ovw3-n99_stle" mz="n99">Unlock</string>
-	<string name="0xrxw6g7stle2ovw3-n100_stle-tips" mz="n100">Select the motive for the mystery.</string>
-	<string name="0xrxw6g7stle2ovw3-n100_stle" mz="n100">Motive</string>
-	<string name="0xrxw6g7stle2ovw3-n103_stle-tips" mz="n103">Select the participant for the mystery.</string>
-	<string name="0xrxw6g7stle2ovw3-n103_stle" mz="n103">Participant</string>
-	<string name="0xrxw6g7stle2ovw3-n104_stle-tips" mz="n104">Select related evidence.</string>
-	<string name="0xrxw6g7stle2ovw3-n104_stle" mz="n104">Evidence</string>
-	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-tips" mz="n30">Evidence Type: M The motive. P The participant. E The evidence</string>
+	<string name="0xrxw6g7stle2ovw3-n99_stle-tips" mz="n99">Use esta seleção para tentar descobrir a verdade.</string>
+	<string name="0xrxw6g7stle2ovw3-n99_stle" mz="n99">Desbloquear</string>
+	<string name="0xrxw6g7stle2ovw3-n100_stle-tips" mz="n100">Selecione o motivo do mistério.</string>
+	<string name="0xrxw6g7stle2ovw3-n100_stle" mz="n100">Motivo</string>
+	<string name="0xrxw6g7stle2ovw3-n103_stle-tips" mz="n103">Selecione o participante para o mistério.</string>
+	<string name="0xrxw6g7stle2ovw3-n103_stle" mz="n103">Participante</string>
+	<string name="0xrxw6g7stle2ovw3-n104_stle-tips" mz="n104">Selecione evidências relacionadas.</string>
+	<string name="0xrxw6g7stle2ovw3-n104_stle" mz="n104">Evidência</string>
+	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-tips" mz="n30">Tipo de evidência: M O motivo. P O participante. E A evidência</string>
 	<string name="0xrxw6g7kzxt2ovu7-n30_yljb" mz="n30">Move</string>
 	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-texts_0" mz="n30">Move</string>
 	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-texts_1" mz="n30">P</string>
 	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-texts_def" mz="n30">E</string>
 	<string name="0xrxw6g7kzxt2ovu7-n36_glf0-tips" mz="local">Focus</string>
-	<string name="0xrxw6g7kzxt2ovu6-n7_hdhl" mz="frame">Secret</string>
-	<string name="0xrxw6g7kzxt2ovu6-n71_kzxt-0" mz="Head">Mystery</string>
-	<string name="0xrxw6g7kzxt2ovu6-n71_kzxt-1" mz="Head">Character</string>
-	<string name="0xrxw6g7kzxt2ovu6-n71_kzxt-2" mz="Head">Clue</string>
-	<string name="0xrxw6g7kzxt2ovu6-n71_kzxt-3" mz="Head">Ancient Beast</string>
+	<string name="0xrxw6g7kzxt2ovu6-n7_hdhl" mz="frame">Segredo</string>
+	<string name="0xrxw6g7kzxt2ovu6-n71_kzxt-0" mz="Head">Mistério</string>
+	<string name="0xrxw6g7kzxt2ovu6-n71_kzxt-1" mz="Head">Personagem</string>
+	<string name="0xrxw6g7kzxt2ovu6-n71_kzxt-2" mz="Head">Dica</string>
+	<string name="0xrxw6g7kzxt2ovu6-n71_kzxt-3" mz="Head">Besta Antiga</string>
 	<string name="0xrxw6g7kzxt2ovu6-n76_ck4y" mz="n76">Pesquisar</string>
-	<string name="0xrxw6g7kzxt2ovu6-n96_yp4s" mz="jiemiunder">Select the clue</string>
+	<string name="0xrxw6g7kzxt2ovu6-n96_yp4s" mz="jiemiunder">Selecione a pista</string>
 	<string name="0xrxw6g7kzxt2ovu6-n98_yp4s" mz="n98">Confirmar</string>
 	<string name="0xrxw6g7kzxt2ovu6-n99_yp4s" mz="n99">Cancelar</string>
 	<string name="0xrxw6g7j83c2ovu8-n76_j83c" mz="leftNpcName">Mysterious person</string>
 	<string name="0xrxw6g7j83c2ovu8-n87_j83c" mz="rightNpcName">Mysterious person</string>
-	<string name="0xrxw6g7j83c2ovu8-n103_j83c-tips" mz="n103">Emotional Guard: Before the character lowers their guard down, their favor will be no more than 60, and they will not reveal the most important information.</string>
-	<string name="0xrxw6g7j83c2ovu8-n110_stle-tips" mz="n110">Talk about their weakness to help lower their guard down. When a character becomes cautious, their favor will increase at a slower pace, while any decrease will double. The success rate of any interaction will be reduced to half.</string>
+	<string name="0xrxw6g7j83c2ovu8-n103_j83c-tips" mz="n103">Guarda Emocional: Antes que o personagem baixe a guarda, seu favor não será superior a 60, e ele não revelará as informações mais importantes.</string>
+	<string name="0xrxw6g7j83c2ovu8-n110_stle-tips" mz="n110">Fale sobre a fraqueza deles para ajudar a baixar a guarda. Quando um personagem se torna cauteloso, seu favor aumentará em um ritmo mais lento, enquanto qualquer diminuição dobrará. A taxa de sucesso de qualquer interação será reduzida à metade.</string>
 	<string name="0xrxw6g7j83c2ovu8-n110_stle" mz="n110">Cautious</string>
 	<string name="0xrxw6g7j83c2ovu8-n111_yp4s-texts_0" mz="n111">Divinity Persuasion</string>
 	<string name="0xrxw6g7j83c2ovu8-n111_yp4s-texts_def" mz="n111">Soul Interrogation</string>
@@ -1036,13 +1036,13 @@ Inspiration required to learn Earth or undefined manuals is based on the lesser 
 	<string name="0xrxw6g7j83c2ovu8-n131_n9su-texts_0" mz="kaowen">Persuasion</string>
 	<string name="0xrxw6g7j83c2ovu8-n131_n9su-texts_1" mz="kaowen">Give</string>
 	<string name="0xrxw6g7j83c2ovu8-n131_n9su-texts_def" mz="kaowen">Interrogation</string>
-	<string name="0xrxw6g7j83c2ovu8-n115_yp4s-tips" mz="n115">The predestiny between the character and the player's character. The better it is, the higher the character's initial belief will be as the core follower of the Shendao cultivator.</string>
-	<string name="0xrxw6g7j83c2ovu8-n116_scuo-tips" mz="n89">Talk to and get to know each other to find out useful information.</string>
-	<string name="0xrxw6g7j83c2ovu8-n117_scuo-tips" mz="n91">Select different topics to discuss with the other person.</string>
-	<string name="0xrxw6g7j83c2ovu8-n118_scuo-tips" mz="n96">End Conversation</string>
-	<string name="0xrxw6g7j83c2ovu8-n119_scuo-tips" mz="n119">More interactions, such as giving gifts, invitation, etc.</string>
+	<string name="0xrxw6g7j83c2ovu8-n115_yp4s-tips" mz="n115">A predestinação entre o personagem e o personagem do jogador. Quanto melhor for, maior será a crença inicial do personagem como o principal seguidor do cultivo de Shendao.</string>
+	<string name="0xrxw6g7j83c2ovu8-n116_scuo-tips" mz="n89">Converse e conheça uns aos outros para obter informações úteis.</string>
+	<string name="0xrxw6g7j83c2ovu8-n117_scuo-tips" mz="n91">Selecione diferentes tópicos para discutir com a outra pessoa.</string>
+	<string name="0xrxw6g7j83c2ovu8-n118_scuo-tips" mz="n96">Terminar conversa</string>
+	<string name="0xrxw6g7j83c2ovu8-n119_scuo-tips" mz="n119">Mais interações, como dar presentes, convites, etc.</string>
 	<string name="0xrxw6g7j83c2ovu8-n123_scuo" mz="t1">Chat</string>
-	<string name="0xrxw6g7j83c2ovu8-n124_scuo" mz="t2">Discuss</string>
+	<string name="0xrxw6g7j83c2ovu8-n124_scuo" mz="t2">Discutir</string>
 	<string name="0xrxw6g7j83c2ovu8-n125_scuo" mz="t3">Act</string>
 	<string name="0xrxw6g7j83c2ovu8-n126_scuo" mz="t4">Sair</string>
 	<string name="0xrxw6g7yp4s2ovw6-n108_yp4s" mz="n108">Desbloquear</string>
@@ -1072,9 +1072,9 @@ Inspiration required to learn Earth or undefined manuals is based on the lesser 
 	<string name="0xrxw6g7q39452ow2x-n2_bj7q" mz="n2">Ashdash Da Soda</string>
 	<string name="0xrxw6g7q39452ow2w-n6_bj7q" mz="n6">Actual Act</string>
 	<string name="0xrxw6g7q39452ow2v-n33_bj7q" mz="n1_item">Item</string>
-	<string name="0xrxw6g7q39452ow2v-n3_bj7q" mz="n2_type">Category</string>
-	<string name="0xrxw6g7q39452ow2v-n4_bj7q" mz="n3_effect">Effect</string>
-	<string name="0xrxw6g7q39452ow2v-n5_bj7q" mz="n4_str">Muscle</string>
+	<string name="0xrxw6g7q39452ow2v-n3_bj7q" mz="n2_type">Categoria</string>
+	<string name="0xrxw6g7q39452ow2v-n4_bj7q" mz="n3_effect">Efeito</string>
+	<string name="0xrxw6g7q39452ow2v-n5_bj7q" mz="n4_str">Músculo</string>
 	<string name="0xrxw6g7q39452ow2v-n6_bj7q" mz="n5_fat">Fat</string>
 	<string name="0xrxw6g7q39452ow2v-n44_q569-tips" mz="n6_nur">Food needed to be fully functional.</string>
 	<string name="0xrxw6g7q39452ow2v-n44_q569" mz="n6_nur">Nutrition</string>
@@ -1112,11 +1112,11 @@ Inspiration required to learn Earth or undefined manuals is based on the lesser 
 	<string name="0xrxw6g7hu0sovpf-n5_hu0s" mz="lv">Spiritualized</string>
 	<string name="0xrxw6g7bpyoovpd-n4_bpyo" mz="title">Alchemy Related</string>
 	<string name="0xrxw6g7dq2fovp2-n3_hs0e" mz="title">Aargh!!!!!</string>
-	<string name="0xrxw6g7dq2fovp1-n2_dq2f-tips" mz="normal">Any common items can be crafted into an artifact on the crafting table. According to the different types of the items, the crafted artifacts will have different stats.</string>
+	<string name="0xrxw6g7dq2fovp1-n2_dq2f-tips" mz="normal">Quaisquer itens comuns podem ser criados em um artefato na mesa de trabalho. De acordo com os diferentes tipos de itens, os artefatos criados terão estatísticas diferentes.</string>
 	<string name="0xrxw6g7dq2fovp1-n2_dq2f" mz="normal">Artifact</string>
-	<string name="0xrxw6g7dq2fovp1-n4_dq2f-tips" mz="make">Legacy artifacts crafted through special methods will have more powerful properties than randomly crafted artifacts.</string>
+	<string name="0xrxw6g7dq2fovp1-n4_dq2f-tips" mz="make">Artefatos legados criados por métodos especiais terão propriedades mais poderosas do que artefatos criados aleatoriamente.</string>
 	<string name="0xrxw6g7dq2fovp1-n4_dq2f" mz="make">Legacy Artifact</string>
-	<string name="0xrxw6g7dq2fovp1-n5_dq2f-tips" mz="doublemake">A cultivator with the primordial spirit can use a sub-spirit as the carrier to attach their understanding of cultivation to their equipment.</string>
+	<string name="0xrxw6g7dq2fovp1-n5_dq2f-tips" mz="doublemake">Um cultivador com o espírito primordial pode usar um sub-espírito como portador para anexar sua compreensão do cultivo ao seu equipamento.</string>
 	<string name="0xrxw6g7dq2fovp1-n5_dq2f" mz="doublemake">Attachment</string>
 	<string name="0xrxw6g7lld3nk-n112_coc5" mz="title">Message Content</string>
 	<string name="0xrxw6g7qp12ly-n14_s6sr" mz="n14">Delete</string>
@@ -1126,21 +1126,21 @@ Inspiration required to learn Earth or undefined manuals is based on the lesser 
 	<string name="0xrxw6g7qale2ovsg-n184_qale" mz="frame">Manage Mods</string>
 	<string name="0xrxw6g7qale2ovsg-n191_qale" mz="n191">Subscribe/Activate</string>
 	<string name="0xrxw6g7qale2ovsg-n192_qale" mz="n192">Nome</string>
-	<string name="0xrxw6g7qale2ovsg-n193_qale" mz="n193">Category</string>
+	<string name="0xrxw6g7qale2ovsg-n193_qale" mz="n193">Categoria</string>
 	<string name="0xrxw6g7qale2ovsg-n194_qale" mz="n194">Status</string>
 	<string name="0xrxw6g7qale2ovsg-n202_qale" mz="alldown">Download All</string>
 	<string name="0xrxw6g7qale2ovsg-n203_qale" mz="allactive">Activate All</string>
 	<string name="0xrxw6g7qale2ovsg-n204_qale" mz="back">Retornar</string>
-	<string name="0xrxw6g7j4somq-n122_j4so" mz="frame">Submit Mod</string>
-	<string name="0xrxw6g7j4somq-n124_j4so" mz="n124">Title</string>
+	<string name="0xrxw6g7j4somq-n122_j4so" mz="frame">Enviar Mod</string>
+	<string name="0xrxw6g7j4somq-n124_j4so" mz="n124">Título</string>
 	<string name="0xrxw6g7j4somq-n156_j4so" mz="n156">Autor</string>
 	<string name="0xrxw6g7j4somq-n157_j4so" mz="n157">Mod Version</string>
-	<string name="0xrxw6g7j4somq-n158_j4so" mz="n158">Required Game Version</string>
-	<string name="0xrxw6g7j4somq-n159_j4so" mz="n159">Mod Description</string>
+	<string name="0xrxw6g7j4somq-n158_j4so" mz="n158">Versão do jogo necessária</string>
+	<string name="0xrxw6g7j4somq-n159_j4so" mz="n159">Descrição do mod</string>
 	<string name="0xrxw6g7j4somq-n160_j4so" mz="n160">Notas de atualização</string>
-	<string name="0xrxw6g7j4somq-n136_j4so" mz="n136">Submit</string>
+	<string name="0xrxw6g7j4somq-n136_j4so" mz="n136">Enviar</string>
 	<string name="0xrxw6g7j4somq-n170_bv7o" mz="n166">Edit Thumbnail</string>
-	<string name="0xrxw6g7j4somq-n183_vsh5" mz="n183">Mod Category</string>
+	<string name="0xrxw6g7j4somq-n183_vsh5" mz="n183">Mod Categoria</string>
 	<string name="0xrxw6g7j4somq-n186_p6cw" mz="n186">Required Mods</string>
 	<string name="0xrxw6g7j4somq-n175_bv7o" mz="n175">Select Label(s)</string>
 	<string name="0xrxw6g7tifuvnp-n102_qale" mz="n102">Activate</string>
@@ -1186,10 +1186,10 @@ Inspiration required to learn Earth or undefined manuals is based on the lesser 
 	<string name="0xrxw6g7a1h9mg-n170_9pvb" mz="cancelsub">Unsubscribe</string>
 	<string name="0xrxw6g7a1h9mg-n171_mtcb-tips" mz="upmod">Unsubscribe from this mod.</string>
 	<string name="0xrxw6g7a1h9mg-n171_mtcb" mz="upmod">Update Mod</string>
-	<string name="0xrxw6g7a1h9mg-n172_ic9g" mz="n172">This mod may cause errors in the game.</string>
-	<string name="0xrxw6g7a1h9mg-n179_xur5" mz="n179">Required Mods</string>
+	<string name="0xrxw6g7a1h9mg-n172_ic9g" mz="n172">Este mod pode causar erros no jogo.</string>
+	<string name="0xrxw6g7a1h9mg-n179_xur5" mz="n179">Mods necessários</string>
 	<string name="0xrxw6g7a1h9mg-n182_xur5-tips" mz="loadmod">Manage Required Mods</string>
-	<string name="0xrxw6g7a1h9mg-n185_9emz" mz="n185">To use mods, please put them in the mods folder in the game path.</string>
+	<string name="0xrxw6g7a1h9mg-n185_9emz" mz="n185">Para usar mods, coloque-os na pasta mods no caminho do jogo.</string>
 	<string name="0xrxw6g7iqu5ovo5-n108_ea74" mz="title">Project</string>
 	<string name="0xrxw6g7iqu5ovo5-n109_ea74" mz="content">Test</string>
 	<string name="0xrxw6g7ikk5vnk-n82_ikk5" mz="frame">Realms Palace</string>
@@ -1930,63 +1930,63 @@ The inpirations needed by learning earth manuals is determined by the fewer betw
 O segredo profundo que todas as seitas escondem?
 O universo no mini universo?
 Tentar resolver todo o segredo e desvendar a verdade.</string>
-	<string name="0xrxw6g7n3hgljryz2-n123_n3hg" mz="n123">Plot domination</string>
-	<string name="0xrxw6g7n3hgljryz2-n108_n3hg" mz="n108">Ancient domination</string>
-	<string name="0xrxw6g7n3hgljryz2-n106_n3hg" mz="n106">Beasts domination</string>
-	<string name="0xrxw6g7n3hgljryz2-n112_n3hg-tips" mz="n112">It is an ancient story, that the tier one golder core if far from the limit for profound sects and peerless gifted cultvators. If you can create a golden core high than tier one, you surely can make an impact on the world!</string>
-	<string name="0xrxw6g7n3hgljryz2-n113_n3hg" mz="n113">Golden core Tier 0</string>
-	<string name="0xrxw6g7n3hgljryz2-n116_n3hg" mz="n116">Sects domination</string>
-	<string name="0xrxw6g7n3hgljryz2-n136_ozep" mz="n136">Screen
-Share</string>
-	<string name="0xrxw6g7n3hgljrz04-n88_9fbe" mz="frame">Sects domination</string>
-	<string name="0xrxw6g7n3hgljrz04-n125_n3hg" mz="n125">Beasts domination</string>
-	<string name="0xrxw6g7n3hgljrz04-n168_n3hg-tips" mz="n123">The ancient dragon forbidden area of Longtai reappeared. People went to look for opportunities. But no one expected that the formation used to seal the fierce Phoenix, the great enemy of the dragon clan, had also been inadvertently destroyed by people who knew nothing about it. It is said that the fierce Phoenix was originally a auspicious beast in ancient times. After killing and robbing, it became nirvana. After waking up again, it was already in a frenzy. Its fierce power was unparalleled. It even ate dragons. It was also the most fierce existence in ancient times when there were many strong people. Now the fierce Phoenix is recovering again. Although its strength is not one in ten, it may also be a catastrophe in the world...</string>
-	<string name="0xrxw6g7n3hgljrz04-n168_n3hg" mz="n123">Phoenix</string>
-	<string name="0xrxw6g7n3hgljrz04-n174_n3hg-tips" mz="n124">With the recovery of the Qi of heaven and earth, the dragon egg sealed in the mountains of the moon wheel in ancient times hatched again. The newly hatched dragon opened up the earth's surface with magical powers and wanted to help it recover by enslaving creatures on the earth's surface with miracles.</string>
-	<string name="0xrxw6g7n3hgljrz04-n174_n3hg" mz="n124">Flood Dragon</string>
-	<string name="0xrxw6g7n3hgljrz04-n175_n3hg-tips" mz="n126">The torch dragon was originally the manifestation of the way of yin and Yang in the world. It has returned to the Tao since ancient times. Now, the increasingly fierce dispute between good and evil once again disrupts the avenue of yin and Yang. Affected by this Qi machine, the real body of the torch dragon is again manifested in the world in a chaotic form.</string>
-	<string name="0xrxw6g7n3hgljrz04-n175_n3hg" mz="n126">Torch Dragon</string>
-	<string name="0xrxw6g7n3hgljrz01-n88_9fbe" mz="frame">Sects domination</string>
-	<string name="0xrxw6g7n3hgljrz01-n125_n3hg" mz="n125">Ancient domination</string>
-	<string name="0xrxw6g7n3hgljrz01-n175_d4xr" mz="n175">Many ancient cultivators comes out, the cultivation realm becomes unstable now.
-These ancient sages are skillful and powerful, with unique treasures.
-Conquer them, gain your fame!</string>
+	<string name="0xrxw6g7n3hgljryz2-n123_n3hg" mz="n123">Dominação da trama</string>
+	<string name="0xrxw6g7n3hgljryz2-n108_n3hg" mz="n108">Dominação antiga</string>
+	<string name="0xrxw6g7n3hgljryz2-n106_n3hg" mz="n106">Dominação de Bestas</string>
+	<string name="0xrxw6g7n3hgljryz2-n112_n3hg-tips" mz="n112">É uma história antiga, que o núcleo de ouro de nível um está longe do limite para seitas profundas e cultivadores talentosos inigualáveis. Se você conseguir criar um núcleo dourado mais alto do que o nível um, certamente poderá causar impacto no mundo!</string>
+	<string name="0xrxw6g7n3hgljryz2-n113_n3hg" mz="n113">Núcleo Dourado Tier 0</string>
+	<string name="0xrxw6g7n3hgljryz2-n116_n3hg" mz="n116">Dominação de seitas</string>
+	<string name="0xrxw6g7n3hgljryz2-n136_ozep" mz="n136">Share
+screen</string>
+	<string name="0xrxw6g7n3hgljrz04-n88_9fbe" mz="frame">Dominação de seitas</string>
+	<string name="0xrxw6g7n3hgljrz04-n125_n3hg" mz="n125">Dominação das feras</string>
+	<string name="0xrxw6g7n3hgljrz04-n168_n3hg-tips" mz="n123">A antiga área proibida do dragão de Longtai reapareceu. As pessoas foram em busca de oportunidades. Mas ninguém esperava que a formação usada para selar a feroz Fênix, a grande inimiga do clã dos dragões, também tivesse sido inadvertidamente destruída por pessoas que nada sabiam a respeito. Diz-se que a feroz Fênix era originalmente uma fera auspiciosa nos tempos antigos. Depois de matar e roubar, tornou-se o nirvana. Depois de acordar novamente, já estava em frenesi. Seu poder feroz era incomparável. Até comeu dragões. Foi também a existência mais feroz nos tempos antigos, quando havia muitas pessoas fortes. Agora a feroz Fênix está se recuperando novamente. Embora sua força não seja uma em dez, também pode ser uma catástrofe no mundo...</string>
+	<string name="0xrxw6g7n3hgljrz04-n168_n3hg" mz="n123">Fénix</string>
+	<string name="0xrxw6g7n3hgljrz04-n174_n3hg-tips" mz="n124">Com a recuperação do Qi do céu e da terra, o ovo de dragão selado nas montanhas da roda da lua nos tempos antigos eclodiu novamente. O dragão recém-nascido abriu a superfície da terra com poderes mágicos e queria ajudá-lo a se recuperar escravizando criaturas na superfície da terra com milagres.</string>
+	<string name="0xrxw6g7n3hgljrz04-n174_n3hg" mz="n124">Dragão da Inundação</string>
+	<string name="0xrxw6g7n3hgljrz04-n175_n3hg-tips" mz="n126">O dragão da tocha foi originalmente a manifestação do caminho do yin e do yang no mundo. Ele retornou ao Tao desde os tempos antigos. Agora, a disputa cada vez mais acirrada entre o bem e o mal mais uma vez interrompe a avenida do yin e do yang. Afetado por esta máquina de Qi, o corpo real do dragão da tocha é novamente manifestado no mundo de uma forma caótica.</string>
+	<string name="0xrxw6g7n3hgljrz04-n175_n3hg" mz="n126">Dragão da tocha</string>
+	<string name="0xrxw6g7n3hgljrz01-n88_9fbe" mz="frame">Dominação de seitas</string>
+	<string name="0xrxw6g7n3hgljrz01-n125_n3hg" mz="n125">Dominação antiga</string>
+	<string name="0xrxw6g7n3hgljrz01-n175_d4xr" mz="n175">Muitos cultivadores antigos saem, o reino de cultivo se torna instável agora.
+Esses sábios antigos são hábeis e poderosos, com tesouros únicos.
+Conquiste-os, ganhe sua fama!</string>
 	<string name="0xrxw6g7n3hgljrz01-n146_n3hg" mz="n154">Base Qi</string>
-	<string name="0xrxw6g7n3hgljrz01-n155_n3hg" mz="n155">Sheild ability</string>
-	<string name="0xrxw6g7n3hgljrz01-n156_n3hg" mz="n156">Artifact power</string>
-	<string name="0xrxw6g7n3hgljrz01-n157_n3hg" mz="n157">Artifact Qi</string>
-	<string name="0xrxw6g7n3hgljrz01-n158_n3hg" mz="n158">Artifact Speed</string>
-	<string name="0xrxw6g7n3hgljrz01-n160_n3hg" mz="n160">Artifact features</string>
-	<string name="0xrxw6g7n3hgljrz01-n171_n3hg" mz="n171">Number of Artifacts</string>
-	<string name="0xrxw6g7n3hgljrz01-n172_n3hg" mz="n172">Spell damage</string>
-	<string name="0xrxw6g7n3hgljrz01-n173_n3hg" mz="n173">Spell cooldown</string>
-	<string name="0xrxw6g7n3hgljryzx-n88_9fbe" mz="frame">Sects domination</string>
-	<string name="0xrxw6g7n3hgljryzx-n125_n3hg" mz="n125">Sects domination</string>
-	<string name="0xrxw6g7n3hgljryzx-n126_n3hg-tips" mz="n126">Direct descendant of the way of Supreme Clarity in the mortal realm. Located at the top of Mt. Sunshade, it is a pillar in the world of just. The Sunshade Abode excels at artifact crafting. All ten of the Divine Swords they keep in their sect as a deterrence are finest weapons of unparalleled quality, being tier ten or above.</string>
-	<string name="0xrxw6g7n3hgljryzx-n131_n3hg-tips" mz="n131">The ancient sect of the Southern Cult, consisting mostly of savages from the Southern Frontier. They are very evil and brutal, often committing crimes in the world of cultivators that are too horrific to tell.</string>
+	<string name="0xrxw6g7n3hgljrz01-n155_n3hg" mz="n155">Habilidade de escudo</string>
+	<string name="0xrxw6g7n3hgljrz01-n156_n3hg" mz="n156">Poder do artefato</string>
+	<string name="0xrxw6g7n3hgljrz01-n157_n3hg" mz="n157">Artefato Qi</string>
+	<string name="0xrxw6g7n3hgljrz01-n158_n3hg" mz="n158">Vel. do artefato</string>
+	<string name="0xrxw6g7n3hgljrz01-n160_n3hg" mz="n160">Recursos de artefato</string>
+	<string name="0xrxw6g7n3hgljrz01-n171_n3hg" mz="n171">Número de artefatos</string>
+	<string name="0xrxw6g7n3hgljrz01-n172_n3hg" mz="n172">Dano mágico</string>
+	<string name="0xrxw6g7n3hgljrz01-n173_n3hg" mz="n173">Recarga de magia</string>
+	<string name="0xrxw6g7n3hgljryzx-n88_9fbe" mz="frame">Dominação de seitas</string>
+	<string name="0xrxw6g7n3hgljryzx-n125_n3hg" mz="n125">Dominação de seitas</string>
+	<string name="0xrxw6g7n3hgljryzx-n126_n3hg-tips" mz="n126">Descendente direto do caminho da Suprema Clareza no reino mortal. Localizado no topo do Mt. Sunshade, é um pilar no mundo do justo. A Sunshade Abode é excelente na criação de artefatos. Todas as dez Espadas Divinas que eles mantêm em sua seita como dissuasão são as melhores armas de qualidade incomparável, sendo de nível dez ou superior.</string>
+	<string name="0xrxw6g7n3hgljryzx-n131_n3hg-tips" mz="n131">A antiga seita do Culto do Sul, consistindo principalmente de selvagens da Fronteira Sul. Eles são muito maus e brutais, muitas vezes cometendo crimes no mundo dos cultivadores que são horríveis demais para serem contados.</string>
 	<string name="0xrxw6g7n3hgljryzx-n131_n3hg" mz="n131">Mt. Hundred Insects</string>
-	<string name="0xrxw6g7n3hgljryzx-n132_n3hg-tips" mz="n132">A sect that actively participates in secular affairs, known for their experienced reading of Feng Shui. The sect principle is to practice Taoist virtues by going on adventures. Their disciples seek immortality, but also act like travelling warriors, most of which wander around the world by reading Feng Shui and telling fortune.</string>
-	<string name="0xrxw6g7n3hgljryzx-n132_n3hg" mz="n132">Purple Cloud Temple</string>
-	<string name="0xrxw6g7n3hgljryzx-n133_n3hg-tips" mz="n133">An evil sect based on the Reunion Isle. Its main disciples are all females, known to the rest of the world for their skilled extraction of Qi from men.</string>
-	<string name="0xrxw6g7n3hgljryzx-n133_n3hg" mz="n133">Exultant Sect</string>
-	<string name="0xrxw6g7n3hgljryzx-n134_n3hg-tips" mz="n134">Reclusive sect located at the Heavenstep Peak, it only accept beautiful men and women as disciples. They practice a secret Law in which one embrace their emotions and passion in the process of cultivation, but then throw them all away in order to approach a supreme state, leaving numerous languishing men and women in the world of cultivators as a result.</string>
-	<string name="0xrxw6g7n3hgljryzx-n134_n3hg" mz="n134">Skydome Palace</string>
-	<string name="0xrxw6g7n3hgljryzx-n135_n3hg-tips" mz="n135">Descendant of the way of Jade Clarity passed down from the Primordial Lord. Proudly located at the foot of Mt. Kunlun, the ancestral dragon veins of fortune, it is a pillar in the world of just. The Jade Purity Immortal Law sought by the Kunluns are known for its vigorous power. With a large number of disciples, it is considered the greatest of just sects.</string>
-	<string name="0xrxw6g7n3hgljryzx-n135_n3hg" mz="n135">Kunlun Palace</string>
+	<string name="0xrxw6g7n3hgljryzx-n132_n3hg-tips" mz="n132">Uma seita que participa ativamente de assuntos seculares, conhecida por sua experiência na leitura do Feng Shui. O princípio da seita é praticar as virtudes taoístas em aventuras. Seus discípulos buscam a imortalidade, mas também agem como guerreiros viajantes, a maioria dos quais vagam pelo mundo lendo Feng Shui e adivinhando a sorte.</string>
+	<string name="0xrxw6g7n3hgljryzx-n132_n3hg" mz="n132">Templo da Nuvem Roxa</string>
+	<string name="0xrxw6g7n3hgljryzx-n133_n3hg-tips" mz="n133">Uma seita maligna baseada na Ilha da Reunião. Suas principais discípulas são todas mulheres, conhecidas no resto do mundo por sua habilidosa extração de Qi dos homens.</string>
+	<string name="0xrxw6g7n3hgljryzx-n133_n3hg" mz="n133">Seita Exultante</string>
+	<string name="0xrxw6g7n3hgljryzx-n134_n3hg-tips" mz="n134">Seita reclusa localizada no Pico Heavenstep, ela só aceita belos homens e mulheres como discípulos. Eles praticam uma Lei secreta na qual se abraça suas emoções e paixões no processo de cultivo, mas depois as joga fora para se aproximar de um estado supremo, deixando como resultado numerosos homens e mulheres definhando no mundo dos cultivadores.</string>
+	<string name="0xrxw6g7n3hgljryzx-n134_n3hg" mz="n134">Palácio Skydome</string>
+	<string name="0xrxw6g7n3hgljryzx-n135_n3hg-tips" mz="n135">Descendente do caminho da Clareza de Jade passado do Senhor Primordial. Orgulhosamente localizado no sopé do Monte Kunlun, as veias ancestrais do dragão da fortuna, é um pilar no mundo da justiça. A Lei Imortal da Pureza de Jade procurada pelos Kunluns é conhecida por seu vigor vigoroso. Com um grande número de discípulos, é considerada a maior das seitas justas.</string>
+	<string name="0xrxw6g7n3hgljryzx-n135_n3hg" mz="n135">Palácio Kunlun</string>
 	<string name="0xrxw6g7n3hgljryzx-n136_n3hg-tips" mz="n136">Seita do mal localizada em Mt. Pitfall que acredita na Mãe Terra. Caminho das Extremidades Duplas é a técnica suprema no Códice secreto da seita. Ele permite aproveitar o Qi do Metaímã nas profundezas da crosta terrestre e incorporá-lo ao corpo para formar um forte campo magnético. Qualquer pessoa que não siga a mesma Lei será afetada negativamente se chegar a 300 metros, sentindo-se extremamente desconfortável e com o fluxo de Qi perturbado. Assim, esta seita é extremamente difícil de se infiltrar e é misteriosa até mesmo entre os cultivadores.</string>
-	<string name="0xrxw6g7n3hgljryzx-n136_n3hg" mz="n136">Pit of Doom</string>
-	<string name="0xrxw6g7n3hgljryzx-n138_n3hg-tips" mz="n138">The ultimate evil sect in today's world, mostly known among cultivators for their violent sword techniques. The sect buildings are similarly aggressive, with formidable sword formations lining around the sect.</string>
-	<string name="0xrxw6g7n3hgljryzx-n138_n3hg" mz="n138">Seven-Slaughtering Sect</string>
-	<string name="0xrxw6g7n3hgljryzx-n139_n3hg-tips" mz="n139">Evenfall Abode is located on the bank of Celestial Pool in Mt. Nelumbo. Their disciples are skilled alchemists, known for their healing power and aloofness in the world of cultivators.</string>
-	<string name="0xrxw6g7n3hgljryzx-n139_n3hg" mz="n139">Evenfall Abode</string>
-	<string name="0xrxw6g7n3hgljryzx-n140_n3hg-tips" mz="n140">A secluded sect founded by the Blue Lotus Immortal, known for their mastery of sword that is used for killing. The sect principle is to live a liberated life.</string>
-	<string name="0xrxw6g7n3hgljryzx-n140_n3hg" mz="n140">Blue Lotus Temple</string>
-	<string name="0xrxw6g7n3hgljryzx-n141_n3hg-tips" mz="n141">A sect that actively participates in secular affairs. The national religion in the mortal realm and counselor of the emperor. The sect buildings all look luxurious and solemn, with purple as their basic color, displaying a sense of royalty. As the national religion, the sect has continuous followers.</string>
-	<string name="0xrxw6g7n3hgljryzx-n141_n3hg" mz="n141">Mystic Unity Sect</string>
+	<string name="0xrxw6g7n3hgljryzx-n136_n3hg" mz="n136">Poço da Perdição</string>
+	<string name="0xrxw6g7n3hgljryzx-n138_n3hg-tips" mz="n138">A última seita do mal no mundo de hoje, mais conhecida entre os cultivadores por suas técnicas violentas de espada. Os edifícios da seita são igualmente agressivos, com formidáveis formações de espadas ao redor da seita.</string>
+	<string name="0xrxw6g7n3hgljryzx-n138_n3hg" mz="n138">Seita dos Sete Abates</string>
+	<string name="0xrxw6g7n3hgljryzx-n139_n3hg-tips" mz="n139">Evenfall Abode está localizada na margem do Celestial Pool em Mt. Nelumbo. Seus discípulos são alquimistas habilidosos, conhecidos por seu poder de cura e distanciamento no mundo dos cultivadores.</string>
+	<string name="0xrxw6g7n3hgljryzx-n139_n3hg" mz="n139">Morada do Entardecer</string>
+	<string name="0xrxw6g7n3hgljryzx-n140_n3hg-tips" mz="n140">Uma seita isolada fundada pelo Lótus Azul Imortal, conhecido por seu domínio da espada que é usada para matar. O princípio da seita é viver uma vida liberada.</string>
+	<string name="0xrxw6g7n3hgljryzx-n140_n3hg" mz="n140">Templo do Lótus Azul</string>
+	<string name="0xrxw6g7n3hgljryzx-n141_n3hg-tips" mz="n141">Uma seita que participa ativamente de assuntos seculares. A religião nacional no reino mortal e conselheira do imperador. Os edifícios da seita parecem luxuosos e solenes, com roxo como sua cor básica, exibindo um senso de realeza. Como religião nacional, a seita tem seguidores contínuos.</string>
+	<string name="0xrxw6g7n3hgljryzx-n141_n3hg" mz="n141">Seita da Unidade Mística</string>
 	<string name="0xrxw6g7n3hgljryzx-n142_n3hg-tips" mz="n142">No Mar do Leste, uma montanha alta e nebulosa de imortais apareceu de repente no mundo mortal. Os cultivadores exploraram o lugar e descobriram que é um reino sem limites e há muito perdido de imortais, e escondido dentro de uma seita taoísta isolada! Os ensinamentos taoístas da seita são transmitidos diretamente do Guerreiro Aperfeiçoado. Todos os seus discípulos dominaram a essência do Tao e são excelentes na expulsão de demônios. O reino é conhecido como as Montanhas Wudang!</string>
-	<string name="0xrxw6g7n3hgljryzx-n142_n3hg" mz="n142">Wudang Sect</string>
+	<string name="0xrxw6g7n3hgljryzx-n142_n3hg" mz="n142">Wudang Seita</string>
 	<string name="0xrxw6g7n3hgljryzx-n143_n3hg-tips" mz="n143">Uma enorme facção do mal localizada nas profundezas do Great Western Desert.</string>
-	<string name="0xrxw6g7n3hgljryzx-n143_n3hg" mz="n143">Daemonia Temple</string>
+	<string name="0xrxw6g7n3hgljryzx-n143_n3hg" mz="n143">Templo do Demônio</string>
 	<string name="0xrxw6g7hl5lkd-n7_hdhl" mz="frame">Console</string>
 	<string name="0xrxw6g7hl5lkd-n65_hl5l" mz="n65">dasdasd</string>
 	<string name="0xrxw6g7hl5lkd-n68_hl5l-prompt" mz="n68">CMD</string>
@@ -2040,10 +2040,10 @@ Conquer them, gain your fame!</string>
 	<string name="0xrxw6g77a6u3p-n61_oxm4" mz="n61">Densidade</string>
 	<string name="0xrxw6g77a6u3p-n62_oxm4" mz="n62">Taxa de crescimento mínima aleatória da planta</string>
 	<string name="0xrxw6g77a6u3p-n64_oxm4" mz="n64">Taxa de crescimento de planta máxima aleatória</string>
-	<string name="0xrxw6g77a6u3p-n70_oxm4" mz="n70">Rectangle</string>
-	<string name="0xrxw6g77a6u3p-n70_oxm4-0" mz="n70">Rectangle</string>
+	<string name="0xrxw6g77a6u3p-n70_oxm4" mz="n70">Retângulo</string>
+	<string name="0xrxw6g77a6u3p-n70_oxm4-0" mz="n70">Retângulo</string>
 	<string name="0xrxw6g77a6u3p-n70_oxm4-1" mz="n70">Oval</string>
-	<string name="0xrxw6g77a6u3p-n70_oxm4-2" mz="n70">Straight Line</string>
+	<string name="0xrxw6g77a6u3p-n70_oxm4-2" mz="n70">Linha reta</string>
 	<string name="0xrxw6g77a6u3p-n70_oxm4-3" mz="n70">Ponto</string>
 	<string name="0xrxw6g77a6u3p-n71_veo0" mz="n71">Forma:</string>
 	<string name="0xrxw6g77a6u3p-n86_plhi" mz="n86">Aleatório</string>
@@ -2054,11 +2054,11 @@ Conquer them, gain your fame!</string>
 	<string name="0xrxw6g77a6u3p-n92_plhi" mz="n92">Número:</string>
 	<string name="0xrxw6g77a6u3p-n96_wtx7-0" mz="n96">Rectângulo</string>
 	<string name="0xrxw6g77a6u3p-n96_wtx7-1" mz="n96">Oval</string>
-	<string name="0xrxw6g77a6u3p-n96_wtx7-2" mz="n96">Straight Line</string>
+	<string name="0xrxw6g77a6u3p-n96_wtx7-2" mz="n96">Linha reta</string>
 	<string name="0xrxw6g77a6u3p-n96_wtx7-3" mz="n96">Ponto</string>
 	<string name="0xrxw6g77a6u3p-n97_wtx7" mz="n97">Poder:</string>
-	<string name="0xrxw6g77a6u3p-n99_wtx7" mz="n99">Immortal Cultivator</string>
-	<string name="0xrxw6g77a6u3p-n99_wtx7-0" mz="n99">Immortal Cultivator</string>
+	<string name="0xrxw6g77a6u3p-n99_wtx7" mz="n99">Cultivador Imortal</string>
+	<string name="0xrxw6g77a6u3p-n99_wtx7-0" mz="n99">Cultivador Imortal</string>
 	<string name="0xrxw6g77a6u3p-n99_wtx7-1" mz="n99">Physical Cultivator</string>
 	<string name="0xrxw6g77a6u3p-n100_wtx7" mz="n100">Path:</string>
 	<string name="0xrxw6g77a6u3p-n102_wtx7" mz="n102">Aleatório</string>
@@ -2082,9 +2082,9 @@ jogo</string>
 	<string name="0xrxw6g7fak9vnk-n187_qx12-tips" mz="n187">Importar código de compartilhamento</string>
 	<string name="0xrxw6g7fak9vnk-n187_qx12" mz="n187">Importar</string>
 	<string name="0xrxw6g7fak9vnk-n193_sa5f" mz="n193">*Você pode aumentar a dificuldade do jogo a qualquer momento.</string>
-	<string name="0xrxw6g7fak9vnk-n219_t7f5" mz="n219">Immortal</string>
-	<string name="0xrxw6g7fak9vnk-n248_pikg-tips" mz="immortallevel">Immortal Difficulty Title</string>
-	<string name="0xrxw6g7fak9vnk-n247_pikg-tips" mz="immortalpoint">The level of difficult in Immortal.</string>
+	<string name="0xrxw6g7fak9vnk-n219_t7f5" mz="n219">Imortal</string>
+	<string name="0xrxw6g7fak9vnk-n248_pikg-tips" mz="immortallevel">Título de Dificuldade Imortal</string>
+	<string name="0xrxw6g7fak9vnk-n247_pikg-tips" mz="immortalpoint">O nível de dificuldade em Imortal.</string>
 	<string name="0xrxw6g7fak9vnk-n243_t7f5" mz="n243">Confirmar</string>
 	<string name="0xrxw6g7fak9vnk-n244_t7f5" mz="n244">Cancelar</string>
 	<string name="0xrxw6g7fak9vnk-n205_t7f5" mz="n205">Residência</string>
@@ -2114,7 +2114,7 @@ jogo</string>
 	<string name="0xrxw6g7el231y-n136_vn1e-tips" mz="search">Pesquisar</string>
 	<string name="0xrxw6g7el231y-n136_vn1e" mz="search">Pesquisar</string>
 	<string name="0xrxw6g7el231y-n135_vn1e-prompt" mz="F">Pesquisar</string>
-	<string name="0xrxw6g7el231y-n146_u7dh-tips" mz="notebook">Notebook</string>
+	<string name="0xrxw6g7el231y-n146_u7dh-tips" mz="notebook">Caderno</string>
 	<string name="0xrxw6g7el231y-n146_u7dh" mz="notebook">Pesquisar</string>
 	<string name="0xrxw6g7el231y-n87_h1t8" mz="TeachPanel">dsdas</string>
 	<string name="0xrxw6g7el231y-n1_el23-0" mz="MainMenu">Secredo</string>
@@ -2153,15 +2153,15 @@ jogo</string>
 	<string name="0xrxw6g7ic0m35-n27_f5tj" mz="n27">Okay</string>
 	<string name="0xrxw6g7ic0m35-n30_f5tj" mz="n30">Sim</string>
 	<string name="0xrxw6g7ic0m35-n31_f5tj" mz="n31">Não</string>
-	<string name="0xrxw6g7ic0m35-n64_gsdn" mz="input2">Make some noise.</string>
-	<string name="0xrxw6g7ic0m35-n50_u2ni" mz="input">Make some noise.</string>
-	<string name="0xrxw6g7ic0m35-n44_xtpi-tips" mz="SuffixBnt">You will unlock more suffixes as your sect grows.</string>
-	<string name="0xrxw6g7ic0m35-n44_xtpi" mz="SuffixBnt">School</string>
-	<string name="0xrxw6g7ic0m35-n53_lnxd" mz="n53">Click to select a suffix for your sect. You will unlock more suffixes as your sect grows.</string>
+	<string name="0xrxw6g7ic0m35-n64_gsdn" mz="input2">Faça algum Barulho.</string>
+	<string name="0xrxw6g7ic0m35-n50_u2ni" mz="input">Faça algum Barulho.</string>
+	<string name="0xrxw6g7ic0m35-n44_xtpi-tips" mz="SuffixBnt">Você desbloqueará mais sufixos à medida que sua seita crescer.</string>
+	<string name="0xrxw6g7ic0m35-n44_xtpi" mz="SuffixBnt">Escola</string>
+	<string name="0xrxw6g7ic0m35-n53_lnxd" mz="n53">Clique para selecionar um sufixo para sua seita. Você desbloqueará mais sufixos à medida que sua seita crescer.</string>
 	<string name="0xrxw6g7rd8g52ow4p-n90_f4up" mz="frame">Sect Message</string>
 	<string name="0xrxw6g7rd8g52ow4p-n140_rd8g" mz="n140">Sect event</string>
 	<string name="0xrxw6g7rd8g52ow4p-n142_rd8g" mz="n142">Disciple Growth</string>
-	<string name="0xrxw6g7u7dh52ow7s-n88_9fbe" mz="frame">Notebook</string>
+	<string name="0xrxw6g7u7dh52ow7s-n88_9fbe" mz="frame">Caderno</string>
 	<string name="0xrxw6g7tlevovpf-n65_c0eg" mz="Title">Mysterious person</string>
 	<string name="0xrxw6g7aigs2m-n7_hdhl" mz="frame">Outer Disciple Work Plan</string>
 	<string name="0xrxw6g7aigs2m-n25_s08x" mz="n25">Priority</string>
@@ -2169,7 +2169,7 @@ jogo</string>
 	<string name="0xrxw6g7icii51-n47_duea" mz="n47">Talisman Pattern</string>
 	<string name="0xrxw6g7icii51-n51_tuo1" mz="n51">Confirmar</string>
 	<string name="0xrxw6g7icii51-n56_icii" mz="n56">Redraw</string>
-	<string name="0xrxw6g7icii51-n62_q030-tips" mz="n62">You can instantly create a talisman you've drawn before. Its quality will be 95% of your hand-drawn talisman's highest quality.</string>
+	<string name="0xrxw6g7icii51-n62_q030-tips" mz="n62">Você pode criar instantaneamente um talismã que já desenhou antes. Sua qualidade será 95% da mais alta qualidade do seu talismã desenhado à mão.</string>
 	<string name="0xrxw6g7icii51-n62_q030" mz="n62">Instant Draw</string>
 	<string name="0xrxw6g7icii51-n65_io5k-0" mz="n65">Ivory-light Technique</string>
 	<string name="0xrxw6g7icii51-n65_io5k-1" mz="n65">Emerald-spirit Technique</string>
@@ -2181,18 +2181,18 @@ jogo</string>
 	<string name="0xrxw6g7md4p4d-n124_f7uc" mz="payransom">Redeem</string>
 	<string name="0xrxw6g7md4p4d-n93_uba2" mz="tmjt">Inner Demons Unchained</string>
 	<string name="0xrxw6g7md4p4d-n94_uba2" mz="dxdf">Absolute Heavenly Mind</string>
-	<string name="0xrxw6g7md4p4d-n103_keze-tips" mz="liliancount">Remaining Times of Adventure Repetition. Recall to stop the repetition.</string>
+	<string name="0xrxw6g7md4p4d-n103_keze-tips" mz="liliancount">Tempos restantes de Repetição de Aventura. Lembre-se de interromper a repetição.</string>
 	<string name="0xrxw6g7md4p4d-n103_keze" mz="liliancount">Numerous times</string>
-	<string name="0xrxw6g7md4p4d-n62_x04x" mz="bnt_miwen">Secret</string>
+	<string name="0xrxw6g7md4p4d-n62_x04x" mz="bnt_miwen">Secreto</string>
 	<string name="0xrxw6g7md4p4d-n104_bwck" mz="npcs">Discípulo</string>
 	<string name="0xrxw6g7md4p4d-n105_bwck" mz="npcs2">Discípulo</string>
-	<string name="0xrxw6g7md4p4d-n63_x04x" mz="goexp2">Secret</string>
+	<string name="0xrxw6g7md4p4d-n63_x04x" mz="goexp2">Secreto</string>
 	<string name="0xrxw6g7md4p4d-n484_n9kl" mz="schoolta2">Tarefa</string>
 	<string name="0xrxw6g7md4p4d-n483_n9kl" mz="schoolta">Tarefa</string>
 	<string name="0xrxw6g7md4p4d-n71_v5oe" mz="title">Mundo</string>
 	<string name="0xrxw6g7md4p4d-n101_suxg-tips" mz="schoolinfo">Info da Seita</string>
 	<string name="0xrxw6g7md4p4d-n101_suxg" mz="schoolinfo">Info</string>
-	<string name="0xrxw6g7md4p4d-n377_jqm5-tips" mz="outsinfo">The range of power of the sect and its agency. The sect will be count as an ally force once conquered, or after you acquire over 40% of the population as followers and have the most popular religion.</string>
+	<string name="0xrxw6g7md4p4d-n377_jqm5-tips" mz="outsinfo">O alcance do poder da seita e de sua agência. A seita será contada como uma força aliada uma vez conquistada, ou depois que você adquirir mais de 40% da população como seguidores e tiver a religião mais popular.</string>
 	<string name="0xrxw6g7md4p4d-n377_jqm5" mz="outsinfo">Expand</string>
 	<string name="0xrxw6g7md4p4d-n406_xyuk" mz="n406">Acessível</string>
 	<string name="0xrxw6g77oe152ow6k-n88_rtq5" mz="Property">Backgrounds</string>
@@ -2200,10 +2200,10 @@ jogo</string>
 	<string name="0xrxw6g77oe152ow6k-n85_rtq5" mz="Health">Status &amp; Saúde</string>
 	<string name="0xrxw6g77oe152ow6k-n87_rtq5" mz="Practice">Lei &amp; Cultivo</string>
 	<string name="0xrxw6g77oe152ow6k-n89_rtq5" mz="Socializing">Humor</string>
-	<string name="0xrxw6g77oe152ow6k-n110_wzfg-tips" mz="atk">Choose a target to attack. (Hotkey: [keycode]Attack[/keycode])</string>
-	<string name="0xrxw6g77oe152ow6k-n112_jvpu-tips" mz="sprint">Sprint forward for a distance. Ignores damage. (Hotkey: [keycode]Sprint[/keycode])</string>
-	<string name="0xrxw6g77oe152ow6k-n121_gsdn-tips" mz="stop">Interrupt the current work. (Hotkey: [keycode]StopJob[/keycode])</string>
-	<string name="0xrxw6g77oe152ow6k-n15_g38e-tips" mz="n15">Modify hotkey for Walk/Fly: [keycode]Flying[/keycode]</string>
+	<string name="0xrxw6g77oe152ow6k-n110_wzfg-tips" mz="atk">Escolha um alvo para atacar. (Hotkey: [keycode]Attack[/keycode])</string>
+	<string name="0xrxw6g77oe152ow6k-n112_jvpu-tips" mz="sprint">Corra para frente por uma distância. Ignora danos. (Hotkey: [keycode]Sprint[/keycode])</string>
+	<string name="0xrxw6g77oe152ow6k-n121_gsdn-tips" mz="stop">Interromper o trabalho atual. (Hotkey: [keycode]StopJob[/keycode])</string>
+	<string name="0xrxw6g77oe152ow6k-n15_g38e-tips" mz="n15">Modifique a tecla de atalho para andar/voar: [keycode]Flying[/keycode]</string>
 	<string name="0xrxw6g77oe152ow6k-n16_g38e" mz="n16">Map Pack</string>
 	<string name="0xrxw6g7v4kf32-n7_hdhl" mz="frame">Seita</string>
 	<string name="0xrxw6g7v4kf32-n67_md4p-0" mz="Head">Informações Básicas</string>
@@ -2428,8 +2428,8 @@ A inspiração necessária para aprender os manuais da Terra ou indefinidos é b
 	<string name="0xrxw6g7s29t2x-n49_jqzn" mz="n49">Água</string>
 	<string name="0xrxw6g7s29t2x-n52_jqzn" mz="n52">Fogo</string>
 	<string name="0xrxw6g7s29t2x-n55_jqzn" mz="n55">Terra</string>
-	<string name="0xrxw6g7nd594k-n33_md4p" mz="frame">Adventure</string>
-	<string name="0xrxw6g7nd594k-n61_r2rn-tips" mz="jump">Jump to event location</string>
+	<string name="0xrxw6g7nd594k-n33_md4p" mz="frame">Aventura</string>
+	<string name="0xrxw6g7nd594k-n61_r2rn-tips" mz="jump">Vá para o local do evento</string>
 	<string name="0xrxw6g7nd594k-n63_z80o-tips" mz="playerinfo">Character Stats</string>
 	<string name="0xrxw6g7c0egho-n65_c0eg" mz="Title">Mysterious person</string>
 	<string name="0xrxw6g7c0egho-n75_kyu2-tips" mz="n75">Open detailed help</string>
