@@ -144,14 +144,14 @@
 			<Selections.2.Display>Partir</Selections.2.Display>
 		</Text>
 		<Text Name="Story_QiSha">
-			<DisplayName>Seven-Slaughtering Formation</DisplayName>
+			<DisplayName>Formação Seven-Slaughtering</DisplayName>
 			<Desc>A Formação dos Sete Matadouros envolveu esta área. Se você não foi ordenado a se aventurar, seria melhor não arriscar a vida fazendo isso.</Desc>
 			<Selections.0.Display>Partir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_JianZhong">
-			<DisplayName>Bladesmith Tomb</DisplayName>
+			<DisplayName>Tumba Bladesmith</DisplayName>
 			<Desc>Embora bem guardado, este lugar guarda as espadas de eras do Templo do Lótus Azul. Se alguém conseguir entrar, então, com sorte, há uma chance de sair com a espada.</Desc>
-			<Selections.0.Display>Procure por uma espada em Bladesmith Tomb</Selections.0.Display>
+			<Selections.0.Display>Procure por uma espada na Tumba Bladesmith</Selections.0.Display>
 			<Selections.0.Tip>Mt. Shu Favor</Selections.0.Tip>
 			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
@@ -194,35 +194,35 @@
 			<Selections.3.Display>Partir</Selections.3.Display>
 		</Text>
 		<Text Name="BaoZang_XuanKong">
-			<DisplayName>Jade Immortal Abode</DisplayName>
-			<Desc>[NAME] entered the Jade Immortal Abode using the "Record of the Immortals" guidance to get past traps.</Desc>
-			<Selections.0.Display>Search the Immortal Abode</Selections.0.Display>
+			<DisplayName>Morada Imortal de Jade</DisplayName>
+			<Desc>[NAME] entrou na Morada Imortal de Jade usando o "Record of the Immortals" orientando para passar por armadilhas.</Desc>
+			<Selections.0.Display>Procure a Morada Imortal</Selections.0.Display>
 			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan">
 			<DisplayName>Mt. Caerulea</DisplayName>
-			<Desc>[NAME] came to the South Seas according to the secret manual. After searching the area numerous times, the drop of true water was finally found in the boundless waves. [NAME] touched it and was able to enter the water. A towering, blue Immortal mountain appeared up ahead. Peering off into the distance, it looked like there's a bamboo hut on the mountainside. The peak was shrouded by strange jet-black clouds from which lightning was shooting.</Desc>
-			<Selections.0.Display>Search the Mountain</Selections.0.Display>
-			<Selections.1.Display>Proceed to the bamboo hut on the mountainside</Selections.1.Display>
-			<Selections.2.Display>Inspect the peak</Selections.2.Display>
+			<Desc>[NAME] veio para os Mares do Sul de acordo com o manual secreto. Depois de pesquisar a área inúmeras vezes, a gota de água verdadeira foi finalmente encontrada nas ondas sem limites. [NAME] tocou e conseguiu entrar na água. Uma imponente montanha azul imortal apareceu à frente. Olhando para longe, parecia que havia uma cabana de bambu na encosta da montanha. O pico estava envolto por estranhas nuvens negras como azeviche, das quais disparavam raios.</Desc>
+			<Selections.0.Display>Procure na Montanha</Selections.0.Display>
+			<Selections.1.Display>Prossiga para a cabana de bambu na encosta da montanha</Selections.1.Display>
+			<Selections.2.Display>Inspecione o pico</Selections.2.Display>
 			<Selections.3.Display>Partir</Selections.3.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan1">
-			<DisplayName>A Strange Array on the Mountaintop</DisplayName>
-			<Desc>[NAME] had just gotten near the peak when there was a wave of pressure that washed over. There was a Heavenly Tribulation around the peak of Mt. Caerulea! [NAME] stepped valiantly onto the mountaintop and found that some force had flattened it and left an array on it.</Desc>
-			<Selections.0.Display>Inspect the Array</Selections.0.Display>
-			<Selections.1.Display>Return to the Entrance</Selections.1.Display>
+			<DisplayName>Uma estranha matriz no topo da montanha</DisplayName>
+			<Desc>[NAME] tinha acabado de chegar perto do pico quando houve uma onda de pressão que passou por voce. Houve uma Tribulação Celestial em torno do pico de Mt. Caerulea! [NAME] pisou valentemente no topo da montanha e descobriu que alguma força o havia achatado e deixado uma matriz sobre ele.</Desc>
+			<Selections.0.Display>Inspecione a Matriz</Selections.0.Display>
+			<Selections.1.Display>Volte para a entrada</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan2">
-			<DisplayName>Mountainside Hut</DisplayName>
-			<Desc>[NAME] was surprised to find that the hut was surprisingly spartan with only a bed and a desk inside. It didn't look like there was anything out of the ordinary. [NAME] after a quick search, it seems like there's something shining on the desk.</Desc>
-			<Selections.0.Display>Inspect the desk</Selections.0.Display>
-			<Selections.1.Display>Return to the Entrance</Selections.1.Display>
+			<DisplayName>Cabana na Montanha</DisplayName>
+			<Desc>[NAME] ficou surpreso ao descobrir que a cabana era surpreendentemente espartana com apenas uma cama e uma escrivaninha dentro. Não parecia que havia algo fora do comum. [NAME] após uma busca rápida, parece que há algo brilhando na escrivaninha.</Desc>
+			<Selections.0.Display>Inspecione a escrivaninha</Selections.0.Display>
+			<Selections.1.Display>Volte para a entrada</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan2_end">
-			<DisplayName>Mountainside Hut</DisplayName>
-			<Desc>The array diagram has already been taken, there's nothing else of interest here.</Desc>
-			<Selections.0.Display>Return to the Entrance</Selections.0.Display>
+			<DisplayName>Cabana na Montanha</DisplayName>
+			<Desc>O diagrama de matriz já foi obtido, não há mais nada de interessante aqui.</Desc>
+			<Selections.0.Display>Volte para a entrada</Selections.0.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan21">
 			<DisplayName>Mysterious Array Diagram</DisplayName>
