@@ -225,22 +225,22 @@
 			<Selections.0.Display>Volte para a entrada</Selections.0.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan21">
-			<DisplayName>Mysterious Array Diagram</DisplayName>
-			<Desc>[NAME] found that there were four grooves on the diagram that seemed to be the key to the center of it. Only one groove was shining, the other three were inactive.</Desc>
-			<Selections.0.Display>Inject Magic</Selections.0.Display>
+			<DisplayName>Diagrama de uma Matriz Misteriosa</DisplayName>
+			<Desc>[NAME] descobriram que havia quatro ranhuras no diagrama que pareciam ser a chave para o centro dele. Apenas um das ranhuras brilhava, os outros três estavam inativos.</Desc>
+			<Selections.0.Display>Injetar Magia</Selections.0.Display>
 			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan3">
-			<DisplayName>Mountain Scenery</DisplayName>
-			<Desc>Following the road to the mountain, [NAME] found that the Qi here was richer than anywhere else. That an Earthly Paradise such as this could be hidden in only a drop of water is unimaginable.</Desc>
-			<Selections.0.Display>Sightsee</Selections.0.Display>
-			<Selections.1.Display>Return to the Entrance</Selections.1.Display>
+			<DisplayName>Cenário de Montanhas</DisplayName>
+			<Desc>Seguindo a estrada para a montanha, [NAME] descobriu que o Qi aqui era mais rico do que em qualquer outro lugar. É inimaginável que um Paraíso Terrestre como este possa estar escondido em apenas uma gota d'água.</Desc>
+			<Selections.0.Display>Ver as vista</Selections.0.Display>
+			<Selections.1.Display>Volte para a entrada</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_DengXian">
-			<DisplayName>Explore the Ruins</DisplayName>
-			<Desc>[NAME] had heard that the Immortal Summit had teachings left behind by Emperor Donghua from long ago. [NAME] tried to see what could be found.</Desc>
-			<Selections.0.Display>Carefully Search</Selections.0.Display>
-			<Selections.0.Tip>Perception and Luck</Selections.0.Tip>
+			<DisplayName>Explorar as Ruínas</DisplayName>
+			<Desc>[NAME] tinha ouvido falar que a Cúpula Imortal tinha ensinamentos deixados pelo Imperador Donghua há muito tempo. [NAME] tentarei ver o que posso encontrar.</Desc>
+			<Selections.0.Display>Procurar cuidadosamente</Selections.0.Display>
+			<Selections.0.Tip>Percepção e Sorte</Selections.0.Tip>
 			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_FeiLei">
