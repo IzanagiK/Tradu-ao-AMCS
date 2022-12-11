@@ -245,60 +245,60 @@
 		</Text>
 		<Text Name="BaoZang_FeiLei">
 			<DisplayName>Thunderclap Cave</DisplayName>
-			<Desc>It was said that the Immortal Caerulea ascended here and left an incredible secret. [NAME] couldn't help but be curious to see what it could be.</Desc>
-			<Selections.0.Display>Look around</Selections.0.Display>
+			<Desc>Foi dito que o Imortal Caerulea ascendeu aqui e deixou um segredo incrível. [NAME] não pude deixar de ficar curioso para ver o que poderia ser.</Desc>
+			<Selections.0.Display>Olhar em volta</Selections.0.Display>
 		</Text>
 		<Text Name="BaoZang_FeiLei1">
 			<DisplayName>Thunderclap Cave</DisplayName>
-			<Desc>Mt. Shu said the key of the Thunderclap Cave is a volume left by the Sage. They will gift anyone who can take back the volume.</Desc>
-			<Selections.0.Display>Lend the Volume</Selections.0.Display>
-			<Selections.1.Display>Leave</Selections.1.Display>
+			<Desc>Mt. Shu disse que a chave da Caverna Thunderclap é um volume deixado pelo Sábio. Eles vão presentear qualquer um que possa pegar de volta o volume.</Desc>
+			<Selections.0.Display>Emprestar o Volume</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
 		</Text>
 		<Text Name="LingWu_DanXia">
 			<DisplayName>Sunshade Setting Sun</DisplayName>
-			<Desc>[NAME] was shocked by the majestic vista at Sunshade Precipice.</Desc>
+			<Desc>[NAME] ficou chocado com a vista majestosa no Precipício Sunshade.</Desc>
 			<Selections.0.Display>Meditar</Selections.0.Display>
-			<Selections.0.Tip>Intelligence and Ideal</Selections.0.Tip>
+			<Selections.0.Tip>Inteligência e Ideais</Selections.0.Tip>
 			<Selections.1.Display>Meditar</Selections.1.Display>
-			<Selections.1.Tip>Intelligence and Ideal</Selections.1.Tip>
-			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
+			<Selections.1.Tip>Inteligência e Ideais</Selections.1.Tip>
+			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua1">
 			<DisplayName>The Land of the Hidden Dragon</DisplayName>
-			<Desc>[NAME] stood before the Wyvern Pool and recalled how in ancient times great power had been collected here when the dragon was released here, and couldn't just stand around.</Desc>
-			<Selections.0.Display>Gained something</Selections.0.Display>
+			<Desc>[NAME] parou diante da Piscina Wyvern e lembrou que nos tempos antigos um grande poder havia sido reunido aqui, quando o dragão foi solto aqui, e não podia simplesmente ficar parado.</Desc>
+			<Selections.0.Display>Ganhou Algo</Selections.0.Display>
 			<Selections.1.Display>Meditar</Selections.1.Display>
-			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
+			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua2">
 			<DisplayName>The Land of the Phoenix</DisplayName>
-			<Desc>[NAME] stood before the fossilized Phoenixwood at Phoenix Cliff, sighed with emotion, and seemed to hear what sounded like a phoenix call.</Desc>
-			<Selections.0.Display>Gained something</Selections.0.Display>
+			<Desc>[NAME]parou diante do fossilized Phoenixwood em Phoenix Cliff, suspirou de emoção e pareceu ouvir o que parecia ser um chamado de fênix.</Desc>
+			<Selections.0.Display>Ganhou Algo</Selections.0.Display>
 			<Selections.1.Display>Meditar</Selections.1.Display>
-			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
+			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_LongHu">
 			<DisplayName>Skypass Falls</DisplayName>
-			<Desc>[NAME] was left speechless by the flowing white waters of Skypass Falls, its force even surpassed that of a cultivator possessing the golden core.</Desc>
-			<Selections.0.Display>Gained something</Selections.0.Display>
-			<Selections.0.Tip>Artifact Mastery</Selections.0.Tip>
-			<Selections.1.Display>Gained something</Selections.1.Display>
-			<Selections.1.Tip>Qi Sense</Selections.1.Tip>
-			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
+			<Desc>[NAME] ficou sem palavras pelas águas brancas de Skypass Falls, sua força superou a de um cultivador que possui o núcleo dourado.</Desc>
+			<Selections.0.Display>Ganhou Algo</Selections.0.Display>
+			<Selections.0.Tip>Domínio de Artefato</Selections.0.Tip>
+			<Selections.1.Display>Ganhou Algo</Selections.1.Display>
+			<Selections.1.Tip>Sensibilidade de Qi</Selections.1.Tip>
+			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="Story_TianJi">
 			<DisplayName>Mystic Cavern</DisplayName>
-			<Desc>A regular cavern inside the Drake Cave. It looks fairly ordinary, but emits a strange and mystical aura, which cannot be sensed unless it was someone who knew the Drake Cave inside and out. There seems to be some peculiar, natural patterns at the entry of the cavern.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
-			<Selections.1.Display>Meditate on the Stone Wall</Selections.1.Display>
-			<Selections.1.Tip>State / Artisanry / Intelligence</Selections.1.Tip>
-			<Selections.2.Display>Inspect the Fortune Seed</Selections.2.Display>
+			<Desc>Uma caverna normal dentro da Drake Cave. Parece bastante comum, mas emite uma aura estranha e mística, que não pode ser sentida a menos que seja alguém que conheça a Drake Cave por dentro e por fora. Parece haver alguns padrões naturais peculiares na entrada da caverna.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
+			<Selections.1.Display>Medite no Muro de Pedra</Selections.1.Display>
+			<Selections.1.Tip>Estado / Artesanato / Inteligência</Selections.1.Tip>
+			<Selections.2.Display>Inspecionar a Semente da Sorte</Selections.2.Display>
 			<Selections.3.Display>Partir</Selections.3.Display>
 		</Text>
 		<Text Name="Story_HighFind_SpPlace">
 			<DisplayName>Search for Luck</DisplayName>
-			<Desc>[NAME] went to the Battlefield of the Clash of Immortals and Demons in search of some lucky chance.</Desc>
-			<Selections.0.Display>Search for Luck</Selections.0.Display>
+			<Desc>[NAME] foi para o campo de batalha do Clash of Immortals and Demons em busca de alguma sorte.</Desc>
+			<Selections.0.Display>Busca por sorte</Selections.0.Display>
 			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 	</List>
