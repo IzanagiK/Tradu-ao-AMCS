@@ -377,14 +377,14 @@ Key	Value
 自身生长速度较快，对周边环境产生较大的负面影响。	Taxa de crescimento rápido; efeito negativo médio sobre o meio ambiente.
 自身生长速度很快，对周边环境产生极大的负面影响。	Taxa de crescimento muito rápida; grande efeito negativo sobre o meio ambiente.
 空	Empty
-鼎炉潜力尚未开发，炼精化气效率极高。	Potencial do Caldeirão Interno não desenvolvido; eficiência de conversão de Stamina muito alta.
+鼎炉潜力尚未开发，炼精化气效率极高。	Potencial do Caldeirão Interno não desenvolvido; eficiência de conversão de Estamina muito alta.
 始	Sparse
 鼎炉潜力开发伊始，炼精化气效率较高。	Potencial do Caldeirão Interno recentemente desenvolvido; alta eficiência de conversão de resistência.
 鼎炉潜力开发泰半，炼精化气效率正常。	Potencial do Caldeirão Interior semi-desenvolvido; eficiência normal de conversão de resistência.
 盈	Full
-鼎炉潜力几尽枯竭，炼精化气效率较慢。	Potencial do Caldeirão Interno próximo ao esgotamento; baixa eficiência de conversão de Stamina.
+鼎炉潜力几尽枯竭，炼精化气效率较慢。	Potencial do Caldeirão Interno próximo ao esgotamento; baixa eficiência de conversão de Estamina.
 满	Bursting
-鼎炉潜力开发至极限，需结丹以突破鼎炉之限。	Potencial do Caldeirão Interior extremamente desenvolvido; eficiência de conversão de Stamina muito lenta.
+鼎炉潜力开发至极限，需结丹以突破鼎炉之限。	Potencial do Caldeirão Interior extremamente desenvolvido; eficiência de conversão de Estamina muito lenta.
 护御	Proteção
 修行	Pratica
 仇恨	Ódio
@@ -803,7 +803,7 @@ _结局	_The End
 正在乐呵呵的修理建筑中	Happily repairing buildings
 刚完成修理建筑，准备洗洗手收工	Just finished repairing a building; going to wash hands and stop working
 正在准备工具，去执行修理建筑	Preparing tools for repairing buildings
-娱乐	Leisure
+娱乐	Lazer
 正准备娱乐一下放松放松	Vai se divertir e relaxar
 正惬意的享受自己的娱乐时间	Aproveitando o tempo de lazer
 刚刚玩了个痛快，正准备收收心	Já se divertiu muito; preparando-se para voltar ao trabalho
@@ -1781,7 +1781,7 @@ Name	Name
 \n前置条件：{0}	\nPrerequisites: {0}
 \n境界不够：{0}	\nToo low State: {0}
 \n{0}等级：{1}/{2:F0}	\nLv {0}: {1}/{2:F0}
-{1}{0:F0} 精元\n	{1}{0:F0} Stamina\n
+{1}{0:F0} 精元\n	{1}{0:F0} Estamina\n
 秘籍：{0}\n	Manual: {0}\n
 淬体之法：{0}\n	Remold Spell: {0}\n
 秘体：{0}\n	Secret Body: {0}\n
@@ -1812,8 +1812,8 @@ Name	Name
 {0}在淬炼{1}时，突然感悟到体内远古的血脉被唤醒了。	When remolding {1}, {0} felt a sudden awakening of ancient bloodline inside body.
 不会淬体之法[{0}]	Incapable of casting Remold Spell [{0}]
 需要对已完成的淬炼进行选择	Selection of finished Remoldings needed.
-精元不足：{0}/{1:N0}	Insufficient Stamina: {0}/{1:N0}
-{0}不足：{1}/{2}	Insufficient {0}: {1}/{2}
+精元不足：{0}/{1:N0}	Estamina Insuficiente: {0}/{1:N0}
+{0}不足：{1}/{2}	Insuficiente {0}: {1}/{2}
 未知错误	Erro desconhecido
 与{0}({1})不能共存	Cannot coexist with {0}({1})
 {0}已达到最大等级	{0} has reached the maximum level.
@@ -1977,7 +1977,7 @@ Name	Name
 法宝炼制	Artifact Crafting
 建造炼宝台，并完成一次法宝炼制。	Build a crafting table and craft an artifact.
 开炉炼丹	Alchemy Beginner
-建造炼丹炉，并完成一次精元丹的炼制。	Build an alchemy furnace and create a Stamina Pill.
+建造炼丹炉，并完成一次精元丹的炼制。	Build an alchemy furnace and create a Estamina Pill.
 结丹修士	Core Shaper
 将一名修行者突破到结丹境界（选择角色，通过屏幕下方的人物面板，切换至练功模式，可以专攻修炼，以提高境界。）	Help a cultivator reach the state of Core Shaping. Select a character and switch it to [Train] via the character menu. While training is active, the character will focus on cultivating themselves to raise their state.
  坐了下来	 Sitting Down
@@ -2513,7 +2513,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 {0}\n最大重量：{1:f1}斤\n捕获数量：{2}	{0}\nMax Weight: {1:f1} kg\nCaught Fish: {2}
 灵智碎片已满，无法再继续添加	Intelligence Shard full, unable to add more.
 无法启智	Unable to awaken intelligence.
-精元容量不足以开启灵智	Unable to awaken intelligence due to insufficient Stamina.
+精元容量不足以开启灵智	Unable to awaken intelligence due to insufficient Estamina.
 灵智碎片不足以开启灵智	Unable to awaken intelligence due to insufficient Intelligence Shards.
 当前状态无法开启灵智	Unable to awaken intelligence under the current status.
 门派人数已达上限，无法启智	Maximum sect population has been reached. Unable to awaken intelligence.
@@ -2529,9 +2529,9 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 {0}\n基础值: {1}\n提升率：{2:P3}\n额外加值：{3}	{0}\nBase value: {1}\nIncrease percentage: {2:P3}\nBonus value: {3}
 \n[color=#990000](主动释放时灵气穿透会提高到3倍)[/color]	\n[color=#990000]Qi barrier penetration increases by 200% when actively released.[/color]
 {0}(未修成)	{0} (Unfinished)
-精元	Stamina
+精元	Estamina
 {0}前无法淬炼{1}	Unable to remold {1} before {0}.
-精元:\n{2}{0}/{1:F0}{3}	Stamina:\n{2}{0}/{1:F0}{3}
+精元:\n{2}{0}/{1:F0}{3}	Estamina:\n{2}{0}/{1:F0}{3}
 {0}({1}级){2}	{0}(Lv {1}){2}
  [失去]	 [Lost]
 {0}({1})\n完整度：{2:P2}	{0}({1})\nIntegrity: {2:P2}
@@ -3757,8 +3757,8 @@ Trap编辑。	Trap Edit.
 仅内门	Apenas discípulos internos
 外门及内门	Both
 [{0}]\n自动攻击目标\n[color=#D06508]点击可改变模式[/color]	[{0}]\nAtacar alvos automaticamente\n[color=#D06508]Clique para alterar o modo.[/color]
-饮水	Drink
-精力	Energy
+饮水	Bebida
+精力	Energia
 \n[color=#FF8B00]消耗平衡点:{0:N0}\n(内门弟子吞服天地灵气补充食物的速度与自身消耗食物的速度在此处达到平衡)[/color]	\n[color=#FF8B00]Equilíbrio: {0:N0}\n(Um discípulo interno treinou seu Qi na medida em que absorve a energia do ambiente circundante e não precisa mais comer.)[/color]
 (被选择)	(Selected)
 +{0:N2}/秒	+{0:N2}/sec
@@ -3779,14 +3779,14 @@ Trap编辑。	Trap Edit.
 情绪:{0:N0}\n外门弟子情绪低于30会发生怠工。\n内门弟子的情绪太差则会影响到心境的变化甚至发生入魔	Humor: {0:N0}\nQuando o humor de um discípulo externo cai abaixo de 30, ele para de funcionar e pode começar a relaxar.\nSe o humor de um discípulo interno estiver muito baixo, isso afetará seu estado mental e ele poderá até cair.
 神性：{0:N2}%\n真实值：{1:N2}%\n调整值：{3}{2:N2}%\n{4}\n\n[color=#D06508]随着修行的时间以及特殊行为，神性会逐渐替代人性。当神性达到100%时，角色会发生神化。\n神国建成以前，神性最高只能达到50%。[/color]	Divindade: {0:N2}%\nDivindade Base: {1:N2}%\nDivindade Modificada: {3}{2:N2}%\n{4}\n\n[color=#D06508]À medida que o cultivo continua e ações especiais acontecem, a divindade gradualmente substituirá a humanidade. Quando a divindade atinge 100%, o personagem começará a se transformar em uma divindade. \nAntes do estabelecimento de um Reino Divino, a divindade só pode atingir 50% no máximo.[/color]
 归属感：{0:0}	Lealdade: {0:0}
-影响思绪片段产生速度。满足的条件越多，产生得越快。\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}	Affects the speed at which Thought Shards generate. The more conditions fulfilled, the faster they are generated.\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}
+影响思绪片段产生速度。满足的条件越多，产生得越快。\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}	Afeta a velocidade com que os Fragmentos de Pensamento são gerados. Quanto mais condições satisfeitas, mais rápido elas são geradas.\n{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}
 处于养殖区	Na Pasture Area
-启智与思考\n(快捷键:[keycode]PracticePanel[/keycode])	Awakening Intelligence and Thinking\n(hotkey: [keycode]PracticePanel[/keycode])
+启智与思考\n(快捷键:[keycode]PracticePanel[/keycode])	Despertando a Inteligência e o Pensamento\n(hotkey: [keycode]PracticePanel[/keycode])
 开智期	Estado de Despertar
 思绪碎片：{0}/{1}	Shards: {0}/{1}
-精元容量:{0:F0}/{1:F0} ({2:F0}%)\n灵智碎片足够，而且精元容量已满的时候可以开启灵智。	Stamina capacity: {0:F0}/{1:F0} ({2:F0}%)\nYou can awaken intelligence once Stamina is full and there is enough Intelligence Shards.
-灵气:{0:N0}/{1:N0}\n灵宠的灵气在战斗中回复比较缓慢。当灵气为空时灵兽将会死亡，建立对应雕像可以使其重生。\n角色会从环境中吸取灵气	Qi:{0:N0}/{1:N0}\nPet's Qi slowly replenishes in battle. Once Qi is exhausted, the pet will die. You can build the corresponding statue to revive it.\nCharacter absorbs Qi from the environment.
-当前成长值:{0:N0}%	Current Growth: {0:N0}%
+精元容量:{0:F0}/{1:F0} ({2:F0}%)\n灵智碎片足够，而且精元容量已满的时候可以开启灵智。	Estamina capacity: {0:F0}/{1:F0} ({2:F0}%)\nVocê pode despertar a inteligência quando estamina estiver cheia e houver fragmentos de inteligência suficientes.
+灵气:{0:N0}/{1:N0}\n灵宠的灵气在战斗中回复比较缓慢。当灵气为空时灵兽将会死亡，建立对应雕像可以使其重生。\n角色会从环境中吸取灵气	Qi:{0:N0}/{1:N0}\nO Qi do Pet é reabastecido lentamente na batalha. Assim que o Qi estiver esgotado, o pet morrerá. Você pode construir a estátua correspondente para revivê-la.\nO personagem absorve Qi do ambiente.
+当前成长值:{0:N0}%	Crescimento atual: {0:N0}%
 灵宠会优先食用低优先级的食物	Animais de estimação vão comer alimentos com baixa prioridade primeiro.
 灵宠会优先食用高优先级的食物	Os animais de estimação comerão os alimentos com alta prioridade primeiro.
 阵枢:{0}\n\n	Pillars: {0}\n\n
