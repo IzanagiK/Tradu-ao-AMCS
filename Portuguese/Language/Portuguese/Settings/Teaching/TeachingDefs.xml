@@ -29,7 +29,7 @@
 			<Tasks.8.TaskDesc>Clique em um discípulo interno ferido.</Tasks.8.TaskDesc>
 		</Text>
 		<Text Name="CollectionAndProcessing">
-			<Type>Basic</Type>
+			<Type>Básico</Type>
 			<DisplayName>Aquisição e Processamento 
 de Materiais</DisplayName>
 			<Desc>Aprenda o basico de aquisição e processamento de materiais neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
@@ -74,7 +74,7 @@ de Materiais</DisplayName>
 			<Tasks.36.TipsData.Desc>O processamento de materiais é normalmente feito em edifícios correspondentes, e Estação de trabalho neste tutorial é apenas a estação básica de processamento de material. À medida que o jogo avança, o jogador desbloqueará estações de processamento de materiais mais específicas, como Estação de Processamento de Madeira, Estação de Processamento de Pedra, Forno, etc. para um processamento de material mais eficiente.</Tasks.36.TipsData.Desc>
 		</Text>
 		<Text Name="BuildRoom">
-			<Type>Basic</Type>
+			<Type>Básico</Type>
 			<DisplayName>Construção de 
 Quartos</DisplayName>
 			<Desc>Aprenda a construção básica de ambientes neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
@@ -118,7 +118,7 @@ Quartos</DisplayName>
 			<Tasks.39.TipsData.Desc>Ter um quarto é uma das necessidades mais básicas dos discípulos. É importante fornecer um quarto confortável para os discípulos.</Tasks.39.TipsData.Desc>
 		</Text>
 		<Text Name="ExploreMap">
-			<Type>Basic</Type>
+			<Type>Básico</Type>
 			<DisplayName>Exploração</DisplayName>
 			<Desc>Aprenda o básico de exploração neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Primeira Exploração</Chapters.0.DisplayName>
@@ -159,7 +159,7 @@ Quartos</DisplayName>
 			<Tasks.40.TipsData.Desc>O jogador pode usar Explorar para pesquisar gradualmente todas as áreas do mapa e descobrir novos recursos, solos, animais, etc.</Tasks.40.TipsData.Desc>
 		</Text>
 		<Text Name="BaseSave">
-			<Type>Basic</Type>
+			<Type>Básico</Type>
 			<DisplayName>Sobrevivência Básica</DisplayName>
 			<Desc>Aprenda o básico sobre sobrevivência neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Como obter água</Chapters.0.DisplayName>
@@ -203,7 +203,7 @@ Quartos</DisplayName>
 			<Tasks.39.TipsData.Desc>Existem muitos tipos de comida no jogo. As culturas não só podem crescer no solo, como também podem crescer na água.</Tasks.39.TipsData.Desc>
 		</Text>
 		<Text Name="StrongArea">
-			<Type>Basic</Type>
+			<Type>Básico</Type>
 			<DisplayName>Planejamento de 
 Armazem</DisplayName>
 			<Desc>Aprenda o básico do planejamento  de armazem neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
@@ -267,7 +267,7 @@ Armazem</DisplayName>
 			<Tasks.55.TipsData.Desc>Agora garantimos alimentos e outros materiais em depósitos separados.  À medida que o jogo avança, pode exigir uma categorização mais detalhada, que pode ser realizada pelo Filtro.</Tasks.55.TipsData.Desc>
 		</Text>
 		<Text Name="MemberExpansion">
-			<Type>Basic</Type>
+			<Type>Básico</Type>
 			<DisplayName>Expandindo a Seita</DisplayName>
 			<Desc>Aprenda o básico de expansão neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Aceitando um novo membro</Chapters.0.DisplayName>
@@ -321,7 +321,7 @@ Armazem</DisplayName>
 			<Tasks.44.TipsData.Desc>Preste muita atenção ao humor dos personagens e satisfaça suas necessidades para garantir que a seita funcione com mais eficiência. Além de esperar que os refugiados se juntem, o jogador pode enviar discípulos internos para encontrar novos personagens para se juntar ou participar de eventos especiais para recrutar novos discípulos após estabelecer a seita. O jogador pode explorar esses conteúdos avançados enquanto joga.</Tasks.44.TipsData.Desc>
 		</Text>
 		<Text Name="Treatment">
-			<Type>Basic</Type>
+			<Type>Básico</Type>
 			<DisplayName>Cura para 
 Discípulos Externos</DisplayName>
 			<Desc>Aprenda o básico de cura neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
@@ -368,7 +368,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.40.TipsData.Desc>Existem outros itens no jogo que melhoram os efeitos de cura, como talismãs e acupuntura, explore e descubra novos meios!</Tasks.40.TipsData.Desc>
 		</Text>
 		<Text Name="ZhuJi">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Treinamento básico</DisplayName>
 			<Desc>Aprenda os métodos e o significado do treinamento básico para discípulos externos neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>O significado do treinamento básico</Chapters.0.DisplayName>
@@ -415,7 +415,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.41.TipsData.Desc>Itens como pílulas e elixires também podem ser comidos para ganhar rapidamente muita fundação, e também existem outras maneiras de acelerar o treinamento da fundação, Apenas esperando o jogador explorar.</Tasks.41.TipsData.Desc>
 		</Text>
 		<Text Name="GongSelect">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Seleção de Lei &amp; Modo de Treinamento</DisplayName>
 			<Desc>Aprenda como selecionar uma lei adequada, o significado da correspondência das leis, como estudar com um mestre e vários modos de treinamento comuns.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Correspondência de Leis &amp; Escolha</Chapters.0.DisplayName>
@@ -460,7 +460,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.41.TipsData.Desc>Depois que um discípulo se torna um discípulo interno, haverá mais quatro modos de treinamento, cada um dos quais respondendo às diferentes necessidades dos discípulos internos para sua prática.  Por exemplo, a prática é principalmente para ganhar experiência para um avanço mais rápido, a busca da paz é para melhorar o estado mental caso o discípulo fique encantado, o treinamento é para ganhar inspiração para o estudo de manuais, e o jogador também pode escolher Auto para deixar os discípulos internos se ajustarem  seu próprio ritmo de treinamento.  O jogador pode selecionar diferentes modos de treinamento de acordo com as necessidades individuais de cada discípulo interno.</Tasks.41.TipsData.Desc>
 		</Text>
 		<Text Name="GetJingYuan">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Energia</DisplayName>
 			<Desc>Aprenda como ganha e gerenciar sua estamina/resistência neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Métodos para ganhar resistência</Chapters.0.DisplayName>
@@ -489,7 +489,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.25.TipsData.Desc>Existem muitos itens que aumentam a resistência ou a taxa de ganho de resistência, como remédios e tesouros raros, elixires, talismãs, etc.</Tasks.25.TipsData.Desc>
 		</Text>
 		<Text Name="FuQi">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Absorção de Qi e Jejum</DisplayName>
 			<Desc>Aprenda o significado de absorção de Qi e jejum e a diferença entre os dois neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>O que é Jejum</Chapters.0.DisplayName>
@@ -523,7 +523,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.29.TipsData.Desc>A razão para a absorção do Qi é obter energia do ambiente para manter o nível de fome e sede.  Quanto mais eficiente um discípulo absorver o Qi, melhor ele poderá converter comida em stamina.  Quando o consumo de comida e água de um discípulo interno aumenta, a quantidade de energia convertida também aumenta.</Tasks.29.TipsData.Desc>
 		</Text>
 		<Text Name="DProduction">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Produção</DisplayName>
 			<Desc>Aprenda a criar artefatos, inventar elixires e desenhar talismãs neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Como Preparar Elixires</Chapters.0.DisplayName>
@@ -589,7 +589,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.58.TipsData.Desc>No jogo, vários itens absorvem gradualmente o Qi da natureza.  Um discípulo interno pode fundi-las para obter Pedras Espirituais e dispor de recursos desnecessários.</Tasks.58.TipsData.Desc>
 		</Text>
 		<Text Name="LookPractice">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Fatores relacionados ao cultivo</DisplayName>
 			<Desc>Neste tutorial, aprenda os principais fatores que afetam a velocidade de cultivo de um discípulo interno e o efeito desses fatores.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Aprenda Fatores Relacionados ao Cultivo</Chapters.0.DisplayName>
@@ -615,7 +615,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.20.TipsData.Desc>Acima estão os principais fatores que afetam a velocidade de cultivo de um discípulo interno. Eles não apenas influenciam a velocidade de cultivo, mas às vezes afetam outros aspectos, como avanço e inspiração. O jogador precisa explorar mais o conteúdo para treinar melhores discípulos internos.</Tasks.20.TipsData.Desc>
 		</Text>
 		<Text Name="LingQi">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Qi &amp; Qi Gathering</DisplayName>
 			<Desc>In this tutorial, learn the source and effect of Qi, an item's ability to condense Qi and how to condense Qi.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Qi Density &amp; Qi Recovery Rate</Chapters.0.DisplayName>
@@ -660,7 +660,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.37.TipsData.Desc>No jogo, não apenas os itens podem condensar o Qi, mas algumas plantas, edifícios, locais têm o mesmo efeito e podem ser usados ​​como condensadores de Qi para afetar e alterar a densidade do Qi no ambiente, e o jogador pode utilizá-los para criar um  ambiente do Qi.</Tasks.37.TipsData.Desc>
 		</Text>
 		<Text Name="WuXing">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Interações entre os cinco elementos</DisplayName>
 			<Desc>In this tutorial, learn the interactions between the Five Elements, how to check elemental stats, influence of the Five Elements on cultivation and how to change the elemental environment.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Interações dos Cinco Elementos</Chapters.0.DisplayName>
@@ -710,7 +710,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.43.TipsData.Desc>Tudo no jogo tem estatísticas elementares.  O jogador pode verificar o Diagrama de Cinco Elementos para ver suas estatísticas elementares e o alcance do efeito.  O jogador também pode alterar os Cinco Elementos em um ambiente colocando ou movendo itens, construindo edifícios, colocando pisos, cultivando plantas, etc.</Tasks.43.TipsData.Desc>
 		</Text>
 		<Text Name="XinJing">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Estado mental</DisplayName>
 			<Desc>Neste tutorial, aprenda o efeito do estado mental, a relação entre humor e estado mental e como armazená-lo.[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar  o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Estado Mental e Cultivo</Chapters.0.DisplayName>
@@ -739,7 +739,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.20.TaskDesc>Este discípulo restaurou um pequeno estado mental depois de buscar a paz.</Tasks.20.TaskDesc>
 			<Tasks.22.TipsData.Desc>Levará algum tempo para recuperar o estado mental de um discípulo buscando a paz, então quando é uma emergência, outros métodos precisam ser aplicados para restaurar o estado mental.</Tasks.22.TipsData.Desc>
 			<Tasks.24.TaskDesc>O jogador pode ler as instruções da Purity Leaf para saber seu efeito.</Tasks.24.TaskDesc>
-			<Tasks.26.TaskDesc>O jogador pode ler as instruções da Pílula de Pureza para saber seu efeito.</Tasks.26.TaskDesc>
+			<Tasks.26.TaskDesc>O jogador pode ler as instruções da Purity Pill para saber seu efeito.</Tasks.26.TaskDesc>
 			<Tasks.27.TaskDesc>Clique no botão Comer no menu abaixo do NPC.</Tasks.27.TaskDesc>
 			<Tasks.27.UiData.Name>Eat</Tasks.27.UiData.Name>
 			<Tasks.29.TaskDesc>Clique para selecionar Pílula de Pureza.</Tasks.29.TaskDesc>
@@ -748,9 +748,9 @@ Discípulos Externos</DisplayName>
 			<Tasks.35.TipsData.Desc>Itens como elixires, tesouros e remédios raros podem ser usados ​​para restaurar o estado mental de um discípulo interno para garantir que ele seja estável.  Além desses, existem outros itens que podem restaurar ou melhorar o estado mental, como milagres, talismãs, manuais, decorações, relíquias de Feng Shui, etc., esperando o jogador explorar.</Tasks.35.TipsData.Desc>
 		</Text>
 		<Text Name="Broken">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Avanço</DisplayName>
-			<Desc>In this tutorial, learn the meaning of breakthrough, the different methods for breakthrough and how to select a suitable location for breakthrough.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Neste tutorial, aprenda o significado de avanço, os diferentes métodos de avanço e como selecionar um local adequado para avanço.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Aprenda o significado de descoberta</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Clique em Informações sobre Limite</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Limite de inspeção</Chapters.0.Tasks.1>
@@ -791,7 +791,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.39.TipsData.Desc>Ao escolher um local para a descoberta, um local com bônus alto pode aumentar a chance de uma descoberta bem-sucedida.  Falhar em um avanço às vezes pode causar danos ao discípulo, mas às vezes adiciona uma pequena quantidade de bônus de XP para o próximo avanço.  Um discípulo só pode começar a próxima fase após um avanço bem-sucedido, e algum limite dará ao discípulo bônus de estatísticas depois que ele for quebrado.</Tasks.39.TipsData.Desc>
 		</Text>
 		<Text Name="LearnEso">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Aquisição de inspiração e aprendizado manual</DisplayName>
 			<Desc>In this tutorial, learn what is inspiration, how to obtain it and the relation between learning manuals and attainment.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Inspiração e Realização</Chapters.0.DisplayName>
@@ -848,7 +848,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.52.TipsData.Desc>Quando um discípulo precisa urgentemente de muita inspiração para aprender uma habilidade chave, o jogador pode usar outras maneiras de obtê-la rapidamente, como elixires, aventuras, eventos, treinamento de ramificação, etc. O estado mental do discípulo, inteligência e velocidade de aprendizado  também pode afetar a taxa de aumento de sua inspiração.</Tasks.52.TipsData.Desc>
 		</Text>
 		<Text Name="DTreatment">
-			<Type>Cultivation</Type>
+			<Type>Cultivação</Type>
 			<DisplayName>Cura para Discípulos Interiores</DisplayName>
 			<Desc>In this tutorial, learn the different kinds of injuries for inner disciples and how to heal them.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Aprenda os tipos de lesão interna</Chapters.0.DisplayName>
@@ -897,7 +897,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.44.TipsData.Desc>Discípulos internos também podem usar Panacea, um milagre com efeitos especiais, para tratar discípulos feridos na seita.  Um discípulo com Qi mais alto pode tratar melhor os outros.  Este milagre é muito importante para tratar lesões internas, e é melhor ensinar mais discípulos em caso de emergência.</Tasks.44.TipsData.Desc>
 		</Text>
 		<Text Name="SchoolManager">
-			<Type>Development</Type>
+			<Type>Desenvolvimento</Type>
 			<DisplayName>Gerenciamento de Seita</DisplayName>
 			<Desc>In this tutorial, learn the different functions in the Sect menu and how its reputation and place in the alignment of ethics affect the sect.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Informação básica</Chapters.0.DisplayName>
@@ -941,7 +941,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.38.TipsData.Desc>Essas funções da seita desempenham um papel importante durante o jogo, e o jogador pode usá-las para desenvolver sua própria seita e planejar diferentes estratégias.</Tasks.38.TipsData.Desc>
 		</Text>
 		<Text Name="FengShui">
-			<Type>Development</Type>
+			<Type>Desenvolvimento</Type>
 			<DisplayName>Feng Shui</DisplayName>
 			<Desc>In this tutorial, learn the difference between Feng Shui buildings and non Feng Shui buildings and how to adjust Feng Shui according to their element.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Construções e Decorações Feng Shui</Chapters.0.DisplayName>
@@ -996,7 +996,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.46.TipsData.Desc>O jogador pode clicar em Ajuda (tecla de atalho: F10) no lado direito para verificar o Feng Shui da Sala em Cinco Elementos e Feng Shui para aprender regras mais detalhadas sobre o Feng Shui.</Tasks.46.TipsData.Desc>
 		</Text>
 		<Text Name="RoomDesign">
-			<Type>Development</Type>
+			<Type>Desenvolvimento</Type>
 			<DisplayName>Planejar Sala para Discípulos Interiores</DisplayName>
 			<Desc>In this tutorial, learn the core needs of an inner disciple's room and how to meet the requirements for Feng Shui.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Seleção de Sala para Discípulos Interiores</Chapters.0.DisplayName>
@@ -1049,7 +1049,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.44.TipsData.Desc>O edifício principal do Feng Shui no quarto de um discípulo interno é geralmente a cama, almofada, trono, etc. Os quartos que contêm esses edifícios do Feng Shui são geralmente quartos que devem estar voltados para o sul.  A chave para planejar a sala de um discípulo interno é usar decorações dos elementos que geram a Lei do discípulo.  Uma lâmpada a óleo do elemento Terra gera a Lei do Metal de um discípulo, então use materiais metálicos para construir o local de treinamento.  (Este tutorial usa cama como exemplo)</Tasks.44.TipsData.Desc>
 		</Text>
 		<Text Name="WalkStop">
-			<Type>Development</Type>
+			<Type>Desenvolvimento</Type>
 			<DisplayName>Troca</DisplayName>
 			<Desc>In this tutorial, learn necessary information related to trade and how to trade with merchants.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Preparação antes da negociação</Chapters.0.DisplayName>
@@ -1085,7 +1085,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.30.TipsData.Desc>Toda vez que o comerciante chega, ele fica por um tempo, para que o jogador possa negociar várias vezes.  Mas lembre-se, se um mercador morrer na seita do jogador, todos os recursos pertencerão à seita do jogador, mas nenhum mercador virá mais à seita para negociar, então por favor pense duas vezes antes de agir.</Tasks.30.TipsData.Desc>
 		</Text>
 		<Text Name="WorldMap">
-			<Type>Development</Type>
+			<Type>Desenvolvimento</Type>
 			<DisplayName>Locais do mundo</DisplayName>
 			<Desc>In this tutorial, learn about world locations and World Map and how to interact with these locations.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Mapa mundial</Chapters.0.DisplayName>
@@ -1120,9 +1120,9 @@ Discípulos Externos</DisplayName>
 			<Tasks.30.TipsData.Desc>Depois de aprender sobre aventura e acampamento, o jogador pode ir a locais do mundo para obter vários recursos raros, descobrir segredos interessantes e visitar outras seitas, etc.</Tasks.30.TipsData.Desc>
 		</Text>
 		<Text Name="DLPlace">
-			<Type>Development</Type>
+			<Type>Desenvolvimento</Type>
 			<DisplayName>Atribuir agência</DisplayName>
-			<Desc>Learn how to establish and manage an agency in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Aprenda como criar e gerenciar uma agência neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Consulte a agência</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Abra o menu Atribuir</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Consulte a Agência Mt. South</Chapters.0.Tasks.1>
@@ -1184,7 +1184,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.62.TipsData.Desc>Às vezes, há eventos especiais na agência para o jogador lidar.  Se tratada adequadamente, a agência ganhará muita influência.  Uma grande influência ajuda o jogador a expandir seu território e aumentar o nível da agência.  As agências também podem trazer muitos benefícios para a seita do jogador, como produção local, recrutamento de discípulos, obtenção de Crenças, etc.</Tasks.62.TipsData.Desc>
 		</Text>
 		<Text Name="SchoolInteractive">
-			<Type>Development</Type>
+			<Type>Desenvolvimento</Type>
 			<DisplayName>Interação da Seita</DisplayName>
 			<Desc>In this tutorial, learn how to interact with the other sects and trade with them.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Construir Relações com Outras Seitas</Chapters.0.DisplayName>
@@ -1231,9 +1231,9 @@ Discípulos Externos</DisplayName>
 			<Tasks.44.TipsData.Desc>Durante a troca da seita, o jogador pode usar 'Tentativa de Troca' para estimar o valor do item da outra seita, o que ajuda a comprar o item a um preço apropriado.</Tasks.44.TipsData.Desc>
 		</Text>
 		<Text Name="MapExplore">
-			<Type>Development</Type>
+			<Type>Desenvolvimento</Type>
 			<DisplayName>Exploração</DisplayName>
-			<Desc>Learn how to enter a location and begin exploration in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Aprenda como entrar em um local e começar a explorar, neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Ganhar acesso</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique a jurisdição</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Acesso de compra</Chapters.0.Tasks.1>
@@ -1264,9 +1264,9 @@ Discípulos Externos</DisplayName>
 			<Tasks.22.TaskDesc>Clique em Sim.</Tasks.22.TaskDesc>
 		</Text>
 		<Text Name="MapExplore2">
-			<Type>Development</Type>
+			<Type>Desenvolvimento</Type>
 			<DisplayName>Exploração II</DisplayName>
-			<Desc>Learn how to enter a location and begin exploration in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Aprenda como entrar em um local e começar a explorar, neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Exploração</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique Entrar</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Entre no mapa</Chapters.0.Tasks.1>
@@ -1307,9 +1307,9 @@ Discípulos Externos</DisplayName>
 			<Tasks.36.TipsData.Desc>Existem vários outros locais no jogo, mas o método básico de exploração é o mesmo.  Por favor, tenha cuidado ao explorar os outros mapas e preste atenção aos perigos e oportunidades ocultos.</Tasks.36.TipsData.Desc>
 		</Text>
 		<Text Name="Fight">
-			<Type>Advanced</Type>
+			<Type>Avançado</Type>
 			<DisplayName>Batalha Básica</DisplayName>
-			<Desc>Learn the basic battle system and controls in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Aprenda o sistema básico de batalha e os controles neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Controles de batalha</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Modo Matar e Modo Não Matar</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Modo de defesa automática</Chapters.0.Tasks.1>
@@ -1342,9 +1342,9 @@ Discípulos Externos</DisplayName>
 			<Tasks.29.TipsData.Desc>Na batalha, o jogador pode mudar os controles em resposta a diferentes situações para obter vantagem sobre o inimigo e evitar que a seita seja destruída.</Tasks.29.TipsData.Desc>
 		</Text>
 		<Text Name="ZhenFa">
-			<Type>Advanced</Type>
+			<Type>Avançado</Type>
 			<DisplayName>Formação</DisplayName>
-			<Desc>Learn how to edit a formation and set members for the formation in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Aprenda a editar uma formação e definir os membros para a formação neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Edição de formação</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Criar uma nova formação</Chapters.0.Tasks.0>
 			<Chapters.1.DisplayName>Configuração de formação</Chapters.1.DisplayName>
@@ -1392,7 +1392,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.45.TipsData.Desc>O jogador pode organizar e combinar diferentes recursos para formar uma formação mais adequada e poderosa, e até mesmo dominar uma formação antiga.  Formações diferentes têm efeitos diferentes, esperando que o jogador explore, então este tutorial não explicará como editar outras formações.</Tasks.45.TipsData.Desc>
 		</Text>
 		<Text Name="DragonHole">
-			<Type>Advanced</Type>
+			<Type>Avançado</Type>
 			<DisplayName>Caverna Misteriosa</DisplayName>
 			<Desc>In this tutorial, learn the influence of mysterious caverns and how to use Feng Shui relics to suppress them.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Caverna do Dragão Inundado</Chapters.0.DisplayName>
@@ -1414,7 +1414,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.16.TipsData.Desc>Quando o jogador suprime com sucesso a caverna misteriosa, o Flood Dragon no sono também será efetivamente subjugado, e o jogador pode usar essa janela de tempo para melhorar a habilidade dos discípulos para destruí-lo mais cedo.</Tasks.16.TipsData.Desc>
 		</Text>
 		<Text Name="DragonFight">
-			<Type>Advanced</Type>
+			<Type>Avançado</Type>
 			<DisplayName>Batalha do chefe</DisplayName>
 			<Desc>In this tutorial, learn how to inspect the basic info on ancient beasts and use it to engage in battle with these beasts.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Aprenda sobre a Besta Antiga</Chapters.0.DisplayName>
@@ -1442,7 +1442,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.22.TipsData.Desc>Cada jogador usa diferentes controles e estratégias na batalha, então este tutorial não entrará em detalhes sobre as batalhas que o jogador pode experimentar no jogo.  Uma vez que o chefe é derrotado, haverá restos diferentes de seu corpo, que podem ser procurados por despojos.  Mais partes do corpo destruídas significam mais espólios a serem obtidos.</Tasks.22.TipsData.Desc>
 		</Text>
 		<Text Name="GetFood">
-			<Type>Advanced</Type>
+			<Type>Avançado</Type>
 			<DisplayName>Aquisição de alimentos de emergência</DisplayName>
 			<Desc>In this tutorial, learn how to quickly acquire food in an extremely difficult environment.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Falta de notificação de alimentos</Chapters.0.DisplayName>
@@ -1463,7 +1463,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.16.TipsData.Desc>O jogador pode enviar simultaneamente vários discípulos na aventura e usar a repetição da aventura para diminuir a necessidade de comida na seita e aumentar a produção de comida por aventura em um período de tempo.  O jogador pode então esperar que os discípulos tragam comida.</Tasks.16.TipsData.Desc>
 		</Text>
 		<Text Name="CombatWeather">
-			<Type>Advanced</Type>
+			<Type>Avançado</Type>
 			<DisplayName>Manuseio de Clima Extremo</DisplayName>
 			<Desc>In this tutorial, learn some of the extreme weather in the game and how to handle them.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Influência do clima extremo</Chapters.0.DisplayName>
@@ -1489,7 +1489,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.20.TipsData.Desc>Existem mais de um tipo de clima extremo.  O jogador precisa usar os itens do jogo com sabedoria para lidar melhor com os outros tipos de clima extremo.</Tasks.20.TipsData.Desc>
 		</Text>
 		<Text Name="Prestige">
-			<Type>Advanced</Type>
+			<Type>Avançado</Type>
 			<DisplayName>Gestão e Controle de Reputação</DisplayName>
 			<Desc>In this tutorial, learn what Talisman of Invisibility is used for and how to use it to lower reputation.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Uso do Talismã da Invisibilidade</Chapters.0.DisplayName>
@@ -1508,9 +1508,9 @@ Discípulos Externos</DisplayName>
 			<Tasks.13.TipsData.Desc>A reputação até certo ponto afeta a seita do jogador, então o jogador pode usar o Talismã da Invisibilidade para diminuir a reputação obtida a fim de gerenciar a reputação da seita.</Tasks.13.TipsData.Desc>
 		</Text>
 		<Text Name="ShortcutKey">
-			<Type>Advanced</Type>
-			<DisplayName>Teclas de atalho</DisplayName>
-			<Desc>Learn about the common hotkeys and how to customize hotkeys in this tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Type>Avançado</Type>
+			<DisplayName>Teclas de Atalho</DisplayName>
+			<Desc>Aprenda sobre as teclas de atalho comuns e como personalizá-las neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Configurando teclas de atalho</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique o menu de teclas de atalho</Chapters.0.Tasks.0>
 			<Chapters.1.DisplayName>Use teclas de atalho</Chapters.1.DisplayName>
@@ -1536,7 +1536,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.23.TipsData.Desc>Existem muitos controles que podem ser feitos por teclas de atalho.  O jogador pode ajustá-los de acordo com seu hábito.  O jogador pode colocar o cursor nos botões para verificar as outras teclas de atalho, portanto, este tutorial não entrará em detalhes sobre elas.</Tasks.23.TipsData.Desc>
 		</Text>
 		<Text Name="Batch">
-			<Type>Advanced</Type>
+			<Type>Avançado</Type>
 			<DisplayName>Tarefa em lote</DisplayName>
 			<Desc>In this tutorial, learn some of the common batch tasks in the game and how to issue them.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Tarefas Básicas em Lote</Chapters.0.DisplayName>
@@ -1563,7 +1563,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.19.TipsData.Desc>Existem outras formas de tarefas em lote no jogo, esperando o jogador explorar.</Tasks.19.TipsData.Desc>
 		</Text>
 		<Text Name="AreaExpand">
-			<Type>Advanced</Type>
+			<Type>Avançado</Type>
 			<DisplayName>Expansão de Área</DisplayName>
 			<Desc>In this tutorial, learn how to quickly expand the various areas in buildings and use area expansion to inherit the area stats.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Expansão de Área</Chapters.0.DisplayName>
