@@ -23,7 +23,7 @@ Key	Value
 术法	Magia
 护体	Proteger
 阵法	Matriz
-炼丹	Alquimia
+炼丹	Alchemy
 炼器	Criação de artefatos
 歧黄	Medicina
 巧匠	Artesanato
@@ -650,7 +650,7 @@ _结局	_The End
 结束今天的筑基功课，刚准备擦擦汗	Terminou o treinamento básico de hoje; suando profusamente
 刚结束今天的筑基功课	Acabei de terminar o treinamento básico de hoje
 刚完成筑基，正觉得有点意犹未尽	Formação da Fundação concluída; pensando em fazer treino extra
-突破	Avanço
+突破	Breakthrough
 准备突破瓶颈	Preparando-se para um avanço
 突破瓶颈前，正觉得有点心神不宁	Prestes a romper; sente um pouco desconfortável
 信心满满，正准备突破瓶颈	Confiante; prestes a realizar um avanço
@@ -1156,12 +1156,12 @@ _结局	_The End
 仔细观察了一番，但思绪碎片过多，无法获得。	Apesar da observação cuidadosa, há muitos fragmentos de pensamento. Não foi possível obter.
 思考之前无法通过观察获得更多关于{0}的思绪	Unable to obtain any more Thoughts about {0} through observation before Thinking.
 观察{0}之后未能获得任何思绪碎片。	Failed to obtain any Thought Shards after observation of {0}.
-交流	Falar
-打架	Lutando
+交流	Talk
+打架	Fighting
 接受治疗	Accepting Healing
 等待收留	Awaiting Admission
 等待帮助	Awaiting Help
-收留	Aceitar
+收留	Accept
 提供帮助	Help
 驱逐	Banish
 劝说留下	Persuade to Remain
@@ -1208,11 +1208,11 @@ _结局	_The End
 收徒	Apprentice
 被夺舍	Become Possessed
 夺舍	Possess
-接受传授	Aprender
-传授	Ensinar
+接受传授	Learn
+传授	Teach
 停留	Ficar
 跟随{0}	Follow {0}
-沉睡	Dormir
+沉睡	Sleep
 思考，剩余{0:N0}秒	Thinking, {0:N0} sec remaining
 觉醒灵智	Awaken Intelligence
 觉醒灵智，剩余{0:N0}秒	Awakening Intelligence, {0:N0} sec remaining
@@ -2197,10 +2197,10 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 吞噬	Devorar
 吞噬目标物品，以强大的的肉体将其精华提炼而出。吞噬能力与格物技能等级，消化系统的淬炼程度有关。\n目前最高可吞噬[color=#990000][my_property=BodyPractice_EatItemMaxRate|{0:F2}]阶[/color]的物品。	Devore o item alvo e extraia a essência desse item com um corpo forte. A habilidade de devorar está relacionada ao nível de habilidade de compreensão e ao grau de remodelação do sistema digestivo.\nAtualmente, você pode devorar[color=#990000]Nível [my_property=BodyPractice_EatItemMaxRate|{0:F2}][/color] itens no máximo.
 选择一个道具,其他角色会将其喂给此角色。	Selecione um item e outro personagem alimentará o personagem.
-装备道具	Equipar
+装备道具	Equip
 装备或者拾取一个道具	Equipar ou pegar um item
 拾取一个物品，注意这可能会惹别人生气。	Pegue um item. Pode irritar outras pessoas.
-画符	Desenhar
+画符	Draw
 绘制一张灵符。	Desenhe um talismã.
 将一个普通物品炼制成战斗法宝,需要[color=#FF0000]炼宝台[/color]。	Transforme um item comum em um artefato de batalha. Requer uma [color=#FF0000]Mesa de artesanato[/color].
 \n需要炼器等级:	\nRequer Criação de Artefato:
@@ -2217,7 +2217,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 \n需要炼丹等级:	\nNível de Alquimia Necessário:
 选择要炼制的丹药	Selecione o elixir para criar.
 传授给低辈弟子符合其境界的秘籍，参悟消耗降低25%。如果是自身弟子，则再额外降低25%。\n当选择了传授多个秘籍后，传授者会逐个等待弟子参悟值足够时再进行传授。	Fornece um manual adequado ao estado do discípulo júnior (o custo de XP de inspiração é reduzido em 25%). Para o discípulo do personagem, o custo é reduzido em mais 25%.\nAo transmitir vários manuais, o instrutor aguardará para transmiti-los até que o discípulo tenha XP de Inspiração suficiente.
-狩猎	Caçar
+狩猎	Hunt
 狩猎这个动物并进行屠宰	Cace este animal e mate-o.
 屠宰这个动物获得产物。	Corte este animal para obter produtos.
 搜索这个角色，获得他身上的道具。	Search this character to acquire items.
