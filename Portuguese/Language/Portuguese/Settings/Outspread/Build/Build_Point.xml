@@ -2,27 +2,27 @@
 	<List>
 		<Text Name="Farm">
 			<DisplayName>Field</DisplayName>
-			<Desc>Farmlands in the mortal realm. Produces wheat.</Desc>
+			<Desc>Fazendas no reino mortal. Produz trigo.</Desc>
 		</Text>
 		<Text Name="Mine">
 			<DisplayName>Mine</DisplayName>
-			<Desc>Mines in the mortal realm. Produces brownstone.</Desc>
+			<Desc>Minas no reino mortal. Produz pedra castanha.</Desc>
 		</Text>
 		<Text Name="Lumber">
 			<DisplayName>Logging Camp</DisplayName>
-			<Desc>Logging camps in the mortal realm. Produces wood.</Desc>
+			<Desc>Acampamentos madeireiros no reino mortal. Produz madeira.</Desc>
 		</Text>
 		<Text Name="LingMine">
 			<DisplayName>Spirit Stone Mine</DisplayName>
-			<Desc>Spirit stone mines in the mortal realm. Produces spirit stones.</Desc>
+			<Desc>Minas de pedra espiritual no reino mortal. Produz pedras espirituais.</Desc>
 		</Text>
 		<Text Name="Statue">
 			<DisplayName>Statue</DisplayName>
-			<Desc>The statue of a deity. Once constructed, if a Shendao disciple built the Temple of Miracles in the Divine Realm, you can appoint the disciple to be possessed here.</Desc>
+			<Desc>A estátua de uma divindade. Uma vez construído, se um discípulo de Shendao construiu o Templo dos Milagres no Reino Divino, você pode nomear o discípulo para ser possuído aqui.</Desc>
 		</Text>
 		<Text Name="Arena">
 			<DisplayName>Dojo</DisplayName>
-			<Desc>Dojo. Once constructed, this place can be used for practice by disciples garrisoned here.</Desc>
+			<Desc>Dojo. Depois de construído, este local pode ser usado para prática pelos discípulos aqui guarnecidos.</Desc>
 		</Text>
 	</List>
 </Texts>

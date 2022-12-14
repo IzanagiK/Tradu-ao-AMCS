@@ -1744,7 +1744,7 @@ Name	Name
 太平盛世	Prosperous
 凡人不轻信他人，甚至纷纷逃离。只能收集到怨念。	People do not trust each other and even try to escape. Can only gather hatred and disappointment.
 凡人生活困苦，更容易相信他人。	People are poor but become more open to each other.
-此地发展迅速，物欲横流，更容易跟风随流。	This place has been thriving, as consumption rises and people chase popular trends.
+此地发展迅速，物欲横流，更容易跟风随流。	Este lugar tem prosperado, à medida que o consumo aumenta e as pessoas perseguem as tendências populares.
 人民安居乐业，不断有流民前来此地安家，能收集到更多信仰。	People are happily living here, and there is a constant influx of immigrants. Can gather more beliefs.
 {0}需要选择政策	{0} needs to choose a policy
 建筑名非法	Illegal building name
@@ -2773,7 +2773,7 @@ Lua代码不能为空	Lua script cannot be empty.
 蓝图中存在未解锁建筑!	Locked building(s) in the blueprint!
 神秘地点	Mysterious Spot
 确定要离开此地吗？	Do you want to leave this place?
-还不能离开，因为\n{0}	Unable to leave because \n{0}.
+还不能离开，因为\n{0}	Incapaz de sair porque \n{0}.
 快捷键	Hotkeys
 目标	Alvo
 时间变化	Time Change
@@ -3090,7 +3090,7 @@ Trap编辑。	Trap Edit.
 还有{0}个弟子正在路上...	{0} discípulos estão a caminho...
 让代理人落实政策。政策期间会发生对应事件，不同手段处理会有不同结果，直接影响此地的信众、总人口、我方代理的吸引力，以及其他门派的势力。不采取政策，信众则会认为代理人不作为，每日损失信众。	Peça ao agente para implementar a política. Eventos correspondentes acontecerão durante a implementação da política. Diferentes métodos levarão a resultados diferentes, afetando diretamente os seguidores, a população, o apelo de nossa agência e o poder de outras seitas. Se nenhuma política for implementada, os seguidores considerarão o agente irresponsável e você perderá seguidores a cada dia.
 选择政策	Escolha a política
-\n\n<font color=#D06508>[政策每日消耗]</font>	\n\n<font color=#D06508>[Policy Cost Each Day]</font>
+\n\n<font color=#D06508>[政策每日消耗]</font>	\n\n<font color=#D06508>[Custo da política cada dia]</font>
 \n影响值x{0}	\nInfluence *{0}
 雕像\n主殿升级到中级主殿解锁。选择弟子附身之后，此地信仰可直接转移给该弟子。	Estátua\nAtualize para o Salão Principal Intermediário para desbloquear. Após possuir um discípulo, a crença deste lugar pode ser transferida diretamente para este discípulo.
 奇观\n主殿升级到高级主殿解锁。可建设宏伟的民间奇观。	Maravilhas\Atualize para o Salão Principal Avançado para desbloquear. Pode construir pontos cênicos maravilhosos no mundo.
@@ -3126,8 +3126,8 @@ Trap编辑。	Trap Edit.
 影响值	Influência
 城市稳定度：{0}\n主流代理势力：{1}	City Stability: {0}\nMain Agency Power: {1}
 选择信仰对象	Select a belief
-[color=#FF0000]该建筑升级需要达到{0}信仰人口[/color]	[color=#FF0000]To upgrade this building, the population of believers needs to reach {0}.[/color]
-[color=#FFFFFF]该建筑升级需要达到{0}信仰人口[/color]	[color=#FFFFFF]To upgrade this building, the population of believers needs to reach {0}.[/color]
+[color=#FF0000]该建筑升级需要达到{0}信仰人口[/color]	[color=#FF0000]Para atualizar este edifício, a população de crentes precisa atingir {0}.[/color]
+[color=#FFFFFF]该建筑升级需要达到{0}信仰人口[/color]	[color=#FFFFFF]Para atualizar este edifício, a população de crentes precisa atingir {0}.[/color]
 代理人正在赶来...	Agent on the way…
 正在建造主殿...	Building the main hall…
 正处于{0}!	In {0}!
@@ -3490,8 +3490,8 @@ Trap编辑。	Trap Edit.
 无数次	Numerous times
 次	Times
 {0}\n[color=#990000](这是一个需要进入地图完成的秘闻)[/color]	{0}\n[color=#990000](This is a Secret that can only be completed by entering the map)[/color]
-建立门派后，派遣内门弟子前往历练	After establishing a sect, dispatch inner disciples on adventures.
-建立门派后，派遣内门弟子前往驻扎，弟子会持续历练直到28天后或者发生受伤。\n（驻扎中每隔2到4天触发一次事件且随时可以召回）	After establishing a sect, dispatch disciples to camp. They will continue training for 28 days or until they are wounded. \n(An event will occur every 2 to 4 days while camping and they can be recalled at any time.)
+建立门派后，派遣内门弟子前往历练	Depois de estabelecer uma seita, envie discípulos internos em aventuras.
+建立门派后，派遣内门弟子前往驻扎，弟子会持续历练直到28天后或者发生受伤。\n（驻扎中每隔2到4天触发一次事件且随时可以召回）	Depois de estabelecer uma seita, envie discípulos para o acampamento. Eles continuarão treinando por 28 dias ou até serem feridos. \n(Um evento ocorrerá a cada 2 a 4 dias durante o acampamento e eles podem ser cancelados a qualquer momento.)
 主殿正在建造...	Building the main hall…
 {0}天劫临近(低于30秒)，拒绝前往。	{0}Heavenly Tribulation is coming (in less than 30 sec). Refused to go.
 {0}正在忙，暂时无法前往。	{0} is now occupied and cannot go.
@@ -3837,7 +3837,7 @@ Lua回调类名	Lua Callback Class Name
 此门派已经闭关戒严，暂时无法进入。	Esta seita foi fechada ao público. Atualmente inacessível.
 此地已封山戒严，暂时无法进入。	Este lugar foi fechado ao público. Atualmente inacessível.
 无可用弟子	Nenhum discípulo disponível
-确定派遣弟子要进入{0}吗？\n\t参与弟子有：\n{1}	Do you want to send disciples to enter {0}?\n\t Participants include: \n{1}
+确定派遣弟子要进入{0}吗？\n\t参与弟子有：\n{1}	Você quer enviar discípulos para entrar {0}?\n\t Os participantes incluem: \n{1}
 未获得通行权，贸然进入将会受到攻击	Inacessível. O personagem será atacado por entrada forçada.
 应天台正在闪烁着光芒\n（灵石已经凝聚完成，可以凝取）	O Altar Eco do Céu está brilhando\e(Pedras do Espírito Cristalizadas e podem coletar)
 应天台的光芒黯淡了下来\n（正在凝聚灵石）	A luz do Altar Eco do Céu se desvaneceu.\n(Pedras Espirituais Cristalizantes)
