@@ -32,7 +32,7 @@
 			<Type>Básico</Type>
 			<DisplayName>Aquisição e Processamento 
 de Materiais</DisplayName>
-			<Desc>Aprenda o basico de aquisição e processamento de materiais neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Aprenda o básico de aquisição e processamento de materiais neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Coleta de madeira</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Use a ordem de cortar de madeira</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Selecione a opção de Corta</Chapters.0.Tasks.1>
@@ -206,38 +206,38 @@ Quartos</DisplayName>
 			<Type>Básico</Type>
 			<DisplayName>Planejamento de 
 Armazem</DisplayName>
-			<Desc>Aprenda o básico do planejamento  de armazem neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Planeje o primeiro armazem</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Selecione um armazem</Chapters.0.Tasks.0>
+			<Desc>Aprenda o básico do planejamento  de armazém neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Planeje o primeiro armazém</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Selecione um armazém</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Filter</Chapters.0.Tasks.1>
-			<Chapters.1.DisplayName>Planeje o segundo armazem</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Planeje um armazem</Chapters.1.Tasks.0>
+			<Chapters.1.DisplayName>Planeje o segundo armazém</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Planeje um armazém</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Filtros</Chapters.1.Tasks.1>
 			<Chapters.2.DisplayName>Construa um armazenamento de baixa temperatura</Chapters.2.DisplayName>
-			<Chapters.2.Tasks.0>Verifique a temperatura do armazem</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.0>Verifique a temperatura do armazém</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Coloque um item de redução de temperatura</Chapters.2.Tasks.1>
-			<Chapters.2.Tasks.2>Verifique a temperatura de armazem novamente</Chapters.2.Tasks.2>
-			<Tasks.1.TipsData.Desc>Diferentes recursos estão localizados em diferentes áreas e, à medida que seu número aumenta, será inconveniente para o jogador acessá-los, então o armazem é usado para categorizar e gerenciar recursos.</Tasks.1.TipsData.Desc>
+			<Chapters.2.Tasks.2>Verifique a temperatura de armazém novamente</Chapters.2.Tasks.2>
+			<Tasks.1.TipsData.Desc>Diferentes recursos estão localizados em diferentes áreas e, à medida que seu número aumenta, será inconveniente para o jogador acessá-los, então o armazém é usado para categorizar e gerenciar recursos.</Tasks.1.TipsData.Desc>
 			<Tasks.2.TipsData.Desc>Primeiro, vamos planejar uma área para materiais e ferramentas no meio da seita, para que seja fácil acessá-los à medida que sua seita se expande.</Tasks.2.TipsData.Desc>
 			<Tasks.3.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>Clique na aba Area.</Tasks.4.TaskDesc>
 			<Tasks.4.UiData.Name>Area</Tasks.4.UiData.Name>
-			<Tasks.5.TaskDesc>Clique em Storage para iniciar o planejamento do armazem.</Tasks.5.TaskDesc>
-			<Tasks.6.TaskDesc>Selecione uma área designada para construção do armazem.</Tasks.6.TaskDesc>
-			<Tasks.9.TaskDesc>Selecione o armazem.</Tasks.9.TaskDesc>
+			<Tasks.5.TaskDesc>Clique em Storage para iniciar o planejamento do armazém.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Selecione uma área designada para construção do armazém.</Tasks.6.TaskDesc>
+			<Tasks.9.TaskDesc>Selecione o armazém.</Tasks.9.TaskDesc>
 			<Tasks.10.TaskDesc>Clique em Filter no menu para abrir a página de Filtros.</Tasks.10.TaskDesc>
 			<Tasks.10.UiData.Name>Filter</Tasks.10.UiData.Name>
 			<Tasks.11.TipsData.Desc>O filtro pode ser usado para planejar um armazenamento detalhado que permite que os itens sejam armazenados de acordo com seu tipo, atributo elemental, camada e qualidade.  Lembre-se, quando vários armazenamentos são reunidos, o filtro de um único armazenamento não será aplicado aos demais.</Tasks.11.TipsData.Desc>
 			<Tasks.12.TaskDesc>Clique em Consumables para deixar de fora todos os consumíveis.</Tasks.12.TaskDesc>
 			<Tasks.13.TaskDesc>Clique no botão Fechar para fechar a página.</Tasks.13.TaskDesc>
-			<Tasks.15.TipsData.Desc>Alguns recursos vão estragar com o passar do tempo, por isso precisamos de um armazem de baixa temperatura para estes tipos de recursos.</Tasks.15.TipsData.Desc>
+			<Tasks.15.TipsData.Desc>Alguns recursos vão estragar com o passar do tempo, por isso precisamos de um armazém de baixa temperatura para estes tipos de recursos.</Tasks.15.TipsData.Desc>
 			<Tasks.17.TipsData.Desc>Em seguida, planejaremos uma área de armazenamento de alimentos próxima à cozinha para um acesso mais eficiente durante a preparação de refeições, construiremos em uma sala fechada para facilitar o ajuste de temperatura para melhor armazenamento dos alimentos.</Tasks.17.TipsData.Desc>
 			<Tasks.18.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.18.TaskDesc>
 			<Tasks.19.TaskDesc>Clique na aba Area.</Tasks.19.TaskDesc>
 			<Tasks.19.UiData.Name>Area</Tasks.19.UiData.Name>
-			<Tasks.20.TaskDesc>Clique em Storage para iniciar o planejamento do armazem.</Tasks.20.TaskDesc>
-			<Tasks.21.TaskDesc>Selecione uma área designada para construção do armazem.</Tasks.21.TaskDesc>
-			<Tasks.24.TaskDesc>Selecione o armazem.</Tasks.24.TaskDesc>
+			<Tasks.20.TaskDesc>Clique em Storage para iniciar o planejamento do armazém.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Selecione uma área designada para construção do armazém.</Tasks.21.TaskDesc>
+			<Tasks.24.TaskDesc>Selecione o armazém.</Tasks.24.TaskDesc>
 			<Tasks.25.TaskDesc>Clique em Filter no menu para abrir a página de Filtros.</Tasks.25.TaskDesc>
 			<Tasks.25.UiData.Name>Filter</Tasks.25.UiData.Name>
 			<Tasks.26.TaskDesc>Clique em Tool para deixar de fora todas as ferramentas.</Tasks.26.TaskDesc>
@@ -310,7 +310,7 @@ Armazem</DisplayName>
 			<Tasks.32.TipsData.Desc>Atribuir um trabalho adequado a um novo discípulo ajuda a melhorar a eficiência do trabalho para toda a seita.  Ao organizar diferentes trabalhos, diferentes ferramentas devem ser fornecidas aos discípulos para aumentar sua eficiência individual.</Tasks.32.TipsData.Desc>
 			<Tasks.34.TipsData.Desc>Se as necessidades de um personagem não forem atendidas, seu humor será afetado negativamente, o que diminui sua eficiência no trabalho e até mesmo o deixa preguiçoso no trabalho. Agora vamos ver o que o novo personagem precisa.</Tasks.34.TipsData.Desc>
 			<Tasks.35.TaskDesc>Selecione o novo personagem.</Tasks.35.TaskDesc>
-			<Tasks.36.TaskDesc>Clique no menu Humor/mood.</Tasks.36.TaskDesc>
+			<Tasks.36.TaskDesc>Clique no menu Humor.</Tasks.36.TaskDesc>
 			<Tasks.37.TipsData.Desc>O personagem precisa de um quarto. Arranje um quarto vago para ele.</Tasks.37.TipsData.Desc>
 			<Tasks.37.TipsData.Name>Quarto necessário</Tasks.37.TipsData.Name>
 			<Tasks.39.TaskDesc>Clique na cama no quarto.</Tasks.39.TaskDesc>
@@ -351,11 +351,11 @@ Discípulos Externos</DisplayName>
 			<Tasks.16.TaskDesc>Espere até que o Healing Balm seja feito.</Tasks.16.TaskDesc>
 			<Tasks.18.TipsData.Desc>Não há muitas ervas na natureza, então o jogador pode planejar um jardim de ervas com antecedência para garantir um suprimento constante de ervas.</Tasks.18.TipsData.Desc>
 			<Tasks.21.TaskDesc>Clique na notificação de lesão à esquerda.</Tasks.21.TaskDesc>
-			<Tasks.23.TaskDesc>Clique no icone de saude/status no lado direito do menu do personagem ferido.</Tasks.23.TaskDesc>
+			<Tasks.23.TaskDesc>Clique no ícone de saúde/status no lado direito do menu do personagem ferido.</Tasks.23.TaskDesc>
 			<Tasks.24.TaskDesc>O jogador pode colocar o cursor na área de Infecção para inspecionar a lesão.</Tasks.24.TaskDesc>
 			<Tasks.25.TaskDesc>O jogador pode colocar o cursor na área do Thighbone para inspecionar a parte lesionada e o efeito da lesão.</Tasks.25.TaskDesc>
 			<Tasks.26.TaskDesc>Clique no "X" para fechar o menu de Saúde/status.</Tasks.26.TaskDesc>
-			<Tasks.28.TaskDesc>Clique para abrir o menu Work.</Tasks.28.TaskDesc>
+			<Tasks.28.TaskDesc>Clique para abrir o menu Tarefas.</Tasks.28.TaskDesc>
 			<Tasks.29.TaskDesc>Clique e ative a posição Curandeiro.</Tasks.29.TaskDesc>
 			<Tasks.30.TaskDesc>Clique em Prioridade para definir o trabalho principal do personagem.</Tasks.30.TaskDesc>
 			<Tasks.31.TaskDesc>Clique em Curador/healer para definir a posição como prioridade máxima.</Tasks.31.TaskDesc>
@@ -363,7 +363,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.33.TaskDesc>Aguarde até que a cura esteja completa.</Tasks.33.TaskDesc>
 			<Tasks.34.TipsData.Desc>Quando um discípulo definido como curador é ferido, é possível que nenhum personagem trate o discípulo.  O jogador pode atribuir o trabalho do curador a outro discípulo e ajustar o horário de trabalho e prioridade, ou interromper a ação atual de qualquer discípulo, a fim de tratar o discípulo ferido.</Tasks.34.TipsData.Desc>
 			<Tasks.36.TaskDesc>Clique e selecione um discípulo ferido.</Tasks.36.TaskDesc>
-			<Tasks.37.TaskDesc>Clique no botão saude/status no lado direito do Menu Personagem.</Tasks.37.TaskDesc>
+			<Tasks.37.TaskDesc>Clique no botão saúde/status no lado direito do Menu Personagem.</Tasks.37.TaskDesc>
 			<Tasks.38.TaskDesc>Podemos ver que a lesão está cicatrizando, o que significa que o discípulo foi efetivamente tratado.</Tasks.38.TaskDesc>
 			<Tasks.40.TipsData.Desc>Existem outros itens no jogo que melhoram os efeitos de cura, como talismãs e acupuntura, explore e descubra novos meios!</Tasks.40.TipsData.Desc>
 		</Text>
@@ -441,15 +441,15 @@ Discípulos Externos</DisplayName>
 			<Tasks.11.TipsData.Desc>O jogador pode usar a tabela de correspondência da lei para ver se um discípulo é adequado para praticar a lei.  Quanto mais altos forem os Cinco Atributos de um discípulo, melhor eles combinarão com a Lei, de modo que diferentes discípulos podem ter diferentes Leis correspondentes.</Tasks.11.TipsData.Desc>
 			<Tasks.13.TaskDesc>Clique em Escolher Lei.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Clique em Sim.</Tasks.14.TaskDesc>
-			<Tasks.15.TaskDesc>Clique em 2x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.15.TaskDesc>
+			<Tasks.15.TaskDesc>Clique em Velocidade 2x ​​no canto superior esquerdo para acelerar o jogo.</Tasks.15.TaskDesc>
 			<Tasks.17.TaskDesc>Espere até que o discípulo seja promovido.</Tasks.17.TaskDesc>
 			<Tasks.19.TipsData.Desc>Uma vez que uma Lei é selecionada, ela não pode ser alterada ou cancelada, então quão bem uma Lei combina terá uma grande influência na prática futura do discípulo.</Tasks.19.TipsData.Desc>
 			<Tasks.21.TaskDesc>Clique em Mentor no menu Status.</Tasks.21.TaskDesc>
 			<Tasks.21.UiData.Name>Mentor</Tasks.21.UiData.Name>
-			<Tasks.22.TaskDesc>Selecione um discípulo interno no estado de Golden Core.</Tasks.22.TaskDesc>
+			<Tasks.22.TaskDesc>Selecione um discípulo interno no estado de Núcleo Dourado.</Tasks.22.TaskDesc>
 			<Tasks.23.TaskDesc>confirme</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Espere até que o discípulo os reconheça como mestre.</Tasks.25.TaskDesc>
-			<Tasks.28.TaskDesc>Clique para selecionar o discípulo interno no estado de Golden Core.</Tasks.28.TaskDesc>
+			<Tasks.28.TaskDesc>Clique para selecionar o discípulo interno no estado de Núcleo Dourado.</Tasks.28.TaskDesc>
 			<Tasks.29.TipsData.Desc>Um mestre pode ensinar a seus discípulos os manuais que eles aprenderam.  Quando um mestre ensina um manual, custará menos inspiração.</Tasks.29.TipsData.Desc>
 			<Tasks.29.TipsData.Name>Teach</Tasks.29.TipsData.Name>
 			<Tasks.31.TipsData.Desc>Quando um discípulo é promovido a discípulo interno, ele pode escolher um discípulo interno no estado do Núcleo Dourado ou superior para ser seu mestre.  Quando a Lei do discípulo for a mesma do mestre, a prática do discípulo será mais eficiente.</Tasks.31.TipsData.Desc>
@@ -465,24 +465,24 @@ Discípulos Externos</DisplayName>
 			<Desc>Aprenda como ganha e gerenciar sua estamina/resistência neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Métodos para ganhar resistência</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verificar resistência</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Coma Pílula de stamina</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.1>Coma a Stamina Pill</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Verifique a resistência novamente</Chapters.0.Tasks.2>
 			<Chapters.0.Tasks.3>Continue praticando</Chapters.0.Tasks.3>
 			<Chapters.1.DisplayName>Gestão assistida de resistência</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Verifique o consumo automático</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Verifique os elixires</Chapters.1.Tasks.1>
 			<Tasks.1.TaskDesc>Clique e selecione um discípulo interno.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>O jogador pode colocar o cursor na barra de stamina no Status para verificar a stamina.  A prática de um discípulo interno custar continuamente stamina, e quando o stamina atinge 0, o discípulo não pode continuar praticando até consumir elixires ou comida para reabastecer o stamina.</Tasks.2.TaskDesc>
+			<Tasks.2.TaskDesc>O jogador pode colocar o cursor na barra de estamina no Status para verificar a estamina.  A prática de um discípulo interno custar continuamente stamina, e quando o stamina atinge 0, o discípulo não pode continuar praticando até consumir elixires ou comida para reabastecer o stamina.</Tasks.2.TaskDesc>
 			<Tasks.4.TaskDesc>O jogador pode colocar o cursor em Stamina Pill para ver seu efeito.</Tasks.4.TaskDesc>
 			<Tasks.5.TaskDesc>Clique em Comer no menu Status do personagem.</Tasks.5.TaskDesc>
 			<Tasks.5.UiData.Name>Eat</Tasks.5.UiData.Name>
-			<Tasks.6.TaskDesc>Clique para selecionar a Pílula de stamina.</Tasks.6.TaskDesc>
-			<Tasks.7.TaskDesc>Clique em 3x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.7.TaskDesc>
+			<Tasks.6.TaskDesc>Clique para selecionar a Stamina Pill.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Clique em Velocidade 3x ​​no canto superior esquerdo para acelerar o jogo.</Tasks.7.TaskDesc>
 			<Tasks.10.TaskDesc>Espere até que o NPC coma a pílula.</Tasks.10.TaskDesc>
 			<Tasks.12.TaskDesc>Espere até que a resistência seja reabastecida.</Tasks.12.TaskDesc>
-			<Tasks.14.TaskDesc>Verifique a barra de Stamina em Status abaixo.  Agora, a resistência do discípulo foi reabastecida consumindo o elixir.</Tasks.14.TaskDesc>
+			<Tasks.14.TaskDesc>Verifique a barra de Estamina abaixo nos Status. Agora, a resistência do discípulo foi reabastecida consumindo o elixir.</Tasks.14.TaskDesc>
 			<Tasks.16.TaskDesc>Clique em Praticar no menu Status do personagem.</Tasks.16.TaskDesc>
-			<Tasks.18.TipsData.Desc>Os discípulos internos também podem consumir alimentos e convertê-los em stamina, ou aumentar a taxa de consumo de alimentos e a taxa de ganho de resistência para melhorar ainda mais o efeito de conversão de alimentos em stamina.</Tasks.18.TipsData.Desc>
+			<Tasks.18.TipsData.Desc>Os discípulos internos também podem consumir alimentos e convertê-los em estamina, ou aumentar a taxa de consumo de alimentos e a taxa de ganho de resistência para melhorar ainda mais o efeito de conversão de alimentos em stamina.</Tasks.18.TipsData.Desc>
 			<Tasks.20.TaskDesc>Clique para abrir o menu de leis e cultivo </Tasks.20.TaskDesc>
 			<Tasks.21.TaskDesc>O jogador pode clicar aqui para definir o Auto-comer para que o discípulo coma comida automaticamente para ganhar resistência.</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>O jogador pode clicar aqui para definir Elixirs First para que o discípulo escolha automaticamente comer elixires primeiro para ganhar resistência.</Tasks.23.TaskDesc>
@@ -528,7 +528,7 @@ Discípulos Externos</DisplayName>
 			<Desc>Aprenda a criar artefatos, inventar elixires e desenhar talismãs neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Como Preparar Elixires</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Mais Edifícios Obtidos</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Preparar Pílula de stamina</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.1>Preparar Pílula de estamina</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Use o Loop para Preparar</Chapters.0.Tasks.2>
 			<Chapters.1.DisplayName>Como criar artefatos</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>artesanato de Artefatos</Chapters.1.Tasks.0>
@@ -545,7 +545,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.3.TaskDesc>Clique e selecione um discípulo interno.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>Clique em Alquimia/Alchemy no menu Status do personagem.</Tasks.4.TaskDesc>
 			<Tasks.4.UiData.Name>Alchemy</Tasks.4.UiData.Name>
-			<Tasks.5.TaskDesc>Clique e selecione a Pílula de stamina.</Tasks.5.TaskDesc>
+			<Tasks.5.TaskDesc>Clique e selecione a Stamina Pill.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Clique em Confirmar.</Tasks.6.TaskDesc>
 			<Tasks.7.TaskDesc>Clique para selecionar Fornalha de Alquimia.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Clique para selecionar Fornalha de Alquimia.</Tasks.9.TaskDesc>
@@ -553,7 +553,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.10.UiData.ParentObject>thinginfo-Producelist-Stamina Pill</Tasks.10.UiData.ParentObject>
 			<Tasks.11.TaskDesc>Clique em Loop 10x</Tasks.11.TaskDesc>
 			<Tasks.11.UiData.Name>Loop 10x</Tasks.11.UiData.Name>
-			<Tasks.12.TaskDesc>Clique em 3x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.12.TaskDesc>
+			<Tasks.12.TaskDesc>Clique em Velocidade 3x ​​no canto superior esquerdo para acelerar o jogo.</Tasks.12.TaskDesc>
 			<Tasks.14.TaskDesc>Espere até que a Stamina Pill seja preparada.</Tasks.14.TaskDesc>
 			<Tasks.16.TaskDesc>Clique no botão fechar ao lado da Stamina Pill na página Alchemy Furnace para cancelar a produção.</Tasks.16.TaskDesc>
 			<Tasks.16.UiData.ParentObject>thinginfo-Producelist-Stamina Pill</Tasks.16.UiData.ParentObject>
@@ -564,7 +564,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.22.TaskDesc>Clique em Criação de artefatos</Tasks.22.TaskDesc>
 			<Tasks.25.TaskDesc>O jogador pode colocar o cursor na Espada de Pedra Sagrada para verificar seu material e nível, e a taxa de sucesso e os requisitos para fabricação também são mostrados.</Tasks.25.TaskDesc>
 			<Tasks.27.TaskDesc>O jogador pode colocar o cursor em Graystone Blade para verificar seu material e nível, e a taxa de sucesso e os requisitos para fabricação também são mostrados.</Tasks.27.TaskDesc>
-			<Tasks.29.TaskDesc>Clique e selecione Graystone Blade para criala.</Tasks.29.TaskDesc>
+			<Tasks.29.TaskDesc>Clique e selecione Graystone Blade para criá-la.</Tasks.29.TaskDesc>
 			<Tasks.30.TaskDesc>Espere até que o artefato seja criado.</Tasks.30.TaskDesc>
 			<Tasks.32.TipsData.Desc>Qualquer material comum pode ser usado para criar artefatos, mas custará uma quantidade de Qi.  Quanto maior o nível(tier/qualidade), mais Qi ele precisa.  A taxa de sucesso na fabricação de artefatos está positivamente associada ao estado mental do discípulo, bem como ao seu nível de fabricação de artefatos.</Tasks.32.TipsData.Desc>
 			<Tasks.34.TaskDesc>Clique em Draw no menu Status do personagem.</Tasks.34.TaskDesc>
@@ -616,9 +616,9 @@ Discípulos Externos</DisplayName>
 		</Text>
 		<Text Name="LingQi">
 			<Type>Cultivação</Type>
-			<DisplayName>Qi &amp; Qi Gathering</DisplayName>
-			<Desc>In this tutorial, learn the source and effect of Qi, an item's ability to condense Qi and how to condense Qi.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Qi Density &amp; Qi Recovery Rate</Chapters.0.DisplayName>
+			<DisplayName>Qi &amp; Coleta de Qi</DisplayName>
+			<Desc>Neste tutorial, aprenda a origem e efeito do Qi, e a habilidade de um item para condensar Qi e como condensar Qi.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial.)[/color]</Desc>
+			<Chapters.0.DisplayName>Densidade de Qi &amp; Taxa de recuperação de Qi</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Verifique a taxa de recuperação de Qi e Qi</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Verifique a densidade do Qi</Chapters.0.Tasks.1>
 			<Chapters.1.DisplayName>Efeito e alcance da reunião de Qi</Chapters.1.DisplayName>
@@ -633,10 +633,10 @@ Discípulos Externos</DisplayName>
 			<Chapters.2.Tasks.0>Inspecionar Ginkgo Gigante</Chapters.2.Tasks.0>
 			<Tasks.0.TipsData.Desc>O Qi que existe na natureza pode ser absorvido pela maioria dos itens, edifícios e plantas.  Um discípulo interno pode absorver e converter o Qi natural em seu próprio, e também usar outros métodos para absorver o Qi de itens, edifícios e plantas.</Tasks.0.TipsData.Desc>
 			<Tasks.2.TaskDesc>Clique e selecione um discípulo interno.</Tasks.2.TaskDesc>
-			<Tasks.3.TaskDesc>O jogador pode colocar o cursor para inspecionar Qi e Qi Recovery.  Os discípulos internos também podem absorver o Qi natural para reabastecer seu próprio Qi.</Tasks.3.TaskDesc>
-			<Tasks.5.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.5.TaskDesc>
+			<Tasks.3.TaskDesc>O jogador pode colocar o cursor para inspecionar "Qi" e a "Taxa de recuperação de Qi". Os discípulos internos também podem absorver o Qi natural para reabastecer seu próprio Qi.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>Clique para abrir as Leis &amp; Menu de cultivo.</Tasks.5.TaskDesc>
 			<Tasks.6.TipsData.Desc>O jogador pode colocar o cursor para ver a densidade de Qi atual no menu Practice e, portanto, usá-la para avaliar o ambiente de Qi em torno de um discípulo.</Tasks.6.TipsData.Desc>
-			<Tasks.7.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.7.TaskDesc>
+			<Tasks.7.TaskDesc>Clique para abrir as Leis &amp; Menu de cultivo.</Tasks.7.TaskDesc>
 			<Tasks.9.TipsData.Desc>O jogador pode deixar os discípulos internos praticarem em um local com alta densidade de Qi que ajuda a aumentar a velocidade de cultivo e recuperar rapidamente seu Qi.</Tasks.9.TipsData.Desc>
 			<Tasks.11.TaskDesc>Clique para selecionar Gnarled Vine.</Tasks.11.TaskDesc>
 			<Tasks.12.TaskDesc>Clique em Local.</Tasks.12.TaskDesc>
@@ -650,19 +650,19 @@ Discípulos Externos</DisplayName>
 			<Tasks.20.TaskDesc>Clique em Local.</Tasks.20.TaskDesc>
 			<Tasks.20.UiData.Name>Place</Tasks.20.UiData.Name>
 			<Tasks.21.TaskDesc>Clique para selecionar Display (Holy Stone Floor).</Tasks.21.TaskDesc>
-			<Tasks.23.TaskDesc>Clique em 3x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.23.TaskDesc>
+			<Tasks.23.TaskDesc>Clique em Velocidade 3x ​​no canto superior esquerdo para acelerar o jogo.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Aguarde até que sejam colocados.</Tasks.25.TaskDesc>
-			<Tasks.27.TaskDesc>Verifique o Qi Gathering de Gnarled Vine na tela.</Tasks.27.TaskDesc>
-			<Tasks.29.TaskDesc>Verifique o Qi Gathering of Jade Essence no Display.</Tasks.29.TaskDesc>
-			<Tasks.31.TaskDesc>Verifique o Qi Gathering de Spiritwood na tela.</Tasks.31.TaskDesc>
+			<Tasks.27.TaskDesc>Verifique a Coleta de Qi de Gnarled Vine na tela.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Verifique a Coleta de Qi de Jade Essence no tela.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Verifique a Coleta de Qi de Spiritwood na tela.</Tasks.31.TaskDesc>
 			<Tasks.33.TipsData.Desc>A capacidade de um item de condensar o Qi está positivamente associada à sua reunião de Qi, e a densidade do Qi ao redor do item também aumentará lentamente.  Uma gama mais ampla de Qi Gathering significa que afetará a densidade de Qi de uma área maior.  Portanto, o Qi está sempre fluindo de áreas com baixo Qi Gathering para aquelas com alto Qi Gathering.</Tasks.33.TipsData.Desc>
-			<Tasks.35.TaskDesc>Confira o Qi Gathering de Huge Ginkgo.</Tasks.35.TaskDesc>
+			<Tasks.35.TaskDesc>Confira a Coleta de Qi de Huge Ginkgo.</Tasks.35.TaskDesc>
 			<Tasks.37.TipsData.Desc>No jogo, não apenas os itens podem condensar o Qi, mas algumas plantas, edifícios, locais têm o mesmo efeito e podem ser usados ​​como condensadores de Qi para afetar e alterar a densidade do Qi no ambiente, e o jogador pode utilizá-los para criar um  ambiente do Qi.</Tasks.37.TipsData.Desc>
 		</Text>
 		<Text Name="WuXing">
 			<Type>Cultivação</Type>
 			<DisplayName>Interações entre os cinco elementos</DisplayName>
-			<Desc>In this tutorial, learn the interactions between the Five Elements, how to check elemental stats, influence of the Five Elements on cultivation and how to change the elemental environment.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Neste tutorial, aprenda as interações entre os Cinco Elementos, como verificar as estatísticas elementais, a influência dos Cinco Elementos no cultivo e como alterar o elemento do ambiente.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Interações dos Cinco Elementos</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Abra o Diagrama de Cinco Elementos</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Verifique as interações para metal</Chapters.0.Tasks.1>
@@ -671,7 +671,7 @@ Discípulos Externos</DisplayName>
 			<Chapters.1.Tasks.1>Entre no Modo Feng Shui</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Inspecione o ambiente próximo aos veios de minério</Chapters.1.Tasks.2>
 			<Chapters.1.Tasks.3>Inspecionar Ambiente Próximo à Água</Chapters.1.Tasks.3>
-			<Chapters.2.DisplayName>Elemental Environment &amp; Cultivation</Chapters.2.DisplayName>
+			<Chapters.2.DisplayName>Elemento do Ambiente &amp; Cultivação</Chapters.2.DisplayName>
 			<Chapters.2.Tasks.0>Verifique o tipo de lei</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Verifique a correspondência dos cinco elementos</Chapters.2.Tasks.1>
 			<Chapters.2.Tasks.2>Verifique as estatísticas da madeira do guarda-sol</Chapters.2.Tasks.2>
@@ -699,7 +699,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.28.UiData.Name>Place Item</Tasks.28.UiData.Name>
 			<Tasks.29.TaskDesc>Clique para selecionar Barra de Igneocobre.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>Clique em Feng Shui no canto superior esquerdo para sair do modo Feng Shui.</Tasks.31.TaskDesc>
-			<Tasks.32.TaskDesc>Clique em 3x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.32.TaskDesc>
+			<Tasks.32.TaskDesc>Clique em Velocidade 3x ​​no canto superior esquerdo para acelerar o jogo.</Tasks.32.TaskDesc>
 			<Tasks.34.TaskDesc>Aguarde até que sejam colocados.</Tasks.34.TaskDesc>
 			<Tasks.35.TaskDesc>Aguarde até que sejam colocados.</Tasks.35.TaskDesc>
 			<Tasks.36.TaskDesc>Clique em Feng Shui no canto superior esquerdo para entrar no modo Feng Shui.</Tasks.36.TaskDesc>
@@ -729,12 +729,12 @@ Discípulos Externos</DisplayName>
 			<Tasks.1.TaskDesc>Clique na notificação de 'mentalmente instável' à esquerda.</Tasks.1.TaskDesc>
 			<Tasks.3.TaskDesc>Clique em Humor e Social no lado direito do menu Status do personagem.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>O jogador pode verificar a barra de humor no menu de status para saber o humor do discípulo, que é afetado principalmente por diferentes humores na página de humor.</Tasks.4.TaskDesc>
-			<Tasks.6.TaskDesc>Clique em Law &amp; Cultivation no lado direito do menu Status do personagem.</Tasks.6.TaskDesc>
+			<Tasks.6.TaskDesc>Clique em Leis &amp; Cultivação no lado direito do menu Status do personagem.</Tasks.6.TaskDesc>
 			<Tasks.7.TipsData.Desc>O estado mental de um discípulo interno é suscetível a mudanças de humor.</Tasks.7.TipsData.Desc>
 			<Tasks.8.TaskDesc>Clique para fechar o menu Lei e Cultivo.</Tasks.8.TaskDesc>
 			<Tasks.10.TipsData.Desc>O estado mental de um discípulo interno afeta não apenas a eficiência de seu cultivo, mas também a taxa de sucesso de seu avanço, fabricação de elixir e fabricação de artefatos.  Geralmente, um estado mental estável beneficia o cultivo.  Mudanças de humor afetam muito o estado mental, pois ele se deteriorará mais rapidamente e se recuperará mais lentamente quando o humor estiver muito baixo, e quando o estado mental estiver muito baixo, o discípulo pode ficar fascinado e perder o controle.</Tasks.10.TipsData.Desc>
 			<Tasks.12.TaskDesc>Clique em Buscar Paz no menu Status do personagem.</Tasks.12.TaskDesc>
-			<Tasks.15.TaskDesc>Clique em 3x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.15.TaskDesc>
+			<Tasks.15.TaskDesc>Clique em Velocidade 3x ​​no canto superior esquerdo para acelerar o jogo.</Tasks.15.TaskDesc>
 			<Tasks.17.TaskDesc>Espere até que o discípulo interno comece a buscar a paz.</Tasks.17.TaskDesc>
 			<Tasks.20.TaskDesc>Este discípulo restaurou um pequeno estado mental depois de buscar a paz.</Tasks.20.TaskDesc>
 			<Tasks.22.TipsData.Desc>Levará algum tempo para recuperar o estado mental de um discípulo buscando a paz, então quando é uma emergência, outros métodos precisam ser aplicados para restaurar o estado mental.</Tasks.22.TipsData.Desc>
@@ -764,7 +764,7 @@ Discípulos Externos</DisplayName>
 			<Chapters.2.Tasks.4>Confirmar avanço</Chapters.2.Tasks.4>
 			<Chapters.2.Tasks.5>Confira o Resultado</Chapters.2.Tasks.5>
 			<Tasks.1.TaskDesc>Clique na notificação de atingir um limite à esquerda.</Tasks.1.TaskDesc>
-			<Tasks.4.TaskDesc>Clique em Law &amp; Cultivation no lado direito do menu Status do personagem.</Tasks.4.TaskDesc>
+			<Tasks.4.TaskDesc>Clique em Leis &amp; Cultivação no lado direito do menu Status do personagem.</Tasks.4.TaskDesc>
 			<Tasks.5.TipsData.Desc>O jogador pode verificar as informações sobre o limite atual do discípulo.</Tasks.5.TipsData.Desc>
 			<Tasks.6.TaskDesc>Clique para fechar o menu Lei e Cultivo.</Tasks.6.TaskDesc>
 			<Tasks.8.TipsData.Desc>Quando a prática de um discípulo interno atinge um limite no estado atual, ele só pode começar a próxima fase após uma descoberta bem-sucedida, por isso é especialmente importante conhecer os métodos para a descoberta.  Há muitas maneiras de romper um limite, por exemplo, confiando no meio ambiente e no acaso, indo em aventuras, revivendo a vida de um discípulo externo, sobrevivendo a uma tribulação de trovão, etc. Este tutorial ensina como confiar no meio ambiente e no acaso.</Tasks.8.TipsData.Desc>
@@ -793,7 +793,7 @@ Discípulos Externos</DisplayName>
 		<Text Name="LearnEso">
 			<Type>Cultivação</Type>
 			<DisplayName>Aquisição de inspiração e aprendizado manual</DisplayName>
-			<Desc>In this tutorial, learn what is inspiration, how to obtain it and the relation between learning manuals and attainment.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Neste tutorial, aprenda o que é inspiração, como obtê-lo e a relação entre manuais de aprendizagem e aproveitamento.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Inspiração e Realização</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Abra o menu de inspiração</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Verifique o uso para inspiração</Chapters.0.Tasks.1>
@@ -808,18 +808,18 @@ Discípulos Externos</DisplayName>
 			<Chapters.2.Tasks.0>Ative o modo de treinamento</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Verificar notificação</Chapters.2.Tasks.1>
 			<Chapters.2.Tasks.2>Verifique a inspiração</Chapters.2.Tasks.2>
-			<Chapters.2.Tasks.3>Inspecione a pílula Eureka</Chapters.2.Tasks.3>
-			<Chapters.2.Tasks.4>Coma a pílula Eureka</Chapters.2.Tasks.4>
+			<Chapters.2.Tasks.3>Inspecione a Eureka Pill</Chapters.2.Tasks.3>
+			<Chapters.2.Tasks.4>Coma a Eureka Pill</Chapters.2.Tasks.4>
 			<Chapters.2.Tasks.5>Verifique a inspiração novamente</Chapters.2.Tasks.5>
 			<Tasks.1.TaskDesc>Clique e selecione um discípulo interno.</Tasks.1.TaskDesc>
 			<Tasks.2.TaskDesc>Clique para abrir o menu Lei e Cultivo.</Tasks.2.TaskDesc>
 			<Tasks.3.TaskDesc>Clique para abrir o menu Inspiração.</Tasks.3.TaskDesc>
 			<Tasks.5.TaskDesc>O jogador pode colocar o cursor para verificar a inspiração e as informações no canto inferior direito.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Clique para fechar o menu Inspiração.</Tasks.6.TaskDesc>
-			<Tasks.8.TaskDesc>Clique para abrir o menu General Stats à esquerda.</Tasks.8.TaskDesc>
+			<Tasks.8.TaskDesc>Clique para abrir o menu Status Gerais à esquerda.</Tasks.8.TaskDesc>
 			<Tasks.10.TaskDesc>O jogador pode passar o cursor para ver a conquista e informações relacionadas.</Tasks.10.TaskDesc>
 			<Tasks.12.TipsData.Desc>Os discípulos internos continuarão ganhando inspiração durante o cultivo, que pode ser usado para aprender vários manuais para melhorar sua habilidade.  A inspiração necessária para aprender uma nova habilidade aumenta à medida que a realização se torna maior.</Tasks.12.TipsData.Desc>
-			<Tasks.14.TaskDesc>Clique para abrir o menu General Stats à esquerda.</Tasks.14.TaskDesc>
+			<Tasks.14.TaskDesc>Clique para abrir o menu Status Gerais à esquerda.</Tasks.14.TaskDesc>
 			<Tasks.15.TaskDesc>Clique para abrir o menu Inspiração.</Tasks.15.TaskDesc>
 			<Tasks.16.TaskDesc>Inspecione os requisitos para aprender a habilidade Forma Lunar.</Tasks.16.TaskDesc>
 			<Tasks.18.TaskDesc>Clique em Formulário Lunar.</Tasks.18.TaskDesc>
@@ -829,10 +829,10 @@ Discípulos Externos</DisplayName>
 			<Tasks.24.TaskDesc>Clique para fechar o menu Lei e Cultivo.</Tasks.24.TaskDesc>
 			<Tasks.26.TipsData.Desc>Os discípulos internos podem não apenas usar a inspiração para aprender ou avançar em seu estudo manual, mas também para aumentar seu nível de habilidades e aprender manuais únicos exclusivos, como diários de viagem e receitas de elixir.  Os discípulos podem aprender manuais com seu mestre ou estudá-los no Pavilhão de Manuais, e também podem aprender novos manuais durante a aventura.  No entanto, um discípulo não pode aprender um novo manual quando sua inspiração é insuficiente.</Tasks.26.TipsData.Desc>
 			<Tasks.28.TaskDesc>Quando um discípulo está em modo de treinamento, ele ganhará muita inspiração durante o treinamento, que é a principal fonte de inspiração.</Tasks.28.TaskDesc>
-			<Tasks.29.TaskDesc>Clique em 3x Speed ​​no canto superior esquerdo para acelerar o jogo.</Tasks.29.TaskDesc>
+			<Tasks.29.TaskDesc>Clique em Velocidade 3x ​​no canto superior esquerdo para acelerar o jogo.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>Espere até que o discípulo tenha treinado por um tempo.</Tasks.31.TaskDesc>
 			<Tasks.33.TipsData.Desc>Quando houver um "+" acima do botão Inspiração, significa que este discípulo pode aprender um novo manual.  Quando um discípulo interno ganha inspiração suficiente para um novo manual, ele mostrará automaticamente "+" aqui para notificar o jogador para verificar esta informação.</Tasks.33.TipsData.Desc>
-			<Tasks.35.TaskDesc>Clique para abrir o menu General Stats à esquerda.</Tasks.35.TaskDesc>
+			<Tasks.35.TaskDesc>Clique para abrir o menu Status Gerais à esquerda.</Tasks.35.TaskDesc>
 			<Tasks.36.TaskDesc>Clique para abrir o menu Inspiração.</Tasks.36.TaskDesc>
 			<Tasks.37.TipsData.Desc>Este discípulo ganhou alguma inspiração através do treinamento.</Tasks.37.TipsData.Desc>
 			<Tasks.38.TaskDesc>Clique para fechar o menu Inspiração.</Tasks.38.TaskDesc>
@@ -850,7 +850,7 @@ Discípulos Externos</DisplayName>
 		<Text Name="DTreatment">
 			<Type>Cultivação</Type>
 			<DisplayName>Cura para Discípulos Interiores</DisplayName>
-			<Desc>In this tutorial, learn the different kinds of injuries for inner disciples and how to heal them.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
+			<Desc>Neste tutorial, aprenda os diferentes tipos de lesões para os discípulos internos e como curá-los.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Aprenda os tipos de lesão interna</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Selecione um Discípulo Ferido</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Inspecione a lesão com a etiqueta "Espírito"</Chapters.0.Tasks.1>
