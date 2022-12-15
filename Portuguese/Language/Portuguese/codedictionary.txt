@@ -2010,7 +2010,7 @@ Name	Name
 确定	Confirm
 {0}的掌门很喜欢我们送的礼物。人情+{1}，好感度+{2}	The sect leader of {0} likes our gift. Connection +{1}; Favor +{2}
 投其所好	Cater to their pleasure
-好感度达到{0}	Favor has reached {0}.
+好感度达到{0}	Atinja o respeita {0}.
 一本神秘秘籍	A mysterious manual
 一件以{0}炼制成的{1}阶法宝。	A Tier {1} artifact crafted from {0}.
 一件以{2}为主材料的{0}炼制成的{1}阶法宝。	A Tier {1} artifact crafted by {0}, using {2} as its main material.
@@ -3922,10 +3922,10 @@ Lua回调类名	Lua Callback Class Name
 【{0}】赢得竞拍	[{0}] ganhou o item do leilão.
 此物品流拍！	Este item não teve nenhum comprador!
 流拍	Failed Auction
-\n[color=#FF0000]稳定度不足将无法结阵[/color]	\n[color=#FF0000]Unable to create the formation due to insufficient stability.[/color]
-\n[color=#FF4000]规模超出阵枢承载会导致稳定度大幅下降，反之则上升。[/color]	\n[color=#FF4000]If the size is larger than what the pillar character can manage, the stability will drastically decrease; otherwise, it will increase.[/color]
-\n[color=#FF4000]负荷超出阵枢承载会导致阵法消耗大幅提高，反之则下降。[/color]	\n[color=#FF4000]If the load is greater than what the pillar character can manage, the cost of formations will drastically increase; otherwise, it will decrease.[/color]
-选择阵枢人选	Select a character to be the pillar.
+\n[color=#FF0000]稳定度不足将无法结阵[/color]	\n[color=#FF0000]Incapaz de criar a formação devido à estabilidade insuficiente.[/color]
+\n[color=#FF4000]规模超出阵枢承载会导致稳定度大幅下降，反之则上升。[/color]	\n[color=#FF4000]Se o tamanho for maior do que o personagem do pilar pode controlar, a estabilidade diminuirá drasticamente; caso contrário, aumentará.[/color]
+\n[color=#FF4000]负荷超出阵枢承载会导致阵法消耗大幅提高，反之则下降。[/color]	\n[color=#FF4000]Se a carga for maior do que o personagem do pilar pode suportar, o custo das formações aumentará drasticamente; caso contrário, diminuirá.[/color]
+选择阵枢人选	Selecione um personagem para ser o pilar.
 [color=#FF0000]无阵枢[/color]	[color=#FF0000]No Pillar[/color]
 未使用配置	Configuration Not Used
 此间房屋中，[color=#ff0000]床铺风水[/color]出了问题。房屋主人终日被噩梦缠身，请尝试调整床铺风水，使之化凶为吉。	There is a Feng Shui issue with the [color=#ff0000]bed[/color] in this room. The owner has been bound by a nightmare for an entire day. Try to adjust the bed's Feng Shui to help him.
