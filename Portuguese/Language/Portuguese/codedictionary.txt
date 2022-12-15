@@ -1366,8 +1366,8 @@ _结局	_The End
 蓝图丢失	Blueprint lost
 <font color=#FF0000>蓝图中存在失落之物！\n</font>	<font color=#FF0000>Lost item in the blueprint!\n</font>
 蓝图缺少名称无法保存	Cannot save an unnamed blueprint.
-确定删除 {0} 吗？	Do you want to delete {0}?
-确定删除以下建筑蓝图吗？\n\n{0}	Do you want to delete the following blueprint(s)? \n\n{0}
+确定删除 {0} 吗？	você quer excluir {0}?
+确定删除以下建筑蓝图吗？\n\n{0}	Deseja excluir o seguinte blueprint(s)? \n\n{0}
 新建蓝图	Create new blueprint
 自制建筑蓝图	Create your own blueprint
 蓝图丢失！	Blueprint is lost!
@@ -1392,7 +1392,7 @@ _结局	_The End
 插入角色名字	Escolha um nome de personagem.
 插入第三人称代词（他/她）	Choose third-person pronoun (male/female).
 插入语第三人称物主代词（他的/她的）	Choose a third-person possessive pronoun (his/her).
-确定删除以下背景故事吗？\n\n{0}	Do you want to delete the following background? \n\n{0}
+确定删除以下背景故事吗？\n\n{0}	Deseja excluir o seguinte plano de fundo? \n\n{0}
 删除成功	Deletado.
 注意：修改已存在背景故事的分类可能会导致引用轮回者相应背景丢失。	Note: Changing any existed background's category may cause the loss of relevant reincarnator's background.
 不再提醒	Don't show this again
@@ -1434,7 +1434,7 @@ Name	Name
 轮回者：{0} \n缺少描述，无法保存	Reincarnator: {0} \nLack in description and cannot be saved.
 等轮回者	 etc.
 本地轮回者	Local Reincarnator
-确定删除以下轮回者吗？\n\n{0}	Do you want to delete the following reincarnator(s)? \n\n{0}
+确定删除以下轮回者吗？\n\n{0}	Deseja excluir o seguinte reencarnado(s)? \n\n{0}
 失落的灵智	Lost Intelligence
 化形天劫: {0}	Shapeshift Trib: {0}
 是	is 
@@ -1494,7 +1494,7 @@ Name	Name
 装备缺少主材料无法保存	Cannot save as main material is missing.
 {0} 缺少产出建筑无法保存	{0} does not have output buildings, unable to save.
 {0} 缺少产出方式无法保存	{0} does not have output methods, unable to save.
-确定删除以下物品吗？\n\n{0}	Do you want to delete the following item(s)?\n\n{0}
+确定删除以下物品吗？\n\n{0}	Deseja excluir o seguinte item(s)?\n\n{0}
 消耗品	Consumable
 衣裤	Clothing
 其他装备	Other Equipment
@@ -1818,7 +1818,7 @@ Name	Name
 与{0}({1})不能共存	Cannot coexist with {0}({1})
 {0}已达到最大等级	{0} has reached the maximum level.
 部位拥有词条个数已达最大数量	Maximum number of entries available for this part has been reached.
-是否将[color=#990000][{0}][/color]强化到[color=#990000][{1}][/color](已有效果{2}/{3})?	Do you want to enhance [color=#990000][{1}][/color](Effect Owned{2}/{3}) with [color=#990000][{0}][/color]?
+是否将[color=#990000][{0}][/color]强化到[color=#990000][{1}][/color](已有效果{2}/{3})?	Você quer melhorar [color=#990000][{1}][/color](Effect Owned{2}/{3}) with [color=#990000][{0}][/color]?
 {0}解锁神国建筑:[{1}]\n{2}	{0} unlocks Divine Realm Building: [{1}]\n{2}
 {0}的神国迎来护法：\n[color=#{4}][{1}·{3}][/color]\n{2}	{0}'s divine realm welcomes guard:\n[color=#{4}][{1}·{3}][/color]\n{2}
 [color=#FF0000]已达到最大等级[/color]	[color=#FF0000]Has reached the maximum level[/color]
@@ -2670,7 +2670,7 @@ ui状态异常，请关闭ui再次打开	Unable to load the UI. Please close and
 -复制	- Copy
 当前阵图有正在运转的阵法，无法删除	A formation created using this plan is still active. Unable to delete.
 当前阵图有阵法配置，即将删除配套阵法，是否确定	The plan has a formation configuration. Do you want to delete all the related formations?
-是否确定删除该阵法	Do you want to delete this formation?
+是否确定删除该阵法	Deseja excluir esta formação?
 阵枢：	Pillar: 
 　无	　None
 阵眼：	Auxiliaries: 
@@ -2714,8 +2714,8 @@ Lua代码不能为空	Lua script cannot be empty.
 未合练	Not Combined
 未达到元神期，无法进行元神寄托的仪式。	Has yet to reach the Primordial Spirit State. Unable to perform attachment ritual via primordial spirit.
 元神期的修行者可以以自身的元神分神为载体，将自己对修行的体会寄托于装备之上。	A cultivator with the primordial spirit can use a sub-spirit as the carrier to attach their understanding of cultivation to their equipment.
-是否切换绘制模式，此操作会导致刷新符咒绘制面板且不会退还灵力。	Do you want to switch the drawing mode? This action will refresh the talisman drawing panel and will not return Qi.
-是否切换符咒种类，此操作会导致刷新符咒绘制面板且不会退还灵力。	Do you want to change the talisman type? It will refresh the talisman drawing panel and will not return Qi.
+是否切换绘制模式，此操作会导致刷新符咒绘制面板且不会退还灵力。	Deseja alternar o modo de desenho? Esta ação atualizará o painel de desenho do talismã e não retornará Qi.
+是否切换符咒种类，此操作会导致刷新符咒绘制面板且不会退还灵力。	Deseja alterar o tipo de talismã? Ele atualizará o painel de desenho do talismã e não retornará Qi.
 空白	Blank
 似乎随便画画就可以得到神奇的结果。	It seems that you can paint wonders by only scribbling.
 白元法	White Origin Technique
@@ -2772,7 +2772,7 @@ Lua代码不能为空	Lua script cannot be empty.
 蓝图中无可造建筑	No available Buildings in this Blueprint.
 蓝图中存在未解锁建筑!	Locked building(s) in the blueprint!
 神秘地点	Mysterious Spot
-确定要离开此地吗？	Do you want to leave this place?
+确定要离开此地吗？	Você quer sair deste lugar??
 还不能离开，因为\n{0}	Incapaz de sair porque \n{0}.
 快捷键	Hotkeys
 目标	Alvo
@@ -2877,7 +2877,7 @@ Trap编辑。	Trap Edit.
 {0}[{7}]\n灵气:{8:N0}\n健康:{1:P0}\n心境:{6:N0}\n饥饿:{2:N0}\n口渴:{3:N0}\n精力:{4:N0}\n情绪:{5:N0}	{0}[{7}]\nQi: {8:N0}\nHealth: {1:P0}\nMental State: {6:N0}\nHunger: {2:N0}\nThirst: {3:N0}\nEnergy: {4:N0}\nMood: {5:N0}
 \n重要情绪:	\nCore Mood:
 异常	Error
-确定删除该建筑蓝图吗？	Do you want to delete the building blueprint? 
+确定删除该建筑蓝图吗？	Deseja excluir a planta do edifício? 
 生存目标	Objective
 门派建设	Sect Building
 修行进阶	Advance
