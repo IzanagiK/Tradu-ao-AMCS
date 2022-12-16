@@ -2044,7 +2044,7 @@ Name	Name
 脱离战斗并尝试逃跑	Leave the fight and attempt to flee.
 激活雕像	Activate Statue
 激活雕像以等待灵兽重生	Activate Statue to wait for the Spirit Pet's rebirth.
-切换灵宠需要让灵宠之魂在雕像上停留{0:F1}天，期间将无灵宠可用，是否继续？	Changing pet requires the pet's soul to be staying on the statue for {0:F1} days, during which you will have no pet available. Do you want to continue?
+切换灵宠需要让灵宠之魂在雕像上停留{0:F1}天，期间将无灵宠可用，是否继续？	A troca de animal de estimação requer que a alma do animal permaneça na estátua por {0:F1} dias, durante os quais não terá animal de estimação disponível. Você quer continuar?
 吞食	Devour
 让精怪吞食一个物品。	Let the Sentient Spirit devour an item.
 禁足	Freeze
@@ -2346,9 +2346,9 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 请选择一个要被吞噬的物体	Select an item to devour.
 请选择一个要埋葬的角色	Select a character to be buried.
 请选择一处水域	Select a water area.
-这将会打断当前工作，确认立即进行突破吗？	Doing so will stop the current work. Do you want to breakthrough?
+这将会打断当前工作，确认立即进行突破吗？	Isso interromperá o trabalho atual. Você quer avançar?
 瓶颈突破	Breakthrough
-这将会打断当前工作，确认立即进行渡劫吗？	Doing so will stop the current work. Do you want to survive Tribulation?
+这将会打断当前工作，确认立即进行渡劫吗？	Isso interromperá o trabalho atual. Você quer sobreviver à Tribulação?
 道行天劫	Attainment Tribulation
 寿元天劫	Lifespan Tribulation
 多次吞食	Repeated Devouring
@@ -2360,12 +2360,12 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 护法[color=#{3}][{0}·{1}][/color]降临并答应为{2}提供庇护！\n{4}	Guard [color=#{3}][{0} {1}][/color] descended and promised to shelter {2}!\n{4}
 护法[color=#{3}][{0}·{1}][/color]降临，因{2}已有同类庇护，所以拒绝了请求。	Guard [color=#{3}][{0} {1}][/color] descended, but {2} was already under the protection of another guard of the same type, so they refused the request.
 {0}获得{1}点信仰	{0} obtains {1} beliefs.
-旧的傀儡将会被替换掉，确定要继续吗？	The old vessel will be replaced. Do you want to continue?
-确定要对{0}施展吗？这将会导致死亡。	Do you want to use {0}? This will lead to certain death.
+旧的傀儡将会被替换掉，确定要继续吗？	A velha embarcação será substituída. Você deseja continuar?
+确定要对{0}施展吗？这将会导致死亡。	Você quer usar {0}? Isso levará à morte certa.
 凝珀之术	Soul Binder
 确定要对{0}施展吗？这将会导致它永远失去灵性。	Are you sure you want to use it on {0}? This will cause it to lose its Blessing forever.
 确定要夺舍{0}吗？	Are you sure you want to possess {0}?
-攻击目标为非敌方单位，确定要发起攻击吗？	The target is not an enemy. Do you want to attack anyway?
+攻击目标为非敌方单位，确定要发起攻击吗？	O alvo não é um inimigo. Quer atacar mesmo assim?
 信仰圣物一生只能炼制一次，确定要使用[{0}]炼制吗？	A Relíquia Sagrada só pode ser criada uma vez na vida. Deseja usar [{0}] para criar?
 多次画符	Desenho de vários talismãs
 修炼速度停滞，无法入定。	Incapaz de meditar porque o cultivo estagnou.
@@ -2649,7 +2649,7 @@ ui状态异常，请关闭ui再次打开	Unable to load the UI. Please close and
 阵图：{0} 阵法：{1}号	Plan: {0}Formation: {1}No.
 阵图：{0}	Plan: {0}
 新建阵图	Create
-当前仍有未保存的阵图，是否保存	The plan has not been saved. Do you want to save it?
+当前仍有未保存的阵图，是否保存	O plano não foi salvo. Você quer salvá-lo?
 不能改变仙阵阵图	Unable to edit the immortal plan.
 当前阵图节点数过少，无法保存	The plan has too few nodes. Unable to save.
 命名阵图	Name the plan.
@@ -2669,7 +2669,7 @@ ui状态异常，请关闭ui再次打开	Unable to load the UI. Please close and
 请输入阵图名字	Enter a name for the plan.
 -复制	- Copy
 当前阵图有正在运转的阵法，无法删除	A formation created using this plan is still active. Unable to delete.
-当前阵图有阵法配置，即将删除配套阵法，是否确定	The plan has a formation configuration. Do you want to delete all the related formations?
+当前阵图有阵法配置，即将删除配套阵法，是否确定	O plano possui uma configuração de formação. Deseja excluir todas as formações relacionadas?
 是否确定删除该阵法	Deseja excluir esta formação?
 阵枢：	Pillar: 
 　无	　None
@@ -2918,7 +2918,7 @@ Trap编辑。	Trap Edit.
 \n提高道行: {0}	\nAttainment: +{0}
 {0}\n[color=#9e6404]不能共存：[/color]	{0}\n[color=#9e6404]Cannot coexist:[/color]
 \n[align=center][color=#9e6404]----功法进阶----[/color][/align]	\n[align=center][color=#9e6404]Advanced Law[/color][/align]
-确定重置所有的快捷键吗？	Do you want to reset all hotkeys to their defaults?
+确定重置所有的快捷键吗？	Deseja redefinir todas as teclas de atalho para seus padrões?
 重置快捷键	Reset Hotkeys
 请输入任意按键	Press a key.
 该热键已被系统锁定	Esta tecla de atalho foi bloqueada pelo sistema.
@@ -3805,8 +3805,8 @@ Trap编辑。	Trap Edit.
 {9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	{9}: {10:N2}%\nBless Tendency: {8} {0:N2}/d\nNurture: {1}\nWeather: {2}\nSeason: {3}\nFive Element: {4}\nSympathy: {5}\n\nStatus: {6}\n　{7}\n
 对话名称：{0}\n来源：{1}	Dialogue Name: {0}\nSource: {1}
 当前环境	Current Environment
-请先在'地图编辑-坐标点-角色出生点'中设置合适的角色出生点。	Character spawn point has not been set. Basic map info is incomplete. Please set a suitable character spawn point in Map Edit—Coordinates—Character Spawn Point.
-是否确定进入地图编辑（不会自动保存，如有修改，请先手动保存）	Do you want to start Map Edit? (Auto-save is not available. Please save manually if modified.)
+请先在'地图编辑-坐标点-角色出生点'中设置合适的角色出生点。	O ponto de geração do personagem não foi definido. As informações básicas do mapa estão incompletas. Por favor, defina um ponto de spawn de personagem adequado em Map Edit—Coordinates—Character Spawn Point.
+是否确定进入地图编辑（不会自动保存，如有修改，请先手动保存）	Deseja iniciar a edição do mapa? (O salvamento automático não está disponível. Por favor, salve manualmente se modificado.)
 脚本名字不能为空	Script Name cannot be empty.
 显示名字不能为空	Display Name cannot be empty.
 路线点	Route
