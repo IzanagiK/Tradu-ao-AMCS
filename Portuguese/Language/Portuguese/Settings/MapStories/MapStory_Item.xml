@@ -53,52 +53,52 @@
 		</Text>
 		<Text Name="Story_Item_LunHui_Box1">
 			<DisplayName>Magical Talisman Box</DisplayName>
-			<Desc>Mrs. Lu carries a magical talisman box with three mysterious talismans inside.</Desc>
+			<Desc>A Mrs. Lu carrega uma caixa de talismã mágica com três talismãs misteriosos dentro.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_LunHui_Box2">
 			<DisplayName>Magic Talisman Casket</DisplayName>
-			<Desc>Yang Shu carries a magical talisman box with one extremely rare talisman inside.</Desc>
+			<Desc>Yang Shu carrega uma caixa de talismã mágica com um talismã extremamente raro dentro.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_ZuShiZhiCi">
 			<DisplayName>Gift of the Master</DisplayName>
-			<Desc>There is a precious treasure within the Gift of the Master.</Desc>
+			<Desc>Existe um tesouro precioso no presente do Mestre.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_BenYuan">
 			<DisplayName>Refine the Heavenly Font</DisplayName>
-			<Desc>To refine the Heavenly Font, the same class of Law must be used at the highest State, otherwise there is no hope of success. The higher your Attainment, the higher the success rate of refining. If you fail, you will sustain injury and it will increase Condemnation. Are you sure you want to refine the Heavenly Font?</Desc>
+			<Desc>Para refinar a Fonte Celestial, a mesma classe de Lei deve ser usada no Estado mais alto, caso contrário, não há esperança de sucesso. Quanto maior a sua Consecução, maior a taxa de sucesso do refino. Se você falhar, sofrerá ferimentos e isso aumentará a Condenação. Tem certeza de que deseja refinar a Fonte Celestial?</Desc>
 			<Selections.0.Display>Refine</Selections.0.Display>
-			<Selections.1.Display>Give up</Selections.1.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_SuoYingZhiJuan">
 			<DisplayName>Miniature Scroll</DisplayName>
-			<Desc>This is a miniature record of all that has happened since the birth of heaven and earth. If you know the true name of the creature in question, you can summon it from the scroll. This is one the 12 Chaotic Numinous Treasures left over from the creation of the world.</Desc>
-			<Selections.0.Display>Give up</Selections.0.Display>
+			<Desc>Este é um registro em miniatura de tudo o que aconteceu desde o nascimento do céu e da terra. Se você souber o verdadeiro nome da criatura em questão, poderá convocá-la do pergaminho. Este é um dos 12 Tesouros Numinosos Caóticos que sobraram da criação do mundo.</Desc>
+			<Selections.0.Display>Desistir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_BossSoulItem">
 			<DisplayName>Inspiration</DisplayName>
-			<Desc>[NAME] attempted to obtain some useful information from it.</Desc>
-			<Selections.0.Display>Use Primordial Spirit</Selections.0.Display>
+			<Desc>[NAME] tentou obter algumas informações úteis a partir dele.</Desc>
+			<Selections.0.Display>Usar Espírito Primordial</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_OldSchool_Letter">
 			<DisplayName>Mysterious Letter</DisplayName>
-			<Desc>This is the letter left behind by the one that saved you all from danger while you all were fleeing after the destruction of the Sect.</Desc>
-			<Selections.0.Display>Read</Selections.0.Display>
+			<Desc>Esta é a carta deixada por aquele que salvou todos vocês do perigo enquanto todos fugiam após a destruição da Seita.</Desc>
+			<Selections.0.Display>Ler</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin">
 			<DisplayName>Inspect</DisplayName>
-			<Desc>It didn't look like there was anything out of the ordinary. Who knows what mysteries it holds.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
-			<Selections.1.Display>Destroy</Selections.1.Display>
-			<Selections.2.Display>Give up</Selections.2.Display>
+			<Desc>Não parecia haver nada fora do comum. Quem sabe que mistérios ela contém.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
+			<Selections.1.Display>Destruir</Selections.1.Display>
+			<Selections.2.Display>Desistir</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin1">
 			<DisplayName>Destroy</DisplayName>
 			<Desc>Although [NAME] had no way of discerning what was so dangerous about this item, but when trying to destroy it all of a sudden, an unspeakable sense of terror rose up in the pit of the stomach...what would happen if this were destroyed? Are you sure you want to destroy it? (If you confirm, an ancient beast will be summoned. Your Sect may be completely destroyed if you are not sufficiently prepared. Please consider your choices wisely)</Desc>
-			<Selections.0.Display>Destroy</Selections.0.Display>
-			<Selections.1.Display>Give up</Selections.1.Display>
+			<Selections.0.Display>Destruir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin2">
 			<DisplayName>Destroy</DisplayName>
@@ -109,7 +109,7 @@
 			<DisplayName>Have a Taste</DisplayName>
 			<Desc>[NAME] tasted the strange mushroom with curiosity.</Desc>
 			<Selections.0.Display>Eat it despite the risk</Selections.0.Display>
-			<Selections.1.Display>Give up</Selections.1.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_ZhenTu">
 			<DisplayName>Inspiration</DisplayName>
@@ -121,7 +121,7 @@
 			<Desc>[NAME] attempted to inspect this item.</Desc>
 			<Selections.0.Display>Inspect this item</Selections.0.Display>
 			<Selections.1.Display>Unseal</Selections.1.Display>
-			<Selections.2.Display>Give up</Selections.2.Display>
+			<Selections.2.Display>Desistir</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu1">
 			<DisplayName>Inspect this item</DisplayName>
