@@ -2,69 +2,69 @@
 	<List>
 		<Text Name="Story_BoxFind1">
 			<DisplayName>Search the Box</DisplayName>
-			<Desc>[NAME] found an old box that had some useful things inside.</Desc>
+			<Desc>[NAME] encontrou uma caixa velha que continha algumas coisas úteis dentro.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind2">
 			<DisplayName>Search the corpse.</DisplayName>
-			<Desc>[NAME] carefully searched the corpse and found that nothing other than the weapon could be used.</Desc>
+			<Desc>[NAME] revistou cuidadosamente o cadáver e descobriu que nada além da arma poderia ser usada.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind3">
 			<DisplayName>Search the corpse.</DisplayName>
-			<Desc>[NAME] carefully searched the corpse, a beam of light shot out of it and went straight into [NAME]'s brain. [NAME] was surprised to find that many more methods of cultivation have now appeared in memory. \n\n[color=#000000]"What on earth happened here? Where did these Laws come from? What exactly happened to this person before they died? " While pleasantly surprised, [/color]\n[NAME] couldn't help but ask questions. \n\nUnfortunately, these past events could not be cleared up...</Desc>
+			<Desc>[NAME] cuidadosamente revistou o cadáver, um feixe de luz saiu dele e foi direto para cérebro de [NAME]. [NAME] ficou surpreso ao descobrir que muitos outros métodos de cultivo agora apareceram na memória. \n\n[color=#000000]"O que diabos aconteceu aqui? De onde vieram essas Leis? O que exatamente aconteceu com essa pessoa antes de morrer? "Embora agradavelmente surpreso, [/color]\n[NAME] não podia deixar de fazer perguntas. \n\nInfelizmente, esses eventos passados não puderam ser esclarecidos...</Desc>
 		</Text>
 		<Text Name="Story_BoxFind4">
 			<DisplayName>Search the corpse.</DisplayName>
-			<Desc>[NAME] carefully searched the corpse and found that nothing other than the weapon could be used.</Desc>
+			<Desc>[NAME] revistou cuidadosamente o cadáver e descobriu que nada além da arma poderia ser usada.</Desc>
 		</Text>
 		<Text Name="Story_Item_StoneBox">
 			<DisplayName>Stone Casket</DisplayName>
-			<Desc>A mysterious Taoist Priest gave you all a Stone Casket, about a foot square. Neither water nor fire could get inside. It was quite otherworldly. The exterior shone with a light from time to time, this couldn't be a normal item.</Desc>
-			<Selections.0.Display>Use hands to open</Selections.0.Display>
+			<Desc>Um misterioso sacerdote taoísta deu a todos vocês um caixão de pedra, com cerca de 30 centímetros quadrados. Nem a água nem o fogo podiam entrar. Foi bastante sobrenatural. O exterior brilhava com uma luz de vez em quando, isso não poderia ser um item normal.</Desc>
+			<Selections.0.Display>Use as mãos para abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_StoneBox1">
 			<DisplayName>Stone Casket</DisplayName>
-			<Desc>This is the chest that the hunter Zhang Erwa from Nanping Village got off of the corpse at the foot of Mt. FullMoon. There is a longsword crossed with a liquor gourd on the exterior, this is the mark of a fellow disciple back in Taiyi Sect. [NAME] remembered the fellow disciple and how he was as a person.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Desc>Este é o baú que o caçador Zhang Erwa, da vila de Nanping, tirou do cadáver no sopé do Monte FullMoon. Há uma espada longa cruzada com uma cabaça de licor no exterior, esta é a marca de um discípulo na Seita Taiyi. [NAME] lembrou-se do condiscípulo e de como ele era como pessoa.</Desc>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_StoneBox2">
 			<DisplayName>Ancient Casket</DisplayName>
-			<Desc>A stone casket dug out of the boulder that looked like it had been there for decades. Who knows what contents it holds.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Desc>Um caixão de pedra escavado na pedra que parecia estar lá há décadas. Quem sabe o conteúdo que contém.</Desc>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_FaBaoBox">
 			<DisplayName>Polaris Chest</DisplayName>
-			<Desc>On the night of the attack, the artifact room was breached. You couldn't bear to see such rarities get looted, and so you risked your life to save a few.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Desc>Na noite do ataque, a sala de artefatos foi invadida. Você não suportava ver tais raridades sendo saqueadas, então arriscou sua vida para salvar algumas.</Desc>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_DanBox">
 			<DisplayName>Polaris Chest</DisplayName>
-			<Desc>On the night of the attack, the elixir room was breached. You couldn't bear to see such rarities get looted, and so you risked your life to save a few.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Desc>Na noite do ataque, a sala do elixir foi violada. Você não suportava ver tais raridades sendo saqueadas, então arriscou sua vida para salvar algumas.</Desc>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_MiJiBox">
 			<DisplayName>Polaris Chest</DisplayName>
-			<Desc>On the night of the attack, the Scriptorium was breached. You couldn't bear to see such rarities get looted, and so you risked your life to save a few.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Desc>Na noite do ataque, o Scriptorium foi invadido. Você não suportava ver tais raridades sendo saqueadas, então arriscou sua vida para salvar algumas.</Desc>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_FuBox">
 			<DisplayName>Polaris Chest</DisplayName>
-			<Desc>On the night of the attack, the talisman room was breached. You couldn't bear to see such rarities get looted, and so you risked your life to save a few.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Desc>Na noite do ataque, a sala do talismã foi invadida. Você não suportava ver tais raridades sendo saqueadas, então arriscou sua vida para salvar algumas.</Desc>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_LunHui_Box1">
 			<DisplayName>Magical Talisman Box</DisplayName>
 			<Desc>Mrs. Lu carries a magical talisman box with three mysterious talismans inside.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_LunHui_Box2">
 			<DisplayName>Magic Talisman Casket</DisplayName>
 			<Desc>Yang Shu carries a magical talisman box with one extremely rare talisman inside.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_ZuShiZhiCi">
 			<DisplayName>Gift of the Master</DisplayName>
 			<Desc>There is a precious treasure within the Gift of the Master.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_BenYuan">
 			<DisplayName>Refine the Heavenly Font</DisplayName>
@@ -176,7 +176,7 @@
 		<Text Name="Story_Item_SpringBox">
 			<DisplayName>Festive Goods</DisplayName>
 			<Desc>Attempt to open this item.</Desc>
-			<Selections.0.Display>Open</Selections.0.Display>
+			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_ZhuLongXuYuan_1">
 			<DisplayName>Wish for great fortune</DisplayName>

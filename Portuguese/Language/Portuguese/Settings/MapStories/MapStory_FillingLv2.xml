@@ -1,305 +1,305 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Story_LingZhiGet">
-			<DisplayName>Adventure here</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and recalled that there is supposed to be a Spirit Root that grows here. After searching around it turned out that the area was replete with Earth Qi, there was something out of the ordinary here.</Desc>
-			<Selections.0.Display>Search for the Spirit Root</Selections.0.Display>
-			<Selections.1.Display>Set up a Formation</Selections.1.Display>
-			<Selections.2.Display>Harvest Spirit Root</Selections.2.Display>
-			<Selections.3.Display>Wander around</Selections.3.Display>
-			<Selections.4.Display>Ignore</Selections.4.Display>
+			<DisplayName>Aventure-se aqui</DisplayName>
+			<Desc>[NAME] chegou em [PLACE] e lembrou que deveria haver uma Raiz Espiritual que cresce aqui. Depois de procurar ao redor, descobriu-se que a área estava repleta de Qi da Terra, havia algo fora do comum aqui.</Desc>
+			<Selections.0.Display>Procure a Raiz Espiritual</Selections.0.Display>
+			<Selections.1.Display>Configurar uma formação</Selections.1.Display>
+			<Selections.2.Display>Colher Raiz Espiritual</Selections.2.Display>
+			<Selections.3.Display>Passear</Selections.3.Display>
+			<Selections.4.Display>Ignorar</Selections.4.Display>
 		</Text>
 		<Text Name="Story_LingZhiBeg">
-			<DisplayName>Adventure here</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and recalled that this is where Spirit Root grows.</Desc>
-			<Selections.0.Display>Search for Spirit Root</Selections.0.Display>
-			<Selections.1.Display>Wander around</Selections.1.Display>
-			<Selections.2.Display>Ignore</Selections.2.Display>
+			<DisplayName>Aventure-se aqui</DisplayName>
+			<Desc>[NAME] chegou em [PLACE] e lembrou que é aqui que a Raiz do Espírito cresce aqui.</Desc>
+			<Selections.0.Display>Procure a Raiz Espiritual</Selections.0.Display>
+			<Selections.1.Display>Passear</Selections.1.Display>
+			<Selections.2.Display>Ignorar</Selections.2.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Jin">
-			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Metal Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<DisplayName>Cultivar aqui</DisplayName>
+			<Desc>[NAME] descobriu que a área estava repleta de Metal Qi e as pessoas raramente vinham aqui, tornando-o um excelente local para a prática.</Desc>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Mu">
-			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Wood Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<DisplayName>Cultivar aqui</DisplayName>
+			<Desc>[NAME] descobriu que a área estava repleta de Qi da Madeira e as pessoas raramente vinham aqui, tornando-o um excelente local para a prática.</Desc>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Shui">
-			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Water Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<DisplayName>Cultivar aqui</DisplayName>
+			<Desc>[NAME] descobriu que a área estava repleta de Qi da Água e as pessoas raramente vinham aqui, tornando-o um excelente local para a prática.</Desc>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Huo">
-			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Fire Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<DisplayName>Cultivar aqui</DisplayName>
+			<Desc>[NAME] descobriu que a área estava repleta de Qi de Fogo e as pessoas raramente vinham aqui, tornando-o um excelente local para a prática.</Desc>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="Story_XiuLian_Tu">
-			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Earth Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Meditate</Selections.2.Display>
-			<Selections.3.Display>Meditate</Selections.3.Display>
-			<Selections.4.Display>Meditate</Selections.4.Display>
-			<Selections.5.Display>Ignore</Selections.5.Display>
+			<DisplayName>Cultivar aqui</DisplayName>
+			<Desc>[NAME] descobriu que a área estava repleta de Qi da Terra e as pessoas raramente vinham aqui, tornando-o um excelente local para a prática.</Desc>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Meditar</Selections.2.Display>
+			<Selections.3.Display>Meditar</Selections.3.Display>
+			<Selections.4.Display>Meditar</Selections.4.Display>
+			<Selections.5.Display>Ignorar</Selections.5.Display>
 		</Text>
 		<Text Name="HighFind_Jin">
-			<DisplayName>Search for Treasure</DisplayName>
-			<Desc>[NAME] heard that this place was suffused with supernatural power and suspected that this place must be concealing some sort of treasure.</Desc>
-			<Selections.0.Display>Search for Treasure</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Search for Treasure</Selections.1.Display>
-			<Selections.1.Tip>Luck</Selections.1.Tip>
-			<Selections.2.Display>Search for Treasure</Selections.2.Display>
-			<Selections.3.Display>Search for Treasure</Selections.3.Display>
-			<Selections.4.Display>Search for Treasure</Selections.4.Display>
-			<Selections.5.Display>Search for Treasure</Selections.5.Display>
-			<Selections.5.Tip>Luck</Selections.5.Tip>
-			<Selections.6.Display>Depart</Selections.6.Display>
+			<DisplayName>Procurar por Tesouro</DisplayName>
+			<Desc>[NAME] ouviu que este lugar estava repleto de poder sobrenatural e suspeitou que este lugar deveria estar escondendo algum tipo de tesouro.</Desc>
+			<Selections.0.Display>Procurar por Tesouro</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
+			<Selections.1.Display>Procurar por Tesouro</Selections.1.Display>
+			<Selections.1.Tip>Sorte</Selections.1.Tip>
+			<Selections.2.Display>Procurar por Tesouro</Selections.2.Display>
+			<Selections.3.Display>Procurar por Tesouro</Selections.3.Display>
+			<Selections.4.Display>Procurar por Tesouro</Selections.4.Display>
+			<Selections.5.Display>Procurar por Tesouro</Selections.5.Display>
+			<Selections.5.Tip>Sorte</Selections.5.Tip>
+			<Selections.6.Display>Partir</Selections.6.Display>
 		</Text>
 		<Text Name="HighFind_Mu">
-			<DisplayName>Search for Treasure</DisplayName>
-			<Desc>[NAME] heard that this place was suffused with supernatural power and suspected that this place must be concealing some sort of treasure.</Desc>
-			<Selections.0.Display>Search for Treasure</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Search for Treasure</Selections.1.Display>
-			<Selections.1.Tip>Luck</Selections.1.Tip>
-			<Selections.2.Display>Search for Treasure</Selections.2.Display>
-			<Selections.3.Display>Search for Treasure</Selections.3.Display>
-			<Selections.4.Display>Search for Treasure</Selections.4.Display>
-			<Selections.5.Display>Search for Treasure</Selections.5.Display>
-			<Selections.5.Tip>Luck</Selections.5.Tip>
-			<Selections.6.Display>Depart</Selections.6.Display>
+			<DisplayName>Procurar por Tesouro</DisplayName>
+			<Desc>[NAME] ouviu que este lugar estava repleto de poder sobrenatural e suspeitou que este lugar deveria estar escondendo algum tipo de tesouro.</Desc>
+			<Selections.0.Display>Procurar por Tesouro</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
+			<Selections.1.Display>Procurar por Tesouro</Selections.1.Display>
+			<Selections.1.Tip>Sorte</Selections.1.Tip>
+			<Selections.2.Display>Procurar por Tesouro</Selections.2.Display>
+			<Selections.3.Display>Procurar por Tesouro</Selections.3.Display>
+			<Selections.4.Display>Procurar por Tesouro</Selections.4.Display>
+			<Selections.5.Display>Procurar por Tesouro</Selections.5.Display>
+			<Selections.5.Tip>Sorte</Selections.5.Tip>
+			<Selections.6.Display>Partir</Selections.6.Display>
 		</Text>
 		<Text Name="HighFind_Shui">
-			<DisplayName>Search for Treasure</DisplayName>
-			<Desc>[NAME] heard that this place was suffused with supernatural power and suspected that this place must be concealing some sort of treasure.</Desc>
-			<Selections.0.Display>Search for Treasure</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Search for Treasure</Selections.1.Display>
-			<Selections.1.Tip>Luck</Selections.1.Tip>
-			<Selections.2.Display>Search for Treasure</Selections.2.Display>
-			<Selections.3.Display>Search for Treasure</Selections.3.Display>
-			<Selections.4.Display>Search for Treasure</Selections.4.Display>
-			<Selections.5.Display>Search for Treasure</Selections.5.Display>
-			<Selections.5.Tip>Luck</Selections.5.Tip>
-			<Selections.6.Display>Depart</Selections.6.Display>
+			<DisplayName>Procurar por Tesouro</DisplayName>
+			<Desc>[NAME] ouviu que este lugar estava repleto de poder sobrenatural e suspeitou que este lugar deve estar escondendo algum tipo de tesouro.</Desc>
+			<Selections.0.Display>Procurar por Tesouro</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
+			<Selections.1.Display>Procurar por Tesouro</Selections.1.Display>
+			<Selections.1.Tip>Sorte</Selections.1.Tip>
+			<Selections.2.Display>Procurar por Tesouro</Selections.2.Display>
+			<Selections.3.Display>Procurar por Tesouro</Selections.3.Display>
+			<Selections.4.Display>Procurar por Tesouro</Selections.4.Display>
+			<Selections.5.Display>Procurar por Tesouro</Selections.5.Display>
+			<Selections.5.Tip>Sorte</Selections.5.Tip>
+			<Selections.6.Display>Partir</Selections.6.Display>
 		</Text>
 		<Text Name="HighFind_Huo">
-			<DisplayName>Search for Treasure</DisplayName>
-			<Desc>[NAME] heard that this place was suffused with supernatural power and suspected that this place must be concealing some sort of treasure.</Desc>
-			<Selections.0.Display>Search for Treasure</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Search for Treasure</Selections.1.Display>
-			<Selections.1.Tip>Luck</Selections.1.Tip>
-			<Selections.2.Display>Search for Treasure</Selections.2.Display>
-			<Selections.3.Display>Search for Treasure</Selections.3.Display>
-			<Selections.4.Display>Search for Treasure</Selections.4.Display>
-			<Selections.5.Display>Search for Treasure</Selections.5.Display>
-			<Selections.5.Tip>Luck</Selections.5.Tip>
-			<Selections.6.Display>Depart</Selections.6.Display>
+			<DisplayName>Procurar por Tesouro</DisplayName>
+			<Desc>[NAME] ouviu que este lugar estava repleto de poder sobrenatural e suspeitou que este lugar deve estar escondendo algum tipo de tesouro.</Desc>
+			<Selections.0.Display>Procurar por Tesouro</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
+			<Selections.1.Display>Procurar por Tesouro</Selections.1.Display>
+			<Selections.1.Tip>Sorte</Selections.1.Tip>
+			<Selections.2.Display>Procurar por Tesouro</Selections.2.Display>
+			<Selections.3.Display>Procurar por Tesouro</Selections.3.Display>
+			<Selections.4.Display>Procurar por Tesouro</Selections.4.Display>
+			<Selections.5.Display>Procurar por Tesouro</Selections.5.Display>
+			<Selections.5.Tip>Sorte</Selections.5.Tip>
+			<Selections.6.Display>Partir</Selections.6.Display>
 		</Text>
 		<Text Name="HighFind_Tu">
-			<DisplayName>Search for Treasure</DisplayName>
-			<Desc>[NAME] heard that this place was suffused with supernatural power and suspected that this place must be concealing some sort of treasure.</Desc>
-			<Selections.0.Display>Search for Treasure</Selections.0.Display>
-			<Selections.0.Tip>Luck</Selections.0.Tip>
-			<Selections.1.Display>Search for Treasure</Selections.1.Display>
-			<Selections.1.Tip>Luck</Selections.1.Tip>
-			<Selections.2.Display>Search for Treasure</Selections.2.Display>
-			<Selections.3.Display>Search for Treasure</Selections.3.Display>
-			<Selections.4.Display>Search for Treasure</Selections.4.Display>
-			<Selections.5.Display>Search for Treasure</Selections.5.Display>
-			<Selections.5.Tip>Luck</Selections.5.Tip>
-			<Selections.6.Display>Depart</Selections.6.Display>
+			<DisplayName>Procurar por Tesouro</DisplayName>
+			<Desc>[NAME] ouviu que este lugar estava repleto de poder sobrenatural e suspeitou que este lugar deve estar escondendo algum tipo de tesouro.</Desc>
+			<Selections.0.Display>Procurar por Tesouro</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
+			<Selections.1.Display>Procurar por Tesouro</Selections.1.Display>
+			<Selections.1.Tip>Sorte</Selections.1.Tip>
+			<Selections.2.Display>Procurar por Tesouro</Selections.2.Display>
+			<Selections.3.Display>Procurar por Tesouro</Selections.3.Display>
+			<Selections.4.Display>Procurar por Tesouro</Selections.4.Display>
+			<Selections.5.Display>Procurar por Tesouro</Selections.5.Display>
+			<Selections.5.Tip>Sorte</Selections.5.Tip>
+			<Selections.6.Display>Partir</Selections.6.Display>
 		</Text>
 		<Text Name="Story_MuBai">
 			<DisplayName>Pearlwood Rainforest</DisplayName>
-			<Desc>This place is where an Immortal was once secluded. Rumor has it has not rained here once after the Immortal's ascension.</Desc>
-			<Selections.0.Display>Search for Rain</Selections.0.Display>
-			<Selections.1.Display>Search</Selections.1.Display>
-			<Selections.2.Display>Depart</Selections.2.Display>
+			<Desc>Este lugar é o lugar onde um Imortal já foi isolado. Rumores dizem que não choveu aqui nenhuma vez após a ascensão do Imortal.</Desc>
+			<Selections.0.Display>Procurar por chuva</Selections.0.Display>
+			<Selections.1.Display>Procurar</Selections.1.Display>
+			<Selections.2.Display>Partir</Selections.2.Display>
 		</Text>
 		<Text Name="Story_QiSha">
-			<DisplayName>Seven-Slaughtering Formation</DisplayName>
-			<Desc>The Seven-Slaughtering Formation has shrouded this area. If you haven't been ordered to venture in, it would be better not to risk one's life doing so.</Desc>
-			<Selections.0.Display>Depart</Selections.0.Display>
+			<DisplayName>Formação Seven-Slaughtering</DisplayName>
+			<Desc>A Formação dos Sete Matadouros envolveu esta área. Se você não foi ordenado a se aventurar, seria melhor não arriscar a vida fazendo isso.</Desc>
+			<Selections.0.Display>Partir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_JianZhong">
-			<DisplayName>Bladesmith Tomb</DisplayName>
-			<Desc>Although closely guarded, this place holds the Blue Lotus Temple's swords of ages. If one is able to enter, then, with Luck, there is a chance to leave with the sword.</Desc>
-			<Selections.0.Display>Search for a sword in Bladesmith Tomb</Selections.0.Display>
+			<DisplayName>Tumba Bladesmith</DisplayName>
+			<Desc>Embora bem guardado, este lugar guarda as espadas de eras do Templo do Lótus Azul. Se alguém conseguir entrar, então, com sorte, há uma chance de sair com a espada.</Desc>
+			<Selections.0.Display>Procure por uma espada na Tumba Bladesmith</Selections.0.Display>
 			<Selections.0.Tip>Mt. Shu Favor</Selections.0.Tip>
-			<Selections.1.Display>Depart</Selections.1.Display>
+			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_YuJingTan">
-			<DisplayName>Lake Jadestone's Metal Chest</DisplayName>
-			<Desc>This place holds the Metal Chest of the Emperor of Demons. It would seem that the treasure has been sucked in by a magnetic core, so no one has been able to retrieve it.</Desc>
-			<Selections.0.Display>Depart</Selections.0.Display>
+			<DisplayName>Baú de Metal de Lake Jadestone</DisplayName>
+			<Desc>Este lugar contém o Baú de Metal do Imperador dos Demônios. Parece que o tesouro foi sugado por um núcleo magnético, então ninguém conseguiu recuperá-lo.</Desc>
+			<Selections.0.Display>Partir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_YiJieLieFeng">
-			<DisplayName>Otherworld Rift</DisplayName>
-			<Desc>Legend has it that this fractured space gave birth to the second war between Immortals and Demons and that afterwards there was no trace left. It has been gone for thousands of years, but unexpectedly, it has reappeared in this realm for now. The rift is extremely dangerous, and without a special kind of Luck, even the most experienced immortals can become lost in there.</Desc>
-			<Selections.0.Display>An Otherworld Rift full of festive spirit.</Selections.0.Display>
-			<Selections.1.Display>An Otherworld Rift full of majestic spirit.</Selections.1.Display>
-			<Selections.2.Display>Depart</Selections.2.Display>
+			<DisplayName>Fenda do Outro Mundo</DisplayName>
+			<Desc>Diz a lenda que este espaço fraturado deu origem à segunda guerra entre Imortais e Demônios e que depois disso não restou nenhum vestígio. Ele se foi há milhares de anos, mas, inesperadamente, reapareceu neste reino por enquanto. A fenda é extremamente perigosa e, sem um tipo especial de Sorte, até mesmo os imortais mais experientes podem se perder lá.</Desc>
+			<Selections.0.Display>Uma fenda do Outro Mundo cheio de espírito festivos.</Selections.0.Display>
+			<Selections.1.Display>Uma fenda do outro mundo cheia de espírito majestosos.</Selections.1.Display>
+			<Selections.2.Display>Partir</Selections.2.Display>
 		</Text>
 		<Text Name="BaoZang_LiHenHai">
 			<DisplayName>Safeward Seas</DisplayName>
-			<Desc>Who could have thought that there could be such an amazing place as this in heaven or on earth?! Who knows what secrets this place is hiding!</Desc>
+			<Desc>Quem poderia imaginar que poderia haver um lugar tão incrível como este no céu ou na terra?! Quem sabe que segredos este lugar está escondendo!</Desc>
 			<Selections.0.Display>Enter</Selections.0.Display>
-			<Selections.1.Display>Depart</Selections.1.Display>
-			<Selections.2.Display>Depart</Selections.2.Display>
+			<Selections.1.Display>Partir</Selections.1.Display>
+			<Selections.2.Display>Partir</Selections.2.Display>
 		</Text>
 		<Text Name="BaoZang_XieDiLing">
-			<DisplayName>The Demon Emperor's Tomb</DisplayName>
-			<Desc>This is the Mausoleum of the leader of the Demon sect from the south. It has been sealed off though and no one can enter.</Desc>
-			<Selections.0.Display>Depart</Selections.0.Display>
+			<DisplayName>A Tumba do Imperador Demônio</DisplayName>
+			<Desc>Este é o mausoléu do líder da seita demoníaca do sul. Porém, foi selado e ninguém pode entrar.</Desc>
+			<Selections.0.Display>Partir</Selections.0.Display>
 		</Text>
 		<Text Name="BaoZang_TaoHuaZhang">
-			<DisplayName>Perennial Miasma</DisplayName>
-			<Desc>This is a desolate place full of miasma that not even cultivators can resist, one breath will take your life. The only way to get through here alive is to transform your body into something else.</Desc>
+			<DisplayName>Miasma Perene</DisplayName>
+			<Desc>Este é um lugar desolado cheio de miasma que nem mesmo os cultivadores podem resistir, uma respiração tirará sua vida. A única maneira de passar por aqui vivo é transformar seu corpo em outra coisa.</Desc>
 			<Selections.0.Display>Enter</Selections.0.Display>
-			<Selections.1.Display>Depart</Selections.1.Display>
+			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_ChiLianYuan">
-			<DisplayName>Explore the Secrets of the Emerald Palace</DisplayName>
-			<Desc>[NAME] entered the Cave Mansion according to the Secret Law. According to the "Record of the Immortals" what was left is hidden in three locations: The first is in the Pavilion of Fate in the Emerald Palace's Immortal Abode, the second is in the Artifact Crafting area in the Hall of Ten-thousand Treasures, and the third is in the Scriptorium's secluded meditation area.</Desc>
-			<Selections.0.Display>Enter the Pavilion of Fate</Selections.0.Display>
-			<Selections.1.Display>Enter the Hall of Ten-thousand Treasures</Selections.1.Display>
-			<Selections.2.Display>Enter the Scriptorium</Selections.2.Display>
-			<Selections.3.Display>Depart</Selections.3.Display>
+			<DisplayName>Explore os segredos do Emerald Palace</DisplayName>
+			<Desc>[NAME] entrou na Mansão da Caverna de acordo com a Lei Secreta. De acordo com o "Registro dos Imortais", o que restou está escondido em três locais: O primeiro está no Pavilhão do Destino na Morada Imortal do Palácio Esmeralda, o segundo está na área de Fabricação de Artefatos no Salão dos Dez Mil Tesouros, e o terceiro está na área de meditação isolada do Scriptorium.</Desc>
+			<Selections.0.Display>Entre no Pavilhão do Destino</Selections.0.Display>
+			<Selections.1.Display>Entre no Salão dos Dez Mil Tesouros</Selections.1.Display>
+			<Selections.2.Display>Entre no Scriptorium</Selections.2.Display>
+			<Selections.3.Display>Partir</Selections.3.Display>
 		</Text>
 		<Text Name="BaoZang_XuanKong">
-			<DisplayName>Jade Immortal Abode</DisplayName>
-			<Desc>[NAME] entered the Jade Immortal Abode using the "Record of the Immortals" guidance to get past traps.</Desc>
-			<Selections.0.Display>Search the Immortal Abode</Selections.0.Display>
-			<Selections.1.Display>Depart</Selections.1.Display>
+			<DisplayName>Morada Imortal de Jade</DisplayName>
+			<Desc>[NAME] entrou na Morada Imortal de Jade usando o "Record of the Immortals" orientando para passar por armadilhas.</Desc>
+			<Selections.0.Display>Procure a Morada Imortal</Selections.0.Display>
+			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan">
 			<DisplayName>Mt. Caerulea</DisplayName>
-			<Desc>[NAME] came to the South Seas according to the secret manual. After searching the area numerous times, the drop of true water was finally found in the boundless waves. [NAME] touched it and was able to enter the water. A towering, blue Immortal mountain appeared up ahead. Peering off into the distance, it looked like there's a bamboo hut on the mountainside. The peak was shrouded by strange jet-black clouds from which lightning was shooting.</Desc>
-			<Selections.0.Display>Search the Mountain</Selections.0.Display>
-			<Selections.1.Display>Proceed to the bamboo hut on the mountainside</Selections.1.Display>
-			<Selections.2.Display>Inspect the peak</Selections.2.Display>
-			<Selections.3.Display>Depart</Selections.3.Display>
+			<Desc>[NAME] veio para os Mares do Sul de acordo com o manual secreto. Depois de pesquisar a área inúmeras vezes, a gota de água verdadeira foi finalmente encontrada nas ondas sem limites. [NAME] tocou e conseguiu entrar na água. Uma imponente montanha azul imortal apareceu à frente. Olhando para longe, parecia que havia uma cabana de bambu na encosta da montanha. O pico estava envolto por estranhas nuvens negras como azeviche, das quais disparavam raios.</Desc>
+			<Selections.0.Display>Procure na Montanha</Selections.0.Display>
+			<Selections.1.Display>Prossiga para a cabana de bambu na encosta da montanha</Selections.1.Display>
+			<Selections.2.Display>Inspecione o pico</Selections.2.Display>
+			<Selections.3.Display>Partir</Selections.3.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan1">
-			<DisplayName>A Strange Array on the Mountaintop</DisplayName>
-			<Desc>[NAME] had just gotten near the peak when there was a wave of pressure that washed over. There was a Heavenly Tribulation around the peak of Mt. Caerulea! [NAME] stepped valiantly onto the mountaintop and found that some force had flattened it and left an array on it.</Desc>
-			<Selections.0.Display>Inspect the Array</Selections.0.Display>
-			<Selections.1.Display>Return to the Entrance</Selections.1.Display>
+			<DisplayName>Uma estranha matriz no topo da montanha</DisplayName>
+			<Desc>[NAME] tinha acabado de chegar perto do pico quando houve uma onda de pressão que passou por voce. Houve uma Tribulação Celestial em torno do pico de Mt. Caerulea! [NAME] pisou valentemente no topo da montanha e descobriu que alguma força o havia achatado e deixado uma matriz sobre ele.</Desc>
+			<Selections.0.Display>Inspecione a Matriz</Selections.0.Display>
+			<Selections.1.Display>Volte para a entrada</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan2">
-			<DisplayName>Mountainside Hut</DisplayName>
-			<Desc>[NAME] was surprised to find that the hut was surprisingly spartan with only a bed and a desk inside. It didn't look like there was anything out of the ordinary. [NAME] after a quick search, it seems like there's something shining on the desk.</Desc>
-			<Selections.0.Display>Inspect the desk</Selections.0.Display>
-			<Selections.1.Display>Return to the Entrance</Selections.1.Display>
+			<DisplayName>Cabana na Montanha</DisplayName>
+			<Desc>[NAME] ficou surpreso ao descobrir que a cabana era surpreendentemente espartana com apenas uma cama e uma escrivaninha dentro. Não parecia que havia algo fora do comum. [NAME] após uma busca rápida, parece que há algo brilhando na escrivaninha.</Desc>
+			<Selections.0.Display>Inspecione a escrivaninha</Selections.0.Display>
+			<Selections.1.Display>Volte para a entrada</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan2_end">
-			<DisplayName>Mountainside Hut</DisplayName>
-			<Desc>The array diagram has already been taken, there's nothing else of interest here.</Desc>
-			<Selections.0.Display>Return to the Entrance</Selections.0.Display>
+			<DisplayName>Cabana na Montanha</DisplayName>
+			<Desc>O diagrama de matriz já foi obtido, não há mais nada de interessante aqui.</Desc>
+			<Selections.0.Display>Volte para a entrada</Selections.0.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan21">
-			<DisplayName>Mysterious Array Diagram</DisplayName>
-			<Desc>[NAME] found that there were four grooves on the diagram that seemed to be the key to the center of it. Only one groove was shining, the other three were inactive.</Desc>
-			<Selections.0.Display>Inject Magic</Selections.0.Display>
-			<Selections.1.Display>Depart</Selections.1.Display>
+			<DisplayName>Diagrama de uma Matriz Misteriosa</DisplayName>
+			<Desc>[NAME] descobriram que havia quatro ranhuras no diagrama que pareciam ser a chave para o centro dele. Apenas um das ranhuras brilhava, os outros três estavam inativos.</Desc>
+			<Selections.0.Display>Injetar Magia</Selections.0.Display>
+			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan3">
-			<DisplayName>Mountain Scenery</DisplayName>
-			<Desc>Following the road to the mountain, [NAME] found that the Qi here was richer than anywhere else. That an Earthly Paradise such as this could be hidden in only a drop of water is unimaginable.</Desc>
-			<Selections.0.Display>Sightsee</Selections.0.Display>
-			<Selections.1.Display>Return to the Entrance</Selections.1.Display>
+			<DisplayName>Cenário de Montanhas</DisplayName>
+			<Desc>Seguindo a estrada para a montanha, [NAME] descobriu que o Qi aqui era mais rico do que em qualquer outro lugar. É inimaginável que um Paraíso Terrestre como este possa estar escondido em apenas uma gota d'água.</Desc>
+			<Selections.0.Display>Ver as vista</Selections.0.Display>
+			<Selections.1.Display>Volte para a entrada</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_DengXian">
-			<DisplayName>Explore the Ruins</DisplayName>
-			<Desc>[NAME] had heard that the Immortal Summit had teachings left behind by Emperor Donghua from long ago. [NAME] tried to see what could be found.</Desc>
-			<Selections.0.Display>Carefully Search</Selections.0.Display>
-			<Selections.0.Tip>Perception and Luck</Selections.0.Tip>
-			<Selections.1.Display>Depart</Selections.1.Display>
+			<DisplayName>Explorar as Ruínas</DisplayName>
+			<Desc>[NAME] tinha ouvido falar que a Cúpula Imortal tinha ensinamentos deixados pelo Imperador Donghua há muito tempo. [NAME] tentarei ver o que posso encontrar.</Desc>
+			<Selections.0.Display>Procurar cuidadosamente</Selections.0.Display>
+			<Selections.0.Tip>Percepção e Sorte</Selections.0.Tip>
+			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_FeiLei">
 			<DisplayName>Thunderclap Cave</DisplayName>
-			<Desc>It was said that the Immortal Caerulea ascended here and left an incredible secret. [NAME] couldn't help but be curious to see what it could be.</Desc>
-			<Selections.0.Display>Look around</Selections.0.Display>
+			<Desc>Foi dito que o Imortal Caerulea ascendeu aqui e deixou um segredo incrível. [NAME] não pude deixar de ficar curioso para ver o que poderia ser.</Desc>
+			<Selections.0.Display>Olhar em volta</Selections.0.Display>
 		</Text>
 		<Text Name="BaoZang_FeiLei1">
 			<DisplayName>Thunderclap Cave</DisplayName>
-			<Desc>Mt. Shu said the key of the Thunderclap Cave is a volume left by the Sage. They will gift anyone who can take back the volume.</Desc>
-			<Selections.0.Display>Lend the Volume</Selections.0.Display>
-			<Selections.1.Display>Leave</Selections.1.Display>
+			<Desc>Mt. Shu disse que a chave da Caverna Thunderclap é um volume deixado pelo Sábio. Eles vão presentear qualquer um que possa pegar de volta o volume.</Desc>
+			<Selections.0.Display>Emprestar o Volume</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
 		</Text>
 		<Text Name="LingWu_DanXia">
 			<DisplayName>Sunshade Setting Sun</DisplayName>
-			<Desc>[NAME] was shocked by the majestic vista at Sunshade Precipice.</Desc>
-			<Selections.0.Display>Meditate</Selections.0.Display>
-			<Selections.0.Tip>Intelligence and Ideal</Selections.0.Tip>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.1.Tip>Intelligence and Ideal</Selections.1.Tip>
-			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
+			<Desc>[NAME] ficou chocado com a vista majestosa no Precipício Sunshade.</Desc>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.0.Tip>Inteligência e Ideais</Selections.0.Tip>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.1.Tip>Inteligência e Ideais</Selections.1.Tip>
+			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua1">
 			<DisplayName>The Land of the Hidden Dragon</DisplayName>
-			<Desc>[NAME] stood before the Wyvern Pool and recalled how in ancient times great power had been collected here when the dragon was released here, and couldn't just stand around.</Desc>
-			<Selections.0.Display>Gained something</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
+			<Desc>[NAME] parou diante da Piscina Wyvern e lembrou que nos tempos antigos um grande poder havia sido reunido aqui, quando o dragão foi solto aqui, e não podia simplesmente ficar parado.</Desc>
+			<Selections.0.Display>Ganhou Algo</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua2">
 			<DisplayName>The Land of the Phoenix</DisplayName>
-			<Desc>[NAME] stood before the fossilized Phoenixwood at Phoenix Cliff, sighed with emotion, and seemed to hear what sounded like a phoenix call.</Desc>
-			<Selections.0.Display>Gained something</Selections.0.Display>
-			<Selections.1.Display>Meditate</Selections.1.Display>
-			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
+			<Desc>[NAME]parou diante do fossilized Phoenixwood em Phoenix Cliff, suspirou de emoção e pareceu ouvir o que parecia ser um chamado de fênix.</Desc>
+			<Selections.0.Display>Ganhou Algo</Selections.0.Display>
+			<Selections.1.Display>Meditar</Selections.1.Display>
+			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_LongHu">
 			<DisplayName>Skypass Falls</DisplayName>
-			<Desc>[NAME] was left speechless by the flowing white waters of Skypass Falls, its force even surpassed that of a cultivator possessing the golden core.</Desc>
-			<Selections.0.Display>Gained something</Selections.0.Display>
-			<Selections.0.Tip>Artifact Mastery</Selections.0.Tip>
-			<Selections.1.Display>Gained something</Selections.1.Display>
-			<Selections.1.Tip>Qi Sense</Selections.1.Tip>
-			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
+			<Desc>[NAME] ficou sem palavras pelas águas brancas de Skypass Falls, sua força superou a de um cultivador que possui o núcleo dourado.</Desc>
+			<Selections.0.Display>Ganhou Algo</Selections.0.Display>
+			<Selections.0.Tip>Domínio de Artefato</Selections.0.Tip>
+			<Selections.1.Display>Ganhou Algo</Selections.1.Display>
+			<Selections.1.Tip>Sensibilidade de Qi</Selections.1.Tip>
+			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="Story_TianJi">
 			<DisplayName>Mystic Cavern</DisplayName>
-			<Desc>A regular cavern inside the Drake Cave. It looks fairly ordinary, but emits a strange and mystical aura, which cannot be sensed unless it was someone who knew the Drake Cave inside and out. There seems to be some peculiar, natural patterns at the entry of the cavern.</Desc>
-			<Selections.0.Display>Inspect</Selections.0.Display>
-			<Selections.1.Display>Meditate on the Stone Wall</Selections.1.Display>
-			<Selections.1.Tip>State / Artisanry / Intelligence</Selections.1.Tip>
-			<Selections.2.Display>Inspect the Fortune Seed</Selections.2.Display>
-			<Selections.3.Display>Depart</Selections.3.Display>
+			<Desc>Uma caverna normal dentro da Drake Cave. Parece bastante comum, mas emite uma aura estranha e mística, que não pode ser sentida a menos que seja alguém que conheça a Drake Cave por dentro e por fora. Parece haver alguns padrões naturais peculiares na entrada da caverna.</Desc>
+			<Selections.0.Display>Inspecionar</Selections.0.Display>
+			<Selections.1.Display>Medite no Muro de Pedra</Selections.1.Display>
+			<Selections.1.Tip>Estado / Artesanato / Inteligência</Selections.1.Tip>
+			<Selections.2.Display>Inspecionar a Semente da Sorte</Selections.2.Display>
+			<Selections.3.Display>Partir</Selections.3.Display>
 		</Text>
 		<Text Name="Story_HighFind_SpPlace">
 			<DisplayName>Search for Luck</DisplayName>
-			<Desc>[NAME] went to the Battlefield of the Clash of Immortals and Demons in search of some lucky chance.</Desc>
-			<Selections.0.Display>Search for Luck</Selections.0.Display>
-			<Selections.1.Display>Depart</Selections.1.Display>
+			<Desc>[NAME] foi para o campo de batalha do Clash of Immortals and Demons em busca de alguma sorte.</Desc>
+			<Selections.0.Display>Busca por sorte</Selections.0.Display>
+			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 	</List>
 </Texts>

@@ -456,12 +456,12 @@
 [NAME]小心翼翼的落入山涧的遗迹之中，此地似乎是一种巨大的，与当今建筑风格迥异的神殿。神殿两侧布满巨大的神像，正中有一块无字石碑。[NAME]以神念探入石碑查看，竟然从中获取一套前所未见的功法，似乎是典籍中所传的神道修行之法！	[NAME] entraram na ravina…e se encontraram em um enorme templo com estilo completamente diferente com construções contemporâneas. Há estátuas enormes em ambos os lados do salão e uma Estela de pedra no centro. [NAME] examina a Estela e percebe uma Lei nunca antes vista…Será que esta é a Lei de Shendao?!
 随着[NAME]的神念将石碑中的信息激活，整座神殿发生了剧烈的震动，转眼之间就化为一座废墟。[NAME]连忙施展遁法逃脱此地。	Quando [NAME] ativou a Estela, o templo começou a tremer violentamente, transformando-se em ruínas. [NAME] escapou rapidamente.
 岐黄	Curando
-烹饪	Cozinhando
+烹饪	Culinária
 版筑	Construção
 耕作	Agricultura
 采掘	Escavação
 雅艺	Artesanato
-巧匠	Construindo
+巧匠	Trabalho
 处世	Social
 [rand_lable=desc_time,desc_place,desc_weather]，[name]在[obj_action]时，突然心中一动，对%s一道又有感悟。	[rand_lable=desc_time,desc_place,desc_weather], enquanto [obj_action] , [name] de repente sentiu uma mudança e teve uma epifania em relação a %s.
 [rand_lable=desc_time,desc_place,desc_weather]，[name]在[obj_action]时，突然心中一动，对天道又多了许多感悟。	[rand_lable=desc_time,desc_place,desc_weather], durante [obj_action], [name] de repente sentiu uma mudança e teve várias epifanias sobre o Credo do Céu.
@@ -671,12 +671,12 @@
 [NAME]在大竹林深处反复搜寻，终于在某个溪流边寻得这枚黑白相间的玉佩。	[NAME] procurou cuidadosamente nas profundezas da Grande Floresta de Bambu e encontrou este jade na margem de um riacho.
 玉佩碎裂之后，远处有一道天貊的气息飞了过来。	Depois que o jade é quebrado, um sopro de panda divino voa de longe.
 岐黄	Curando
-烹饪	Cozinhando
+烹饪	Culinária
 版筑	Construção
 耕作	Agricultura
 采掘	Escavação
 雅艺	Artesanato
-巧匠	Construindo
+巧匠	Trabalho
 处世	Social
 [rand_lable=desc_time,desc_place,desc_weather]，[name]在垂钓时，突然心中一动，对%s一道又有感悟。	[rand_lable=desc_time,desc_place,desc_weather], [name] está pescando e de repente tem um Eureka sobre %s.
 {0}只将少量食物分给了路人，几乎没人通过这次活动认识我们。	{0} deu um pouco de comida para os transeuntes, mas ninguém realmente nos conheceu como resultado dessa atividade.
@@ -1463,7 +1463,7 @@
 邀请	Convidar
 邀请对方到你的门派做客，需要好感度大于等于60。	Convide a outra parte para sua seita, requer Favor de pelo menos 60.
 进来发呆	Sonhar Acordado
-移动	Jogada
+移动	Move
 等待移动	Espere que eles se movam.
 等待10s	Aguardando (10 seg)
 难过	Chateado
@@ -1755,7 +1755,7 @@
 测试技能	Habilidade de teste
 这是技能的tip	Esta é uma dica para habilidades.
 离开隐匿	Desfazer ocultar
-隐匿	Esconder
+隐匿	Hide
 隐匿气息，降低被发现的概率。\n离开隐匿需要五秒。	Ocultar presença para diminuir a chance de ser descoberto.\nDemora 5 segundos para desfazer a ocultação.
 求雨	Procurar por chuva
 利用神通求得一场雨	Traga uma chuva através do milagre.
@@ -1894,7 +1894,7 @@
 龙怒	Ira do Dragão
 龙怒	Ira do Dragão
 龙吸术	Inalação do Dragão
-移动	Jogada
+移动	Move
 怒吼	Rugido
 盘旋	Rabo de Serpente
 水脉爆发	Erupção
@@ -1910,7 +1910,7 @@
 真焱形态-回收	Forma Inferno - Recuperando
 烈阳术	Sol ardente
 烈焰之径	Lei do Incendiário
-移动	Jogada
+移动	Move
 内丹	Núcleo Interno
 真焱丹	Pílula Flamejante
 火息虹练	Chama iridescente
@@ -1926,7 +1926,7 @@
 降临	descendente
 阴阳之怒	Fúria Yin Yang
 天道审判	Julgamento Celestial
-移动	Jogada
+移动	Move
 恶念之渊	Abismo Maligno
 神念之雷	Trovão da Divindade
 示威	Força de exibição
