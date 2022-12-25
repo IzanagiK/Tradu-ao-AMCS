@@ -96,86 +96,86 @@
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin1">
 			<DisplayName>Destroy</DisplayName>
-			<Desc>Although [NAME] had no way of discerning what was so dangerous about this item, but when trying to destroy it all of a sudden, an unspeakable sense of terror rose up in the pit of the stomach...what would happen if this were destroyed? Are you sure you want to destroy it? (If you confirm, an ancient beast will be summoned. Your Sect may be completely destroyed if you are not sufficiently prepared. Please consider your choices wisely)</Desc>
+			<Desc>Apesar [NAME] não tinha como discernir o que havia de tão perigoso nesse item, mas ao tentar destruí-lo de repente, uma sensação indescritível de terror surgiu na boca do estômago... o que aconteceria se isso fosse destruído? Tem certeza de que deseja destruí-lo? (Se você confirmar, uma besta antiga será convocada. Sua seita pode ser completamente destruída se você não estiver suficientemente preparado. Por favor, considere suas escolhas com sabedoria)</Desc>
 			<Selections.0.Display>Destruir</Selections.0.Display>
 			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin2">
 			<DisplayName>Destroy</DisplayName>
-			<Desc>[NAME] destroyed the item, but nothing happened.</Desc>
+			<Desc>[NAME] destruiu o item, mas nada aconteceu.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Eat_StrangeMush">
 			<DisplayName>Have a Taste</DisplayName>
-			<Desc>[NAME] tasted the strange mushroom with curiosity.</Desc>
-			<Selections.0.Display>Eat it despite the risk</Selections.0.Display>
+			<Desc>[NAME] provou o estranho cogumelo com curiosidade.</Desc>
+			<Selections.0.Display>Coma apesar dos riscos</Selections.0.Display>
 			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_ZhenTu">
 			<DisplayName>Inspiration</DisplayName>
-			<Desc>[NAME] attempted to meditated on the Formation Diagram.</Desc>
-			<Selections.0.Display>Meditate on the Formation Diagram</Selections.0.Display>
+			<Desc>[NAME] tentou meditar sobre o Diagrama de Formação.</Desc>
+			<Selections.0.Display>Medite no Diagrama de Formação</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu">
 			<DisplayName>Inspect this item</DisplayName>
-			<Desc>[NAME] attempted to inspect this item.</Desc>
-			<Selections.0.Display>Inspect this item</Selections.0.Display>
-			<Selections.1.Display>Unseal</Selections.1.Display>
+			<Desc>[NAME] tentou inspecionar este item.</Desc>
+			<Selections.0.Display>Inspecionar este item</Selections.0.Display>
+			<Selections.1.Display>Deslacrar</Selections.1.Display>
 			<Selections.2.Display>Desistir</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu1">
 			<DisplayName>Inspect this item</DisplayName>
-			<Desc>[NAME] feels that the seal of this object is very familiar, having seemingly encountered it before.</Desc>
-			<Selections.0.Display>Carefully examine</Selections.0.Display>
+			<Desc>[NAME] sente que o selo deste objeto é muito familiar, aparentemente já o encontrou antes.</Desc>
+			<Selections.0.Display>Examine Cuidadosamente</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu2">
 			<DisplayName>Scattered and disappeared</DisplayName>
-			<Desc>After the spiritual information finished playing, objects from the Otherworld start to get rejected by the ways of Heaven of this world, and gradually become reduced to ashes.</Desc>
-			<Selections.0.Display>Carefully examine</Selections.0.Display>
+			<Desc>Depois que as informações espirituais terminam de tocar, os objetos do Outromundo começam a ser rejeitados pelos caminhos do Céu deste mundo e gradualmente se tornam reduzidos a cinzas.</Desc>
+			<Selections.0.Display>Examine Cuidadosamente</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan">
 			<DisplayName>Ancient Scroll</DisplayName>
-			<Desc>A secret scroll passed down from ancient times, its content unknown.</Desc>
-			<Selections.0.Display>Read</Selections.0.Display>
+			<Desc>Um pergaminho secreto transmitido desde os tempos antigos, cujo conteúdo é desconhecido.</Desc>
+			<Selections.0.Display>Ler</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan_1">
 			<DisplayName>Learn</DisplayName>
-			<Desc>A book page that recorded how the ancient Shendao cultivators congealed some kind of special miracle.</Desc>
-			<Selections.0.Display>Read</Selections.0.Display>
+			<Desc>Uma página de livro que registrou como os antigos cultivadores de Shendao congelaram algum tipo de milagre especial.</Desc>
+			<Selections.0.Display>Ler</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_God_Guard">
 			<DisplayName>Refine</DisplayName>
-			<Desc>[NAME] attempted to refine this item.</Desc>
-			<Selections.0.Display>Read</Selections.0.Display>
+			<Desc>[NAME] tentou refinar este item.</Desc>
+			<Selections.0.Display>Ler</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan_2">
 			<DisplayName>Unseal</DisplayName>
-			<Desc>[NAME] attempted to lift the seal of this item.</Desc>
-			<Selections.0.Display>Unseal</Selections.0.Display>
+			<Desc>[NAME] tentou remover o selo deste item.</Desc>
+			<Selections.0.Display>Deslacrar</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Gong12">
 			<DisplayName>Examine scroll</DisplayName>
-			<Desc>[NAME] studied the scroll carefully.</Desc>
-			<Selections.0.Display>Acquired Law</Selections.0.Display>
+			<Desc>[NAME] estudou o pergaminho cuidadosamente.</Desc>
+			<Selections.0.Display>Lei Adquirida</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_2">
 			<DisplayName>Examine scroll</DisplayName>
-			<Desc>[NAME] studied the scroll carefully.</Desc>
-			<Selections.0.Display>Acquired Law</Selections.0.Display>
+			<Desc>[NAME] estudou o pergaminho cuidadosamente.</Desc>
+			<Selections.0.Display>Lei Adquirida</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_5">
 			<DisplayName>Examine scroll</DisplayName>
-			<Desc>[NAME] studied the scroll carefully.</Desc>
-			<Selections.0.Display>Acquired Law</Selections.0.Display>
+			<Desc>[NAME] estudou o pergaminho cuidadosamente.</Desc>
+			<Selections.0.Display>Lei Adquirida</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_God_GongAll">
 			<DisplayName>Examine Collection</DisplayName>
-			<Desc>[NAME] studied the Collection.</Desc>
-			<Selections.0.Display>Acquired Law</Selections.0.Display>
+			<Desc>[NAME] estudou a Coleção.</Desc>
+			<Selections.0.Display>Lei Adquirida</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_SpringBox">
 			<DisplayName>Festive Goods</DisplayName>
-			<Desc>Attempt to open this item.</Desc>
+			<Desc>Tente abrir este item.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_ZhuLongXuYuan_1">
