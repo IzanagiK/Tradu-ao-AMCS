@@ -3356,9 +3356,9 @@ Trap编辑。	Trap Edit.
 \n\n<font color=#D06508>[灵植]</font>\n{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	\n\n<font color=#D06508>[Planta Espiritual]</font>\n{9}: {10:N2}%\nAbençoe a Tendência: {8} {0:N2}/d\nNutrir: {1}\nTempo: {2}\nEstação: {3}\nCinco Elementos: {4}\nSimpatia: {5}\n\nStatus: {6}\n　{7}\n
 当前灵性	Blessing
 当前煞性	Curse
-范围：{0}	Range: {0}
-腐朽中({0})	Decaying ({0})
-{0}后开始腐朽	 begins decaying in {0}.
+范围：{0}	Alcance: {0}
+腐朽中({0})	Decadente ({0})
+{0}后开始腐朽	 começa a se deteriorar em {0}.
 <font color=#00FF00>可选中</font>	<font color=#00FF00>Selecionável</font>
 <font color=#FF0000>不可选中</font>	<font color=#FF0000>Não selecionável</font>
   <font color=#00FF00>[绑定：{0}]</font>\n	  <font color=#00FF00>[Alma: {0}]</font>\n
