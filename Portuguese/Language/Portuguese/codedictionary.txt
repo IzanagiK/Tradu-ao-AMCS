@@ -3596,20 +3596,20 @@ Trap编辑。	Trap Edit.
 身手({0:P0})\n上肢受伤会影响该值，身手影响大部分工作的效率。	Ação ({0:P0})\nEste valor é afetado quando os braços de um personagem sofrem dano. A ação afeta a eficiência do trabalho da maioria dos tipos de trabalho.
 感知({0:P0})\n眼睛与耳朵受伤会影响该值，感知影响视野范围和精细工作的效率。	Sentido ({0:P0})\nEste valor é afetado quando os olhos e ouvidos de um personagem sofrem dano. O sentido afeta a distância de visualização e a eficiência do trabalho fino.
 死因：{0}	Causa da Morte: {0}
-{0}\n类型：{1}\n致命部位：{2}\n\n影响：{3}	{0}\nType: {1}\nLethality: {2}\n\nAffects: {3}
+{0}\n类型：{1}\n致命部位：{2}\n\n影响：{3}	{0}\nTipo: {1}\nLetalidade: {2}\n\nEfeitos: {3}
 否	No
 已失去	Lost
 来自:{0}	Source: {0}
 [color=#909090]不变[/color]	[color=#909090]Unchanged[/color]
-[color=#FF0000]{0}后完全恶化[/color]	[color=#FF0000] becomes completely corrupted in {0}.[/color]
-[color=#006B12]{0}后痊愈[/color]	[color=#006B12] Will recover fully in {0}.[/color]
-\n已治疗(剩余:{0:N0}s)	\nHealed (Remaining: {0:N0} sec)
+[color=#FF0000]{0}后完全恶化[/color]	[color=#FF0000] torna-se completamente corrompido em {0}.[/color]
+[color=#006B12]{0}后痊愈[/color]	[color=#006B12] Vai se recuperar totalmente em {0}.[/color]
+\n已治疗(剩余:{0:N0}s)	\nCurado (Restando: {0:N0} sec)
 \n[color=#D06508]治疗效果不好或自身恢复力太差，请提高治疗效果或自身恢复力。[/color]	\n[color=#D06508]Cura muito baixa ou Resiliência muito baixa. Aumente a Cura ou Resiliência.[/color]
 \n丹药生效中	\nAtivar Elixir
 \n[color=#D06508]药效不足或自身恢复力太差，请使用更好的药物或提高自身恢复力。[/color]	\n[color=#D06508]Remédio muito fraco ou Resiliência muito pobre. Use um remédio melhor ou aumente a Resiliência.[/color]
-影响:{0:N2}%\n程度:{1:N2}%({4:N4})\n疼痛:{2}\n趋势:{3}\n{5}	Effect: {0:N2}%\nGrau: {1:N2}% ({4:N4})\nPain: {2}\nStatus: {3}\n{5}
+影响:{0:N2}%\n程度:{1:N2}%({4:N4})\n疼痛:{2}\n趋势:{3}\n{5}	Efeito: {0:N2}%\nGrau: {1:N2}% ({4:N4})\nDor: {2}\nStatus: {3}\n{5}
 \n[color=#9e6404]内门伤害只能靠服用对应的丹药才能治疗[/color]	\n[color=#9e6404]Dano Interno só pode ser curado bebendo o elixir correto.[/color]
-{0:N2}%({1:N2}%)\n疼痛:{2}	{0:N2}% ({1:N2}%)\nPain: {2}
+{0:N2}%({1:N2}%)\n疼痛:{2}	{0:N2}% ({1:N2}%)\nDor: {2}
 [color=#ff0000][显现][/color]	[color=#ff0000][Appear][/color]
 {0}{2}\n显现：{1}	{0}{2}\nAparecer: {1}
 不再显现	Não apareça novamente
