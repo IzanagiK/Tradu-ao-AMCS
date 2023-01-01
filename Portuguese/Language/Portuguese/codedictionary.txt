@@ -883,28 +883,28 @@ _结局	_The End
 在切石时，正快乐的哼着小调	Cutting stone while humming a cheerful tune
 正心无旁骛的切石作业中	Concentrates on cutting stones
 正在乐呵呵的切石中	Happily cutting stones
-刚完成切石作业，正拍落衣服上的石屑灰尘	Just finished cutting stones; scrubbing dust off clothes
-正在准备工具，去执行切石作业	Preparing stone cutting tools
-制药	Making medicine
-在制药作业时，正感觉有点无聊	Making medicine; feels a bit bored
-在制药作业间余，正小憩片刻	Making medicine; taking a break
-正心不在焉的制药作业中	Making medicine absent-mindedly
-在制药时，正快乐的哼着小调	Making medicine while humming a cheerful tune
-正心无旁骛的制药作业中	Concentrates on making medicine
+刚完成切石作业，正拍落衣服上的石屑灰尘	Acabei de cortar pedras; esfregando a poeira da roupa
+正在准备工具，去执行切石作业	Preparando ferramentas de corte de pedra
+制药	Fazendo remédio
+在制药作业时，正感觉有点无聊	Fazendo remédios; se sente um pouco entediado
+在制药作业间余，正小憩片刻	Fazendo remédios; Tire uma folga
+正心不在焉的制药作业中	Fazendo remédio distraído
+在制药时，正快乐的哼着小调	Fazendo remédios enquanto cantarola uma música alegre
+正心无旁骛的制药作业中	Concentra-se em fazer remédios
 正在乐呵呵的制药中	Happily makes medicine
-刚完成制药作业，准备收拾制药桌	Just finished making medicine; about to clean up the table
-配药时好像放错了一味药，正一脸思索	Thinking about the medicine they just made; perhaps one of the ingredients were wrong
-砍柴	Splitting firewood
-在砍柴时，正感觉有点无聊	Splitting firewood; feels a bit bored
-在砍柴间余，正小憩片刻	Splitting firewood; taking a break
-正心不在焉的砍柴中	Splitting firewood absent-mindedly
-在砍柴时，正快乐的哼着小调	Splitting firewood while humming a cheerful tune
-正心无旁骛的砍柴中	Concentrates on splitting firewood
-正在乐呵呵的砍柴中	Happily splitting firewood
-刚砍完柴，正在擦汗	Just finished splitting firewood; wiping off sweat
-焚香祈愿，准备开始炼制丹药	Burns incense and prays; prepares to create elixirs
-庄重的开启丹炉，准备炼丹	Solemnly heats up the alchemy furnace
-炼丹结束，正面无表情的熄灭丹炉	Finished the alchemy; indifferently puts out the furnace
+刚完成制药作业，准备收拾制药桌	Acabei de fazer remédios; prestes a limpar a mesa
+配药时好像放错了一味药，正一脸思索	Pensando no remédio que acabaram de fazer; talvez um dos ingredientes estivesse errado
+砍柴	Dividir lenha
+在砍柴时，正感觉有点无聊	Partir lenha; se sente um pouco entediado
+在砍柴间余，正小憩片刻	Partir lenha; Tire uma folga
+正心不在焉的砍柴中	Partir lenha distraidamente
+在砍柴时，正快乐的哼着小调	Partir lenha enquanto cantarola uma alegre melodia
+正心无旁骛的砍柴中	Concentra-se em dividir a lenha
+正在乐呵呵的砍柴中	Dividindo lenha com alegria
+刚砍完柴，正在擦汗	Acabei de dividir a lenha; enxugando o suor
+焚香祈愿，准备开始炼制丹药	Queima incenso e reza; prepara-se para criar elixires
+庄重的开启丹炉，准备炼丹	Aquece solenemente a fornalha da alquimia
+炼丹结束，正面无表情的熄灭丹炉	Terminada a alquimia; indiferentemente apaga a fornalha
 开采	Mine
 在挖矿时，正感觉有点无聊	Mining; feels a bit bored
 正在一脸期待的挖矿中	Mining with great anticipation
@@ -922,7 +922,7 @@ _结局	_The End
 在种植时，正快乐的哼着小调	Farming while humming a cheerful tune
 正心无旁骛的种植中	Concentrates on farming
 正在乐呵呵的种植中	Happily farming
-擦了擦汗，正满意的看着刚种完的田地	Looks at the planted field with satisfaction
+擦了擦汗，正满意的看着刚种完的田地	Olha o campo plantado com satisfação
 移除地板	Removing floor
 在拆地板之时，正觉得很爽快	Removing floor; feels great
 在拆地板间余，刚小憩片刻	Removing floor; taking a break
@@ -1014,15 +1014,15 @@ _结局	_The End
 作用阵营	Facção afetada
 {0}\n{5}：{4}\n目标类型：{3}\n阵法中每人消耗灵气：{1:N0}点\n阵法灵机：{2}点\n	{0}\n{5}: {4}\nTarget Type: {3}\nQi cost/person in the circle: {1:N0} points\nFormation Energy: {2} points\n
 {0}\n目标阵营：{4}\n目标类型：{3}\n阵法中每人消耗灵气：{1:N0}点\n施法间隔：{2:F1}秒\n	{0}\nTarget Faction: {4}\nTarget Type: {3}\nQi cost/person in the circle: {1:N0} points\nCoolDown: {2:F1} sec\n
-{0}\n目标阵营：{4}\n目标类型：{3}\n消耗灵气：{1:N0}点\n施法间隔：{2:F1}秒\n	{0}\nTarget Faction: {4}\nTarget Type: {3}\nQi Cost: {1:N0}\nCoolDown: {2:F1} sec\n
-作用半径：{0:F1}米\n	Range: {0:F1}m\n
-持续时间：{0:F1}秒\n	Duration: {0:F1} sec\n
+{0}\n目标阵营：{4}\n目标类型：{3}\n消耗灵气：{1:N0}点\n施法间隔：{2:F1}秒\n	{0}\nFacção Alvo: {4}\nTipo de alvo: {3}\nQi Cost: {1:N0}\nCoolDown: {2:F1} sec\n
+作用半径：{0:F1}米\n	Alcance: {0:F1}m\n
+持续时间：{0:F1}秒\n	Duração: {0:F1} sec\n
 对目标造成{0:F0}点灵气伤害	Deals {0:F0} Qi damage to the target.
 增强法宝威力{0:P0}	Empower Artifact {0:P0}
-回复目标{0:F0}点灵气	Restores {0:F0} Qi to the target.
-提高护体金光强度{0:P0}	Increase Protect Power {0:P0}
-强化术法伤害{0:P0}	Empower Spell Damage {0:P0}
-术法与法宝	Spells & Artifacts
+回复目标{0:F0}点灵气	Restaura {0:F0} Qi para o alvo.
+提高护体金光强度{0:P0}	Aumente o poder de proteção {0:P0}
+强化术法伤害{0:P0}	Fortalecer Dano Mágico {0:P0}
+术法与法宝	Magias e Artefatos
 的	's
 {0}释放的{1}	{0} released {1}
 内门特质	Cultivational Properties
@@ -1045,22 +1045,22 @@ _结局	_The End
 六境:合道	Lv VI: Harmony
 七境:化身	Lv VII: Manifest
 八境:纯阳	Lv VIII: Pure Yang
-任意元神期的修行者都可以将某些内门特质通过元神寄托赋予装备。	Any cultivator with the Primordial Spirit can attach certain aspects of cultivational properties to their equipment via the Spirit.
-只有对御器之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Only when the character gains enough understanding of Artifact Mastery (Lv.20 and higher), they can attach that epiphany to their equipment.
-只有对术法之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Only when the character gains enough understanding of Spell (Lv.20 and higher), they can attach that epiphany to their equipment.
-只有对护御之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Only when the character gains enough understanding of Protection (Lv.20 and higher), they can attach that epiphany to their equipment.
-只有对炼丹之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Only when the character gains enough understanding of Alchemy (Lv.20 and higher), they can attach that epiphany to their equipment.
-只有对炼器之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Only when the character gains enough understanding of Artifact Crafting (Lv.20 and higher), they can attach that epiphany to their equipment.
-只有道行精深的修行者（300以上），才能将修炼的感悟寄托于装备。	Only a cultivator with a high attainment (300 and higher) can attach the cultivation epiphany to their equipment.
+任意元神期的修行者都可以将某些内门特质通过元神寄托赋予装备。	Qualquer cultivador com o Espírito Primordial pode anexar certos aspectos das propriedades de cultivo ao seu equipamento através do Espírito.
+只有对御器之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Somente quando o personagem ganha entendimento suficiente sobre a Maestria do Artefato (nível 20 e superior), ele pode anexar essa epifania ao seu equipamento.
+只有对术法之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Somente quando o personagem ganha compreensão suficiente de Magia (nível 20 e superior), ele pode anexar essa epifania ao seu equipamento.
+只有对护御之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Somente quando o personagem ganha compreensão suficiente de Proteção (nível 20 e superior), ele pode anexar essa epifania ao seu equipamento.
+只有对炼丹之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Somente quando o personagem ganha compreensão suficiente da Alquimia (nível 20 e superior), ele pode anexar essa epifania ao seu equipamento.
+只有对炼器之道有足够的造诣（20级以上），才能将这部分感悟寄托于装备。	Somente quando o personagem adquirir conhecimento suficiente sobre Fabricação de Artefatos (nível 20 e superior), ele poderá anexar essa epifania ao seu equipamento.
+只有道行精深的修行者（300以上），才能将修炼的感悟寄托于装备。	Apenas um cultivador com uma alta conquista (300 e superior) pode anexar a epifania de cultivo ao seu equipamento.
 神兽灵智	Spirituality
 抱拳	Saudar
 疑惑	Pergunta
 臣服	Render
 失败	Falhou
-你们悉数被击败，已无人有一战之力，一股巨大的力量将你们推出了此地。	You have been defeated one by one and none of you is able to fight back. A strong force has pushed you out of this place.
+你们悉数被击败，已无人有一战之力，一股巨大的力量将你们推出了此地。	Vocês foram derrotados um por um e nenhum de vocês é capaz de revidar. Uma grande força o empurrou para fora deste lugar.
 尚有未结束的战斗	Unfinished battle
 尚有角色处于隐匿状态	Hidden character(s)
-尚有角色处于警戒区域，请先远离门派区域	Character(s) in the alert area. Please stay away from the sect.
+尚有角色处于警戒区域，请先远离门派区域	Personagem(es) na área de alerta. Por favor, fique longe da seita.
 建筑解锁	Unlock Building
 解锁了以下建筑：\n	Os seguintes edifícios desbloqueados: \n
 未获得通行权，门派的大能正在赶来的路上，请速速离开此地。	Entrada não autorizada. O sábio da seita está a caminho. Por favor, saia imediatamente.
@@ -1076,20 +1076,20 @@ _结局	_The End
 {0}{1:F0}  {2}等级	{0}{1:F0} Lv {2}
 {0}{1}  {2}经验	{0}{1}  {2}XP
 {0}{1:F0}  {2}等级(提高上限)	{0}{1:F0}  {2}Level (Increased Cap)
-天苍 {0}年第{1}日,通过从{2}获取的理智，对{3}的感知，对{4}的认知，产生了一点灵智碎片。	Day {1}, year {0} of Tiancang Era, through the rationality obtained from {2}, the perception of {3} and the realization of {4}, an Intelligence Shard has been generated.
-[NAME]通过从{2}获取的理智，对{3}的感知，对{4}的认知，产生了一点灵智碎片。	Through the rationality obtained from {2}, the perception of {3} and the realization of {4}, [NAME] has generated an Intelligence Shard.
-[NAME]通过经历{0}，认识{1}，感受{2}。成功开启灵智，化形成功。	Through the experience of {0}, the realization of {1} and the perception of {2}, [NAME] has successfully gained intelligence and shapeshifted.
+天苍 {0}年第{1}日,通过从{2}获取的理智，对{3}的感知，对{4}的认知，产生了一点灵智碎片。	Dia {1}, ano {0} da Era Tiancang, através da racionalidade obtida de {2}, a percepção de {3} e a realização de {4}, um Fragmento de Inteligência foi gerado.
+[NAME]通过从{2}获取的理智，对{3}的感知，对{4}的认知，产生了一点灵智碎片。	Através da racionalidade obtida de {2}, a percepção de {3} e a realização de {4}, [NAME] gerou um Fragmento de Inteligência.
+[NAME]通过经历{0}，认识{1}，感受{2}。成功开启灵智，化形成功。	Através da experiência de {0}, a realização de {1} e a percepção de {2}, [NAME] ganhou inteligência e mudou de forma com sucesso.
 某个物品	Certain item
 芸芸众生	Medium
 【新线索·{0}】	[New Clue {0}]
-获得新的线索：\n[align=center][color=#306BC7]{0}[/color][/align]	New clue obtained: \n[align=center][color=#306BC7]{0}[/color][/align]
-解锁新的隐秘：\n[align=center][color=#306BC7]{0}[/color][/align]	New Mystery unlocked: \n[align=center][color=#306BC7]{0}[/color][/align]
+获得新的线索：\n[align=center][color=#306BC7]{0}[/color][/align]	Nova pista obtida: \n[align=center][color=#306BC7]{0}[/color][/align]
+解锁新的隐秘：\n[align=center][color=#306BC7]{0}[/color][/align]	Novo mistério desbloqueado: \n[align=center][color=#306BC7]{0}[/color][/align]
 丢失	Lost
-听说了一个秘闻，也不知真假	Heard a new secret, which may or may not be true.
-解锁新的角色：\n[align=center][color=#306BC7]{0}[/color][/align]	New character unlocked: \n[align=center][color=#306BC7]{0}[/color][/align]
+听说了一个秘闻，也不知真假	Ouvi um novo segredo, que pode ou não ser verdade.
+解锁新的角色：\n[align=center][color=#306BC7]{0}[/color][/align]	Novo personagem desbloqueado: \n[align=center][color=#306BC7]{0}[/color][/align]
 之法	
-独门秘籍	Exclusive Manual
-获得{0}的所有异闻信息	Obtain all secret information about {0}
+独门秘籍	Manual Exclusivo
+获得{0}的所有异闻信息	Obtenha todas as informações secretas sobre {0}
 [无门无派]	[Unaffiliated]
 工作与劳动	Hard Labor
 不安	Uneasy
@@ -1159,7 +1159,7 @@ _结局	_The End
 交流	Talk
 打架	Fighting
 接受治疗	Accepting Healing
-等待收留	Awaiting Admission
+等待收留	Aguardando Admissão
 等待帮助	Awaiting Help
 收留	Accept
 提供帮助	Help
@@ -1183,7 +1183,7 @@ _结局	_The End
 拉屎	Excreting
 施法搬运中	Hauling
 被治疗	Being healed
-思考	Thinking
+思考	Pensamento
 玩耍	Playing
 陪睡觉	Accompanying sleep
 锻炼{0}中	Exercising {0}
@@ -1213,7 +1213,7 @@ _结局	_The End
 停留	Ficar
 跟随{0}	Follow {0}
 沉睡	Sleep
-思考，剩余{0:N0}秒	Thinking, {0:N0} sec remaining
+思考，剩余{0:N0}秒	Pensamento, {0:N0} sec remaining
 觉醒灵智	Awaken Intelligence
 觉醒灵智，剩余{0:N0}秒	Awakening Intelligence, {0:N0} sec remaining
 文中含有敏感词汇，请斟酌后重书。	Este contém palavras sensíveis. Reescreva e tente novamente.
@@ -1555,7 +1555,7 @@ Name	Name
 精怪	Sentient Spirit
 历练中......	Adventure......
 {2}{3}\n {0}\n剩余:{1}	{2}{3}\n{0}\nRemaining: {1}
-需要建造小乾坤界才可打开小乾坤界空间。	You need to build a mini universe to get access to its inner space.
+需要建造小乾坤界才可打开小乾坤界空间。	Você precisa construir um mini universo para ter acesso ao seu espaço interior.
 最近	Recent
 我方角色	Our Characters
 中立角色	Netural Characters
@@ -1567,7 +1567,7 @@ Name	Name
 正在苏醒...	Awakening...
 精怪吞噬	Sentient Spirit Devouring
 {0}天 {1:D2}:{2:D2}	{0}d {1:D2}:{2:D2}
-天苍 {0}年 {1}日	Day {1}, year {0} of Tiancang Era
+天苍 {0}年 {1}日	Dia {1}, ano {0} da Era Tiancang
 {0}此物不可通灵	This {0} object cannot be illuminated.
 门派人数已达上限，无法增加弟子！	Maximum sect population has been reached. Unable to add any more Disciples!
 请先接受 Steam 工作坊法律协议 : 	Please first accept Steam Workshop's legal agreement: 
@@ -1587,7 +1587,7 @@ Name	Name
 创建XML文件成功!	XML documento criado!
 创建文件失败	Falha ao criar documento.
 围观	Watch
-慕名而来	Come here for your reputation
+慕名而来	Venha aqui para a sua reputação
 劫掠而来	Come here and Rob you
 雷击	Thunder rains down across the world
 混沌初开，乾坤始奠	Chaos spreads whence the heaven and earth are born
@@ -1649,7 +1649,7 @@ Name	Name
 语言文件丢失\nMissing Language Data\n	语言文件丢失\nMissing Language Data\n
 傀·	Puppet: 
 尸·	Corpse: 
-天	Day
+天	Dia
 选择文件夹	Choose a folder
 开始修复	Start fixing
 已修复结束{0}个文件	Finished fixing {0} files
@@ -1692,38 +1692,38 @@ Name	Name
 额外掉落需要在精英怪上才能生效	Apenas monstros de elite podem conceder drops extras.
 被角色的灵性影响无法转换阵营。	Incapaz de virar devido à bênção do personagem.
 门派人数已达上限	Atingiu a população máxima da seita
-妖兽无法被转换阵营	Beasts cannot be turned to your side.
-大能无法被转换阵营	Sages cannot be turned to your side.
-行商无法被转换阵营	Merchants cannot be turned to your side.
-灵兽无法被转换阵营	Spirit Pets cannot be turned to your side.
+妖兽无法被转换阵营	Bestas não podem ser viradas para o seu lado.
+大能无法被转换阵营	Os sábios não podem ficar do seu lado.
+行商无法被转换阵营	Os mercadores não podem ficar do seu lado.
+灵兽无法被转换阵营	Pet espirituais não podem ser virados para o seu lado.
 体修无法转换阵营。	Os cultivadores físicos não podem se voltar para o seu lado.
 幼年期	Child Stage
 成长期	Learning Stage
 成年期	Mature Stage
 内丹	Internal Core
-[color=#306BC7]获得了新的修炼功法：{0}[/color]	[color=#306BC7]New Law Training Obtained:{0}[/color]
-{0}引荐了几个弟子	{0} recommended some disciples.
-获得秘籍：{0} X {1}	Obtained Manual: {0} X {1}
-获得秘籍：《{0}》 X {1}	Obtained Manual: {0} X {1}
-获得符咒：{0} X {1}	Obtained Talisman: {0} X {1}
-获得神民：{0}	Divine Residents Obtained: {0}
-{0}的{1}受伤了!	{0}'s {1} is hurt!
+[color=#306BC7]获得了新的修炼功法：{0}[/color]	[color=#306BC7]Novo Treinamento de Lei Obtido:{0}[/color]
+{0}引荐了几个弟子	{0} recomendou alguns discípulos.
+获得秘籍：{0} X {1}	Manual Obtido: {0} X {1}
+获得秘籍：《{0}》 X {1}	Manual obtido: {0} X {1}
+获得符咒：{0} X {1}	Talismã obtido: {0} X {1}
+获得神民：{0}	Residentes Divinos Obtidos: {0}
+{0}的{1}受伤了!	{0}'s {1} está machucado!
 {0}受伤了!	{0} está machucado!
-门派声望	Sect's Reputation
-门派善名	Sect's Good Reputation
-门派恶名	Sect's Bad Reputation
-{0}点 {1}	{0} points {1}
+门派声望	Reputação da Seita
+门派善名	Boa reputação da seita
+门派恶名	Má Reputação da Seita
+{0}点 {1}	{0} pontos {1}
 {1:F0}点 [{0}]好感度	{1:F0} [{0}] Favor
-{0}获得称号 [{1}]	{0} obtained title [{1}]
-{0:F0}点{1}	{0:F1} points {1}
+{0}获得称号 [{1}]	{0} título obtido [{1}]
+{0:F0}点{1}	{0:F1} pontos {1}
 天谴	Condemnation
 功德	Virtue
 获得信仰：{0:F0}	Belief Obtained: {0:F0}
-参悟秘体：{0:F0}	Meditate on Secret Body: {0:F0}
+参悟秘体：{0:F0}	Medite no Corpo Secreto: {0:F0}
 领悟淬体之法：{0:F0}	Comprehension Remold Spell: {0:F0}
 {1}习得秘籍：《{0}》	{1} learned Manual: {0}
-{1}已习得秘籍：《{0}》，无法再次领悟。	{1} already knows: {0}, cannot be comprehended again.
-{1}获得参悟经验：{0:F0}点	{1} Obtained Inspiration XP: {0:F0}
+{1}已习得秘籍：《{0}》，无法再次领悟。	{1} já sabe: {0}, não pode ser compreendido novamente.
+{1}获得参悟经验：{0:F0}点	{1} Obteve Inspiração XP: {0:F0}
 [{0}]瓶颈已突破	[{0}] has been broken through.
 活物组成	Composição da Vida
 重生	Rebirth
@@ -1742,18 +1742,18 @@ Name	Name
 人心惶惶	Suspicious
 蒸蒸日上	Thriving
 太平盛世	Prosperous
-凡人不轻信他人，甚至纷纷逃离。只能收集到怨念。	People do not trust each other and even try to escape. Can only gather hatred and disappointment.
-凡人生活困苦，更容易相信他人。	People are poor but become more open to each other.
+凡人不轻信他人，甚至纷纷逃离。只能收集到怨念。	As pessoas não confiam umas nas outras e até tentam fugir. Só pode acumular ódio e desapontamento.
+凡人生活困苦，更容易相信他人。	As pessoas são pobres, mas se tornam mais abertas umas às outras.
 此地发展迅速，物欲横流，更容易跟风随流。	Este lugar tem prosperado, à medida que o consumo aumenta e as pessoas perseguem as tendências populares.
-人民安居乐业，不断有流民前来此地安家，能收集到更多信仰。	People are happily living here, and there is a constant influx of immigrants. Can gather more beliefs.
-{0}需要选择政策	{0} needs to choose a policy
+人民安居乐业，不断有流民前来此地安家，能收集到更多信仰。	As pessoas vivem felizes aqui e há um fluxo constante de imigrantes. Pode reunir mais crenças.
+{0}需要选择政策	{0} precisa escolher uma política
 建筑名非法	Illegal building name
 建筑类型非法	Illegal building type
-不满足建筑条件	Failed to meet the building requirements
-不能建在这个位置	Cannot build it here
-该区域此类建筑已达上限	No more buildings of the same type in this area
-建筑数量已超过上限	Reached the maximum number of buildings
-材料不足	Insufficient materials
+不满足建筑条件	Não atendeu aos requisitos de construção
+不能建在这个位置	Não é possível construí-lo aqui
+该区域此类建筑已达上限	Não há mais edifícios do mesmo tipo nesta área
+建筑数量已超过上限	Atingiu o número máximo de edifícios
+材料不足	materiais insuficientes
 建筑未解锁	Locked building
 由于{0},{1}的政策被取消了，请重新选择政策	Due to {0}, the {1} policy has been canceled. Please select a new policy.
 {0}发生事件:{1}	Event in {0}: {1}
@@ -1947,39 +1947,39 @@ Name	Name
 众门人	Todos os Discípulos
 恭喜您完成《了不起的修仙模拟器》新手教学！\n时长问题无法为您展示游戏大部分内容，这个世界留待您自己去探索了。\n游戏中您可以随时通过右下角的帮助按钮(F10)打开帮助功能，祝您游戏愉快！	Parabéns por terminar o tutorial do Amazing Cultivation Simulator!\nA maior parte do conteúdo do jogo não está disponível aqui devido à limitação de tempo, então você terá que explorar o mundo por conta própria.\nVocê pode acessar o manual de ajuda clicando no botão Ajuda no canto inferior direito ou pressionando F10 a qualquer momento. Te desejo o melhor!
 积累木料	Timber Collection
-建造材料加工点，并在材料加工点完成50份木料的制作	Build a Material Processing Station and create 50 Timber there.
+建造材料加工点，并在材料加工点完成50份木料的制作	Construa uma Estação de Processamento de Materiais e crie 50 Timber lá.
 有家可归	Home Sweet Home
-建造一个房间，并为每个角色分配床铺	Build a House and arrange a bed for each character.
+建造一个房间，并为每个角色分配床铺	Construa uma casa e arrume uma cama para cada personagem.
 开垦农田	Tilling the Earth
-规划一片农田，并将作物设定为小麦。（灵土，沃土肥沃度较高，更适宜植物生长）	Create a field and set Wheat as the crop to be farmed. Spiritual and fertile soil facilitate the growth of plants.
+规划一片农田，并将作物设定为小麦。（灵土，沃土肥沃度较高，更适宜植物生长）	Crie um campo e defina Trigo como a cultura a ser cultivada. O solo espiritual e fértil facilita o crescimento das plantas.
 获得水源	Water Supply
-建造水井，以获得干净的水源。	Dig a well to acquire a source of clean water.
+建造水井，以获得干净的水源。	Cave um poço para obter uma fonte de água limpa.
 粮食储备	Food Storage
-积累50份耐储存的食物（烤肉/面饼/果脯）	Collect 50 pieces of storable food (e.g. Roast Meat, Bread, Dried Fruit).
+积累50份耐储存的食物（烤肉/面饼/果脯）	Colete 50 peças de alimentos armazenáveis (por exemplo, carne assada, pão, frutas secas).
 修仙之始	Cultivation Begins
-将一名弟子完成筑基，并晋升内门	Have one disciple establish a foundation and promote them to inner disciple.
+将一名弟子完成筑基，并晋升内门	Faça com que um discípulo estabeleça um fundamento e o promova a discípulo interior.
 建立门派	Establish a Sect
-打开右下角的门派面板，建立自己的门派。	Open the Sect menu in the bottom right corner and establish your own sect.
+打开右下角的门派面板，建立自己的门派。	Abra o menu Seita no canto inferior direito e estabeleça sua própria seita.
 灵药仙草	Herbs and Medicines
-规划一片药田，并将作物设定为灵仙草。	Create a herb garden and grow Spirit Leaf.
+规划一片药田，并将作物设定为灵仙草。	Crie um jardim de ervas e cultive a Folha Espiritual.
 风水堪舆	Feng Shui
-建造观星台，并将一个房间的风水调整到吉或者大吉。	Build an observatory and improve the Feng Shui of a select room to auspicious or very auspicious.
-尝试突破瓶颈一次，不论成功与否。	Attempt a breakthrough and see whether you succeed.
+建造观星台，并将一个房间的风水调整到吉或者大吉。	Construa um observatório e melhore o Feng Shui de uma sala selecionada para auspicioso ou muito auspicioso.
+尝试突破瓶颈一次，不论成功与否。	Tente um avanço e veja se você consegue.
 符箓绘制	Drawing Talismans
-画一张轻身符，并给一个弟子装备	Draw an Agility Talisman and have a disciple equip it.
+画一张轻身符，并给一个弟子装备	Desenhe um talismã de agilidade e peça a um discípulo para equipá-lo.
 初涉红尘	Into the World
-完成秘闻太一石匣（秘闻触发后，通过历练，前往南屏村完成。）	Complete Secret: Taiyi Stone Box. Once you have triggered the event, go to Nanping Village through Adventure to complete the task.
-将心境调整到圆润。（选择角色，通过屏幕下方的人物面板，切换至调心模式，角色会专心恢复心境。情绪会影响心境的最大值，想要良好的心境请先保证良好的情绪。）	Adjust Mental State to Composed. Select a character and switch it to [Mind] via the character menu. While mind is active, the character will focus on restoring their mental peace. Mood affect the Mental State cap. Maintain a good Mood for a peaceful Mental State.
+完成秘闻太一石匣（秘闻触发后，通过历练，前往南屏村完成。）	Segredo Completo: Caixa de Pedra Taiyi. Depois de ativar o evento, vá para Nanping Village através da Aventura para concluir a tarefa.
+将心境调整到圆润。（选择角色，通过屏幕下方的人物面板，切换至调心模式，角色会专心恢复心境。情绪会影响心境的最大值，想要良好的心境请先保证良好的情绪。）	Ajuste o estado mental para composto. Selecione um personagem e mude para [Mind] através do menu de personagem. Enquanto a mente estiver ativa, o personagem se concentrará em restaurar sua paz mental. O humor afeta o limite do estado mental. Mantenha um bom humor para um estado mental tranquilo.
 参玄悟妙	Seek Inspiration
-积累2000点参悟点。（选择角色，通过屏幕下方的人物面板，切换至练功模式，角色会专心练功，加速参悟点的积累。）	Gain 2k Inspiration XP. Select a character and switch it to [Training] via the character menu. While training is active, the character will focus on training, thereby increasing their Inspiration XP gain.
+积累2000点参悟点。（选择角色，通过屏幕下方的人物面板，切换至练功模式，角色会专心练功，加速参悟点的积累。）	Ganhe 2k de EXP de inspiração. Selecione um personagem e mude para [Training] através do menu de personagem. Enquanto o treinamento estiver ativo, o personagem se concentrará no treinamento, aumentando assim seu ganho de XP de Inspiração.
 领悟道法	Comprehense Laws
-参悟一次秘籍。（通过修炼面板-参悟进入参悟树来参悟秘籍。）	Learn a manual. Head to Cultivation -> Inspiration and then go into the Inspiration Tree to learn a manual.
+参悟一次秘籍。（通过修炼面板-参悟进入参悟树来参悟秘籍。）	Aprenda um manual. Vá para Cultivo -> Inspiração e depois vá para a Árvore de Inspiração para aprender um manual.
 法宝炼制	Artifact Crafting
-建造炼宝台，并完成一次法宝炼制。	Build a crafting table and craft an artifact.
+建造炼宝台，并完成一次法宝炼制。	Construa uma mesa de trabalho e crie um artefato.
 开炉炼丹	Alchemy Beginner
-建造炼丹炉，并完成一次精元丹的炼制。	Build an alchemy furnace and create a Estamina Pill.
+建造炼丹炉，并完成一次精元丹的炼制。	Construa uma fornalha de alquimia e crie uma Pílula de Estamina.
 结丹修士	Core Shaper
-将一名修行者突破到结丹境界（选择角色，通过屏幕下方的人物面板，切换至练功模式，可以专攻修炼，以提高境界。）	Help a cultivator reach the state of Core Shaping. Select a character and switch it to [Train] via the character menu. While training is active, the character will focus on cultivating themselves to raise their state.
+将一名修行者突破到结丹境界（选择角色，通过屏幕下方的人物面板，切换至练功模式，可以专攻修炼，以提高境界。）	Ajude um cultivador a atingir o estado de Core Shaping. Selecione um personagem e mude para [Train] através do menu de personagem. Enquanto o treinamento estiver ativo, o personagem se concentrará em cultivar a si mesmo para aumentar seu estado.
  坐了下来	 Sitting Down
 -灵胎	- Incubation
 巨型	Giant
@@ -1994,21 +1994,21 @@ Name	Name
 通灵的	Iluminado
 众生万物	Todas as criações
 门派任务	Missão da Seita
-各大门派近来事务繁多，向外界请求协助。	The sects are asking for assistance as they have been preoccupied with affairs.
-\n（需前往世界地图的任务列表里查看）	\n(See Quest List in the map)
-{0}发布了一个任务。	{0} issued a task.
+各大门派近来事务繁多，向外界请求协助。	As seitas estão pedindo ajuda porque estão preocupadas com os negócios.
+\n（需前往世界地图的任务列表里查看）	\n(Veja a lista de missões no mapa)
+{0}发布了一个任务。	{0} emitiu uma tarefa.
 任务	Task
 我们完成了{0}的任务，他们的长老表示感谢，并欠了我们人情。\n获得了{0}的{1}点人情，以及{2}点好感度。	Nós completamos uma tarefa para {0}. O ancião deles expressou sua gratidão e ficou mais conectado conosco.\nObteve {1} conexão e {2} favorecimento com {0}
-你完成了{0}的{1}个任务	You have completed {1} tasks for {0}.
+你完成了{0}的{1}个任务	Você concluiu {1} tarefas para {0}.
 完成任务	Task completed
-你答应完成的任务并未按时完成，{0}对你大失所望。\n扣除了{0}的{1}点人情，{2}点好感度。	{0} is disappointed in you for not completing the quest in time.\nConnection with {0} reduced by {1}, Favor reduced by {2}.
-你答应完成的任务并未按时完成，{0}对你大失所望。	{0} is disappointed in you for not completing the quest in time.
+你答应完成的任务并未按时完成，{0}对你大失所望。\n扣除了{0}的{1}点人情，{2}点好感度。	{0} está desapontado com você por não ter concluído a missão a tempo.\nConexão com {0} reduzida em {1}, Favor reduzido em {2}.
+你答应完成的任务并未按时完成，{0}对你大失所望。	{0} está desapontado com você por não ter concluído a missão a tempo.
 任务失败	Quest Failed
-{0}派遣过来支援的{1}已身受重伤，他们非常不悦，人情减少{2}点，好感度降低{3}。	{0} sent {1} as help but they were badly injured. They became very upset, reducing {2} Connection and {3} Favor.
-从{0}租来的{1}已损坏，他们非常不悦，人情减少{2}点，好感度降低{3}。	The {1} borrowed from {0} has been damaged. They became very upset, reducing {2} connection and {3} favor.
+{0}派遣过来支援的{1}已身受重伤，他们非常不悦，人情减少{2}点，好感度降低{3}。	{0} enviou {1} para ajudar, mas eles ficaram gravemente feridos. Eles ficaram muito chateados, reduzindo {2} Conexão e {3} Favor.
+从{0}租来的{1}已损坏，他们非常不悦，人情减少{2}点，好感度降低{3}。	O {1} emprestado de {0} foi danificado. Eles ficaram muito chateados, reduzindo {2} conexão e {3} favor.
 好感度降低	Favor reduced
 确定	Confirm
-{0}的掌门很喜欢我们送的礼物。人情+{1}，好感度+{2}	The sect leader of {0} likes our gift. Connection +{1}; Favor +{2}
+{0}的掌门很喜欢我们送的礼物。人情+{1}，好感度+{2}	O líder da seita de {0} gostou do nosso presente. Conexão +{1}; Favor +{2}
 投其所好	Cater to their pleasure
 好感度达到{0}	Atinja o respeita {0}.
 一本神秘秘籍	A mysterious manual
@@ -2019,11 +2019,11 @@ Name	Name
 未知物品	Item desconhecido
 {0}近日急需{1}，如果你能赠与，他们将感激不尽。	{0} is in need of {1} lately. The sect will be grateful if you can provide it.
 你失去了{0}\n你获得了{1}点人情	You lost {0}.\nYou gained {1} Connection.
-{0}近日急需{1}，愿使用派内宝物{2}与你交换。	{0} is in need of {1} lately. The sect is willing to exchange with its treasure {2}.
-你失去了{0}\n你获得了{1}	You lost {0}.\nYou obtained {1}.
+{0}近日急需{1}，愿使用派内宝物{2}与你交换。	{0} está precisando de {1} ultimamente. A seita está disposta a trocar com seu tesouro {2}.
+你失去了{0}\n你获得了{1}	Você perdeu {0}.\nVocê obteve {1}.
 行商{0}受人所托，愿使用{1}灵石换取一个{2}	O Mercador Viajante {0} recebeu a tarefa de trocar um {2} por {1} Pedras Espirituais.
 你失去了{0}\n你获得了灵石 X {1}	Você perdeu {0}.\nVocê obteve {1} Pedras Espirituais.
-行商{0}受人所托，愿使用{1}换取一个{2}	Traveling Merchant {0} has been tasked to exchange a {2} with {1}.
+行商{0}受人所托，愿使用{1}换取一个{2}	O Mercador Viajante {0} foi encarregado de trocar um {2} com {1}.
 购买物资	Purchase
 接受	Accept
 拒絕	Refuse
@@ -2043,45 +2043,45 @@ Name	Name
 逃跑	Flee
 脱离战斗并尝试逃跑	Leave the fight and attempt to flee.
 激活雕像	Activate Statue
-激活雕像以等待灵兽重生	Activate Statue to wait for the Spirit Pet's rebirth.
+激活雕像以等待灵兽重生	Ative a Estátua para aguardar o renascimento do espirito do Pet
 切换灵宠需要让灵宠之魂在雕像上停留{0:F1}天，期间将无灵宠可用，是否继续？	A troca de animal de estimação requer que a alma do animal permaneça na estátua por {0:F1} dias, durante os quais não terá animal de estimação disponível. Você quer continuar?
 吞食	Devour
-让精怪吞食一个物品。	Let the Sentient Spirit devour an item.
+让精怪吞食一个物品。	Deixe o Espírito Sentient devorar um item.
 禁足	Freeze
-让精怪禁止移动。	Forbid the Sentient Spirit from moving.
+让精怪禁止移动。	Proíba o Espírito Sentiente de se mover.
 取消建造	Cancel
 指定归属	Assign
 制定归属，如果对象是床也会改变房间所有者。	Atribuir propriedade. Se o alvo for uma cama, o dono do quarto também será alterado.
 打开生产面板	Abra o menu de produção.
 祭祀仙人遗蜕	Worship the immortal's mortal body.
 激活	Activate
-激活剑阵,需要一个角色前来操作，剑阵会在战斗结束后自动关闭。	Activate a sword formation (requires one character to control). The formation will be closed after battle ends.
+激活剑阵,需要一个角色前来操作，剑阵会在战斗结束后自动关闭。	Ative uma formação de espada (requer um personagem para controlar). A formação será fechada após o término da batalha.
 除魔	Exorcise
-消耗49点香火值，祖师分身下凡战斗，持续一天。	Costs 49 Incense. The master will come down to earth to fight for one day.
+消耗49点香火值，祖师分身下凡战斗，持续一天。	Custa 49 Incenso. O mestre descerá à terra para lutar por um dia.
 落地	Land
-消耗49点香火值，祖师分身下凡讲道，持续一天。(内门弟子会在选择周围的蒲团或者空地听讲)	Costs 49 Incense. The master will come down to earth to give a lecture for one day. Inner disciples will attend the lecture standing or sitting on nearby cushions.
+消耗49点香火值，祖师分身下凡讲道，持续一天。(内门弟子会在选择周围的蒲团或者空地听讲)	Custa 49 Incenso. O mestre descerá à terra para dar uma palestra por um dia. Discípulos internos assistirão à palestra em pé ou sentados em almofadas próximas.
 灌顶	Enlighten
-消耗9点香火值，为一名弟子灌顶，直接赐予其50000点参悟值。	Costs 9 Incense. Enlightens one disciple by immediately granting them 50k Inspiration XP.
+消耗9点香火值，为一名弟子灌顶，直接赐予其50000点参悟值。	Custa 9 Incenso. Ilumina um discípulo concedendo imediatamente a ele 50k de EXP de Inspiração.
 赐器	Bestow
-消耗25点香火值，获得祖师的赏赐。	Costs 25 Incense. Gain a gift from the master..
+消耗25点香火值，获得祖师的赏赐。	Custa 25 Incensos. Ganhe um presente do mestre..
 开光	Consecrate
-消耗25点香火值，随机为一个物品提高1~4阶品阶，最高不超过12阶。	Costs 25 Incense. Increases an item's tier by 1-4 levels, but cannot raise an item above tier 12.
-消耗25点香火值，为一个外门角色治疗所有疾病，恢复所有器官，并提高五维。	Costs 25 Incense. Cures all illnesses, restores all organs, and improves the five senses for an outer disciple.
+消耗25点香火值，随机为一个物品提高1~4阶品阶，最高不超过12阶。	Custa 25 Incensos. Aumenta o nível de um item em 1-4 níveis, mas não pode elevar um item acima do nível 12.
+消耗25点香火值，为一个外门角色治疗所有疾病，恢复所有器官，并提高五维。	Custa 25 Incensos. Cura todas as doenças, restaura todos os órgãos e melhora os cinco sentidos de um discípulo externo.
 庇护	Protect
-消耗9点香火值，清除所有天气并获得庇护。	Costs 9 Incense. Clears all weather effects and grants protection.
+消耗9点香火值，清除所有天气并获得庇护。	Custa 9 Incenso. Limpa todos os efeitos climáticos e concede proteção.
 护法赐予	Grant Guard
-消耗25点香火值，赐予神国期及修行者一名护法。	Costs 25 faith to grant a guard to the Divine Realm and the cultivator.
+消耗25点香火值，赐予神国期及修行者一名护法。	Custa 25 de fé para conceder um guarda ao Reino Divino e ao cultivador.
 法宝归阵	Join Formation
-选择一个法宝，将其归入阵法之中。	Select an artifact and add it into the formation.
+选择一个法宝，将其归入阵法之中。	Selecione um artefato e adicione-o à formação.
 撰写内容	Write Content
-在这个建筑上撰写内容，只有一次机会。	Write any content on this structure. Can only be done once.
+在这个建筑上撰写内容，只有一次机会。	Escreva qualquer conteúdo nesta estrutura. Só pode ser feito uma vez.
 敲钟	Toll Bell
-敲响警钟,外门弟子会聚集到周围。	Toll the bell, and outer disciples will gather around.
-从井里打水。	Draw water from the well.
+敲响警钟,外门弟子会聚集到周围。	Toque o sino e os discípulos externos se reunirão.
+从井里打水。	Tire água do poço.
 点燃	Light
 点燃烟花	Light Firework
 放置物品	Place Item
-选择一个物品，将其放在置物台上。	Select an item and place it on the Display.
+选择一个物品，将其放在置物台上。	Selecione um item e coloque-o na tela.
 取消放置	Cancel Placement
 取消放置建造蓝图中指定的物品。	Cancele a colocação do item selecionado do blueprint.
 丢下物品	Remove
@@ -2112,13 +2112,13 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 选择一个角色进行埋葬。	Select a character to be buried.
 摧毁	Destroy
 摧毁一个建筑。	Destroy a building.
-重建被摧毁的建筑。	Rebuild the destroyed building.
+重建被摧毁的建筑。	Reconstruir o edifício destruído.
 点火	Set on Fire
 使该建筑着火。纯表现。	Set the building on fire. Only for show.
 使该建筑着火。	Set the building on fire.
 移动建筑到指定位置	Move building to designated location.
 设置交互。	Set interaction.
-在这个建筑上撰写内容。	Write any content on this structure.
+在这个建筑上撰写内容。	Escreva qualquer conteúdo nesta estrutura.
 工作状态	Work Status
 切换工作状态。	Switch Work Status.
 驱动建筑	Activate Building
@@ -2141,27 +2141,27 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 食用给与	Feed
 将这个物品给与一个角色，角色会自动前来食用。	Dê este item a um personagem. O personagem irá recuperá-lo e comê-lo automaticamente.
 归阵	Join Formation
-搬运这个法宝并将其放置到阵法之中。	Transport this artifact and place it in a formation.
+搬运这个法宝并将其放置到阵法之中。	Transporte este artefato e coloque-o em uma formação.
 安装	Erect
-将这个建筑安装到地上。	Erect this structure on the ground.
-这个道具似乎已经损坏了	This item seems to be broken.
+将这个建筑安装到地上。	Erga esta estrutura no chão.
+这个道具似乎已经损坏了	Este item parece estar quebrado.
 秘宝认主	Claim Legacy Artifact
 指定角色	Select Character
 阅读	Read
 阅读以领悟功法	Read to comprehend Law.
 入库	Store
 打开	Open
-打开看看里面放的是什么	Open it to see what's inside.
+打开看看里面放的是什么	Abra-o para ver o que há dentro.
 删除此物品。	Delete this item.
 移动到	Move To
-将物品移动到指定位置。	Move item to designated location.
+将物品移动到指定位置。	Mova o item para o local designado.
 系统用	For System
-删除此单位。	Delete this unit.
+删除此单位。	Excluir esta unidade.
 开采这个矿石	Mine this ore.
 收获这个植物	Harvest this plant.
 砍伐	Chop
 砍伐这棵树木	Corta esta árvore.
-移除这个植物	Remove this plant.
+移除这个植物	Remova esta planta.
 蕴养	Nurture
 蕴养这株灵植，调整灵植的养成趋势，并借此收获一些珍稀材料。	Nurture this spiritual plant and regulate its growth to gain rare materials.
 使该植物着火。纯表现。	Set the plant on fire. Only for show.
@@ -2171,7 +2171,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 重新整理	Sort
 重新整理仓库	Sort the inventory.
 删除区域	Delete
-删除这个区域	Delete this area.
+删除这个区域	Exclua esta área.
 种植物	Grow Plants
 设置种植植物	Set what plants to grow.
 选择种植物	Select a plant.
@@ -2225,7 +2225,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 埋葬这个尸体，需要选择一个空闲的墓地。	Selecione um cemitério vazio e enterre este cadáver.
 晋升内门	Promote
 将这个筑基成功的弟子晋升到内门	Este discípulo foi bem sucedido em estabelecer sua fundação. Promova-os a discípulo interior.
-留下这个角色	Keep this character.
+留下这个角色	Mantenha este personagem.
 门派弟子数量达到上限:{0}。\n你可以扩大门派规模或者将其他弟子踢出门派。	O número de discípulos atingiu o limite: {0}.\nVocê pode aumentar o tamanho de sua seita ou chutar outro discípulo.
 帮助	Ajuda
 为他提供帮助	Ajude esta pessoa.
@@ -2248,7 +2248,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 跟随一个友方角色	Siga um aliado.
 取消跟随	Parar de seguir
 取消跟随当前目标	Pare de seguir o alvo atual.
-尝试与这个单位交流。\n处事等级及对方对门派的好感度会影响交流结果，但也不是每件事都会直接告诉你。	Try to communicate with this unit. \nYour social skills and their favor of the sect will affect the result of the communication, but they may not tell your everything.
+尝试与这个单位交流。\n处事等级及对方对门派的好感度会影响交流结果，但也不是每件事都会直接告诉你。	Tente se comunicar com esta unidade. \nSuas habilidades sociais e seu favor pela seita afetarão o resultado da comunicação, mas podem não dizer tudo sobre você.
 灵魂拷问	Soul Interrogation
 对弥留的角色进行灵魂拷问，尝试获得对方的秘密。\n拷问会加速角色死亡。	Interrogue o personagem moribundo, tentando conhecer seus segredos. \nA interrogação fará o personagem morrer mais rápido.
 隐匿	Hide
@@ -2264,12 +2264,12 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 转化	Conversão
 灵宠觉醒	Pet Awakened
 召唤灵宠	Summon Pet
-让其观察一个物品、建筑或植物，来获得对应的思绪。限于其低下的灵智，同一种思绪只能通过观察并记住一条。	Order it to observe an item, building or plant to obtain the corresponding Thoughts. Due to its limited intelligence, only one Thought of each kind can be obtained through observation and memorized.
+让其观察一个物品、建筑或植物，来获得对应的思绪。限于其低下的灵智，同一种思绪只能通过观察并记住一条。	Ordene-o a observar um item, edifício ou planta para obter os Pensamentos correspondentes. Devido à sua inteligência limitada, apenas um Pensamento de cada tipo pode ser obtido através da observação e memorização.
 删除角色	Excluir Personagem
 删除所选择的角色。	Delete the selected character.
 对话	Diálogos
 设置NPC对话。	Definir diálogos NPC.
-将角色移动到指定位置。	Move character to designated location.
+将角色移动到指定位置。	Mova o personagem para o local designado.
 角色面向	Character Facing
 调整角色面向。	Adjust character facing.
 添加Modify	Add Modify.
@@ -2283,12 +2283,12 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 全部	Todos
 我的蓝图	My Blueprints
 万界天宫	Realms Palace
-[color=#D06508][{0}][/color]已解锁\n	[color=#D06508][{0}][/color] has been unlocked.\n
-请选择建筑蓝图建造地点	Select a building site for the blueprint.
-[color=#ff0000]未满足蓝图建造需求地形[/color]	[color=#ff0000]Unsuitable building terrain for the blueprint.[/color]
+[color=#D06508][{0}][/color]已解锁\n	[color=#D06508][{0}][/color] foi desbloqueado.\n
+请选择建筑蓝图建造地点	Selecione um local de construção para o projeto.
+[color=#ff0000]未满足蓝图建造需求地形[/color]	[color=#ff0000]Terreno de construção inadequado para a planta.[/color]
 房间最小面积为4，最大面积为400	O menor tamanho de uma sala é 4. O maior é 400.
-选择建造地点	Select a building site
-(按[keycode]RotBuilding[/keycode]旋转)	(Press [keycode]RotBuilding[/keycode] to rotate.)
+选择建造地点	Selecione um local de construção
+(按[keycode]RotBuilding[/keycode]旋转)	(Press [keycode]RotBuilding[/keycode] para girar.)
 [color=#ff0000]已达到最大拥有个数:{0}[/color]	[color=#ff0000]Atingiu o número máximo:{0}[/color]
 <font color=#FF0000>地点不适合</font>	<font color=#FF0000>Local Inadequado</font>
 更换建筑原材料	Substituir Matéria-Prima de Construção
@@ -2317,32 +2317,32 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 请选择一株植物	Select a plant.
 请选择合适的摆放地点	Selecione um local adequado para colocá-lo.
 请选择一个置物台	Select a Display.
-请选择要装备的物品	Select an item to equip.
-请选择要夺取的道具	Select an item to take.
-请选择要吃掉的道具	Select an item to eat.
-请选择要吃掉的材料	Select a material to consume.
-请选择要吃掉的建材	Select a building material to consume.
+请选择要装备的物品	Selecione um item para equipar.
+请选择要夺取的道具	Selecione um item para levar.
+请选择要吃掉的道具	Selecione um item para comer.
+请选择要吃掉的材料	Selecione um material para consumir.
+请选择要吃掉的建材	Selecione um material de construção para consumir.
 请选择要吞噬的道具	Selecione um item para devorar.
 请选择要炼制的道具	Selecione um item para refinar.
-请选择一个空闲的炼宝炉	Select an empty Crafting Furnace.
+请选择一个空闲的炼宝炉	Selecione uma fornalha de artesanato vazia.
 请选择一个道具	Selecione um item.
 请选择一个法宝	Selecione um artefato.
 请选择一张符纸	Selecione um pedaço de papel talisman.
-请选择一个无修为的同种族角色	Select a character of the same race with no spiritual power.
+请选择一个无修为的同种族角色	Selecione um personagem da mesma raça sem poder espiritual.
 请选择一个无修为的异性同种族角色	Select a same-race character of the opposite-sex with no spiritual power.
 请选择一个角色	Selecione um personagem.
 请选择神国期及以上境界的神道修行者	Select a pantheon cultivator in the divine or higher state.
 请选择一个无修为的角色/弥留中的角色/精怪	Select an uncultivated character/dying character/Sentient Spirit
 请选择一个无修为的角色	Selecione um personagem sem poder espiritual.
-请选择目标点	Select a destination.
-请选择攻击目标	Select a target to attack.
-请选择一个要传授的对象	Select a target to impart knowledge on.
-请选择一个释放的目标	Select a target to cast.
-请选择一个空的墓地	Select an empty burial ground.
-请选择一个空闲的丹炉	Select an empty alchemy furnace.
-请选择需要灌顶的内门弟子	Select an inner disciple to enlighten.
-请选择一个物品或者实体	Select an item or a tangible entity.
-请选择一本秘籍	Select a manual.
+请选择目标点	Selecione um destino.
+请选择攻击目标	Selecione um alvo para atacar.
+请选择一个要传授的对象	Selecione um alvo para transmitir conhecimento.
+请选择一个释放的目标	Selecione um alvo para lançar.
+请选择一个空的墓地	Selecione um cemitério vazio.
+请选择一个空闲的丹炉	Selecione uma fornalha de alquimia vazia.
+请选择需要灌顶的内门弟子	Selecione um discípulo interior para esclarecer.
+请选择一个物品或者实体	Selecione um item ou uma entidade tangível.
+请选择一本秘籍	Selecione um manual.
 请选择一个要被吞噬的物体	Select an item to devour.
 请选择一个要埋葬的角色	Select a character to be buried.
 请选择一处水域	Select a water area.
@@ -2391,7 +2391,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 无法蕴养	Incapaz de nutrir.
 不是法宝	Não é um artefato.
 没有多余的个数	No excess.
-该物品不能食用	This item is not edible.
+该物品不能食用	Este item não é comestível.
 暂时无法吞噬品阶大于{0:F2}的物品	Não é possível devorar itens com níveis superiores a {0:F2} no momento.
 无法炼化该类型的物品	Não foi possível refinar este tipo de itens.
 没有炼化物品的能力	Não foi possível refinar itens.
@@ -2443,14 +2443,14 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 该物品不能用于炼制	This item cannot be refined.
 没有空闲的个数	Todos estão ocupados.
 成功率:{0} 灵气:{1}	Chance Sucesso: {0}Qi: {1}
-灵气不足:{1}({2:N0}) 炼制成功率:{0}	Insufficient Qi: {1} ({2:N0}) Refinement Success Rate: {0}
-成功率:{0} 灵气:{1} 心境:{2}	Success Rate: {0} Qi: {1} Mental State: {2}
-不能用来炼宝	Unable to be used for artifact crafting.
+灵气不足:{1}({2:N0}) 炼制成功率:{0}	Qi insuficiente: {1} ({2:N0}) Taxa de sucesso de refinamento: {0}
+成功率:{0} 灵气:{1} 心境:{2}	Taxa de sucesso: {0} Qi: {1} Estado mental: {2}
+不能用来炼宝	Não pode ser usado para criação de artefatos.
 该建筑正忙	Este edifício está ocupado.
 该物品不能用于绘制符咒	Este item não pode ser usado para desenhar um talisman.
 不能用来炼丹	Não pode ser usado para alquimia.
-不能用来埋葬	Cannot be used to bury.
-已经被使用	Has already been used.
+不能用来埋葬	Não pode ser usado para enterrar.
+已经被使用	Já foi utilizado.
 这个秘籍已经录入了	This manual has been transcribed.
 这个秘籍正准备录入	This manual is ready to be transcribed.
 这个秘籍已有录入命令	This manual has been ordered to be transcribed.
@@ -2464,16 +2464,16 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 是否确定删除该思绪片段，删除以后无法恢复。	Are you sure you want to delete this Thought Shard? You will not be able to recover it later.
 当前状态无法思考	Unable to Think under the current status.
 {0}正在觉醒灵智，无法思考。	{0} is awakening intelligence, unable to Think.
-是否确定开始思考，该次思考将不会产生任何思绪，并将清除所有未记忆的思绪片段	Are you sure you want to start Thinking? This Thinking will not generate any Thoughts, and will cause all unremembered Thought Shards to be cleared.
-此次思考将消耗所选思绪片段，产生{0}：{1}{2}，并清除所有未记忆的片段。是否确定？	This Thinking will consume the selected Thought Shards, generate {0}: {1} {2}, and clear any unremembered shards. Confirm?
-（已被使用，再次使用属性将不会叠加）	(Already used, repeated usage will not stack up the stats)
-{0}\n{1}次思考后遗忘	{0}\nForgotten after {1} times of Thinking
-（效果已存在）	(Effect already exists)
-{0}次思考后遗忘	Forgotten after {0} times of Thinking
-清空已选择的思绪片段	Clear selected Thought Shards.
-将该思绪片段加入思考	Add this Thought Shard into Thinking
-正在思考	Thinking
-思考中，剩余{0:N0}秒	Thinking, {0:N0} sec remaining
+是否确定开始思考，该次思考将不会产生任何思绪，并将清除所有未记忆的思绪片段	Tem certeza de que deseja começar a pensar? Esse pensamento não gerará nenhum pensamento e fará com que todos os fragmentos de pensamento não lembrados sejam limpos.
+此次思考将消耗所选思绪片段，产生{0}：{1}{2}，并清除所有未记忆的片段。是否确定？	Este Pensamento consumirá os Fragmentos de Pensamento selecionados, gerará {0}: {1} {2} e limpará quaisquer fragmentos não lembrados. Confirme?
+（已被使用，再次使用属性将不会叠加）	(Já usado, o uso repetido não acumulará as estatísticas)
+{0}\n{1}次思考后遗忘	{0}\nEsquecido após {1} vezes de Pensamento
+（效果已存在）	(O efeito já existe)
+{0}次思考后遗忘	Esquecido após {0} vezes de Pensamento
+清空已选择的思绪片段	Limpe os fragmentos de pensamento selecionados.
+将该思绪片段加入思考	Adicione este fragmento de pensamento ao pensamento
+正在思考	Pensamento
+思考中，剩余{0:N0}秒	Pensamento, {0:N0} sec remaining
 思绪片段({0}/{1})	Thought Shard ({0}/{1})
 记忆({0}/{1})	Memories ({0}/{1})
 {0}\n[color=#FF0000]<ti tip='阵法每秒消耗灵气大于阵眼灵气的0.5%'>以下角色负担较大：\n{1}</ti>[/color]	{0}\n[color=#FF0000]<ti tip='Qi cost per sec of this formation is more than 0.5% of the auxiliary character's Qi'> The following character will be under stress: \n{1}</ti>[/color]
@@ -2504,38 +2504,38 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 献祭：{0:F0}次	Sacrifices: {0:F0}
 魂体寄生：{0:F0}次	Souls Possessed: {0:F0}
 获取镇派法宝：{0:F0}个	Greater Artifacts: {0:F0}
-该操作将会清空您的所有成就和数据，且不可回退。确认继续吗？	This will delete all your data statistics and achievements .Are you sure to continue?
-\n进度：{0:F0}/{1:F0}	\nProgress: {0:F0}/{1:F0}
+该操作将会清空您的所有成就和数据，且不可回退。确认继续吗？	A população máxima da seita foi atingida. Incapaz de despertar a inteligência.
+\n进度：{0:F0}/{1:F0}	\nProgresso: {0:F0}/{1:F0}
 成就 ({0}/{1})	Conquistas ({0}/{1})
 已拥有	Owned
-未拥有	Unavailable
+未拥有	Indisponível
 图鉴进度：{0}/{1}	Progresso da Enciclopédia: {0}/{1}
-{0}\n最大重量：{1:f1}斤\n捕获数量：{2}	{0}\nMax Weight: {1:f1} kg\nCaught Fish: {2}
+{0}\n最大重量：{1:f1}斤\n捕获数量：{2}	{0}\nPeso máximo: {1:f1} kg\nPeixe capturado: {2}
 灵智碎片已满，无法再继续添加	Intelligence Shard full, unable to add more.
 无法启智	Unable to awaken intelligence.
-精元容量不足以开启灵智	Unable to awaken intelligence due to insufficient Estamina.
-灵智碎片不足以开启灵智	Unable to awaken intelligence due to insufficient Intelligence Shards.
-当前状态无法开启灵智	Unable to awaken intelligence under the current status.
-门派人数已达上限，无法启智	Maximum sect population has been reached. Unable to awaken intelligence.
+精元容量不足以开启灵智	Incapaz de despertar a inteligência devido a Estamina insuficiente.
+灵智碎片不足以开启灵智	Incapaz de despertar inteligência devido a fragmentos de inteligência insuficientes.
+当前状态无法开启灵智	Incapaz de despertar a inteligência sob o status atual.
+门派人数已达上限，无法启智	A população máxima da seita foi atingida. Incapaz de despertar a inteligência.
 灵智碎片	Intelligence Shard
 形成了新的{0}：{1}	Formed new {0}: {1}
-在分别形成{1}，{2}，{3}以后，一块新的{0}产生了	After forming {1}, {2} and {3} respectively, a new {0} has been generated.
+在分别形成{1}，{2}，{3}以后，一块新的{0}产生了	A população máxima da seita foi atingida. Incapaz de despertar a inteligência.
 请输入蓝图名称	Enter a name for the blueprint.
 修改蓝图信息	Modify blueprint information
 屋顶	Roof
 地板	Floor
 新建建筑蓝图	Create new building blueprint
 选择精华	Select Essence
-{0}\n基础值: {1}\n提升率：{2:P3}\n额外加值：{3}	{0}\nBase value: {1}\nIncrease percentage: {2:P3}\nBonus value: {3}
-\n[color=#990000](主动释放时灵气穿透会提高到3倍)[/color]	\n[color=#990000]Qi barrier penetration increases by 200% when actively released.[/color]
+{0}\n基础值: {1}\n提升率：{2:P3}\n额外加值：{3}	{0}\nValor base: {1}\nPorcentagem de aumento: {2:P3}\nValor do bônus: {3}
+\n[color=#990000](主动释放时灵气穿透会提高到3倍)[/color]	\n[color=#990000]A penetração da barreira Qi aumenta em 200% quando liberada ativamente.[/color]
 {0}(未修成)	{0} (Unfinished)
 精元	Estamina
 {0}前无法淬炼{1}	Unable to remold {1} before {0}.
 精元:\n{2}{0}/{1:F0}{3}	Estamina:\n{2}{0}/{1:F0}{3}
 {0}({1}级){2}	{0}(Lv {1}){2}
  [失去]	 [Lost]
-{0}({1})\n完整度：{2:P2}	{0}({1})\nIntegrity: {2:P2}
-这是你的第一次进行淬体标签选择。在这之后，当淬体结果只有基础百炼标签可选时，系统会自动进行选择，本窗口将不再弹出。	This is your first time to make a Remold label selection. In the future if there are only basic Tempered labels to choose from in Remold results, the system will automatically make a selection, and this window will no longer pop up.
+{0}({1})\n完整度：{2:P2}	{0}({1})\nIntegridade: {2:P2}
+这是你的第一次进行淬体标签选择。在这之后，当淬体结果只有基础百炼标签可选时，系统会自动进行选择，本窗口将不再弹出。	Esta é a primeira vez que você faz uma seleção de rótulo Remold. No futuro, se houver apenas rótulos Temperados básicos para escolher nos resultados do Remold, o sistema fará uma seleção automaticamente e esta janela não aparecerá mais.
 确定要将[{0}]淬炼到[{1}]上吗?	Are you sure you want to remold [{0}] onto [{1}]?
 淬体[{0}-{1}]	Remold[{0}-{1}]
 已有效果({0}/{1})	Available Effects({0}/{1})
@@ -2546,7 +2546,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 昏迷	Inconsciente
 濒死	Dying
 (发呆)	(Trance)
-{2}\n灵气值：{0:N0}/{1:N0}\n法宝在空闲时，或灵气耗完后会从角色身上吸取灵气。	{2}\nQi: {0:N0}/{1:N0}\nWhen an artifact is idle or has used up its Qi, it will absorb Qi from the character.
+{2}\n灵气值：{0:N0}/{1:N0}\n法宝在空闲时，或灵气耗完后会从角色身上吸取灵气。	{2}\nQi: {0:N0}/{1:N0}\nQuando um artefato estiver ocioso ou tiver esgotado seu Qi, ele absorverá o Qi do personagem.
 选择地点	Selecione um local.
 经验加成	XP
 从之前突破失败中获得的成功率加成。失败次数越多，成功率越高。	Avanços fracassados ​​aumentam a taxa de sucesso de forma aditiva.
@@ -2559,9 +2559,9 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 天气加成	Weather
 突破时的天气对突破成功率的影响。	O clima afeta a taxa de sucesso do breakthroughs.
 阴阳加成	Yin Yang
-突破时的阴阳偏向对突破成功率的影响。\n在五行属性中，火木属阳性，在白天得到加成；金水属阴性，在夜晚得到加成；土则需要阴阳均衡。	Your Yin Yang affects the success fate of breakthroughs.\nAmong the Five Elements, Fire and Wood count as Yang and have a bonus effect during the day. Metal and Water count as Yin and have a bonus effect at night. Earth requires a balanced Yin and Yang.
+突破时的阴阳偏向对突破成功率的影响。\n在五行属性中，火木属阳性，在白天得到加成；金水属阴性，在夜晚得到加成；土则需要阴阳均衡。	Seu Yin Yang afeta o destino de sucesso das descobertas.\nEntre os Cinco Elementos, Fogo e Madeira contam como Yang e têm um efeito bônus durante o dia. Metal e Água contam como Yin e têm um efeito bônus à noite. A Terra requer um Yin e Yang equilibrados.
 时节加成	Season
-突破时时节对突破成功率的影响。\n春属木，夏属火，秋属金，冬属水，土属性则在每季末尾最佳。	The season affects the success rate of breakthroughs.\nSpring means Wood, summer means Fire, autumn means Metal and winter means Water. Earth will have the best effect at the end of each season.
+突破时时节对突破成功率的影响。\n春属木，夏属火，秋属金，冬属水，土属性则在每季末尾最佳。	A estação afeta a taxa de sucesso do avanço.\Primavera significa Madeira, verão significa Fogo, outono significa Metal e inverno significa Água. A Terra terá o melhor efeito no final de cada temporada.
 五行匹配	Element
 突破地点的五行属性与功法的匹配度对突破成功率的影响。	A compatibilidade entre o elemento do local e o da Lei afeta a taxa de sucesso dos avanços.
 灵气浓度	Qi Density
@@ -2605,8 +2605,8 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 因神性圆满而产生的信仰天劫。如果度过，则神化飞升，如若失败，则灰飞烟灭。	Uma Tribulação de Crença causada pela divindade cumprida. Se o personagem sobreviver, ele ascenderá à imortalidade; se não, eles serão obliterados.
 化形天劫	Shapeshifting Tribulation
     从动物修行化形，需经历化形天劫才能化身为人。\n    此劫五行俱全，金木水火土五种天劫轮流降临。	    Para cultivar de um animal para a forma humana, é preciso sobreviver à Tribulação da Mudança de Forma. \n Esta tribulação é de todos os Cinco Elementos, com as versões Metal, Madeira, Fogo, Água e Terra descendo uma após a outra.
-无法在此地突破	Unable to breakthrough at this location.
-\n<font color=#0000FF>[右击可指定原材料]</font>	\n<font color=#0000FF>[Right-click to select raw material]</font>
+无法在此地突破	Incapaz de avançar neste local.
+\n<font color=#0000FF>[右击可指定原材料]</font>	\n<font color=#0000FF>[Clique com o RMB para selecionar a matéria-prima]</font>
 适龄提示	Age appropriate tips
 生成全景图片需要一定的时间，请不要移动鼠标并耐心等待直到提示完成。	Leva tempo para gerar o mundo. Por favor, não mova o mouse e espere até que ele seja gerado.
 截图已经保存到：\n{0}	Screenshot saved to:\n{0}
@@ -2628,7 +2628,7 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 藏经阁容量：{0}/{1}	Capacidade: {0}/{1}
 藏经阁所能容纳的秘籍。秘籍越深奥，录入占用的容量就越多。\n\n当前藏书量为派中弟子提供:\n降低参悟消耗{0}% 	A capacidade do Manual Pavilion de conter manuais. Um manual mais difícil ocupará mais espaço após ser transcrito. \n\nA capacidade manual atual é fornecida pelos discípulos da seita: \nReduz o custo de inspiração em{0}% 
 这个门派很神秘，需要在游戏中了解更多。	Esta seita é um mistério. Continue jogando para saber mais.
-你已经离开硬核模式	You have exited Hardcore.
+你已经离开硬核模式	Você saiu do Hardcore.
 重载所有脚本	Reload all scripts
 重载脚本结束	Scripts reloaded
 游戏中才能执行Lua	Lua is only executable during gameplay
@@ -2642,45 +2642,45 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 重载PlaceDefs	Reload PlaceDefs
 成功！	Sucesso!
 失败！	Falhou!
-当前阵图仍未保存，无法配置布局	The plan has not been saved. Unable to place layout.
-当前阵图无内容，无法配置布局	The plan has no content. Unable to place layout.
-当前阵图配置仍未保存，无法搭建阵图	The plan configuration has not been saved. Unable to create plan.
-ui状态异常，请关闭ui再次打开	Unable to load the UI. Please close and open it again.
-阵图：{0} 阵法：{1}号	Plan: {0}Formation: {1}No.
-阵图：{0}	Plan: {0}
+当前阵图仍未保存，无法配置布局	O plano não foi salvo. Não foi possível colocar o layout.
+当前阵图无内容，无法配置布局	O plano não tem conteúdo. Não foi possível colocar o layout.
+当前阵图配置仍未保存，无法搭建阵图	A configuração do plano não foi salva. Não foi possível criar o plano.
+ui状态异常，请关闭ui再次打开	Não foi possível carregar a IU. Por favor, feche e abra novamente.
+阵图：{0} 阵法：{1}号	Plano: {0}Formação: {1}No.
+阵图：{0}	Plano: {0}
 新建阵图	Create
 当前仍有未保存的阵图，是否保存	O plano não foi salvo. Você quer salvá-lo?
-不能改变仙阵阵图	Unable to edit the immortal plan.
-当前阵图节点数过少，无法保存	The plan has too few nodes. Unable to save.
-命名阵图	Name the plan.
-无效阵图，无法布阵	Invalid plan; unable to form formation.
-残缺阵图，无法布阵	Incomplete plan; unable to form formation.
-阵枢需要一个满足条件的角色主持才可以布阵	The formation can only be formed if a character that meets the requirement hosts the pillar.
+不能改变仙阵阵图	Incapaz de editar o plano imortal.
+当前阵图节点数过少，无法保存	O plano tem poucos nós. Incapaz de salvar.
+命名阵图	Nomeie o plano
+无效阵图，无法布阵	Plano inválido; incapaz de formar formação.
+残缺阵图，无法布阵	Plano incompleto; incapaz de formar formação.
+阵枢需要一个满足条件的角色主持才可以布阵	A formação só pode ser formada se um personagem que atender ao requisito hospedar o pilar.
 请输入阵法名字	Digite um nome para a formação.
 修改名称	Change Name
-你保存了一个阵法配置，现在你可以通过阵枢角色身上的结阵按钮来进行结阵。	You have saved a formation configuration. Now you can click the Form Formation button on the character appointed as the pillar to create formation.
-已将分享字符串复制到剪切板	A share string has been copied to the clipboard.
+你保存了一个阵法配置，现在你可以通过阵枢角色身上的结阵按钮来进行结阵。	Você salvou uma configuração de formação. Agora você pode clicar no botão Form Formation no personagem apontado como o pilar para criar a formação.
+已将分享字符串复制到剪切板	Uma sequência de compartilhamento foi copiada para a área de transferência.
 请输入阵图字符串	Enter a string for the plan.
 分享字符串错误，无法使用	An error occurred in the share string. Unable to use.
-存在未激活阵眼，无法使用	Inactive auxiliary. Unable to use.
-请选择一个阵枢	Select a pillar.
-请选择一个阵眼	Select an auxiliary.
-当前阵图仍有阵眼，无法删除阵枢	The plan still has auxiliaries. Unable to remove the pillar.
-请输入阵图名字	Enter a name for the plan.
+存在未激活阵眼，无法使用	Auxiliar inativo. Incapaz de usar.
+请选择一个阵枢	Selecione um pilar.
+请选择一个阵眼	Selecione um auxiliar.
+当前阵图仍有阵眼，无法删除阵枢	O plano ainda tem auxiliares. Não foi possível remover o pilar.
+请输入阵图名字	Digite um nome para o plano.
 -复制	- Copy
-当前阵图有正在运转的阵法，无法删除	A formation created using this plan is still active. Unable to delete.
+当前阵图有正在运转的阵法，无法删除	Uma formação criada usando este plano ainda está ativa. Não é possível excluir.
 当前阵图有阵法配置，即将删除配套阵法，是否确定	O plano possui uma configuração de formação. Deseja excluir todas as formações relacionadas?
 是否确定删除该阵法	Deseja excluir esta formação?
-阵枢：	Pillar: 
+阵枢：	Pilar: 
 　无	　None
 阵眼：	Auxiliaries: 
-[点击编辑配置]	[Click to edit the configuration]
-{0}\n阵枢：\n　无\n阵眼:\n　无\n[点击编辑配置]	{0}\nPillar: \nNone\nAuxiliary: \nNone\n[Click to edit the configuration]
-[点击配置阵法]	[Click to set a formation configuration]
+[点击编辑配置]	[Clique para editar a configuração]
+{0}\n阵枢：\n　无\n阵眼:\n　无\n[点击编辑配置]	{0}\nPilar: \nNenhum\nAuxiliar: \nNenhum\n[Clique para editar a configuração]
+[点击配置阵法]	[Clique para definir uma configuração de formação]
 点击配置	Click the configuration
-还未设置该模组的预览图	You have not yet set a preview image for this mod.
-还未设置该模组的名称	You have not yet named this mod.
-确定更新模组内容吗？	Are you sure you want to update the mod's content?
+还未设置该模组的预览图	Você ainda não definiu uma imagem de visualização para este mod.
+还未设置该模组的名称	Você ainda não nomeou este mod.
+确定更新模组内容吗？	Tem certeza de que deseja atualizar o conteúdo do mod?
 分享	Share
 \r\n[内容]	\r\n[Content]
 上传	Upload
@@ -2689,21 +2689,21 @@ ui状态异常，请关闭ui再次打开	Unable to load the UI. Please close and
 印记	Mark
 脸部伤痕	Facial scarring
 伤疤	Scar
-有资源未下载完成，退出将被取消，确定要退出吗？	Some resources have not yet been downloaded. Exiting now will cancel the download. Exit?
+有资源未下载完成，退出将被取消，确定要退出吗？	Alguns recursos ainda não foram baixados. Sair agora cancelará o download. Saída?
 正在下载 ： 0	Downloading: 0
 未下载	Not downloading
 等待激活	Available
 已激活	Activated
-[color=#FF0000]模组商店获取失败[/color]	[color=#FF0000]Failed[/color]
+[color=#FF0000]模组商店获取失败[/color]	[color=#FF0000]Falhou[/color]
 正在下载 ：	Downloading:
 下载 	Downloading 
  : 等待服务器响应	 : Waiting for the server to respond
 正在下载	Downloading
   取消下载	  Cancel Downloading
-{0} 下载失败，请检查网络连接是否稳定，同时移至Steam下载界面恢复下载	{0} Download failed. Verify that your Internet connection is stable and navigate to Steam's download menu to resume the download.
-\n下载失败，请尝试重新下载	\nFailed to download. Please try it again.
-[color=#FF0000]下载失败[/color]	[color=#FF0000]Failed to download[/color]
-{0} 下载超时，请检查网络连接，或移至Steam下载界面恢复下载	{0} Download timed out. Verify that your Internet connection is stable or navigate to Steam's download menu to resume the download.
+{0} 下载失败，请检查网络连接是否稳定，同时移至Steam下载界面恢复下载	{0} Download falhou. Verifique se sua conexão com a Internet está estável e navegue até o menu de download do Steam para retomar o download.
+\n下载失败，请尝试重新下载	\nFalhou o download. Tente novamente.
+[color=#FF0000]下载失败[/color]	[color=#FF0000]Falhou o download[/color]
+{0} 下载超时，请检查网络连接，或移至Steam下载界面恢复下载	{0} O download expirou. Verifique se sua conexão com a Internet está estável ou navegue até o menu de download do Steam para retomar o download.
 总大小:	Size:
   当前进度:	  Progress:
 Lua代码不能为空	Lua script cannot be empty.
@@ -2712,25 +2712,25 @@ Lua代码不能为空	Lua script cannot be empty.
 技能丢失	Skill Lost
 已合练	Combined
 未合练	Not Combined
-未达到元神期，无法进行元神寄托的仪式。	Has yet to reach the Primordial Spirit State. Unable to perform attachment ritual via primordial spirit.
-元神期的修行者可以以自身的元神分神为载体，将自己对修行的体会寄托于装备之上。	A cultivator with the primordial spirit can use a sub-spirit as the carrier to attach their understanding of cultivation to their equipment.
+未达到元神期，无法进行元神寄托的仪式。	Ainda não atingiu o Estado de Espírito Primordial. Incapaz de realizar o ritual de apego via espírito primordial.
+元神期的修行者可以以自身的元神分神为载体，将自己对修行的体会寄托于装备之上。	Um cultivador com o espírito primordial pode usar um subespírito como portador para anexar sua compreensão do cultivo ao seu equipamento.
 是否切换绘制模式，此操作会导致刷新符咒绘制面板且不会退还灵力。	Deseja alternar o modo de desenho? Esta ação atualizará o painel de desenho do talismã e não retornará Qi.
 是否切换符咒种类，此操作会导致刷新符咒绘制面板且不会退还灵力。	Deseja alterar o tipo de talismã? Ele atualizará o painel de desenho do talismã e não retornará Qi.
 空白	Blank
-似乎随便画画就可以得到神奇的结果。	It seems that you can paint wonders by only scribbling.
-白元法	White Origin Technique
-角色当前灵力不足以驱动此术！	The character does not have enough Qi to perform this!
-以灵气绘制本命真符，能保证最低效果。	Use Qi to draw a Natal Talisman to ensure the minimum effect.
-以10倍于白元法的灵气绘制本命真符，符咒效果提高1倍。	Use 10x Qi used in the White Origin Technique to draw a Natal Talisman, increasing the talisman effect by 100%.
-以100倍于白元法的灵气绘制本命真符，符咒效果提高2倍。	Use 100x Qi used in the White Origin Technique to draw a Natal Talisman, increasing the talisman effect by 200%.
-以1000倍于白元法的灵气绘制本命真符，符咒效果提高3倍。	Use 1000x Qi used in the White Origin Technique to draw a Natal Talisman, increasing the talisman effect by 300%.
-以10000倍于白元法的灵气绘制本命真符，符咒效果提高4倍。	Use 10000x Qi used in the White Origin Technique to draw a Natal Talisman, increasing the talisman effect by 400%.
-已将分享码复制到粘贴板中。	A share code has been copied to the clipboard.
-分享码无效。	The share code is invalid.
+似乎随便画画就可以得到神奇的结果。	Parece que você pode pintar maravilhas apenas rabiscando.
+白元法	Técnica de Origem Branca
+角色当前灵力不足以驱动此术！	O personagem não tem Qi suficiente para fazer isso!
+以灵气绘制本命真符，能保证最低效果。	Use Qi para desenhar um Talismã Natal para garantir o efeito mínimo.
+以10倍于白元法的灵气绘制本命真符，符咒效果提高1倍。	Use 10x Qi usado na Técnica de Origem Branca para desenhar um Talismã Natal, aumentando o efeito do talismã em 100%.
+以100倍于白元法的灵气绘制本命真符，符咒效果提高2倍。	Use 100x Qi usado na Técnica de Origem Branca para desenhar um Talismã Natal, aumentando o efeito do talismã em 200%.
+以1000倍于白元法的灵气绘制本命真符，符咒效果提高3倍。	Use 1000x Qi usado na Técnica de Origem Branca para desenhar um Talismã Natal, aumentando o efeito do talismã em 300%.
+以10000倍于白元法的灵气绘制本命真符，符咒效果提高4倍。	Use 10000x Qi usado na Técnica de Origem Branca para desenhar um Talismã Natal, aumentando o efeito do talismã em 400%.
+已将分享码复制到粘贴板中。	Um código de compartilhamento foi copiado para a área de transferência.
+分享码无效。	O código de compartilhamento é inválido.
 分享码	Share Code
 地图种子	Map Seed
 未选择	Not yet selected
-[color=#008800]（已完成）[/color]	[color=#008800] (Completed)[/color]
+[color=#008800]（已完成）[/color]	[color=#008800] (Concluído)[/color]
 可完成成就：	Conquistas Disponíveis:
 拍照模式	Câmera
 问题上报	Reportar
@@ -2767,10 +2767,10 @@ Lua代码不能为空	Lua script cannot be empty.
 \n[color=#B65704]产出:[/color]	\n[color=#B65704]Output:[/color]
 [本地蓝图]\n	[Local Blueprint]\n
 [MOD蓝图（来自MOD  {0}）]\n	[Mod Blueprint (From mod {0})]\n
-蓝图中存在失落之物!	Lost item(s) in the blueprint!
+蓝图中存在失落之物!	Item(ns) perdido(s) no projeto!
 <font color=#FF0000>此蓝图需要安装以下DLC:</font>	<font color=#FF0000>Este blueprint precisa do seguinte DLC instalado:</font>
-蓝图中无可造建筑	No available Buildings in this Blueprint.
-蓝图中存在未解锁建筑!	Locked building(s) in the blueprint!
+蓝图中无可造建筑	Não há Edifícios disponíveis neste Projeto.
+蓝图中存在未解锁建筑!	Edifício(s) bloqueado(s) na planta!
 神秘地点	Mysterious Spot
 确定要离开此地吗？	Você quer sair deste lugar??
 还不能离开，因为\n{0}	Incapaz de sair porque \n{0}.
@@ -2783,12 +2783,12 @@ Lua代码不能为空	Lua script cannot be empty.
 天气变化	Weather Change
 更换天气	Alter weather
 生成物品	Generate Item
-生成随机原材料的物品。	Generate an item from random raw material.
+生成随机原材料的物品。	Gere um item a partir de matéria-prima aleatória.
 拍照模式。	Camera.
 天气与季节	Tempo e temporada
-更换当前天气与季节	Change current weather and season
+更换当前天气与季节	Mude o clima atual e a estação
 地图编辑	Map Edit
-编辑地图及生成地图中的物品。	Edit map and generate items in the map.
+编辑地图及生成地图中的物品。	Editar mapa e gerar itens no mapa.
 角色生成	Generate Character
 生成随机角色。	Generate random character.
 Trap编辑。	Trap Edit.
@@ -2797,7 +2797,7 @@ Trap编辑。	Trap Edit.
 路线编辑	Route Edit
 编辑移动路线。	Edit routes.
 指定天气	Select Weather
-当前天气变化为指定的天气	Change weather into a specific one.
+当前天气变化为指定的天气	Mude o clima para um específico.
 地形	Terreno
 坐标点	Coordinates
 矿物	Mineral
@@ -2881,8 +2881,8 @@ Trap编辑。	Trap Edit.
 生存目标	Objective
 门派建设	Sect Building
 修行进阶	Advance
-第{0}天 {1:D2}:{2:D2} {3}	Day {0} {1:D2}:{2:D2} {3}
-{0}\n剩余：{1}	{0}\nRemaining: {1}
+第{0}天 {1:D2}:{2:D2} {3}	Dia {0} {1:D2}:{2:D2} {3}
+{0}\n剩余：{1}	{0}\nRestante: {1}
 门派风水：{0}	Sect's Feng Shui: {0}
 新的异闻解锁	Um novo segredo é desvendado.
 (室)	(Room)
@@ -2892,32 +2892,32 @@ Trap编辑。	Trap Edit.
 古修	Ancient Cultivator
 启	Qi
 停	Stop
-将一名信仰程度达到100%的核心信徒永久转化为护法。\n消耗信仰：{2}{0:N0}/{1:N0}{3}	Permanently transform a core follower with a 100% belief into a guard. \nBelief Cost: {2}{0:N0}/{1:N0}{3}
-选择护法类型	Select guard type
-选择信仰程度达到100%的核心信徒	Select a core follower with a 100% belief
-{0}\n{1}\n入住天数：{3}\n信仰程度：{4}{2:N0}%{5}\n{6}	{0}\n{1}\nResidency Duration: {3}\nExtent of Belief: {4}{2:N0}% {5}\n{6}
+将一名信仰程度达到100%的核心信徒永久转化为护法。\n消耗信仰：{2}{0:N0}/{1:N0}{3}	Transforme permanentemente um seguidor central com 100% de crença em um guarda. \nCusto da Crença: {2}{0:N0}/{1:N0}{3}
+选择护法类型	Selecione o tipo de guarda
+选择信仰程度达到100%的核心信徒	Selecione um seguidor principal com uma crença de 100%
+{0}\n{1}\n入住天数：{3}\n信仰程度：{4}{2:N0}%{5}\n{6}	{0}\n{1}\nDuração da Residência: {3}\nExtensão de Crença: {4}{2:N0}% {5}\n{6}
 已转化	Transformed
 选择护法	Select guard.
 已供奉	Worshiped
 未供奉	Not Worshiped
-神民数量\n神民数量会根据门派影响力增长，实现心愿也可能增加神民。\n当前数量大于最大数量会导致怨气累加。	Number of Divine Residents\nThe number of divine residents will increase according to the influence of the sect. Realizing their wishes may also increase the population. \nIf the population exceeds the maximum number of residents, hatred will begin accumulating.
-可控神民数量\n与心境层次有关。神民数量超出可控数量会导致怨气累加。	Controllable Population\nRelated to mental state. If the population exceeds the controllable population, hatred will begin accumulating.
-需要神民\n每种神国建筑都需要一定数量的神民，神民数量不能满足需求数量会导致怨气累加。	Required Divine Residents\nEvery kind of divine buildings needs a number of divine residents. If it has fewer divine residents, hatred will begin accumulating.
-核心信徒数量\n核心信徒会提供可观的信仰收益，当核心信徒的信仰程度达到100%时可以将其转化为护法。\n核心信徒一旦加入不可移除。\n最大数量不足会导致怨气累加。	Number of Core Followers\nCore followers can provide a considerable amount of beliefs. When a core follower has a 100% belief, they can be transformed into a guard. \nOnce added, a core follower cannot be removed. \nIf the number of followers is not enough, hatred will begin accumulating.
-信仰\n信仰可以通过前往天下主动获取，或者建立神庙来自动获取，核心信徒也会提供可观的信仰收益。	Belief\nBeliefs can be obtained via entering the world and building temples. Core followers will also provide a considerable amount of beliefs.
-怨气\n 神民怨气，怨气达到100%会引发信仰天劫。	Hatred\nHatred from divine residents. It will cause Belief Tribulation if hatred reaches 100%.
-{0}\n{1}\n入住天数：{3}\n信仰程度：{2:N0}%\n完成愿望：{5}/5\n提供信仰：{4:N2}/秒	{0}\n{1}\nResidency Duration: {3}\nExtent of Belief: {2:N0}%\nWishes Fulfilled: {5}/5\nBeliefs: {4:N2}/s
+神民数量\n神民数量会根据门派影响力增长，实现心愿也可能增加神民。\n当前数量大于最大数量会导致怨气累加。	Número de Residentes Divinos\nO número de residentes divinos aumentará de acordo com a influência da seita. A realização de seus desejos também pode aumentar a população. \nSe a população exceder o número máximo de residentes, o ódio começará a se acumular.
+可控神民数量\n与心境层次有关。神民数量超出可控数量会导致怨气累加。	População controlável\nRelacionado ao estado mental. Se a população exceder a população controlável, o ódio começará a se acumular.
+需要神民\n每种神国建筑都需要一定数量的神民，神民数量不能满足需求数量会导致怨气累加。	Residentes divinos necessários\nTodo tipo de edifício divino precisa de um número de residentes divinos. Se tiver menos residentes divinos, o ódio começará a se acumular.
+核心信徒数量\n核心信徒会提供可观的信仰收益，当核心信徒的信仰程度达到100%时可以将其转化为护法。\n核心信徒一旦加入不可移除。\n最大数量不足会导致怨气累加。	Número de seguidores principais\nOs seguidores principais podem fornecer uma quantidade considerável de crenças. Quando um seguidor central tem 100% de crença, ele pode se transformar em um guarda. \nUma vez adicionado, um seguidor principal não pode ser removido. \nSe o número de seguidores não for suficiente, o ódio começará a se acumular.
+信仰\n信仰可以通过前往天下主动获取，或者建立神庙来自动获取，核心信徒也会提供可观的信仰收益。	Crença\nCrenças podem ser obtidas entrando no mundo e construindo templos. Os seguidores centrais também fornecerão uma quantidade considerável de crenças.
+怨气\n 神民怨气，怨气达到100%会引发信仰天劫。	Ódio\nÓdio de residentes divinos. Causará Tribulação de Crença se o ódio atingir 100%.
+{0}\n{1}\n入住天数：{3}\n信仰程度：{2:N0}%\n完成愿望：{5}/5\n提供信仰：{4:N2}/秒	{0}\n{1}\nDuração da Residência: {3}\nExtensão de Crença: {2:N0}%\nDesejos Realizados: {5}/5\nCrenças: {4:N2}/s
 聆听	Listen
-消耗所有灵气去聆听信徒的愿望，可以选择满足或者拒绝他们(点击愿望)。\n持续时间：{0:F0}秒\n{3}灵气：{1:F0}/{2:F0}{4}	Cost all Qi to listen to the followers' wishes. Can choose to realize or reject them (Click the wish). \nDuration: {0:F0} sec\n{3}Qi: {1:F0}/{2:F0}{4}
+消耗所有灵气去聆听信徒的愿望，可以选择满足或者拒绝他们(点击愿望)。\n持续时间：{0:F0}秒\n{3}灵气：{1:F0}/{2:F0}{4}	Custa todo o Qi para ouvir os desejos dos seguidores. Pode optar por realizá-los ou rejeitá-los (Clique no desejo). \Duração: {0:F0} sec\n{3}Qi: {1:F0}/{2:F0}{4}
 {0} {1:F0}岁 {2}	{0}{1:F0} y/o{2}
 核心信徒	Core Follower
 {3}消耗信仰：{0}/{5:F0}{4}\n神民：+{1}\n神性：+{2:F2}%\n{6}信仰程度：+{7:P2}	{3}Belief Cost: {0}/{5:F0}{4}\nDivine Residents: +{1}\nDivinity: +{2:F2}%\n{6}Extent of Belief: +{7:P2}
 {3}消耗信仰：{0}/{5:F0}{4}\n神民：+{1}\n神性：+{2:F2}%	{3}Belief Cost: {0}/{5:F0}{4}\nDivine Residents: +{1}\nDivinity: +{2:F2}%
-拒绝要求	Reject Demand
-分类:{0}	Category: {0}
+拒绝要求	Rejeitar Demanda
+分类:{0}	Categoria: {0}
 \n提高道行: {0}	\nAttainment: +{0}
 {0}\n[color=#9e6404]不能共存：[/color]	{0}\n[color=#9e6404]Cannot coexist:[/color]
-\n[align=center][color=#9e6404]----功法进阶----[/color][/align]	\n[align=center][color=#9e6404]Advanced Law[/color][/align]
+\n[align=center][color=#9e6404]----功法进阶----[/color][/align]	\n[align=center][color=#9e6404]Lei avançada[/color][/align]
 确定重置所有的快捷键吗？	Deseja redefinir todas as teclas de atalho para seus padrões?
 重置快捷键	Reset Hotkeys
 请输入任意按键	Press a key.
@@ -2930,23 +2930,23 @@ Trap编辑。	Trap Edit.
 {0}{1}的{2}	{0}{1}'s {2}
 询问	Inquire
 选择需要讨论或者询问的话题	Select topics to discuss or inquire
-隐秘的“真相”往往不止一个，不同的线索和参与者可能会得到不一样故事。\n[color=#ff0000]一旦解密将不可逆转，请谨慎选择。[/color]\n确定要使用当前的选择进行推导吗？	There may not be only one hidden truth to each Mystery. Different clues and participants may lead to a different story. \n[color=#ff0000]Once the mystery is solved, it will be irreversible. Please think twice.[/color] \nDo you want to use the selection for deduction?
-这几个势力凑在一起，似乎有点不对劲。不知是少了什么线索，还是想得太多了。	Something seems a little off with these factions combined. Maybe a clue is missing, or you're overthinking it.
+隐秘的“真相”往往不止一个，不同的线索和参与者可能会得到不一样故事。\n[color=#ff0000]一旦解密将不可逆转，请谨慎选择。[/color]\n确定要使用当前的选择进行推导吗？	Pode não haver apenas uma verdade oculta para cada mistério. Pistas e participantes diferentes podem levar a uma história diferente. \n[color=#ff0000]Uma vez resolvido o mistério, será irreversível. Por favor, pense duas vezes.[/color] \nDeseja usar a seleção para dedução?
+这几个势力凑在一起，似乎有点不对劲。不知是少了什么线索，还是想得太多了。	Algo parece um pouco errado com essas facções combinadas. Talvez uma pista esteja faltando ou você esteja pensando demais.
 [{0}]缺少动机\n	[{0}]Lack of Motive\n
-感觉这些动机不太能认定他们跟此事的关系，或是想得太多了？\n	Feels like these motives cannot prove their involvement in this incident, or maybe you're overthinking it?\n
-[{0}]证据不足\n	[{0}]Insufficient Evidence\n
-感觉这些证据不太能认定他们跟此事的关系，或是想得太多了？\n	Feels like the evidence cannot prove their involvement in this incident, or maybe you're overthinking it?\n
-有些问题似乎怎么都没办法想明白。	There are still questions left unanswered.
-{0}\n来源：{1}\n{2}	{0}\nSource: {1}\n{2}
+感觉这些动机不太能认定他们跟此事的关系，或是想得太多了？\n	Parece que esses motivos não podem provar seu envolvimento neste incidente, ou talvez você esteja pensando demais?\n
+[{0}]证据不足\n	[{0}]Evidência insuficiente\n
+感觉这些证据不太能认定他们跟此事的关系，或是想得太多了？\n	Parece que as evidências não podem provar o envolvimento deles neste incidente, ou talvez você esteja pensando demais?\n
+有些问题似乎怎么都没办法想明白。	Ainda há perguntas sem resposta.
+{0}\n来源：{1}\n{2}	{0}\nFonte: {1}\n{2}
 [死亡]	[Death]
-{0:F0}\n角色对玩家门派的好感度，好感度会影响可以进行的行为和得到的回答。\n在未打开心防时好感度最高为60，讨论对方的嗜好可以打开心防。	{0:F0}\nThe character's favor to your sect. Their favor will affect available actions and the answer you get from them. \nThe maximum favor is 60 before the character opens up. Talk about their hobbies can help them to open up.
-此人灵魂特殊，无法拷问。	This person's soul is too special to interrogate.
-此人灵魂特殊，无法劝化。	This person's soul is too special to persuade.
-选择祈福硬币	Select a prayer coin
-成功劝化{0}，{0}进入{1}神国并成为核心信徒	Successfully persuaded {0}; {0} entered {1}'s Divine Realm and became a core follower.
-{0}成功从{1}口中得出想要的答案：\n{2}	{0} successfully got the answer they wanted from {1}: \n{2}.
-{0}从{1}口中得到一个线索：\n{2}	{0} got an evidence from {1}: \n{2}.
-{0}成功从{1}口中得到一个线索：\n{2}	{0} successfully got an evidence from {1}: \n{2}.
+{0:F0}\n角色对玩家门派的好感度，好感度会影响可以进行的行为和得到的回答。\n在未打开心防时好感度最高为60，讨论对方的嗜好可以打开心防。	{0:F0}\nO favor do personagem para sua seita. O favor deles afetará as ações disponíveis e a resposta que você obterá delas. \nO favor máximo é 60 antes que o personagem se abra. Falar sobre seus hobbies pode ajudá-los a se abrir.
+此人灵魂特殊，无法拷问。	A alma dessa pessoa é especial demais para ser interrogada.
+此人灵魂特殊，无法劝化。	A alma dessa pessoa é especial demais para ser persuadida.
+选择祈福硬币	Selecione uma moeda de oração
+成功劝化{0}，{0}进入{1}神国并成为核心信徒	Persuadiu {0} com sucesso; {0} entrou no Reino Divino de {1} e se tornou um seguidor principal.
+{0}成功从{1}口中得出想要的答案：\n{2}	{0} obteve com sucesso a resposta que eles queriam de {1}: \n{2}.
+{0}从{1}口中得到一个线索：\n{2}	{0} obteve uma evidência de {1}: \n{2}.
+{0}成功从{1}口中得到一个线索：\n{2}	{0} obteve com sucesso uma evidência de {1}: \n{2}.
 获得{0}新的隐秘信息	{0}'s new Mystery obtained.
 {0}心防瓦解(软弱)	{0} has opened up (weak).
 获得{0}关于{1}的消息	{1}'s info obtained from {0}.
@@ -2969,7 +2969,7 @@ Trap编辑。	Trap Edit.
 拷问这个角色	Interrogue este personagem.
 劝化这个角色	Persuadir este personagem.
 烛龙想要祈福硬币	O dragão da tocha quer uma moeda de oração.
-{1:F0}\n{0}对玩家门派的好感度，好感度会影响可以进行的行为和得到的回答。\n在未打开心防时好感度最高为60，讨论对方的嗜好可以瓦解心防。	{1:F0}\n{0}'s favor to your sect. Their favor will affect available actions and the answer you get from them. \nThe maximum favor is 60 before the character opens up. Talk about their hobbies can help them to open up.
+{1:F0}\n{0}对玩家门派的好感度，好感度会影响可以进行的行为和得到的回答。\n在未打开心防时好感度最高为60，讨论对方的嗜好可以瓦解心防。	{1:F0}\n{0}'s favor de sua seita. O favor deles afetará as ações disponíveis e a resposta que você obterá delas. \nO favor máximo é 60 antes que o personagem se abra. Falar sobre seus hobbies pode ajudá-los a se abrir.
 缘分：{0:P0}	Predestiny: {0:P0}
 过去三天行为数量：	[color=#D06508]Número de Atos nos últimos três dias: [/color]
 {0}:{1}次\n	{0}:{1}\n
@@ -3014,9 +3014,9 @@ Trap编辑。	Trap Edit.
 大起大落\n事件发生的概率很频繁\n正常的修炼速度\n正常的参悟消耗\n经常发生激烈的战斗或事件\n天劫威力很强\n适合渴望挑战的玩家	Selvagem\nEventos ocorrem em uma taxa alta.\nVelocidade de cultivo normal.\nCustos de inspiração normais.\nBatalhas e eventos mais difíceis.\nO poder das tribulações celestiais é aumentado\nAdequado para jogadores que procuram um desafio.
 {0}[color=#ff0000](错误)[/color]	{0}[color=#ff0000](Error)[/color]
 [真仙]	[Immortal]
-{0}[color=#9e6404][幻境][/color]	{0}[color=#9e6404][Illusion][/color]
-{0}[color=#9e6404][完美][/color]	{0}[color=#9e6404][Perfect][/color]
-{0}[color=#9e6404][结档][/color]	{0}[color=#9e6404][Ended][/color]
+{0}[color=#9e6404][幻境][/color]	{0}[color=#9e6404][Ilusão][/color]
+{0}[color=#9e6404][完美][/color]	{0}[color=#9e6404][Perfeito][/color]
+{0}[color=#9e6404][结档][/color]	{0}[color=#9e6404][Terminou][/color]
 \n该存档版本号过低，可以轮回开局。\n	\nA versão deste salvamento é muito baixa, mas você pode iniciar uma nova rodada reencarnando.\n
 已存在同名文档，确定覆盖原存档吗？这将不可逆转。	Encontrou um arquivo com o mesmo nome. Deseja substituir o salvamento original? É irreversível.
 输入存档名	Digite um nome para o seu salvamento.
@@ -3035,23 +3035,23 @@ Trap编辑。	Trap Edit.
 飞升时状态	Status (Ascension)
 离山时状态	Status (Out in World)
 轮回时状态	Status (Reincarnation)
-功法:{0}\n境界:{1}	Law: {0}\nState: {1}
+功法:{0}\n境界:{1}	Lei: {0}\nState: {1}
 {1}\n{0:N0}岁\n{2}	{1}\n{0:N0} y/o\n{2}
 天苍{0}年 {1} 第{2}日   {3}	{3} Dia, {2}, {1} Tiancang year {0}
-时年 {0:N0}岁	Age {0:N0} y/o.
+时年 {0:N0}岁	Idade {0:N0} y/o.
 勾选了真仙模式的【人才难寻】，凡人资质变差	Falta de Talento em Imortal selecionado. Potenciais dos mortais reduzidos.
 随机种族	Random Race
 轮回者不能改变姓名。	Reencarnadores não podem mudar de nome.
 这个姓名已经存在了	Este nome já existe.
-新人模式下不能改变角色，请直接进入游戏。	You cannot change character in Beginner. Simply enter the game.
-轮回模式下不能改变角色，请直接进入游戏。	You cannot change character in Reincarnation. Simply enter the game.
-主要角色未选择经历,确定要直接进入游戏吗？	No background chosen for main character. Are you sure you want to start the game?
-初始人员偏少，可能会因为人手的不足带来生存的压力。	You have few initial members which might make surviving somewhat difficult.
-初始人员偏多，可能会因为物资不够而带来生存的压力。	You have many initial members which might make surviving somewhat difficult due to a lack of resources.
-\n因为你尚未完全熟悉游戏,建议使用二到四人开局。\n要直接进入吗？	\nAs you are not yet accustomed to the game, we recommend you to use 2 to 4 members.\nEnter the game?
-{0}{1}的转世	{0} {1}'s reincarnation
-{0}与{1}感情基础\n{2}	{0} and {1}'s emotional foundation.\n{2}
-新人模式下不能改变角色，请直接开始游戏。	You cannot change character in Beginner. Simply enter the game.
+新人模式下不能改变角色，请直接进入游戏。	Você não pode mudar de personagem no Iniciante. Basta entrar no jogo.
+轮回模式下不能改变角色，请直接进入游戏。	Você não pode mudar de personagem em Reencarnação. Basta entrar no jogo.
+主要角色未选择经历,确定要直接进入游戏吗？	Nenhum plano de fundo escolhido para o personagem principal. Tem certeza de que deseja iniciar o jogo?
+初始人员偏少，可能会因为人手的不足带来生存的压力。	Você tem poucos membros iniciais, o que pode dificultar um pouco a sobrevivência.
+初始人员偏多，可能会因为物资不够而带来生存的压力。	Você tem muitos membros iniciais que podem dificultar a sobrevivência devido à falta de recursos.
+\n因为你尚未完全熟悉游戏,建议使用二到四人开局。\n要直接进入吗？	\nComo você ainda não está acostumado com o jogo, recomendamos que use de 2 a 4 membros.\nEntrar no jogo?
+{0}{1}的转世	reencarnação de {0} {1}
+{0}与{1}感情基础\n{2}	base emocional de {0} e {1}.\n{2}
+新人模式下不能改变角色，请直接开始游戏。	Você não pode mudar de personagem no Iniciante. Basta entrar no jogo.
 尚未凝练出元灵，只有术法登峰造极之时才能凝练出术法元灵，指定元灵的术法会在战斗时自动释放。	Nenhuma Alma Primordial foi criada ainda. Almas Primordiais só podem ser criadas quando o poder mágico de alguém atinge o nível mais alto. O feitiço de selecionar Almas Primordiais será liberado automaticamente durante a batalha.
 选择称号	Escolha um título
 无称号	Sem título
@@ -3142,8 +3142,8 @@ Trap编辑。	Trap Edit.
 真炁	Qi Verdadeiro
 点击打开角色健康面板	Clique para abrir o menu Saúde.
 点击打开{0}面板	Clique para abrir o menu {0}.
-{0}\n\n点击打开功法修行面板	{0}\n\nClick to open the Path & Cultivation menu.
-切换至{0}一页技能面板\n\n快捷键:{1}	Switch to {0} Skill menu.\n\nHotkey: {1}
+{0}\n\n点击打开功法修行面板	{0}\n\nClique para abrir o menu Caminho e Cultivo.
+切换至{0}一页技能面板\n\n快捷键:{1}	Mude para o menu de habilidade {0}.\n\nTecla de atalho: {1}
 上	Acima
 下	Baixo
 兽	Besta
@@ -3158,12 +3158,12 @@ Trap编辑。	Trap Edit.
 {0:f0}秒	{0:f0} Sec
 剩余时间:{0}天{1}时{2}分{3}秒	Dias restantes: {0}d {1}h {2}min {3}sec
 \n灵气：{0:N0}({1:N0})	\nQi: {0:N0} ({1:N0})
-\n削减最大灵气：{0:N0}({1:N0})	\nReduce Max Qi: {0:N0}({1:N0})
+\n削减最大灵气：{0:N0}({1:N0})	\nReduza o Qi Max: {0:N0}({1:N0})
 \n寿元：{0:N0}({1:N0})	\nVida útil: {0:N0} ({1:N0})
 \n信仰：{0:N0}({1:N0})	\nCrenças: {0:N0}({1:N0})
 \n修为：{0:N0}({1:N0})	\nExperiência: {0:N0} ({1:N0})
 神民:{0}\n{1}	Moradores Divinos: {0}\n{1}
-道行:{0}\n{1}	Attainment: {0}\n{1}
+道行:{0}\n{1}	Atendimento: {0}\n{1}
 未保存的编辑将丢失，是否继续新建地图？	A edição não salva será perdida. Continuar a criar um novo mapa?
 地图尺寸：{0}	Map Size: {0}
 还未设置角色出生点，地图信息基础未完善，请在'地图编辑-坐标点-角色出生点'中设置合适的角色出生点	O ponto de spawn do personagem não foi definido. As informações básicas do mapa estão incompletas. Por favor, defina um ponto de spawn de personagem adequado em Map Edit—Coordinates—Character Spawn Point.
@@ -3794,12 +3794,12 @@ Trap编辑。	Trap Edit.
 {0}\n已失去	{0}\nLost
 {2}\n灵气:{0:N0}/{1:N0}	{2}\nQi: {0:N0}/{1:N0}
 {0}的尸体	{0}'s Corpse
-等待物品:\n	Awaiting Item:\n
+等待物品:\n	Aguardando item:\n
 搬运中	Being transported
-{0} 搬运中\n	{0} is being transported\n
-[color=#FF0000]工作位被阻挡[/color]\n	[color=#FF0000]Working area is blocked.[/color]\n
-无合适材料	There is no suitable material.
-法宝:{0}件	Artifacts: {0}
+{0} 搬运中\n	{0} está sendo transportado\n
+[color=#FF0000]工作位被阻挡[/color]\n	[color=#FF0000]A área de trabalho está bloqueada.[/color]\n
+无合适材料	Não há material adequado.
+法宝:{0}件	Artefatos: {0}
 (休眠)	(Dormant)
 {1}{0:N2}/天	{1} {0:N2}/d
 {9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	{9}: {10:N2}%\nBless Tendency: {8} {0:N2}/d\nNurture: {1}\nWeather: {2}\nSeason: {3}\nFive Element: {4}\nSympathy: {5}\n\nStatus: {6}\n　{7}\n
@@ -3877,7 +3877,7 @@ Lua回调类名	Lua Callback Class Name
 通行权	Acesso
 寻求门派的求援	Peça ajuda da seita
 交易后，可自由进出此门派所有地点。好感度越高，售价越低。如好感度跌到一般以下，将取消通行权。	Após a negociação, o personagem pode entrar e sair livremente de todos os locais desta seita. Quanto maior o favor, menor o preço. Se o favor for menor que o normal, nenhum acesso será concedido.
-<font color=#9e6404>此功法已收录至藏经阁</font>	<font color=#9e6404>This Law has been placed in the Manual Pavilion.</font>
+<font color=#9e6404>此功法已收录至藏经阁</font>	<font color=#9e6404>Esta Lei foi colocada no Pavilhão Manual.</font>
 外门弟子	Discipulos Externos
 {0}弟子	{0} Discipulos
 {0}({1}阶)\n{2}	{0} (Tier {1}) \n{2}
@@ -3914,11 +3914,11 @@ Lua回调类名	Lua Callback Class Name
 过	Passar.
 最后一轮竞拍	A última rodada!
 第{0}轮竞拍	Round {0}
-竞拍品:[{0}]	Auction Item: [{0}]
-【{0}】出价[{1}]	[{0}] bid [{1}].
+竞拍品:[{0}]	Item de Leilão: [{0}]
+【{0}】出价[{1}]	[{0}] oferta [{1}].
 我	I
 【{0}】放弃了	[{0}] desistiu.
-恭喜{0}以价格{1}赢得本次竞拍！	Congratulate {0} for bidding {1} to win this auction item!
+恭喜{0}以价格{1}赢得本次竞拍！	Parabenize {0} pelo lance {1} para ganhar este item de leilão!
 【{0}】赢得竞拍	[{0}] ganhou o item do leilão.
 此物品流拍！	Este item não teve nenhum comprador!
 流拍	Failed Auction
@@ -3928,15 +3928,15 @@ Lua回调类名	Lua Callback Class Name
 选择阵枢人选	Selecione um personagem para ser o pilar.
 [color=#FF0000]无阵枢[/color]	[color=#FF0000]No Pillar[/color]
 未使用配置	Configuração não usada
-此间房屋中，[color=#ff0000]床铺风水[/color]出了问题。房屋主人终日被噩梦缠身，请尝试调整床铺风水，使之化凶为吉。	There is a Feng Shui issue with the [color=#ff0000]bed[/color] in this room. The owner has been bound by a nightmare for an entire day. Try to adjust the bed's Feng Shui to help him.
+此间房屋中，[color=#ff0000]床铺风水[/color]出了问题。房屋主人终日被噩梦缠身，请尝试调整床铺风水，使之化凶为吉。	Há um problema de Feng Shui com a [cor=#ff0000]cama[/cor] neste quarto. O proprietário está preso a um pesadelo há um dia inteiro. Tente ajustar o Feng Shui da cama para ajudá-lo.
 所谓风水，指的是目标建筑五行属性，与所在位置五行分布的融洽关系。\n例如：[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]水属性[/color]的环境中，就会因[color=#ff0000]水克火[/color]的原因而风水不好。\n[color=#ff0000]火属性[/color]的建筑在[color=#ff0000]木属性[/color]的环境中，因[color=#ff0000]木生火[/color]之故，风水就会很棒。\n在屏幕左上角可以随时查看五行生克关系。	Feng Shui refere-se ao elemento de um edifício e ao equilíbrio harmônico dos cinco elementos do local.\nPor exemplo: [color=#ff0000]Construções do elemento fogo[/color] e [color=#ff0000]Construções do elemento Água[/color] terão péssimo Feng Shui já que [color=#ff0000]A água apaga o fogo[/color].\n[color=#ff0000]Construções do elemento fogo[/color] e [color=#ff0000]elemento madeira[/color] no ambiente terão um ótimo Feng Shui já que [color=#ff0000]A madeira alimenta o fogo[/color].\nVocê pode visualizar como os cinco elementos interagem entre si a qualquer momento no canto superior esquerdo.
-你可以通过屏幕左上角的太极图来进入风水视图，在风水试图下，屏幕中央的五边形即为鼠标所在位置的五行分布。	You can enter Feng Shui View via the Taiji icon in the top-left corner. When using Feng Shui View, pointing your cursor at anything will display a five elements layout of the area.
-[color=#ff0000]装饰性建筑[/color]/[color=#ff0000]地板[/color]/[color=#ff0000]墙壁[/color]根据其主材料不同可以改变附近的五行分布，请尝试使用合适的材料去改换床铺附近的建筑，使之风水化凶为吉。	Depending on the material used for [color=#ff0000]Decorations[/color]/[color=#ff0000]Floor[/color]/[color=#ff0000]Walls[/color], you can change the vicinity's five element flow. Try using more appropriate material and change the constructions near the bed in order to improve the Feng Shui.
+你可以通过屏幕左上角的太极图来进入风水视图，在风水试图下，屏幕中央的五边形即为鼠标所在位置的五行分布。	Você pode entrar no Feng Shui View através do ícone Taiji no canto superior esquerdo.Ao usar o Feng Shui View, apontar o cursor para qualquer coisa exibirá um layout de cinco elementos da área.
+[color=#ff0000]装饰性建筑[/color]/[color=#ff0000]地板[/color]/[color=#ff0000]墙壁[/color]根据其主材料不同可以改变附近的五行分布，请尝试使用合适的材料去改换床铺附近的建筑，使之风水化凶为吉。	Dependendo do material usado para [color=#ff0000]Decorações[/color]/[color=#ff0000]Piso[/color]/[color=#ff0000]Paredes[/color], você pode alterar o fluxo de cinco elementos da vizinhança Procure usar materiais mais apropriados e mude as construções próximas à cama para melhorar o Feng Shui.
 一座深山中的大宅因风水不好而频发怪事，请尝试改善大宅中的四个房间的风水，使之化凶为吉。\n可以点击房间中的空地来选中房间。	Devido ao seu mau Feng Shui, incidentes estranhos geralmente ocorrem em uma mansão nas profundezas das montanhas. Tente melhorar o Feng Shui das quatro salas.\nClique em um espaço vazio em uma sala para selecioná-lo.
-房间风水与房内风水建筑的风水有关，此外还因使房间[color=#ff0000]布局[/color]处于恰当状态，无论拥挤或空旷都会影响房间风水。	A room's Feng Shui is affected by the facilities in it, as well as its [color=#ff0000]layout[/color]. That is to say, whether a room is cramped or spacious also affects its Feng Shui.
+房间风水与房内风水建筑的风水有关，此外还因使房间[color=#ff0000]布局[/color]处于恰当状态，无论拥挤或空旷都会影响房间风水。	O Feng Shui de uma sala é afetado pelas instalações nela, bem como por seu [color=#ff0000]layout[/cor], ou seja, se uma sala é apertada ou espaçosa também afeta seu Feng Shui.
 恭喜你完成挑战！您可以回到主菜单选择其他内容或者继续游戏。	Parabéns! Você completou o desafio! Volte ao menu principal e escolha outra coisa ou continue jogando.
-由{0}一手创建的修行门派，自成立以来，便如异军突起，短短数年便成就宗师气象，于修行界占据一席之地，留下赫赫威名。	A practice sect established by {0}. It has gained much power since its emergence and even though it has only been active for a few years, others view him as a master. He has made a place for himself in the realm of practice and is now famous.
-江湖名门{0}所处之地，原本只是一座无人问津的荒山，但所谓山不在高，有仙则灵。此地经过{0}几代弟子数百年发展，早已成为仙家洞天福地。	The renown sect {0}'s homeland. Originally, the location was but a barren mountain range. The mountains weren't towering, but within them dwelled immortals. After {0} generations and hundreds of years, it has now become a paradise.
+由{0}一手创建的修行门派，自成立以来，便如异军突起，短短数年便成就宗师气象，于修行界占据一席之地，留下赫赫威名。	Uma seita prática estabelecida por {0}. Ela ganhou muito poder desde o seu surgimento e, embora esteja ativa há apenas alguns anos, outros o veem como um mestre. Ele conquistou um lugar para si mesmo no reino da prática e agora é famoso.
+江湖名门{0}所处之地，原本只是一座无人问津的荒山，但所谓山不在高，有仙则灵。此地经过{0}几代弟子数百年发展，早已成为仙家洞天福地。	A pátria da renomada seita {0}. Originalmente, o local era apenas uma cordilheira estéril. As montanhas não eram altas, mas dentro delas habitavam imortais. Depois de {0} gerações e centenas de anos, agora se tornou um paraíso .
 抱歉，因为某种异常的原因系统忘记了您老门派的名字，需要您重新告诉我们。谢谢。	Desculpe, devido a algum erro do sistema, seu antigo nome de seita foi esquecido. Por favor, lembre-nos o que era.
 老门派	Seita Antiga
 神秘大能	Poder Misterioso
@@ -3949,10 +3949,10 @@ Lua回调类名	Lua Callback Class Name
 春去冬来，草长莺飞。数年后……	Alguns anos depois...
 观察四周	Observe os arredores
 {0}:{1} 需求:{2}\n	{0}:{1} Requires: {2}\n
-\n分类需求:	\nRequires:
+\n分类需求:	\nRequer:
 世界运转	The World Revolves
 周天神算	Universal Foresight
-{0}可能会发生事件:\n[color=#D06508]{1}[/color]	{0} Possible events:\n[color=#D06508]{1}[/color]
+{0}可能会发生事件:\n[color=#D06508]{1}[/color]	{0} Possíveis eventos:\n[color=#D06508]{1}[/color]
 神秘杀手	Mysterious Assassin
 信鸽信息	Carrier Pigeon Message
 历练故事	História de aventura
@@ -3967,10 +3967,10 @@ Lua回调类名	Lua Callback Class Name
 失败结果	Resultados da falha
 {0}执行 选项{1} 的 {2} 结果时报错\n	Result error when executing {0} option {1}'s {2}.\n
 天下数据	World Data
-一个新的地点被发现：{0}	A new location has been discovered: {0}
+一个新的地点被发现：{0}	Um novo local foi descoberto: {0}
 灾难事件：{0}	Disaster Events: {0}
-代理事件：{0}（可收集:{1}）	Agency Events: {0} (Collectable: {1})
-代理事件：{0}	Agency Events: {0}
+代理事件：{0}（可收集:{1}）	Eventos de Agência: {0} (Collectable: {1})
+代理事件：{0}	Eventos de Agência: {0}
 秘闻：{0}	Secrets: {0}
 {0}来到此地，发现了多件事情的踪迹。于是决定去处理其中一件事情。	{0} veio aqui e encontrou vestígios de muitos incidentes. Então eles decidiram se concentrar em gerenciar um deles.
 事件选择	Select Event
