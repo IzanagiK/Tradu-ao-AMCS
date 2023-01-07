@@ -1,9 +1,9 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="OutSpread_Start">
-			<DisplayName>Rebuild the Agency's Power.</DisplayName>
-			<Desc>Everyone here used to worship the Taiyi Sect, now none do.</Desc>
-			<Selections.0.Display>Ask why</Selections.0.Display>
+			<DisplayName>Reconstruir o poder da Agência.</DisplayName>
+			<Desc>Todos aqui costumavam adorar a seita Taiyi, agora ninguém mais.</Desc>
+			<Selections.0.Display>Pergunte por que</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Accelerate">
 			<DisplayName>Manual Labor</DisplayName>
@@ -11,38 +11,38 @@
 			<Selections.0.Display>Check results</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_TreasureHunt">
-			<DisplayName>Treasure Hunt</DisplayName>
-			<Desc>[NAME] hunted for treasure.</Desc>
-			<Selections.0.Display>Check results</Selections.0.Display>
+			<DisplayName>Caça ao tesouro</DisplayName>
+			<Desc>[NAME] caçado em busca de tesouros.</Desc>
+			<Selections.0.Display>Veja os resultados</Selections.0.Display>
 		</Text>
 		<Text Name="Outs1">
-			<DisplayName>En route</DisplayName>
-			<Desc>[NAME] was robbed.</Desc>
-			<Selections.0.Display>Gift them Spiritstones</Selections.0.Display>
-			<Selections.1.Display>Persuade</Selections.1.Display>
+			<DisplayName>A caminho</DisplayName>
+			<Desc>[NAME] foi roubado.</Desc>
+			<Selections.0.Display>Dê-lhes Spiritstones</Selections.0.Display>
+			<Selections.1.Display>Persuadir</Selections.1.Display>
 		</Text>
 		<Text Name="Outs2">
-			<DisplayName>En route</DisplayName>
-			<Desc>[NAME] encountered some refugees. What a shame, they've no home to return to.</Desc>
-			<Selections.0.Display>Gift them Spiritstones</Selections.0.Display>
-			<Selections.1.Display>Persuade</Selections.1.Display>
+			<DisplayName>A caminho</DisplayName>
+			<Desc>[NAME] encontrou alguns refugiados. Que pena, eles não têm casa para onde voltar.</Desc>
+			<Selections.0.Display>Dê-lhes Spiritstones</Selections.0.Display>
+			<Selections.1.Display>Persuadir</Selections.1.Display>
 		</Text>
 		<Text Name="Outs3">
-			<DisplayName>En route</DisplayName>
-			<Desc>[NAME] encountered some farmers being bullied by several individual cultivators.</Desc>
-			<Selections.0.Display>Gift them Spiritstones</Selections.0.Display>
-			<Selections.1.Display>Persuade</Selections.1.Display>
-			<Selections.2.Display>Pretend not to have seen a thing</Selections.2.Display>
+			<DisplayName>A caminho</DisplayName>
+			<Desc>[NAME] encontrou alguns agricultores sendo intimidados por vários cultivadores individuais.</Desc>
+			<Selections.0.Display>Dê-lhes Spiritstones</Selections.0.Display>
+			<Selections.1.Display>Persuadir</Selections.1.Display>
+			<Selections.2.Display>Finja que não viu nada</Selections.2.Display>
 		</Text>
 		<Text Name="CollectFaith">
-			<DisplayName>Gather Belief</DisplayName>
-			<Desc>There are believers here, we can gather belief.</Desc>
-			<Selections.0.Display>Acquisition</Selections.0.Display>
+			<DisplayName>Reúna a crença</DisplayName>
+			<Desc>Existem crentes aqui, podemos reunir crenças.</Desc>
+			<Selections.0.Display>Aquisição</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_GoodMood">
-			<DisplayName>Green Pagoda</DisplayName>
-			<Desc>Disciples can enjoy themselves at the Green Pagoda.</Desc>
-			<Selections.0.Display>Leisure</Selections.0.Display>
+			<DisplayName>Pagode Verde</DisplayName>
+			<Desc>Os discípulos podem divertir-se no Pagode Verde.</Desc>
+			<Selections.0.Display>Lazer</Selections.0.Display>
 		</Text>
 	</List>
 </Texts>
