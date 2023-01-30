@@ -1,76 +1,76 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Secrets_BadFight1">
-			<DisplayName>Traces of Evil Sect</DisplayName>
-			<Desc>[NAME] found traces of activity left by some disciple from an evil sect near [PLACE].</Desc>
-			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.0.Tip>Qi Shaping</Selections.0.Tip>
-			<Selections.1.Display>Stop them</Selections.1.Display>
-			<Selections.1.Tip>Qi Shaping</Selections.1.Tip>
-			<Selections.2.Display>Ignore</Selections.2.Display>
+			<DisplayName>Traços da seita maligna</DisplayName>
+			<Desc>[NAME] encontraram vestígios de atividade deixados por algum discípulo de uma seita do mal perto de [PLACE].</Desc>
+			<Selections.0.Display>Ajudar</Selections.0.Display>
+			<Selections.0.Tip>Modelagem de Qi</Selections.0.Tip>
+			<Selections.1.Display>Pare eles</Selections.1.Display>
+			<Selections.1.Tip>Modelagem de Qi</Selections.1.Tip>
+			<Selections.2.Display>Ignorar</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_BadFight2">
-			<DisplayName>Traces of Evil Sect</DisplayName>
-			<Desc>[NAME] found traces of activity left by some disciple from an evil sect near [PLACE].</Desc>
-			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.0.Tip>Core Shaping</Selections.0.Tip>
-			<Selections.1.Display>Stop them</Selections.1.Display>
-			<Selections.1.Tip>Core Shaping</Selections.1.Tip>
-			<Selections.2.Display>Ignore</Selections.2.Display>
+			<DisplayName>Traços da seita maligna</DisplayName>
+			<Desc>[NAME] encontraram vestígios de atividade deixados por algum discípulo de uma seita do mal perto de [PLACE].</Desc>
+			<Selections.0.Display>Ajudar</Selections.0.Display>
+			<Selections.0.Tip>Modelagem de Núcleo</Selections.0.Tip>
+			<Selections.1.Display>Pare eles</Selections.1.Display>
+			<Selections.1.Tip>Modelagem de Núcleo</Selections.1.Tip>
+			<Selections.2.Display>Ignorar</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_BadFight3">
-			<DisplayName>Traces of Evil Sect</DisplayName>
-			<Desc>[NAME] found traces of activity left by some elder from an evil sect near [PLACE].</Desc>
-			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.0.Tip>Golden Core</Selections.0.Tip>
-			<Selections.1.Display>Stop them</Selections.1.Display>
-			<Selections.1.Tip>Golden Core</Selections.1.Tip>
-			<Selections.2.Display>Ignore</Selections.2.Display>
+			<DisplayName>Traços da seita maligna</DisplayName>
+			<Desc>[NAME] encontraram vestígios de atividade deixados por algum discípulo de uma seita do mal perto de [PLACE].</Desc>
+			<Selections.0.Display>Ajudar</Selections.0.Display>
+			<Selections.0.Tip>Núcleo Dourado</Selections.0.Tip>
+			<Selections.1.Display>Pare eles</Selections.1.Display>
+			<Selections.1.Tip>Núcleo Dourado</Selections.1.Tip>
+			<Selections.2.Display>Ignorar</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GoodFight1">
-			<DisplayName>Traces of Just Sect</DisplayName>
-			<Desc>[NAME] found traces of activity left by some disciple from a just sect near [PLACE].</Desc>
-			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.1.Display>Sneak Attack</Selections.1.Display>
-			<Selections.1.Tip>Qi Shaping</Selections.1.Tip>
-			<Selections.2.Display>Ignore</Selections.2.Display>
+			<DisplayName>Traços de uma Seita Justa</DisplayName>
+			<Desc>[NAME] encontraram vestígios de atividade deixados por algum discípulo de uma seita justa perto de [PLACE].</Desc>
+			<Selections.0.Display>Ajudar</Selections.0.Display>
+			<Selections.1.Display>ataque furtivo</Selections.1.Display>
+			<Selections.1.Tip>Modelagem de Qi</Selections.1.Tip>
+			<Selections.2.Display>Ignorar</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GoodFight2">
-			<DisplayName>Traces of Just Sect</DisplayName>
-			<Desc>[NAME] found traces of activity left by some disciple from a just sect near [PLACE].</Desc>
-			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.1.Display>Sneak Attack</Selections.1.Display>
-			<Selections.1.Tip>Core Shaping</Selections.1.Tip>
-			<Selections.2.Display>Ignore</Selections.2.Display>
+			<DisplayName>Traços de uma Seita Justa</DisplayName>
+			<Desc>[NAME] encontraram vestígios de atividade deixados por algum discípulo de uma seita justa perto de [PLACE].</Desc>
+			<Selections.0.Display>Ajudar</Selections.0.Display>
+			<Selections.1.Display>ataque furtivo</Selections.1.Display>
+			<Selections.1.Tip>Modelagem de Núcleo</Selections.1.Tip>
+			<Selections.2.Display>Ignorar</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GoodFight3">
-			<DisplayName>Traces of Just Sect</DisplayName>
-			<Desc>[NAME] found traces of activity left by some elder from a just sect near [PLACE].</Desc>
-			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.1.Display>Sneak Attack</Selections.1.Display>
-			<Selections.1.Tip>Golden Core</Selections.1.Tip>
-			<Selections.2.Display>Ignore</Selections.2.Display>
+			<DisplayName>Traços de uma Seita Justa</DisplayName>
+			<Desc>[NAME] encontraram vestígios de atividade deixados por algum ancião de uma seita justa perto de [PLACE].</Desc>
+			<Selections.0.Display>Ajudar</Selections.0.Display>
+			<Selections.1.Display>ataque furtivo</Selections.1.Display>
+			<Selections.1.Tip>Núcleo Dourado</Selections.1.Tip>
+			<Selections.2.Display>Ignorar</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear1">
 			<DisplayName>Treasure Unearthed</DisplayName>
 			<Desc>[NAME] found a treasure about to be unearthed in [PLACE].</Desc>
 			<Selections.0.Display>Fight for it</Selections.0.Display>
-			<Selections.0.Tip>Qi Shaping</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.0.Tip>Modelagem de Qi</Selections.0.Tip>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear2">
 			<DisplayName>Treasure Unearthed</DisplayName>
 			<Desc>[NAME] found a treasure about to be unearthed in [PLACE].</Desc>
 			<Selections.0.Display>Fight for it</Selections.0.Display>
-			<Selections.0.Tip>Core Shaping</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.0.Tip>Modelagem de Núcleo</Selections.0.Tip>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear3">
 			<DisplayName>Treasure Unearthed</DisplayName>
 			<Desc>[NAME] found a treasure about to be unearthed in [PLACE].</Desc>
 			<Selections.0.Display>Fight for it</Selections.0.Display>
 			<Selections.0.Tip>Golden Core</Selections.0.Tip>
-			<Selections.1.Display>Ignore</Selections.1.Display>
+			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear3_Cold">
 			<DisplayName>Treasure Unearthed</DisplayName>
