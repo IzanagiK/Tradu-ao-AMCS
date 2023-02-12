@@ -108,7 +108,7 @@
 		</Text>
 		<Text Name="Item_StoneBox1" sParam="Item">
 			<ThingName>Stone Casket</ThingName>
-			<Desc>A stone casket obtained by a hunter named Zhang Erwa from the Nanping Village. It is of a strange quality and invulnerable to water and fire.</Desc>
+			<Desc>Um caixão de pedra obtido por um caçador chamado Zhang Erwa da vila de Nanping. É de uma qualidade estranha e invulnerável à água e ao fogo.</Desc>
 			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente abrir este caixão</StoryBnts.0.Desc>
@@ -225,7 +225,7 @@
 		</Text>
 		<Text Name="Item_AuctionPaper" sParam="Item">
 			<ThingName>Auction Invitation</ThingName>
-			<Desc>Invitation letter to an auction held by Ye Xuan.</Desc>
+			<Desc>Carta de convite para um leilão realizado por Ye Xuan.</Desc>
 			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspecione este item.</StoryBnts.0.Desc>
 		</Text>

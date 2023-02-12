@@ -1,159 +1,159 @@
 ﻿<Helps>
 	<List>
 		<Help Name="Long" Type="Icon" Def="Boss_Long">
-			<Title>Flood Dragon</Title>
+			<Title>Dragão da Inundação</Title>
 			<Icon>ui/Other/bosstujian3</Icon>
 		</Help>
 		<Help Name="Long_P1" Root="Long" Type="Content">
-			<Title>Awoken</Title>
+			<Title>Acordado</Title>
 			<Text><![CDATA[
-[color=#9e6404]Eruption: [/color]
-				Flood Dragon causes eruption of underground water veins, dealing damage to target and turning the area into shallow water.
-[color=#9e6404]Equable Charge: [/color]
-				Flood Dragon draws power from ancient water and summons thunder strikes to deal damage to target.
-[color=#9e6404]Call of the Herd: [/color]
-				Uses dragon might to force nearby animals to attack.
-[color=#9e6404]Water Compaction: [/color]
-				If Flood Dragon's Qi drops to 75% or less, it will absorb all water and steam from the location to stack the Power of Water Spirit and transform into True Dragon.]]></Text>
+[color=#9e6404]Erupção: [/color]
+				Dragão da Inundação causa a erupção de veias subterrâneas, causando dano ao alvo e transformando a área em águas rasas.
+[color=#9e6404]Carga uniforme: [/color]
+				O Dragão da Inundação extrai poder da água antiga e invoca ataques de trovão para causar dano ao alvo.
+[color=#9e6404]Chamado do rebanho: [/color]
+				Usa poder de dragão para forçar animais próximos a atacar.
+[color=#9e6404]Compactação de água: [/color]
+				Se o Qi do Dragão da Inundação cair para 75% ou menos, ele absorverá toda a água e vapor do local para empilhar o Power of Water Spirit e se transformar em True Dragon.]]></Text>
 		</Help>
 		<Help Name="Long_P2" Root="Long" Type="Content">
-			<Title>True Dragon</Title>
+			<Title>Dragão Verdadeiro</Title>
 			<Text><![CDATA[
-[color=#9e6404]Eruption: [/color]
-				Flood Dragon causes eruption of underground water veins, dealing damage to target and turning the area into shallow water.
-[color=#9e6404]Equable Charge: [/color]
-				Flood Dragon draws power from ancient water and summons thunder strikes to deal damage to multiple targets.
-[color=#9e6404]Dragon's Inhalation: [/color]
-				Flood Dragon breathes in deeply to accelerate the water consumption of all enemies in the map and stack the Power of Water Spirit for itself.
-[color=#9e6404]Countercharge: [/color]
-				Flood Dragon marks a character for a period of time, after which the character's artifact will countercharge with half of its max Qi, dealing great damage to all characters within 5 space of the marked unit. If Flood Dragon is counteractive with the artifact's element, the effect will double. Otherwise, it will be reduced to half.
-[color=#9e6404]Call of the Herd: [/color]
-				Uses dragon might to force nearby animals to attack.
-[color=#9e6404]Sanguine Absorption: [/color]
-				Flood Dragon refines all corpses in the area for recovery and to stack the Power of Water Spirit.]]></Text>
+[color=#9e6404]Erupção: [/color]
+				Dragão da Inundação causa a erupção de veias subterrâneas, causando dano ao alvo e transformando a área em águas rasas.
+[color=#9e6404]Carga uniforme: [/color]
+				O Dragão da Inundação extrai energia da água antiga e invoca ataques de trovão para causar dano a vários alvos.
+[color=#9e6404]Inalação do Dragão: [/color]
+				O Dragão da Inundação respira fundo para acelerar o consumo de água de todos os inimigos no mapa e acumular o Poder do Espírito da Água para si.
+[color=#9e6404]Contracarga: [/color]
+				O Dragão da Inundação marca um personagem por um período de tempo, após o qual o artefato do personagem irá contra-atacar com metade de seu Qi máximo, causando grande dano a todos os personagens dentro de 5 espaços da unidade marcada. Se o Dragão da Inundação for neutralizado com o elemento do artefato, o efeito será dobrado. Caso contrário, será reduzido à metade.
+[color=#9e6404]Chamado do rebanho: [/color]
+				Usa poder de dragão para forçar animais próximos a atacar.
+[color=#9e6404]Absorção sanguínea: [/color]
+				O Dragão da Inundação refina todos os cadáveres na área para recuperação e acúmulo do Poder do Espírito da Água.]]></Text>
 		</Help>
 		<Help Name="Long_Secret" Root="Long" Type="Content">
-			<Title>Secrets</Title>
+			<Title>Segredos</Title>
 			<Text><![CDATA[
-[color=#9e6404]Water Form: [/color]
-				Flood Dragon is of Water element, more susceptible to Earth damage, less to Water damage and even less to Fire damage. Metal damage will be absorbed.
-[color=#9e6404]Dragon Wrath: [/color]
-				If the rainstorm is dissipated, Flood Dragon will consume a great amount of Power of Water Spirit to enter a state of fury, causing an increase in all stats for 120 sec.
-				After Dragon Wrath, Flood Dragon will resummon a rainstorm and deal great damage to the character that dissipated the previous rainstorm. If Flood Dragon is counteractive with the character's stats, the effect will double. Otherwise, it will be reduced to half.
-[color=#9e6404]Cold Prison: [/color]
-				If one part of Flood Dragon's body is destroyed, it will exhale a freezing cold breath toward the location of the character that destroyed the part. Affected by the breath, the area will remain extremely cold for months.
-[color=#9e6404]Inundated Land: [/color]
-				When the Power of Water Spirit reaches 100 stacks, Flood Dragon will use the destructive power to eliminate all creatures within its attack range and turn the whole area into water.
-[color=#9e6404]True Dragon's Claw: [/color]
-				In True Dragon's form, Flood Dragon's claw will be shielded by the power of True Dragon and become indestructible.
-[color=#9e6404]Dragon Barrier: [/color]
-				Flood Dragon is born with a protection barrier that keeps its body parts from being destroyed. Only when it is in rage mode, its protection barrier will focus on its core and the other parts will weaken.
-[color=#9e6404]Dragon's Prismatic Scale: [/color]
-				Flood Dragon will show its Prismatic Scale only after releasing Dragon Wrath for three times.]]></Text>
+[color=#9e6404]Forma de água: [/color]
+				O Dragão da Inundação é do elemento Água, mais suscetível a danos de Terra, menos a danos de Água e menos ainda a danos de Fogo. Danos de metal serão absorvidos.
+[color=#9e6404]Ira do Dragão: [/color]
+				Se a tempestade for dissipada, o Dragão da Inundação consumirá uma grande quantidade de Poder do Espírito da Água para entrar em estado de fúria, causando um aumento em todas as estatísticas por 120 seg.
+				Após o Dragon Wrath, o Dragão da Inundação irá recomeçar uma tempestade e causar grandes danos ao personagem que dissipou a tempestade anterior. Se o Dragão da Inundação for neutralizado com as estatísticas do personagem, o efeito será dobrado. Caso contrário, será reduzido à metade.
+[color=#9e6404]Prisão Fria: [/color]
+				Se uma parte do corpo do Dragão da Inundação for destruída, ele exalará uma respiração gelada em direção ao local do personagem que destruiu a parte. Afetada pela respiração, a área permanecerá extremamente fria por meses.
+[color=#9e6404]Terra inundada: [/color]
+				Quando o Poder do Espírito da Água atingir 100 acúmulos, o Dragão da Inundação usará o poder destrutivo para eliminar todas as criaturas dentro de seu alcance de ataque e transformar toda a área em água.
+[color=#9e6404]Verdadeira Garra do Dragão: [/color]
+				Na forma do True Dragon, a garra do Dragão da Inundação será protegida pelo poder do True Dragon e se tornará indestrutível.
+[color=#9e6404]Barreira do Dragão: [/color]
+				O Dragão da Inundação nasce com uma barreira de proteção que impede que partes de seu corpo sejam destruídas. Somente quando estiver no modo de fúria, sua barreira de proteção se concentrará em seu núcleo e as outras partes enfraquecerão.
+[color=#9e6404]Escala Prismática do Dragão: [/color]
+				O Dragão da Inundação mostrará sua Escala Prismática somente após liberar Dragon Wrath por três vezes.]]></Text>
 		</Help>
 		<Help Name="Feng" Type="Icon" Def="Boss_Feng">
-			<Title>Phoenix</Title>
+			<Title>Fénix</Title>
 			<Icon>ui/Other/bosstujian2</Icon>
 		</Help>
 		<Help Name="Feng_P1" Root="Feng" Type="Content">
 			<Title>Firestruck</Title>
 			<Text><![CDATA[
-[color=#9e6404]Iridescent Flame: [/color]
-				Phoenix blows blazing flames, continuously dealing damage to target with a chance of lighting up nearby ground.
-[color=#9e6404]Fuse: [/color]
-				Phoenix marks a character for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If Phoenix is counteractive with the marked character's stats, damage increases by 200%.
-[color=#9e6404]Firekeeper: [/color]
-				Phoenix breathes in deeply to absorb all fire in the location, recovering Qi and gaining the Power of Fire Spirit based on the amount of absorbed fire.
-[color=#9e6404]Fire Eruption: [/color]
-				When the Power of Fire Spirit reaches 100 stacks, Phoenix will enter the Inferno form and risk its life to release 16 Feathers of Fire Spirit for attack.]]></Text>
+[color=#9e6404]Chama Iridescente: [/color]
+				Fénix sopra chamas ardentes, causando dano contínuo ao alvo com chance de iluminar o solo próximo.
+[color=#9e6404]Fusível: [/color]
+				Fénix marca um personagem por um período de tempo, e quando termina, causa um dano enorme na área dentro de 2 espaços do personagem, distribuído igualmente para todas as criaturas na área. Se Fénix for contra-atacado com as estatísticas do personagem marcado, o dano aumenta em 200%.
+[color=#9e6404]Bombeiro: [/color]
+				Fénix respira profundamente para absorver todo o fogo no local, recuperando o Qi e ganhando o Poder do Espírito do Fogo com base na quantidade de fogo absorvido.
+[color=#9e6404]Erupção de fogo: [/color]
+				Quando o Poder do Espírito do Fogo atingir 100 acúmulos, a Fênix entrará na forma Inferno e arriscará sua vida para liberar 16 Penas do Espírito do Fogo para o ataque.]]></Text>
 		</Help>
 		<Help Name="Feng_P2" Root="Feng" Type="Content">
-			<Title>Inferno Form</Title>
+			<Title>Forma Inferno</Title>
 			<Text><![CDATA[
 [color=#9e6404]Inferno Hold[/color]
-				Phoenix continues to consume the Power of Fire Spirit to maintain its Inferno form. When all Power of Fire Spirit is consumed, Phoenix will return to its original form and try to retrieve Feathers of Fire Spirit, each of which helps to recover 10% of its Qi.
-[color=#9e6404]Inferno Breath[/color]
-				Phoenix blows out flames in an arc, dealing damage to characters in the area with a chance of lighting up the ground.
-[color=#9e6404]Flame Fuse: [/color]
-				Phoenix marks all Metal cultivators for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If Phoenix is counteractive with the marked character's stats, damage increases by 200%. If there is no Metal cultivator, it will mark a random character to release Flame Fuse upon.
-[color=#9e6404]Firekeeper: [/color]
-				Phoenix breathes in deeply to absorb all fire in the location, recovering Qi and gaining the Power of Fire Spirit based on the amount of absorbed fire.
-[color=#9e6404]Sun Crystal: [/color]
-				Phoenix risks its life to release the essence of fire, raising the temperature of the whole area in an attempt to burn the place to ashes.]]></Text>
+				Fénix continua a consumir o Espírito do Poder do Fogo para manter a sua forma Inferno. Quando todo o Poder do Espírito do Fogo for consumido, Fénix retornará à sua forma original e tentará recuperar as Penas do Espírito do Fogo, cada uma das quais ajuda a recuperar 10% do seu Qi.
+[color=#9e6404]Bafo Infernal[/color]
+				Fénix sopra as chamas em um arco, causando dano aos personagens na área com chance de iluminar o chão.
+[color=#9e6404]Fusível da Chama: [/color]
+				Fénix marca todos os cultivadores de Metal por um período de tempo e, quando termina, causa um dano enorme na área a até 2 espaços do personagem, distribuído uniformemente para todas as criaturas na área. Se Fénix for contra-atacado com as estatísticas do personagem marcado, o dano aumenta em 200%. Se não houver um cultivador de metal, ele marcará um personagem aleatório para liberar o Flame Fuse.
+[color=#9e6404]Bombeiro: [/color]
+				Fénix inspira profundamente para absorver todo o fogo do local, recuperando o Qi e ganhando o Poder do Espírito do Fogo com base na quantidade de fogo absorvido.
+[color=#9e6404]Cristal do Sol: [/color]
+				Fénix arrisca a vida para libertar a essência do fogo, elevando a temperatura de toda a área na tentativa de reduzir a cinzas o local.]]></Text>
 		</Help>
 		<Help Name="Feng_Secret" Root="Feng" Type="Content">
-			<Title>Secrets</Title>
+			<Title>Segredo</Title>
 			<Text><![CDATA[
-[color=#9e6404]Fire Form: [/color]
-				Phoenix is of Fire element, more susceptible to Water damage, less to Fire damage and even less to Metal damage. Wood damage will be absorbed.
-[color=#9e6404]Enraged Phoenix[/color]
-				When it rains, Phoenix will enter its rage mode and stop all actions to immediately release Firestruck to nearby ground three times in a row. Deals great damage to all enemies in the area. Firestruck targets areas with more Fire and Water element first. Phoenix will immediately release Firekeeper after Enraged Phoenix and then dissipate clouds, maintaining the sunny weather for a period of time.
-[color=#9e6404]Burning Pupil[/color]
-				If one part of Phoenix's body is destroyed, it will focus its power of true fire on releasing Burning Pupil to stare at the character that destroyed the part, dealing increasingly higher damage. And Phoenix's body will weaken for its lack of defense during the attack.
+[color=#9e6404]Forma de fogo: [/color]
+				Fénix é do elemento Fogo, mais suscetível a danos de Água, menos a danos de Fogo e menos ainda a danos de Metal. O dano da madeira será absorvido.
+[color=#9e6404]Fênix enfurecida[/color]
+				Quando chover, Fénix entrará em modo de fúria e interromperá todas as ações para liberar Firestruck imediatamente para o solo próximo três vezes seguidas. Causa grande dano a todos os inimigos na área. Firestruck visa áreas com mais elemento Fogo e Água primeiro. Fénix liberará imediatamente Firekeeper após Enraged Fénix e então dissipará as nuvens, mantendo o tempo ensolarado por um período de tempo.
+[color=#9e6404]Pupilo Ardente[/color]
+				Se uma parte do corpo de Fénix for destruída, ela concentrará seu poder de fogo verdadeiro em liberar o Burning Pupil para encarar o personagem que destruiu a parte, causando dano cada vez maior. E o corpo de Fénix vai enfraquecer pela falta de defesa durante o ataque.
 [color=#9e6404]Nirvana[/color]
-				Dead Phoenix will be transformed into Phoenix Egg and try to absorb Qi within 49 days in order to be reborn. During this period, if the Phoenix Egg exhausts its Qi, the Phoenix will completely die. If it fully recharges its Qi, the Phoenix will be reborn. It will also die if the Egg fails to absorb enough Qi within 49 days.
-[color=#9e6404]Wings of Fire Spirit[/color]
-				In the Firestruck form, Phoenix' wings are protected by Feathers of Fire Spirit and thus nearly indestructible. The wings can only be destroyed after it has released Feathers of Fire Spirit in its Inferno form.
-[color=#9e6404]Sun Crystal: [/color]
-				Phoenix' Sun Crystal is the essence of all of its great power, and only Water artifacts can deal damage to it.]]></Text>
+				Dead Fénix será transformado em Fénix Egg e tentará absorver o Qi em 49 dias para renascer. Durante este período, se o Ovo Fênix esgotar seu Qi, o Fênix morrerá completamente. Se recarregar totalmente o seu Qi, o Fénix renascerá. Ele também morrerá se o ovo não absorver Qi suficiente em 49 dias.
+[color=#9e6404]Asas do Espírito de Fogo[/color]
+				Na forma Firestruck, as asas de Fénix são protegidas por Feathers of Fire Spirit e, portanto, quase indestrutíveis. As asas só podem ser destruídas depois de liberar Feathers of Fire Spirit em sua forma Inferno.
+[color=#9e6404]Cristal do Sol: [/color]
+				O Cristal do Sol de Fênix é a essência de todo o seu grande poder, e somente os artefatos de Água podem causar dano a ele.]]></Text>
 		</Help>
 		<Help Name="ZhuLong" Type="Icon" Def="Boss_ZhuLong">
-			<Title>Torch Dragon</Title>
+			<Title>Dragão Tocha</Title>
 			<Icon>ui/Other/bosstujian1</Icon>
 		</Help>
 		<Help Name="ZhuLong_P1" Root="ZhuLong" Type="Content">
-			<Title>Eternal Day</Title>
+			<Title>Eterno Dia</Title>
 			<Text><![CDATA[
-[color=#9e6404]God of Eternal Day: [/color]
-				Torch Dragon shows up in its Yang form and gains one stack of Solarflare Breath every 6 sec. Solarflare Breath will be transformed to an equal amount of Lunarfrost Breath after form switch.
-[color=#9e6404]Thunder of Impiety: [/color]
-				Torch Dragon unleashes its divine power to call upon Yang thunder filled with hatred to deal damage to target and temporarily increase target's Condemnation by 2. The higher the target's Condemnation, the greater the damage.
-[color=#9e6404]Dragon Breath: [/color]
-				Torch Dragon blows a heavy dragon breath toward one direction, attaching a Benign Dragon Avatar and dealing damage to every enemy touched by the breath. The higher the target's Condemnation, the greater the damage.
-[color=#9e6404]Heavenly Judgement: [/color]
-				Releases upon target with the lowest Condemnation and deals great damage. If target's Condemnation is higher than 50, they will be heavily injured and lose control over their Qi. Uncontrolled Qi will explode, deal damage to targets within 3 space, and eventually be absorbed by Torch Dragon into 20 stacks of Solarflare Breath.
-[color=#9e6404]Karmic Transformation: [/color]
-				When Solarflare Breath reaches 100 stacks, it will unleash the manifestations of karma force and attach Benign Dragon Avatar to all inner disciples.
-[color=#9e6404]Yin Yang Rage: [/color]
-				When Torch Dragon's egg is destroyed, it will disrupt the rule of Yin and Yang, deal damage to all enemies and hatch all Eggs of Yang that have not been suppressed. It will then fly into the air, create three Eggs of Yin and reappear in its Eternal Night form. During the form switch, Torch Dragon will gain 50 stacks of Lunarfrost Breath, and all the debuffs of Condemnation caused by Thunder of Impiety will be cleared.
-[color=#9e6404]Benign Dragon Avatar: [/color]
-				Phantom shadow created by Torch Dragon in its Eternal Day form. Continuously recovers Qi for Torch Dragon. The avatar's Qi and spell power are related to the character's Condemnation when the avatar is created. The higher the target's Condemnation, the greater the Qi and spell power.
-[color=#9e6404]Egg of Yang: [/color]
-				When releasing Yin Yang Rage, Torch Dragon will hatch all Eggs of Yang in the area, creating a huge threat that is Dragon's Servant. Egg of Yang can only be suppressed with very ominous Feng Shui.]]></Text>
+[color=#9e6404]Deus do Dia Eterno: [/color]
+				Dragão Tocha aparece em sua forma Yang e ganha uma pilha de Respiração da explosão solar a cada 6 segundos. Respiração da explosão solar será transformado em uma quantidade igual de Sopro de Gelo Lunar após a mudança de forma.
+[color=#9e6404]Trovão da Impiedade: [/color]
+				O Dragão da Tocha libera seu poder divino para invocar o trovão Yang cheio de ódio para causar dano ao alvo e aumentar temporariamente a Condenação do alvo em 2. Quanto maior a Condenação do alvo, maior o dano.
+[color=#9e6404]Sopro do Dragão: [/color]
+				Dragão Tocha sopra um sopro de dragão pesado em uma direção, anexando um Avatar de Dragão Benigno e causando dano a todos os inimigos tocados pelo sopro. Quanto maior a Condenação do alvo, maior o dano.
+[color=#9e6404]Julgamento Celestial: [/color]
+				Lança no alvo com a menor Condenação e causa grande dano. Se a Condenação do alvo for maior que 50, ele ficará gravemente ferido e perderá o controle sobre seu Qi. O Qi descontrolado explodirá, causará dano aos alvos dentro de 3 espaços e, eventualmente, será absorvido pelo Dragão Tocha em 20 pilhas de Respiração da explosão solar.
+[color=#9e6404]Transformação Kármica: [/color]
+				Quando o Respiração da explosão solar atingir 100 acúmulos, ele liberará as manifestações da força do carma e anexará o Benign Dragon Avatar a todos os discípulos internos.
+[color=#9e6404]Fúria Yin Yang: [/color]
+			Quando o ovo do Dragão Tocha é destruído, ele irá interromper a regra de Yin e Yang, causar dano a todos os inimigos e chocar todos os Ovos de Yang que não foram suprimidos. Ele então voará no ar, criará três Ovos de Yin e reaparecerá em sua forma de Noite Eterna. Durante a troca de forma, Dragão Tocha ganhará 50 stacks de Sopro de Gelo Lunar, e todos os debuffs de Condemnation causados por Trovão da Impiedade serão eliminados.
+[color=#9e6404]Avatar do Dragão Benigno: [/color]
+				Sombra fantasma criada por Dragão Tocha em sua forma Eterno Dia. Recupera continuamente Qi para Dragão Tocha. O Qi e o poder mágico do avatar estão relacionados à Condenação do personagem quando o avatar é criado. Quanto maior a Condenação do alvo, maior o Qi e o poder mágico.
+[color=#9e6404]Ovo de Yang: [/color]
+				Ao liberar Raiva Yin Yang, Dragão Tocha chocará todos os Ovos de Yang na área, criando uma enorme ameaça que é o Servo do Dragão. Ovo de Yang só pode ser suprimido com muito sinistro Feng Shui.]]></Text>
 		</Help>
 		<Help Name="ZhuLong_P2" Root="ZhuLong" Type="Content">
-			<Title>Eternal Night</Title>
+			<Title>Noite eterna</Title>
 			<Text><![CDATA[
-[color=#9e6404]God of Eternal Night: [/color]
-				Torch Dragon shows up in its Yin form and gains one stack of Lunarfrost Breath every 6 sec. Lunarfrost Breath will be transformed to an equal amount of Solarflare Breath after form switch.
-[color=#9e6404]Thunder of Divinity: [/color]
-				Torch Dragon unleashes its divine power to call upon Yin thunder filled with divine will to deal damage to target and temporarily reduce target's Mental State by 2. The lower the target's Mental State, the greater the damage.
-[color=#9e6404]Demon Dragon Breath: [/color]
-				Torch Dragon blows a heavy dragon breath toward one direction, attaching a Malignant Dragon Avatar and dealing damage to every enemy touched by the breath. The lower the target's Mental State, the greater the damage.
-[color=#9e6404]Evil Abyss: [/color]
-				Releases upon target with the highest Mental State and deals great damage. If target's Mental State is lower than 30, they will be heavily injured and lose control over their Qi. Uncontrolled Qi will explode, deal damage to targets within 3 space, and eventually be absorbed by Torch Dragon into 20 stacks of Lunarfrost Breath.
-[color=#9e6404]Demon Shapeshifting: [/color]
-				When Lunarfrost Breath reaches 100 stacks, it will unleash the manifestations of demonic force and attach Malignant Dragon Avatar to all inner disciples.
-[color=#9e6404]Yin Yang Rage: [/color]
-				When Torch Dragon's egg is destroyed, it will disrupt the rule of Yin and Yang, deal damage to all enemies and hatch all Eggs of Yin that have not been suppressed. It will then fly into the air, create three Eggs of Yang and reappear in its Eternal Day form. During the form switch, Torch Dragon will gain 50 stacks of Solarflare Breath, and all the debuffs of Mental State caused by Thunder of Divinity will be cleared.
-[color=#9e6404]Malignant Dragon Avatar: [/color]
-				Phantom shadow created by Torch Dragon in its Eternal Night form. Releases artifacts to attack its enemy. The avatar's Qi and spell power are related to the character's Mental State when the avatar is created. The lower the target's Mental State, the greater the Qi and spell power.
-[color=#9e6404]Egg of Yin: [/color]
-				When releasing Yin Yang Rage, Torch Dragon will hatch all Eggs of Yin in the area, creating a huge threat that is Dragon's Servant. Egg of Yin can only be suppressed with very auspicious Feng Shui.]]></Text>
+[color=#9e6404]Deus da Noite Eterna: [/color]
+				Dragão Tocha aparece em sua forma Yin e ganha uma pilha de Sopro de Gelo Lunar a cada 6 segundos. Sopro de Gelo Lunar será transformado em uma quantidade igual de Respiração da explosão solar após a mudança de forma.
+[color=#9e6404]Trovão da Divindade: [/color]
+				Dragão Tocha libera seu poder divino para invocar o trovão Yin cheio de vontade divina para causar dano ao alvo e reduzir temporariamente o estado mental do alvo em 2. Quanto menor o estado mental do alvo, maior o dano.
+[color=#9e6404]Sopro do Dragão Demoníaco: [/color]
+				Dragão Tocha sopra um pesado sopro de dragão em uma direção, anexando um Dragão MalignoAvatar e causando dano a todos os inimigos tocados pelo sopro. Quanto menor o estado mental do alvo, maior o dano.
+[color=#9e6404]Abismo Maligno: [/color]
+				Lança no alvo com o estado mental mais alto e causa grande dano. Se o estado mental do alvo for inferior a 30, ele ficará gravemente ferido e perderá o controle sobre seu Qi. O Qi descontrolado explodirá, causará dano aos alvos dentro de 3 espaços e, eventualmente, será absorvido pelo Dragão Tocha em 20 pilhas de Sopro de Gelo Lunar.
+[color=#9e6404]Demônio Metamorfose: [/color]
+				Quando Sopro de Gelo Lunar atingir 100 acúmulos, ele liberará as manifestações da força demoníaca e anexará o Dragão MalignoAvatar a todos os discípulos internos.
+[color=#9e6404]Fúria Yin Yang: [/color]
+				Quando o ovo do Dragão Tocha é destruído, ele irá interromper a regra de Yin e Yang, causar dano a todos os inimigos e chocar todos os Ovos de Yin que não foram suprimidos. Ele então voará no ar, criará três Ovos de Yang e reaparecerá em sua forma de Dia Eterno. Durante a troca de forma, Dragão Tocha ganhará 50 stacks de Respiração da explosão solar, e todos os debuffs de Mental State causados por Trovão da Divindade serão eliminados.
+[color=#9e6404]Avatar do Dragão Maligno: [/color]
+				Sombra fantasma criada por Dragão Tocha em sua forma Noite eterna. Libera artefatos para atacar seu inimigo. O Qi e o poder mágico do avatar estão relacionados ao estado mental do personagem quando o avatar é criado. Quanto menor o Estado Mental do alvo, maior o Qi e o poder mágico.
+[color=#9e6404]Ovo de Yin: [/color]
+				Ao liberar Yin Yang Rage, Dragão Tocha chocará todos os Ovos de Yin na área, criando uma enorme ameaça que é o Servo do Dragão. Ovo de Yin só pode ser suprimido com um Feng Shui muito auspicioso.]]></Text>
 		</Help>
 		<Help Name="ZhuLong_Secret" Root="ZhuLong" Type="Content">
-			<Title>Secrets</Title>
+			<Title>Segredo</Title>
 			<Text><![CDATA[
-[color=#9e6404]Yin Yang Form: [/color]
-				Torch Dragon is the manifestation of Yin and Yang in the Mortal Realm. In its Eternal Day form, only Yin elements like Metal and Water can deal damage to it, and it absorbs damage from Yang elements like Fire and Wood. In its Eternal Night form, only Yang elements like Fire and Wood can deal damage to it, and it absorbs damage from Yin elements like Metal and Water. Earth element ignores its form but only deals a small amount of damage.
-[color=#9e6404]Rage of the Creed of Heaven—Mind Shielding: [/color]
-				When its eye is destroyed in Eternal Night, Torch Dragon will call upon Rage of the Creed of Heaven to create Mind Shielding for the character that destroyed the eye, reducing their Mental State by 100 for a year. If the character survives Mind Shielding, their Mental State will permanently increase by 20.
-[color=#9e6404]Rage of the Creed of Heaven—Inferno of Karma: [/color]
-				When its eye is destroyed in Eternal Day, Torch Dragon will call upon Rage of the Creed of Heaven to create Inferno of Karma for the character that destroyed the eye, increasing their Condemnation by 1,000 for a year. If the character survives Inferno of Karma, their Condemnation will permanently reduce by 200.
-[color=#9e6404]Heavenly Scale: [/color]
-				There is a Heavenly Scale between Torch Dragon's eyebrows that only shows up after it has released Yin Yang Rage twice.
-[color=#9e6404]Chaos Jade: [/color]
-				Chaos Jade is the source of Torch Dragon's power that only shows up between the eyebrows after its eyes and Heavenly Scale are destroyed.]]></Text>
+[color=#9e6404]Forma Yin Yang: [/color]
+				Dragão Tocha é a manifestação de Yin e Yang no Reino Mortal. Em sua forma Eterno Dia, apenas elementos Yin como Metal e Água podem causar dano a ele, e ele absorve dano de elementos Yang como Fogo e Madeira. Em sua forma Noite Eterna, apenas elementos Yang como Fogo e Madeira podem causar dano a ele, e ele absorve dano de elementos Yin como Metal e Água. O elemento Terra ignora sua forma, mas causa apenas uma pequena quantidade de dano.
+[color=#9e6404]Fúria do Credo do Céu—Blindagem Mental: [/color]
+			Quando seu olho é destruído em Noite eterna, Dragão Tocha invocará Fúria do Credo do Céu para criar Mind Shielding para o personagem que destruiu o olho, reduzindo seu estado mental em 100 por um ano. Se o personagem sobreviver ao Mind Shielding, seu estado mental aumentará permanentemente em 20.
+[color=#9e6404]Fúria do Credo do Céu—Inferno de Karma: [/color]
+				Quando seu olho for destruído no Dia Eterno, Dragão Tocha invocará Fúria do Credo do Céu para criar Inferno of Karma para o personagem que destruiu o olho, aumentando sua Condenação em 1.000 por um ano. Se o personagem sobreviver ao Inferno do Karma, sua Condenação será permanentemente reduzida em 200.
+[color=#9e6404]Escala Celestial: [/color]
+			Há uma Escala Celestial entre as sobrancelhas do Dragão Tocha que só aparece depois de liberar Yin Yang Rage duas vezes.
+[color=#9e6404]Caos Jade: [/color]
+				Chaos Jade é a fonte do poder do Dragão Tocha que só aparece entre as sobrancelhas depois que seus olhos e Heavenly Scale são destruídos.]]></Text>
 		</Help>
 	</List>
 </Helps>
