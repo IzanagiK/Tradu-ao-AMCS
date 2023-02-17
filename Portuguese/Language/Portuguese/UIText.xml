@@ -293,8 +293,8 @@ When the Remold results are of little importance or only contain unimportant lab
 	<string name="0xrxw6g7kdkx52ow2i-n4" mz="title">Confirmar</string>
 	<string name="0xrxw6g7qah58x-n74_qah5" mz="title">Outer</string>
 	<string name="0xrxw6g7n9cg52ow46-n74_qah5" mz="title">Outer</string>
-	<string name="0xrxw6g7dyau52ow4j-n7_l5z1-tips" mz="removecountdownbg">The number of times of Thinkings before it was forgotten.</string>
-	<string name="0xrxw6g7dyau52ow4j-n13_vpv7-tips" mz="used">[color=#FF0000]Cannot gain property from this thought.[/color]</string>
+	<string name="0xrxw6g7dyau52ow4j-n7_l5z1-tips" mz="removecountdownbg">O número de vezes de Pensamentos antes de ser esquecido.</string>
+	<string name="0xrxw6g7dyau52ow4j-n13_vpv7-tips" mz="used">[color=#FF0000]Não é possível obter propriedade deste pensamento.[/color]</string>
 	<string name="0xrxw6g7dyau52ow4i-n13_q19o" mz="considerframe">Think</string>
 	<string name="0xrxw6g7dyau52ow4i-n21_q19o-tips" mz="consider">Três Pensamentos do mesmo tipo podem ser sintetizados na correspondente [color=#0000ff]Racionalidade[/color]/[color=#ff3300]Percepção[/color]/[color=#1bd1a5]Realização[/color]. Os pensamentos serão limpos após cada Pensamento. Pensamentos nos slots de Memórias e [color=#0000ff]Racionalidade[/color]/[color=#ff3300]Percepção[/color]/[color=#1bd1a5]Realização[/color] adquiridos também serão esquecidos como o número de tempos de Pensamentos aumenta.</string>
 	<string name="0xrxw6g7dyau52ow4i-n21_q19o" mz="consider">Think</string>
@@ -316,12 +316,12 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7qt1w52ow4k-n12_qt1w-tips" mz="removecountdownbg">The number of times of Thinkings before it was forgotten.</string>
 	<string name="0xrxw6g7qt1w52ow4k-n16_qt1w-tips" mz="remember">Move this Thought into the Memories pool.</string>
 	<string name="0xrxw6g7qt1w52ow4k-n16_qt1w" mz="remember">Memorize</string>
-	<string name="0xrxw6g7qt1w52ow4k-n18_qt1w-tips" mz="consider">Use three Thought Shards with the same keyword to start Thinking, after which you will gain a whole Thought.</string>
+	<string name="0xrxw6g7qt1w52ow4k-n18_qt1w-tips" mz="consider">Use três Fragmentos de Pensamento com a mesma palavra-chave para começar a Pensar, após o que você ganhará um Pensamento inteiro.</string>
 	<string name="0xrxw6g7qt1w52ow4k-n18_qt1w" mz="consider">Think</string>
 	<string name="0xrxw6g7qt1w52ow4k-n19_qt1w-tips" mz="del">Forget this Thought from the Memories pool.</string>
 	<string name="0xrxw6g7qt1w52ow4k-n19_qt1w" mz="del">Forget</string>
-	<string name="0xrxw6g7qt1w52ow4k-n21_zclq-tips" mz="eye">[color=#FF0000]This Thought Shard is not self-generated, only one may be obtained.[/color]</string>
-	<string name="0xrxw6g7qt1w52ow4k-n23_vpv7-tips" mz="used">[color=#FF0000]Cannot gain property from this fragment.[/color]</string>
+	<string name="0xrxw6g7qt1w52ow4k-n21_zclq-tips" mz="eye">[color=#FF0000]Este fragmento de pensamento não é autogerado, apenas um pode ser obtido.[/color]</string>
+	<string name="0xrxw6g7qt1w52ow4k-n23_vpv7-tips" mz="used">[color=#FF0000]Não é possível obter a propriedade deste fragmento.[/color]</string>
 	<string name="0xrxw6g7s13452ow3i-n0_s134" mz="frame">Enlighten</string>
 	<string name="0xrxw6g7s13452ow3i-n22_s134" mz="QiZhi">Awaken one's intelligence.</string>
 	<string name="0xrxw6g7s13452ow3i-n23_s134" mz="n23">Synthesize 
@@ -343,8 +343,8 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7h4ds2ovss-n12_lz37" mz="copyall">Study</string>
 	<string name="0xrxw6g7h4ds2ovss-n25_vcpx" mz="clearall">Clean</string>
 	<string name="0xrxw6g7h4ds2ovss-n0_h4ds" mz="frame">Manual Pavilion</string>
-	<string name="0xrxw6g7h4ds2ovss-n24_t8dw-tips" mz="daohang">Manual Pavilion Capacity: The Manual Pavilion's ability to contain manuals. A more difficult manual will take up more space after being transcribed.</string>
-	<string name="0xrxw6g7h4ds2ovss-n24_t8dw" mz="daohang">Manual Pavilion Capacity: 150/5000</string>
+	<string name="0xrxw6g7h4ds2ovss-n24_t8dw-tips" mz="daohang">Capacidade de Manual no Pavilhão: A Capacidade de manual no pavilhão de conter manuais. Um manual mais difícil ocupará mais espaço depois de transcrito.</string>
+	<string name="0xrxw6g7h4ds2ovss-n24_t8dw" mz="daohang">Capacidade de manual no pavilhão: 150/5000</string>
 	<string name="0xrxw6g7h4ds2ovss-n27_rhxq" mz="onlylrean">Only shows manuals that can be learned.</string>
 	<string name="0xrxw6g7h4ds2ovss-n28_fbfc-prompt" mz="F">Search Manual</string>
 	<string name="0xrxw6g7h4ds2ovss-n32_vmz6" mz="search">Pesquisar</string>
@@ -609,7 +609,7 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7q9xpn4-n163_te3v" mz="n163">Pelos faciais:</string>
 	<string name="0xrxw6g7q9xpn4-n171_te3v" mz="n171">Skin tone:</string>
 	<string name="0xrxw6g7q9xpn4-n175_c3vt" mz="n175">Clothes:</string>
-	<string name="0xrxw6g7q9xpn4-n241_u86j-tips" mz="Desc">Write a description for your reincarnator.</string>
+	<string name="0xrxw6g7q9xpn4-n241_u86j-tips" mz="Desc">Escreva uma descrição para o seu reencarnador.</string>
 	<string name="0xrxw6g7q9xpn4-n44_izp4" mz="n44">Incapable of</string>
 	<string name="0xrxw6g7q9xpn4-n234_rqwx" mz="n234">Habilidades</string>
 	<string name="0xrxw6g7q9xpn4-n257_f1yi" mz="n257">Personalizar Rosto</string>
@@ -625,8 +625,8 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7q9xpn4-n305_vhrj" mz="n305">Forma Humana</string>
 	<string name="0xrxw6g7q9xpn4-n306_vhrj" mz="n306">Forma de Monstro</string>
 	<string name="0xrxw6g7q9xpn4-n310_ro6z" mz="n310">List of Intelligences</string>
-	<string name="0xrxw6g7q9xpn4-n318_jrnp" mz="n318">*3-10 Intelligences are required for Yaoguai</string>
-	<string name="0xrxw6g7q9xpn4-n316_mctl-tips" mz="n316">Yaoguai in half-human forms will face Shapeshifting Tribulation after a period of time. Those who succeed will shapeshift into human forms, while those who fail will be reversed to their original appearances. The stronger they are, the sooner the tribulation would come.</string>
+	<string name="0xrxw6g7q9xpn4-n318_jrnp" mz="n318">*3-10 Inteligências são necessárias para Yaoguai</string>
+	<string name="0xrxw6g7q9xpn4-n316_mctl-tips" mz="n316">Yaoguai em formas meio-humanas enfrentará a Tribulação Metamorfose após um período de tempo. Aqueles que tiverem sucesso se transformarão em formas humanas, enquanto aqueles que falharem serão revertidos para suas aparências originais. Quanto mais fortes eles forem, mais cedo a tribulação chegará.</string>
 	<string name="0xrxw6g79g33ni-n118_9g33" mz="n118">Nome</string>
 	<string name="0xrxw6g79g33ni-n122_9g33" mz="n122">Description</string>
 	<string name="0xrxw6g79g33ni-n146_yl3n" mz="n146">Effect</string>
@@ -660,7 +660,7 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7mf2o2ovw3-n354_j2gu" mz="n354">[Yield]</string>
 	<string name="0xrxw6g7mf2o2ovw3-n322_s7y9" mz="buildtip">[Tendency]11111111111111</string>
 	<string name="0xrxw6g7mf2o2ovw3-n368_p1qx" mz="n368">Precisa</string>
-	<string name="0xrxw6g7mf2o2ovw3-n203_ep9b" mz="n203">Saw two (villagers)/(rich young lords) arguing; it seems to be about who is the owner of the land.</string>
+	<string name="0xrxw6g7mf2o2ovw3-n203_ep9b" mz="n203">Vi dois (aldeões)/(jovens senhores ricos) discutindo; parece ser sobre quem é o dono da terra.</string>
 	<string name="0xrxw6g7mf2o2ovw3-n210_ep9b" mz="n210">Dias restantes</string>
 	<string name="0xrxw6g7mf2o2ovw3-n375_apkb" mz="n375">Select one of the following:</string>
 	<string name="0xrxw6g7mf2o2ovw3-n190_ep9b" mz="n190">Progress</string>
@@ -690,7 +690,7 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7mf2o2ovw4-n337_gdpn" mz="n337">Daily Production</string>
 	<string name="0xrxw6g7mf2o2ovw4-n167_oizv" mz="n167">Regional Storage</string>
 	<string name="0xrxw6g7mf2o2ovw4-n171_oizv" mz="n171">Claim</string>
-	<string name="0xrxw6g7mf2o2ovw4-n339_gdpn-tips" mz="n339">Upgrade to Intermediate Main Hall to unlock Treasure Hunting Direction. Once applied, use different methods in Treasure Hunt will yield different treasures.</string>
+	<string name="0xrxw6g7mf2o2ovw4-n339_gdpn-tips" mz="n339">Atualize para o Salão Principal Intermediário para desbloquear a Direção de Caça ao Tesouro. Uma vez aplicado, o uso de métodos diferentes na Caça ao Tesouro renderá tesouros diferentes.</string>
 	<string name="0xrxw6g7mf2o2ovw4-n339_gdpn" mz="n339">Treasure Hunting</string>
 	<string name="0xrxw6g7mf2o2ovw4-n344_gdpn" mz="n344">Stability: Suspicious Dominant Religion: Sunshade Abode</string>
 	<string name="0xrxw6g7mf2o2ovw4-n346_gdpn-tips" mz="n346">População de Seguidores: Aumentou através de diferentes eventos de política. Quanto maior o apelo, maior o número de seguidores. Sem nenhuma política, a região perderá 5% de seguidores todos os dias.</string>
@@ -717,9 +717,9 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7u9cd2ovv2-n135_u9cd" mz="n135">Treasure Hunting</string>
 	<string name="0xrxw6g7u9cd2ovv2-n143_u9cd" mz="n143">Central Plains</string>
 	<string name="0xrxw6g7u9cd2ovv2-n121_u9cd" mz="qingxiang">Tendency</string>
-	<string name="0xrxw6g7u9cd2ovv2-n139_u9cd-tips" mz="n139">Population of Followers: Increased via different policy events. The higher the appeal, the more the increased followers.</string>
+	<string name="0xrxw6g7u9cd2ovv2-n139_u9cd-tips" mz="n139">População de Seguidores: Aumentada por meio de diferentes eventos de política. Quanto maior o apelo, maior o número de seguidores.</string>
 	<string name="0xrxw6g7u9cd2ovv2-n140_u9cd-tips" mz="n140">Assista: Preste muita atenção neste local, que aumenta a frequência dos eventos de política, mas também dobra o custo.</string>
-	<string name="0xrxw6g7u9cd2ovv2-n140_u9cd" mz="n140">Watch</string>
+	<string name="0xrxw6g7u9cd2ovv2-n140_u9cd" mz="n140">Assistir</string>
 	<string name="0xrxw6g7u9cd2ovv2-n128_u9cd" mz="n128">Produção diária</string>
 	<string name="0xrxw6g7u9cd2ovv2-n155_u9cd" mz="n155">Brightway Temple</string>
 	<string name="0xrxw6g7u9cd2ovv2-n137_u9cd" mz="n137">Stability: Suspicious Dominant Religion: Sunshade Abode</string>
