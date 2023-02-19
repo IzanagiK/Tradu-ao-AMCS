@@ -45,31 +45,31 @@
 			<Desc>[HENAME] viajou pelas terras ao meu lado.</Desc>
 		</Text>
 		<Text Name="Charisma0">
-			<Desc>Charisma Favor 0</Desc>
-			<Layers.0.DisplayName>Nasty</Layers.0.DisplayName>
-			<Layers.0.Desc>Why do people like [HENAME] have to exist...</Layers.0.Desc>
-			<Layers.1.DisplayName>Unkind</Layers.1.DisplayName>
-			<Layers.1.Desc>It's hard work, trying to get on with [HENAME].</Layers.1.Desc>
-			<Layers.2.DisplayName>Reticent</Layers.2.DisplayName>
-			<Layers.2.Desc>Despite not being great at getting along with others, [HENAME] is a good person really.</Layers.2.Desc>
+			<Desc>Favor de Carisma 0</Desc>
+			<Layers.0.DisplayName>Nojento</Layers.0.DisplayName>
+			<Layers.0.Desc>Por que pessoas como [HENAME] tem que existir...</Layers.0.Desc>
+			<Layers.1.DisplayName>Indelicado</Layers.1.DisplayName>
+			<Layers.1.Desc>É um trabalho árduo tentar se dar bem com [HENAME].</Layers.1.Desc>
+			<Layers.2.DisplayName>Reticente</Layers.2.DisplayName>
+			<Layers.2.Desc>Apesar de não se dar muito bem com os outros, [HENAME] é realmente uma boa pessoa.</Layers.2.Desc>
 		</Text>
 		<Text Name="Charisma1">
-			<Desc>Charisma Favor 1</Desc>
-			<Layers.0.DisplayName>Hypocrite</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] is a fraud, acting all high and mighty.</Layers.0.Desc>
-			<Layers.1.DisplayName>Cultured</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] seems like a good person.</Layers.1.Desc>
-			<Layers.2.DisplayName>Considerate</Layers.2.DisplayName>
-			<Layers.2.Desc>It's easy getting along with [HENAME] as they're so considerate.</Layers.2.Desc>
+			<Desc>Favor de Carisma 1</Desc>
+			<Layers.0.DisplayName>Hipócrita</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] é uma fraude, agindo como um todo poderoso.</Layers.0.Desc>
+			<Layers.1.DisplayName>Cultivado</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] parece ser uma boa pessoa.</Layers.1.Desc>
+			<Layers.2.DisplayName>Atencioso</Layers.2.DisplayName>
+			<Layers.2.Desc>É fácil se dar bem com [HENAME], pois eles são tão atenciosos.</Layers.2.Desc>
 		</Text>
 		<Text Name="Charisma2">
-			<Desc>Charisma Favor 2</Desc>
-			<Layers.0.DisplayName>Noble</Layers.0.DisplayName>
-			<Layers.0.Desc>I can't stand [HENAME], but they are valiant, it's true.</Layers.0.Desc>
-			<Layers.1.DisplayName>Dashing</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] seems so refined, and classy.</Layers.1.Desc>
-			<Layers.2.DisplayName>Ray of Sunshine</Layers.2.DisplayName>
-			<Layers.2.Desc>Getting along with [HENAME] is truly a joy. They're a little ray of sunshine, and a great friend.</Layers.2.Desc>
+			<Desc>Favor de Carisma 2</Desc>
+			<Layers.0.DisplayName>Nobre</Layers.0.DisplayName>
+			<Layers.0.Desc>Não suporto [HENAME], mas eles são valentes, é verdade.</Layers.0.Desc>
+			<Layers.1.DisplayName>Elegante </Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] parece tão refinado e elegante.</Layers.1.Desc>
+			<Layers.2.DisplayName>Raio de Sol</Layers.2.DisplayName>
+			<Layers.2.Desc>Conviver com [HENAME] é realmente uma alegria. Eles são um pequeno raio de sol e um grande amigo.</Layers.2.Desc>
 		</Text>
 		<Text Name="Relative">
 			<Desc>[HENAME] é meu [TXT].</Desc>
@@ -84,24 +84,24 @@
 			<Desc>[HENAME] é meu [TXT].</Desc>
 		</Text>
 		<Text Name="Friend">
-			<Desc>Friendship Favor 2</Desc>
-			<Layers.0.DisplayName>Friend</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] is my friend, although we've been having problems as of late.</Layers.0.Desc>
-			<Layers.1.DisplayName>Friend</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] is a good friend of mine.</Layers.1.Desc>
-			<Layers.2.DisplayName>Faithful Friend</Layers.2.DisplayName>
-			<Layers.2.Desc>[HENAME] is my faithful friend.</Layers.2.Desc>
+			<Desc>Favor de Amizade 2</Desc>
+			<Layers.0.DisplayName>Amigo</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] é meu amigo, embora tenhamos tido problemas ultimamente.</Layers.0.Desc>
+			<Layers.1.DisplayName>Amigo</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] é um grande amigo meu.</Layers.1.Desc>
+			<Layers.2.DisplayName>Amigo fiel</Layers.2.DisplayName>
+			<Layers.2.Desc>[HENAME] é meu fiel amigo.</Layers.2.Desc>
 		</Text>
 		<Text Name="Scar">
 			<DisplayName>Cicatriz</DisplayName>
 			<Desc>[HENAME] tem uma cicatriz feia no rosto.</Desc>
 		</Text>
 		<Text Name="Fancy">
-			<DisplayName>Attraction</DisplayName>
-			<Desc>Attraction</Desc>
-			<Layers.0.DisplayName>Attraction</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME]... *Sigh*.</Layers.0.Desc>
-			<Layers.1.DisplayName>Attraction</Layers.1.DisplayName>
+			<DisplayName>Atração</DisplayName>
+			<Desc>Atração</Desc>
+			<Layers.0.DisplayName>Atração</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME]... *Suspirar*.</Layers.0.Desc>
+			<Layers.1.DisplayName>Atração</Layers.1.DisplayName>
 		</Text>
 		<Text Name="Lover">
 			<DisplayName>Amante</DisplayName>
@@ -176,29 +176,29 @@
 			<Desc>Troquei insultos com [HENAME]. O idiota beligerante teve que aprender uma lição, com meus punhos.</Desc>
 		</Text>
 		<Text Name="WithYoung">
-			<Desc>Attitude toward the younger generation.</Desc>
-			<Layers.0.DisplayName>Rude to Elders</Layers.0.DisplayName>
-			<Layers.0.Desc>I think [HENAME] is an absolute rat.</Layers.0.Desc>
-			<Layers.1.DisplayName>Fond</Layers.1.DisplayName>
-			<Layers.1.Desc>I think [HENAME] is still just a kid.</Layers.1.Desc>
-			<Layers.2.DisplayName>Young Potential</Layers.2.DisplayName>
-			<Layers.2.Desc>I think [HENAME] shows promise.</Layers.2.Desc>
+			<Desc>Atitude em relação à geração mais jovem.</Desc>
+			<Layers.0.DisplayName>Rude com os mais velhos</Layers.0.DisplayName>
+			<Layers.0.Desc>Eu acho que [HENAME] é um rato absoluto.</Layers.0.Desc>
+			<Layers.1.DisplayName>Afeiçoado</Layers.1.DisplayName>
+			<Layers.1.Desc>Acho que [HENAME] ainda é apenas uma criança.</Layers.1.Desc>
+			<Layers.2.DisplayName>Potencial Jovem</Layers.2.DisplayName>
+			<Layers.2.Desc>Acho que [HENAME] promete</Layers.2.Desc>
 		</Text>
 		<Text Name="WithElder">
-			<Desc>Attitude toward one's elders.</Desc>
-			<Layers.0.DisplayName>Rebellious</Layers.0.DisplayName>
-			<Layers.0.Desc>I don't like being around [HENAME], makes me feel awkward.</Layers.0.Desc>
-			<Layers.1.DisplayName>Respects Elders</Layers.1.DisplayName>
-			<Layers.1.Desc>I reckon [HENAME] should be treated respectfully, on account of their age.</Layers.1.Desc>
-			<Layers.2.DisplayName>Reverence</Layers.2.DisplayName>
-			<Layers.2.Desc>I hold [HENAME] in high esteem.</Layers.2.Desc>
+			<Desc>Atitude em relação aos mais velhos.</Desc>
+			<Layers.0.DisplayName>Rebelde</Layers.0.DisplayName>
+			<Layers.0.Desc>Eu não gosto de estar perto de [HENAME], me faz sentir estranho.</Layers.0.Desc>
+			<Layers.1.DisplayName>Respeita os mais velhos</Layers.1.DisplayName>
+			<Layers.1.Desc>Acho que [HENAME] deve ser tratado com respeito, por conta da idade.</Layers.1.Desc>
+			<Layers.2.DisplayName>Reverência</Layers.2.DisplayName>
+			<Layers.2.Desc>Eu tenho [HENAME] em alta estima.</Layers.2.Desc>
 		</Text>
 		<Text Name="RivalInlove">
-			<Desc>Love Rival</Desc>
-			<Layers.0.DisplayName>Loathing</Layers.0.DisplayName>
-			<Layers.0.Desc>Oh, if I could just shove a blade into [HENAME] and be done with it.</Layers.0.Desc>
-			<Layers.1.DisplayName>Empathy</Layers.1.DisplayName>
-			<Layers.1.Desc>I think [HENAME] and I are similar in a lot of ways.</Layers.1.Desc>
+			<Desc>Amor Rival</Desc>
+			<Layers.0.DisplayName>Repugnância</Layers.0.DisplayName>
+			<Layers.0.Desc>Oh, se eu pudesse enfiar uma lâmina em [HENAME] e acabar com isso.</Layers.0.Desc>
+			<Layers.1.DisplayName>Empatia</Layers.1.DisplayName>
+			<Layers.1.Desc>Eu acho que [HENAME] e eu somos parecidos de várias maneiras.</Layers.1.Desc>
 		</Text>
 		<Text Name="PersonalEnemyBegin">
 			<DisplayName>Ódio</DisplayName>
@@ -261,10 +261,10 @@
 			<Desc>Testemunhou [HENAME] usando magia contra [TXT].</Desc>
 		</Text>
 		<Text Name="BeDeclaration">
-			<Layers.0.DisplayName>Declare Feelings</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] professed their feelings for me, haha.</Layers.0.Desc>
-			<Layers.1.DisplayName>Declare Feelings</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] told me of their feelings for me. My heart's racing.</Layers.1.Desc>
+			<Layers.0.DisplayName>Declarar Sentimentos</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] declarou seus sentimentos por mim, haha.</Layers.0.Desc>
+			<Layers.1.DisplayName>Declarar Sentimentos</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] me contou sobre seus sentimentos por mim. Meu coração está acelerado.</Layers.1.Desc>
 		</Text>
 		<Text Name="Favour_School_FiveTangZhu">
 			<DisplayName>Desdém</DisplayName>
