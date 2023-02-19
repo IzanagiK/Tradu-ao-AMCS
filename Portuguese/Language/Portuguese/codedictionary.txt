@@ -407,33 +407,33 @@ Key	Value
 适中	Medium
 宽大	Large
 极大	Huge
-金属性	Metal Element
-木属性	Wood Element
-水属性	Water Element
-火属性	Fire Element
-土属性	Earth Element
-混元属性	Hybrid Element
-极其利于	Extremely Beneficial
-特别利于	Very Beneficial
-较为利于	Moderately Beneficial
-稍微利于	Slightly Beneficial
-位于墙角	and At a corner
-三面为墙	and Against three walls
-贴墙而放	and Against a wall
-不贴墙	and Not touching any walls
-位于门旁	and Located next to the Door
-位于床第蒲团之侧	and Located next to a Cushion or Bed
-位于祖师牌位之侧	and Located next to Grandmaster's Shrine
-位于工坊台案之侧	and Located next to a kind of workshop table
-位于炼宝台之侧	and Located next to the Crafting Table
-位于炼丹炉之侧	and Located next to the Alchemy Furnace
-位于炉灶之侧	and Located next to the Stove
-远离床第蒲团	and Away from Cushion or Bed
-远离祖师牌位	and Away from Grandmaster's Shrine
-远离工坊台案	and Away from a kind of workshop table
-远离炼宝台	and Away from the Crafting Table
-远离炼丹炉	and Away from the Alchemy Furnace
-远离炉灶	and Away from the Stove
+金属性	Elemento Metal
+木属性	Elemento Madeira
+水属性	Elemento Água
+火属性	Elemento Fogo
+土属性	Elemento Terra
+混元属性	Elemento Híbrido
+极其利于	Extremamente Benéfico
+特别利于	Muito Benéfico
+较为利于	Moderadamente benéfico
+稍微利于	Ligeiramente Benéfico
+位于墙角	e em um canto
+三面为墙	e contra três paredes
+贴墙而放	e contra uma parede
+不贴墙	e não tocar em nenhuma parede
+位于门旁	e localizado ao lado da porta
+位于床第蒲团之侧	e localizado ao lado de uma almofada ou cama
+位于祖师牌位之侧	e Localizado ao lado do Santuário do Grão-Mestre
+位于工坊台案之侧	e Localizado ao lado de uma espécie de mesa de oficina
+位于炼宝台之侧	e Localizado ao lado da Mesa de Artesanato
+位于炼丹炉之侧	e localizado ao lado do forno de alquimia
+位于炉灶之侧	e Localizado junto ao Fogão
+远离床第蒲团	e Longe da Almofada ou da Cama
+远离祖师牌位	e Longe do Santuário do Grão-Mestre
+远离工坊台案	e Longe de uma espécie de mesa de oficina
+远离炼宝台	e longe da Mesa de Trabalho
+远离炼丹炉	e Longe da Fornalha de Alquimia
+远离炉灶	e longe do fogão
 你的情感依然很丰富，依然会被喜怒哀乐所动。这些凡人的情感让你对神力的掌握倍加艰难，但也正因如此，就算是很平凡很微小的信仰你都能感受并收取。	Você ainda tem muitas emoções humanas, como alegria, raiva e tristeza. Essas emoções humanas tornaram difícil para você dominar os poderes divinos, mas, ao mesmo tempo, você pode sentir e absorver até mesmo a menor crença mortal.
 你对凡人的情感逐渐收敛，已经很少会有极端的狂喜或悲恸。得益于此，你对神力的掌握渐渐加深，但来自众生的那些平凡微小的信仰你已无法尽数感知。	Você tem menos emoções humanas e dificilmente pode sentir extrema alegria ou tristeza. Você se tornou mais sintonizado com os poderes divinos, mas não pode mais perceber todas as crenças mortais e pequenas.
 凡人的喜怒哀乐对你的影响越来越少，而你对神力的运用也渐入佳境。但逐渐失去凡人心态的你也越发难以吸收那些平凡而普通的信仰。	As emoções humanas o afetam cada vez menos, e você começa a dominar os poderes divinos. Mas sua perda de humanidade tornou você menos receptivo às crenças humanas.
@@ -446,80 +446,80 @@ Key	Value
 失败累积{0}({1:N0})次（炼丹，炼器，突破，战斗中倒地）	Fails {0} ({1:N0}) times. Isso inclui falhar em alquimia, criação de artefatos e avanços, ou ser derrubado durante as batalhas.
 被自弃之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时自暴自弃而奋不顾死，因此御器技能突破极限2级，术法技能突破极限2级，护体技能降低5级。	Pronto para desistir. A eficiência da prática, a velocidade de aprendizado e o estado mental são drasticamente reduzidos. No estado, o personagem vai perder a esperança, arriscando assim tudo o que tem. Avança 2 níveis de Maestria de Artefato e Feitiço e reduz 5 níveis de Proteção.
 贪婪	Greedy
-食用12阶的物品累积{0}({1:N0})次	Eats {0} ({1:N0}) Tier 12 items
-被贪婪之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时不舍珍宝而倍加惜命，因此御器技能，术法技能降低2级，护体技能突破极限3级。	Driven by greed. Practice efficiency, learning speed and mental state are drastically reduced. In the state, the character will value their treasures too much to risk dying. Lowers 2 levels of Artifact Mastery and Spell, and breakthroughs 3 levels of Protection.
+食用12阶的物品累积{0}({1:N0})次	Come {0} ({1:N0}) itens de Nível 12
+被贪婪之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时不舍珍宝而倍加惜命，因此御器技能，术法技能降低2级，护体技能突破极限3级。	Movido pela ganância. A eficiência da prática, a velocidade de aprendizado e o estado mental são drasticamente reduzidos. No estado, o personagem valorizará demais seus tesouros para correr o risco de morrer. Reduz 2 níveis de Maestria de Artefato e Feitiço, e avança 3 níveis de Proteção.
 享乐	Hedonistic
-情绪高于150累计{0}({1:N0})秒	Mood remains higher than 150 for {0} ({1:N0}) sec
-被享乐之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时贪图享乐而倍加惜命，因此御器技能，术法技能降低2级，护体技能突破极限3级。	Becomes hedonistic. Practice efficiency, learning speed and mental state are drastically reduced. In the state, the character will be too hedonistic to risk dying. Lowers 2 levels of Artifact Mastery and Spell, and breakthroughs 3 levels of Protection.
+情绪高于150累计{0}({1:N0})秒	Humor permanece acima de 150 por {0} ({1:N0}) seg
+被享乐之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时贪图享乐而倍加惜命，因此御器技能，术法技能降低2级，护体技能突破极限3级。	Torna-se hedonista. A eficiência da prática, a velocidade de aprendizado e o estado mental são drasticamente reduzidos. No estado, o personagem será muito hedonista para correr o risco de morrer. Reduz 2 níveis de Maestria de Artefato e Feitiço, e avança 3 níveis de Proteção.
 傲慢	Arrogant
-获得成功{0}({1:N0})次（炼丹，炼器，突破，击败相同或更高境界的敌人）	Succeeds {0} ({1:N0}) times (During alchemy, artifact crafting, breakthrough, and battles against enemies in the same or a higher state)
-被傲慢之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时傲慢自得而心态优越，因此御器技能，术法技能，护体技能均突破极限1级。	Becomes arrogant. Practice efficiency, learning speed and mental state are drastically reduced. In the state, the character will be very arrogant, thus gaining the confidence to fight. Breakthroughs 1 level of Artifact Crafting, Spell and Protection.
+获得成功{0}({1:N0})次（炼丹，炼器，突破，击败相同或更高境界的敌人）	Tem sucesso {0} ({1:N0}) vezes (durante a alquimia, criação de artefatos, avanço e batalhas contra inimigos no mesmo estado ou em um estado superior)
+被傲慢之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时傲慢自得而心态优越，因此御器技能，术法技能，护体技能均突破极限1级。	Torna-se arrogante. A eficiência da prática, a velocidade de aprendizado e o estado mental são drasticamente reduzidos. No estado, o personagem será muito arrogante, ganhando assim confiança para lutar. Avanços 1 nível de Criação de Artefatos, Magia e Proteção.
 悲悯	Sympathetic
-累计获得{0}({1:N0})点功德	Gain {0} ({1:N0}) virtue
-被悲悯之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时心怀悲悯而心态优越，因此御器技能，术法技能，护体技能均突破极限1级。	Becomes Sympathetic. Practice efficiency, learning speed and mental state are drastically reduced. In the state, the character will become very Sympathetic, thus gaining the confidence to fight. Breakthroughs 1 level of Artifact Crafting, Spell and Protection.
+累计获得{0}({1:N0})点功德	Ganhe {0} ({1:N0}) virtude
+被悲悯之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时心怀悲悯而心态优越，因此御器技能，术法技能，护体技能均突破极限1级。	Torna-se Simpático. A eficiência da prática, a velocidade de aprendizado e o estado mental são drasticamente reduzidos. No estado, o personagem se tornará muito Simpático, ganhando assim confiança para lutar. Avanços 1 nível de Criação de Artefatos, Magia e Proteção.
 焦虑	Anxious
-处在瓶颈状态不突破累积{0}({1:N0})秒	Remain at a breakthrough state without performing breakthrough for {0} ({1:N0}) sec
-被焦虑之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时焦躁惶恐而急进难安，因此御器技能突破极限4级，术法技能，护体技能降低3级。	Troubled by anxiety. Practice efficiency, learning speed and mental state are drastically reduced. In the state, the character will be too anxious to think before they act. Breakthroughs 4 levels of Artifact Mastery, and lowers 3 levels of Spell and Protection.
+处在瓶颈状态不突破累积{0}({1:N0})秒	Permanecer em um estado de avanço sem realizar avanço por {0} ({1:N0}) seg
+被焦虑之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时焦躁惶恐而急进难安，因此御器技能突破极限4级，术法技能，护体技能降低3级。	Incomodado pela ansiedade. A eficiência da prática, a velocidade de aprendizado e o estado mental são drasticamente reduzidos. No estado, o personagem ficará muito ansioso para pensar antes de agir. Avanços 4 níveis de Maestria de Artefato e reduz 3 níveis de Magia e Proteção.
 抑郁	Depressed
-情绪低于50累计{0}({1:N0})秒	Mood remains lower than 50 for {0} ({1:N0}) sec
-被抑郁之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时情绪低沉而心静消极，因此术法技能突破极限4级，御器技能，护体技能降低3级。	Troubled by depression. Practice efficiency, learning speed and mental state are drastically reduced. In the state, the character will be too depressed to think positively. Breakthroughs 4 levels of Spell, and lowers 3 levels of Artifact Mastery and Protection.
+情绪低于50累计{0}({1:N0})秒	Humor permanece abaixo de 50 por {0} ({1:N0}) seg
+被抑郁之念萦绕，修行速度，学习速度，心境大幅下降。角色在此状态下战斗时情绪低沉而心静消极，因此术法技能突破极限4级，御器技能，护体技能降低3级。	Perturbado pela depressão. A eficiência da prática, a velocidade de aprendizado e o estado mental são drasticamente reduzidos. No estado, o personagem ficará muito deprimido para pensar positivamente. Avanço 4 níveis de Magia e reduz 3 níveis de Maestria e Proteção de Artefato.
 动	Move
-神修在心境为“动”时，心境会自然提高，情绪越好，提高速度越快。	When the mental state is 'move', it will be naturally raised, as a better mood means a faster rise.
-欲动中求静，需在放纵之下保持心境为100，持续{0:N1}天。	To seek a 'steady' mind, keep the mental state at 100 during indulgence for {0:N1} days.
+神修在心境为“动”时，心境会自然提高，情绪越好，提高速度越快。	Quando o estado mental é 'mover', ele será naturalmente elevado, pois um humor melhor significa uma ascensão mais rápida.
+欲动中求静，需在放纵之下保持心境为100，持续{0:N1}天。	Para buscar uma mente 'estável', mantenha o estado mental em 100 durante a indulgência por {0:N1} dias.
 静	Calm
-神修在心境为“静”时，心境会匀速自然提高，不收任何外部条件影响。	When the mental state is 'steady', it will be naturally raised at a steady pace, not affected by outside factors.
-欲静中求寂，需在心斋之下保持心境200，且心绪低于50，持续{0:N1}天。角色悟性越高，需要持续的时间越长。	To seek a 'still' mind, keep the mental state at 200 and distress lower than 50 during mind fasting for {0:N1} days. The greater the character's intelligence, the longer it takes to achieve the mental state.
+神修在心境为“静”时，心境会匀速自然提高，不收任何外部条件影响。	Quando o estado mental é 'estável', ele aumentará naturalmente em um ritmo constante, não afetado por fatores externos.
+欲静中求寂，需在心斋之下保持心境200，且心绪低于50，持续{0:N1}天。角色悟性越高，需要持续的时间越长。	Para buscar uma mente 'tranquila', mantenha o estado mental em 200 e a angústia abaixo de 50 durante o jejum mental por {0:N1} dias. Quanto maior a inteligência do personagem, mais tempo leva para atingir o estado mental.
 寂	Still
-神修在心境为“寂”时，心境只有在心绪低于100时才会增加。心绪越低，增加速度越快。反之则会减少。	When the mental state is 'still', it will only be raised if the distress is lower than 100. A lower distress means a faster rise. Otherwise it will be reduced.
-欲寂中求圣，必须达神国境后，在克己状态下保持心境300，神性大于20，持续{0:N1}天。角色悟性越高，需要持续的时间越长。	To seek a 'sacred' mind, keep the mental state at 300 and divinity higher than 20 during self-restraining after reaching the Divine State for {0:N1} days. The greater the character's intelligence, the longer it takes to achieve the mental state.
+神修在心境为“寂”时，心境只有在心绪低于100时才会增加。心绪越低，增加速度越快。反之则会减少。	Quando o estado mental está 'parado', ele só aumentará se o distress for menor que 100. Um distress menor significa uma subida mais rápida. Caso contrário, será reduzido.
+欲寂中求圣，必须达神国境后，在克己状态下保持心境300，神性大于20，持续{0:N1}天。角色悟性越高，需要持续的时间越长。	Para buscar uma mente 'sagrada', mantenha o estado mental em 300 e a divindade acima de 20 durante a autocontenção após atingir o Estado Divino por {0:N1} dias. Quanto maior a inteligência do personagem, mais tempo leva para atingir o estado mental.
 圣	Sagely
 神修在心境为“圣”时，心境只有在神性大于50的情况下才会增加，神性越高，增加速度越快。反之则会减少。	Quando o estado mental é 'sagrado', ele só será elevado se a divindade for superior a 50, pois uma divindade superior significa uma ascensão mais rápida. Caso contrário, será reduzido.
-欲圣中求慧，必须保持心境400，持续{0:N1}天。角色悟性越高，需要持续的时间越短。	To seek a 'wise' mind, keep the mental state at 400 for {0:N1} days. The greater the character's intelligence, the faster it is to achieve the mental state.
+欲圣中求慧，必须保持心境400，持续{0:N1}天。角色悟性越高，需要持续的时间越短。	Para buscar uma mente 'sábia', mantenha o estado mental em 400 por {0:N1} dias. Quanto maior a inteligência do personagem, mais rápido é para atingir o estado mental.
 慧	Wise
-神修在心境为“慧”时，心境只有在悟性大于8的情况下才会增加，悟性越高，增加速度越快。反之则会减少。	When the mental state is 'wise', it will only be raised if the intelligence is greater than 8, as a greater intelligence means a faster rise. Otherwise it will be reduced.
-欲慧中求空，必须达圆满境后，在心斋之下保持心境500，且心绪低于10，持续{0:N1}天。	To seek an 'empty' mind, keep the mental state at 500 and distress lower than 10 during mind fasting after reaching the Attainment State for {0:N1} days.
-神修在心境为“空”时，心境只有在心绪低于50的情况下才会增加，心绪越低，增加速度越快。反之则会减少。	When the mental state is 'empty', it will only be raised if the distress is lower than 50, as a lower distress means a faster rise. Otherwise it will be reduced.
-欲空中求灵，必须在纵欲状态下，保持心境600，且人性大于60，持续{0:N1}天。角色机缘越高，需要持续时间越短。	To seek a 'spiritual' mind, keep the mental state at 600 and humanity higher than 60 during self-indulgence for {0:N1} days. The greater the character's luck, the faster it is to achieve the mental state.
+神修在心境为“慧”时，心境只有在悟性大于8的情况下才会增加，悟性越高，增加速度越快。反之则会减少。	Quando o estado mental é 'sábio', só será elevado se a inteligência for maior que 8, pois uma inteligência maior significa uma ascensão mais rápida. Caso contrário, será reduzido.
+欲慧中求空，必须达圆满境后，在心斋之下保持心境500，且心绪低于10，持续{0:N1}天。	Para buscar uma mente 'vazia', mantenha o estado mental em 500 e a angústia abaixo de 10 durante o jejum da mente após atingir o Estado de Realização por {0:N1} dias.
+神修在心境为“空”时，心境只有在心绪低于50的情况下才会增加，心绪越低，增加速度越快。反之则会减少。	Quando o estado mental está 'vazio', ele só será elevado se o distress for menor que 50, pois um distress menor significa uma subida mais rápida. Caso contrário, será reduzido.
+欲空中求灵，必须在纵欲状态下，保持心境600，且人性大于60，持续{0:N1}天。角色机缘越高，需要持续时间越短。	Para buscar uma mente "espiritual", mantenha o estado mental em 600 e a humanidade acima de 60 durante a auto-indulgência por {0:N1} dias. Quanto maior a sorte do personagem, mais rápido é para atingir o estado mental.
 灵	Spirit
 神修在心境为“灵”时，心境已然圆满，将持续上升，不收任何外部条件影响。	Quando o estado mental é 'espiritual', ele será realizado e elevado em um ritmo constante, não afetado por fatores externos.
-已然圆满，不可突破。	No breakthrough for an attained mind.
+已然圆满，不可突破。	Nenhum avanço para uma mente alcançada.
 心咆意哮	Raging Anger
 心猿意马	Absent Mind
 心念芜杂	Troubled Soul
 心宁气静	Tranquility
 心如止水	Good-tempered
-可以预见，你对此人的劝化如[color=#ffa900]当头棒喝[/color]，直入其内心深处	Your persuasion is going to be [color=#ffa900]a wake-up call[/color] to this person, resonating with them.
-可以预见，此人对你的劝化[color=#f700ff]颇有兴致[/color]，应该有所共鸣	This person is going to be [color=#f700ff]quite interested[/color] in and possibly resonates with your persuasion.
-可以预见，此人对你的劝化[color=#0099ff]略有思索[/color]，也许会有所触动	This person is going to [color=#0099ff]think about[/color] and possibly be moved by your persuasion.
-可以预见，此人对你的劝化[color=#33cc00]不屑一顾[/color]，不太能听得进去	This person is going to be [color=#33cc00]indifferent[/color] toward and ignore your persuasion.
-可以预见，你对此人的劝化如[color=#ffffff]对牛弹琴[/color]，完全没用	Your persuasion is going to be [color=#ffffff]preaching to deaf ears[/color] to this person, completely meaningless.
+可以预见，你对此人的劝化如[color=#ffa900]当头棒喝[/color]，直入其内心深处	Sua persuasão será [color=#ffa900]um alerta[/color] para essa pessoa, ressoando com ela.
+可以预见，此人对你的劝化[color=#f700ff]颇有兴致[/color]，应该有所共鸣	Essa pessoa ficará [color=#f700ff]bastante interessada[/color] e possivelmente ressoará com sua persuasão.
+可以预见，此人对你的劝化[color=#0099ff]略有思索[/color]，也许会有所触动	Essa pessoa vai [color=#0099ff]pensar sobre[/color] e possivelmente se emocionar com sua persuasão.
+可以预见，此人对你的劝化[color=#33cc00]不屑一顾[/color]，不太能听得进去	Essa pessoa será [color=#33cc00]indiferente[/color] e ignorará sua persuasão.
+可以预见，你对此人的劝化如[color=#ffffff]对牛弹琴[/color]，完全没用	Sua persuasão será [color=#ffffff]pregar para ouvidos surdos[/color] para essa pessoa, completamente sem sentido.
 {0:F2}/秒	{0:F2}/sec
-防御成功: {0:P3}	Defense Success: {0:P3}
-防御坚韧: {0:F0}	Defense Endurance: {0:F0}
-法宝镇压: {0:P3}	Artifact Suppression: {0:P3}
-攻击穿透: {0:P3}	Attack Penetration: {0:P3}
-攻击命中: {0:P3}	Attack Accuracy: {0:P3}
-攻击威力: {0:F0}	Attack Power: {0:F0}
-真炁恢复: {0:F2}/秒	True Qi Recovery: {0:F2}/sec
-真炁消耗: {0:F2}/秒	True Qi Consumption: {0:F2}/sec
-金属性伤害减免: {0:P3}	Metal Damage Reduction: {0:P3}
-木属性伤害减免: {0:P3}	Wood Damage Reduction: {0:P3}
-水属性伤害减免: {0:P3}	Water Damage Reduction: {0:P3}
-火属性伤害减免: {0:P3}	Fire Damage Reduction: {0:P3}
+防御成功: {0:P3}	Sucesso de defesa: {0:P3}
+防御坚韧: {0:F0}	Resistência de Defesa: {0:F0}
+法宝镇压: {0:P3}	Supressão de Artefato: {0:P3}
+攻击穿透: {0:P3}	Penetração de Ataque: {0:P3}
+攻击命中: {0:P3}	Precisão de ataque: {0:P3}
+攻击威力: {0:F0}	Poder de ataque: {0:F0}
+真炁恢复: {0:F2}/秒	Recuperação Qi Verdadeiro: {0:F2}/sec
+真炁消耗: {0:F2}/秒	Consumo Qi Verdadeiro: {0:F2}/sec
+金属性伤害减免: {0:P3}	Redução de dano de metal: {0:P3}
+木属性伤害减免: {0:P3}	Redução de dano de madeira: {0:P3}
+水属性伤害减免: {0:P3}	Redução de Dano de Água: {0:P3}
+火属性伤害减免: {0:P3}	Redução de Dano de Fogo: {0:P3}
 土属性伤害减免: {0:P3}	Earth Damage Reduction: {0:P3}
-防御成功\n尝试使用此秘体承担伤害时的成功几率。	Defense Success\nThe chance of success when attempting to use this Secret Body to withstand damage.
-防御坚韧\n此秘体承受攻击时抵抗伤害的程度。	Defense Endurance\nThe ability to resist damage when this Secret Body withstands attacks.
-法宝镇压\n使用此秘体与法宝进行缠斗时，直接将法宝捕获镇压的几率。敌人御器能力越强，捕获法宝后真炁消耗速度就越大。	Artifact Suppression\nThe chance of suppressing and capturing an artifact directly when using this Secret Body against artifacts. The stronger the enemy's Artifact Mastery, the faster it consumes True Qi after capturing an artifact.
-攻击穿透\n使用此秘体攻击拥有灵气护盾的目标时，攻击穿透灵气护盾的比率。	Attack Penetration\nThe chance of penetrating the Qi Barrier when using this Secret Body to attack targets with Qi Barriers.
-攻击命中\n尝试使用此秘体进攻时的成功几率。	Attack Accuracy\nThe chance of success when attempting to use this Secret Body to attack.
-攻击威力\n此秘体发动攻击时造成伤害的强度。	Attack Power\nThe magnitude of the damage caused by this Secret Body when attacking.
-真炁恢复\n在启用该秘体时，会持续的恢复真炁。	True Qi Recovery\nThe amount of True Qi you continuously recover when this Secret Body is activated.
+防御成功\n尝试使用此秘体承担伤害时的成功几率。	Sucesso na Defesa\nA chance de sucesso ao tentar usar este Corpo Secreto para resistir a danos.
+防御坚韧\n此秘体承受攻击时抵抗伤害的程度。	Resistência de defesa \nA capacidade de resistir a danos quando este Corpo Secreto resiste a ataques.
+法宝镇压\n使用此秘体与法宝进行缠斗时，直接将法宝捕获镇压的几率。敌人御器能力越强，捕获法宝后真炁消耗速度就越大。	Supressão de Artefato\nA chance de suprimir e capturar um artefato diretamente ao usar este Corpo Secreto contra artefatos. Quanto mais forte for a Maestria de Artefato do inimigo, mais rápido ele consumirá Qi Verdadeiro após capturar um artefato.
+攻击穿透\n使用此秘体攻击拥有灵气护盾的目标时，攻击穿透灵气护盾的比率。	Penetração de Ataque\nA chance de penetrar a Barreira de Qi ao usar este Corpo Secreto para atacar alvos com Barreiras de Qi.
+攻击命中\n尝试使用此秘体进攻时的成功几率。	Precisão de Ataque\nA chance de sucesso ao tentar usar este Corpo Secreto para atacar.
+攻击威力\n此秘体发动攻击时造成伤害的强度。	Poder de Ataque\nA magnitude do dano causado por este Corpo Secreto ao atacar.
+真炁恢复\n在启用该秘体时，会持续的恢复真炁。	Recuperação de Qi Verdadeiro\nA quantidade de Qi Verdadeiro que você recupera continuamente quando este Corpo Secreto é ativado.
 真炁消耗\n在启用该秘体时，会持续的消耗真炁。	True Qi Consumption\nThe amount of True Qi you continuously consume when this Secret Body is activated.
-金属性伤害减免	Metal Damage Reduction
-木属性伤害减免}	Wood Damage Reduction}
-水属性伤害减免	Water Damage Reduction
-火属性伤害减免	Fire Damage Reduction
-土属性伤害减免	Earth Damage Reduction
+金属性伤害减免	Redução de dano de metal
+木属性伤害减免}	Redução de dano de metal
+水属性伤害减免	Redução de Dano de Água
+火属性伤害减免	Redução de Dano de Fogo
+土属性伤害减免	Redução de Dano de Terra
 攻击	Attack
 防御	Defense
 效果	Effect
@@ -590,7 +590,7 @@ _结局	_The End
 存档中...	Salvando...
 存档	Save
 存档完毕！	Jogo Salvo!
-记录世界	Recording world
+记录世界	Mundo de gravação
 准备数据	Preparando dados
 写入数据	Gravando dados
 破碎时空，话外别传	Epílogos no tempo e espaço quebrados

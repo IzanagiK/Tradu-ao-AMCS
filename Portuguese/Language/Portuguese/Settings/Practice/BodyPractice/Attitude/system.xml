@@ -5,19 +5,19 @@
 		</Text>
 		<Text Name="SYS_ATK">
 			<DisplayName>Attack Stance</DisplayName>
-			<Desc>The physical cultivator will attack the enemy's physical body with full force, but the secret body's defense ability will be reduced.</Desc>
+			<Desc>O cultivador físico atacará o corpo físico do inimigo com força total, mas a capacidade de defesa do corpo secreto será reduzida.</Desc>
 		</Text>
 		<Text Name="SYS_NORMAL">
 			<DisplayName>Common Stance</DisplayName>
-			<Desc>The standard battle stance for physical cultivators. It first deals with the enemy's artifact and then attack their physical body. This stance is equally good at attack and defense and well-balanced in different abilities.</Desc>
+			<Desc>A postura de batalha padrão para cultivadores físicos. Ele primeiro lida com o artefato do inimigo e depois ataca seu corpo físico. Essa postura é igualmente boa no ataque e na defesa e bem equilibrada em diferentes habilidades.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_ManJi">
 			<DisplayName>Barbarian Will</DisplayName>
-			<Desc>Uses the strong battle will to command the whole body to move and directly attack the enemy's physical body, drastically increasing the attack ability while maintaining instinctual defense.</Desc>
+			<Desc>Usa a forte vontade de batalha para comandar todo o corpo para se mover e atacar diretamente o corpo físico do inimigo, aumentando drasticamente a capacidade de ataque enquanto mantém a defesa instintiva.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_WangZhe">
 			<DisplayName>Will of the King</DisplayName>
-			<Desc>Stays calm and composed while facing the battle with the heart of a king. Reduces the secret body consumption.</Desc>
+			<Desc>Permanece calmo e composto enquanto enfrenta a batalha com o coração de um rei. Reduz o consumo secreto do corpo.</Desc>
 		</Text>
 	</List>
 </Texts>
