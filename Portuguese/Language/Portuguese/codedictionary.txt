@@ -3618,7 +3618,7 @@ Trap编辑。	Trap Edit.
 {0:N1}米	{0:N1}m
 {0}是{1}	{0} is {1}
 心绪：{0:N0}\n所有情绪的绝对值相加，情绪的数量和程度都会提高心绪的复杂程度。心绪也受情绪放大系数影响。\n共五个层次：\n[color=#FFFFFF]■[/color]心咆意哮\n[color=#00c400]■[/color]心猿意马\n[color=#0099cc]■[/color]心念芜杂\n[color=#F700FF]■[/color]心宁气静\n[color=#FF8B00]■[/color]心如止水	Distress: {0:N0}\nO valor absoluto total de todo humor. O número e a extensão dos humores complicarão a angústia. Também é afetado pelo multiplicador de humor. \nCinco estados no total: \n[color=#FFFFFF]■[/color] Raging Anger \n[color=#00c400]■[/color] Absent Mind \n[color=#0099cc]■[/color] Alma perturbada \n[color=#F700FF]■[/color] Tranqüilidade \n[color=#FF8B00]■[/color] Equilibrado
-\n剩余: {0}	\nRemanescente: {0}
+\n剩余: {0}	\nRestante {0}
 尚未开辟神国	O reino divino ainda não foi estabelecido.
 角色死亡，无法展开神国	O personagem está morto. Incapaz de estabelecer o Divine Realm.
 此处无法展开神国	Incapaz de estabelecer o Reino Divino aqui.
@@ -3677,28 +3677,28 @@ Trap编辑。	Trap Edit.
 影响灵宠的灵气护盾强度。	Afeta o Poder da Barreira de Qi do Pet.
 影响灵宠的术法威力和灵气消耗。	Afeta o poder mágico e o custo de Qi do Pet.
 {0}:{1}\n通过锻炼可以提高，{0}营养越高，提高越快。	{0}:{1}\nPode ser melhorado através do exercício. Quanto maior a nutrição {0}, mais rápido ela pode ser melhorada.
-{0}营养：{1:N0}\n营养上限：100\n营养越高，对应的属性成长越快，消耗也越多，通过不同的饮食习惯来影响当前营养。	{0} Nutrition: {1:N0}\nNutrition cap: 100\nThe higher the nutrition, the faster the corresponding stats grow and the more it consumes. You can affect the current nutrition with different dietary habits.
+{0}营养：{1:N0}\n营养上限：100\n营养越高，对应的属性成长越快，消耗也越多，通过不同的饮食习惯来影响当前营养。	{0} Nutrição: {1:N0}\capítulo de nutrição: 100\Quanto maior a nutrição, mais rápido as estatísticas correspondentes crescem e mais ele consome. Você pode afetar a nutrição atual com diferentes hábitos alimentares.
 半妖型态的妖族在一定时间后都将面对化形天劫，成功度过即可成功化为人形，失败则会被打回原型。灵智碎片越多天劫便越快降临。	Yaoguai em formas semi-humanas enfrentará a Tribulação de Metamorfose após um período de tempo. Aqueles que tiverem sucesso mudarão de forma para formas humanas, enquanto aqueles que falharem serão revertidos para suas aparências originais. Quanto mais fragmentos de inteligência houver, mais cedo a tribulação chegaria.
 {0:N0}天	{0:N0} d
 这个动物由修行者夺舍而来，觉醒灵智以后会迎来最严格的化形天劫，是否确定觉醒灵智	Este animal foi possuído por um cultivador. Uma vez despertada a inteligência, ela enfrentará a mais dura Tribulação de Metamorfose. Tem certeza de que deseja despertar sua inteligência?
 是否确定觉醒灵智	Tem certeza de que deseja despertar a inteligência?
 是否确定合成灵智碎片，合成以后将无法取消	Tem certeza de que deseja sintetizar fragmento de inteligência? Uma vez sintetizado, não pode ser revertido.
 思绪：{0}/{1}	Pensamento: {0}/{1}
-开启灵智\n{0:P0}	Awaken Intelligence\n{0:P0}
-开启\n灵智	Awaken\nIntelligence
+开启灵智\n{0:P0}	Despertar Inteligência\n{0:P0}
+开启\n灵智	Despertar\nInteligência
 由修行者夺舍而来，只要积累足够精元就可以开启灵智\n精元容量：{0:F0}/{1:F0} ({2:F0}%)	Ppossuído por um cultivador, pode ser despertado a inteligência desde que haja suficiente Estamina acumulado.\Capacidade de Estamina: {0:F0}/{1:F0} ({2:F0}%)
-开启灵智\n灵智碎片：{5}/({3}-{4})个\n精元容量：{0:F0}/{1:F0} ({2:F0}%)	Awaken Intelligence\nIntelligence Shard:{5}/({3}-{4})\nCapacidade de Estamina: {0:F0}/{1:F0} ({2:F0}%)
+开启灵智\n灵智碎片：{5}/({3}-{4})个\n精元容量：{0:F0}/{1:F0} ({2:F0}%)	Despertar Inteligência\nFragmento de inteligência:{5}/({3}-{4})\nCapacidade de Estamina: {0:F0}/{1:F0} ({2:F0}%)
 当前状态无法觉醒灵智	Incapaz de despertar a inteligência sob o status atual.
 正在觉醒灵智	Despertar da Inteligência
-请选择一个理智思绪	Select a Rationality Thought.
-请选择一个认知思绪	Select a Realization Thought.
-请选择一个感知思绪	Select a Perception Thought.
+请选择一个理智思绪	Selecione um Pensamento Racional.
+请选择一个认知思绪	Selecione um Pensamento de Realização.
+请选择一个感知思绪	Selecione um pensamento de Percepção.
 灵智碎片，可通过一条理智，认知，感知类型的思绪合成。	Fragmento de Inteligência, pode ser sintetizado com um Pensamento de Realização, Racionalidade e Percepção.
 灵智碎片：\n{2},{3},{4}\n	Intelligence Shard: \n{2},{3},{4}\n
 [color=#FF0000]{0}[/color]个灵智碎片开启灵智，化形天劫在[color=#FF0000]{1}[/color]天后降临	Awakened with [color=#FF0000]{0}[/color] Intelligence Shards. The Shapeshifting Tribulation is descending in [color=#FF0000]{1}[/color] days.
 {1}({0})\n{2:F0}岁\n寿元:{3}	{1} ({0})\n{2:F0} years old\nLifespan: {3}
 轮回者不能改变经历。	Reencarnadores não podem ter seus antecedentes alterados.
-\n剩余:{0}	\nRemanescente: {0}
+\n剩余:{0}	\nRestante {0}
 木头	Madeira
 皮毛布料	Pano de Pele
 修行相关	Relacionado à prática
