@@ -128,8 +128,8 @@
 			<Desc>[HENAME] é caloroso e acolhedor, facilitando a aproximação de outras pessoas.</Desc>
 		</Text>
 		<Text Name="SayHi">
-<DisplayName>Saudação</DisplayName>
-<Desc>[HENAME] e eu nos cumprimentamos.</Desc>
+			<DisplayName>Saudação</DisplayName>
+			<Desc>[HENAME] e eu nos cumprimentamos.</Desc>
 		</Text>
 		<Text Name="AfterTalk">
 			<DisplayName>Chat</DisplayName>
