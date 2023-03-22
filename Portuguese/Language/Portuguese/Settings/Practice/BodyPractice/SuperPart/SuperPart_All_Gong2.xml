@@ -115,14 +115,14 @@
 		</Text>
 		<Text Name="SuperPart_Gong_2_7">
 			<Prefix>Firetruck</Prefix>
-			<Sufixo>Sangue</Sufixo>
+			<Suffix>Sangue</Suffix>
 			<Desc>Remolda o coração com técnicas para que produza Firestruck Blood. Usar o sangue para remodelar pode efetivamente aumentar o resultado. Se este método for usado para remodelar a coluna, há uma pequena chance de que ela sofra mutação e desenvolva potencial para a evolução de todos os ossos.</Desc>
 			<Levels.0.Title>Primeira Camada</Levels.0.Title>
 			<Levels.0.Desc>Adquira Magia de Remoldagem: Firestruck Remold</Levels.0.Desc>
-			</Texto>
+			</Text>
 			<Text Name="SuperPart_Gong_2_8">
 			<Prefix>Deus Bárbaro</Prefix>
-			<Sufixo>Coração</Sufixo>
+			<Suffix>Coração</Suffix>
 			<Desc>Remolda o coração à sua forma primitiva para aumentar drasticamente a taxa de recuperação do Qi Verdadeiro.</Desc>
 			<Levels.0.Title>Primeira Camada</Levels.0.Title>
 			<Levels.0.Desc>Aumenta ligeiramente a taxa de recuperação do Qi verdadeiro do corpo secreto.</Levels.0.Desc>
@@ -139,15 +139,15 @@
 			<Levels.0.Desc>Desbloqueie Postura de Batalha: Vontade Bárbara</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_2_10">
-			<Prefixo>Polar</Prefixo>
+			<Prefix>Polar</Prefix>
 			<Suffix>Olhos</Suffix>
 			<Desc>Remolda os olhos com técnicas e permite que eles se conectem com os Oito Pólos para antecipar o movimento do inimigo e aumentar drasticamente a precisão do ataque.</Desc>
 			<Levels.0.Title>Primeira Camada</Levels.0.Title>
 			<Levels.0.Desc>Aumenta bastante a precisão de ataque do cultivador físico.</Levels.0.Desc>
-			</Texto>
+			</Text>
 			<Text Name="SuperPart_Gong_2_11">
 			<Prefix>Devorando</Prefix>
-			<Sufixo>Boca</Sufixo>
+			<Suffix>Boca</Suffix>
 			<Desc>Um corpo secreto imitando a boca de Taotie. Usar este corpo secreto pode devorar diretamente a energia do céu e da terra para reabastecimento.</Desc>
 			<Levels.0.Title>Primeira Camada</Levels.0.Title>
 			<Levels.0.Desc>Adquira o Milagre: Boca Devoradora</Levels.0.Desc>

@@ -52,12 +52,12 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv0_Mouth">
 			<DisplayName>Boca temperada</DisplayName>
-			<Desc>Melhora a função básica da boca através da remodelagem. O processo pode ser acelerado usando Essência da vida para mudar o destino e remodelar o corpo.[size=10][color=#D06508]\n Aumenta o nível máximo de itens a serem devorados pelo cultivador físico em uma pequena quantidade.\ n Aumenta a chance de ganhar essência ao devorar itens em uma pequena quantidade.\n Aumenta a quantidade de essência obtida ao devorar itens em uma pequena quantidade.\n Aumenta ligeiramente a taxa de consumo de Qi Verdadeiro do corpo secreto.[/color][/size ]</Desc>
+			<Desc>Melhora a função básica da boca através da remodelagem. O processo pode ser acelerado usando Essência da vida para mudar o destino e remodelar o corpo.[size=10][color=#D06508]\n Aumenta o nível máximo de itens a serem devorados pelo cultivador físico em uma pequena quantidade.\ n Aumenta a chance de ganhar essência ao devorar itens em uma pequena quantidade.\n Aumenta a quantidade de essência obtida ao devorar itens em uma pequena quantidade.\n Aumenta ligeiramente a taxa de consumo de Qi Verdadeiro do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv0_Throat">
 			<DisplayName>Pescoço Temperado</DisplayName>
 			<Desc>Melhora a função básica do pescoço através da remodelagem. O processo pode ser acelerado usando Essência da vida para mudar o destino e remodelar o corpo. eficiência respiratória em uma pequena quantidade.\n Aumenta ligeiramente a taxa de consumo de Qi verdadeiro do corpo secreto.[/color][/size]</Desc>
-		</Texto>
+		</Text>
 		<Text Name="QuenchingLabel_Lv0_Heart">
 			<DisplayName>Coração temperado</DisplayName>
 			<Desc>Melhora a função básica do coração através da remodelação. O processo pode ser acelerado usando Essência da vida para mudar o destino e remodelar o corpo. a taxa de remodelação do cultivador físico em uma pequena quantidade.\n Aumenta a tampa de remodelação da carne do cultivador físico em uma pequena quantidade.\n Aumenta ligeiramente a taxa de consumo de Qi Verdadeiro do corpo secreto.[/color][/size]</Desc>
@@ -105,18 +105,18 @@
 		<Text Name="QuenchingLabel_Lv1_O01_All">
 			<DisplayName>Função vitalizada</DisplayName>
 			<Desc>Revigora os órgãos para fornecer ao cultivador físico mais Qi Verdadeiro, o que tem mais chance de acontecer durante a remodelação normal dos órgãos, e o refinamento com a Essência Abençoada do Feng Shui aumentará ainda mais a chance drasticamente.[size=10][color=#D06508]\n Aumenta ligeiramente o limite de Qi verdadeiro do cultivador físico.[/color][/size]</Desc>
-		</Texto>
+		</Text>
 		<Text Name="QuenchingLabel_Lv2_F01_All">
 			<DisplayName>Carne Aprimorada</DisplayName>
-			<Desc>Faz a carne crescer mais forte e se transformar em músculos, o que tem uma chance de acontecer durante a remodelação normal da carne, e refinar com Essência do Feng Shui Amaldiçoado aumentará ainda mais a chance drasticamente.[size=10][color=#D06508 ]\n Aumenta moderadamente a resistência secreta do corpo.[/color][/size]</Desc>
+			<Desc>Faz a carne crescer mais forte e se transformar em músculos, o que tem uma chance de acontecer durante a remodelação normal da carne, e refinar com Essência do Feng Shui Amaldiçoado aumentará ainda mais a chance drasticamente.[size=10][color=#D06508]\n Aumenta moderadamente a resistência secreta do corpo.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_F02_All">
 			<DisplayName>Sangue Corrosivo</DisplayName>
-			<Desc>Torna o sangue mais corrosivo e flui mais rápido enquanto o cultivador físico ataca, o que tem chance de acontecer durante a remodelação normal da carne, e refinar com Essência do Feng Shui Amaldiçoado aumentará ainda mais a chance drasticamente.[size=10][ color=#D06508]\n Aumenta moderadamente o poder do corpo secreto.[/color][/size]</Desc>
+			<Desc>Torna o sangue mais corrosivo e flui mais rápido enquanto o cultivador físico ataca, o que tem chance de acontecer durante a remodelação normal da carne, e refinar com Essência do Feng Shui Amaldiçoado aumentará ainda mais a chance drasticamente.[size=10][color=#D06508]\n Aumenta moderadamente o poder do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_B01_All">
 			<DisplayName>Osso Maligno</DisplayName>
-			<Desc>Amaldiçoa os ossos e os torna penetrantes enquanto ataca, o que tem chance de acontecer durante a remodelação normal dos ossos, e refinar com Essência Maldita de Feng Shui aumentará ainda mais a chance drasticamente.[size=10][color=#D06508 ]\n Aumenta fundamentalmente a chance de penetração da barreira secreta de Qi do corpo em uma quantidade moderada.[/color][/size]</Desc>
+			<Desc>Amaldiçoa os ossos e os torna penetrantes enquanto ataca, o que tem chance de acontecer durante a remodelação normal dos ossos, e refinar com Essência Maldita de Feng Shui aumentará ainda mais a chance drasticamente.[size=10][color=#D06508]\n Aumenta fundamentalmente a chance de penetração da barreira secreta de Qi do corpo em uma quantidade moderada.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_O01_All">
 			<DisplayName>Respiração Vazia</DisplayName>
@@ -128,7 +128,7 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_All">
 			<DisplayName>Osso Psíquico</DisplayName>
-			<Desc>Abençoa os ossos e os torna mais flexíveis, o que tem uma pequena chance de acontecer durante a remodelação normal dos ossos, e o refinamento com a Essência Abençoada do Feng Shui aumentará ainda mais a chance drasticamente.[size=10][color=#D06508 ]\n Aumenta fundamentalmente a precisão do ataque do corpo secreto em uma pequena quantidade.\n Aumenta fundamentalmente a taxa de sucesso da defesa do corpo secreto em uma pequena quantidade.[/color][/size]</Desc>
+			<Desc>Abençoa os ossos e os torna mais flexíveis, o que tem uma pequena chance de acontecer durante a remodelação normal dos ossos, e o refinamento com a Essência Abençoada do Feng Shui aumentará ainda mais a chance drasticamente.[size=10][color=#D06508]\n Aumenta fundamentalmente a precisão do ataque do corpo secreto em uma pequena quantidade.\n Aumenta fundamentalmente a taxa de sucesso da defesa do corpo secreto em uma pequena quantidade.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_All">
 			<DisplayName>Potencial terrível</DisplayName>
@@ -175,8 +175,8 @@
 			<Desc>O sangue é até certo ponto regenerativo que pode reduzir o custo do Qi Verdadeiro durante o uso, o que tem mais chance de acontecer ao refinar a carne com Essência de Germinação.[size=10][color=#D06508]\n Reduz o corpo secreto Taxa de consumo de Qi verdadeiro moderadamente.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_B01_Chun">
-			<DisplayName>Restoring Bone</DisplayName>
-			<Desc>The bones to some extent can restore themselves to reduce the cost of True Qi during use, which has more chance of happening when refining the bones with Germination Essence.[size=10][color=#D06508]\n Reduces the secret body True Qi consumption rate moderately.[/color][/size]</Desc>
+			<DisplayName>Restaurando osso</DisplayName>
+			<Desc>Os ossos até certo ponto podem se restaurar para reduzir o custo do Qi Verdadeiro durante o uso, o que tem mais chance de acontecer ao refinar os ossos com Essência de Germinação.[size=10][color=#D06508]\n Reduz o corpo secreto Taxa de consumo de Qi verdadeiro moderadamente.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_O01_Chun">
 			<DisplayName>Função Metabólica</DisplayName>
@@ -191,13 +191,12 @@
 			<Desc>Cresce ainda mais os ossos para melhorar sua força, o que tem mais chance de acontecer ao refinar os ossos com Blossom Essence.[size=10][color=#D06508]\n Aumenta ligeiramente o poder do corpo secreto.\n Aumenta o resistência corporal secreta ligeiramente.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_O01_Xia">
-			<DisplayName>Activated Function</DisplayName>
-			<Desc>Activates the function of the organs for better performance at a critical moment, which has more chance of happening when refining the organs with Blossom Essence.[size=10][color=#D06508]\n Increases the ability improvement rate during the physical cultivator's furious berserk slightly.[/color][/size]</Desc>
+			<DisplayName>Função Ativada</DisplayName>
+			<Desc>Ativa a função dos órgãos para melhor desempenho em um momento crítico, o que tem mais chance de acontecer ao refinar os órgãos com Blossom Essence.[size=10][color=#D06508]\n Aumenta a taxa de melhoria de habilidade durante o furioso berserk do cultivador físico ligeiramente.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_F01_Qiu">
 			<DisplayName>Sangue em decomposição</DisplayName>
-			<Desc>Torna o sangue corrosivo, mas enquanto isso, sua corrosividade afetará negativamente a resistência a danos. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Withering Essence.[size=10][color=#D06508]\n Aumenta ligeiramente a chance de penetração da barreira de Qi do corpo secreto.\n Reduz ligeiramente a resistência do corpo secreto.[/color ][/size]</Desc>
-			</Texto>
+			<Desc>Torna o sangue corrosivo, mas enquanto isso, sua corrosividade afetará negativamente a resistência a danos. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Withering Essence.[size=10][color=#D06508]\n Aumenta ligeiramente a chance de penetração da barreira de Qi do corpo secreto.\n Reduz ligeiramente a resistência do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_B01_Qiu">
 			<DisplayName>Osso Cortante</DisplayName>
@@ -205,7 +204,7 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_O01_Qiu">
 			<DisplayName>Função suave</DisplayName>
-			<Desc>Ativa a função total dos órgãos, mas também usará muita energia do corpo secreto e afetará negativamente a resistência a danos. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Withering Essence.[size=10][color=#D06508]\n Aumenta drasticamente a taxa de recuperação do Qi Verdadeiro do corpo secreto.\n Reduz ligeiramente a resistência do corpo secreto.[/color ][/size]</Desc>
+			<Desc>Ativa a função total dos órgãos, mas também usará muita energia do corpo secreto e afetará negativamente a resistência a danos. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Withering Essence.[size=10][color=#D06508]\n Aumenta drasticamente a taxa de recuperação do Qi Verdadeiro do corpo secreto.\n Reduz ligeiramente a resistência do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_F01_Dong">
 			<DisplayName>Sangue em repouso</DisplayName>
@@ -221,7 +220,7 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_F01_DaYaoYuanJing">
 			<DisplayName>Carne Bestial</DisplayName>
-			<Desc>A carne sofre mutações após ser corroída pelo poder de Yaoguai, o que aumenta drasticamente a velocidade de reação, mas também torna mais difícil de controlar. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Yaoguai Essence.[size=10][color=#D06508]\n Aumenta moderadamente a precisão do ataque do corpo secreto.\n Reduz ligeiramente a taxa de sucesso da defesa do corpo secreto.[/color ][/size]</Desc>
+			<Desc>A carne sofre mutações após ser corroída pelo poder de Yaoguai, o que aumenta drasticamente a velocidade de reação, mas também torna mais difícil de controlar. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Yaoguai Essence.[size=10][color=#D06508]\n Aumenta moderadamente a precisão do ataque do corpo secreto.\n Reduz ligeiramente a taxa de sucesso da defesa do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_B01_DaYaoYuanJing">
 			<DisplayName>Osso Bestial</DisplayName>
@@ -253,7 +252,7 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_F01_SiHunZhiXi">
 			<DisplayName>Inativando carne</DisplayName>
-			<Desc>A carne sofre mutações e gera Qi Verdadeiro que inativa as funções. Esta mudança tem mais chance de acontecer ao refinar a carne com Wraith Breath.[size=10][color=#D06508]\n Aumenta moderadamente o poder do corpo secreto.\n Aumenta ligeiramente a chance de penetração da barreira de Qi do corpo secreto.[/color ][/size]</Desc>
+			<Desc>A carne sofre mutações e gera Qi Verdadeiro que inativa as funções. Esta mudança tem mais chance de acontecer ao refinar a carne com Wraith Breath.[size=10][color=#D06508]\n Aumenta moderadamente o poder do corpo secreto.\n Aumenta ligeiramente a chance de penetração da barreira de Qi do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_SiHunZhiXi">
 			<DisplayName>Músculo sanguinário</DisplayName>
@@ -261,15 +260,15 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F02_SiHunZhiXi">
 			<DisplayName>Pele sem sentido</DisplayName>
-			<Desc>A superfície da carne é queratinizada e perdeu a maioria dos sentidos, o que torna a barreira mais forte e resistente a danos normais. Esta mudança tem mais chance de acontecer ao refinar a carne com Wraith Breath.[size=10][color=#D06508]\n Aumenta moderadamente a resistência do corpo secreto.\n Aumenta moderadamente a chance de supressão do artefato do corpo secreto.[/color] [/size]</Desc>
+			<Desc>A superfície da carne é queratinizada e perdeu a maioria dos sentidos, o que torna a barreira mais forte e resistente a danos normais. Esta mudança tem mais chance de acontecer ao refinar a carne com Wraith Breath.[size=10][color=#D06508]\n Aumenta moderadamente a resistência do corpo secreto.\n Aumenta moderadamente a chance de supressão do artefato do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_B01_SiHunZhiXi">
 			<DisplayName>Osso Cinzento</DisplayName>
-			<Desc>Os ossos são corroídos pelos mortos e se tornam cinza, o que pode ativar o Qi Verdadeiro com poder fraco. Esta mudança tem mais chance de acontecer ao refinar os ossos com Wraith Breath.[size=10][color=#D06508]\n Aumenta moderadamente a resistência do corpo secreto.\n Aumenta ligeiramente a taxa de sucesso da defesa do corpo secreto.[/color] [/size]</Desc>
+			<Desc>Os ossos são corroídos pelos mortos e se tornam cinza, o que pode ativar o Qi Verdadeiro com poder fraco. Esta mudança tem mais chance de acontecer ao refinar os ossos com Wraith Breath.[size=10][color=#D06508]\n Aumenta moderadamente a resistência do corpo secreto.\n Aumenta ligeiramente a taxa de sucesso da defesa do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_SiHunZhiXi">
 			<DisplayName>Osso oco</DisplayName>
-			<Desc>Os ossos sofrem mutações e ficam ocos por dentro, o que aumenta drasticamente a agilidade. Esta mudança tem mais chance de acontecer ao refinar os ossos com Wraith Breath.[size=10][color=#D06508]\n Aumenta moderadamente a precisão do ataque do corpo secreto.\n Aumenta moderadamente a taxa de sucesso da defesa do corpo secreto.[/color ][/size]</Desc>
+			<Desc>Os ossos sofrem mutações e ficam ocos por dentro, o que aumenta drasticamente a agilidade. Esta mudança tem mais chance de acontecer ao refinar os ossos com Wraith Breath.[size=10][color=#D06508]\n Aumenta moderadamente a precisão do ataque do corpo secreto.\n Aumenta moderadamente a taxa de sucesso da defesa do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_O01_SiHunZhiXi">
 			<DisplayName>Órgão podre</DisplayName>
@@ -285,11 +284,11 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_WuHuiJingHua">
 			<DisplayName>Olhos de parasita</DisplayName>
-			<Desc>A carne sofre mutações sob forte estimulação e desenvolve muitos olhos perspicazes. Essa mudança tem mais chance de acontecer ao refinar a carne com Filth Essence.[size=10][color=#D06508]\n Aumenta drasticamente a precisão do ataque do corpo secreto.\n Aumenta drasticamente a taxa de sucesso da defesa do corpo secreto.[/color ][/size]</Desc>
+			<Desc>A carne sofre mutações sob forte estimulação e desenvolve muitos olhos perspicazes. Essa mudança tem mais chance de acontecer ao refinar a carne com Filth Essence.[size=10][color=#D06508]\n Aumenta drasticamente a precisão do ataque do corpo secreto.\n Aumenta drasticamente a taxa de sucesso da defesa do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_B01_WuHuiJingHua">
 			<DisplayName>Padrão Demoníaco</DisplayName>
-			<Desc>Os ossos sofrem mutações sob forte estimulação e desenvolvem muitos padrões demoníacos e estranhos, o que aumenta drasticamente a tolerância durante o berserk. Esta mudança tem mais chance de acontecer ao refinar os ossos com Filth Essence.[size=10][color=#D06508]\n Aumenta ligeiramente a duração do furioso berserk do cultivador físico.[/color][/size]</Desc >
+			<Desc>Os ossos sofrem mutações sob forte estimulação e desenvolvem muitos padrões demoníacos e estranhos, o que aumenta drasticamente a tolerância durante o berserk. Esta mudança tem mais chance de acontecer ao refinar os ossos com Filth Essence.[size=10][color=#D06508]\n Aumenta ligeiramente a duração do furioso berserk do cultivador físico.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_WuHuiJingHua">
 			<DisplayName>Devorando Osso</DisplayName>
@@ -297,7 +296,7 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B02_WuHuiJingHua">
 			<DisplayName>Deformidade Externa</DisplayName>
-			<Desc>Os tons mudam para baixo uma forte estimulação, atravessam a carne e formam estruturas externas distorcidas, que afetam os controles, mas também aumentam drasticamente o poder. Esta mudança tem mais possibilidades de ocorrer quando os tons são refinados com Filth Essence.[size=10][color=#D06508]\n Aumenta drasticamente a resistência do corpo secreto.\n Reduz moderadamente a precisão do ataque ao corpo secreto.\ n Reduza moderadamente a taxa secreta de éxito de defesa do corpo.\n Reduza moderadamente a probabilidade de supressão do artefato do corpo secreto.[/color][/size]</Desc>
+			<Desc>Os ossos sofrem mutações sob forte estimulação, atravessam a carne e formam estruturas externas distorcidas, que afetam os controles, mas também aumentam drasticamente o poder. Esta mudança tem mais possibilidades de ocorrer quando os tons são refinados com Filth Essence.[size=10][color=#D06508]\n Aumenta drasticamente a resistência do corpo secreto.\n Reduz moderadamente a precisão do ataque ao corpo secreto.\ n Reduza moderadamente a taxa secreta de éxito de defesa do corpo.\n Reduza moderadamente a probabilidade de supressão do artefato do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv2_O01_WuHuiJingHua">
 			<DisplayName>Deformidade interna</DisplayName>
@@ -305,7 +304,7 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_WuHuiJingHua">
 			<DisplayName>Dividir órgão</DisplayName>
-			<Desc>Os órgãos sofrem mutações sob forte estimulação e se dividem em várias partes, que são mais exigentes para o corpo, mas podem aumentar drasticamente sua resistência a danos. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Filth Essence.[size=10][color=#D06508]\n Aumenta moderadamente a resistência do corpo secreto.\n Aumenta moderadamente a taxa de consumo de Qi Verdadeiro do corpo secreto.[/color ][/size]</Desc>
+			<Desc>Os órgãos sofrem mutações sob forte estimulação e se dividem em várias partes, que são mais exigentes para o corpo, mas podem aumentar drasticamente sua resistência a danos. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Filth Essence.[size=10][color=#D06508]\n Aumenta moderadamente a resistência do corpo secreto.\n Aumenta moderadamente a taxa de consumo de Qi Verdadeiro do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_WuXingZhiJing">
 			<DisplayName>Carne Invisível</DisplayName>
@@ -345,19 +344,19 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_ZhuLongYuanJing">
 			<DisplayName>Sangue Fantasma</DisplayName>
-			<Desc>O sangue muda e fica escuro como tinta depois de se fundir com a energia Yin gelada. Esta mudança tem mais chance de acontecer ao refinar a carne com Torch Dragon Essence.[size=10][color=#D06508]\n Reduz moderadamente a resistência do corpo secreto.\n Aumenta drasticamente a taxa de sucesso da defesa do corpo secreto.[/color ][/size]</Desc>
+			<Desc>O sangue muda e fica escuro como tinta depois de se fundir com a energia Yin gelada. Esta mudança tem mais chance de acontecer ao refinar a carne com Torch Dragon Essence.[size=10][color=#D06508]\n Reduz moderadamente a resistência do corpo secreto.\n Aumenta drasticamente a taxa de sucesso da defesa do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F02_ZhuLongYuanJing">
 			<DisplayName>Músculo Luminoso</DisplayName>
-			<Desc>Os músculos mudam e se tornam luminosos com o Qi Verdadeiro como estímulo após a fusão com a energia Yang pura. Esta mudança tem mais chance de acontecer ao refinar a carne com Torch Dragon Essence.[size=10][color=#D06508]\n Aumenta drasticamente a resistência do corpo secreto.\n Reduz moderadamente a taxa de sucesso da defesa do corpo secreto.[/color ][/size]</Desc>
+			<Desc>Os músculos mudam e se tornam luminosos com o Qi Verdadeiro como estímulo após a fusão com a energia Yang pura. Esta mudança tem mais chance de acontecer ao refinar a carne com Torch Dragon Essence.[size=10][color=#D06508]\n Aumenta drasticamente a resistência do corpo secreto.\n Reduz moderadamente a taxa de sucesso da defesa do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_ZhuLongYuanJing">
 			<DisplayName>Osso Infernal</DisplayName>
-			<Desc>Os ossos sofrem mutações e acumulam a energia das almas malignas que podem explodir quando necessário. Esta mudança tem mais chance de acontecer ao refinar os ossos com Torch Dragon Essence.[size=10][color=#D06508]\n Aumenta drasticamente o poder do corpo secreto.\n Reduz moderadamente a precisão do ataque do corpo secreto.[/color] [/size]</Desc>
+			<Desc>Os ossos sofrem mutações e acumulam a energia das almas malignas que podem explodir quando necessário. Esta mudança tem mais chance de acontecer ao refinar os ossos com Torch Dragon Essence.[size=10][color=#D06508]\n Aumenta drasticamente o poder do corpo secreto.\n Reduz moderadamente a precisão do ataque do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B02_ZhuLongYuanJing">
 			<DisplayName>Osso Benevolente</DisplayName>
-			<Desc>Os ossos sofrem mutações e nutrem a bondade interior, que perde algum poder de força, mas ganha o mérito da estabilidade. Esta mudança tem mais chance de acontecer ao refinar os ossos com Torch Dragon Essence.[size=10][color=#D06508]\n Reduz o poder do corpo secreto moderadamente.\n Aumenta drasticamente a precisão do ataque do corpo secreto.[/color] [/size]</Desc>
+			<Desc>Os ossos sofrem mutações e nutrem a bondade interior, que perde algum poder de força, mas ganha o mérito da estabilidade. Esta mudança tem mais chance de acontecer ao refinar os ossos com Torch Dragon Essence.[size=10][color=#D06508]\n Reduz o poder do corpo secreto moderadamente.\n Aumenta drasticamente a precisão do ataque do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
 			<DisplayName>Rotação Yin-Yang</DisplayName>
@@ -404,124 +403,124 @@
 			<Desc>Os órgãos se transformam com a energia da Madeira celestial, o que tem mais chance de acontecer ao refinar os órgãos com a Essência Inata da Madeira.[size=10][color=#D06508]\n Enfraquece moderadamente o dano de Terra recebido pelo corpo secreto. [/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_EXShui">
-			<DisplayName>Tidal Blood</DisplayName>
-			<Desc>The flesh transforms with heavenly Water energy, which has more chance of happening when refining the flesh with Innate Water Essence.[size=10][color=#D06508]\n Fundamentally increases the secret body attack accuracy by a small amount.\n Fundamentally increases the secret body defense success rate by a small amount.\n Increases the secret body True Qi recovery rate drastically.[/color][/size]</Desc>
+			<DisplayName>Sangue de maré</DisplayName>
+			<Desc>A carne se transforma com a energia da Água celestial, o que tem mais chance de acontecer ao refinar a carne com a Essência Inata da Água.[size=10][color=#D06508]\n Fundamentalmente aumenta a precisão do ataque secreto do corpo em uma pequena quantidade .\n Aumenta fundamentalmente a taxa de sucesso da defesa do corpo secreto em uma pequena quantidade.\n Aumenta drasticamente a taxa de recuperação do Qi verdadeiro do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_EXShui">
-			<DisplayName>Cloudburst Bone</DisplayName>
-			<Desc>The bones transform with heavenly Water energy, which has more chance of happening when refining the bones with Innate Water Essence.[size=10][color=#D06508]\n Fundamentally increases the secret body power by a small amount.\n Fundamentally increases the secret body endurance by a small amount.\n Increases the secret body True Qi recovery rate drastically.[/color][/size]</Desc>
+			<DisplayName>Osso Nuvens</DisplayName>
+			<Desc>Os ossos se transformam com a energia da Água celestial, que tem mais chance de acontecer ao refinar os ossos com a Essência Inata da Água.[size=10][color=#D06508]\n Fundamentalmente aumenta o poder secreto do corpo em uma pequena quantidade. \n Aumenta fundamentalmente a resistência secreta do corpo em uma pequena quantidade.\n Aumenta drasticamente a taxa de recuperação do Qi verdadeiro do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_EXShui">
-			<DisplayName>Equable Organ</DisplayName>
-			<Desc>The organs transform with heavenly Water energy, which has more chance of happening when refining the organs with Innate Water Essence.[size=10][color=#D06508]\n Weakens the Fire damage received by the secret body moderately.[/color][/size]</Desc>
+			<DisplayName>Órgão igual</DisplayName>
+			<Desc>Os órgãos se transformam com a energia da Água celestial, o que tem mais chance de acontecer ao refinar os órgãos com a Essência Inata da Água.[size=10][color=#D06508]\n Enfraquece moderadamente o dano de Fogo recebido pelo corpo secreto. [/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_EXHuo">
-			<DisplayName>Fervid Blood</DisplayName>
-			<Desc>The flesh transforms with heavenly Fire energy, which has more chance of happening when refining the flesh with Innate Fire Essence.[size=10][color=#D06508]\n Fundamentally increases the secret body attack accuracy by a small amount.\n Fundamentally increases the secret body defense success rate by a small amount.\n Increases the secret body power drastically.[/color][/size]</Desc>
+			<DisplayName>Sangue Fervido</DisplayName>
+			<Desc>A carne se transforma com a energia do Fogo celestial, que tem mais chance de acontecer ao refinar a carne com a Essência do Fogo Inato.[size=10][color=#D06508]\n Fundamentalmente aumenta a precisão do ataque secreto do corpo em uma pequena quantidade .\n Aumenta fundamentalmente a taxa de sucesso da defesa do corpo secreto em uma pequena quantidade.\n Aumenta drasticamente o poder do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_EXHuo">
-			<DisplayName>Burnished Bone</DisplayName>
-			<Desc>The bones transform with heavenly Fire energy, which has more chance of happening when refining the bones with Innate Fire Essence.[size=10][color=#D06508]\n Fundamentally increases the secret body power by a small amount.\n Fundamentally increases the secret body endurance by a small amount.\n Increases the secret body power drastically.[/color][/size]</Desc>
+			<DisplayName>Osso queimado</DisplayName>
+			<Desc>Os ossos se transformam com a energia do Fogo celestial, que tem mais chance de acontecer ao refinar os ossos com a Essência do Fogo Inato.[size=10][color=#D06508]\n Fundamentalmente aumenta o poder secreto do corpo em uma pequena quantidade. \n Aumenta fundamentalmente a resistência do corpo secreto em uma pequena quantidade.\n Aumenta drasticamente o poder do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_EXHuo">
-			<DisplayName>Ardent Organ</DisplayName>
-			<Desc>The organs transform with heavenly Fire energy, which has more chance of happening when refining the organs with Innate Fire Essence.[size=10][color=#D06508]\n Weakens the Metal damage received by the secret body moderately.[/color][/size]</Desc>
+			<DisplayName>Órgão ardente</DisplayName>
+			<Desc>Os órgãos se transformam com a energia do Fogo celestial, o que tem mais chance de acontecer ao refinar os órgãos com a Essência do Fogo Inato.[size=10][color=#D06508]\n Enfraquece moderadamente o dano de Metal recebido pelo corpo secreto. [/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_EXTu">
-			<DisplayName>Dust Flesh</DisplayName>
-			<Desc>The flesh transforms with heavenly Earth energy, which has more chance of happening when refining the flesh with Innate Earth Essence.[size=10][color=#D06508]\n Fundamentally increases the secret body attack accuracy by a small amount.\n Fundamentally increases the secret body defense success rate by a small amount.\n Increases the secret body endurance drastically.[/color][/size]</Desc>
+			<DisplayName>Carne em Pó</DisplayName>
+			<Desc>A carne se transforma com a energia celestial da Terra, o que tem mais chance de acontecer ao refinar a carne com a Essência Inata da Terra.[size=10][color=#D06508]\n Fundamentalmente aumenta a precisão do ataque secreto do corpo em uma pequena quantidade .\n Aumenta fundamentalmente a taxa de sucesso da defesa do corpo secreto em uma pequena quantidade.\n Aumenta drasticamente a resistência do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_EXTu">
-			<DisplayName>Rockbound Bone</DisplayName>
-			<Desc>The bones transform with heavenly Earth energy, which has more chance of happening when refining the bones with Innate Earth Essence.[size=10][color=#D06508]\n Fundamentally increases the secret body power by a small amount.\n Fundamentally increases the secret body endurance by a small amount.\n Increases the secret body endurance drastically.[/color][/size]</Desc>
+			<DisplayName>Ossos de pedra</DisplayName>
+			<Desc>Os ossos se transformam com a energia celestial da Terra, o que tem mais chance de acontecer ao refinar os ossos com a Essência Inata da Terra.[size=10][color=#D06508]\n Fundamentalmente aumenta o poder secreto do corpo em uma pequena quantidade. \n Aumenta fundamentalmente a resistência secreta do corpo em uma pequena quantidade.\n Aumenta drasticamente a resistência secreta do corpo.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_EXTu">
-			<DisplayName>Stoneshield Organ</DisplayName>
-			<Desc>The organs transform with heavenly Earth energy, which has more chance of happening when refining the organs with Innate Earth Essence.[size=10][color=#D06508]\n Weakens the Water damage received by the secret body moderately.[/color][/size]</Desc>
+			<DisplayName>Órgão Stoneshield</DisplayName>
+			<Desc>Os órgãos se transformam com a energia celestial da Terra, o que tem mais chance de acontecer ao refinar os órgãos com a Essência Inata da Terra.[size=10][color=#D06508]\n Enfraquece moderadamente o dano de Água recebido pelo corpo secreto. [/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_TaiYangJingHua">
-			<DisplayName>Sunray Blood</DisplayName>
-			<Desc>The blood mutates and radiates glowing beams of light. This change has more chance of happening when refining the flesh with Solar Essence.[size=10][color=#D06508]\n Increases the physical cultivator's remolding rate moderately.\n Increases the secret body attack accuracy drastically.[/color][/size]</Desc>
+			<DisplayName>Sangue Raio de Sol</DisplayName>
+			<Desc>O sangue sofre mutações e irradia feixes de luz brilhantes. Esta mudança tem mais chance de acontecer ao refinar a carne com Essência Solar.[size=10][color=#D06508]\n Aumenta moderadamente a taxa de remodelação do cultivador físico.\n Aumenta drasticamente a precisão do ataque do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_TaiYangJingHua">
-			<DisplayName>Ablaze Bone</DisplayName>
-			<Desc>The bones mutate and emit blazing energy from within, as if burning with invisible flames. This change has more chance of happening when refining the bones with Solar Essence.[size=10][color=#D06508]\n Increases the physical cultivator's remolding rate moderately.\n Increases the secret body power drastically.[/color][/size]</Desc>
+			<DisplayName>Osso em Chamas</DisplayName>
+			<Desc>Os ossos sofrem mutações e emitem energia ardente de dentro, como se queimassem com chamas invisíveis. Esta mudança tem mais chance de acontecer ao refinar os ossos com Essência Solar.[size=10][color=#D06508]\n Aumenta moderadamente a taxa de remodelação do cultivador físico.\n Aumenta drasticamente o poder do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_TaiYangJingHua">
-			<DisplayName>Solar Breath</DisplayName>
-			<Desc>A cavity is created inside the organs, which generates energy like a micro sun to provide strong and powerful True Qi for berserk. This change has more chance of happening when refining the organs with Solar Essence.[size=10][color=#D06508]\n Increases the physical cultivator's remolding rate moderately.\n Increases the ability improvement rate during the physical cultivator's furious berserk drastically.[/color][/size]</Desc>
+			<DisplayName>Respiração solar</DisplayName>
+			<Desc>Uma cavidade é criada dentro dos órgãos, que gera energia como um micro sol para fornecer Qi verdadeiro forte e poderoso para berserk. Esta mudança tem mais chance de acontecer ao refinar os órgãos com a Essência Solar.[size=10][color=#D06508]\n Aumenta moderadamente a taxa de remodelação do cultivador físico.\n Aumenta drasticamente a taxa de melhoria da habilidade durante o furia berserk do cultivador físico .[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_TaiYinJingHua">
-			<DisplayName>Lunafrost Flesh</DisplayName>
-			<Desc>The flesh evolves and becomes glittering and translucent as if basking in moonlight. This change has more chance of happening when refining the flesh with Lunar Essence.[size=10][color=#D06508]\n Increases the physical cultivator's global dodge moderately.\n Increases the secret body defense success rate drastically.[/color][/size]</Desc>
+			<DisplayName>Carne Lunafrost</DisplayName>
+<Desc>A carne evolui e se torna brilhante e translúcida como se estivesse sob o luar. Essa mudança tem mais chance de acontecer ao refinar a carne com a Essência Lunar.[size=10][color=#D06508]\n Aumenta moderadamente a esquiva global do cultivador físico.\n Aumenta drasticamente a taxa de sucesso da defesa secreta do corpo.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_TaiYinJingHua">
-			<DisplayName>Icebound Bone</DisplayName>
-			<Desc>The bones evolve and emit cold air from within as if the marrow has turned into ice. This change has more chance of happening when refining the bones with Lunar Essence.[size=10][color=#D06508]\n Increases the physical cultivator's global dodge moderately.\n Increases the secret body endurance drastically.[/color][/size]</Desc>
+			<DisplayName>Osso Congelado</DisplayName>
+<Desc>Os ossos evoluem e emitem ar frio de dentro como se a medula tivesse se transformado em gelo. Essa mudança tem mais chance de acontecer ao refinar os ossos com a Essência Lunar.[size=10][color=#D06508]\n Aumenta moderadamente a esquiva global do cultivador físico.\n Aumenta drasticamente a resistência do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_TaiYinJingHua">
-			<DisplayName>Lunar Breath</DisplayName>
-			<Desc>A cavity is created inside the organs, which generates True Qi that can pacify blazing energy. This change has more chance of happening when refining the organs with Lunar Essence.[size=10][color=#D06508]\n Increases the physical cultivator's global dodge moderately.\n Weakens the elemental damage received by the secret body moderately.[/color][/size]</Desc>
+			<DisplayName>Respiração Lunar</DisplayName>
+			<Desc>Uma cavidade é criada dentro dos órgãos, que gera o Qi Verdadeiro que pode pacificar a energia ardente. Essa mudança tem mais chance de acontecer ao refinar os órgãos com a Essência Lunar.[size=10][color=#D06508]\n Aumenta moderadamente a esquiva global do cultivador físico.\n Enfraquece moderadamente o dano elemental recebido pelo corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_A01_JieMieJingHua">
-			<DisplayName>Force of Destruction</DisplayName>
-			<Desc>The body mutates with the Creed of Heaven energy and destroys everything without mercy. This change has more chance of happening when refining the body with Tribulation Essence.[size=10][color=#D06508]\n Increases the secret body power by a huge amount.[/color][/size]</Desc>
+			<DisplayName>Força de Destruição</DisplayName>
+			<Desc>O corpo se transforma com a energia Creed of Heaven e destrói tudo sem piedade. Esta mudança tem mais chance de acontecer ao refinar o corpo com Tribulation Essence.[size=10][color=#D06508]\n Aumenta o poder do corpo secreto em uma quantidade enorme.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_A02_JieMieJingHua">
-			<DisplayName>Force of Creed</DisplayName>
-			<Desc>The body mutates with the Creed of Heaven energy and morphs into justice itself that intimidates all evils. This change has more chance of happening when refining the body with Tribulation Essence.[size=10][color=#D06508]\n Increases the secret body endurance by a huge amount.[/color][/size]</Desc>
+			<DisplayName>Força da Crença</DisplayName>
+			<Desc>O corpo sofre mutações com a energia Creed of Heaven e se transforma na própria justiça que intimida todos os males. Esta mudança tem mais chance de acontecer ao refinar o corpo com Tribulation Essence.[size=10][color=#D06508]\n Aumenta a resistência do corpo secreto em uma quantidade enorme.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_A03_JieMieJingHua">
-			<DisplayName>Heavenly Unison</DisplayName>
-			<Desc>The body mutates with the Creed of Heaven energy and merges with the light of heaven and dust of earth. This change has more chance of happening when refining the body with Tribulation Essence.[size=10][color=#D06508]\n Increases the physical cultivator's breathing efficiency drastically.[/color][/size]</Desc>
+			<DisplayName>Unison Celestial</DisplayName>
+			<Desc>O corpo muda com a energia do Credo do Céu e se funde com a luz do céu e o pó da terra. Esta mudança tem mais chance de acontecer ao refinar o corpo com Tribulation Essence.[size=10][color=#D06508]\n Aumenta drasticamente a eficiência respiratória do cultivador físico.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_F01_JiuYangZhenHua">
-			<DisplayName>Firebringer Blood</DisplayName>
-			<Desc>The blood blends with combined Yang energy and becomes crimson red and thick like cream. This change has more chance of happening when refining the flesh with Ignis Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Fundamentally increases the secret body attack accuracy moderately.[/color][/size]</Desc>
+			<DisplayName>Sangue do Fogo</DisplayName>
+			<Desc>O sangue se mistura com a energia Yang combinada e se torna vermelho carmesim e espesso como creme. Esta mudança tem mais chance de acontecer ao refinar a carne com Ignis Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Fundamentalmente aumenta moderadamente a precisão do ataque do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_B01_JiuYangZhenHua">
-			<DisplayName>Igneous Bone</DisplayName>
-			<Desc>The bones transform with Greater Yang energy and every inch is surrounded by nine holy flames. This change has more chance of happening when refining the bones with Ignis Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Fundamentally increases the secret body power moderately.[/color][/size]</Desc>
+			<DisplayName>Osso Ígneo</DisplayName>
+			<Desc>Os ossos se transformam com a energia Yang Maior e cada centímetro é cercado por nove chamas sagradas. Esta mudança tem mais chance de acontecer ao refinar os ossos com Ignis Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Fundamentalmente aumenta moderadamente o poder do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_O01_JiuYangZhenHua">
-			<DisplayName>Furnace Breath</DisplayName>
-			<Desc>The organs experience a drastic change within and refine True Qi as if forging copper into steel in a huge furnace. This change has more chance of happening when refining the organs with Ignis Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Fundamentally increases the secret body Qi barrier penetration chance moderately.[/color][/size]</Desc>
+			<DisplayName>Respiração da Fornalha</DisplayName>
+			<Desc>Os órgãos experimentam uma mudança drástica interior e refinam o Qi Verdadeiro como se forjassem cobre em aço em uma enorme fornalha. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Ignis Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Aumenta fundamentalmente a chance de penetração da barreira Qi do corpo secreto moderadamente.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_F01_XuanYueZhenJing">
-			<DisplayName>Crystalline Flesh</DisplayName>
-			<Desc>The flesh merges with combined Yin energy and becomes crystal-like. This change has more chance of happening when refining the flesh with Aqualuna Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Fundamentally increases the secret body defense success rate moderately.[/color][/size]</Desc>
+			<DisplayName>Carne Cristalina</DisplayName>
+			<Desc>A carne se funde com a energia Yin combinada e se torna cristalina. Esta mudança tem mais chance de acontecer ao refinar a carne com Aqualuna Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Aumenta fundamentalmente a taxa de sucesso da defesa do corpo secreto moderadamente.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_B01_XuanYueZhenJing">
-			<DisplayName>Emerald Bone</DisplayName>
-			<Desc>The bones transform with Greater Yin energy and become emerald and jade-like with spiral patterned light spots. This change has more chance of happening when refining the bones with Aqualuna Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Fundamentally increases the secret body endurance moderately.[/color][/size]</Desc>
+			<DisplayName>Osso Esmeralda</DisplayName>
+<Desc>Os ossos se transformam com a energia Yin Maior e se tornam esmeralda e jade com pontos de luz em forma de espiral. Esta mudança tem mais chance de acontecer ao refinar os ossos com Aqualuna Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Aumenta fundamentalmente a resistência do corpo secreto moderadamente.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_O01_XuanYueZhenJing">
-			<DisplayName>Occult Breath</DisplayName>
-			<Desc>The internal structure of the organs transforms and creates nine cavities with true Yin energy that generate resistible True Qi. This change has more chance of happening when refining the organs with Aqualuna Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Fundamentally increases the secret body's artifact suppression chance.[/color][/size]</Desc>
+			<DisplayName>Respiração Oculta</DisplayName>
+<Desc>A estrutura interna dos órgãos se transforma e cria nove cavidades com energia Yin verdadeira que gera Qi Verdadeiro resistível. Esta mudança tem mais chance de acontecer ao refinar os órgãos com Aqualuna Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Aumenta fundamentalmente a chance de supressão do artefato do corpo secreto.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_A01_TaiXuJingHua">
-			<DisplayName>Void Force</DisplayName>
-			<Desc>The body is mysteriously connected to the origin of time, Divine Void, and thus a wave of Void Force is blended into the True Qi inside. This change has more chance of happening when refining the body with Illusion Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Increases the power of the physical cultivator's secret bodies slightly.[/color][/size]</Desc>
+			<DisplayName>Força do Vazio</DisplayName>
+<Desc>O corpo está misteriosamente ligado à origem do tempo, Divine Void, e assim uma onda de Void Force é misturada com o Qi Verdadeiro interior. Essa mudança tem mais chance de acontecer ao refinar o corpo com Illusion Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Aumenta ligeiramente o poder dos corpos secretos do cultivador físico.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_A02_TaiXuJingHua">
-			<DisplayName>Acupoint Force</DisplayName>
-			<Desc>The body is mysteriously connected to the origin of space, Earth Points, and thus a wave of Acupoint Force is blended into the True Qi inside. This change has more chance of happening when refining the body with Illusion Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Increases the endurance of the physical cultivator's secret bodies slightly.[/color][/size]</Desc>
+			<DisplayName>Força de Acupoint</DisplayName>
+			<Desc>O corpo está misteriosamente conectado à origem do espaço, Pontos de Terra, e assim uma onda de Força de Pontos de Acu é misturada com o Qi Verdadeiro interior. Esta mudança tem mais chance de acontecer ao refinar o corpo com Illusion Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Aumenta ligeiramente a resistência dos corpos secretos do cultivador físico.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_A03_TaiXuJingHua">
-			<DisplayName>Impermanence Force</DisplayName>
-			<Desc>The body is mysteriously connected to the force of chaos and thus gains a little ability to form elements and creatures. This change has more chance of happening when refining the body with Illusion Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Increases the artifact suppression chance of the physical cultivator's secret bodies slightly.[/color][/size]</Desc>
+			<DisplayName>Força de Impermanência</DisplayName>
+			<Desc>O corpo está misteriosamente conectado à força do caos e assim ganha um pouco da habilidade de formar elementos e criaturas. Esta mudança tem mais chance de acontecer ao refinar o corpo com Illusion Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Aumenta ligeiramente a chance de supressão de artefato dos corpos secretos do cultivador físico. [/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_A01_XuanTianZiQi">
-			<DisplayName>Astral Force</DisplayName>
-			<Desc>The body is mysteriously connected to all the stars in the universe and thus a gleam of starlight is blended into the True Qi inside. This change has more chance of happening when refining the body with Nimbus Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Increases the attack accuracy of the physical cultivator's secret bodies slightly.[/color][/size]</Desc>
+			<DisplayName>Força Astral</DisplayName>
+			<Desc>O corpo está misteriosamente conectado a todas as estrelas do universo e, portanto, um brilho de luz estelar é misturado ao Qi Verdadeiro interior. Essa mudança tem mais chance de acontecer ao refinar o corpo com Nimbus Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Aumenta ligeiramente a precisão de ataque dos corpos secretos do cultivador físico.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_A02_XuanTianZiQi">
-			<DisplayName>Enclosure Force</DisplayName>
-			<Desc>The body is mysteriously connected to the Three Enclosures, i.e., Purple Forbidden, Supreme Palace and Heavenly Market, and thus a wave of Enclosure Force is blended into the True Qi inside. This change has more chance of happening when refining the body with Nimbus Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Increases the defense success rate of the physical cultivator's secret bodies slightly.[/color][/size]</Desc>
+			<DisplayName>Força de Fecho</DisplayName>
+			<Desc>O corpo está misteriosamente conectado aos Três Recintos, ou seja, Roxo Proibido, Palácio Supremo e Mercado Celestial, e assim uma onda de Força do Recinto é misturada ao Qi Verdadeiro dentro. Esta mudança tem mais chance de acontecer ao refinar o corpo com Nimbus Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto.\n Aumenta ligeiramente a taxa de sucesso de defesa dos corpos secretos do cultivador físico. [/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv4_A03_XuanTianZiQi">
-			<DisplayName>Insulation Force</DisplayName>
-			<Desc>The body is mysteriously connected to the force of chaos and thus gains a little ability to separate from all elements and creatures. This change has more chance of happening when refining the body with Nimbus Essence.[size=10][color=#D06508]\n Increases the secret body performance moderately.\n Increases the Qi barrier penetration chance of the physical cultivator's secret bodies slightly.[/color][/size]</Desc>
+			<DisplayName>Força de isolamento</DisplayName>
+			<Desc>O corpo está misteriosamente conectado à força do caos e assim ganha uma pequena habilidade de se separar de todos os elementos e criaturas. Esta mudança tem mais chance de acontecer ao refinar o corpo com Nimbus Essence.[size=10][color=#D06508]\n Aumenta moderadamente o desempenho do corpo secreto. do cultivador físico .[/color][/size]</Desc>
 		</Text>
 	</List>
 </Texts>

@@ -1,22 +1,22 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Forg_1">
-			<Prefix>Impervious</Prefix>
-			<Suffix>Shadow</Suffix>
-			<Desc>A secret body naturally possessed by frog Yaoguai. Once achieved, it will excel at suppressing artifacts and rarely miss the target.</Desc>
-			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Increases the secret body's artifact suppression chance by a huge amount.</Levels.0.Desc>
+			<Prefix>Impermeável</Prefix>
+			<Suffix>Sombra</Suffix>
+			<Desc>Um corpo secreto naturalmente possuído pelo sapo Yaoguai. Uma vez alcançado, ele se destaca na supressão de artefatos e raramente erra o alvo.</Desc>
+			<Levels.0.Title>Primeira Camada</Levels.0.Title>
+			<Levels.0.Desc>Aumenta em muito a chance de supressão do artefato do corpo secreto.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Forg_2">
-			<Prefix>Demon</Prefix>
-			<Suffix>Howling</Suffix>
-			<Desc>A secret body naturally possessed by frog Yaoguai. Once achieved, it can use the energy of the whole body to generate sound waves containing special True Qi. Excels at dissipating True Qi inside an artifact in order to suppress it.</Desc>
-			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Slightly increases the artifact suppression chance.</Levels.0.Desc>
-			<Levels.1.Title>Second Layer</Levels.1.Title>
-			<Levels.1.Desc>Moderately increases the artifact suppression chance.</Levels.1.Desc>
-			<Levels.2.Title>Third Layer</Levels.2.Title>
-			<Levels.2.Desc>Drastically increases the artifact suppression chance.</Levels.2.Desc>
+			<Prefix>Demônio</Prefix>
+			<Suffix>Uivando</Suffix>
+			<Desc>Um corpo secreto naturalmente possuído pelo sapo Yaoguai. Uma vez alcançado, ele pode usar a energia de todo o corpo para gerar ondas sonoras contendo Qi verdadeiro especial. Excelente em dissipar o Qi Verdadeiro dentro de um artefato para suprimi-lo.</Desc>
+			<Levels.0.Title>Primeira Camada</Levels.0.Title>
+			<Levels.0.Desc>Aumenta ligeiramente a chance de supressão de artefato.</Levels.0.Desc>
+			<Levels.1.Title>Segunda Camada</Levels.1.Title>
+			<Levels.1.Desc>Aumenta moderadamente a chance de supressão do artefato.</Levels.1.Desc>
+			<Levels.2.Title>Terceira camada</Levels.2.Title>
+			<Levels.2.Desc>Aumenta drasticamente a chance de supressão do artefato.</Levels.2.Desc>
 		</Text>
 	</List>
 </Texts>

@@ -1,18 +1,18 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Wolf_1">
-			<Prefix>Absorber</Prefix>
+			<Prefix>Absorvente</Prefix>
 			<Suffix>Maw</Suffix>
-			<Desc>A natural secret body of wolf Yaoguai, drastically increases the essence acquisition rate when devouring items, but the amount of essence gained will be significantly reduced.</Desc>
-			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Drastically increases the essence acquisition rate from devouring items.\n Drastically reduces the amount of essence gained from devouring items.</Levels.0.Desc>
+			<Desc>Um corpo secreto natural do lobo Yaoguai, aumenta drasticamente a taxa de aquisição de essência ao devorar itens, mas a quantidade de essência adquirida será significativamente reduzida.</Desc>
+			<Levels.0.Title>Primeira Camada</Levels.0.Title>
+			<Levels.0.Desc>Aumenta drasticamente a taxa de aquisição de essência ao devorar itens.\n Reduz drasticamente a quantidade de essência obtida ao devorar itens.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Wolf_2">
-			<Prefix>Wildsoul</Prefix>
-			<Suffix>Body</Suffix>
-			<Desc>A natural secret body of wolf Yaoguai. Once achieved, it can drastically increase the physical strength and resistance to pain.</Desc>
-			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Drastically increases the physical cultivator's physical strength.\n Drastically increases the physical cultivator's pain endurance.</Levels.0.Desc>
+			<Prefix>Alma Selvagem</Prefix>
+			<Suffix>Corpo</Suffix>
+			<Desc>Um corpo secreto natural do lobo Yaoguai. Uma vez alcançado, pode aumentar drasticamente a força física e a resistência à dor.</Desc>
+			<Levels.0.Title>Primeira Camada</Levels.0.Title>
+			<Levels.0.Desc>Aumenta drasticamente a força física do cultivador físico.\n Aumenta drasticamente a resistência à dor do cultivador físico.</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>

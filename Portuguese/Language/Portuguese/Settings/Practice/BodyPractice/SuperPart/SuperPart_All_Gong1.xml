@@ -36,10 +36,10 @@
 			<Desc>Usa ambos os braços como núcleo e cintura como eixo, fundindo os três elementos Yin Metal, Água e Lua no braço esquerdo e os três elementos Yang Madeira, Fogo e Sol no braço direito, e os combina em um só. Excelente em suprimir o artefato do inimigo.</Desc>
 			<Levels.0.Title>Primeira Camada</Levels.0.Title>
 			<Levels.0.Desc>Aumenta drasticamente a chance de supressão do artefato do corpo secreto.</Levels.0.Desc>
-			</Texto>
+			</Text>
 			<Text Name="SuperPart_Gong_1_3">
 			<Prefix>Os Cinco Elementos</Prefix>
-			<Sufixo>Punhos</Sufixo>
+			<Suffix>Punhos</Suffix>
 			<Desc>Usa a energia dos Cinco Elementos dentro dos órgãos para conduzir ambos os punhos e ataques com cinco formas diferentes. Excelente em atacar o ponto fraco da barreira do Qi.</Desc>
 			<Levels.0.Title>Primeira Camada</Levels.0.Title>
 			<Levels.0.Desc>Aumenta ligeiramente a penetração da barreira secreta do Qi do corpo.</Levels.0.Desc>
@@ -57,7 +57,7 @@
 		</Text>
 		<Text Name="SuperPart_Gong_1_5">
 			<Prefix>Lustro de Yang</Prefix>
-			<Sufixo>Coração</Sufixo>
+			<Suffix>Coração</Suffix>
 			<Desc>Usa energia Yang extrema para remodelar o coração para aumentar drasticamente o poder do cultivador físico.</Desc>
 			<Levels.0.Title>Primeira Camada</Levels.0.Title>
 			<Levels.0.Desc>Aumenta moderadamente a taxa de remodelação do cultivador físico.</Levels.0.Desc>
@@ -66,7 +66,7 @@
 		</Text>
 		<Text Name="SuperPart_Gong_1_6">
 			<Prefix>Esmalte de Yin</Prefix>
-			<Sufixo>Coração</Sufixo>
+			<Suffix>Coração</Suffix>
 			<Desc>Usa energia Yin extrema para remodelar o coração para aumentar drasticamente a bênção do cultivador físico.</Desc>
 			<Levels.0.Title>Primeira Camada</Levels.0.Title>
 			<Levels.0.Desc>Aumenta moderadamente a taxa de esquiva do cultivador físico.</Levels.0.Desc>
@@ -101,7 +101,7 @@
 		</Text>
 		<Text Name="SuperPart_Gong_1_9">
 			<Prefix>Raiz de Estreleira</Prefix>
-			<Sufixo>Pernas</Sufixo>
+			<Suffix>Pernas</Suffix>
 			<Desc>Um corpo secreto básico para cultivadores físicos, fácil de conseguir remodelando ambas as pernas com energia da Madeira e espalhando raízes no solo enquanto a Madeira é contra-atacada com a Terra. Usar este corpo secreto se assemelha a uma velha árvore profundamente enraizada que não pode ser movida.</Desc>
 			<Levels.0.Title>Primeira Camada</Levels.0.Title>
 			<Levels.0.Desc>Aumenta ligeiramente o desempenho do corpo secreto.</Levels.0.Desc>
