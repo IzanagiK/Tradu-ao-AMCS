@@ -2923,13 +2923,13 @@ Trap编辑。	Trap Edit.
 请输入任意按键	Press a key.
 该热键已被系统锁定	Esta tecla de atalho foi bloqueada pelo sistema.
 该热键存在重复注册	Esta tecla de atalho já está em uso.
-选择参与推导的信息	Select information used for deduction
+选择参与推导的信息	Selecione as informações usadas para dedução
 {0}{1}的线索	{0}{1}'s clues
 讨论	Discutir
 消息	Mensagem
 {0}{1}的{2}	{0}{1}'s {2}
 询问	Inquire
-选择需要讨论或者询问的话题	Select topics to discuss or inquire
+选择需要讨论或者询问的话题	Selecione tópicos para discutir ou perguntar
 隐秘的“真相”往往不止一个，不同的线索和参与者可能会得到不一样故事。\n[color=#ff0000]一旦解密将不可逆转，请谨慎选择。[/color]\n确定要使用当前的选择进行推导吗？	Pode não haver apenas uma verdade oculta para cada mistério. Pistas e participantes diferentes podem levar a uma história diferente. \n[color=#ff0000]Uma vez resolvido o mistério, será irreversível. Por favor, pense duas vezes.[/color] \nDeseja usar a seleção para dedução?
 这几个势力凑在一起，似乎有点不对劲。不知是少了什么线索，还是想得太多了。	Algo parece um pouco errado com essas facções combinadas. Talvez uma pista esteja faltando ou você esteja pensando demais.
 [{0}]缺少动机\n	[{0}]Lack of Motive\n
@@ -2961,7 +2961,7 @@ Trap编辑。	Trap Edit.
 选择物品	Selecionar item
 {0}为信仰圣物，确定要赠送吗？	{0} é uma relíquia sagrada, você tem certeza de enviar isso como um presente?
 送礼	Gift
-受门派影响力和个人能力影响，	Affected by sect and personal abilities, 
+受门派影响力和个人能力影响，	Afetado pela seita e habilidades pessoais,
 {0}对门派好感{1}{2:F0}点	{0}'s favor to your sect {1} {2:F0} points.
 {0}心防瓦解(天真)	{0} has opened up (naive).
 (手语)	(Sign language)
@@ -3050,7 +3050,7 @@ Trap编辑。	Trap Edit.
 初始人员偏多，可能会因为物资不够而带来生存的压力。	Você tem muitos membros iniciais que podem dificultar a sobrevivência devido à falta de recursos.
 \n因为你尚未完全熟悉游戏,建议使用二到四人开局。\n要直接进入吗？	\nComo você ainda não está acostumado com o jogo, recomendamos que use de 2 a 4 membros.\nEntrar no jogo?
 {0}{1}的转世	reencarnação de {0} {1}
-{0}与{1}感情基础\n{2}	base emocional de {0} e {1}.\n{2}
+{0}与{1}感情基础\n{2}	{0} and {1}'s emotional foundation.\n{2}
 新人模式下不能改变角色，请直接开始游戏。	Você não pode mudar de personagem no Iniciante. Basta entrar no jogo.
 尚未凝练出元灵，只有术法登峰造极之时才能凝练出术法元灵，指定元灵的术法会在战斗时自动释放。	Nenhuma Alma Primordial foi criada ainda. Almas Primordiais só podem ser criadas quando o poder mágico de alguém atinge o nível mais alto. O feitiço de selecionar Almas Primordiais será liberado automaticamente durante a batalha.
 选择称号	Escolha um título
@@ -3066,7 +3066,7 @@ Trap编辑。	Trap Edit.
 评价最好	Best Reviewed
 订阅最多	Most Subscribed
 最新上传	Most Recent
-投票失败！	Failed to cast vote!
+投票失败！	Falha ao votar!
 类型:	Tipo:
 订阅数:	Subscribers:
 作者:	Autor:
@@ -3077,7 +3077,7 @@ Trap编辑。	Trap Edit.
 [简介]	[Intro]
 取消订阅	Unsubscribe
 点击订阅	Subscribe
-未拉取到投票信息	Vote info not acquired.
+未拉取到投票信息	Informações de voto não adquiridas.
 该内容中包含竹林深处(DLC)数据，未激活该DLC无法正常使用。	Este conteúdo contém dados do DLC: Deep in the Bamboo forest e não pode ser usado sem o DLC ativado.
 请在此激活下载的模组，激活的模组才会在游戏中实际生效。	Ative os mods baixados aqui para habilitá-los no jogo real.
 升级到中级主殿可解锁寻珍倾向。采取寻珍倾向后，采取不同方法可寻得不同珍宝。	Atualize para o Salão Principal Intermediário para desbloquear a Direção da Caça ao Tesouro. Uma vez aplicado, o uso de diferentes métodos na Caça ao Tesouro renderá diferentes tesouros.
@@ -3115,7 +3115,7 @@ Trap编辑。	Trap Edit.
 点击选择信仰对象\n信仰对象必须是神道修行者	Clique para selecionar a pessoa em quem você quer acreditar.\nTem que ser um cultivador do panteão.
 确认删除？	Você quer deletar?
 政策	Policy
-当前没有事件发生	No event happening.
+当前没有事件发生	Nenhum evento acontecendo.
 不选择任何政策	No Policy
 {0}丢失了	{0} is lost.
 自动选择:{0}	Auto selection: {0}
@@ -3124,18 +3124,18 @@ Trap编辑。	Trap Edit.
 [政策] {0}\n	[Policy]{0}\n
 [效果] {0}\n	[Effect]{0}\n
 影响值	Influência
-城市稳定度：{0}\n主流代理势力：{1}	City Stability: {0}\nMain Agency Power: {1}
+城市稳定度：{0}\n主流代理势力：{1}	Estabilidade da cidade: {0}\nPoder principal da agência: {1}
 选择信仰对象	Select a belief
 [color=#FF0000]该建筑升级需要达到{0}信仰人口[/color]	[color=#FF0000]Para atualizar este edifício, a população de crentes precisa atingir {0}.[/color]
 [color=#FFFFFF]该建筑升级需要达到{0}信仰人口[/color]	[color=#FFFFFF]Para atualizar este edifício, a população de crentes precisa atingir {0}.[/color]
-代理人正在赶来...	Agent on the way…
-正在建造主殿...	Building the main hall…
+代理人正在赶来...	Agente a caminho...
+正在建造主殿...	Construindo o salão principal…
 正处于{0}!	In {0}!
-让代理人落实政策。期间会发生对应事件，需要手段来处理。不采取政策则会每日损失代理势力吸引力。	Ask the agent to implement the policy. Corresponding events will happen during it, which needs to be handled appropriately. If no policy is implemented, the power and appeal of the agency will be reduced every day.
-\n[color=#D06508][点击取出][/color]	\n[color=#D06508][Click to withdraw][/color]
-库存不足，无法取出。	Unable to withdraw due to insufficient storage.
-取出：	Withdraw: 
-取出数量：{0}	How many to be withdrawn: {0}
+让代理人落实政策。期间会发生对应事件，需要手段来处理。不采取政策则会每日损失代理势力吸引力。	Peça ao agente para implementar a política. Eventos correspondentes acontecerão durante ele, o que precisa ser tratado adequadamente. Se nenhuma política for implementada, o poder e o apelo da agência serão reduzidos a cada dia.
+\n[color=#D06508][点击取出][/color]	\n[color=#D06508][Clique para retirar][/color]
+库存不足，无法取出。	Não é possível retirar devido ao armazenamento insuficiente.
+取出：	Retirada: 
+取出数量：{0}	Quantos serão retirados: {0}
 法宝槽位未解锁	Slots de artefatos bloqueados
 点击打开装备面板	Clique para abrir o menu Equipamento.
 健康值	Saúde
@@ -3175,7 +3175,7 @@ Trap编辑。	Trap Edit.
 抱歉，该存档已经不再被支持。但你可以返回主界面以它为基础轮回新的世界。\n(也可以通过切换游戏分支为0.94使用老版本继续游戏)\n	Desculpe, este salvamento não é mais suportado, mas você pode retornar ao menu principal e reencarnar em um novo mundo com base em seus dados.\n(Ou você pode mudar para a versão 0.94 do jogo para continuar jogando.)\n
 模组数据不匹配，我们无法保证存档数据的正确性，请返回主界面进行读取操作。	Dados de mod incompatíveis. Não podemos garantir que o salvamento funcione corretamente. Por favor, retorne ao menu principal e carregue os dados do mod.
 自动存档	Autosave
-[color=#bf642f]掌管能力：{3}[/color]\n魅力加成：{0}\n处世加成：{1}\n境界加成：{2}\n	[color=#bf642f]Management Ability: {3}[/color]\nBônus de Carisma: {0}\nSocial Bonus: {1}\nState Bonus: {2}\n
+[color=#bf642f]掌管能力：{3}[/color]\n魅力加成：{0}\n处世加成：{1}\n境界加成：{2}\n	[color=#bf642f]Capacidade de Gestão: {3}[/color]\nBônus de Carisma: {0}\nSocial Bonus: {1}\nBônus de Estado: {2}\n
 [color=#bf642f]分堂掌管压力：{0}[/color]\n{1}	[color=#bf642f]Pressão da Gestão da Filial: {0}[/color]\n{1}
 [color=#bf642f]掌管压力：{0}[/color]\n{1}	[color=#bf642f]Pressão de Gestão: {0}[/color]\n{1}
 选择掌门	Escolha o líder da seita
@@ -3255,7 +3255,7 @@ Trap编辑。	Trap Edit.
 无法录入	Unable to transcribe
 容量不足	Insufficient storage
 准备录入	Ready to transcribe
-所修功法：{0}({2})\n{1}\n性别：{5}\n年龄：{3:N0}\n道行：{4:N0}	Learned Laws: {0} ({2})\n{1}\nGênero: {5}\nIdade: {3:N0}\nAtendimento: {4:N0}
+所修功法：{0}({2})\n{1}\n性别：{5}\n年龄：{3:N0}\n道行：{4:N0}	Leis aprendidas: {0} ({2})\n{1}\nGênero: {5}\nIdade: {3:N0}\nAtendimento: {4:N0}
 可选：{0}/{1}	Selecionável: {0}/{1}
 选择技能	Selecionar Skills
 选择属性	Selecionar Stats
@@ -3267,23 +3267,23 @@ Trap编辑。	Trap Edit.
 选择灵智	Selecionar Inteligência
 选择Modify	Selecionar Modify
 任 意	Any
-请选择可设置区域	Select an area to set
+请选择可设置区域	Selecione uma área para definir
 图片(*.png;*.jpg)\0*.png;*.jpg	Image (*.png;*.jpg)\0*.png;*.jpg
 选择预览图	Choose Preview Image
-请确认comdlg32.ocx是否丢失！_{0}	Confirm whether you have comdlg32.ocx!_{0}
+请确认comdlg32.ocx是否丢失！_{0}	Confirme se você tem comdlg32.ocx!_{0}
 关闭	Fechar
 {0}分钟	{0} min
 持续	Always
-确定要重置教学提示吗？	Are you sure you want to reset the tutorial tips?
-教学提示已经重置！	Tutorial tips have been reset!
+确定要重置教学提示吗？	Tem certeza de que deseja redefinir as dicas do tutorial?
+教学提示已经重置！	As dicas do tutorial foram redefinidas!
 多线程优化需要重启游戏才能生效。	A otimização multi-threading requer que o jogo seja reiniciado para ter efeito.
 尚未购买[武当仙踪]扩展包。	Não tem a DLC [Immortal Tales of WuDang].
 由于您修改了分辨率，请重新启动游戏。	Conforme você ajustou a resolução, reinicie o jogo.
 删除特殊效果	Excluir efeito especial
-从根本上增加百分比	Base Percentage Increase
-从根本上增加固定值	Base Increase
+从根本上增加百分比	Aumento percentual básico
+从根本上增加固定值	Aumento base
 新效果	Novo efeito
-秘籍参悟({0})	Manual Inspiration ({0})
+秘籍参悟({0})	Manual de inspiração ({0})
 已习得秘籍：{0}，无法再次领悟。	Manual aprendido: {0}, não pode ser compreendido novamente.
 确定要消耗{0:F0}点参悟值领悟{1}么？\n这将消耗掉这本秘籍。	Você quer gastar {0:F0} Inspiração para aprender {1}?\nEste manual será perdido.
 提高道行: {0}\n	Atendimento: +{0}\n
@@ -3452,29 +3452,29 @@ Trap编辑。	Trap Edit.
 加载{0}模组UI报错:{1}	Loading {0} Mods UI Error: {1}
 以下模组需要 {0} 作为前置模组:{1}	The following mods require mod {0}: {1}
 {0} 所需的前置模组排序过低:{1}	The rank of {0}'s required mod is too low: {1}
-该模组并未公开，无法进行评价	This mod is unavailable to the public. Unable to review.
-由于WeGame平台模组上传功能正在维护中，暂不可上传模组。	Unable to upload mods. The mod uploading function for WeGame is currently under maintenance.
+该模组并未公开，无法进行评价	Este mod não está disponível ao público. Não é possível revisar.
+由于WeGame平台模组上传功能正在维护中，暂不可上传模组。	Não é possível carregar mods. A função de upload de mod para WeGame está atualmente em manutenção.
 检测服务器MOD...	Test server mod…
-更新MOD信息...	Updating mod info…
-上传中，请耐心等待...	Uploading, please be patient…
-正在准备上传...	Waiting to be uploaded…
+更新MOD信息...	Atualizando informações do mod…
+上传中，请耐心等待...	Carregando, por favor, seja paciente…
+正在准备上传...	Aguardando para ser carregado...
  正在上传中，请耐心等待...\n	 Carregando, por favor, seja paciente…\n
-  \n当前进度:	  \nProgress:
-上传成功！大约需要10分钟的时间才会在模组订阅面板中出现	Uploaded! Your mod will be viewable in the mod subscription menu in about 10 minutes.
-上传成功！大约需要10分钟的时间才会在模组订阅面板中出现\n请勿修改并妥善保管当前上传模组文件下的Info文件，用于更新该模组	Uploaded! Your mod will be viewable in the mod subscription menu in about 10 minutes.\nPlease do not modify the .info file of the uploaded mod and keep it for future update of this mod.
-上传失败！{0}\n是否选择无预览图上传	Upload failed! {0}\nUpload without setting a preview image?
+  \n当前进度:	  \nProgresso:
+上传成功！大约需要10分钟的时间才会在模组订阅面板中出现	Carregado! Seu mod estará visível no menu de assinatura do mod em cerca de 10 minutos.
+上传成功！大约需要10分钟的时间才会在模组订阅面板中出现\n请勿修改并妥善保管当前上传模组文件下的Info文件，用于更新该模组	Carregado! Seu mod estará visível no menu de assinatura do mod em cerca de 10 minutos.\nPor favor, não modifique o arquivo .info do mod carregado e guarde-o para futuras atualizações deste mod.
+上传失败！{0}\n是否选择无预览图上传	Falha no envio! {0}\nCarregar sem definir uma imagem de visualização?
 上传失败！{0}	Upload failed!{0}
 模组文件已经上传成功！	Mod file uploaded!
-模组文件已经上传成功！\n请勿修改并妥善保管当前上传模组文件下的Info文件，用于更新该模组！	Mod file uploaded!\nPlease do not modify the .info file of the uploaded mod and keep it for future update of this mod.
+模组文件已经上传成功！\n请勿修改并妥善保管当前上传模组文件下的Info文件，用于更新该模组！	Arquivo mod carregado!\nPor favor, não modifique o arquivo .info do mod carregado e guarde-o para futuras atualizações deste mod.
 更新 	Update 
 \n总大小: 	\nSize: 
-  \n当前进度: 	  \nProgress: 
+  \n当前进度: 	  \nProgresso: 
 我们的位置	My Position
-我们不知道这个地方在哪，或许应该多转转？	I wonder where we are. Perhaps we'd better take a look around.
+我们不知道这个地方在哪，或许应该多转转？	Eu me pergunto onde estamos. Talvez seja melhor darmos uma olhada.
 中立	Neutro
 己方	Aliado
 未获得通行权	Inaccessible
-{0}\n当前有{1}个门派的任务未完成	{0}\n{1} sect tasks are unfinished.
+{0}\n当前有{1}个门派的任务未完成	{0}\n{1} as tarefas da seita estão inacabadas.
 什么也不给	None
 分配100灵石	Dê 100 Pedras Espirituais
 分配1000灵石	Dê 1.000 Pedras Espirituais
@@ -3489,21 +3489,21 @@ Trap编辑。	Trap Edit.
 返回中	Retornando
 无数次	Numerous times
 次	Times
-{0}\n[color=#990000](这是一个需要进入地图完成的秘闻)[/color]	{0}\n[color=#990000](This is a Secret that can only be completed by entering the map)[/color]
+{0}\n[color=#990000](这是一个需要进入地图完成的秘闻)[/color]	{0}\n[color=#990000](Este é um segredo que só pode ser concluído entrando no mapa)[/color]
 建立门派后，派遣内门弟子前往历练	Depois de estabelecer uma seita, envie discípulos internos em aventuras.
 建立门派后，派遣内门弟子前往驻扎，弟子会持续历练直到28天后或者发生受伤。\n（驻扎中每隔2到4天触发一次事件且随时可以召回）	Depois de estabelecer uma seita, envie discípulos para o acampamento. Eles continuarão treinando por 28 dias ou até serem feridos. \n(Um evento ocorrerá a cada 2 a 4 dias durante o acampamento e eles podem ser cancelados a qualquer momento.)
-主殿正在建造...	Building the main hall…
-{0}天劫临近(低于30秒)，拒绝前往。	{0}Heavenly Tribulation is coming (in less than 30 sec). Refused to go.
-{0}正在忙，暂时无法前往。	{0} is now occupied and cannot go.
-门派存亡之际不宜外出。	Your sect is on the verge of being annihilated. This is not the time to leave.
+主殿正在建造...	Construindo o salão principal…
+{0}天劫临近(低于30秒)，拒绝前往。	{0}A Tribulação Celestial está chegando (em menos de 30 segundos). Recusou-se a ir.
+{0}正在忙，暂时无法前往。	{0} agora está ocupado e não pode ir.
+门派存亡之际不宜外出。	Sua seita está prestes a ser aniquilada. Este não é o momento de partir.
 {0}的的瓶颈即将松动，暂时不宜外出历练。	O limite de {0} foi aumentado. Este não é o momento para eles se aventurarem.
 {0}正在静修中，不能外出历练。	{0} está meditando. Este não é o momento para eles se aventurarem.
 循环历练	Repeat Adventure
-循环{0}次\n(召回可以中断循环)	Repeat {0} times\n (Recall to stop the repeat)
+循环{0}次\n(召回可以中断循环)	Repita {0} vezes\n (Recupere para interromper a repetição)
 无数	Numerous
 前往{0}	Go to {0}
-耗时：{0:N2}天\n	Time: {0:N2}d\n
-[color=#B65704]耗时较长[/color]\n	[color=#B65704]Requires Much Time[/color]\n
+耗时：{0:N2}天\n	Tempo: {0:N2}d\n
+[color=#B65704]耗时较长[/color]\n	[color=#B65704]Requer Muito Tempo[/color]\n
 拜山	Visit
 见面礼	Meeting Gift
 原木	Wood
@@ -3617,7 +3617,7 @@ Trap编辑。	Trap Edit.
 [temperature]{0:N0}[/temperature]至[temperature]{1:N0}[/temperature]	[temperature]{0:N0}[/temperature] to [temperature]{1:N0}[/temperature]
 {0:N1}米	{0:N1}m
 {0}是{1}	{0} is {1}
-心绪：{0:N0}\n所有情绪的绝对值相加，情绪的数量和程度都会提高心绪的复杂程度。心绪也受情绪放大系数影响。\n共五个层次：\n[color=#FFFFFF]■[/color]心咆意哮\n[color=#00c400]■[/color]心猿意马\n[color=#0099cc]■[/color]心念芜杂\n[color=#F700FF]■[/color]心宁气静\n[color=#FF8B00]■[/color]心如止水	Distress: {0:N0}\nO valor absoluto total de todo humor. O número e a extensão dos humores complicarão a angústia. Também é afetado pelo multiplicador de humor. \nCinco estados no total: \n[color=#FFFFFF]■[/color] Raging Anger \n[color=#00c400]■[/color] Absent Mind \n[color=#0099cc]■[/color] Alma perturbada \n[color=#F700FF]■[/color] Tranqüilidade \n[color=#FF8B00]■[/color] Equilibrado
+心绪：{0:N0}\n所有情绪的绝对值相加，情绪的数量和程度都会提高心绪的复杂程度。心绪也受情绪放大系数影响。\n共五个层次：\n[color=#FFFFFF]■[/color]心咆意哮\n[color=#00c400]■[/color]心猿意马\n[color=#0099cc]■[/color]心念芜杂\n[color=#F700FF]■[/color]心宁气静\n[color=#FF8B00]■[/color]心如止水	Angústia: {0:N0}\nO valor absoluto total de todo humor. O número e a extensão dos humores complicarão a angústia. Também é afetado pelo multiplicador de humor. \nCinco estados no total: \n[color=#FFFFFF]■[/color] Raiva furiosa \n[color=#00c400]■[/color] Distraído \n[color=#0099cc]■[/color] Alma perturbada \n[color=#F700FF]■[/color] Tranqüilidade \n[color=#FF8B00]■[/color] Equilibrado
 \n剩余: {0}	\nRestante {0}
 尚未开辟神国	O reino divino ainda não foi estabelecido.
 角色死亡，无法展开神国	O personagem está morto. Incapaz de estabelecer o Divine Realm.
@@ -3643,7 +3643,7 @@ Trap编辑。	Trap Edit.
 {0:F1}秒	{0:F1}sec
 {0:F0}米/秒	{0:F0}m/sec
 {0:F0}度/秒	{0:F0}°/sec
-{0:N2}点/灵气	{0:N2}points/Qi
+{0:N2}点/灵气	{0:N2}pontos/Qi
 {0}: {1:F2}/秒\n	{0}: {1:F2}/sec\n
 (总值)	(Total)
 (平均值)	(Average)
@@ -3729,12 +3729,12 @@ Trap编辑。	Trap Edit.
 \n[color=#{1}]{0}房间布局(拥挤程度)[/color]	\n[Color=#{1}]{0}Room Layout (crampedness)[/color]
 \n[color=#FF0000]---风水外泄[/color]	\n[color=#FF0000]---Feng Shui Leakage[/color]
 \n特殊:\n[color=#FF0000]{0}神秘洞穴[/color]	\nSpecial: \n[color=#FF0000]{0} Mysterious Cave[/color]
-\n镇物:	\nRelic:
-\n无	\nNone
-契合	compatível
-不合	incompatível
+\n镇物:	\nRelíquia:
+\n无	\nNenhum
+契合	Compatível
+不合	Incompatível
   ({0}格[{1}])	  ({0} space [{1}])
-拥有者:{0}	Owner: {0}
+拥有者:{0}	Dono: {0}
 房间温度\n室内的当前温度	Temperatura da sala\nA temperatura atual da sala.
 房间布局\n房间内家具摆放拥挤或空旷程度。	Layout do quarto\nSe o quarto é apertado ou espaçoso.
 房间影响\n房屋内家具设施的品阶高低。	Qualidade do quarto\nO nível de qualidade dos móveis e instalações do quarto.
@@ -3789,7 +3789,7 @@ Trap编辑。	Trap Edit.
 当前成长值:{0:N0}%	Crescimento atual: {0:N0}%
 灵宠会优先食用低优先级的食物	Animais de estimação vão comer alimentos com baixa prioridade primeiro.
 灵宠会优先食用高优先级的食物	Os animais de estimação comerão os alimentos com alta prioridade primeiro.
-阵枢:{0}\n\n	Pillars: {0}\n\n
+阵枢:{0}\n\n	Pilares: {0}\n\n
 阵眼:{0}\n\n	Auxiliaries: {0}\n\n
 {0}\n已失去	{0}\nLost
 {2}\n灵气:{0:N0}/{1:N0}	{2}\nQi: {0:N0}/{1:N0}
