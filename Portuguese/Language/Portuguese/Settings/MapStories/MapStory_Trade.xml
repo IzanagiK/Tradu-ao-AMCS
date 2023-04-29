@@ -1,19 +1,19 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Trade_NoItem">
-			<DisplayName>Sold Out</DisplayName>
-			<Desc>I've nothing left to sell.</Desc>
-			<Selections.0.Display>I'd like to ask some questions.</Selections.0.Display>
-			<Selections.1.Display>Never mind</Selections.1.Display>
+			<DisplayName>Vendido</DisplayName>
+			<Desc>Não tenho mais nada para vender.</Desc>
+			<Selections.0.Display>Eu gostaria de fazer algumas perguntas.</Selections.0.Display>
+			<Selections.1.Display>Deixa para lá</Selections.1.Display>
 		</Text>
 		<Text Name="Trade_WalkTrader">
-			<DisplayName>Info from the Merchant</DisplayName>
-			<Desc>Would you like to know about the items up for auction?</Desc>
-			<Selections.0.Display>Who will take part?</Selections.0.Display>
+			<DisplayName>Informação do Comerciante</DisplayName>
+			<Desc>Gostaria de saber sobre os itens que estão em leilão?</Desc>
+			<Selections.0.Display>Quem vai participar?</Selections.0.Display>
 		</Text>
 		<Text Name="Trade_WalkTrader_2">
-			<DisplayName>Info from the Merchant</DisplayName>
-			<Desc>I'm afraid you don't have the qualifications required to enter the auction house.</Desc>
+			<DisplayName>Informação do Comerciante</DisplayName>
+			<Desc>Receio que você não possua as qualificações necessárias para entrar na casa de leilões.</Desc>
 		</Text>
 	</List>
 </Texts>
