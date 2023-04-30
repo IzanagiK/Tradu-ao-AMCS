@@ -1,0 +1,39 @@
+﻿ID	Name	Des	InitialKey1	InitialKey2	IgnoreCombinationkeys	Lock	Type
+功能ID	功能名称	功能描述	快捷键组1	快捷键组2	忽略组合键冲突	锁定，玩家不可修改	类型
+Up	Up		W	UpArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Player
+down	down		S	DownArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Player
+left	left		A	LeftArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Player
+right	right		D	RightArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Player
+GamePauseOrPlay	Item Interact		E				Player
+SwitchPlayer	Switch Leader		LeftControl				Player
+SwichNpc	Switch Selection		Tab				Player
+MinMap	MiniMap		Comma				Interface
+Interact1	Interact 1		F1				Interact
+Interact2	Interact 2		F2				Interact
+Interact3	Interact 3		F3				Interact
+Interact4	Interact 4		F4				Interact
+Interact5	Interact 5		F5				Interact
+Interact6	Interact 6		F6				Interact
+Interact7	Interact 7		F7				Interact
+Interact8	Interact 8		F8				Interact
+Interact9	Interact 9		F9				Interact
+Interact10	Interact 10		F10				Interact
+Interact11	Interact 11		F11				Interact
+Interact12	Interact 12		F12				Interact
+Miracle1	Skill 1		Alpha1				Skill
+Miracle2	Skill 2		Alpha2				Skill
+Miracle3	Skill 3		Alpha3				Skill
+Miracle4	Skill 4		Alpha4				Skill
+Miracle5	Skill 5		Alpha5				Skill
+Miracle6	Skill 6		Alpha6				Skill
+Miracle7	Skill 7		Alpha7				Skill
+Miracle8	Skill 8		Alpha8				Skill
+Miracle9	Skill 9		Alpha9				Skill
+Miracle10	Skill 10		Alpha0				Skill
+MiraclePrevPage	Previous Skill Panel		Minus				Skill
+MiracleNextPage	Next Skill Panel		Equals				Skill
+Flying	Switch Fly or Walk		Space		LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Player
+Attack	Select Attack Target		BackQuote				Player
+Sprint	Dash		LeftShift				Player
+ShowOrHide	Hide/ShowUI		F11				System
+StopJob	Interrupt	Interrupt the current action. Some actions cannot be Interrupted.	LeftAlt+S				Player

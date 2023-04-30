@@ -1,0 +1,298 @@
+﻿ID	Name	Desc	sParam1	sParam2
+ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:妖兽种族) (宝物:物品类型lable 权重:ID|ID.)  (角色:数据名字) (秘闻:随机秘闻ID|ID) (路人：行为描述)(动物进攻：种族)（精怪来临：精怪类型）	(路人：附加标记)（精怪来临：具体名称  用|隔开。必须要有种族）
+1	Clear	It is a very clear and bright day, but you don't know how long it will last.	SunnyDay	
+2	Cloudy	It is a very grim and cloudy day, but you don't know how long it will last.	Overcast	
+3	Light Rain	It has started to rain lightly.	LightRain	
+4	Heavy Rain	It has started to rain heavily.	HeavyRain	
+5	Thick Fog	A thick fog has suddenly started to form.	DenseFog	
+6	Gloomy Mood	A strange gloomy mood has begun permeating the sect.	Melancholy	
+7	Romance	A romantic atmosphere has begun permeating the sect.	Ambiguous	
+8	Irritation	People all over the sect suddenly has begun getting irritated easily.	Impetuous	
+9	Hail	It has started to hail. (Unimplemented)	Impetuous	
+10	Rainy Season	The rainy season has started.	MouldRains	
+11	Drought	The drought season has started.	Drought	
+12	Rainstorm	A heavy rainstorm has started, and the Water Element across heaven and earth is extremely active.	Rainstorm	
+13	Foehn Wind	A dry and warm foehn wind has started, and the Fire Element across heaven and earth is extremely active.	Fohn	
+14	Dust Storm	A dust storm is sweeping across the land, and the Earth Element across heaven and earth is extremely active.	DustStorm	
+15	Qi Drought	For unknown reasons, it is in a drought season of Qi across heaven and earth.	LingRarefiedWave	
+16	Heat	Summer heat is coming, so it will be extremely warm. Be sure to prevent heatstroke.	HeatWave	
+17	Cold Winter	A cold winter is coming, so the weather will be freezing. Be sure to stay warm.	ColdWave	
+18	Polar Night	A strange cloud is covering the sun. It will be a while until you can see sunlight again.	PermanentNight	
+19	Miasma	Noxious air is rising over the whole area, and the Wood Element across heaven and earth is extremely active.	Miasma	
+20	Thunderstorm	A thunderstorm is coming, and the Metal Element across heaven and earth is extremely active.	LightningStorm	
+21	Beast	A Fei has shown up near the area, and it has brought continuous rain and illness.	Fei	
+22	Beast	A Lushu has shown up near the area, and it has brought clear weather and an auspicious atmosphere.	Lushu	
+23	Strange Little Elf	A group of little beasts from the Otherworld were wandering around with treasures when they passed by your sect. These beasts are very timid, but the two realms have different rules, so common methods used by cultivators cannot affect them, and these little guys often run riot around the world. To get the treasures from them, you need to think of something else.	Lushu	
+24	Beast	Beast D has shown up near the area.	Null	
+25	Treasure	A beam of light has shot down from the sky. It seems to be something precious.	FightFabao	
+26	Treasure	A fierce magical fight happened over the sky not far from here. Something precious has dropped near the area.	FightFabao	
+27	Treasure	A beam of light suddenly shot up into the sky. A treasure seems to be gracing this area.	FightFabao	
+28	Passer-by Refugee	A refugee escaping the war is passing by, and [IT] wishes to join you.	Human	
+29	Secret		1	
+30	Secret		2	
+31	Secret		3	
+32	Secret		4	
+33	Secret		5	
+34	Attack	A group of savage men from the Southern Jungle has attacked you.	Poorest	Human
+35	Attack	A group of bandits who make a living robbing people across cities and towns has attacked you.	Poor	Human
+36	Attack	A group of rogue cultivators from the East Sea has attacked you for your money and resources.	Normal	Human
+37	Assault	You are under assault by a group of evil cultivators from the west.	Rich	Human
+38	Assault	Your sect is under assault by a group of rogue disciples from evil sects.	Richest	Human
+39	Assault	Your sect is under assault by a group of powerful cultivators.	Normal	Human
+40	Assault	Your sect is under assault by a group of infamous evil cultivators.	Normal	Human
+41	A Different Time	An earthquake happened in the Wild South recently, and a large number of savages and bandits from the south fled here.	33|34	
+42	Immortal Visitor	An immortal friend of yours is visiting your sect, and he probably wants to stay for a few days.	Immortal Visitor	Human
+43	Confused Stranger	A stranger lost their way around here, and wishes that we could help them.	Confused Stranger	
+44	Curious Stranger	A curious stranger came across this place by accident, and [IT] want to know what we are doing exactly.	Curious Stranger	
+45	Injured Stranger	A stranger is injured, and [IT] wish to stay here for a while and ask for our help.	Injured Stranger	RandomDamage
+46	Light Snow	It has started to snow.	LightSnow	
+47	Heavy Snow	It has started to snow heavily.	HeavySnow	
+48	Observer	A cultivator is observing you, but they don't seem to mean any harm.	Observer	Human
+49	Beast Attack	A group of hungry wolves have shown up near here, and they are very hostile.	Wolf	
+50	Beast Attack	A group of crazy rabbits have shown up near here, and they are very hostile.	Rabbit	
+51	Beast Attack	A group of aggressive snakes have shown up near here, and they are very hostile.	Snake	
+52	Beast Attack	A group of frantic boars have shown up near here, and they are very hostile.	Boar	
+53	Secret		6	
+54	Secret		7	
+55	Secret		8	
+56	Secret		9	
+57	Secret		10	
+58	Secret		11	
+59	Secret		11	
+61	Secret		14	
+62	Secret		15	
+63	Secret		16	
+64	Secret		17	
+65	Secret		18	
+66	Secret		19	
+67	Secret		20	
+68	Secret		21	
+69	Secret		22	
+70	Secret		29	
+71	Secret		30	
+72	Secret		31	
+73	Secret		32	
+74	Secret		33	
+75	Secret		34	
+80	Warm Wind	A gust of warm wind is passing through this area during the coldest days, and this winter will be a lot warmer.	HeatWaveInWinter	
+81	Chilly Wind	A gust of chilly wind is passing through this area during the hottest days, and this summer will be a lot chillier.	ColdWaveInSummer	
+82	Spirit of Harvest	A spirit of good harvest started to permeate the area.	HarvestAir	
+83	Burst of Qi	For unknown reasons, Qi across heaven and earth suddenly started to burst out. A few plants were affected and became Spiritwood.	LingUpWave	
+84	Secret		49	
+85	Spring's Coming	The warmth of spring permeates the air.	SpringAir	
+86	Invasion of Beasts	A few rabbit monsters have shown up near here, and they are very hostile.	JYRabbit	TongYong_DropList
+87	Invasion of Beasts	A few wolf monsters have shown up near here, and they are very hostile.	JYWolf	TongYong_DropList
+88	Invasion of Beasts	A few snake monsters have shown up near here, and they are very hostile.	JYSnake	TongYong_DropList
+89	Invasion of Beasts	A few boar monsters have shown up near here, and they are very hostile.	JYBoar	TongYong_DropList
+90	Invasion of Beasts	A few bear monsters have shown up near here, and they are very hostile.	JYBear	TongYong_DropList
+91	Invasion of Beasts	A few giant frogs have shown up near here, and they are very hostile.	JYFrog	TongYong_DropList
+92	Invasion of Beasts	A few giant tortoises have shown up near here, and they are very hostile.	JYTurtle	TongYong_DropList
+93	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		TongYong_DropList
+94	Flood Dragon Tracks		53	
+95	Phoenix Tracks		54	
+96	Torch Dragon Tracks		55	
+97	Ancient Cultivator		56	
+98	Secret		59	
+99	Secret		60	
+100	Secret		61	
+101	Secret		62	
+102	Immortal Visitor	An immortal friend of yours is invited to visit your sect, and he will stay for a few days.	Immortal Visitor	
+103	Traces Found			
+104	Secret		64	
+105	Sentient Spirits Passing By	A sentient [NAME] has shown up near here, and it is filled with curiosity.		
+106	Sentient Spirits Passing By	A sentient [NAME] has shown up near here, and it is filled with curiosity.	Building	
+107	Invasion of Beasts	A few chicken monsters have shown up near here, and they are very hostile.	JYChicken	TongYong_DropList
+108	Invasion of Beasts	A few chicken monsters have shown up near here, and they are very hostile.	JYCat	TongYong_DropList
+109	Invasion of Beasts	A few bull monsters have shown up near here, and they are very hostile.	JYCattle	TongYong_DropList
+110	Invasion of Beasts	A few tiger monsters have shown up near here, and they are very hostile.	JYTiger	TongYong_DropList
+111	Beast Attack	A group of crazy chicken have shown up near here, and they are very hostile.	Chicken	
+112	Beast Attack	An aggressive bear has shown up near here, and it is very hostile.	Bear	
+113	Beast Attack	A group of frantic turtles have shown up near here, and they are very hostile.	Turtle	
+114	Beast Attack	A group of crazy frogs have shown up near here, and they are very hostile.	Frog	
+115	Beast Attack	An aggressive cat has shown up near here, and it is very hostile.	Cat	
+116	Beast Attack	A group of crazy bull have shown up near here, and they are very hostile.	Cattle	
+117	Beast Attack	An aggressive tiger has shown up near here, and it is very hostile.	Tiger	
+118	Attack	A group of Yaoguai cultivators had their greedy eyes on your sect's property. They showed up nearby with great hostility.	Poorest	RANDOMYAOGUAI
+119	Attack	A group of Yaoguai cultivators intend to subvert your sect. They are wandering around nearby with bloodthirsty eyes.	Poor	RANDOMYAOGUAI
+120	Attack	A group of Yaoguai cultivators harbor great hatred towards your sect for some reason, and they are about to launch an assault.	Normal	RANDOMYAOGUAI
+121	Assault	A group of powerful Yaoguai cultivators intend to rob your sect's wealth to enrich themselves.	Rich	RANDOMYAOGUAI
+122	Assault	A group of powerful Yaoguai cultivators are attempting to sack and slaughter your sect.	Richest	RANDOMYAOGUAI
+123	Assault	A group of crazy Yaoguai cultivators are trying to attack your sect.	Normal	RANDOMYAOGUAI
+124	Plea for Protection	A Yaoguai that has just shapeshifted seeks your protection, hoping to survive Heavenly Tribulation of Shapeshifting with your help.	RANDOMYAOGUAI	
+125	Animal Joined	A cat has come to your sect, it seems to enjoy being here.	Cat	
+126	Animal Joined	A chicken has come to your sect, it seems to enjoy being here.	Chicken	
+127	Animal Joined	A bull has come to your sect, it seems to enjoy being here.	Cattle	
+128	Animal Joined	A turtle has come to your sect, it seems to enjoy being here.	Turtle	
+129	Animal Joined	A rabbit has come to your sect, it seems to enjoy being here.	Rabbit	
+130	Animal Joined	A frog has come to your sect, it seems to enjoy being here.	Frog	
+1000	Dragon Passing By			Item_DragonShit|Item_DragonScale
+1001	Burst of Qi			
+1002	Phoenix Passing By			Item_BossFeng_HuoYu
+10000	Establishment	We live in seclusion here, trying to restart our cultivation. We also established a little sect of our own. Will this be the beginning of a new legend?\n\n[color=#D06508]Unlocked decorations.\nUnlocked more buildings.[/color]	FoundOrganization1	
+10001	Famous	Our sect has gradually earned its fame, which is not an easy task. Let's continue building it into a larger sect.\n\n[color=#D06508]The maximum population of the sect has been raised.[/color]	FoundOrganization2	
+10002	Eminent	Our sect has gained its eminence in the world of cultivators. It has become a sanctum of practice that everyone dreams of joining.\n\n[color=#D06508]The maximum population of the sect has been raised.\nYou can set up a new branch through Sect Structure.	FoundOrganization3	
+10003	A New Leader	[NAME] has become our sect leader. This one definitely will lead all of us into immortality.		
+10004	Lack of Leader	We need someone to be our sect leader.\n[color=#D06508]You can choose a sect leader through [Sect Structure] in the Sect menu.[/color]		
+10005	Recommended Disciple	The recommended disciple is almost here.		
+10006	Escape the Unrest	Because you escaped in a hurry, you didn't bring many resources with you. You have been on the run for a couple of days, and it has taken almost all your energy.\nWithout any other option, you have to stay here and recoup for now.	BaseExpect1	
+10007	Settled	The warm bonfire helped to relieve your tension and unease. After a brief discussion, you decided that you were far away enough from danger, so you should set up a temporary camp here.\n\n[color=#D06508]Unlocked Structural Building\nUnlocked Basic Furniture\nUnlocked Basic Work Stations\nUnlocked Floorboard and Roof[/color]	BaseExpect2	
+10008	Contented	Although you were still suffering from the loss of your senior disciples and masters, you gradually settled down. Noticing that this is a very secluded place and those chasing you seemed to have given up, you decided to live here after a small discussion.\n\n[color=#D06508][/color]		
+10009	A New Home	You seem to have gotten used to the life around here. Although it is not as reassuring as when you were still in the old sect, life here is still self-sufficient enough. Why can't this also be a form of cultivation?\nThis is a new home amidst all the chaos and unrest. Will it be a nice beginning as well? Everyone is full of hope.\n\n[color=#D06508]Unlocked Advanced Furniture\nUnlocked Advanced Work Stations[/color]	BaseExpect3	
+10010	Escaped Outer Disciple	Your outer disciple [NAME] has escaped at night because [IT] can no longer bear living here.		
+10011	Cultivator Again	Someone among us has broken through!\nThis one can suddenly feel the strong energy between heaven and earth: \nQi.\nThe gate of cultivation has finally opened for us.\n\n[color=#D06508]Qi has become visible.\nYou can establish a sect now.[/color]		
+10012	Departure	I don't know what I have done wrong, but since you have asked, I will be on my way. Thanks, everyone, for your kindness these past days.\n[TXT] I am glad to have lived and worked with you.		
+10013	Prediction	[NAME]'s prediction for the future is:\n[TXT]		
+10014	Glowing Stone Casket	It is full moon tonight. The stone casket that the Taoist gave you suddenly glowed at midnight, and then a rift appeared. It seemed that you could easily open it.		
+10015	Cultivation Law Obtained	You have obtained a new cultivation Law: [TXT]		
+10016	Cultivation System Unlocked	You have obtained your first cultivation Law. You are now qualified to continue your cultivation. The Law of cultivation will be full of difficulties, but living in troubled times can be an endless source of misery, and you are always drifting along. Maybe finding a Law for ascension is the only way to escape all the worldly problems. \n\n[color=#D06508]Unlocked the cultivation system.\nUnlocked buildings for cultivation.\n(See all Laws in the Sect menu)[/color]		
+10017	Invasion of Enemies	A group of people full of hostility have shown up near here.		
+10018	Ascension	[NAME] has gone through all the hardships and finally ascended above this realm, leaving only the immortal's mortal body for the future generations to worship.\nA poem as evidence:\n[color=#D06508]Out of the sorted chaos of the universe, the first ever human being was born. The oneness came before duality, and the Four Symbols guarded the earth.\nThe goddess gave life to all creations from clay, while the Great Bright One drew the picture that divided Yin and Yang.\nA hundred years of cultivation passed by while soldiers fought in countless battles. Another thousand years are only a blink of an eye in meditation.\nI shall say no more as the Heavenly Tribulation comes to take me away. All the worldly problems will be gone with the wind after I leave this plane of existence.[/color]	SeeGod	
+10019	Assault	[TXT] has sent a group of elite disciples to take revenge.	Rich	Human
+10020	Assault	[TXT] has sent senior disciples to take revenge.	Rich	Human
+10021	Assault	[TXT] has sent experienced elders of the sect to take revenge.	Rich	Human
+10022	Fire of Anger	Your behavior has angered [TXT], and they will take immediate action.		
+10023	Tribulation Day	[NAME]'s cultivation has reached its limit. A Heavenly Tribulation is about to fall!		
+10024	Mysterious Immortal	For several days, you hid during the day and travelled at night, finally arriving at a secluded ravine. As you were about to relax, a light of teleportation suddenly struck, showing the contour of a cultivator.		
+10025	Mysterious Immortal	The mysterious cultivator looked around in deep thought, and then disappeared into another light of teleportation.		
+10026	Tutorial	Congratulations! You have mastered the basic features of Amazing Cultivation Simulator.\nNext, you can create your own character in Classic and start a true journey of cultivation.\nEnjoy the game!		
+10027	Perished	This is a bad time. Your Law to cultivation has yet to begin before it is ended. What remains is only the vast land and sea that will sweep your sorrow away.		
+10028	Destroyed	[TXT] What remains is only the vast land and sea that will sweep your sorrow away.		
+10029	A New Beginning	A traveler hiding out in the mountains found the ruins. With nowhere else to go, [IT] decided to stay here for now.		
+10030	Mysterious Immortal	You sensed a gentle and warm presence that stopped by your side for a while, before it slowly became weak and disappeared eventually, as if it were never here...		
+10031	Blessed	[TXT] became blessed, and suddenly it gained a lot of fame and changed drastically.		
+10032	Absent-minded	[NAME] has to return for meditation immediately for having been dispatched outside of the sect for too long.		
+10033	Injured	[NAME] has to return to the sect to recover from their injury during their stationing.		
+10034	Blending In	After a little time spent living together, [NAME] has completely blended in with the rest of the sect.		
+10035	Restless	Sensing the presence of a cultivator with a Golden Core, [NAME] living here seems to be a little restless...		
+10036	Attack	To prevent you from growing, [NAME] living here has attacked.		
+10037	Restless	Sensing that your sect might not be a potential threat, [NAME] living here is conspiring against you...		
+10038	Attack	No longer able to resist the temptation of blood and flesh, [NAME] living here has attacked.		
+10039	Evolved	Affected by the weather and Qi, a [NAME] has been blessed and turned into a beast.		
+10040	Sinister	[NAME] came to this place and suddenly felt something sinister, as if an evil creature was living nearby.		
+10041	Mysterious Cavern	The increasingly frequent earthquakes in your sect suddenly stopped recently, and at the same time, a mysterious cavern appeared on the ground.\nAncient cultivators are starting to appear in this realm more often. Maybe you can ask them for information.		
+10042	Threatening	The mysterious cavern suddenly became menacing, and it wanted you to sacrifice [TXT].		
+10043	Sacrificed	You completed the rite in front of the cavern, and the mysterious being was very satisfied.		
+10044	Rainstorm	The mysterious being within the cavern was very angry, and a rainstorm came at its enraged roar.	Rainstorm_AllSeason	
+10045	Qi Drought	The mysterious being within the cavern was very angry, and a strong pull from the cave sucked all the Qi around the place away.	LingRarefiedWave	
+10046	Polar Night	The mysterious being within the cavern was very angry, and a polar night started as the result of its anger.	PermanentNight	
+10047	Invasion of Beasts	The mysterious being within the cavern was very angry, and it attracted a few beasts to attack your sect.		
+10048	Dawn of Anger	The mysterious being within the cavern was very angry, and it spurted out a gush of water that broke the surface of the ground.		
+10049	Dragon Born	The mysterious being within the cavern could not contain its anger anymore. With a violent noise that could spread thousands of miles, a giant beast broke out of the ground.		
+10050	Extreme Heat	For unknown reasons, the average temperature in this realm suddenly raised up quite a lot. This rise in temperature has been far beyond normal changes in weather. It might indicate something unusual.	Weather_Boss_Drought	
+10051	Unhinged Monster	The extreme drought has turned monsters crazy, and a couple of unhinged monsters have shown up near the sect.	Wolf|Rabbit|Snake|Boar	
+10052	Blazing Wing Falling	A wave of heat swept across the sky, and something strange has fallen down.		Item_BossFeng_HuoYu
+10053	Prolonged Drought	The continuing heat has brought along a drought. You felt that the temperature was rising higher and higher. If you don't take action now, the situation might worsen.	Weather_Boss_HighTemp	
+10054	Unhinged Beast	A few beasts went crazy out of fear, and they even left their own territory to wreak havoc everywhere.		
+10055	Blazing Wing Falling	A wave of heat swept across the sky, and something strange has fallen down.		Item_BossFeng_HuoYu
+10056	Shrilling Sound	After casting a spell to drive away the prolonged drought, you found that the world seemed to become eerily quite for an hour. A few moments later, a large flock of birds suddenly flew up from remote mountains. A shrilling and sinister sound broke the silence.		
+10057	Phoenix	Phoenix is here.		
+10058	Polar Night Begins	For unknown reasons, the realm suddenly lost its balance of Yin and Yang. A dark night shroud the area around your sect.		
+10059	Eggs of Yin	A few strange eggs suddenly appeared near your sect in the middle of the night. There is something hatching inside them...		
+10060	Polar Day Begins	For unknown reasons, the realm suddenly lost its balance of Yin and Yang. It turned high noon in the area around your sect... You don't know how long this chaos will continue.		
+10061	Eggs of Yang	A few strange eggs suddenly appeared near your sect in the middle of the day. There is something hatching inside them...		
+10062	Torch Dragon Born	The continued chaos of Yin and Yang finally reached its limit. With a drawn-out sigh, a giant creature started to manifest within the realm.		
+10063	Torch Dragon's Chaos	As the strange eggs began to hatch, the Yin and Yang of this realm slowly lose balance.		
+10064	Torch Dragon's Chaos	As the strange eggs were destroyed, the Yin and Yang of this realm slowly lose balance.		
+10065	Drastic Change	There has been a sudden burst of Qi in the Central Plains. As time goes by, people started to realize that the scale and intensity of the burst was beyond all expectations. It has been spreading from the central bursting point for more than a month, proving that it was actually a drastic change that would affect all cultivators.\nNow, the influence of the burst has reached your sect. As everyone enjoys the overflowing Qi, you wonder what this drastic change could mean for all of you...	LingUpWave_Sp	
+10066	Thousand-year Tide	It has been days since the burst of Qi finished spreading across the realm. From reading old documents, the famous sects eventually decided that it was the tide of Qi that surges every 3,000 years. Ancient cultivators that were in slumber for various reasons started to be revived one by one by the Thousand-year Tide.\nWithout the current order and rules, cultivators in ancient times believed in the law of the jungle. These cultivators with ancient beliefs and long experience in cultivation has caused chaos in the world of cultivators in only a few days...		
+10067	Disaster in the Wild South	A mysterious disaster happened recently on the mountains of the northern borderland. It was said that the ground and mountains shook for a minute, and the sound was so loud that it spread across thousands of miles. When the nearby cultivators arrived, they only found all the mountains to be drowned in water, with strong ominous Qi permeating the area.\nIt seems that a few rare and elusive ancient beasts that hide in the mountains and lakes are affected by the Thousand-year Tide and have become active again.		
+10068	Underground Noise	The Thousand-year Tide has passed. In a little more than a month, ancient cultivators were revived, and ancient beasts started to become active again... The world of cultivators was faced with the drastic change. As time goes by, the world of cultivators has gradually regained its peace and balance. Everything seems to be back on track.\nHowever, underground shakes started to happen frequently in your sect. You don't know what is going on...		
+10069	Invasion of an Ancient Cultivator	This ancient cultivator has successfully found your sect after careful investigation.		
+10070	Beast Awakens	The beast occupying this land has awakened.		
+10071	Tribulation of Dragons	The power of the Heavenly Tribulation has killed all the unborn Flood Dragons...		
+10072	Disturbance of the Otherworld	There were talks that the Otherworld Rift suddenly opened up lately and several beaming treasures flew out of it, scattering around the world. You sensed something strange going on. It seems that you have a spiritual connection with these treasures and a careful search is warranted.		
+10073	Disturbance of the Otherworld	There were talks that the Otherworld Rift suddenly opened up lately and several beaming treasures flew out of it, scattering around the world. You sensed something strange going on. It seems that you have a spiritual connection with these treasures and a careful search is warranted.		
+10074	Disturbance of the Otherworld	There were talks that the Otherworld Rift suddenly opened up lately and several beaming treasures flew out of it, scattering around the world. You sensed something strange going on. It seems that you have a spiritual connection with these treasures and a careful search is warranted.		
+10075	Disturbance of the Otherworld	There were talks that the Otherworld Rift suddenly opened up lately and several beaming treasures flew out of it, scattering around the world. You sensed something strange going on. It seems that you have a spiritual connection with these treasures and a careful search is warranted.		
+10076	Departure	Why do you send me as a gift to [TXT]?		
+10077	Ascension	[NAME] has attained their divinity and lost all feelings and emotions. With every human relations and connections severed, [IT] have completely transformed into a deity in this realm.	SeeGod	
+10078	Condemnation from the Merchant Union	Because of your rude behavior, the Merchant Union has decided to ban you from their trade list forever.		
+10079	Revenge	[TXT]'s friends and elders have come to your sect looking angry and aggressive, asking for your explanation and apology.	Rich	
+10080	Revenge	[TXT] has betrayed their own sect because of you. Their old friends and elders are very mad and will come asking for your explanation and apology.		
+10081	Connection	[TXT]'s disciple has betrayed their sect because of you, but since you have a good relationship with each other, their senior elders have ordered to not pursue this matter.\n(Connection reduced)		
+10082	Connection	[TXT]'s disciple has betrayed their sect because of you, but since you have a good relationship with each other, they have tried not to pursue this matter. But the favors they owed you are probably not enough to stop them from keeping it quiet.\n(Connection reduced)		
+10083	Visit from the Merchant Union	[NAME] from the Merchant Union comes to visit, and he will stay here for one day.		
+10084	Return from the Otherworld	A few days ago, a group of merchants in the union disappeared while exploring the Otherworld Rift. When everyone thought they were gone for good, the Otherworld Rift opened again and all the merchants came back safely, even bringing many strange items from the Otherworld.\nHowever, a large amount of Otherworld objects have brought in the Creed of Heaven from the Otherworld. Under the influence of the ways of heaven of the Otherworld, some temporary changes have occurred to the heavenly ways in this world as well. Even Torch Dragon, the manifestation of the Rule of Yin and Yang, has become a little strange...		
+10085	Awakened Bear		Bear,10,10,10,10,10,3,Target,,3	At [TXT], a bear came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10086	Awakened Rabbit		Rabbit,10,10,10,10,10,3,Target,,3	At [TXT], a rabbit came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10087	Awakened Chicken		Chicken,10,10,10,10,10,3,Target,,3	At [TXT], a chicken came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10088	Awakened Wolf		Wolf,10,10,10,10,10,3,Target,,3	At [TXT], a wolf came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10089	Awakened Snake		Snake,10,10,10,10,10,3,Target,,3	At [TXT], a snake came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10090	Awakened Boar		Boar,10,10,10,10,10,3,Target,,3	At [TXT], a boar came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10091	Awakened Frog		Frog,10,10,10,10,10,3,Target,,3	At [TXT], a frog came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10092	Awakened Turtle		Turtle,10,10,10,10,10,3,Target,,3	At [TXT], a turtle came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10093	Awakened Cat		Cat,10,10,10,10,10,3,Target,,3	At [TXT], a cat came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10094	Awakened Tiger		Tiger,10,10,10,10,10,3,Target,,3	At [TXT], a tiger came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10095	Awakened Bull		Cattle,10,10,10,10,10,3,Target,,3	At [TXT], a bull came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10096	Master's Enlightenment	Blessed by fortune, [NAME] received enlightenment from [TNAME] at [TIME], and has thus become a Sentient Spirit.		
+10097	Sentient World	Blessed by fortune, [NAME] acquired energy of heaven and earth in [WEATHER], awakening self-consciousness and becoming a Sentient Spirit.		
+10098	Awakening Energy	Blessed by fortune, having spent years at [TNAME]'s side, [NAME] accidentally awakened self-consciousness and become a Sentient Spirit, due to the accumulated energy from listening to words of wisdom.		
+10099	Awakened Bear		Bear,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a bear accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10100	Awakened Rabbit		Rabbit,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a rabbit accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10101	Awakened Chicken		Chicken,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a chicken accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10102	Awakened Wolf		Wolf,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a wolf accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10103	Awakened Snake		Snake,10,10,10,10,10,3,Emotion,,3	At [TXT], a snake came to the realization of "[FRAG]" by chance, and has thus become awakened.
+10104	Awakened Boar		Boar,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a boar accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10105	Awakened Frog		Frog,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a frog accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10106	Awakened Turtle		Turtle,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a turtle accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10107	Awakened Cat		Cat,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a cat accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10108	Awakened Tiger		Tiger,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a tiger accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10109	Awakened Bull		Cattle,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a bull accidentally felt "[FRAG]" several times, becoming awakened as a result.
+10110	Awakened Bear		Bear,10,10,10,10,10,3,Scene,,3	A bear "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
+10111	Awakened Rabbit		Rabbit,10,10,10,10,10,3,Scene,,3	A rabbit "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
+10112	Awakened Chicken		Chicken,10,10,10,10,10,3,Scene,,3	A chicken "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
+10113	Awakened Wolf		Wolf,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a wolf had a sudden Enlightment and became awakened at [TXT].
+10114	Awakened Snake		Snake,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a snake had a sudden Enlightment and became awakened at [TXT].
+10115	Awakened Boar		Boar,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a boar had a sudden Enlightment and became awakened at [TXT].
+10116	Awakened Frog		Frog,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a frog had a sudden Enlightment and became awakened at [TXT].
+10117	Awakened Turtle		Turtle,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a turtle had a sudden Enlightment and became awakened at [TXT].
+10118	Awakened Cat		Cat,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a cat had a sudden Enlightment and became awakened at [TXT].
+10119	Awakened Tiger		Tiger,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a tiger had a sudden Enlightment and became awakened at [TXT].
+10120	Awakened Bull		Cattle,10,10,10,10,10,3,Scene,,3	After "[FRAG]" multiple times, a bull had a sudden Enlightment and became awakened at [TXT].
+10121	Retreating Enemy	A wave of hostile beings intended to attack you. But after carefully considering your sect's reputation in the cultivation world, they eventually decided to give up.		
+10122	Ascension	[NAME] has gone through all the hardships and finally embraced oblivion with mortal body, ascending above this realm and leaving nothing but legends to be told for future generations.\nA poem as evidence:\n[color=#D06508]Out of the sorted chaos of the universe, the first ever human being was born. The oneness came before duality, and the Four Symbols guarded the earth.\nThe goddess gave life to all creations from clay, while the Great Bright One drew the picture that divided Yin and Yang.\nA hundred years of cultivation passed by while soldiers fought in countless battles. Another thousand years are only a blink of an eye in meditation.\nI shall say no more as the Heavenly Tribulation comes to take me away. All the worldly problems will be gone with the wind after I leave this plane of existence.[/color]	SeeGod	
+10123	Otherworld Merchant	[NAME] from the Traveling Merchant Guild was teleported here via the Otherworld Rift.		
+10124	Otherworld Rift	A horde of rabid beasts were teleported here via the Otherworld Rift.		
+10125	Otherworld Rift	Some monsters were teleported here via the Otherworld Rift.		
+10126	Otherworld Rift	A group of enemies were teleported here via the Otherworld Rift.		
+10127	Converged Fortune	After conquering all sects with unrivaled power, your sect has collected all fortune from the cultivators' realm, and your Mini Universe begins to emit strange, faint light.		
+10128	Converged Fortune	Only within a few years, there have been 50 disciples ascended to immortality in your sect. Therefore, great divine fortune has converged here, and your Mini Universe begins to emit strange, faint light.		
+10129	Converged Fortune	After much hardship, a Golden Core cultivator in your sect has survived nine Heavenly Tribulations, drawing in divine fortune to converge here, and thus your Mini Universe begins to emit strange, faint light.		
+10130	Converged Fortune	As time flies by, your sect has been established here for decades, gradually blending in the environment and absorbing fortune, and thus your Mini Universe begins to emit strange, faint light.		
+10131	Converged Fortune	To unearth the truth of the Taiyi Sect's destruction, you have unexpectedly uncovered the most ancient secret in the world after careful investigation, during which great divine fortune has converged  here, and thus your Mini Universe begins to emit strange, faint light.		
+10132	Converged Fortune	The creed of heaven has shifted drastically, and thus your Mini Universe begins to emit strange, faint light.		
+10133	The time has come	The Mini Universe suddenly shook strangely. You remind the arrangement with Fu Bikong and it is the time.		
+10123	Otherworld Merchant	[NAME] from the Traveling Merchant Guild was teleported here via the Otherworld Rift.		
+10124	Otherworld Rift	A horde of rabid beasts were teleported here via the Otherworld Rift.		
+10125	Otherworld Rift	Some monsters were teleported here via the Otherworld Rift.		
+10126	Otherworld Rift	A group of enemies were teleported here via the Otherworld Rift.		
+30001	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		TongYong_DropList
+30002	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		TongYong_DropList
+30003	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		TongYong_DropList
+30004	Assault	A few mysterious assassins are ordered to attack your sect.	Richest	Human
+30005	Assault	A few mysterious assassins are ordered to attack your sect.	Richest	Human
+30006	Assault	A few mysterious assassins are ordered to attack your sect.	Richest	Human
+30008	Polar Night	A disorder of the Yin Yang Stela caused the Yin energy to overflow. The sun refuses to rise as a result.	YinChaos	
+30009	Heat Wave	The Fiery Chasm becomes unstable, resulting in abnormally high temperature.	Hotpot_Heat	
+30010	Chilling Air	The Frozen Furnace becomes unstable, resulting in abnormally low temperature.	ColdHole_Cold	
+30012	Rainstorm	A heavy rainstorm has started, and the Water Element across heaven and earth is extremely active.	Rainstorm	
+30013	Foehn Wind	A dry and warm foehn wind has started, and the Fire Element across heaven and earth is extremely active.	Fohn	
+30014	Dust Storm	A dust storm is sweeping across the land, and the Earth Element across heaven and earth is extremely active.	DustStorm	
+30015	Qi Drought	For unknown reasons, it is in a drought season of Qi across heaven and earth.	LingRarefiedWave_Longer	
+30018	Polar Night	A strange cloud is covering the sun. It will be a while until you can see sunlight again.	PolarNight	
+30019	Miasma	Noxious air is rising over the whole area, and the Wood Element across heaven and earth is extremely active.	Miasma	
+30020	Thunderstorm	A thunderstorm is coming, and the Metal Element across heaven and earth is extremely active.	LightningStorm	
+30021	Assault	A few mysterious assassins are ordered to attack your sect.	Normal	Human
+30022	Thunderstorm	Answering the Mysterious Cavern unrest, a thunderstorm strikes.	Lightning_DragonHole	
+30028	Passer-by Refugee	A refugee escaping the war is passing by, and [IT] wishes to join you.	Human	
+30043	Confused Stranger	A stranger lost their way around here, and wishes that we could help them.	Confused Stranger	
+30044	Curious Stranger	A curious stranger came across this place by accident, and [IT] want to know what we are doing exactly.	Curious Stranger	
+30045	Injured Stranger	A stranger is injured, and [IT] wish to stay here for a while and ask for our help.	Injured Stranger	RandomDamage
+30083	Burst of Qi	For unknown reasons, Qi across heaven and earth suddenly started to burst out. A few plants were affected and became Spiritwood.	LingUpWave_Shorter	
+30111	Dust Storm	Due to the influence of the Earthmother Shrine, a dust storm has occured.	DustStorm_Dimu	
+30112	Invasion of Beasts	The Earthmother Shrine has absorbed some nutrition from the soil, enraging a pack of monsters. They have grown hostile!		
+30113	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		
+30114	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		
+30115	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		
+30116	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		
+30117	Heaven Echo Altar	Crystalize Spirit Stones Complete！		

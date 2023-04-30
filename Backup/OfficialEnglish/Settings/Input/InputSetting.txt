@@ -1,0 +1,60 @@
+﻿ID	Name	Des	InitialKey1	InitialKey2	IgnoreCombinationkeys	Lock	Type
+Function ID	Name	Des	Hotkey Set 1	Hotkey Set 2	Ignore key combination conflict	Locked (cannot be modified by palyers)	Category
+Up	Up		W	UpArrow	LeftAlt		Player
+down	Down		S	DownArrow	LeftAlt		Player
+left	Left		A	LeftArrow	LeftAlt		Player
+right	Right		D	RightArrow	LeftAlt		Player
+SpeedP	Lower speed		Q				Player
+SpeedN	Raise speed		E				Player
+GamePauseOrPlay	Pause/Stop		Space				Player
+Attack	Attack		BackQuote				Character
+RunAway	Flee		LeftControl+BackQuote				Character
+Moveto	Move To		V				Character
+StopJob	Interrupt	Interrupts the current action (some actions cannot be interrupted).	LeftAlt+S				Character
+Work	Work Menu		T				Menu
+School	Sect Menu		G				Menu
+World	World Map		M				Menu
+Help	Help Menu		F10				Menu
+AttributePanel	Stats Panel		C				Character
+MoodPanel	Social/Mood Menu		F				Character
+HealthPanel	Health Menu		H				Character
+PracticePanel	Cultivation Menu		X				Character
+EquipmentPanel	Equipment Menu		Z				Character
+Interaction	Interaction 1-9	F1-F9				1	Character
+RotBuilding	Rotate Building		R				Area
+RepeatBuild	Copy building		LeftControl+V				Area
+Harvest	Harvest		LeftControl+G				Area
+Log	Chop		LeftControl+X				Area
+Mine	Mine		LeftControl+T				Area
+Cutoff	Clear Area		LeftControl+E				Area
+Dismantle	Demolish		LeftControl+C				Area
+RemoveFloor	Remove Floor		LeftControl+B				Area
+Explore	Search Area		LeftControl+F				Area
+Melting	Smelt Items		LeftControl+Y				Area
+Hunting	Hunt Animals		LeftControl+H				Area
+CancelCMD	Cancel Order		LeftControl+D				Area
+BuildPanel	Build Menu		B				Menu
+SearchPanel	Target Menu		Y				Menu
+ProducePanel	Produce Menu		P				Menu
+SwichNpc	Change Target		Tab				Player
+33	Target Team	L-Ctrl + 1-9				1	Player
+34	Select Team	1-9				1	Player
+36	Multiple	L-Shift				1	Player
+Story1	Adv. Option 1		Alpha1				Adventure
+Story2	Adv. Option 2		Alpha2				Adventure
+Story3	Adv. Option 3		Alpha3				Adventure
+Story4	Adv. Option 4		Alpha4				Adventure
+Story5	Adv. Option 5		Alpha5				Adventure
+Story6	Adv. Option 6		Alpha6				Adventure
+Story7	Adv. Option 7		Alpha7				Adventure
+Story8	Adv. Option 8		Alpha8				Adventure
+Story9	Adv. Option 9		Alpha9				Adventure
+QuickSave	Quick Save		F9				System
+ShowOrHide	Hide/Display UI		F11				System
+37	System Menu	Esc				1	System
+Zhen	Formation Menu		N				Menu
+MinMap	Minimap		Comma				Menu
+ShowElement	Five Element		L				Menu
+Power	Power		K				Menu
+Miwen	Secret		U				Menu
+IllHand	Encyclopedia		O				Menu

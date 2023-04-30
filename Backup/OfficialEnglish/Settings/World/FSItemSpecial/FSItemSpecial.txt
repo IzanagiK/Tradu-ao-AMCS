@@ -1,0 +1,117 @@
+﻿ID	Desc
+	Description
+1	Room residents must all be Commoners.
+2	Room residents must all be Shapers.
+3	Room residents must all be Core Shapers.
+4	Room residents must all be of Golden Core.
+5	Room residents must all be of Primordial Spirit.
+6	Room residents must all be Demi-Gods.
+7	Room residents must all be Inner Disciples.
+8	Room residents must all be Outer Disciples.
+9	Room residents must all be Visitors.
+10	Room residents must all be older than 30 years.
+11	Room residents must all be older than 90 years.
+12	Room residents must all be older than 270 years.
+13	Room residents must all be older than 810 years.
+14	Room residents must all be older than 2,430 years.
+15	Room residents must all be younger than 30 years.
+16	Room residents must all be younger than 90 years.
+17	Room residents must all be younger than 270 years.
+18	Room residents must all be younger than 810 years.
+19	Room residents must all be younger than 2,430 years.
+20	Room residents must have a combined age of no more than 100 years.
+21	Room residents must have a combined age of no more than 200 years.
+22	Room residents must have a combined age of no more than 500 years.
+23	Room residents must have a combined age of no more than 1,000 years.
+24	Room residents must have a combined age of no less than 500 years.
+25	Room residents must have a combined age of no less than 1,000 years.
+26	Room residents must have a combined age of no less than 2,000 years.
+27	Room residents must have a combined age of no less than 4,000 years.
+28	Room residents must all be male.
+29	Room residents must all be female.
+30	Room residents must include both males and females.
+31	The room must have 1 resident.
+32	The room must have 2 residents.
+33	The room must have 3 residents.
+34	The room must have 3 or more residents.
+35	The room must have 5 or more residents.
+36	The room mustn't have more than 3 residents.
+37	The room mustn't have more than 5 residents.
+38	The room must have at least 1 bed.
+39	The room must have at least 2 beds.
+40	The room must have at least 3 beds.
+41	The room mustn't have more than 1 bed.
+42	The room mustn't have more than 2 beds.
+43	The room mustn't have more than 3 beds.
+44	The room must have at least 1 double bed.
+45	The room must have at least 1 light source.
+46	The room must have at least 2 light sources.
+47	The room must have at least 3 light sources.
+48	The room mustn't have more than 1 light source.
+49	The room mustn't have more than 2 light sources.
+50	The room mustn't have more than 3 light sources.
+51	The room must have at least 1 water vat.
+52	The room must have at least 1 folding screen.
+53	The room must have at least 1 statue.
+54	The room must have at least 1 cauldron.
+55	The room must have at least 1 censer.
+56	The room must have at least 1 plant.
+57	The room must have at least 1 banner.
+58	The room must have at least 1 shelf.
+59	The room must have at least 1 grave.
+60	The room must have at least 2 water vats.
+61	The room must have at least 2 folding screens.
+62	The room must have at least 2 statues.
+63	The room must have at least 2 cauldrons.
+64	The room must have at least 2 censers.
+65	The room must have at least 2 plants.
+66	The room must have at least 2 banners.
+67	The room must have at least 1 shelves.
+68	The room mustn't have any water areas.
+69	The room must have at least 1 water area.
+70	The room must have at least 1 spirit area.
+71	The room mustn't have any land areas.
+72	The room must have at least 1 building and relic with connecting elements.
+73	The room must have at least 2 buildings and relics with connecting elements.
+74	The room must have at least 3 buildings and relics with connecting elements.
+75	The room mustn't have any buildings whose elements counter relics.
+76	The room must have no more than 1 building and relic with counteractive elements.
+77	The room must have no more than 2 buildings and relics with counteractive elements.
+78	The room must have no more than 3 buildings and relics with counteractive elements.
+79	The room must have at least 1 building and relic with the same element.
+80	The room must have at least 2 building and relics with the same element.
+81	The room must have at least 3 building and relics with the same element.
+82	Must have at least 1,000 Relic Qi.
+83	Must have at least 5,000 Relic Qi.
+84	Must have at least 10,000 Relic Qi.
+85	Must have at least 30,000 Relic Qi.
+86	mustn't have more than 1,000 Relic Qi.
+87	mustn't have more than 5,000 Relic Qi.
+88	mustn't have more than 10,000 Relic Qi.
+89	mustn't have more than 30,000 Relic Qi.
+90	The Relic's location must be filled with Qi.
+91	All of the room's buildings must have ominous Feng Shui (Slightly Ominous/Ominous/Very Ominous).
+92	All of the room's buildings must have auspicious Feng Shui (Slightly Auspicious/Auspicious/Very Auspicious).
+93	The room mustn't have any very auspicious buildings.
+94	The room must have exactly 1 very auspicious building.
+95	The room mustn't have more than 1 very auspicious building.
+96	The room mustn't have more than 2 very auspicious buildings.
+97	The room must have at least 1 very ominous building.
+98	The room must have at least 2 very ominous buildings.
+99	The room must have exactly 1 Feng Shui Relic.
+100	The room must have exactly 1 Feng Shui Relic.
+101	The room must have exactly 1 Feng Shui Relic.
+102	The room must have exactly 1 Feng Shui Relic.
+103	The room must have exactly 1 Feng Shui Relic.
+10001	Must have at least 100,000 Relic Qi.
+10002	The room must have at least 5 very ominous buildings.
+10003	The room must have exactly 1 Feng Shui Relic.
+10004	The room must have at exactly 8 light sources.
+10005	The room must have at least 3 stoves.
+10006	The room must have at exactly 7 light sources.
+10007	The room must have exactly 5 graves.
+10008	The room must have exactly 2 censers.
+10009	The room must have exactly 2 banners.
+10010	The room must have exactly 1 bed.
+10011	The room mustn't have any cushions or qi cushions.
+20000	The room must have exactly 1 spirit relic.

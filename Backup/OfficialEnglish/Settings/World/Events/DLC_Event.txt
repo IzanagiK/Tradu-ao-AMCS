@@ -1,0 +1,7 @@
+﻿ID	Name	Desc	sParam1	sParam2
+ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:妖兽种族) (宝物:物品类型lable 权重:ID|ID.)  (角色:数据名字) (秘闻:随机秘闻ID|ID) (路人：行为描述)(动物进攻：种族)（精怪来临：精怪类型）	(路人：附加标记)（精怪来临：具体名称  用|隔开。必须要有种族）
+40001	Enlightened Panda		Panda,10,10,10,10,10,3,Target,,3	At [TXT], a panda came to the realization of "[FRAG]" by chance, and has thus become awakened.
+40002	Enlightened Panda		Panda,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a panda accidentally felt "[FRAG]" several times, becoming awakened as a result.
+40003	Enlightened Panda		Panda,10,10,10,10,10,3,Scene,,3	A panda "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
+40004	Animal Joined	A panda has come to your sect. It seems to enjoy being here.	Panda	
+40005	Invasion of Beasts	A few panda monsters have shown up nearby, and they appear very hostile.	JYPanda	TongYong_DropList

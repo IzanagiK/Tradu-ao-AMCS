@@ -1,0 +1,55 @@
+﻿Name	DisplayName	Tips
+		
+DisplayName	Name	Item Name
+Desc	Description	Item Description
+Element	The Five Elements	The Item's Five-Element Stats
+Rate	Tier	Item Tier
+Zhuji	Foundation	Foundation increased by using/consuming this item. (Range: 0-30,000) (For outer disciples only)
+Fesistance	Medicine Resistance	Rate of weakening of the item's medicinal effects due to multiple usages. Medicine Tolerance of 1 means that the next time the item is used it will have no effect whatsoever. (Range: 0-1; Precision Support: 0.01)
+Ling	Qi	Qi increased by using/consuming this item . (Range: 0-999,999,999)
+Nutrition	Nutritional Value	Hunger replenished by consuming this item. (Range: 0-100)
+Water	Thirst	Thirst replenished by consuming this item. (Range: 0-100)
+PracticeNutrition	Stamina	Stamina replenished by consuming this item. (Range: 0-9,999)
+DiscipleOnly	Only Effective For Inner Disciples	Whether the item is only Effective For Inner Disciples.
+DanModifier	Elixir Effect	Special Effects obtained by consuming the item.
+Color	Icon Color	The item's Item Icon Color
+EquipLable	Equipment Type	Equipment Type
+EquipModel	Model	Equipment Model
+Sex	Gender	Gender requirement for wearing the Gear.
+TemperatureMaxAdd	Highest Suitable Temp	The base adjustment value that the Gear has to the maximum suitable temperature of the character. The actual value has to do with Gear Quality and the Materials used. (Range: -999-999)
+TemperatureMinAdd	Lowest Suitable Temp	The base adjustment value that the Gear has to the minimum suitable temperature of the character. The actual value has to do with Gear Quality and the Materials used. (Range: -999-999)
+WeaponKind	Weapon	Weapon Type
+Damage	Base Damage	The base Damage of the weapon. The actual value has to do with Gear Quality and the Materials used. (Range: 1-999)
+AttackSpeed	Attack Speed	The attack rate of the weapon per second. (Range: 0.3-3)
+AttackRange	Attack Range	The maximum distance at which the weapon can attack. Unit: Tiles. (Range: 1.5-20)
+Difficulty	Difficulty of Study	The Manual's difficulty: the greater the difficulty, the more Inspiration will be required for its study, but Attainment will in turn be greater as well. (Range: 0-999)
+EsotericaType	Manual Type	The Manual's Type.
+MaxStack	Multiplier	
+Duration	Duration	The amount of time that the Special Effect lasts. Unit: Second. (Range: -1 or 1-999,999, if the value is -1, then it will be effective in perpetuity)
+Skill	Skill Bonus	Additional Skill Stats bonus caused by the Special Effect.
+Property	Stat Bonus	Additional Stats bonus caused by the Special Effect.
+GLevel	State	State required to study the Manual.
+DanLevel	Alchemy Level	Alchemy Skill required to Concoct the Elixir. (Range: 1-20)
+DanCount	Alchemy Quantity	The theoretical amount produced when Concocting the Elixir. The actual amount depends on the Alchemy level of the person concocting it and the area it's Concocted in. When concocting, the actual value will be at least 1. (Range: 0.1-999)
+DanRate	Alchemy Difficulty	The difficulty of Concocting the Elixir. The higher the difficulty, the more difficult it is to successfully Concoct.
+ELearn	Learning Manuals	How to Concoct the Elixir can be learned from a Manual
+WorldDrop	World Drop	It's possible to obtain the Elixir by triggering a random Elixir reward while Adventuring.
+Businessman	Sold By Merchants	The Elixir can be purchased from a Traveling Merchant.
+InitialUnlock	Initial Unlock	The Elixir can be Concocted by anyone by default.
+DropCount	Drop Quantity	The amount of the Elixir obtained while Adventuring.
+DropRate	Drop Rate	The chance of obtaining the elixir when a random Elixir reward is triggered while Adventuring.
+SellPrice	Item Price	The price to purchase the item from the Traveling Merchant.
+SellCount	Quantity in Inventory	How many Elixirs the Traveling Merchant is carrying at one time.
+StuffSelect	Secondary Materials	Choose Materials to make the Item with.
+EsoDropRate	Drop Rate	The chance of obtaining the Manual when a random Manual reward is triggered while Adventuring.
+StartUnlock	Unlocked by Default	Automatically obtained upon starting a new game.
+EsoWorldDrop	World Drop	It's possible to obtain the Manual when a random Manual reward is triggered while Adventuring.
+EquipModifier	Gear Effect	The Special Effects granted by Equipping the piece of Gear.
+EsoModifier	Manual Effect	The Special Effects granted by studying the Manual.
+MaterialSelect	Main Material	The types of Main Materials required to make the Item.
+BuildSelect	Buildings Required	The buildings required to Craft the item.
+MainCostItemCount	Main Material Quantity	The base quantity of Main Materials required to make the Item. (Range: 1-999)
+DanSelect	Elixir Recipe	The Elixir Formula that can be learned by studying the Manual.
+ModSelect	Model	The weapon's model.
+Ignorelimit	Ignore Cap	Whether the Skill Level Bonus ignores the Level 20 Skill Cap.
+PpTypeSelect	Type	The Stat's Bonus Type.

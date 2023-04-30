@@ -1,0 +1,410 @@
+﻿ID	Name	Desc
+ID	Achievement Title	Description
+1	First-time Ascension	1 person ascended
+2	Ascension Adept	3 people ascended
+3	Frequent Ascension	5 people ascended
+4	Renowned Cultivator	10 people ascended
+5	Young and Inexperienced	1 adventure in total
+6	Casual Adventurer	100 adventures in total
+7	Expert Adventurer	500 adventures in total
+8	Adventure Master	1,000 adventures in total
+9	First-time Alchemist	1 alchemical practice
+10	Skilled Alchemist	50 alchemical practices
+11	Great Alchemist	100 alchemical practices
+12	Master Alchemist	500 alchemical practices
+13	First-time Craftsman	1 artifact crafted
+14	Skilled Craftsman	50 artifacts crafted
+15	Expert Craftsman	100 artifacts crafted
+16	Master Craftsman	500 artifacts crafted
+17	First-time Drawing	1 talisman drawn
+18	Skilled Drawing	50 talismans drawn
+19	Expert Drawing	100 talismans drawn
+20	Master Drawing	500 talismans drawn
+21	First-time Killer	1 creature killed
+22	Professional Killer	100 creatures killed
+23	Stone Cold Killer	500 creatures killed
+24	Slayer	1,000 creatures killed
+25	Cultivator Killer	1 cultivator killed
+26	Cultivators' Nemesis	100 cultivators killed
+27	Butcher of Cultivators	500 cultivators killed
+28	Slayer of Cultivators	1,000 cultivators killed
+29	First-time Searcher	1 soul searched
+30	Skilled Searcher	10 souls searched
+31	Expert Searcher	50 souls searched
+32	Master Searcher	100 souls searched
+33	Cook	10 types of food cooked
+34	Chef	20 types of food cooked
+35	Master Chef	50 types of food cooked
+36	A Flash of Insight	1 piece of Tier VII art made
+37	Flow of Ideas	10 pieces of Tier VII art made
+38	Gifted Artist	50 pieces of Tier VII art made
+39	One More Sell	1 traveler persuaded to join
+40	Five More Sells	5 travelers persuaded to join
+41	Ten More Sells	10 travelers persuaded to join
+42	The More The Merrier	20 travelers persuaded to join
+43	First-time Reader	1 manual learned through reading
+44	Avid Reader	10 manuals learned through reading
+45	Scholar	50 manuals learned through reading
+46	Bibliophile	100 manuals learned through reading
+47	Unfortunate Accident	1 disciple deceased
+48	Misfortunes Never Come Singly	5 disciples deceased
+49	When It Rains, It Pours	10 disciples deceased
+50	Fragility of Life	50 disciples deceased
+51	Heavy Loss	1 inner disciple deceased
+52	Great Loss	5 inner disciples deceased
+53	Tragic Loss	10 inner disciples deceased
+54	Heartbroken	20 inner disciples deceased
+55	I Am You	1 person possessed
+56	They Are Me	5 people possessed
+57	I Am Everyone	10 people possessed
+58	King of Possession	20 people possessed
+59	Blink of an Eye	100 years of meditation in total
+60	As Time Goes By	500 years of meditation in total
+61	Forgotten Years	1,000 years of meditation in total
+62	Master of Solitude	5,000 years of meditation in total
+63	Give Me Your Life	10 years of others' lifespan stolen in total
+64	Give Me More Life	50 years of others' lifespan stolen in total
+65	Such Is Life	500 years of others' lifespan stolen in total
+66	Grim Reaper	1,000 years of others' lifespan stolen in total
+67	Grave Pain	1 soul refined
+68	Wailing Souls	10 souls refined
+69	Source of Misery	50 souls refined
+70	Devil	100 souls refined
+71	Soul Snatcher	1 soul taken
+72	Fresh Souls	10 souls taken
+73	Proxy of Souls	50 souls taken
+74	Master of Souls	100 souls taken
+75	Sanguine Absorption	Sanguine Absorption done once
+76	Circle of Life	Sanguine Absorption done 10 times
+77	Yin-Yang Rule	Sanguine Absorption done 50 times
+78	The King of Death	Sanguine Absorption done 100 times
+79	Evildoer	1 sacrifice completed
+80	Faith of Evil	10 sacrifices completed
+81	Evilbringer	50 sacrifices completed
+82	Evil Apostle	100 sacrifices completed
+83	Soul Possession	1 person's soul possessed
+84	Undead Soul	10 people's souls possessed
+85	Eternal Soul	50 people's souls possessed
+86	Violation of Creed	100 people's souls possessed
+87	Ally	1 greater artifact acquired
+88	Harmony	10 greater artifact acquired
+89	Traveler	5 new spots discovered during adventures (spots learned through books not included)
+90	Explorer	25 new spots discovered during adventures (spots learned through books not included)
+91	Great Wanderer	50 new spots discovered during adventures (spots learned through books not included)
+1002	Purification	Concoct a Samsara Pill
+1003	Crystallization	Concoct an Eternity Pill
+1004	My Destiny	Golden Core Shaped
+1005	The Chosen One	Tier I Golden Core Shaped
+1006	Scion of Supreme Steps	Cultivate the Sixteen Supreme Steps Law
+1007	Orthodox Training: Supreme Steps	Cultivate the Sixteen Supreme Steps Law with over 150% of compatibility
+1008	Tier I: Supreme Steps	Shape the Tier I Golden Core with the Sixteen Supreme Steps Law
+1009	Mastery: Supreme Steps	Ascend through the Sixteen Supreme Steps Law
+1010	Scion of Myriad Artifact	Cultivate the Myriad Artifact Law
+1011	Orthodox Training: Myriad Artifact	Cultivate the Myriad Artifact Law with over 150% of compatibility
+1012	Tier I: Myriad Artifact	Shape the Tier I Golden Core with the Myriad Artifact Law
+1013	Mastery: Myriad Artifact	Ascend through the Myriad Artifact Law
+1014	Scion of Sword	Cultivate the Seven-Slaughtering Sword
+1015	Orthodox Training: Sword	Cultivate the Seven-Slaughtering Sword with over 150% of compatibility
+1016	Tier I: Sword	Shape the Tier I Golden Core with the Seven-Slaughtering Sword
+1017	Mastery: Sword	Ascend through the Seven-Slaughtering Sword
+1018	Scion of Jade purity	Cultivate the Jade Purity Immortal Law
+1019	Orthodox Training: Jade purity	Cultivate the Jade Purity Immortal Law with over 150% of compatibility
+1020	Tier I: Jade purity	Shape the Tier I Golden Core with the Jade Purity Immortal Law
+1021	Mastery: Jade purity	Ascend through the Jade Purity Immortal Law
+1022	Scion of Heaven stealing	Cultivate the Heaven Stealing Law
+1023	Orthodox Training: Heaven stealing	Cultivate the Heaven Stealing Law with over 150% of compatibility
+1024	Tier I: Heaven stealing	Shape the Tier I Golden Core with the Heaven Stealing Law
+1025	Mastery: Heaven stealing	Ascend through the Heaven Stealing Law
+1026	Scion of Alchemy	Cultivate the Primordial Alchemy Law
+1027	Orthodox Training: Alchemy	Cultivate the Primordial Alchemy Law with over 150% of compatibility
+1028	Tier I: Alchemy	Shape the Tier I Golden Core with the Primordial Alchemy Law
+1029	Mastery: Alchemy	Ascend through the Primordial Alchemy Law
+1030	Scion of Grand Chariot	Cultivate the Grand Chariot Wisdom Law
+1031	Orthodox Training: Grand Chariot	Cultivate the Grand Chariot Wisdom Law with over 150% of compatibility
+1032	Tier I: Grand Chariot	Shape the Tier I Golden Core with the Grand Chariot Wisdom Law
+1033	Mastery: Grand Chariot	Ascend through the Grand Chariot Wisdom Law
+1034	Scion of Reincarnation	Cultivate the Six Paths Reincarnation Law
+1035	Orthodox Training: Reincarnation	Cultivate the Six Paths Reincarnation Law with over 150% of compatibility
+1036	Tier I: Reincarnation	Shape the Tier I Golden Core with the Six Paths Reincarnation Law
+1037	Mastery: Reincarnation	Ascend through the Six Paths Reincarnation Law
+1038	Scion of True Sun	Cultivate the True Sun Refining Law
+1039	Orthodox Training: True Sun	Cultivate the True Sun Refining Law with over 150% of compatibility
+1040	Tier I: True Sun	Shape the Tier I Golden Core with the True Sun Refining Law
+1041	Mastery: True Sun	Ascend through the True Sun Refining Law
+1042	Scion of Sunflower Refining	Cultivate the Sunflower Refining Law
+1043	Orthodox Training: Sunflower Refining	Cultivate the Sunflower Refining Law with over 150% of compatibility
+1044	Tier I: Sunflower Refining	Shape the Tier I Golden Core with the Sunflower Refining Law
+1045	Mastery: Sunflower Refining	Ascend through the Sunflower Refining Law
+1046	Scion of Emotion Severing	Cultivate the Emotion Severing Law
+1047	Orthodox Training: Emotion Severing	Cultivate the Emotion Severing Law with over 150% of compatibility
+1048	Tier I: Emotion Severing	Shape the Tier I Golden Core with the Emotion Severing Law
+1049	Mastery: Emotion Severing	Ascend through the Emotion Severing Law
+1050	Unrecognized	The sect reputation reaches 400: Unrecognized
+1051	Visible	The sect reputation reaches 1,000: Visible
+1052	Distinguished	The sect reputation reaches 5,000: Distinguished
+1053	Prominent	The sect reputation reaches 10,000: Prominent
+1054	Unparalleled	The sect reputation reaches 40,000: Unparalleled
+1055	Respected	Sect becomes: Respected
+1056	Honored	Sect becomes: Honored
+1057	Celebrated	Sect becomes: Celebrated
+1058	Shady	Sect becomes: Shady
+1059	Notorious	Sect becomes: Notorious
+1060	Infamous	Sect becomes: Infamous
+1061	Established	5 disciples in the sect
+1062	Expanding	10 disciples in the sect
+1063	Thriving	18 disciples in the sect
+1064	A New Beginning	1 inner disciple in the sect
+1065	Burgeoning	4 inner disciples in the sect
+1066	Wealth of Talent	8 inner disciples in the sect
+1067	Disaster: Extreme Cold	Survive through the extreme cold
+1068	Disaster: Heat Wave	Survive through the heat wave
+1069	Disaster: Polar Night	Survive through the polar night
+1070	Psychokinetic	Artifact Mastery reaches Level 20
+1071	Spellbinding	Spell reaches Level 20
+1072	Death Proof	Protection reaches Level 20
+1073	Immortal Doctor	Alchemy reaches Level 20
+1074	Craftsman	Artifact Crafting reaches Level 20
+1075	Coming of Winter	Pass the 1st year in the game
+1076	Time Flies	Pass the 5th year in the game
+1077	Days Gone By	Pass the 10th year in the game
+1078	Enlightened	First miracle performed: Enlightened
+1079	Charismatic	First miracle performed: Charismatic
+1080	Perceptive	First miracle performed: Perceptive
+1081	Resilient	First miracle performed: Resilient
+1082	Reconstructor	First miracle performed: Reconstruction
+1083	Rainmaker	First miracle performed: Rainmaking
+1084	Cloudless	First miracle performed: Cloud Dispersal
+1085	Lobotomy	Top of the skull damaged
+1086	Headshot!	Head damaged
+1087	Living Dead	Brain damaged
+1088	Liver-less!	Liver damaged
+1089	Asexual	Sterilized
+1090	My Heart Will Go On	Heart damaged
+1091	Cultivated	Sect's Feng Shui becomes cultivated
+1092	Blessed	Sect's Feng Shui becomes blessed
+1093	Auspicious	One room's Feng Shui becomes auspicious
+1094	Great Feng Shui	One room's Feng Shui becomes very auspicious
+1095	Tier I Immortal	One immortal who has survived one tribulation remains in the sect
+1096	Tier III Immortal	One immortal who has survived three tribulations remains in the sect
+1097	Tier V Immortal	One immortal who has survived five tribulations remains in the sect
+1098	Tier IX Immortal	One immortal who has survived nine tribulations remains in the sect
+1099	Rare	Acquire one artifact that has been through 1 heavenly reforge
+1100	Precious	Acquire one artifact that has been through 5 heavenly reforges
+1101	Exquisite	Acquire one artifact that has been through 10 heavenly reforges
+1102	Legendary	Acquire one artifact that has been through 20 heavenly reforges
+2000	Skillful	Artifact with a quality of 100 crafted
+2001	Ingenious	Tier XII artifact crafted
+2002	Incredible Ink	Talisman with a quality over 95 drawn
+2003	Extravagant	Tier XII artifact smelted
+2004	Triumphant	Survived the tribulation
+2005	Devastating	Failed the tribulation and died
+2006	Despairing	Failed the tribulation but survived
+2007	Excellent	First breakthrough
+2008	Establishment	Establish a sect
+2009	Development	Sect expands into school
+2010	Emergence	Sect expands into heavenly adobe
+2011	Humble	First time acknowledging someone as master
+2012	Adviser	First time instructing someone
+2013	Love	First time being in a relationship
+2014	First Step	First love confession
+2015	Doki Doki Memory	First love confession succeeded
+2016	Nice Guy	First love confession failed
+2017	Corrupted	First time falling to the demon side
+2018	Cold Hearted	First time banishing a disciple
+2019	Miraculous	First time unearthing ancient casket
+2020	Repulsion	First time eating feces
+2021	Indifference	First time eating dirt
+2022	I Reject My Humanity	Possess an animal
+2023	Time to Sleep, Not Cultivate!	The game has been running for over 4 hours, and the current time is between 0:00-5:00 AM.
+2024	Slain	Slay Flood Dragon
+2025	Fallen	Slay Phoenix
+2026	Yin-Yang Rule	Torch Dragon killed
+2027	Fast-paced	Have Flood Dragon turn into its true form in under 60 sec
+2028	Horn Breaker	Slay Flood Dragon after destroying its horn
+2029	Tail Cutter	Slay Flood Dragon after destroying its tail
+2030	Furious	Slay Flood Dragon after destroying its Forbidden Scale
+2031	Enraged	Slay Flood Dragon before it casts Dragon's Rage
+2032	Hydrated	Slay Flood Dragon before it casts Deadly Flood
+2033	Sun Strike! Sun Strike!	5 people each absorb Phoenix's Melting, and nobody gets injured
+2034	Staring	Endure Flame Eyes for 20 sec without getting injured
+2035	Radiating	Slay Phoenix after it casts Crystal of the Sun
+2036	Beauty of the Beast	Slay Phoenix after destroying its crown feather
+2037	Tail of Troubles	Slay Phoenix after destroying its tail feather
+2038	Qi Condenser	Keep a Phoenix egg neither hatching nor dying for over 36 days
+2039	Clean Sweep	More than 9 eggs are subdued defeating the Torch Dragon
+2040	Irreverence	Defeat the Torch Dragon after destroying its divine scale
+2041	Chaos	Defeat the Torch Dragon after destroying its jade
+2042	Paradox	Defeat the Torch Dragon with one character in Mind Mask and Wild Fire
+2043	Subduer	Defeat the Torch Dragon without any egg hatched
+2044	Breathtaking	Defeat the Torch Dragon without anyone hit by its breath
+2045	Spirit Root	First time planting a Spirit Root
+2046	Harvest	Harvest a Root of Five Elements
+2047	Extremity	Root of Five Elements reaches its blessed or cursed limit
+2048	Natural Law	First time comprehending a natural Law
+2049	Divergent Law	First time comprehending a divergent Law
+2050	Rest In Peace	Kill one ancient sage
+2051	Animal Trainer	First time taming an animal
+2052	Rebel!	First time an animal turns into a beast
+10000	Valley of Worms	Complete special adventure: Valley of Worms
+10001	Treasure of Venom	Complete special adventure: Treasure of Venom
+10002	Heavenly Palace	Complete special adventure: Heavenly Palace
+10003	Cave of Fire	Complete special adventure: Cave of Fire
+10004	Lake of Heaven	Complete special adventure: Lake of Heaven
+10005	Devil's Seal	Complete special adventure: Devil's Seal
+10006	Out of the Heaven	Know the truth of the world
+3000	Education First	Construct a Manual Pavilion for the first time.
+3001	Knowledge Sharing	Transcribe a manual using Manual Pavilion for the first time.
+3002	Study Hard	Learn a manual in Manual Pavilion's collection for the first time.
+3003	A Great Collection	Total Attainment of Manual Pavilion's collection reaches 500.
+3004	A Vast Collection	Total Attainment of Manual Pavilion's collection reaches 2000.
+3005	An Immense Collection	Total Attainment of Manual Pavilion's collection reaches 5000.
+3006	An Unrivaled Collection	Total Attainment of Manual Pavilion's collection reaches 10000.
+3007	Unleash the Light	Craft a Rare Artifact for the first time.
+3008	Blood Pact	Activate a Rare Artifact for the first time.
+3009	Artifact Novice	Activate 1 Rare Artifact.
+3010	Artifact Veteran	Activate 5 different Rare Artifacts.
+3011	Artifact Expert	Activate 10 different Rare Artifacts.
+3012	Artifact Master	Activate 20 different Rare Artifacts.
+3013	You Awake?	Enlighten a sentient spirit.
+3014	Quiet at Last	Kill a sentient spirit with Soul Chant.
+3015	Listen to My Heart	Witness the birth of a sentient spirit due to its accompanying a character for a long time.
+3016	Nature's Child	Witness the birth of a sentient spirit in natural environment.
+3017	What Even Are You?	Meet a wild sentient spirit.
+3018	Central Plains: Becoming Human	Forge a body for a sentient spirit.
+3019	Nutritional Balance	Forge a body for a sentient spirit with a balanced ratio of Five Elements.
+3020	To Each Their Own	Forge a body for a sentient spirit with 100% proportion of a certain element, choose a compatible Law for them, and promote them to Inner Disciple.
+3021	Food for Everyone	Survive for 2 years without character dying with all Narrow Escape options activated.
+3022	In All Weathers	Survive for 1 year without character dying with all Harsh Weather options activated.
+3023	Heavenly Might	Kill all monsters on starting map within the 1st year with all extra monsters activated.
+3024	Intricate Buildings	Construct Mini Universe within the 1st year with all Intricate Buildings options activated.
+3025	Self-taught	Achieve a Heavenly Abode sect within the first year with all Lost Arts options activated.
+3026	Strict Budget	Construct Mini Universe within the 1st year with all Scarce Resources options activated.
+3027	Best You Can Get	Take in a character with all General Stats above 5 with all Hard Times options activated.
+3028	Hard Bargain	Buy an item of Tier 10 or above from a Traveling Merchant within the 1st year with all Mean Merchants options activated.
+3029	Go with the Flow	Help a character achieve Primordial Spirit or equivalent cultivational states within the first year with all Tao Inordinance options activated.
+3030	Good Doggo	Kill a monster in Golden Core state or above with your spirit pet alone within the first year with all Frail Pets options activated.
+3031	Well-connected	Reach 100 Favor with all sect leaders with all Cold World options activated.
+3032	Taoist Exorcist	Kill all attacking Yaoguai on the 80th day.
+3033	Cultivator Killer Killer	Kill the Cultivator Killer attacking on the 150th day.
+3034	Don't Look	Don't let the Jiao-dragon show up within the first 200 days while the mysterious cavern appears on the 30th day, then kill the dragon.
+3035	The Farmer and the Dragon	Don't let the Jiao-dragon show up within the first 200 days with all Ancient Awe options activated, then kill the dragon.
+3036	Higher Level = More Dignity	Upgrade Main Halls of all areas and cities to Level 3 within 3 years with all Worldly Chores options activated.
+3037	Immortals do not believe in tears	Buy an item of Tier 12 or above from a cultivational sect within the 1st year with all Emotionless Immortals options activated.
+3038	Immortal Slayer	Make all the sects surrender under the highest NPC sect power setting.
+3039	Yin Slayer	Kill Jiao-dragon under the highest Jiao-dragon power setting.
+3040	Yang Slayer	Kill Phoenix under the highest Phoenix power setting.
+3041	Tao Slayer	Kill Torch Dragon under the highest Torch Dragon power setting.
+3042	Final Showdown	Defeat the enemies attacking at the 1000th day with It gets Harder option activated.
+3043	Ascension Beginner	Make a disciple ascend on or higher than Tribulation I difficulty.
+3046	Ascension Professional	Make a disciple ascend on or higher than Tribulation IV difficulty.
+3049	Ascension Master	Make a disciple ascend on or higher than Tribulation VII difficulty.
+3052	Conquest Beginner	Conquer all sects on or higher than Tribulation I difficulty.
+3055	Conquest Professional	Conquer all sects on or higher than Tribulation IV difficulty.
+3058	Conquest Master	Conquer all sects on or higher than Tribulation VII difficulty.
+3061	Way of Formations	Learn from a manual of Formations for the first time.
+3062	Ancient Formation	Learn an ancient formation for the first time.
+3063	Not as Many, but as One	Form a formation for the first time.
+3064	Legend Reborn	Form an ancient formation for the first time.
+3065	Worldly Agency	Assign an Agency to a disciple for the first time.
+3066	World Explorer	Set up and assign Agencies in every city and area.
+3067	Excelling Nature	Construct a Wonder.
+3068	Just Stop	Construct all the Wonders.
+3069	People's Choice	Gain more than 20000 Followers from a single Policy event.
+3070	Major Religion	Make 40% or more of a city or area's population become your sect's follower.
+3071	Missionary	Make 40% or more of each city or area's population become your sect's follower.
+3072	Hear Ye, Hear Ye	Take part in Auction for the first time.
+3073	Can't Have It All, Huh?	Buy all the items in an Auction.
+3074	Ante Up	Buy the mysterious item in Auction.
+3075	Lucky Deal	Bid with a price lower than market price and get the item being auctioned.
+3076	Did I Win?	Bid with a price 10 times the market price or higher and get the item being auctioned.
+3077	Fair Exchange	Trade with the Traveling Merchant for the first time.
+3078	Last in Stock	Buy up a Traveling Merchant's Spirit Stone.
+3079	Kill Not the Goose	Kill the Traveling Merchant.
+3080	Timely Assistance	Gain 1 Connection from an NPC sect.
+3081	BFF	Gain 10 Connection from a single NPC sect.
+3082	Help!!!	Borrow a disciple for the first time.
+3083	All for One	Borrow 4 disciples at the same time, each from a different sect.
+3084	Hit the Spot	Give a sect leader their favorite item as a gift when paying a formal visit.
+3085	Big Big World	Enter a wilderness map for the first time.
+3086	Just Passing By	Enter a sect's map for the first time.
+3087	All Mine!	Collect an item in a wilderness map for the first time.
+3088	Now or Never	Grab a treasure in a sect's map while hiding.
+3089	Conquest: Sunshade Abode	Conquer Sunshade Abode.
+3090	Conquest: Kunlun Palace	Conquer Kunlun Palace.
+3091	Conquest: Skydome Palace	Conquer Skydome Palace.
+3092	Conquest: Purple Cloud Temple	Conquer Purple Cloud Temple.
+3093	Conquest: Mystic Unity Sect	Conquer Mystic Unity Sect.
+3094	Conquest: Blue Lotus Temple	Conquer Blue Lotus Temple.
+3095	Conquest: Evenfall Abode	Conquer Evenfall Abode.
+3096	Conquest: Mt. Hundred Insects	Conquer Mt. Hundred Insects.
+3097	Conquest: Pit of Doom	Conquer Pit of Doom.
+3098	Conquest: Seven Slaughtering Sect	Conquer Seven Slaughtering Sect.
+3099	Conquest: Exultant Sect	Conquer Exultant Sect.
+3100	Conquest: Daemonia Temple	Conquer Daemonia Temple.
+3101	World Conquest	Conquer all cultivation sects.
+3102	World Beater	Conquer all the NPC sects and make 40% or more of each city or area's population become your sect's follower.
+3103	Hello There	Socialize with others for the first time.
+3104	Our Respective Problems	Learn of someone's obsession for the first time.
+3105	Play with Heart	Take down someone's guard for the first time.
+3106	Let Me Show You Around	Invite someone to your sect for the first time.
+3107	Truth Revealed	Solve a mystery.
+3108	Spirit Pet: Divine Dog	Obtain the Divine Dog.
+3109	Spirit Pet: Spirit Fox	Obtain the Spirit Fox.
+3110	Spirit Pet: Float Dragon	Obtain the Float Dragon.
+3111	Spirit Pet: Dark Phoenix	Obtain the Dark Phoenix.
+3112	Fully Grown	Fully awaken a Spirit Pet.
+3113	Animal Friend	Enlighten a beast.
+3114	Shapeshifting: 5 Shards	Make a Yaoguai possessing 5 or more Intelligence Shards survive Shapeshifting Tribulation.
+3115	Shapeshifting: 7 Shards	Make a Yaoguai possessing 7 or more Intelligence Shards survive Shapeshifting Tribulation.
+3116	Shapeshifting: 9 Shards	Make a Yaoguai possessing 9 or more Intelligence Shards survive Shapeshifting Tribulation.
+3117	Heaven Survivor	Survive 5 attainment tribulations.
+3118	Unmatched Longevity	Survive 5 lifespan tribulations.
+3119	A Cult of One's Own	Erect statue of belief in a city and connect it to a Shendao cultivator.
+3120	A Guard of One's Own	Appoint a Guard.
+3121	A Creed of One's Own	Get a core follower.
+3122	Followers of One's Own	Grant a follower's Epic wish.
+3123	A Relic of One's Own	Level up a Sacred Relic to Tier 15.
+3124	A Realm of One's Own	Expand your divine realm by surviving detachment tribulation.
+3125	A Heart of One's Own	Reach the highest mental state of Shendao cultivation.
+3126	Prayer: Celestial Thunder	Learn Sutra of Celestial Thunder.
+3127	Creation: Celestial Thunder	Establish a Divine Realm using Sutra of Celestial Thunder.
+3128	Attainment: Celestial Thunder	Achieve the maximum size possible when establishing Divine Realm using Sutra of Celestial Thunder.
+3129	Ascension: Celestial Thunder	Ascend by studying Sutra of Celestial Thunder.
+3130	Prayer: Eight Cosmos	Learn Sutra of Eight Cosmos.
+3131	Creation: Eight Cosmos	Establish a Divine Realm using Sutra of Eight Cosmos.
+3132	Attainment: Eight Cosmos	Achieve the maximum size possible when establishing Divine Realm using Sutra of Eight Cosmos.
+3133	Ascension: Eight Cosmos	Ascend by studying Sutra of Eight Cosmos.
+3134	Prayer: Nether Salvation	Learn Sutra of Nether Salvation.
+3135	Creation: Nether Salvation	Establish a Divine Realm using Sutra of Nether Salvation.
+3136	Attainment: Nether Salvation	Achieve the maximum size possible when establishing Divine Realm using Sutra of Nether Salvation.
+3137	Ascension: Nether Salvation	Ascend by studying Sutra of Nether Salvation.
+3138	Illusion Essence	Gain Illusion Essence through breathing.
+3139	Nimbus Essence	Gain Nimbus Essence through breathing.
+3140	Ignis Essence	Gain Ignis Essence through breathing.
+3141	Aqualuna Essence	Gain Aqualuna Essence through breathing.
+3142	Supreme Body	Activate secret body for the first time.
+3143	Battle-hardened	Reach 100 stack of Tempered.
+3144	Initiation: Primordial Unity	Learn Body of Primordial Unity.
+3145	Ascension: Primordial Unity	Ascend with Body of Primordial Unity.
+3146	Initiation: Barbarous Forging	Learn Body of Barbarous Forging.
+3147	Ascension: Barbarous Forging	Ascend with Body of Barbarous Forging.
+3148	Initiation: Ancestral Yaoguai	Learn Body of Ancestral Yaoguai.
+3149	Ascension: Ancestral Yaoguai	Ascend with Body of Ancestral Yaoguai.
+3150	Initiation: Fallen Obliteration	Learn Body of Fallen Obliteration.
+3151	Ascension: Fallen Obliteration	Ascend with Body of Fallen Obliteration.
+3152	Join us and seek immortality!	Acquire pets Xiuxiu and Xianxian.
+3153	Immortal Panda	Transform a panda into human and successfully help it ascend toward immortality.
+3154	One Fish	Catch one fish.
+3155	100 Fish	Catch 100 fish.
+3156	1,000 Fish	Catch 1,000 fish.
+3157	10,000 Fish	Catch 10,000 fish.
+3158	Bait Taken	Catch an animal while fishing.
+3159	I Choose You!	Catch a monster while fishing.
+3160	Shiny Object	Catch a Spirit Stone while fishing.
+3161	Master Fisher	Catch all species of fish.
+3162	Kraken Catcher	Catch a fish weighed more than 25 catties.
+3163	Conquest Ingenuity	Obtain all the secret treasures from the steles in Purple Cloud Palace
+3164	Yin Yang Unity	Obtain pet Black Tortoise Miao
+3165	Orthodox Training: Nimbus	Cultivate the Law of Nimbus Conquest with over 150% of compatibility
+3166	Tier I: Nimbus	Shape the Tier I Golden Core with the Law of Nimbus Conquest
+3167	Mastery: Nimbus	Ascend through the Law of Nimbus Conquest
