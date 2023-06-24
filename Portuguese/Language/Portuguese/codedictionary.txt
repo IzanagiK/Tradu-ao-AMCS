@@ -86,18 +86,18 @@ Key	Value
 [color=#9e6404]相关工作：[/color]\n制作衣物\n搬运衣物原材料	[color=#9e6404]Trabalhos relacionados:[/color]\nCostura de roupas\nTransporte de matérias-primas para roupas
 [color=#9e6404]相关工作：[/color]\n锻造物品\n搬运锻造原料	[color=#9e6404]Trabalhos relacionados:[/color]\nForjando itens\nTransportando materiais de forja
 [color=#9e6404]相关工作：[/color]\n治疗普通疾病\n制药	[color=#9e6404]Trabalhos relacionados:[/color]\nCurar doenças comuns\nFazer remédios
-筑工	Builder
-照顾	Caretaker
-苦力	Peon
-膳夫	Chef
-木客	Logger
-猎户	Hunter
-石工	Miner
-救灾	Firefighter
-农人	Farmer
-休养	Patient
-衣匠	Tailor
-铁匠	Smith
+筑工	Construtor
+照顾	Zelador
+苦力	Peão
+膳夫	Chefe
+木客	Madereiro
+猎户	Caçador
+石工	Minerador
+救灾	Bombeiro
+农人	Agricultor
+休养	Paciente
+衣匠	Alfaiate
+铁匠	Ferreiro
 郎中	Curador
 筑基	Treinamento básico
 木材	Wood
@@ -2106,18 +2106,18 @@ Name	Name
 查看	Inspect
 查看小乾坤界内部，可手动取出其中物品。	Veja o interior do Mini Universo. Seus itens podem ser recuperados manualmente.
 删除	Delete
-删除该建筑。	Delete this building.
+删除该建筑。	Excluir este edifício.
 设置	Settings
-RPG模式设置相关信息。	Relevant settings in RPG mode.
-选择一个角色进行埋葬。	Select a character to be buried.
+RPG模式设置相关信息。	Configurações relevantes no modo RPG.
+选择一个角色进行埋葬。	Selecione um personagem para ser enterrado.
 摧毁	Destroy
-摧毁一个建筑。	Destroy a building.
+摧毁一个建筑。	Destruir um edifício.
 重建被摧毁的建筑。	Reconstruir o edifício destruído.
-点火	Set on Fire
-使该建筑着火。纯表现。	Set the building on fire. Only for show.
-使该建筑着火。	Set the building on fire.
-移动建筑到指定位置	Move building to designated location.
-设置交互。	Set interaction.
+点火	Colocado em chamas
+使该建筑着火。纯表现。	Coloque fogo no prédio. Apenas para exibição.
+使该建筑着火。	Coloque fogo no prédio.
+移动建筑到指定位置	Mova o edifício para o local designado.
+设置交互。	Definir interação.
 在这个建筑上撰写内容。	Escreva qualquer conteúdo nesta estrutura.
 工作状态	Work Status
 切换工作状态。	Switch Work Status.
@@ -2146,14 +2146,14 @@ RPG模式设置相关信息。	Relevant settings in RPG mode.
 将这个建筑安装到地上。	Erga esta estrutura no chão.
 这个道具似乎已经损坏了	Este item parece estar quebrado.
 秘宝认主	Claim Legacy Artifact
-指定角色	Select Character
+指定角色	Selecione o personagem
 阅读	Read
-阅读以领悟功法	Read to comprehend Law.
+阅读以领悟功法	Leia para compreender a Lei.
 入库	Store
 打开	Open
 打开看看里面放的是什么	Abra-o para ver o que há dentro.
 删除此物品。	Delete this item.
-移动到	Move To
+移动到	Mover para
 将物品移动到指定位置。	Mova o item para o local designado.
 系统用	For System
 删除此单位。	Excluir esta unidade.
