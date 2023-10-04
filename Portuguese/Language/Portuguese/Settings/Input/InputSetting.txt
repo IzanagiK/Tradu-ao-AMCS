@@ -4,8 +4,8 @@ Up	Up		W	UpArrow	LeftAlt		Player
 down	Down		S	DownArrow	LeftAlt		Player
 left	Left		A	LeftArrow	LeftAlt		Player
 right	Right		D	RightArrow	LeftAlt		Player
-SpeedP	Lower speed		Q				Player
-SpeedN	Raise speed		E				Player
+SpeedP	Speed up		Q				Player
+SpeedN	Speed down		E				Player
 GamePauseOrPlay	Pause/Stop		Space				Player
 Attack	Attack		BackQuote				Character
 RunAway	Flee		LeftControl+BackQuote				Character
