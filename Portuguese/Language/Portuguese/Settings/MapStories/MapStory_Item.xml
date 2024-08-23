@@ -218,5 +218,12 @@
 			<Selections.9.Display>Saia que pode ajudá-lo a exorcizar demônios e manter uma mente tranquila</Selections.9.Display>
 			<Selections.10.Display>Esqueça, dedico minha fé ao Credo do Céu e nada busco em troca!</Selections.10.Display>
 		</Text>
+		<Text Name="Story_Item_ChunYangWuJiGong">
+			<DisplayName>Compreender o manual secreto</DisplayName>
+			<Desc>Tente compreender este manual secreto.</Desc>
+			<Selections.0.Display>Prática normal</Selections.0.Display>
+			<Selections.1.Display>Prática reversa</Selections.1.Display>
+			<Selections.2.Display>Não importa</Selections.2.Display>
+		</Text>
 	</List>
 </Texts>

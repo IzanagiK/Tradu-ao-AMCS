@@ -58,7 +58,7 @@
 		</Text>
 		<Text Name="AbsorbLing_Body">
 			<DisplayName>Sanguine Absorption</DisplayName>
-			<Desc>Transmute a body's blood and flesh to increase your Qi.</Desc>
+			<Desc>Transmute o sangue e a carne de um corpo para aumentar seu Qi.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Thing">
 			<DisplayName>One with Mountain</DisplayName>
@@ -243,6 +243,10 @@
 		<Text Name="Magic_Healing_Freeze">
 			<DisplayName>Furnace Spell</DisplayName>
 			<Desc>Cura o congelamento de um discípulo. Apenas utilizável através do comportamento de um animal de estimação, não pode ser usado manualmente.</Desc>
+		</Text>
+		<Text Name="Magic_ClearElixirGas">
+			<DisplayName>Five Qi Dispel</DisplayName>
+			<Desc>Limpe todo o Qi de Alquimia aqui.</Desc>
 		</Text>
 	</List>
 </Texts>

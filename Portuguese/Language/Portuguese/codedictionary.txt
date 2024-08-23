@@ -330,6 +330,8 @@ Key	Value
 大	Grande
 中	Médio
 小	Pequeno
+万妖之世	Yaoguais' Era
+近日，太一门有件怪事传开了——听一猎户说，昨日他拉弓瞄准了一只黄牛，随着一声清脆弦响，眼前金光冲天，黄牛竟突破重生，化身成了一只妖兽！掌门觉得此事非同寻常，正与长老紧急商讨对策……\n\n[color=#306BC7]化妖天灾[/color]：动物死亡时有概率会变为妖兽。\n\n[color=#306BC7]丹气四溢[/color]：炼丹成功时，根据炼丹的品阶和五行，增加场景中的五行丹气。五行丹气会根据不同的比例提供不同的效果。\n\n[color=#306BC7]祭妖[/color]：通过祖师殿使用妖灵血与玄牝珠祭妖，获得随机道具。	Recently, there is a strange thing happened in the Taiyi Sect. It is said by a hunt, he aimed an shot an arrow into a cow's body. But then the cow started to glow and shinning. After some time, the cow turned into a Beast. The sect leader thought it must be an emergancy, so he discussed with elders and tried to figure out a solution...\n\n[color=#306BC7]Beast convertion[/color]: Animals will turn into beasts after death occasionally.\n\n[color=#306BC7]Alchemy Qi Fullness[/color]: After a success alchemy, there will be alchemy qi in your sect. The Qi amount is based on the tier and element of the drug.\n\n[color=#306BC7]Beast Sacrifice[/color]: Cast a Beast Sacrifice through ancenstral shrine by offer beast blood and soul pearl to gain random item rewards.
 拥挤	Full
 恰当	Normal
 空旷	Vazio
@@ -393,6 +395,14 @@ Key	Value
 友好	Amigo
 尊敬	Respeito
 影响值是处理代理点事务的资源。主要用于建设重要建筑比如奇观和主殿，以及各种政策的消耗。主殿每日会产出影响值，在某些事件中使用处世手段也可以获得。	Influência é um recurso usado para gerenciar os negócios de qualquer agência. Por exemplo, construir maravilhas e salões principais, implementar políticas e assim por diante. A influência será produzida pelo salão principal todos os dias, ou adquirida através de habilidades sociais em determinados eventos.
+{7}<font color=#D06508>[物体]</font>\n灵气：{1:N0}（{5}{6:N2}/秒）\n聚灵：{4} {9}\n美观：{0}\n品阶：{3}\n品质：{2}{10}{8}{11}	{7}<font color=#D06508>[Item]</font>\nLingQi: {1:N0}（{5}{6:N2}/Sec）\nQi Gather: {4} {9}\nScenery: {0}\nTier: {3}\nQuality: {2}{10}{8}{11}
+重量：{0}斤	Weight: {0} Catties
+重量：不值一提	Weight: Almost None
+<font color=#D06508>[通灵]</font>\n	<font color=#D06508>[Illuminate]</font>\n
+通灵中...\n	Illuminating...\n
+通灵时间：{0:f2}天\n	Illuminated time: {0:f2} days\n
+五行蕴养:\n	Five Elements Nurture: \n
+范围：{0}	Range: {0}
 略有灵韵	Mild Spirit
 灵韵天生	Natural Spirit
 灵韵澎湃	Strong Spirit
@@ -529,7 +539,7 @@ Key	Value
 行踪	Traces
 性格	Personality
 绝学	Secret Knowledge
-弱点	Weakness
+			   
 执念	Weakness
 心仪之物	Favoritos
 厌恶之物	Não gosta
@@ -1617,10 +1627,14 @@ Name	Name
 但是这个地点你已经知道了	You already know this place!
 解锁新的冒险：{0}	New adventure unlocked: {0}
 可从以下地点进入：{0}	Enter at the location: {0}
+未找到动物死亡变妖兽的常量配置	No constant configuration found for animal death turning into beasts
+随着时间推移，化妖天灾的影响越来越深了……	As time goes by, the influence of the Beast converting disaster deepens...
 自然与环境	Nature & Environment
 一窝孕育中的	Nurturing
 难度管理器	Difficulty Manager
 对话数据	Dialogues
+未找到丹气常量配置	No constant configuration found for alchemy qi
+XiaWorld.ElixirGasMgr->丹药品质:{0} 丹气品阶系数:{1} 每颗丹药额外丹气:{2} 丹药数量:{3} 理论增加丹气:{4}	XiaWorld.ElixirGasMgr->Drug Quality: {0} Alchemy Qi Tier Coefficient: {1} Extra Alchemy Qi per Drug: {2} Number of Pills: {3} Theoretical Increase in Alchemy Qi: {4}
 少量的	Slightly 
 较多的	Significantly 
 大量的	Greatly 
@@ -1642,8 +1656,87 @@ Name	Name
 [color=#880000](不再支持的MOD版本:{0})[/color]	[color=#880000](Unsupported mod version: {0})[/color]
 [color=#008800](正常)[/color]	[color=#008800](Normal)[/color]
 \n使用模组:	\nMods: 
+Type:{0}没有找到字段:{1}请检查配置文件	Type: {0} Field not found: {1} Please check the configuration file
+Type:{0}.{1}字段不为{2}类型请检查配置文件	Type: {0}.{1} Field is not of type {2} Please check the configuration file
 通知配置	Notification Setting
 加载资源	Loading resources
+领取失败,没有可放置奖励的区域	Claim failed, no area available to place rewards
+{0}阶	Tier {0}
+{0}阶-{1}阶	Tier {0}-{1}
+影响值	Influence
+幽淬次数：{0}次\n	Specter Refinements: {0}\n
+道淬次数：{0}次\n	Tao Refine Times: {0}\n
+灵淬次数：{0}次\n	Spiritual Refinement: {0}\n
+<font color=#D06508>[原材料]</font>\n{0}\n	<font color=#D06508>[Raw Material]</font>\n{0}\n
+<font color=#888888>(无风水)</font>	<font color=#888888>(No Feng Shui)</font>
+<font color=#00FF00>(契合)</font>	<font color=#00FF00>(compatible)</font>
+<font color=#FF0000>(不合)</font>	<font color=#FF0000>(incompatible)</font>
+<font color=#888888>(房间外无效)</font>	<font color=#888888>(Invalid Outside)</font>
+<font color=#D06508>[通灵镇物]{0}</font>\n	<font color=#D06508>[Spirit Relic]{0}</font>\n
+(未鉴定)\n	(Unidentified)\n
+<font color=#D06508>[装备]</font>\n	<font color=#D06508>[Gear]</font>\n
+<font color=#00FF00>[仅{0}可装备]</font>\n	<font color=#00FF00>[Only to be equipped by {0}]</font>\n
+男性	Male
+女性	Female
+伤害强度：{0:N1}\n	Damage Power: {0:N1}\n
+{0}{1:F0}  {2}等级\n	{0}{1:F0}  {2}Lv\n
+{0}{1:F0}  {2}等级(提高上限)\n	{0}{1:F0}  {2}Level (Increased Cap)
+攻击速度：{0:N2}次/秒\n	Attack Speed: {0:N2}/sec\n
+攻击距离：{0:N2}米\n	Attack Range: {0:N2}m\n
+护盾转化加成：{0:N3}/点\n	Barrier Conversion Bonus: {0:N3}/point\n
+最适温度上限：{1}[relativetemperature]{0:N2}[/relativetemperature]\n	Ideal Temperature Cap: {1}[relativetemperature]{0:N2}[/relativetemperature]\n
+最适温度下限：{1}[relativetemperature]{0:N2}[/relativetemperature]\n	Ideal Temperature Minimum: {1}[relativetemperature]{0:N2}[/relativetemperature]\n
+神秘	Mystery
+契约：{0}\n	Contract: {0}\n
+移动速度：{0:F2}\n	Move Speed: {0:F2}\n
+移动速度：未改变\n	Move Speed: no change\n
+<font color=#D06508>[食用]</font>\n	<font color=#D06508>[Eat]</font>\n
+<font color=#FF0000>(生食)</font>\n	<font color=#FF0000>(Raw)</font>\n
+精元：{0}\n	Stamina: {0}\n
+食物：{0}\n	Food: {0}\n
+水份：{0}\n	Water Content: {0}\n
+娱乐：{0}\n	Leisure: {0}\n
+<font color=#D06508>[药物]</font>\n	<font color=#D06508>[Medicine]</font>\n
+治疗效率：{0:N2}\n	Heal Efficiency: {0:N2}\n
+持续时间：{0:N2}天\n	Duration: {0:N2}d\n
+作用部位：	Functionality:
+<font color=#D06508>[秘籍·{0}]</font>\n	<font color=#D06508>[Secret Manual - {0}]</font>\n
+玄门秘籍	Orthodox Manual
+旁门心得	Unorthodox Manual
+[color=#00FF00][装备后可参悟][/color]\n	[color=#00FF00][Equip to learn][/color]\n
+分类:{0}\n	Category: {0}\n
+提高道行:{0}\n	Attainment: +{0}\n
+需求境界：{0}\n	Required State: {0}\n
+秘籍内容:\n	Manual Contents:\n
+<font color=#FFFF33>此秘籍已收录至藏经阁</font>\n	<font color=#FFFF33>This manual has been placed in the Manual Pavilion.</font>\n
+<font color=#D06508>[丹药]</font>\n	<font color=#D06508>[Elixir]</font>\n
+灵气：{0}\n	Qi: {0}\n
+筑基值：{0}\n	Foundation: {0}\n
+参悟经验：{0}\n	Inspiration XP: {0}\n
+耐药性：{0:P2}\n	Medicine Resistance: {0:P2}\n
+分神数：{0}\n	Number of Sub-spirits: {0}\n
+<font color=#D06508>[内丹]</font>\n	<font color=#D06508>[Internal Core]</font>\n
+<font color=#D06508>[法宝]</font>\n	<font color=#D06508>[Artifact]</font>\n
+<font color=#D06508>[法宝·信仰圣物]</font>\n	<font color=#D06508>[Artifact: Sacred Relic]</font>\n
+归属：[color=#D06508]{0}[/color]\n	Owned by: [color=#D06508]{0}[/color]\n
+天劫洗练：{0}次\n	Heavenly Reforge: {0}\n
+五行：相生\n	Five Elements: Connective\n
+五行：相同\n	Five Elements: Equivalent\n
+五行：相克\n	Five Elements: Counteractive\n
+<font color=#D06508>[秘宝]</font>\n	<font color=#D06508>[Legacy Artifact]</font>\n
+<font color=#D06508>[激活进度]</font>\n	<font color=#D06508>[Activation Progress]</font>\n
+<font color=#D06508>[灵器]</font>[color=#66FFFF]({0})[/color]\n	<font color=#D06508>[Spiritual Artifact]</font>[color=#66FFFF]({0})[/color]\n
+激活条件:{0}之灵器({1}/{2})\n	Activation Requirements: {0}'s spiritual artifacts ({1}/{2})\n
+神道修行无法使用灵器\n	Spiritual artifacts are unavailable for the Law of Shendao.\n
+炼体修行无法使用灵器\n	Spiritual artifacts are unavailable for Physical cultivation.\n
+<font color=#80D5FF>[精品]</font>	<font color=#80D5FF>[Exquisite]</font>
+孵化进度：{0:N0}%\n	Hatching: {0:N0}%\n
+\n可持有时间：{0}	\nAvailable Time: {0}
+\n距离下次拍卖会还剩{0}天	\n{0} days until the next auction.
+\n这里面似乎困着一只{0}	\nThere seems to be a {0} trapped in it.
+找不到名为{0}的道具池	Cannot find item pool naming {0}
+未找到指定奉献池:{0}	Specified offering pool not found: {0}
+出现了不匹配的奉献道具!	Mismatched offering item appeared!
 大能出世	Powers are being born
 大地与土壤	Generating earth and soil
 语言文件丢失\nMissing Language Data\n	语言文件丢失\nMissing Language Data\n
@@ -1666,9 +1759,9 @@ Name	Name
 阵法负荷	Formation Load
 阵法稳定度	Formation Stability
 无法结阵	Unable to form formation
-{0}{1:F0}  {2}等级\n	{0}{1:F0}  {2}Lv\n
+	 
 {0}{1}  {2}经验\n	{0}{1}  {2}XP\n
-{0}{1:F0}  {2}等级(提高上限)\n	{0}{1:F0}  {2}Level (Increased Cap)
+	  
 获得神国护法：[color=#{2}][{0}·{1}][/color]\n	Obtained Divine Realm Guards: [color=#{2}][{0}·{1}][/color]\n
 解锁神国建筑:[{0}]\n	Unlocked Divine Realm Building: [{0}]\n
 解锁神通:[{0}]\n	Unlock Miracle: [{0}]\n
@@ -1899,7 +1992,7 @@ Name	Name
 是啊，就是不知道二师兄喜欢什么样的女孩子。哎呀！不过说起来，掌教真人此番闭关能进阶[color=#ff0000]上品金丹[/color]的话，我们太一门也称得上的名门大派了！	Sim, eu queria saber que tipo de garota ele gosta. A propósito, se o líder da seita alcançar com sucesso o estado de [color=#ff0000]Núcleo Dourado[/color], nossa Seita Taiyi ganhará muita fama!
 掌教真人修为精深，一定没问题的……哎，你快看，师妹是怎么了，吃饭的时候还一脸不高兴，难道是我惹她不高兴了？	Nosso líder de seita é bem experiente, então tenho certeza que vai ficar tudo bem. Olha, o que está acontecendo com ela? Ela parecia realmente chateada durante o jantar. Eu fiz algo errado?
 不知道，但是我敢肯定，一定不是因为师兄你……	Eu não sei, mas tenho certeza que não é por sua causa.
-角色的大部分信息(属性、情绪、健康等)都可以在角色面板查看到。\n情绪是角色最重要的模块，它反应了角色的喜怒哀乐，表达了角色的需求。\n[color=#9e6404]关心角色的情绪，并试图满足角色的需求，是维持门派良好运转的核心手段。[/color]	Você pode encontrar a maioria das informações do personagem no painel do personagem: Stats, Humor, Health, etc.\nHumor é o aspecto mais importante de um personagem, pois mostra suas emoções e necessidades.\n[color=#9e6404]Uma das principais formas de manter uma seita saudável e funcionando é prestar atenção às emoções e necessidades de seus personagens.[/color]
+角色的大部分信息(属性、情绪、健康等)都可以在角色面板查看到。\n情绪是角色最重要的模块，它反应了角色的喜怒哀乐，表达了角色的需求。\n[color=#9e6404]关心角色的情绪，并试图满足角色的需求，是维持门派良好运转的核心手段。[/color]	Você pode encontrar a maioria das informações do personagem no painel do personagem: Stats, Humor, Health, etc.\nMood é o aspecto mais importante de um personagem, pois mostra suas emoções e necessidades.\n[color=#9e6404]Uma das principais formas de manter uma seita saudável e funcionando é prestar atenção às emoções e necessidades de seus personagens.[/color]
 查看情绪面板	Verifique o menu de Humor.
 嘿，别瞎琢磨啦！女人的心思呀，只有我们女人知道，你要是想……	Ei, pare de se preocupar. Somente nós mulheres podemos entender o que outra mulher está pensando. Se você quiser…
 什么？	O que?
@@ -1980,6 +2073,8 @@ Name	Name
 建造炼丹炉，并完成一次精元丹的炼制。	Construa uma fornalha de alquimia e crie uma Pílula de Estamina.
 结丹修士	Core Shaper
 将一名修行者突破到结丹境界（选择角色，通过屏幕下方的人物面板，切换至练功模式，可以专攻修炼，以提高境界。）	Ajude um cultivador a atingir o estado de Core Shaping. Selecione um personagem e mude para [Train] através do menu de personagem. Enquanto o treinamento estiver ativo, o personagem se concentrará em cultivar a si mesmo para aumentar seu estado.
+未知建筑	Unknown building
+建筑{0}加载出错:{1}	Building {0} loading error: {1}
  坐了下来	 Sitting Down
 -灵胎	- Incubation
 巨型	Giant
@@ -2026,7 +2121,7 @@ Name	Name
 行商{0}受人所托，愿使用{1}换取一个{2}	O Mercador Viajante {0} foi encarregado de trocar um {2} com {1}.
 购买物资	Purchase
 接受	Accept
-拒絕	Refuse
+	
 天下行商	World Merchant
 迷惘的行商	Confused Merchant
 点击次数:{0}	Total Clicks:{0}
@@ -2084,6 +2179,8 @@ Name	Name
 选择一个物品，将其放在置物台上。	Selecione um item e coloque-o na tela.
 取消放置	Cancel Placement
 取消放置建造蓝图中指定的物品。	Cancele a colocação do item selecionado do blueprint.
+祭妖	Beast Sacrifice
+开启祭妖界面	Open the Beast Sacrifice interface
 丢下物品	Remove
 将置物台上的物品丢下。	Remova o item da Tela.
 将这个建筑移动到另一个地方，这个命令会在建筑空闲后被执行。	Mova esta estrutura para outro lugar. Esta ordem será executada quando a estrutura estiver vazia.
@@ -2375,7 +2472,7 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 没有可以传授的秘籍或者参悟	Nenhum manual ou inspiração disponível.
 参悟经验：{0:F0}/{1:F0}\n	Inspiração XP: {0:F0}/{1:F0}\n
 \n提高道行：{0}\n	\nAumente a realização: {0}\n
-分类:{0}\n	Categoria: {0}\n
+							 
 参悟经验：{0:F0}/{1:F0}	Inspiração XP: {0:F0}/{1:F0}
 \n[color=#ff0000]境界不够({0}/{1})[/color]	\n[color=#ff0000]Estado muito baixo ({0}/{1})[/color]
 \n[color=#ff0000]仅限自行领悟[/color]	\n[color=#ff0000]Aplicável apenas para si mesmo.[/color]
@@ -2615,8 +2712,8 @@ RPG模式设置相关信息。	Configurações relevantes no modo RPG.
 即将完成……	Almost complete…
 你选择了研习多个秘籍，研习弟子会逐个等待自身参悟值足够时再进行研习。	Você selecionou vários manuais. Os discípulos esperarão até que tenham inspiração suficiente para estudá-los.
 \n分类:{0}	\nCategoria: {0}
-提高道行:{0}\n	Realização: +{0}\n
-需求境界：{0}\n	Estado requerido: {0}\n
+			
+		   
 模组丢失	Mods perdidos
 [玄门秘籍]	[Orthodox Manual]
 [旁门心得]	[Unorthodox Manual]
@@ -3107,8 +3204,8 @@ Trap编辑。	Trap Edit.
 影响生产事件中灵石和矿物的产量。	Afeta o rendimento de pedras espirituais e minerais em eventos de produção.
 影响生产事件中小麦的产量。	Afeta o rendimento do trigo em eventos de produção.
 代理人	Agente
-女性	Mulher
-男性	Homem
+			 
+			
 确定开除该弟子吗？	Você quer expulsar este discípulo?
 开除弟子	Expulsar Discípulo
 弟子（{0}/{1}）	Discípulo ({0}/{1})
@@ -3123,7 +3220,7 @@ Trap编辑。	Trap Edit.
 影响力	Influência
 [政策] {0}\n	[Policy]{0}\n
 [效果] {0}\n	[Effect]{0}\n
-影响值	Influência
+	  
 城市稳定度：{0}\n主流代理势力：{1}	Estabilidade da cidade: {0}\nPoder principal da agência: {1}
 选择信仰对象	Select a belief
 [color=#FF0000]该建筑升级需要达到{0}信仰人口[/color]	[color=#FF0000]Para atualizar este edifício, a população de crentes precisa atingir {0}.[/color]
@@ -3172,6 +3269,10 @@ Trap编辑。	Trap Edit.
 存档完成	Game salvado!
 存档正在进行，无法读档，请稍候...\n	Salvando em andamento, não foi possível carregar o jogo. Por favor, espere...\n
 当前未保存的进度将会丢失，确定要读取存档{0}吗？	Você perderá todo o progresso não salvo. Tem certeza de que deseja carregar o jogo salvo {0}?
+[{0}]数量不足!	Not enough [{0}]!
+祭妖失败,请稍后再试!	Beast Sacrifice failed, please try again later!
+以万妖之殇献于先祖，祈求赏赐。\n初级：{0}\n高级：{1}	Offer beasts' flesh to ancestors for awards。\nPrimary: {0}\nAdvance: {1}
+获得{0}{1}	Obtained {0}{1}
 抱歉，该存档已经不再被支持。但你可以返回主界面以它为基础轮回新的世界。\n(也可以通过切换游戏分支为0.94使用老版本继续游戏)\n	Desculpe, este salvamento não é mais suportado, mas você pode retornar ao menu principal e reencarnar em um novo mundo com base em seus dados.\n(Ou você pode mudar para a versão 0.94 do jogo para continuar jogando.)\n
 模组数据不匹配，我们无法保证存档数据的正确性，请返回主界面进行读取操作。	Dados de mod incompatíveis. Não podemos garantir que o salvamento funcione corretamente. Por favor, retorne ao menu principal e carregue os dados do mod.
 自动存档	Autosave
@@ -3287,7 +3388,7 @@ Trap编辑。	Trap Edit.
 已习得秘籍：{0}，无法再次领悟。	Manual aprendido: {0}, não pode ser compreendido novamente.
 确定要消耗{0:F0}点参悟值领悟{1}么？\n这将消耗掉这本秘籍。	Você quer gastar {0:F0} Inspiração para aprender {1}?\nEste manual será perdido.
 提高道行: {0}\n	Atendimento: +{0}\n
-秘籍内容:\n	Conteúdo do Manual:\n
+	 
 \n[color=#9e6404]不能共存：[/color]	\n[color=#9e6404]Não pode coexistir:[/color]
 参悟值：{0:F0}\n{1}	Inspiração: {0:F0}\n{1}
 所需境界：{0}\n{1}	Estado requerido: {0}\n{1}
@@ -3315,16 +3416,16 @@ Trap编辑。	Trap Edit.
 提示	Tip
 是否确认退出当前教学？	Tem certeza de que deseja sair do tutorial atual?
 请阅读提示({0}秒)	Por favor, leia a dica ({0} sec)
-<font color=#D06508>[通灵]</font>\n	<font color=#D06508>[Iluminar]</font>\n
-通灵中...\n	Iluminando...\n
-通灵时间：{0:f2}天\n	Tempo iluminado: {0:f2} dias\n
-五行蕴养:\n	Cinco Elementos Nutrir: \n
-{7}<font color=#D06508>[物体]</font>\n灵气：{1:N0}（{5}{6:N2}/s）\n聚灵：{4} {9}\n美观：{0}\n品阶：{3}\n品质：{2}{10}{8}{11}	{7}<font color=#D06508>[Objeto]</font>\nQi: {1:N0}({5}{6:N2}/s)\nReunir Qi: {4} {9}\nAtratividade: {0}\nNível: {3}\nQualidade: {2}{10}{8}{11}
-重量：{0}斤	Peso: {0} Gatos
-重量：不值一提	Peso: Quase Nenhum
+	 
+   
+	  
+   
+				   
+	
+	
 精怪 · 	Espírito Sensível -  
 傀儡	Vessel
-<font color=#D06508>[原材料]</font>\n{0}\n	<font color=#D06508>[Matéria-prima]</font>\n{0}\n
+	  
 <font color=#D06508>[傀 儡]</font>\n	<font color=#D06508>[Fantoche]</font>\n
 主人：{0}\n	Proprietário: {0}\n
 耐久：{0:F0}/{1:F0}\n	Durabilidade: {0:F0}/{1:F0}\n
@@ -3356,77 +3457,78 @@ Trap编辑。	Trap Edit.
 \n\n<font color=#D06508>[灵植]</font>\n{9}：{10:N2}%\n灵煞趋势：{8}{0:N2}/天\n　蕴养加成：{1}\n　天气加成：{2}\n　季节加成：{3}\n　五行加成：{4}\n　交感加成：{5}\n\n当前状态：{6}\n　{7}\n	\n\n<font color=#D06508>[Planta Espiritual]</font>\n{9}: {10:N2}%\nAbençoe a Tendência: {8} {0:N2}/d\nNutrir: {1}\nTempo: {2}\nEstação: {3}\nCinco Elementos: {4}\nSimpatia: {5}\n\nStatus: {6}\n　{7}\n
 当前灵性	Blessing
 当前煞性	Curse
-范围：{0}	Alcance: {0}
+	   
 腐朽中({0})	Decadente ({0})
 {0}后开始腐朽	 começa a se deteriorar em {0}.
 <font color=#00FF00>可选中</font>	<font color=#00FF00>Selecionável</font>
 <font color=#FF0000>不可选中</font>	<font color=#FF0000>Não selecionável</font>
   <font color=#00FF00>[绑定：{0}]</font>\n	  <font color=#00FF00>[Alma: {0}]</font>\n
-幽淬次数：{0}次\n	Refinamentos de Espectro: {0}\n
-道淬次数：{0}次\n	Tempos de Refinamento do Tao: {0}\n
-灵淬次数：{0}次\n	Refinamento Espiritual: {0}\n
-<font color=#888888>(无风水)</font>	<font color=#888888>(Sem Feng Shui)</font>
-<font color=#00FF00>(契合)</font>	<font color=#00FF00>(compatível)</font>
-<font color=#FF0000>(不合)</font>	<font color=#FF0000>(incompatível)</font>
-<font color=#888888>(房间外无效)</font>	<font color=#888888>(Exterior inválido)</font>
-<font color=#D06508>[通灵镇物]{0}</font>\n	<font color=#D06508>[Relíquia Espiritual]{0}</font>\n
-(未鉴定)\n	(Não identificado)\n
-<font color=#D06508>[装备]</font>\n	<font color=#D06508>[Equipamento]</font>\n
-<font color=#00FF00>[仅{0}可装备]</font>\n	<font color=#00FF00>[Apenas para ser equipado por {0}]</font>\n
-伤害强度：{0:N1}\n	Poder de dano: {0:N1}\n
-攻击速度：{0:N2}次/秒\n	Vel. de ataque: {0:N2}/sec\n
-攻击距离：{0:N2}米\n	Raio de ataque: {0:N2}m\n
-护盾转化加成：{0:N3}/点\n	Bónus de Conversão de Barreira: {0:N3}/point\n
-最适温度上限：{1}[relativetemperature]{0:N2}[/relativetemperature]\n	Limite de temperatura ideal: {1}[relativetemperature]{0:N2}[/relativetemperature]\n
-最适温度下限：{1}[relativetemperature]{0:N2}[/relativetemperature]\n	Temperatura mínima ideal: {1}[relativetemperature]{0:N2}[/relativetemperature]\n
-神秘	Mistério
-契约：{0}\n	Contrato: {0}\n
-移动速度：{0:F2}\n	Vel. de movimento: {0:F2}\n
-移动速度：未改变\n	Vel. de movimento: sem alteração\n
-<font color=#D06508>[食用]</font>\n	<font color=#D06508>[Comer]</font>\n
-<font color=#FF0000>(生食)</font>\n	<font color=#FF0000>(Raw)</font>\n
-精元：{0}\n	Estamina: {0}\n
-食物：{0}\n	Comida: {0}\n
-水份：{0}\n	Teor de Água: {0}\n
-娱乐：{0}\n	Lazer: {0}\n
-<font color=#D06508>[药物]</font>\n	<font color=#D06508>[Medicina]</font>\n
-治疗效率：{0:N2}\n	Eficiência de Cura: {0:N2}\n
-持续时间：{0:N2}天\n	Duração: {0:N2}d\n
-作用部位：	Funcionalidade:
-<font color=#D06508>[秘籍·{0}]</font>\n	<font color=#D06508>[Manual Secreto - {0}]</font>\n
-玄门秘籍	Manual Ortodoxo
-旁门心得	Manual não ortodoxo
-[color=#00FF00][装备后可参悟][/color]\n	[color=#00FF00][Equipar para aprender][/color]\n
+				
+				 
+			  
+					 
+				   
+					 
+					   
+						  
+		   
+					
+							 
+			  
+				 
+			 
+					  
+										  
+										
+	
+		 
+			   
+				  
+					
+				  
+		 
+	   
+		   
+		 
+					
+			  
+			  
+		  
+						 
+	   
+		 
+						 
 需求境界：{0}({1})\n	Estado requerido: {0} ({1})\n
 <font color=#FF0000>(境界不够，无法修炼)</font>\n	<font color=#FF0000>(Levantar Estado para treinar) </font>\n
-<font color=#FFFF33>此秘籍已收录至藏经阁</font>\n	<font color=#FFFF33>Este manual foi colocado no Pavilhão de Manuais.</font>\n
-<font color=#D06508>[丹药]</font>\n	<font color=#D06508>[Elixir]</font>\n
-灵气：{0}\n	Qi: {0}\n
-筑基值：{0}\n	Fundação: {0}\n
-参悟经验：{0}\n	Inspiração XP: {0}\n
-耐药性：{0:P2}\n	Resistência Medicinal: {0:P2}\n
-分神数：{0}\n	Número de Sub-espíritos: {0}\n
-<font color=#D06508>[内丹]</font>\n	<font color=#D06508>[Núcleo Interno]</font>\n
-<font color=#D06508>[法宝]</font>\n	<font color=#D06508>[Artefato]</font>\n
-<font color=#D06508>[法宝·信仰圣物]</font>\n	<font color=#D06508>[Artefato: Relíquia Sagrada]</font>\n
-归属：[color=#D06508]{0}[/color]\n	Propriedade de: [color=#D06508]{0}[/color]\n
-天劫洗练：{0}次\n	Reforja Celestial: {0}\n
-五行：相生\n	Cinco Elementos: Conectivo\n
-五行：相同\n	Cinco Elementos: Equivalente\n
-五行：相克\n	Cinco Elementos: Contra-Ativa\n
-<font color=#D06508>[秘宝]</font>\n	<font color=#D06508>[Artefato Legado]</font>\n
-<font color=#D06508>[激活进度]</font>\n	<font color=#D06508>[Progresso de Ativação]</font>\n
-<font color=#D06508>[灵器]</font>[color=#66FFFF]({0})[/color]\n	<font color=#D06508>[Artefato Espiritual]</font>[color=#66FFFF]({0})[/color]\n
-激活条件:{0}之灵器({1}/{2})\n	Requisitos de ativação: artefatos espirituais de {0} ({1}/{2})\n
-神道修行无法使用灵器\n	Artefatos espirituais não estão disponíveis para a Lei de Shendao.\n
-炼体修行无法使用灵器\n	Artefatos espirituais não estão disponíveis para cultivo físico.\n
-<font color=#80D5FF>[精品]</font>	<font color=#80D5FF>[Exquisite]</font>
-孵化进度：{0:N0}%\n	Incubação: {0:N0}%\n
 制作者：	Criador: 
-\n可持有时间：{0}	\nTempo disponível: {0}
-\n距离下次拍卖会还剩{0}天	\n{0} days until the next auction.
-\n这里面似乎困着一只{0}	\nThere seems to be a {0} trapped in it.
-选择保存文件夹	Selecione Salvar Pasta
+额外灵气:{0:N0}	Extra Lingqi: {0:N0}
+当前效果:\n{0}	Efeito:\n{0}
+		   
+			 
+			  
+			  
+					 
+					
+							 
+					  
+			
+			 
+			
+			 
+					 
+						  
+									
+							
+						  
+							
+					
+			  
+	   
+			
+				   
+				   
+																		 
+选择保存文件夹	Select Save Folder
 壁纸已经保存到：\n{0}	Wallpaper saved to：\n{0}
 添加前置模组	Adicione o mod necessário
 添加新标签	Adicionar novo rótulo
@@ -3453,7 +3555,7 @@ Trap编辑。	Trap Edit.
 以下模组需要 {0} 作为前置模组:{1}	The following mods require mod {0}: {1}
 {0} 所需的前置模组排序过低:{1}	The rank of {0}'s required mod is too low: {1}
 该模组并未公开，无法进行评价	Este mod não está disponível ao público. Não é possível revisar.
-由于WeGame平台模组上传功能正在维护中，暂不可上传模组。	Não é possível carregar mods. A função de upload de mod para WeGame está atualmente em manutenção.
+																																														 
 检测服务器MOD...	Test server mod…
 更新MOD信息...	Atualizando informações do mod…
 上传中，请耐心等待...	Carregando, por favor, seja paciente…
@@ -3904,6 +4006,7 @@ Lua回调类名	Lua Callback Class Name
 你好	Hello
 {0}凭借玄凤的火眼金睛，看破了{1}个物品的真面目！	Com a visão penetrante da Fênix Negra, {0} viu através da verdadeira natureza de {1} itens!
 花费{0}灵石拍卖到以下道具：	Custa {0} pedras espirituais para comprar o seguinte item:
+你什么也没有买	You didn't buy anything
 （[color=#990000]因无法支付，你将被迫服役{0}天[/color]）	([color=#990000]Não foi possível pagar, você é forçado a servir por {0} dias[/color].)
 本次拍卖遭遇意外，暂停一次	Devido a um acidente ocorrido recentemente, o leilão teve que ser suspenso desta vez.
 赎人	Resgate

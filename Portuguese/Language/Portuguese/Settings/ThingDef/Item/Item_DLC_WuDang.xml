@@ -65,9 +65,9 @@
 		</Text>
 		<Text Name="Item_XuanWuEgg" sParam="Item">
 			<ThingName>Black Tortoise Jade</ThingName>
-			<Desc>Um jade enviado pela Seita Wudang como presente. Parece ser um de um conjunto de itens.</Desc>
 			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspecionar Jade da Tartaruga Negra</StoryBnts.0.Desc>
+			<Desc>Uma jade enviada pela Seita Wudang como presente. Parece ser um de um conjunto de itens.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_ZhenWuShenNian" sParam="Item">
 			<ThingName>Perfected Guidance</ThingName>

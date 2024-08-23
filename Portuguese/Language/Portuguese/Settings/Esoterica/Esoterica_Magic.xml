@@ -35,8 +35,8 @@
 		<Text Name="Magic_BuildMine_KaiHu">
 			<DisplayName>Moldagem de lago</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Aprenda o milagre: moldar o lago\n Faça um milagre e transforme uma área em uma área de águas rasas.[/color][/size]</EffectDesc>
-			</Text>
-			<Text Name="Magic_BuildMine_ZaoLu">
+		</Text>
+		<Text Name="Magic_BuildMine_ZaoLu">
 			<DisplayName>Moldagem do terreno</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Modelagem de Terreno\n Faça um milagre e transforme uma área em um terreno.[/color][/size]</EffectDesc>
 		</Text>
@@ -143,9 +143,9 @@
 		<Text Name="Magic_AbsorbGong_8_1">
 			<DisplayName>Encantamento da Limpeza da Mente</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Encantamento de Limpeza da Mente\nLance um feitiço e conceda um ser vivo sem experiência de cultivo da mesma raça que o usuário com um status de humor positivo.[/color] [/size]</EffectDesc>
-			</Text>
+		</Text>
 		<Text Name="Magic_PlantGrowUp_1">
-		<DisplayName>Domínio do Canto da Madeira</DisplayName>
+			<DisplayName>Domínio do Canto da Madeira</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Canto de Domínio da Madeira\nConcentre seu Qi primitivo e infunda-o em uma planta alvo, aumentando significativamente sua taxa de crescimento. Dura 1 dia. Menos eficaz em plantas de níveis mais altos. Este método é extremamente prejudicial ao seu Qi primitivo, use com cuidado.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_9_1">

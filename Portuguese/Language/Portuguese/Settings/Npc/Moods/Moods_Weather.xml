@@ -91,9 +91,10 @@
 			<StoryDesc>Sentir que a seca de A Qi realmente deixa a pessoa mal à vontade</StoryDesc>
 		</Text>
 		<Text Name="Weather_LingUpWave">
-			<DisplayName>Burst of Qi</DisplayName>
-			<Desc>There's been a burst of Qi.</Desc>
-			<StoryDesc>Feeling that A Burst of Qi really leaves one feeling pleased</StoryDesc>
+		<Text>
+			<DisplayName>Explosão de Qi</DisplayName>
+			<Desc>Houve uma explosão de Qi.</Desc>
+			<StoryDesc>Sentindo que uma Explosão de Qi realmente deixa alguém se sentindo satisfeito</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeatWave">
 			<DisplayName>Calor</DisplayName>
@@ -144,6 +145,11 @@
 			<DisplayName>Égide do Grão-Mestre</DisplayName>
 			<Desc>A proteção do pai fundador impregna a Seita com um ar de imortalidade.</Desc>
 			<StoryDesc>Sentindo que o mundo do Imortal parece abundante em todos os lugares</StoryDesc>
+		</Text>
+		<Text Name="Weather_DanQi">
+			<DisplayName>Plenitude do Qi de Alquimia</DisplayName>
+			<Desc>Um rico Qi de Alquimia permeia.</Desc>
+			<StoryDesc>Imerso no rico Qi de Alquimia.</StoryDesc>
 		</Text>
 	</List>
 </Texts>

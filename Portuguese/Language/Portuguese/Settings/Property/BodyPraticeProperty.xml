@@ -9,6 +9,7 @@
 		<Text Name="BodyPratice_MaxZhenQi">
 			<DisplayName>Qi verdadeiro máximo</DisplayName>
 			<Desc>Máximo Qi Verdadeiro de cultivadores Físicos.</Desc>
+			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_RecoverZhenQi">
 			<DisplayName>Valor base da taxa de recuperação Qi real</DisplayName>
@@ -168,7 +169,8 @@
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache3">
-			<DisplayName>Bônus para remodelar soberbamente</DisplayName> <Desc>A chance de bônus de uma direção de evolução soberba ocorrer quando um cultivador físico está remodelando.</Desc>
+			<DisplayName>Bônus para remodelar soberbamente</DisplayName>
+			<Desc>A chance de bônus de uma excelente direção de evolução ocorrer quando um cultivador físico está se remodelando.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache4">

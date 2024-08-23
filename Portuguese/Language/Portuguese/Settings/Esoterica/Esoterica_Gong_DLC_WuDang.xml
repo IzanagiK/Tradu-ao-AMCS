@@ -160,5 +160,15 @@
 			<Desc>Um método de evasão que faz uma pessoa voar com as energias Yin e Yang e chegar ao destino em um instante.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a velocidade de vôo em aventuras.[/color][/size]</EffectDesc>
 		</Text>
+		<Text Name="Gong13_Esoterica_30">
+			<DisplayName>Puro Yang Wuji Gong-Zheng</DisplayName>
+			<Desc>Praticar o Yang Puro Wuji Kung Fu pode aumentar fundamentalmente o valor máximo da energia espiritual.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Aumenta fundamental e significativamente a aura máxima.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_31">
+			<DisplayName>Puro Yang Wuji Kung - reverso</DisplayName>
+			<Desc>Praticar o Yang Puro Wuji Kung de forma reversa pode reduzir a conduta taoísta, mas causará distúrbios internos do Qi no Dantian.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Reduzir Tao Xing\nQi Sujo em Dantian[/color][/size]</EffectDesc>
+		</Text>
 	</List>
 </Texts>

@@ -2,12 +2,7 @@
 	<List>
 		<Text Name="System_FightMap_RedWall">
 			<DisplayName>Observar</DisplayName>
-			<Desc>[NAME] tentou aprender como este edifício foi construído.</Desc>
-			<Selections.0.Display>Observar</Selections.0.Display>
-		</Text>
-		<Text Name="System_FightMap_DragonIncense">
-			<DisplayName>Observar</DisplayName>
-			<Desc>[NAME] tentou aprender como este edifício foi construído.</Desc>
+			<Desc>[NAME] tried to learn how this building was constructed.</Desc>
 			<Selections.0.Display>Observar</Selections.0.Display>
 		</Text>
 		<Text Name="System_FightMap_DragonIncense">

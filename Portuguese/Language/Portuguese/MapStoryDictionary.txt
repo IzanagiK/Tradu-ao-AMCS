@@ -51,7 +51,7 @@
 [NAME]仔细观摩了此建筑的模样。	[NAME] analisou a arquitetura do edifício.
 解锁：武当红墙。	Desbloquear: Muralha Vermelha de Wudang
 我们已经知晓了此物如何建造。	Já sabemos como construir isso.
-解锁：%s	Desbloqueios: %s
+	   
 [NAME]心灵虔诚地拜了拜，感受到了祝福。	[NAME] orou sinceramente e sentiu uma bênção.
 一年一度的龙头香祭拜已经结束，请明年首日再来	Cerimônia do Incenso do Dragão acabou este ano. Por favor, volte no primeiro dia do próximo ano.
 [NAME]贪婪地拜了拜，感受到了不祥的气息。	[NAME] orou avidamente e sentiu um ar sinistro.
@@ -65,10 +65,11 @@
 [NAME]脑海中出现了真武大帝炼丹的景象。恍惚之间，身边多了一颗丹药，应该是真武神念所化。	[NAME] imaginou como o jovem Guerreiro Aperfeiçoado costumava praticar a alquimia. Então um elixir apareceu de repente, provavelmente conjurado com a vontade divina.
 灵玉吸收了一些灵气，忽然化作一道青光飞向附近，一只玄武身形显露了出来。	A jade espiritual absorveu um pouco de Qi, antes de de repente se transformar em um raio de luz azul e voar nas proximidades, revelando a forma de uma Tartaruga Negra.
 冥冥之中有一人对[NAME]说到：原来你就是有缘人！我的遗骨赐予你，希望你好好利用。	Uma voz desencarnada falou com [NAME]: ""Então você é o sortudo! Vou deixar meus restos para você. Espero que você faça bom uso dele.""
+其中没有任何回应。	There was no response.
 冥冥之中有一人对[NAME]说到：故有宜果，其味如蜜。晾之檐上，以待佳期。此物味道甚好，分你一些。	Uma voz desencarnada falou com [NAME]: ""Há uma boa fruta doce como mel. Espere por sua estação, e nós o penduramos acima do beiral. Aqui, coma algumas dessas frutas deliciosas.""
 冥冥之中有一人对[NAME]说到：以静制动，以柔克刚。你看起来有点悟性，这枚天道神丹助你修行。	Uma voz desencarnada falou para [NAME]: ""Contra o movimento com quietude, força com flexibilidade. Você é um cultivador inteligente. Tome a Pílula Erudita para melhorar seu treinamento.""
 冥冥之中有一丝回应，似乎想让[NAME]继续。	Uma voz desencarnada respondeu, aparentemente desejando que [NAME] continuasse.
-其中没有任何回应。	Não houve resposta.
+												
 [NAME]靠近蕴灵树后感受其中玄妙，自身灵气运转更加流畅了。	[NAME] sinta o mistério próximo ao Illumitree, Qi flui mais fluentemente。
 [NAME]掳走了几个凡人。幸运的是，此事滴水不漏，无人察觉。	[NAME] capturou algumas almas. Felizmente, isso é infalível, ninguém vai descobrir.
 [NAME]掳走了几个凡人。不幸的是，此事走漏了风声，宣扬开来。	[NAME] capturou algumas almas. Infelizmente, parece que o gato está fora do saco neste.
@@ -149,9 +150,15 @@
 合欢派镇派法宝，用千棱神玉制成，细看之下有神光流转其中。	O tesouro da Seita Exultante, feito de Jade Divina, um olhar mais atento revela a luz divina que flui dele.
 [NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将一本上古时期人类炼体大能所创的功法赠予[NAME]。希望两派可以在将来继续守望相助，友谊长存。	[NAME] visitou o chefe de [SCHOOL], que agradeceu [NAME] profusamente pelo [ITS] cuidado com os discípulos de [SCHOOL] ao longo dos anos. Em nome de [SCHOOL], [HE] presenteou um livro de Direito criado por um antigo mestre cultivador Físico para [NAME] como um gesto de boa vontade, na esperança de que as duas escolas possam continuar a manter um espírito de cooperação e amizade por muitos anos.
 [NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将一枚玄武灵玉赠予[NAME]。希望两派可以在将来继续守望相助，友谊长存。	[NAME] visitou o chefe de [SCHOOL], que agradeceu [NAME] profusamente pelo [ITS] cuidado com os discípulos de [SCHOOL] ao longo dos anos. Em nome de [SCHOOL], [HE] presenteou com uma Black Tortoise Jade a [NAME] como um gesto de boa vontade, na esperança de que as duas escolas possam continuar a manter um espírito de cooperação e amizade para muitos um ano para vir.
+[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派法宝赠与[NAME]。	[NAME] pede algumas coisas boas ao líder da [SCHOOL], e o líder tem que dar a [NAME] o artefato da seita.
+[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派功法赠与[NAME]。	[NAME] pede algumas coisas boas ao líder da [SCHOOL], e o líder tem que dar a [NAME] o manual da seita.
+[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派宝物赠与[NAME]。	[NAME] pede algumas coisas boas ao líder da [SCHOOL], e o líder tem que dar a [NAME] o tesouro da seita.
 [NAME]此次来极天宫，无意间看到极天宫一名刚入门的弟子正喃喃自语的阅读一本书册。[NAME]十分好奇，遂上前询问。那名弟子考虑到[NAME]的宗门也是名满天下的大派且与本派交好，于是便笑着解释了一番。	Nesta viagem ao Skydome Palace, [NAME] inadvertidamente viu um novo discípulo murmurando para si mesmo enquanto lia. A curiosidade de [NAME] foi aguçada e decidiu investigar mais. O discípulo considerou que a escola de [NAME] era uma seita importante e tinha uma boa relação com esta, então [HE] sorriu e explicou as coisas.
 原来极天宫开派宗师开宗立派后便游历人间，最后下落不明。只有古代留下的孤本《群仙录》记载其最后游戏人间的传说故事。历代极天宫弟子无事之时都会翻阅此册，一方面瞻仰祖师，一方面也希望都在据此寻找开派宗师的遗蜕线索。	Acontece que o mestre do Skydome Palace decidiu vagar pelo reino depois de estabelecer a escola, e onde ele acabou não é conhecido atualmente. É apenas na única cópia existente de "Record of the Immortals" que foi registrado onde exatamente é que suas jornadas o levaram. Discípulos no Skydome Palace têm lido este volume por gerações, por um lado pode-se aprender sobre mestres reverenciados, por outro dá pistas para aqueles que esperam rastrear o fundador.
 [NAME]心中一动，便问这名弟子讨要了一份副本好回去研读。	[NAME] sentiu que tentar encontrar pistas sobre o paradeiro do fundador era interessante e perguntou se [IT] poderia fazer uma cópia, que [IT] levaria de volta e investigaria.
+[NAME]向蜀山表明来意，说有关于飞雷洞青莲祖师所遗留的传承之秘的消息想要商讨。然而蜀山却表示，其实破解飞雷洞的关键是祖师当年所炼一卷图册早已失传。蜀山为此寻觅数千年，事到如今也基本放弃了打算。如果能找到这册图卷，蜀山必有厚报。	[NAME] expressou sua intenção ao Monte. Shu e disse que queria discutir o segredo da herança deixada pelo ancestral Lótus Azul da caverna Thunderclap. No entanto, o Monte Shu disse que a chave para quebrar a caverna Thunderclap era que o atlas refinado pelo ancestral havia sido perdido há muito tempo. O Monte Shu tem procurado por isso há milhares de anos e agora basicamente desistiu de seu plano. Eles vão presentear quem puder recuperar o volume.
+[NAME]向蜀山表明来意，说有关于飞雷洞青莲祖师所遗留的传承之秘的消息想商讨。然而蜀山似乎对此早已见怪不怪，随意的将你应付了过去。	[NAME] expressou sua intenção ao Mt.Shu e disse que [IT] queria discutir o segredo da herança deixada pelo ancestral Lótus Azul da caverna Thunderclap. No entanto, o Monte Shu parece ter dado isso como certo e lidado com [ENHIM] à vontade.
+[NAME]考虑到此事事关重大，以目前本门和青莲剑宗的关系而言，还是
 [NAME]拜访了[SCHOOL]，[SCHOOL]上下十分欢迎你的来访，他们盛情邀请[NAME]在此小住了几天，并带他游览了[SCHOOL]附近。在这些日子里，[NAME]与诸位同道切磋道法，谈天说地，十分尽兴。	[NAME] visitou [SCHOOL], o [SCHOOL] recebeu [ENHIM] de braços abertos e pediu [ENHIM] para ficar alguns dias. Enquanto estava lá, [IT] fez um tour por [SCHOOL]. [NAME] aprendi com todos ao longo de apenas alguns dias sobre muitas coisas.
 临走之时，[SCHOOL]送了[NAME]一份珍贵的礼物，希望两派的友谊可以长存。	Quando chegou a hora de ir, o [SCHOOL] presenteou [NAME] com um presente precioso com a esperança de que as duas seitas pudessem desfrutar de amizade mútua nos próximos anos.
 [NAME]拜访了[SCHOOL],[SCHOOL]派中的几个弟子奉命接待了[NAME]。双方愉快的谈了一个下午，[NAME]看看天色已晚，便告辞而去。	[NAME] visitou [SCHOOL], alguns dos discípulos de [SCHOOL] receberam [NAME], conforme ordenado. Ambas as partes tiveram uma discussão fascinante que durou até a noite. [NAME] percebeu que estava ficando tarde, despediu-se [ITS] e partiu.
@@ -412,6 +419,10 @@
 [NAME]再次来到石桌前，想到已经从青莲仙山取得的四象遮天图，暗自琢磨此物是否是关键所在。	[NAME] veio novamente diante da mesa de pedra e relembrou a Pintura dos Quatro Símbolos obtida no Monte Caerulea. [IT] se perguntou se esse objeto poderia ser a chave.
 [NAME]再来飞雷洞，观察凹痕，却并没有什么新的线索发现。一番探查后无果，只能暂时离去。	[NAME] retornou à Caverna do Trovão e investigou as indentações, mas não havia pistas discerníveis a serem encontradas. Depois de procurar sem nenhum fruto para dar, a única escolha que restava era partir por enquanto.
 [NAME]怀着虔诚之心进入飞雷洞，发现此地布置异常简单，只有一张石床和一张石桌，除去石桌上四角有四个似乎久用而磨出的凹痕，并没有什么异常。[NAME]行礼以示尊敬，便离开了此地。	Com um coração piedoso, [NAME] entrou na Caverna Thunderclap e descobriu que a área era notavelmente espartana, não havia nada mais do que uma cama e mesa de pedra. Se ignorarmos que a mesa de pedra com quatro reentrâncias que pareciam ter sido criadas de propósito, não haveria nada de notável aqui. [NAME] saudou em respeito e depois partiu.
+[NAME]向蜀山递交了四象遮天图。蜀山众人惊喜万分，万万没想到早已放弃希望的事情居然会有转机。蜀山掌门直言欠[NAME]的门派天大的人情！	[NAME] submitted the Painting of the Four Symbols to Mt. Shu. People in Mt. Shu were pleasantly surprised. They never expected that things that had given up hope would turn for the better. The leader of Mt Shu frankly said that he owed [NAME] a great favor!
+[NAME]被封为座上宾，直到数天后，蜀山将四象遮天图还回，而后[NAME]离开了蜀山	[NAME] was honored as a guest of honor. A few days later, Mt. Shu returned the Painting of the Four Symbols, and then [NAME] left Mt. Shu.
+获得100点青莲剑宗人情。	Gain 100 connections of Blue Lotus Temple.
+[NAME]身上并没携带此物。	[NAME] do not carry this.
 [NAME]敏锐的捕捉到了那一丝灵光，盘膝而坐，自丹霞绝壁的奇景中参悟出一套心法。	[NAME] fez questão de capturar até mesmo a menor inspiração e, assim, com as pernas cruzadas, começou a meditar em busca de inspiração enquanto estava cercado pela majestosa paisagem do Sunshade Precipice.
 [NAME]苦苦思索，但是始终无法抓住那一闪而逝的灵光，只得无奈离去。	[NAME] pensou muito, mas foi incapaz de captar aquele raio fugaz de inspiração e então teve que partir.
 [NAME]欣赏了这罕见的奇景，随后离开了此地。	[NAME] apreciou a majestosa paisagem antes de partir.
@@ -628,6 +639,13 @@
 [NAME]解读宝录，获得了其中记载的三套神道修行功法。	[NAME] decifrou o registro e aprendeu sobre três Leis de Shendao.
 [NAME]打开年货，发现其中除了有许多饺子和炮仗，还有很多异界小妖沿路收集的天材地宝，真是大有收获！	[NAME] abriu as mercadorias do ano novo e descobriu além dos bolinhos e bombinhas dentro, também havia um tesouro dentro!
 [NAME]表示自己孝敬天道，不求回报，不需要许什么愿望！然后洒然离去！	[NAME] mostrou piedade ao Credo do Céu, sem necessidade de desejos ou respostas. Então eles foram embora com calma!
+[NAME]尝试正练这本秘籍。	[NAME]尝试正练这本秘籍。
+[NAME]已经逆练了秘籍，无法正练了。	[NAME]已经逆练了秘籍，无法正练了。
+[NAME]已经学会了正练之法。	[NAME]已经学会了正练之法。
+[NAME]尝试逆练这本秘籍。	[NAME]尝试逆练这本秘籍。
+[NAME]已经正练了秘籍，无法逆练了。	[NAME]已经正练了秘籍，无法逆练了。
+[NAME]已经学会了逆练之法。	[NAME]已经学会了逆练之法。
+[NAME]想了想，还是决定不参悟这本秘籍了。	[NAME]想了想，还是决定不参悟这本秘籍了。
 [NAME]受[HENAME]蕴养，灵性忽然触动，一股玄妙之气息氤氲开来。灵性交感下，众人均大有所获！	[NAME] foi nutrido por [hename] e uma bênção pareceu acontecer quando uma misteriosa fumaça apareceu. Sob esta bênção, todos obtiveram grandes ganhos!
 %s精元提高了%s点。	Vigor de %s aumentado em %s pontos.
 %s心境短期内提高了%s点。	O Estado Mental de %s aumentou temporariamente em %s pontos.
@@ -1245,6 +1263,9 @@
 [NAME]连忙在龙崖石刻下盘膝而坐，静心参悟。随着无数玄妙的字符流转，一篇古朴艰深的功法已经印入[NAME]脑海。就在[NAME]准备继续感悟时，却见天边涌来一股妖云，转眼便笼罩龙崖石刻方圆数里。转眼妖云散去，现出数十个形态各异的大妖，一身蛮荒凶戾之气息翻滚，竟然是传承自上古的炼体者。	[NAME] rapidamente se ajoelhou na parte inferior das inscrições do Dragon Cliff e começou a meditar sobre isso. Como os inúmeros textos profundos circulando na mente, uma Lei clássica e abstrusa havia sido enraizada no cérebro de [NAME]. Assim que [NAME] se preparou para meditar ainda mais, uma série de nuvens demoníacas apareceu da borda do céu, que se aproximou e encobriu a área perto das inscrições do Dragon Cliff em pouco tempo. Em um piscar de olhos, a nuvem desapareceu e dezenas de grandes Yaoguai de várias formas se manifestaram. Selvagens e ferozes, eles acabaram sendo cultivadores físicos de um antigo legado.
 就在众人惊疑不定时，为首一名大妖大喝：“龙崖石刻乃妖族圣地，如今圣地再开，我万妖殿自封千载，也当重新出世，吾奉命特来收回圣地，各位请回罢。”此言一出，众人哗然，那为首的大妖却视若无睹，张口发出阵阵妖光，竟然将龙崖石刻拔地吞入腹中，绝尘而去。	Assim como as pessoas ficaram confusas, um líder Yaoguai gritou: "As inscrições do Penhasco do Dragão são o local sagrado para nós Yaoguai. Agora que o local está aberto novamente, o Templo Daemonia que se escondeu por mil anos deve ressurgir no mundo também . Agora recebi ordens para retomar o local sagrado, por favor, volte para onde você veio." Assim que isso foi anunciado, as pessoas que ouviam estavam em alvoroço. Mas o líder Yaoguai os ignorou, enquanto abria a boca e disparava rajadas de luz demoníaca, engolindo magicamente as inscrições do Penhasco do Dragão na barriga antes de partir rapidamente.
 由于万妖殿千年隐世，众人不知底细，也无人轻举妄动，然而这一惊天消息却快速传遍修行界。	Devido ao Templo Daemonia estar escondido por mil anos, ninguém tinha conhecimento exato sobre eles e não tinha certeza do que fazer sobre isso. No entanto, esta notícia chocante rapidamente se espalhou pelo mundo do cultivo.
+[NAME]屏气凝神，破除此处障眼法，才发觉这些并不是普通的药草。随后[NAME]小心翼翼地移开了药草，打开土堆，其中摆放着一本古籍，竟然是上古失传已久的炼丹师秘技！[NAME]见四下无人，准备将药草与秘籍打包带回。	[NAME] held their breath and focused, dispelling the illusion before realizing that these were not ordinary herbs. Then, [NAME] carefully moved the herbs aside, opened the mound, and found an ancient tome placed inside—it was the long-lost secret technique of alchemists from ancient times! Seeing no one around, [NAME] prepared to pack up the herbs and the secret tome to take back.
+[NAME]左瞧右瞧，并没有发现什么异样，暗叹也许是自己修为差了火候，看不出玄机。	[NAME] looked around but didn't notice anything unusual, sighing inwardly that perhaps their own cultivation level was insufficient to discern the mysteries.
+[NAME]并没有在意此处，只当是白跑一趟，转身离去。	[NAME] didn't pay much attention to this place, considering it a wasted trip, and turned to leave.
 [NAME]运转元神，以强横的修为暴力破解法阵，获取了其中的道统传承。	[NAME] virou o Espírito Primordial e usou o cultivo autoritário para quebrar a matriz e ganhar a sabedoria de seus ensinamentos.
 [NAME]运转元神，以强横的修为暴力破解法阵，但似乎机缘差了些：法阵破灭的力量竟然波及到了传承本身一同毁灭，[NAME]暗叹一声，只得离开。	virou o Espírito Primordial e usou cultivo arrogante para quebrar a matriz, mas parecia que a Sorte não era suficiente: A força da matriz para obliterar realmente se espalhou para a própria herança e a destruiu também, [NAME] suspirou e saiu.
 [NAME]试图暴力破解阵法，但是却太过不自量力，被阵法反击身负重伤，沦为修行界的笑柄。	[NAME] tentou usar a força, mas mordeu demais para mastigar e saiu pela culatra, transformando você em motivo de chacota entre o mundo dos cultivadores.
@@ -2005,15 +2026,4 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\")	GameUlt.KillBoss(\"Boss_Long\"
 观察有可能导致物品被消耗，是否继续？	A observação pode fazer com que o item seja consumido. Você deseja continuar?
 请选择一个物品或者尸体	Selecione um item ou um cadáver
 可蕴养，当前目标:%s	Pode ser nutrido, alvo atual: %s
-无法蕴养	Incapaz de nutrir.
-[NAME]发现一年之期未满，造化玉籽并未凝结。只得离去。	[NAME] descobriu que o período de um ano ainda não havia decorrido e, portanto, a Fortune Seed ainda não havia se condensado. Não havia outra opção a não ser partir.
-[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派法宝赠与[NAME]。	[NAME] peça ao líder de [SCHOOL] algumas coisas boas, e o líder tem que dar [NAME] o artefato da seita.
-[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派功法赠与[NAME]。	[NAME] peça ao líder de [SCHOOL] algumas coisas boas, e o líder deve entregar [NAME] o manual da seita.
-[NAME]向[SCHOOL]的掌门讨要一些好物，掌门无可奈何，只能在[NAME]的淫威下[SCHOOL]将镇派宝物赠与[NAME]。	[NAME] peça ao líder de [SCHOOL] algumas coisas boas, e o líder tem que dar [NAME] o tesouro da seita.
-[NAME]向蜀山表明来意，说有关于飞雷洞青莲祖师所遗留的传承之秘的消息想要商讨。然而蜀山却表示，其实破解飞雷洞的关键是祖师当年所炼一卷图册早已失传。蜀山为此寻觅数千年，事到如今也基本放弃了打算。如果能找到这册图卷，蜀山必有厚报。	[NAME] expressou sua intenção ao Mt. Shu e disse que queria discutir o segredo de herança deixado pelo ancestral Lótus Azul da caverna Thunderclap. No entanto, Mt. Shu disse que a chave para quebrar a caverna Thunderclap era que o atlas refinado pelo ancestral havia sido perdido há muito tempo. Mt. Shu vem procurando por isso há milhares de anos, e agora basicamente desistiu de seu plano. Eles vão presentear quem puder pegar de volta o volume.
-[NAME]向蜀山表明来意，说有关于飞雷洞青莲祖师所遗留的传承之秘的消息想商讨。然而蜀山似乎对此早已见怪不怪，随意的将你应付了过去。	[NAME] expressou [ITS] intenção a Mt.Shu e disse que [IT] queria discutir o segredo da herança deixado pelo ancestral Blue Lotus of Thunderclap cave. No entanto, Mt. Shu parece ter dado como certo e tratado [ENHIM] à vontade.
-[NAME]考虑到此事事关重大，以目前本门和青莲剑宗的关系而言，还是不提为妙。	[NAME] considerou a importância deste assunto, e é melhor não mencioná-lo em termos da atual relação entre nossa escola e Blue Lotus Temple.
-[NAME]向蜀山递交了四象遮天图。蜀山众人惊喜万分，万万没想到早已放弃希望的事情居然会有转机。蜀山掌门直言欠[NAME]的门派天大的人情！	[NAME] apresentou a Pintura dos Quatro Símbolos ao Monte Shu. As pessoas em Mt. Shu ficaram agradavelmente surpresas. Eles nunca esperaram que as coisas que haviam perdido a esperança fossem melhorar. O líder de Mt Shu disse francamente que devia [NAME] um grande favor!
-[NAME]被封为座上宾，直到数天后，蜀山将四象遮天图还回，而后[NAME]离开了蜀山	[NAME] foi homenageado como convidado de honra. Alguns dias depois, o Monte Shu devolveu a Pintura dos Quatro Símbolos, e então [NAME] deixou o Monte Shu.
-获得100点青莲剑宗人情。	Ganhe 100 conexões do Templo do Lótus Azul.
-[NAME]身上并没携带此物。	[NAME] não carregue isso.
+无法蕴养	Unable to nurture.
