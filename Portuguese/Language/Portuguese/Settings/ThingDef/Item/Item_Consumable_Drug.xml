@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Item_Fruit" sParam="Item">
 			<ThingName>Amber Fruit</ThingName>
-			<Desc>A handful of Amber Fruit. Consuming them allows one to become immune from hunger and fatigue for half a day. However, the fruits rot quickly after being harvested.</Desc>
+			<Desc>Um punhado de frutas âmbar. Consumi-los permite ficar imune à fome e ao cansaço por meio dia. Porém, os frutos apodrecem rapidamente após serem colhidos.</Desc>
 			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LingWater" sParam="Item">
@@ -35,35 +35,35 @@
 			<Desc>Medicina milagrosa do elemento Metal, com Qi turbulento morando dentro dele. Dizem que a fruta pode ser encontrada no Nimbus Ravine do Heavenstep Peak.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MuEssence" sParam="Item">
 			<ThingName>Gnarled Vine</ThingName>
 			<Desc>Medicina milagrosa do elemento Madeira, com Qi turbulento morando dentro dele. Não pode ser consumido diretamente. Diz-se que a videira pode ser encontrada no Monte Tiger Paw e no Vale Wormwrought do Sul Selvagem.</Desc>
 			<Item.FabaoSuffix>Vine, Lock, Chain, Rope, Cord</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ShuiEssence" sParam="Item">
 			<ThingName>Prism Lotus</ThingName>
 			<Desc>Medicina milagrosa do elemento Água, com Qi impetuoso residindo nele. Não pode ser consumido diretamente. Dizem que um Prism Lotus pode ser encontrado no Five Dragons Pond de Mt. Sunshade.</Desc>
 			<Item.FabaoSuffix>Lotus, Platform, Seal, Cover, Field</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_HuoEssence" sParam="Item">
 			<ThingName>Crimson Fruit</ThingName>
 			<Desc>Medicina milagrosa do elemento Fogo, com Qi impetuoso residindo nele. Não pode ser consumido diretamente. Diz-se que a fruta cresce no penhasco de Jadestone de Mt. Shu e no Blazenest do Great Western Desert.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_TuEssence" sParam="Item">
 			<ThingName>Ocher Essence</ThingName>
 			<Desc>Medicina milagrosa do elemento Terra, com Qi turbulento morando dentro dele. Não pode ser consumido diretamente. Diz-se que a Essência Ocre cresce na Caverna Drake de Mt. Kunlun.</Desc>
-			<Item.FabaoSuffix>Idol, Puppet, Root, Seal</Item.FabaoSuffix>													
+			<Item.FabaoSuffix>Idol, Puppet, Root, Seal</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_LingMuXueJie" sParam="Item">
 			<ThingName>Resin Essence</ThingName>
@@ -210,7 +210,7 @@
 			<Desc>Cristal contendo a mais pura essência de Raiz Natural. Somente cultivando habilidades indefinidas pode-se refiná-la. O refinamento bem-sucedido reduz a Realização, enquanto o fracasso resultará em ferimentos e um aumento na Condenação. Quanto maior a sua Realização, maior a taxa de sucesso do refinamento. Vários refinamentos diminuirão gradualmente o efeito.</Desc>
 			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Refinement</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to refine Natural Root.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Tente refinar a Raiz Natural..</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Jin" sParam="Item">
 			<ThingName>Origin (Metal)</ThingName>

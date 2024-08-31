@@ -93,7 +93,7 @@
 		<Text Name="Other_Esoterica_ZhuLongDan">
 			<DisplayName>Yin &amp; Espírito Yang</DisplayName>
 			<Desc>Técnica secreta que se inspirou nos fragmentos de memória do Torch Dragon.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Adquira a seguinte receita de elixir: \nBalance Spirit Pill\n Adquira o método de fabricação do Legacy Artifact: \nDraconic Tablet\nFundamentalmente aumenta o poder da barreira em uma margem significativa.[/color ][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Adquira a seguinte receita de elixir: \nBalance Spirit Pill\n Adquira o método de fabricação do Legacy Artifact: \nDraconic Tablet\nFundamentalmente aumenta o poder da barreira em uma margem significativa.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen1">
 			<DisplayName>Qi de Pureza Tripla</DisplayName>
@@ -119,6 +119,11 @@
 			<DisplayName>Uma história abrangente da Serica</DisplayName>
 			<Desc>Livro que abrange cinco mil anos de história do país de Serica. Ele gravou uma grande variedade de conteúdos extensos, dentro dos quais estão muitas escolas de pensamentos que são muito inspiradoras para o cultivo.</Desc>
 			<EffectDesc>Aumenta a inteligência em 20%.\nAumenta o Qi Sense em 5.</EffectDesc>
+		</Text>
+		<Text Name="Other_Esoterica_QuQiJue">
+			<DisplayName>Cinco Qi Dissipar</DisplayName>
+			<Desc>Diz-se que é a técnica secreta incompleta dos antigos alquimistas, registrando algumas especulações sobre o Qi da Alquimia. Esta energia é incolor, insípida e sem forma, tornando-a extremamente difícil de observar. Além disso, porque os benefícios e desvantagens do Qi da Alquimia não são totalmente compreendidos, o princípio dos cinco elementos superando uns aos outros foi utilizado para criar uma habilidade divina que dispersa completamente o Qi da Alquimia na cena.</Desc>
+			<EffectDesc>[size=18][color=#CCFF66]Aprenda o Milagre: \n Cinco Qi Dissipar[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>

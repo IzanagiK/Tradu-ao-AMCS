@@ -1,8 +1,8 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Sys_Lost">
-			<Descript>Empty</Descript>
-			<Tip>Empty</Tip>
+			<Descript>Vazio</Descript>
+			<Tip>Vazio</Tip>
 		</Text>
 		<Text Name="StabilityBasev">
 			<Descript>Estabilidade da Formação de Base {1}{0}</Descript>
@@ -53,64 +53,64 @@
 			<Descript>Proteção {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="SkillCooldownBasev">
-			<Descript>Base Operation Ability {1}{0}</Descript>
+			<Descript>Habilidade de Operação Base {1}{0}</Descript>
 		</Text>
 		<Text Name="SkillCooldownBasep">
-			<Descript>Base Operation Ability {1}{0:P2}</Descript>
+			<Descript>Habilidade de Operação Base {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="SkillCooldownAddv">
-			<Descript>Operation Ability {1}{0}</Descript>
+			<Descript>Habilidade de Operação {1}{0}</Descript>
 		</Text>
 		<Text Name="SkillCooldownAddp">
-			<Descript>Operation Ability {1}{0:P2}</Descript>
+			<Descript>Habilidade de Operação {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="ReduceCostBasev">
-			<Descript>Base Formation Efficiency {1}{0}</Descript>
+			<Descript>Eficiência de Formação Base {1}{0}</Descript>
 		</Text>
 		<Text Name="ReduceCostBasep">
-			<Descript>Base Formation Efficiency {1}{0:P2}</Descript>
+			<Descript>Eficiência de Formação Base {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="ReduceCostAddv">
-			<Descript>Formation Efficiency {1}{0}</Descript>
+			<Descript>Eficiência de Formação {1}{0}</Descript>
 		</Text>
 		<Text Name="ReduceCostAddp">
-			<Descript>Formation Efficiency {1}{0:P2}</Descript>
+			<Descript>Eficiência de Formação {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerupBasev">
-			<Descript>Formation Size {1}{0}</Descript>
+			<Descript>Tamanho da Formação {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerupBasep">
-			<Descript>Formation Size {1}{0:P2}</Descript>
+			<Descript>Tamanho da Formação {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerupAddv">
-			<Descript>Formation Size {1}{0}</Descript>
+			<Descript>Tamanho da Formação {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcNodeCountNumPowerupAddp">
-			<Descript>Formation Size {1}{0:P2}</Descript>
+			<Descript>Tamanho da Formação {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcZhenPressurePowerupBasev">
-			<Descript>Formation Load {1}{0}</Descript>
+			<Descript>Carga da Formação {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcZhenPressurePowerupBasep">
-			<Descript>Formation Load {1}{0:P2}</Descript>
+			<Descript>Carga da Formação {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcZhenPressurePowerupAddv">
-			<Descript>Formation Load {1}{0}</Descript>
+			<Descript>Carga da Formação {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcZhenPressurePowerupAddp">
-			<Descript>Formation Load {1}{0:P2}</Descript>
+			<Descript>Carga da Formação {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcZhenPointBasev">
-			<Descript>Base Formation Energy Cap {1}{0}</Descript>
+			<Descript>Capacidade de Energia da Formação Base {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcZhenPointBasep">
-			<Descript>Base Formation Energy Cap {1}{0:P2}</Descript>
+			<Descript>Capacidade de Energia da Formação Base {1}{0:P2}</Descript>
 		</Text>
 		<Text Name="NpcZhenPointAddv">
-			<Descript>Formation Energy Cap {1}{0}</Descript>
+			<Descript>Capacidade de Energia da Formação {1}{0}</Descript>
 		</Text>
 		<Text Name="NpcZhenPointAddp">
-			<Descript>Formation Energy Cap {1}{0:P2}</Descript>
+			<Descript>Capacidade de Energia da Formação {1}{0:P2}</Descript>
 		</Text>
 	</List>
 </Texts>

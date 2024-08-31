@@ -40,7 +40,7 @@
 	<string name="0xrxw6g7hdhl1q-n5_hdhl" mz="title">Upvote!</string>
 	<string name="0xrxw6g7hdhl1q-n22_7xka" mz="count">x100</string>
 	<string name="0xrxw6g7hdhl1q-n16_i6er" mz="n16">No main material.</string>
-	<string name="0xrxw6g7hdhl1q-n19_mqnd-tips" mz="Element">Set the filter for main material. Filter is set to any by default.</string>
+	<string name="0xrxw6g7hdhl1q-n19_mqnd-tips" mz="Element">Defina o filtro para o material principal. O filtro é definido como qualquer por padrão.</string>
 	<string name="0xrxw6g7hdhl1q-n14_q3f7-tips" mz="n14">Cancelar</string>
 	<string name="0xrxw6g7hdhl1q-n25_7xka-tips" mz="Up">Stick to top</string>
 	<string name="0xrxw6g7hdhl1q-n26_7xka-tips" mz="Loop">Repetir</string>
@@ -114,7 +114,7 @@
 	<string name="0xrxw6g7t3s5ovot-n87_t3s5-5" mz="n87">POT</string>
 	<string name="0xrxw6g7sz063m-n107_gebq" mz="title">No plan</string>
 	<string name="0xrxw6g7sz063m-n114_sz06" mz="n114">Inner</string>
-	<string name="0xrxw6g7fuvb3n-n11_q2bi-tips" mz="n11">Banish Disciple</string>
+	<string name="0xrxw6g7fuvb3n-n11_q2bi-tips" mz="n11">Banir Discípulo</string>
 	<string name="0xrxw6g7fuvb3n-n14_yfwm" mz="title">This</string>
 	<string name="0xrxw6g7do0z3g-n107_gebq" mz="title">No plan</string>
 	<string name="0xrxw6g7qe8348-n107_gebq" mz="title">No plan</string>
@@ -122,14 +122,14 @@
 	<string name="0xrxw6g7tuo13j-n160_ihfi" mz="n160">10000 sec</string>
 	<string name="0xrxw6g7q2bi4q-n30_hpts" mz="moreinfo">Detalhes</string>
 	<string name="0xrxw6g7q3f722-n3" mz="title">TEST</string>
-	<string name="0xrxw6g7izp427-n4_izp4" mz="text">Função</string>
 	<string name="0xrxw6g7ee2a52ow2k-n4_izp4" mz="text">Função</string>
 	<string name="0xrxw6g7t3s5ovou-n4_izp4" mz="text">Função</string>
-	<string name="0xrxw6g7t3s5ovou-n15_v22f-tips" mz="globle">A classificação de habilidade mais alta entre um grupo de personagens.</string>
-	<string name="0xrxw6g7t3s5ovou-n24_t3s5-tips" mz="love">Edit favor level</string>
 	<string name="0xrxw6g7ee2a52ow2m-n4_izp4" mz="text">Função</string>
 	<string name="0xrxw6g7ee2a52ow2m-n15_v22f-tips" mz="globle">A classificação de habilidade mais alta entre um grupo de personagens.</string>
 	<string name="0xrxw6g7ee2a52ow2m-n24_t3s5-tips" mz="love">Edit favor level</string>
+	<string name="0xrxw6g7t3s5ovou-n4_izp4" mz="text">Function</string>
+	<string name="0xrxw6g7t3s5ovou-n15_v22f-tips" mz="globle">The highest skill rating among a group of characters.</string>
+	<string name="0xrxw6g7t3s5ovou-n24_t3s5-tips" mz="love">Edit favor level</string>
 	<string name="0xrxw6g7v4kf33-n107_gebq" mz="title">Dorme</string>
 	<string name="0xrxw6g7v4kf33-n107_gebq-texts_0" mz="title">Trabalhar</string>
 	<string name="0xrxw6g7v4kf33-n107_gebq-texts_1" mz="title">Dormir</string>
@@ -150,55 +150,55 @@
 	<string name="0xrxw6g77xrwaj-n87_tvk1" mz="ColdDown">1000 sec</string>
 	<string name="0xrxw6g7qah594-n31_qah5" mz="title">Massive upvote</string>
 	<string name="0xrxw6g7c0eghq-n98_c0eg" mz="title">A</string>
-	<string name="0xrxw6g7ck7p52ow3h-n24_ck7p-tips" mz="n24">Move Forward</string>
-	<string name="0xrxw6g7ck7p52ow3h-n26_ck7p-tips" mz="n26">Move Backward</string>
+	<string name="0xrxw6g7ck7p52ow3h-n24_ck7p-tips" mz="n24">Siga em frente</string>
+	<string name="0xrxw6g7ck7p52ow3h-n26_ck7p-tips" mz="n26">Mover para trás</string>
 	<string name="0xrxw6g7ck7p52ow3h-n32_unk2-tips" mz="n32">Remove</string>
 	<string name="0xrxw6g7unk252ow3j-n31_id3v" mz="n31">Activate</string>
-	<string name="0xrxw6g7unk252ow3j-n32_unk2-tips" mz="n32">The Integrity of the Secret body is less than 50%, the Secret Body has been crippled.</string>
-	<string name="0xrxw6g7unk252ow3j-n32_unk2" mz="n32">Crippled</string>
+	<string name="0xrxw6g7unk252ow3j-n32_unk2-tips" mz="n32">A Integridade do Corpo Secreto é inferior a 50%, o Corpo Secreto foi danificado.</string>
+	<string name="0xrxw6g7unk252ow3j-n32_unk2" mz="n32">Aleijado</string>
 	<string name="0xrxw6g7faz152ow2m-n141_cfyn" mz="frame">Remold</string>
-	<string name="0xrxw6g7faz152ow2m-n285_8gay-tips" mz="n285">Secret body Integrity
-Determined by the Health of all parts on the Secret Body.
-If Integrity fell below 50%, the Secret Body would be crippled.</string>
-	<string name="0xrxw6g7faz152ow2m-n291_8gay-tips" mz="n291">The Integrity of the Secret body is less than 50%, the Secret Body has been crippled.</string>
-	<string name="0xrxw6g7faz152ow2m-n291_8gay" mz="n291">Crippled</string>
-	<string name="0xrxw6g7faz152ow2m-n300_8gay-tips" mz="n300">Enter the Gear Page to configure the usage of Secret Bodies.</string>
-	<string name="0xrxw6g7faz152ow2m-n300_8gay" mz="n300">Unused</string>
-	<string name="0xrxw6g7faz152ow2m-n277_m34v" mz="n277">Body Undefined</string>
-	<string name="0xrxw6g7faz152ow2m-n252_rlmg" mz="n252">Remold Arrangement</string>
-	<string name="0xrxw6g7faz152ow2m-n253_rlmg" mz="n253">The character will randomly initiate the planned Remold in everyday cultivation.
-When the Remold results are of little importance or only contain unimportant labels, Tempered will be automatically chosen.</string>
-	<string name="0xrxw6g7faz152ow2m-n340_t564-tips" mz="n340">When the Remold is complete, if all the results are of little importance or have no important labels, it will automatically choose Tempered.</string>
+	<string name="0xrxw6g7faz152ow2m-n285_8gay-tips" mz="n285">Integridade secreta do corpo
+Determinado pela Saúde de todas as partes do Corpo Secreto.
+Se a Integridade caísse abaixo de 50%, o Corpo Secreto seria aleijado.</string>
+	<string name="0xrxw6g7faz152ow2m-n291_8gay-tips" mz="n291">A integridade do corpo secreto é inferior a 50%, o corpo secreto foi aleijado.</string>
+	<string name="0xrxw6g7faz152ow2m-n291_8gay" mz="n291">Aleijado</string>
+	<string name="0xrxw6g7faz152ow2m-n300_8gay-tips" mz="n300">Entre na Gear Page para configurar o uso de corpos secretos..</string>
+	<string name="0xrxw6g7faz152ow2m-n300_8gay" mz="n300">Não usado</string>
+	<string name="0xrxw6g7faz152ow2m-n277_m34v" mz="n277">Corpo indefinido</string>
+	<string name="0xrxw6g7faz152ow2m-n252_rlmg" mz="n252">Arranjo de Remold</string>
+	<string name="0xrxw6g7faz152ow2m-n253_rlmg" mz="n253">O personagem iniciará aleatoriamente o Remold planejado no cultivo diário.
+Quando os resultados do Remold forem de pouca importância ou contiverem apenas rótulos sem importância, o Temperado será escolhido automaticamente.</string>
+	<string name="0xrxw6g7faz152ow2m-n340_t564-tips" mz="n340">Quando o Remold estiver completo, se todos os resultados forem de pouca importância ou não tiverem rótulos importantes, ele automaticamente escolherá Temperado.</string>
 	<string name="0xrxw6g7faz152ow2m-n337_t564" mz="n337">Veja os resultados</string>
-	<string name="0xrxw6g7faz152ow2m-n172_k4u6" mz="n172">Start Remold</string>
-	<string name="0xrxw6g7faz152ow2m-n239_ltta" mz="n239">Remold Spell:</string>
-	<string name="0xrxw6g7faz152ow2m-n240_ltta" mz="n240">Remold Cost:</string>
-	<string name="0xrxw6g7faz152ow2m-n242_ltta" mz="n242">Stamina</string>
-	<string name="0xrxw6g7faz152ow2m-n243_ltta" mz="n243">Essence</string>
-	<string name="0xrxw6g7faz152ow2m-n244_rlmg" mz="n244">Selectable</string>
-	<string name="0xrxw6g7faz152ow2m-n247_rlmg-tips" mz="n247">Keep Remolding until there are insufficient materials.</string>
-	<string name="0xrxw6g7faz152ow2m-n247_rlmg" mz="n247">Keep Remolding.</string>
+	<string name="0xrxw6g7faz152ow2m-n172_k4u6" mz="n172">Iniciar Remold</string>
+	<string name="0xrxw6g7faz152ow2m-n239_ltta" mz="n239">Remoldar Feitiço:</string>
+	<string name="0xrxw6g7faz152ow2m-n240_ltta" mz="n240">Custo de Remold:</string>
+	<string name="0xrxw6g7faz152ow2m-n242_ltta" mz="n242">Estamina</string>
+	<string name="0xrxw6g7faz152ow2m-n243_ltta" mz="n243">Essência</string>
+	<string name="0xrxw6g7faz152ow2m-n244_rlmg" mz="n244">Selecionável</string>
+	<string name="0xrxw6g7faz152ow2m-n247_rlmg-tips" mz="n247">Continue Remodelando até que haja materiais insuficientes.</string>
+	<string name="0xrxw6g7faz152ow2m-n247_rlmg" mz="n247">Continue Remoldando.</string>
 	<string name="0xrxw6g7faz152ow2m-n188_uge1" mz="n188">Cancelar</string>
-	<string name="0xrxw6g7faz152ow2m-n260_ah3x-tips" mz="n260">Keep Remolding until there are insufficient materials.</string>
-	<string name="0xrxw6g7faz152ow2m-n260_ah3x" mz="n260">Keep Remolding.</string>
-	<string name="0xrxw6g7faz152ow2m-n224_jqc9" mz="n224">Select part</string>
-	<string name="0xrxw6g7faz152ow2m-n281_m34v" mz="n281">Unremolded</string>
-	<string name="0xrxw6g7faz152ow2m-n302_skk0" mz="n302">Only shows Remoldable</string>
-	<string name="0xrxw6g7faz152ow2m-n225_jqc9" mz="n225">Form part</string>
-	<string name="0xrxw6g7faz152ow2m-n280_m34v" mz="n280">Select a body part.</string>
-	<string name="0xrxw6g7j1ig52ow33-n76_wfa1" mz="n76">Select a Remold Effect.</string>
-	<string name="0xrxw6g7j1ig52ow33-n80_ck7p" mz="n80">Available Effects</string>
+	<string name="0xrxw6g7faz152ow2m-n260_ah3x-tips" mz="n260">Continue Remodelando até que haja materiais insuficientes.</string>
+	<string name="0xrxw6g7faz152ow2m-n260_ah3x" mz="n260">Continue Remoldando.</string>
+	<string name="0xrxw6g7faz152ow2m-n224_jqc9" mz="n224">Selecione a parte</string>
+	<string name="0xrxw6g7faz152ow2m-n281_m34v" mz="n281">Não moldado</string>
+	<string name="0xrxw6g7faz152ow2m-n302_skk0" mz="n302">Só mostra Remoldável</string>
+	<string name="0xrxw6g7faz152ow2m-n225_jqc9" mz="n225">Formar parte</string>
+	<string name="0xrxw6g7faz152ow2m-n280_m34v" mz="n280">Selecione uma parte do corpo.</string>
+	<string name="0xrxw6g7j1ig52ow33-n76_wfa1" mz="n76">Selecione um Efeito Remold.</string>
+	<string name="0xrxw6g7j1ig52ow33-n80_ck7p" mz="n80">Efeitos Disponíveis</string>
 	<string name="0xrxw6g7abgt52ow4m-n86_rd8g" mz="n86">Confirmar</string>
-	<string name="0xrxw6g7abgt52ow4m-n93_rd8g" mz="n93">Available Effects</string>
+	<string name="0xrxw6g7abgt52ow4m-n93_rd8g" mz="n93">Efeitos Disponíveis</string>
 	<string name="0xrxw6g7sw0352ow3s-n7_hdhl" mz="frame">Arranjo respiratório</string>
 	<string name="0xrxw6g7sw0352ow3s-n12_sw03" mz="n12">O arranjo de respiração permite que os cultivadores físicos realizem automaticamente a respiração nas horas planejadas sem iniciar o Remold.</string>
-	<string name="0xrxw6g7sw0352ow3s-n14_fntf" mz="n14">*Please set the auto Breathing time.</string>
+	<string name="0xrxw6g7sw0352ow3s-n14_fntf" mz="n14">*Por favor, defina o tempo de respiração automática.</string>
 	<string name="0xrxw6g7lfk7aa-n9_lfk7" mz="title">Aargh!</string>
 	<string name="0xrxw6g7ggkk8i-n65_ggkk" mz="n65">Clique para verificar o layout do Feng Shui</string>
-	<string name="0xrxw6g7qx12vns-n121_fak9" mz="n121">Ordinary</string>
-	<string name="0xrxw6g7fak9vnp-n121_fak9" mz="n121">Ordinary</string>
-	<string name="0xrxw6g7fak9vnp-n122_fak9" mz="n122">Basic Work Efficiency</string>
-	<string name="0xrxw6g7rz8yjt-n18_izp4" mz="title">Lost Childhood</string>
+	<string name="0xrxw6g7qx12vns-n121_fak9" mz="n121">Ordinário</string>
+	<string name="0xrxw6g7fak9vnp-n121_fak9" mz="n121">Ordinário</string>
+	<string name="0xrxw6g7fak9vnp-n122_fak9" mz="n122">Eficiência Básica de Trabalho</string>
+	<string name="0xrxw6g7rz8yjt-n18_izp4" mz="title">Infância Perdida</string>
 	<string name="0xrxw6g7fevgb8-n64_fevg-tips" mz="n64">Metal: gera Água, supera Madeira.</string>
 	<string name="0xrxw6g7fevgb8-n65_fevg-tips" mz="n65">Madeira: gera Fogo, supera a Terra.</string>
 	<string name="0xrxw6g7fevgb8-n66_fevg-tips" mz="n66">Água: gera Madeira, supera o Fogo.</string>
@@ -210,14 +210,14 @@ When the Remold results are of little importance or only contain unimportant lab
 	<string name="0xrxw6g7yfwmbo-n194_tvk1" mz="title">Sanguine Absorption</string>
 	<string name="0xrxw6g7lfk7a8-n83_lfk7" mz="title">Humano</string>
 	<string name="0xrxw6g7t45052ow1j-n83_lfk7" mz="title">Humano</string>
-	<string name="0xrxw6g7d3j12ovsx-n28_d3j1" mz="n28">Move</string>
+	<string name="0xrxw6g7d3j12ovsx-n28_d3j1" mz="n28">Mover</string>
 	<string name="0xrxw6g7d3j12ovsx-n28_d3j1-texts_0" mz="n28">Calm</string>
 	<string name="0xrxw6g7d3j12ovsx-n28_d3j1-texts_1" mz="n28">Still</string>
 	<string name="0xrxw6g7d3j12ovsx-n28_d3j1-texts_2" mz="n28">Sagely</string>
 	<string name="0xrxw6g7d3j12ovsx-n28_d3j1-texts_3" mz="n28">Wise</string>
 	<string name="0xrxw6g7d3j12ovsx-n28_d3j1-texts_4" mz="n28">Empty</string>
 	<string name="0xrxw6g7d3j12ovsx-n28_d3j1-texts_5" mz="n28">Spirit</string>
-	<string name="0xrxw6g7d3j12ovsx-n28_d3j1-texts_def" mz="n28">Move</string>
+	<string name="0xrxw6g7d3j12ovsx-n28_d3j1-texts_def" mz="n28">Mover</string>
 	<string name="0xrxw6g7mtd82ovxw-n193_mtd8" mz="title">Ascended</string>
 	<string name="0xrxw6g7h1t8bx-n87_h1t8" mz="title">Equipe os personagens com machados para melhorar sua eficiência ao cortar madeira.</string>
 	<string name="0xrxw6g7mykkjy-n95_mykk" mz="title">Test Quests</string>
@@ -269,6 +269,7 @@ When the Remold results are of little importance or only contain unimportant lab
 	<string name="0xrxw6g7t6ty52ow2s-n22_hs0e" mz="use">Activable</string>
 	<string name="0xrxw6g7t6ty52ow2s-n25_lijl-tips" mz="n25">Cancelar</string>
 	<string name="0xrxw6g7fevgbf-n39_lgdu" mz="title">Five words</string>
+	<string name="0xrxw6g7i3u6ljrz3c-n9_i3u6" mz="title">Yaoguais' Era</string>
 	<string name="0xrxw6g7hdhl1i-n4" mz="title">Aargh!</string>
 	<string name="0xrxw6g7qfkrgb-n91_qfkr" mz="n91">PER</string>
 	<string name="0xrxw6g7qfkrgb-n92_qfkr" mz="n92">CON</string>
@@ -280,7 +281,7 @@ When the Remold results are of little importance or only contain unimportant lab
 	<string name="0xrxw6g7f5lk52ow57-n20_f5lk-tips" mz="n20">Shendao Cultivation</string>
 	<string name="0xrxw6g7f5lk52ow57-n21_f5lk-tips" mz="n21">Physical Cultivation</string>
 	<string name="0xrxw6g7lfk7ac-n4_izp4" mz="text">Function</string>
-	<string name="0xrxw6g7ee2a52ow2l-n4_izp4" mz="text">Function</string>
+	<string name="0xrxw6g7lfk7ac-n4_izp4" mz="text">Function</string>
 	<string name="0xrxw6g7tvk1aq-n201_tvk1" mz="title">Building</string>
 	<string name="0xrxw6g7chz452ow2d-n4_izp4" mz="text">Function</string>
 	<string name="0xrxw6g7chz452ow2d-n15_v22f-tips" mz="globle">The highest skill rating among a group of characters.</string>
@@ -293,8 +294,8 @@ When the Remold results are of little importance or only contain unimportant lab
 	<string name="0xrxw6g7kdkx52ow2i-n4" mz="title">Confirmar</string>
 	<string name="0xrxw6g7qah58x-n74_qah5" mz="title">Outer</string>
 	<string name="0xrxw6g7n9cg52ow46-n74_qah5" mz="title">Outer</string>
-	<string name="0xrxw6g7dyau52ow4j-n7_l5z1-tips" mz="removecountdownbg">The number of times of Thinkings before it was forgotten.</string>
-	<string name="0xrxw6g7dyau52ow4j-n13_vpv7-tips" mz="used">[color=#FF0000]Cannot gain property from this thought.[/color]</string>
+	<string name="0xrxw6g7dyau52ow4j-n7_l5z1-tips" mz="removecountdownbg">O número de vezes de Pensamentos antes de ser esquecido.</string>
+	<string name="0xrxw6g7dyau52ow4j-n13_vpv7-tips" mz="used">[color=#FF0000]Não é possível obter propriedade deste pensamento.[/color]</string>
 	<string name="0xrxw6g7dyau52ow4i-n13_q19o" mz="considerframe">Think</string>
 	<string name="0xrxw6g7dyau52ow4i-n21_q19o-tips" mz="consider">Três Pensamentos do mesmo tipo podem ser sintetizados na correspondente [color=#0000ff]Racionalidade[/color]/[color=#ff3300]Percepção[/color]/[color=#1bd1a5]Realização[/color]. Os pensamentos serão limpos após cada Pensamento. Pensamentos nos slots de Memórias e [color=#0000ff]Racionalidade[/color]/[color=#ff3300]Percepção[/color]/[color=#1bd1a5]Realização[/color] adquiridos também serão esquecidos como o número de tempos de Pensamentos aumenta.</string>
 	<string name="0xrxw6g7dyau52ow4i-n21_q19o" mz="consider">Think</string>
@@ -313,15 +314,15 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7dyau52ow4i-n60_l5z1" mz="n60">Rationality</string>
 	<string name="0xrxw6g7dyau52ow4i-n62_l5z1" mz="n62">Realization</string>
 	<string name="0xrxw6g7dyau52ow4i-n64_l5z1" mz="n64">Perception</string>
-	<string name="0xrxw6g7qt1w52ow4k-n12_qt1w-tips" mz="removecountdownbg">The number of times of Thinkings before it was forgotten.</string>
-	<string name="0xrxw6g7qt1w52ow4k-n16_qt1w-tips" mz="remember">Move this Thought into the Memories pool.</string>
+	<string name="0xrxw6g7qt1w52ow4k-n12_qt1w-tips" mz="removecountdownbg">O número de vezes que pensou antes de ser esquecido.</string>
+	<string name="0xrxw6g7qt1w52ow4k-n16_qt1w-tips" mz="remember">Mova este pensamento para o reservatório de Memórias.</string>
 	<string name="0xrxw6g7qt1w52ow4k-n16_qt1w" mz="remember">Memorize</string>
-	<string name="0xrxw6g7qt1w52ow4k-n18_qt1w-tips" mz="consider">Use three Thought Shards with the same keyword to start Thinking, after which you will gain a whole Thought.</string>
+	<string name="0xrxw6g7qt1w52ow4k-n18_qt1w-tips" mz="consider">Use três Fragmentos de Pensamento com a mesma palavra-chave para começar a Pensar, após o que você ganhará um Pensamento inteiro.</string>
 	<string name="0xrxw6g7qt1w52ow4k-n18_qt1w" mz="consider">Think</string>
 	<string name="0xrxw6g7qt1w52ow4k-n19_qt1w-tips" mz="del">Forget this Thought from the Memories pool.</string>
 	<string name="0xrxw6g7qt1w52ow4k-n19_qt1w" mz="del">Forget</string>
-	<string name="0xrxw6g7qt1w52ow4k-n21_zclq-tips" mz="eye">[color=#FF0000]This Thought Shard is not self-generated, only one may be obtained.[/color]</string>
-	<string name="0xrxw6g7qt1w52ow4k-n23_vpv7-tips" mz="used">[color=#FF0000]Cannot gain property from this fragment.[/color]</string>
+	<string name="0xrxw6g7qt1w52ow4k-n21_zclq-tips" mz="eye">[color=#FF0000]Este fragmento de pensamento não é autogerado, apenas um pode ser obtido.[/color]</string>
+	<string name="0xrxw6g7qt1w52ow4k-n23_vpv7-tips" mz="used">[color=#FF0000]Não é possível obter a propriedade deste fragmento.[/color]</string>
 	<string name="0xrxw6g7s13452ow3i-n0_s134" mz="frame">Enlighten</string>
 	<string name="0xrxw6g7s13452ow3i-n22_s134" mz="QiZhi">Awaken one's intelligence.</string>
 	<string name="0xrxw6g7s13452ow3i-n23_s134" mz="n23">Synthesize 
@@ -343,13 +344,14 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7h4ds2ovss-n12_lz37" mz="copyall">Study</string>
 	<string name="0xrxw6g7h4ds2ovss-n25_vcpx" mz="clearall">Clean</string>
 	<string name="0xrxw6g7h4ds2ovss-n0_h4ds" mz="frame">Manual Pavilion</string>
-	<string name="0xrxw6g7h4ds2ovss-n24_t8dw-tips" mz="daohang">Manual Pavilion Capacity: The Manual Pavilion's ability to contain manuals. A more difficult manual will take up more space after being transcribed.</string>
-	<string name="0xrxw6g7h4ds2ovss-n24_t8dw" mz="daohang">Manual Pavilion Capacity: 150/5000</string>
+	<string name="0xrxw6g7h4ds2ovss-n24_t8dw-tips" mz="daohang">Capacidade de Manual no Pavilhão: A Capacidade de manual no pavilhão de conter manuais. Um manual mais difícil ocupará mais espaço depois de transcrito.</string>
+	<string name="0xrxw6g7h4ds2ovss-n24_t8dw" mz="daohang">Capacidade de manual no pavilhão: 150/5000</string>
 	<string name="0xrxw6g7h4ds2ovss-n27_rhxq" mz="onlylrean">Only shows manuals that can be learned.</string>
 	<string name="0xrxw6g7h4ds2ovss-n28_fbfc-prompt" mz="F">Search Manual</string>
 	<string name="0xrxw6g7h4ds2ovss-n32_vmz6" mz="search">Pesquisar</string>
 	<string name="0xrxw6g7gnb4vmw-n113_gnb4" mz="name">Flood Dragon</string>
 	<string name="0xrxw6g7n3hgljryzy-n130_n3hg" mz="title">Sunshade Abode</string>
+	<string name="0xrxw6g7n3hgljryzy-n132_ry2t" mz="title_en">Sunshade Abode</string>
 	<string name="0xrxw6g7n3hgljryzv-n103_n3hg" mz="title">Plot domination</string>
 	<string name="0xrxw6g7tv5x52ovzh-n88_oe12" mz="n88">Carregando dados...</string>
 	<string name="0xrxw6g7kwdl52ow4y-n13_kwdl" mz="frame">Edit Note</string>
@@ -372,6 +374,7 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7tv5x52ovzf-n168_c3b2" mz="n168">No response timeout. Click to try again.</string>
 	<string name="0xrxw6g7n3hgljrz08-n170_n3hg" mz="title">Base Qi</string>
 	<string name="0xrxw6g7n3hgljrz03-n148_n3hg" mz="title">Base Qi</string>
+	<string name="0xrxw6g7n3hgljrz03-n150_ry2t" mz="title_en">Base Qi</string>
 	<string name="0xrxw6g7pjluljryqc-n8_dp3w" mz="title">TEST</string>
 	<string name="0xrxw6g7zc5cnn-n3_xko6" mz="title">Giggles</string>
 	<string name="0xrxw6g7zc5cnp-n3_fzve" mz="title">Clear</string>
@@ -430,14 +433,14 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7r7fzovol-n111_zx1x" mz="n111">Available Traits:</string>
 	<string name="0xrxw6g7p7bwnu-n4_izp4" mz="text">Function</string>
 	<string name="0xrxw6g7p7bwnu-n26_xi71-tips" mz="leveltxt">Click to edit</string>
-	<string name="0xrxw6g7ibrenl-n4_izp4" mz="text">Function</string>
-	<string name="0xrxw6g7ibrenl-n15_v22f-tips" mz="globle">The highest skill rating among a group of characters.</string>
-	<string name="0xrxw6g7ibrenl-n26_xi71-tips" mz="levelb">Click to edit</string>
-	<string name="0xrxw6g7ibrenl-n31_qgzb-tips" mz="love">Edit favor level</string>
 	<string name="0xrxw6g7ee2a52ow2o-n4_izp4" mz="text">Function</string>
 	<string name="0xrxw6g7ee2a52ow2o-n15_v22f-tips" mz="globle">The highest skill rating among a group of characters.</string>
 	<string name="0xrxw6g7ee2a52ow2o-n26_xi71-tips" mz="levelb">Click to edit</string>
 	<string name="0xrxw6g7ee2a52ow2o-n31_qgzb-tips" mz="love">Edit favor level</string>
+	<string name="0xrxw6g7ibrenl-n4_izp4" mz="text">Function</string>
+	<string name="0xrxw6g7ibrenl-n15_v22f-tips" mz="globle">The highest skill rating among a group of characters.</string>
+	<string name="0xrxw6g7ibrenl-n26_xi71-tips" mz="levelb">Click to edit</string>
+	<string name="0xrxw6g7ibrenl-n31_qgzb-tips" mz="love">Edit favor level</string>
 	<string name="0xrxw6g7mgr9nf-n4" mz="title">wdddddddd</string>
 	<string name="0xrxw6g7q9xpn2-n142_mb2l" mz="ReincarnationFunction">Create Reincarnators</string>
 	<string name="0xrxw6g7q9xpn2-n90_f045" mz="BlueFuction">Create Blueprint</string>
@@ -609,7 +612,7 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7q9xpn4-n163_te3v" mz="n163">Pelos faciais:</string>
 	<string name="0xrxw6g7q9xpn4-n171_te3v" mz="n171">Skin tone:</string>
 	<string name="0xrxw6g7q9xpn4-n175_c3vt" mz="n175">Clothes:</string>
-	<string name="0xrxw6g7q9xpn4-n241_u86j-tips" mz="Desc">Write a description for your reincarnator.</string>
+	<string name="0xrxw6g7q9xpn4-n241_u86j-tips" mz="Desc">Escreva uma descrição para o seu reencarnador.</string>
 	<string name="0xrxw6g7q9xpn4-n44_izp4" mz="n44">Incapable of</string>
 	<string name="0xrxw6g7q9xpn4-n234_rqwx" mz="n234">Habilidades</string>
 	<string name="0xrxw6g7q9xpn4-n257_f1yi" mz="n257">Personalizar Rosto</string>
@@ -624,11 +627,11 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7q9xpn4-n274_mj32" mz="n274">Acessórios:</string>
 	<string name="0xrxw6g7q9xpn4-n305_vhrj" mz="n305">Forma Humana</string>
 	<string name="0xrxw6g7q9xpn4-n306_vhrj" mz="n306">Forma de Monstro</string>
-	<string name="0xrxw6g7q9xpn4-n310_ro6z" mz="n310">List of Intelligences</string>
-	<string name="0xrxw6g7q9xpn4-n318_jrnp" mz="n318">*3-10 Intelligences are required for Yaoguai</string>
-	<string name="0xrxw6g7q9xpn4-n316_mctl-tips" mz="n316">Yaoguai in half-human forms will face Shapeshifting Tribulation after a period of time. Those who succeed will shapeshift into human forms, while those who fail will be reversed to their original appearances. The stronger they are, the sooner the tribulation would come.</string>
+	<string name="0xrxw6g7q9xpn4-n310_ro6z" mz="n310">Lista de Inteligências</string>
+	<string name="0xrxw6g7q9xpn4-n318_jrnp" mz="n318">*3-10 Inteligências são necessárias para Yaoguai</string>
+	<string name="0xrxw6g7q9xpn4-n316_mctl-tips" mz="n316">Yaoguai em formas meio-humanas enfrentará a Tribulação Metamorfose após um período de tempo. Aqueles que tiverem sucesso se transformarão em formas humanas, enquanto aqueles que falharem serão revertidos para suas aparências originais. Quanto mais fortes eles forem, mais cedo a tribulação chegará.</string>
 	<string name="0xrxw6g79g33ni-n118_9g33" mz="n118">Nome</string>
-	<string name="0xrxw6g79g33ni-n122_9g33" mz="n122">Description</string>
+	<string name="0xrxw6g79g33ni-n122_9g33" mz="n122">Descrição</string>
 	<string name="0xrxw6g79g33ni-n146_yl3n" mz="n146">Effect</string>
 	<string name="0xrxw6g7jsx7nc-n46_xko6" mz="title">Backgrounds</string>
 	<string name="0xrxw6g7mf2o2ovw2-n3_fzve" mz="title">Clear</string>
@@ -636,23 +639,23 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7t7le2ovw0-n3_fzve" mz="title">Clear</string>
 	<string name="0xrxw6g710pm52ovza-n389_10pm5" mz="n389">Left</string>
 	<string name="0xrxw6g710pm52ovza-n392_10pm5" mz="n392">Central Plain Events</string>
-	<string name="0xrxw6g710pm52ovza-n396_10pm5" mz="n396">Inspect Events</string>
-	<string name="0xrxw6g7mw3a2ovu3-n39_lgdu" mz="title">These are five</string>
-	<string name="0xrxw6g7sd8q2ovwg-n19_sd8q" mz="n19">in a dangerous disaster!</string>
+	<string name="0xrxw6g710pm52ovza-n396_10pm5" mz="n396">Inspecionar eventos</string>
+	<string name="0xrxw6g7mw3a2ovu3-n39_lgdu" mz="title">Estes são cinco</string>
+	<string name="0xrxw6g7sd8q2ovwg-n19_sd8q" mz="n19">em um desastre perigoso!</string>
 	<string name="0xrxw6g7gdpn2ovtw-n351_gdpn" mz="frame">Spirit Master Hall</string>
 	<string name="0xrxw6g7gdpn2ovtw-n357_gdpn" mz="n357">End</string>
 	<string name="0xrxw6g7gdpn2ovtw-n359_gdpn" mz="n359">Gênero:</string>
 	<string name="0xrxw6g7gdpn2ovtw-n361_gdpn" mz="n361">Idade:</string>
 	<string name="0xrxw6g7gdpn2ovtw-n366_gdpn" mz="sex">Male</string>
-	<string name="0xrxw6g7gdpn2ovtw-n368_gdpn" mz="n368">Sort By:</string>
+	<string name="0xrxw6g7gdpn2ovtw-n368_gdpn" mz="n368">Ordenar por:</string>
 	<string name="0xrxw6g7gdpn2ovtw-n369_gdpn" mz="sortorder">CON</string>
-	<string name="0xrxw6g7gdpn2ovtw-n372_mw3a" mz="n372">Available for recruitment: 0/10</string>
+	<string name="0xrxw6g7gdpn2ovtw-n372_mw3a" mz="n372">Disponível para recrutamento: 0/10</string>
 	<string name="0xrxw6g7gdpn2ovtw-n378_mw3a" mz="n378">Confirmar</string>
-	<string name="0xrxw6g7gdpn2ovtw-n388_qiak" mz="n388">This area cannot include any more disciples.</string>
-	<string name="0xrxw6g7gdpn2ovtw-n410_j3en" mz="n410">Select Disciple to Allocate</string>
+	<string name="0xrxw6g7gdpn2ovtw-n388_qiak" mz="n388">Esta área não pode incluir mais discípulos.</string>
+	<string name="0xrxw6g7gdpn2ovtw-n410_j3en" mz="n410">Selecione o Discípulo para Alocar</string>
 	<string name="0xrxw6g7mf2o2ovw3-n127_oizv" mz="frame">Mt. Sunshade</string>
-	<string name="0xrxw6g7mf2o2ovw3-n397_mf2o" mz="gostay">Camp</string>
-	<string name="0xrxw6g7mf2o2ovw3-n398_mf2o" mz="goexp">Adventure</string>
+	<string name="0xrxw6g7mf2o2ovw3-n397_mf2o" mz="gostay">Acampar</string>
+	<string name="0xrxw6g7mf2o2ovw3-n398_mf2o" mz="goexp">Aventura</string>
 	<string name="0xrxw6g7mf2o2ovw3-n173_oizv" mz="n173">Event</string>
 	<string name="0xrxw6g7mf2o2ovw3-n184_oizv" mz="up">Upgrade</string>
 	<string name="0xrxw6g7mf2o2ovw3-n185_oizv" mz="clear">Demolish</string>
@@ -660,10 +663,10 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7mf2o2ovw3-n354_j2gu" mz="n354">[Yield]</string>
 	<string name="0xrxw6g7mf2o2ovw3-n322_s7y9" mz="buildtip">[Tendency]11111111111111</string>
 	<string name="0xrxw6g7mf2o2ovw3-n368_p1qx" mz="n368">Precisa</string>
-	<string name="0xrxw6g7mf2o2ovw3-n203_ep9b" mz="n203">Saw two (villagers)/(rich young lords) arguing; it seems to be about who is the owner of the land.</string>
+	<string name="0xrxw6g7mf2o2ovw3-n203_ep9b" mz="n203">Vi dois (aldeões)/(jovens senhores ricos) discutindo; parece ser sobre quem é o dono da terra.</string>
 	<string name="0xrxw6g7mf2o2ovw3-n210_ep9b" mz="n210">Dias restantes</string>
-	<string name="0xrxw6g7mf2o2ovw3-n375_apkb" mz="n375">Select one of the following:</string>
-	<string name="0xrxw6g7mf2o2ovw3-n190_ep9b" mz="n190">Progress</string>
+	<string name="0xrxw6g7mf2o2ovw3-n375_apkb" mz="n375">Selecione um dos seguintes:</string>
+	<string name="0xrxw6g7mf2o2ovw3-n190_ep9b" mz="n190">Progresso</string>
 	<string name="0xrxw6g7mf2o2ovw3-n192_ep9b" mz="cancel">Cancelar</string>
 	<string name="0xrxw6g7mf2o2ovw3-n293_i8mv-0" mz="n293">Trait</string>
 	<string name="0xrxw6g7mf2o2ovw3-n293_i8mv-1" mz="n293">Trait 2</string>
@@ -677,35 +680,35 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7mf2o2ovw3-n392_mf2o" mz="n392">Em plena seca! Dias restantes: 10</string>
 	<string name="0xrxw6g7mf2o2ovw3-n393_mf2o" mz="n393">Resources:</string>
 	<string name="0xrxw6g7mf2o2ovw3-n411_mf2o-0" mz="Head">Worldly Agency</string>
-	<string name="0xrxw6g7mf2o2ovw3-n411_mf2o-1" mz="Head">Agent</string>
-	<string name="0xrxw6g7mf2o2ovw3-n411_mf2o-2" mz="Head">Belief</string>
-	<string name="0xrxw6g7mf2o2ovw3-n416_qo1q-tips" mz="allunlock">Exploration progress of surrounding locations. 100% means that you have explored every nearby location.</string>
+	<string name="0xrxw6g7mf2o2ovw3-n411_mf2o-1" mz="Head">Agente</string>
+	<string name="0xrxw6g7mf2o2ovw3-n411_mf2o-2" mz="Head">Crença</string>
+	<string name="0xrxw6g7mf2o2ovw3-n416_qo1q-tips" mz="allunlock">Progresso da exploração dos locais vizinhos. 100% significa que você explorou todos os locais próximos.</string>
 	<string name="0xrxw6g7mf2o2ovw3-n418_lnyq" mz="into">Entrar</string>
-	<string name="0xrxw6g7mf2o2ovw4-n163_oizv" mz="bq">Wonder</string>
-	<string name="0xrxw6g7mf2o2ovw4-n357_vio7" mz="n357">Buildings: 2/2</string>
-	<string name="0xrxw6g7mf2o2ovw4-n307_i8mv" mz="n307">Agent</string>
+	<string name="0xrxw6g7mf2o2ovw4-n163_oizv" mz="bq">Maravilha</string>
+	<string name="0xrxw6g7mf2o2ovw4-n357_vio7" mz="n357">Edifícios: 2/2</string>
+	<string name="0xrxw6g7mf2o2ovw4-n307_i8mv" mz="n307">Agente</string>
 	<string name="0xrxw6g7mf2o2ovw4-n306_i8mv" mz="n306">Show Abbot</string>
 	<string name="0xrxw6g7mf2o2ovw4-n196_ep9b" mz="qingxiang">Tendency</string>
-	<string name="0xrxw6g7mf2o2ovw4-n207_ep9b" mz="n207">Brightway Temple!!!!!</string>
-	<string name="0xrxw6g7mf2o2ovw4-n337_gdpn" mz="n337">Daily Production</string>
-	<string name="0xrxw6g7mf2o2ovw4-n167_oizv" mz="n167">Regional Storage</string>
+	<string name="0xrxw6g7mf2o2ovw4-n207_ep9b" mz="n207">Templo Brightway!!!!!</string>
+	<string name="0xrxw6g7mf2o2ovw4-n337_gdpn" mz="n337">Produção diária</string>
+	<string name="0xrxw6g7mf2o2ovw4-n167_oizv" mz="n167">Armazenamento regional</string>
 	<string name="0xrxw6g7mf2o2ovw4-n171_oizv" mz="n171">Claim</string>
-	<string name="0xrxw6g7mf2o2ovw4-n339_gdpn-tips" mz="n339">Upgrade to Intermediate Main Hall to unlock Treasure Hunting Direction. Once applied, use different methods in Treasure Hunt will yield different treasures.</string>
-	<string name="0xrxw6g7mf2o2ovw4-n339_gdpn" mz="n339">Treasure Hunting</string>
-	<string name="0xrxw6g7mf2o2ovw4-n344_gdpn" mz="n344">Stability: Suspicious Dominant Religion: Sunshade Abode</string>
+	<string name="0xrxw6g7mf2o2ovw4-n339_gdpn-tips" mz="n339">Atualize para o Salão Principal Intermediário para desbloquear a Direção de Caça ao Tesouro. Uma vez aplicado, o uso de métodos diferentes na Caça ao Tesouro renderá tesouros diferentes.</string>
+	<string name="0xrxw6g7mf2o2ovw4-n339_gdpn" mz="n339">Caça ao Tesouro</string>
+	<string name="0xrxw6g7mf2o2ovw4-n344_gdpn" mz="n344">Estabilidade: Religião Dominante Suspeita: Sunshade Abode</string>
 	<string name="0xrxw6g7mf2o2ovw4-n346_gdpn-tips" mz="n346">População de Seguidores: Aumentou através de diferentes eventos de política. Quanto maior o apelo, maior o número de seguidores. Sem nenhuma política, a região perderá 5% de seguidores todos os dias.</string>
 	<string name="0xrxw6g7mf2o2ovw4-n360_lbzv-tips" mz="n360">Assista: Preste muita atenção neste local, que aumenta a frequência dos eventos de política, mas também dobra o custo.</string>
-	<string name="0xrxw6g7mf2o2ovw4-n360_lbzv" mz="n360">Watch</string>
-	<string name="0xrxw6g7mf2o2ovw4-n382_dm2u-tips" mz="goexp">Incorporate: Incorporate all the other religions in this area. Incorporation is available when our followers exceed 70% of the total population.</string>
-	<string name="0xrxw6g7mf2o2ovw4-n382_dm2u" mz="goexp">Incorporate</string>
+	<string name="0xrxw6g7mf2o2ovw4-n360_lbzv" mz="n360">Assistir</string>
+	<string name="0xrxw6g7mf2o2ovw4-n382_dm2u-tips" mz="goexp">Incorporar: Incorporar todas as outras religiões nesta área. A incorporação está disponível quando nossos seguidores excedem 70% da população total.</string>
+	<string name="0xrxw6g7mf2o2ovw4-n382_dm2u" mz="goexp">Incorporar</string>
 	<string name="0xrxw6g7mf2o2ovw4-n216_i8mv" mz="n216">Statue</string>
 	<string name="0xrxw6g7mf2o2ovw4-n251_i8mv-tips" mz="xinyangv">Crença: Crenças podem ser adquiridas todos os dias nesta área. Mais seguidores significam que mais crenças podem ser adquiridas por dia. Se a estabilidade for menor que Desconfiar, o ódio começará a se acumular. As crenças podem ser reunidas enviando discípulos internos aqui. As crenças serão transformadas em uma quantidade igual de inspiração para cultivadores não-Shendao.</string>
 	<string name="0xrxw6g7mf2o2ovw4-n214_i8mv" mz="n214">City Stability Suspicious</string>
 	<string name="0xrxw6g7mf2o2ovw4-n253_i8mv" mz="zc1">Nome</string>
-	<string name="0xrxw6g7mf2o2ovw4-n254_i8mv" mz="zc2">Follower</string>
-	<string name="0xrxw6g7mf2o2ovw4-n255_i8mv" mz="zc">Appeal</string>
-	<string name="0xrxw6g7mf2o2ovw4-n308_i8mv" mz="n308">Agent</string>
-	<string name="0xrxw6g7mf2o2ovw4-n264_i8mv-tips" mz="n264">Change Agent</string>
+	<string name="0xrxw6g7mf2o2ovw4-n254_i8mv" mz="zc2">Seguidor</string>
+	<string name="0xrxw6g7mf2o2ovw4-n255_i8mv" mz="zc">Apelo</string>
+	<string name="0xrxw6g7mf2o2ovw4-n308_i8mv" mz="n308">Agente</string>
+	<string name="0xrxw6g7mf2o2ovw4-n264_i8mv-tips" mz="n264">Trocar Agente</string>
 	<string name="0xrxw6g7mf2o2ovw4-n264_i8mv" mz="n264">Abbot</string>
 	<string name="0xrxw6g7mf2o2ovw4-n270_i8mv-tips" mz="n270">Estatísticas Gerais: As estatísticas do abade combinadas com 10% das estatísticas de todos os discípulos.</string>
 	<string name="0xrxw6g7mf2o2ovw4-n274_i8mv" mz="n274">DiscípuloS (1/10)</string>
@@ -714,28 +717,28 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7oizv2ovte-n107_gebq" mz="title">No plan</string>
 	<string name="0xrxw6g7u9cd2ovv2-n129_u9cd" mz="n129">Storage</string>
 	<string name="0xrxw6g7u9cd2ovv2-n130_u9cd" mz="n130">Claim</string>
-	<string name="0xrxw6g7u9cd2ovv2-n135_u9cd" mz="n135">Treasure Hunting</string>
+	<string name="0xrxw6g7u9cd2ovv2-n135_u9cd" mz="n135">Caça ao Tesouro</string>
 	<string name="0xrxw6g7u9cd2ovv2-n143_u9cd" mz="n143">Central Plains</string>
 	<string name="0xrxw6g7u9cd2ovv2-n121_u9cd" mz="qingxiang">Tendency</string>
-	<string name="0xrxw6g7u9cd2ovv2-n139_u9cd-tips" mz="n139">Population of Followers: Increased via different policy events. The higher the appeal, the more the increased followers.</string>
+	<string name="0xrxw6g7u9cd2ovv2-n139_u9cd-tips" mz="n139">População de Seguidores: Aumentada por meio de diferentes eventos de política. Quanto maior o apelo, maior o número de seguidores.</string>
 	<string name="0xrxw6g7u9cd2ovv2-n140_u9cd-tips" mz="n140">Assista: Preste muita atenção neste local, que aumenta a frequência dos eventos de política, mas também dobra o custo.</string>
-	<string name="0xrxw6g7u9cd2ovv2-n140_u9cd" mz="n140">Watch</string>
+	<string name="0xrxw6g7u9cd2ovv2-n140_u9cd" mz="n140">Assistir</string>
 	<string name="0xrxw6g7u9cd2ovv2-n128_u9cd" mz="n128">Produção diária</string>
-	<string name="0xrxw6g7u9cd2ovv2-n155_u9cd" mz="n155">Brightway Temple</string>
-	<string name="0xrxw6g7u9cd2ovv2-n137_u9cd" mz="n137">Stability: Suspicious Dominant Religion: Sunshade Abode</string>
+	<string name="0xrxw6g7u9cd2ovv2-n155_u9cd" mz="n155">Templo Brightway</string>
+	<string name="0xrxw6g7u9cd2ovv2-n137_u9cd" mz="n137">Estabilidade: Religião Dominante Suspeita: Sunshade Abode</string>
 	<string name="0xrxw6g7u9cd2ovv2-n156_sd8q" mz="n156">in a dangerous disaster!</string>
-	<string name="0xrxw6g7u9cd2ovv2-n123_u9cd" mz="n123">Brightway Temple</string>
+	<string name="0xrxw6g7u9cd2ovv2-n123_u9cd" mz="n123">Templo Brightway</string>
 	<string name="0xrxw6g7u9cd2ovv2-n149_u9cd" mz="n149">The abbot is on their way...</string>
 	<string name="0xrxw6g7u9cd2ovv2-n151_u9cd" mz="n151">Não atribuído</string>
-	<string name="0xrxw6g7u9cd2ovv3-n1_u9cd" mz="frame">Power Management</string>
+	<string name="0xrxw6g7u9cd2ovv3-n1_u9cd" mz="frame">Gestão da Força</string>
 	<string name="0xrxw6g7u9cd2ovv3-n5_u9cd" mz="n5">Sair</string>
 	<string name="0xrxw6g7u9cd2ovv3-n9_dm2u" mz="n9">Policy</string>
-	<string name="0xrxw6g7u9cd2ovv3-n30_dm2u" mz="n30">Saw two (villagers)/(rich young lords) arguing; it seems to be about who is the owner of the land.</string>
+	<string name="0xrxw6g7u9cd2ovv3-n30_dm2u" mz="n30">Vi dois (aldeões)/(jovens senhores ricos) discutindo; parece ser sobre quem é o dono da terra.</string>
 	<string name="0xrxw6g7u9cd2ovv3-n34_dm2u" mz="n34">Dias restantes</string>
-	<string name="0xrxw6g7u9cd2ovv3-n35_dm2u" mz="n35">Select one of the following:</string>
-	<string name="0xrxw6g7u9cd2ovv3-n50_dm2u" mz="n50">Event</string>
-	<string name="0xrxw6g7u9cd2ovv3-n54_cexm" mz="n54">Daily Production:</string>
-	<string name="0xrxw6g7u9cd2ovv3-n57_cexm" mz="n57">Daily Cost:</string>
+	<string name="0xrxw6g7u9cd2ovv3-n35_dm2u" mz="n35">Selecione um dos seguintes:</string>
+	<string name="0xrxw6g7u9cd2ovv3-n50_dm2u" mz="n50">Evento</string>
+	<string name="0xrxw6g7u9cd2ovv3-n54_cexm" mz="n54">Produção diária:</string>
+	<string name="0xrxw6g7u9cd2ovv3-n57_cexm" mz="n57">Custo diário:</string>
 	<string name="0xrxw6g7oizv2ovtg-n180_oizv" mz="title">[Tendency] Preach</string>
 	<string name="0xrxw6g7oizv2ovtg-n185_wsuu" mz="n185">Immortality Hall</string>
 	<string name="0xrxw6g7oizv2ovtg-n184_wsuu" mz="n184">Precisa</string>
@@ -762,7 +765,7 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7mw3a2ovu5-n385_mw3a" mz="n385">Selected</string>
 	<string name="0xrxw6g7mw3a2ovu5-n386_vio7" mz="n386">Central Plains</string>
 	<string name="0xrxw6g7j83c2ovua-n163_oizv" mz="bq">Wonder</string>
-	<string name="0xrxw6g7j83c2ovua-n169_oizv" mz="n169">Production Wood *10, Rock *20 Treasure Hunting: Purple Ganoderma, Phoenixwood</string>
+	<string name="0xrxw6g7j83c2ovua-n169_oizv" mz="n169">Produção Madeira *10, Pedra *20 Caça ao Tesouro: Purple Ganoderma, Phoenixwood</string>
 	<string name="0xrxw6g7j83c2ovua-n167_oizv" mz="n167">Storage</string>
 	<string name="0xrxw6g7j83c2ovua-n171_oizv" mz="n171">Claim</string>
 	<string name="0xrxw6g7j83c2ovua-n196_ep9b" mz="qingxiang">Tendency</string>
@@ -800,7 +803,7 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7j83c2ovua-n302_i8mv" mz="n302">Replace</string>
 	<string name="0xrxw6g7j83c2ovua-n190_ep9b" mz="n190">Progresso</string>
 	<string name="0xrxw6g7j83c2ovua-n192_ep9b" mz="cancel">Cancelar</string>
-	<string name="0xrxw6g7j83c2ovua-n203_ep9b" mz="n203">Saw two (villagers)/(rich young lords) arguing; it seems to be about who is the owner of the land.</string>
+	<string name="0xrxw6g7j83c2ovua-n203_ep9b" mz="n203">Vi dois (aldeões)/(jovens senhores ricos) discutindo; parece ser sobre quem é o dono da terra.</string>
 	<string name="0xrxw6g7j83c2ovua-n210_ep9b" mz="n210">Dias restantes</string>
 	<string name="0xrxw6g7j83c2ovua-n122_vrv6" mz="gobaishan">Visit</string>
 	<string name="0xrxw6g7j83c2ovua-n110_vrv6" mz="gogift">Presentear</string>
@@ -878,14 +881,36 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7cgxb52ow65-n13_cgxb-texts_2" mz="n13">Function</string>
 	<string name="0xrxw6g7cgxb52ow65-n13_cgxb-texts_def" mz="n13">Talk</string>
 	<string name="0xrxw6g7cgxb52ow65-n26_bznv-tips" mz="n26">Delete</string>
+				<string name="0xrxw6g7h7v8ljrz0f-n7_c4dt" mz="title">Priodimal</string>
+	<string name="0xrxw6g7h7v8ljrz0b-n0_c4dt" mz="frame">Alchemy Qi</string>
+	<string name="0xrxw6g7h7v8ljrz0b-n1_c4dt" mz="n1">[color=#F7C15C]Regra de Alquimia Qi:[/color]
+1. Com base no nível de drus e nos cinco elementos, adicione o Alchemy Qi correspondente à cena.
+2. O Alchemy Qi diminuirá com o tempo. O ciclo gerador dos cinco elementos irá desacelerar a velocidade de redução, enquanto o ciclo de superação irá aumentá-la.
+3. O Alchemy Qi aumentará a concentração de Lingqi na cena.
+4. Quando um certo tipo de Alquimia Qi excede 50, vários efeitos adicionais serão produzidos de acordo com a proporção dos cinco elementos no Alquimia Qi.</string>
+	<string name="0xrxw6g7h7v8ljrz0b-n5_c4dt" mz="n5">Lingqi Density</string>
 	<string name="0xrxw6g7iqu5ovob-n2_kdkx" mz="n2">mod</string>
-	<string name="0xrxw6g7iqu5ovob-n3_a2om" mz="title">Move</string>
+	<string name="0xrxw6g7iqu5ovob-n3_a2om" mz="title">Mover</string>
 	<string name="0xrxw6g7cxoxovpt-n0_cxox" mz="frame">Talismans Drawn</string>
 	<string name="0xrxw6g7cxoxovpt-n2_cxox" mz="n2">Number</string>
 	<string name="0xrxw6g7cxoxovpt-n3_cxox" mz="cancel">Cancelar</string>
 	<string name="0xrxw6g7cxoxovpt-n4_cxox" mz="ok">Confirmar</string>
 	<string name="0xrxw6g7cxoxovpu-n4_izp4" mz="title">Função</string>
 	<string name="0xrxw6g7cxoxovpu-n26_xi71-tips" mz="leveltxt">Clique para editar</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n263_i269-tips" mz="n263">Export Share Code</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n263_i269" mz="n263">Export</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n264_i269-tips" mz="n264">Import Share Code</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n264_i269" mz="n264">Import</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n240_t7f5-tips" mz="n240">Change Map Seed</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n242_t7f5" mz="n242">Map Seed</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n231_t7f5" mz="n231">Monsters</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n205_t7f5" mz="n205">Abode</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n227_t7f5" mz="n227">Legacies</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n278_h7v8" mz="n278">Special</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n243_t7f5" mz="n243">Confirm</string>
+	<string name="0xrxw6g7h7v8ljrz0i-n244_t7f5" mz="n244">Cancel</string>
+	<string name="0xrxw6g7i3u6ljrz39-n243_t7f5" mz="n243">Confirm</string>
+	<string name="0xrxw6g7i3u6ljrz39-n244_t7f5" mz="n244">Cancel</string>
 	<string name="0xrxw6g7yfwmbr-n14_i7jl" mz="bbg">Clássico</string>
 	<string name="0xrxw6g7yfwmbr-n14_i7jl-texts_0" mz="bbg">Terra da Ilusão</string>
 	<string name="0xrxw6g7yfwmbr-n14_i7jl-texts_def" mz="bbg">Clássico</string>
@@ -930,10 +955,12 @@ Tanto as Memórias quanto o Pensamento podem ser esquecidos após vários Pensam
 	<string name="0xrxw6g7yfwmbr-n12_yfwm" mz="n12">Config</string>
 	<string name="0xrxw6g7yfwmbr-n110_mtfk" mz="n110">Ajuda do jogo</string>
 	<string name="0xrxw6g7yfwmbr-n36_ipul" mz="n36">Conquistas</string>
-	<string name="0xrxw6g7yfwmbr-n61_ebpx" mz="n61">抵制不良游戏，拒绝盗版游戏。 注意自我保护，谨防受骗上当。 适度游戏益脑，沉迷游戏伤身。 合理安排时间，享受健康生活。</string>
+	<string name="0xrxw6g7yfwmbr-n61_ebpx" mz="n61">Resista a jogos prejudiciais, recuse jogos piratas. Cuide de si mesmo e evite ser enganado. Jogar moderadamente é bom para o cérebro, mas o vício em jogos é prejudicial à saúde. Organize seu tempo de forma razoável e aproveite uma vida saudável.</string>
 	<string name="0xrxw6g7yfwmbr-n82_iqu5-tips" mz="LagSelect">Idioma</string>
 	<string name="0xrxw6g7yfwmbr-n92_qedx-tips" mz="n92">Sair</string>
 	<string name="0xrxw6g7yfwmbr-n131_b35k-tips" mz="bwikibnt">Amazing Cultivation Simulator BWIKI</string>
+	<string name="0xrxw6g7yfwmbr-n137_ekqv-tips" mz="wikibnt">Wiki(en)</string>
+	<string name="0xrxw6g7yfwmbr-n137_ekqv" mz="wikibnt">Wiki</string>
 	<string name="0xrxw6g7yfwmbr-n83_iqu5-tips" mz="n74">Amazing Cultivation Simulator's official Weibo account</string>
 	<string name="0xrxw6g7yfwmbr-n89_11tsn-tips" mz="qqbnt">Amazing Cultivation Simulator's official QQ chat group</string>
 	<string name="0xrxw6g7yfwmbr-n95_p8oa-tips" mz="twbnt">Twitter</string>
@@ -1009,8 +1036,8 @@ Inspiration required to learn Earth or undefined manuals is based on the lesser 
 	<string name="0xrxw6g7stle2ovw3-n104_stle-tips" mz="n104">Selecione evidências relacionadas.</string>
 	<string name="0xrxw6g7stle2ovw3-n104_stle" mz="n104">Evidência</string>
 	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-tips" mz="n30">Tipo de evidência: M O motivo. P O participante. E A evidência</string>
-	<string name="0xrxw6g7kzxt2ovu7-n30_yljb" mz="n30">Move</string>
-	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-texts_0" mz="n30">Move</string>
+	<string name="0xrxw6g7kzxt2ovu7-n30_yljb" mz="n30">Mover</string>
+	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-texts_0" mz="n30">Mover</string>
 	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-texts_1" mz="n30">P</string>
 	<string name="0xrxw6g7kzxt2ovu7-n30_yljb-texts_def" mz="n30">E</string>
 	<string name="0xrxw6g7kzxt2ovu7-n36_glf0-tips" mz="local">Focus</string>
@@ -1244,12 +1271,12 @@ Editor</string>
 	<string name="0xrxw6g7gzi126-n49_izp4" mz="entergame">Iniciar jogo</string>
 	<string name="0xrxw6g7gzi126-n80_em8k" mz="n80">Nenhum plano de fundo escolhido para o personagem principal.</string>
 	<string name="0xrxw6g7gzi126-n85_mykk" mz="back">Retornar</string>
-	<string name="0xrxw6g7jq2v2h-n80_lfk7-0" mz="NpcInfoBnts">Backgrounds</string>
+	<string name="0xrxw6g7jq2v2h-n80_lfk7-0" mz="NpcInfoBnts">Planos de fundo</string>
 	<string name="0xrxw6g7jq2v2h-n80_lfk7-1" mz="NpcInfoBnts">Humor</string>
-	<string name="0xrxw6g7jq2v2h-n80_lfk7-2" mz="NpcInfoBnts">Status &amp; Health</string>
+	<string name="0xrxw6g7jq2v2h-n80_lfk7-2" mz="NpcInfoBnts">Status &amp; Saúde</string>
 	<string name="0xrxw6g7jq2v2h-n80_lfk7-3" mz="NpcInfoBnts">Lei &amp; Cultivo</string>
 	<string name="0xrxw6g7jq2v2h-n80_lfk7-4" mz="NpcInfoBnts">Items &amp; Equipamento</string>
-	<string name="0xrxw6g7jq2v2h-n80_lfk7-5" mz="NpcInfoBnts">Social Menu</string>
+	<string name="0xrxw6g7jq2v2h-n80_lfk7-5" mz="NpcInfoBnts">Menu social</string>
 	<string name="0xrxw6g7jq2v2h-n129_7xrw" mz="frame2">Stats</string>
 	<string name="0xrxw6g7jq2v2h-n135_7xrw" mz="frame22">Resistência Medicina</string>
 	<string name="0xrxw6g7jq2v2h-n139_i7ry" mz="frame23">Relacionamentos conhecidos</string>
@@ -1338,7 +1365,7 @@ Editor</string>
 	<string name="0xrxw6g7shy138-n292_b2ao-tips" mz="n292">Personagens com pouco sofrimento ganharão crenças mais rapidamente.</string>
 	<string name="0xrxw6g7shy138-n292_b2ao" mz="n292">Distress</string>
 	<string name="0xrxw6g7shy138-n293_b2ao-tips" mz="n293">Personagens com uma relíquia sagrada de alto nível ganharão crenças mais rapidamente.</string>
-	<string name="0xrxw6g7shy138-n293_b2ao" mz="n293">Sacred Relic</string>
+	<string name="0xrxw6g7shy138-n293_b2ao" mz="n293">Relíquia Sagrada</string>
 	<string name="0xrxw6g7shy138-n299_b2ao" mz="n299">Eficiência</string>
 	<string name="0xrxw6g7shy138-n203_tvk1-0" mz="FightPs">Ataque de artefatos +1234</string>
 	<string name="0xrxw6g7shy138-n203_tvk1-1" mz="FightPs">Artefatos Qi</string>
@@ -1590,19 +1617,19 @@ Editor</string>
 	<string name="0xrxw6g7lfk7a9-n86_lfk7" mz="n86">Idade</string>
 	<string name="0xrxw6g7lfk7a9-n87_lfk7-tips" mz="n87">Estimated Lifespan</string>
 	<string name="0xrxw6g7lfk7a9-n88_lfk7" mz="n88">Vida útil</string>
-	<string name="0xrxw6g7lfk7a9-n131_wczt-tips" mz="n131">Reflects a cultivator's overall ability. Characters with high Attainment have a more difficult time learning new abilities and they suffer from increasing Inspiration costs. Attainment is unavailable for the Law of Shendao.</string>
+	<string name="0xrxw6g7lfk7a9-n131_wczt-tips" mz="n131">Reflete a habilidade geral de um cultivador. Personagens com alto Conhecimento têm mais dificuldade em aprender novas habilidades e sofrem com o aumento dos custos de Inspiração. A obtenção não está disponível para a Lei de Shendao.</string>
 	<string name="0xrxw6g7lfk7a9-n132_wczt" mz="n132">Realização</string>
-	<string name="0xrxw6g7lfk7a9-n142_kr2v-tips" mz="n142">Yang Attainment
-The inspirations needed by learning fire and wood manuals is determined by Yang Attainment.
-The inspirations needed by learning metal and water manuals is determined by Yin Attainment.
-The inspirations needed by learning earth manuals is determined by the fewer between Yin and Yang Attainment.</string>
-	<string name="0xrxw6g7lfk7a9-n143_kr2v-tips" mz="n143">Yin Attainment
-The inpirations needed by learning fire and wood manuals is determined by Yang Attainment.
-The inpirations needed by learning metal and water manuals is determined by Yang Attainment.
-The inpirations needed by learning earth manuals is determined by the fewer between Yin and Yang Attainment.</string>
+	<string name="0xrxw6g7lfk7a9-n142_kr2v-tips" mz="n142">Realização de Yang
+As inspirações necessárias para aprender os manuais do fogo e da madeira são determinadas pela Realização Yang.
+As inspirações necessárias para aprender os manuais de metal e água são determinadas pelo Realização Yin.
+As inspirações necessárias para aprender os manuais da terra são determinadas pelo menos entre o Yin e o Yang..</string>
+	<string name="0xrxw6g7lfk7a9-n143_kr2v-tips" mz="n143">Realização de Yin
+As inspirações necessárias para aprender os manuais de fogo e madeira são determinadas pela Realização Yang.
+As inspirações necessárias para aprender os manuais de metal e água são determinadas pela Realização Yang.
+As inspirações necessárias para aprender os manuais da terra são determinadas pelo menor número entre Yin e Yang.</string>
 	<string name="0xrxw6g7qawp52ow2m-n0_qawp" mz="frame">Play Video</string>
-	<string name="0xrxw6g7qawp52ow2m-n2_qawp" mz="n2">Skip</string>
-	<string name="0xrxw6g7j6go52ow6z-n42_cuja" mz="n42">A private residence left by this realm's first-ever ascended immortal named Nangong, hidden inside the blessed abode between heaven and sea. Without the guidance of a secret path, nobody will be able to find this place.</string>
+	<string name="0xrxw6g7qawp52ow2m-n2_qawp" mz="n2">Ignorar</string>
+	<string name="0xrxw6g7j6go52ow6z-n42_cuja" mz="n42">Uma residência privada deixada pelo primeiro imortal ascendido deste reino chamado Nangong, escondido dentro da morada abençoada entre o céu e o mar. Sem a orientação de um caminho secreto, ninguém conseguirá encontrar este lugar.</string>
 	<string name="0xrxw6g7j6go52ow6z-n27_sz06" mz="n27">Confirmar</string>
 	<string name="0xrxw6g7j6go52ow6z-n35_sz06" mz="n35">Select:</string>
 	<string name="0xrxw6g7kqqp52ow7j-n22_kqqp" mz="n22">Nome</string>
@@ -1611,8 +1638,8 @@ The inpirations needed by learning earth manuals is determined by the fewer betw
 	<string name="0xrxw6g7tgna52ow7l-n2_l106" mz="n2">Nenhum</string>
 	<string name="0xrxw6g7kqqp52ow7i-n0_kqqp" mz="frame">Heaven Echo Altar</string>
 	<string name="0xrxw6g7kqqp52ow7i-n88_qg6y-tips" mz="n88">Copy Spirit Carve</string>
-	<string name="0xrxw6g7kqqp52ow7i-n91_jsv2" mz="n91">Please use [Invite] or [Random] to select a challenger.</string>
-	<string name="0xrxw6g7kqqp52ow7i-n48_kqqp-tips" mz="ruxuan">Unload current character
+	<string name="0xrxw6g7kqqp52ow7i-n91_jsv2" mz="n91">Use [Invite] ou [Random] para selecionar um desafiante.</string>
+	<string name="0xrxw6g7kqqp52ow7i-n48_kqqp-tips" mz="ruxuan">Baixar personagem atual
 	Summon, Heaven Echo, Compile can only be used after Heaven Link.</string>
 	<string name="0xrxw6g7kqqp52ow7i-n48_kqqp" mz="ruxuan">Heaven Link</string>
 	<string name="0xrxw6g7kqqp52ow7i-n48_kqqp-texts_0" mz="ruxuan">Summon</string>
@@ -1626,7 +1653,7 @@ The inpirations needed by learning earth manuals is determined by the fewer betw
 	<string name="0xrxw6g7kqqp52ow7i-n68_tgna" mz="n68">Open Heaven Echo</string>
 	<string name="0xrxw6g7kqqp52ow7i-n74_tgna-tips" mz="ningqu">Crystalize Spirit stones, gain spirit stones by battle.</string>
 	<string name="0xrxw6g7kqqp52ow7i-n74_tgna" mz="ningqu">Crystalize</string>
-	<string name="0xrxw6g7kqqp52ow7i-n75_tgna" mz="n75">After Heaven Echo opened, the Heaven Echo Altar will Crystalize some spirit stones periodically. You can gain spirit stones after winning battles with enemies.</string>
+	<string name="0xrxw6g7kqqp52ow7i-n75_tgna" mz="n75">Após a abertura do Heaven Echo, o Heaven Echo Altar cristalizará algumas pedras espirituais periodicamente. Você pode ganhar pedras espirituais depois de vencer batalhas com inimigos.</string>
 	<string name="0xrxw6g7kqqp52ow7i-n81_tgna-0" mz="n81">Tudo</string>
 	<string name="0xrxw6g7kqqp52ow7i-n81_tgna-1" mz="n81">Battle of Invitation</string>
 	<string name="0xrxw6g7kqqp52ow7i-n81_tgna-2" mz="n81">Battle of Random</string>
@@ -1639,10 +1666,10 @@ The inpirations needed by learning earth manuals is determined by the fewer betw
 	<string name="0xrxw6g7kqqp52ow7i-n9_kqqp-2" mz="Head">Heaven Echo</string>
 	<string name="0xrxw6g7kqqp52ow7i-n9_kqqp-3" mz="Head">Compile</string>
 	<string name="0xrxw6g7kqqp52ow7i-n95_qrlo-0" mz="NpcInfoBnts">Backgrounds</string>
-	<string name="0xrxw6g7kqqp52ow7i-n95_qrlo-1" mz="NpcInfoBnts">Status &amp; Health</string>
-	<string name="0xrxw6g7kqqp52ow7i-n95_qrlo-2" mz="NpcInfoBnts">Law &amp; Cultivation</string>
-	<string name="0xrxw6g7kqqp52ow7i-n95_qrlo-3" mz="NpcInfoBnts">Items &amp; Equipment</string>
-	<string name="0xrxw6g7iqn052ow6d-n0_jnqn" mz="frame">Select Dialogue</string>
+	<string name="0xrxw6g7kqqp52ow7i-n95_qrlo-1" mz="NpcInfoBnts">Status &amp; Saúde</string>
+	<string name="0xrxw6g7kqqp52ow7i-n95_qrlo-2" mz="NpcInfoBnts">Lei &amp; Cultivo</string>
+	<string name="0xrxw6g7kqqp52ow7i-n95_qrlo-3" mz="NpcInfoBnts">Items &amp; Equipamento</string>
+	<string name="0xrxw6g7iqn052ow6d-n0_jnqn" mz="frame">Selecione o diálogo</string>
 	<string name="0xrxw6g7iqn052ow6d-n2_jnqn" mz="n2">Confirmar</string>
 	<string name="0xrxw6g7iqn052ow6d-n3_jnqn" mz="n3">Cancelar</string>
 	<string name="0xrxw6g7jnqn52ow64-n177_jnqn" mz="frame">Edit Event</string>
@@ -1662,7 +1689,7 @@ The inpirations needed by learning earth manuals is determined by the fewer betw
 	<string name="0xrxw6g7low452ow60-n147_plhi-3" mz="n147">Test</string>
 	<string name="0xrxw6g7low452ow60-n151_p69w" mz="xtitle">System Callback</string>
 	<string name="0xrxw6g7low452ow60-n152_zpho" mz="ntitle">First Name</string>
-	<string name="0xrxw6g7low452ow60-n154_i6zz-tips" mz="n154">Selected stats will be modified in batch.</string>
+	<string name="0xrxw6g7low452ow60-n154_i6zz-tips" mz="n154">Estatísticas selecionadas serão modificadas em lote.</string>
 	<string name="0xrxw6g7wbb652ow6i-n11_wbb6" mz="frame">Adjust Character Facing</string>
 	<string name="0xrxw6g7wbb652ow6i-n13_wbb6" mz="n13">Face</string>
 	<string name="0xrxw6g7wbb652ow6i-n14_wbb6" mz="n14">Cancelar</string>
@@ -1684,7 +1711,7 @@ The inpirations needed by learning earth manuals is determined by the fewer betw
 	<string name="0xrxw6g7wtx752ow61-n174_o2ea-3" mz="box">Free</string>
 	<string name="0xrxw6g7wtx752ow61-n174_o2ea-4" mz="box">Run</string>
 	<string name="0xrxw6g7wtx752ow61-n160_o2ea" mz="title0">Display Name</string>
-	<string name="0xrxw6g7wtx752ow61-n178_tyhn-tips" mz="n178">After ticked, this action will become a default operation. When the interact button is pressed, if all the items selected only have this action, this action will happen.</string>
+	<string name="0xrxw6g7wtx752ow61-n178_tyhn-tips" mz="n178">Depois de marcada, esta ação se tornará uma operação padrão. Ao pressionar o botão de interação, se todos os itens selecionados tiverem apenas esta ação, esta ação acontecerá.</string>
 	<string name="0xrxw6g7wtx752ow61-n178_tyhn" mz="n178">Trigger Defaultly</string>
 	<string name="0xrxw6g7low452ow5z-n138_low4" mz="frame">Edit Target</string>
 	<string name="0xrxw6g7low452ow5z-n141_low4" mz="n141">Save</string>
@@ -1764,6 +1791,14 @@ The inpirations needed by learning earth manuals is determined by the fewer betw
 	<string name="0xrxw6g7h0gv2ovtu-n0_h0gv" mz="frame">Mini Universo</string>
 	<string name="0xrxw6g7h0gv2ovtu-n10_n5qm" mz="n10">Pesquisar</string>
 	<string name="0xrxw6g7stus2ovu6-n33_md4p" mz="frame">Maravilha</string>
+	<string name="0xrxw6g7h7v8ljrz37-n32_h6t6" mz="title">Sacrifice</string>
+	<string name="0xrxw6g7h7v8ljrz2d-n0_110u6" mz="frame">Beast Sacrifice</string>
+	<string name="0xrxw6g7h7v8ljrz2d-n18_110u6-tips" mz="n18">Offer the Sorrow of Ten Thousand Demons to the ancestors, praying for their blessings.
+Primary: Beast Blood x 5
+Advanced: Soul Pearl x 3</string>
+	<string name="0xrxw6g7h7v8ljrz2d-n26_h6t6" mz="n26">Beast Sacrifice</string>
+	<string name="0xrxw6g7h7v8ljrz2y-n4_w8yx" mz="title">Prism Lotus</string>
+	<string name="0xrxw6g7h7v8ljrz2y-n8_w8yx" mz="ok">OK</string>
 	<string name="0xrxw6g7jnqsljryq4-n137_faul" mz="input">Faça algum Barulho.</string>
 	<string name="0xrxw6g7jnqsljryq4-n139_w1mc-tips" mz="n16">Modificar Nome do Save</string>
 	<string name="0xrxw6g7tt0x52ow9l-n236_tt0x" mz="count">(Operational)</string>
@@ -1899,12 +1934,12 @@ The inpirations needed by learning earth manuals is determined by the fewer betw
 	<string name="0xrxw6g7jr2h3l-n145_shy1-texts_5" mz="n145">Tribulação</string>
 	<string name="0xrxw6g7jr2h3l-n145_shy1-texts_def" mz="n145">Avanço</string>
 	<string name="0xrxw6g7jr2h3l-n150_ihfi" mz="time">100s</string>
-	<string name="0xrxw6g7jr2h3l-n216_y0oq" mz="n216">Trib. Type:</string>
-	<string name="0xrxw6g7jr2h3l-n222_c2vz-tips" mz="n222">Adventure Progress</string>
-	<string name="0xrxw6g7jr2h3l-n223_v12h-tips" mz="n223">Embrace oblivion and ascend toward immortality.</string>
-	<string name="0xrxw6g7jr2h3l-n223_v12h" mz="n223">Ascender</string>
-	<string name="0xrxw6g7jr2h3l-n226_v12h-tips" mz="n226">Survived Tribulations The longer an accomplished cultivator chooses to remain in the physical plane, the more intense the thunders of tribulation will be.</string>
-	<string name="0xrxw6g7jr2h3l-n233_kr2v-tips" mz="n233">Switch Yin &amp; Yang</string>
+	<string name="0xrxw6g7jr2h3l-n216_y0oq" mz="n216">Tipo de Trib.:</string>
+	<string name="0xrxw6g7jr2h3l-n222_c2vz-tips" mz="n222">Progresso da Aventura</string>
+	<string name="0xrxw6g7jr2h3l-n223_v12h-tips" mz="n223">Abrace o esquecimento e ascenda em direção à imortalidade.</string>
+	<string name="0xrxw6g7jr2h3l-n223_v12h" mz="n223">Ascendente</string>
+	<string name="0xrxw6g7jr2h3l-n226_v12h-tips" mz="n226">Sobreviveu às Tribulações Quanto mais tempo um cultivador realizado escolhe permanecer no plano físico, mais intensos serão os trovões da tribulação.</string>
+	<string name="0xrxw6g7jr2h3l-n233_kr2v-tips" mz="n233">Trocar Yin & Yang</string>
 	<string name="0xrxw6g7pee8hb-n88_9fbe" mz="frame">Relatar Bug</string>
 	<string name="0xrxw6g7pee8hb-n97_pee8-prompt" mz="n97">Outras Info</string>
 	<string name="0xrxw6g7pee8hb-n99_pee8" mz="n99">Enviar</string>
@@ -2064,38 +2099,30 @@ Conquiste-os, ganhe sua fama!</string>
 	<string name="0xrxw6g77a6u3p-n102_wtx7" mz="n102">Aleatório</string>
 	<string name="0xrxw6g7fak9vnk-n88_9fbe" mz="frame">Classico</string>
 	<string name="0xrxw6g7fak9vnk-n127_fak9" mz="n127">Dificuldade</string>
-	<string name="0xrxw6g7fak9vnk-n152_qx12" mz="n152">Ritmo do
-jogo</string>
+	<string name="0xrxw6g7fak9vnk-n152_qx12" mz="n152">Ritmo do jogo</string>
 	<string name="0xrxw6g7fak9vnk-n160_qx12" mz="n160">Frequência de Eventos</string>
 	<string name="0xrxw6g7fak9vnk-n171_qx12" mz="n171">Ambiente</string>
 	<string name="0xrxw6g7fak9vnk-n172_qx12" mz="n172">Tamanho</string>
 	<string name="0xrxw6g7fak9vnk-n179_qx12-tips" mz="n35">Imortal apresenta a melhor experiência. A dificuldade não pode ser ajustada. Você tem apenas um slot de salvamento em um jogo Immortal. Seu jogo também salva automaticamente em intervalos fixos. Você pode verificar suas estatísticas e conquistas completas. Algumas dicas ficarão ocultas. Immortal testa sua compreensão do jogo até o limite. Este modo é projetado para verdadeiros Imortais!</string>
-	<string name="0xrxw6g7fak9vnk-n179_qx12" mz="n35">Immortal</string>
-	<string name="0xrxw6g7fak9vnk-n267_mvpf-tips" mz="n267">Alterar o ambiente do mapa</string>
+	<string name="0xrxw6g7fak9vnk-n179_qx12" mz="n35">Imortal</string>
+	<string name="0xrxw6g7fak9vnk-n267_mvpf-tips" mz="n267">Mudar o ambiente do mapa</string>
 	<string name="0xrxw6g7fak9vnk-n267_mvpf" mz="n267">Editar</string>
+	<string name="0xrxw6g7fak9vnk-n274_i3u6-tips" mz="n274">Com a regra celestial entrando no último período, tem se tornado muito mais caótico. Todos os tipos de fenômenos estranhos prevalecem. Para lidar com essas coisas incomuns, os cultivadores se armam até os dentes para continuar sua jornada imortal.</string>
+	<string name="0xrxw6g7fak9vnk-n275_i3u6" mz="n275">Caos Celestial</string>
 	<string name="0xrxw6g7fak9vnk-n175_qx12" mz="n175">Confirmar</string>
 	<string name="0xrxw6g7fak9vnk-n176_qx12" mz="n176">Cancelar</string>
-	<string name="0xrxw6g7fak9vnk-n178_qx12" mz="n178">Detalhes de Evento</string>
-	<string name="0xrxw6g7fak9vnk-n183_qx12-tips" mz="n183">Configurações dos detalhes do evento</string>
-	<string name="0xrxw6g7fak9vnk-n186_qx12-tips" mz="n186">Exportar código de compartilhamento</string>
+	<string name="0xrxw6g7fak9vnk-n178_qx12" mz="n178">Detalhes do Evento</string>
+	<string name="0xrxw6g7fak9vnk-n183_qx12-tips" mz="n183">Configurações de detalhes do evento</string>
+	<string name="0xrxw6g7fak9vnk-n186_qx12-tips" mz="n186">Exportar Código de Compartilhamento</string>
 	<string name="0xrxw6g7fak9vnk-n186_qx12" mz="n186">Exportar</string>
-	<string name="0xrxw6g7fak9vnk-n187_qx12-tips" mz="n187">Importar código de compartilhamento</string>
+	<string name="0xrxw6g7fak9vnk-n187_qx12-tips" mz="n187">Importar Código de Compartilhamento</string>
 	<string name="0xrxw6g7fak9vnk-n187_qx12" mz="n187">Importar</string>
-	<string name="0xrxw6g7fak9vnk-n193_sa5f" mz="n193">*Você pode aumentar a dificuldade do jogo a qualquer momento.</string>
+	<string name="0xrxw6g7fak9vnk-n193_sa5f" mz="n193">*Você pode aumentar a dificuldade do seu jogo a qualquer momento.</string>
 	<string name="0xrxw6g7fak9vnk-n219_t7f5" mz="n219">Imortal</string>
-	<string name="0xrxw6g7fak9vnk-n248_pikg-tips" mz="immortallevel">Título de Dificuldade Imortal</string>
+	<string name="0xrxw6g7fak9vnk-n248_pikg-tips" mz="immortallevel">Título da Dificuldade Imortal</string>
+	<string name="0xrxw6g7fak9vnk-n271_i3u6" mz="n271">Selecionar Tudo</string>
+	<string name="0xrxw6g7fak9vnk-n273_i3u6" mz="n273">Aleatório</string>
 	<string name="0xrxw6g7fak9vnk-n247_pikg-tips" mz="immortalpoint">O nível de dificuldade em Imortal.</string>
-	<string name="0xrxw6g7fak9vnk-n243_t7f5" mz="n243">Confirmar</string>
-	<string name="0xrxw6g7fak9vnk-n244_t7f5" mz="n244">Cancelar</string>
-	<string name="0xrxw6g7fak9vnk-n205_t7f5" mz="n205">Residência</string>
-	<string name="0xrxw6g7fak9vnk-n227_t7f5" mz="n227">Legacies</string>
-	<string name="0xrxw6g7fak9vnk-n231_t7f5" mz="n231">Monstros</string>
-	<string name="0xrxw6g7fak9vnk-n240_t7f5-tips" mz="n240">Mudar semente do Mapa</string>
-	<string name="0xrxw6g7fak9vnk-n242_t7f5" mz="n242">Semente do mapa</string>
-	<string name="0xrxw6g7fak9vnk-n263_i269-tips" mz="n263">Exportar código de compartilhamento</string>
-	<string name="0xrxw6g7fak9vnk-n263_i269" mz="n263">Exportar</string>
-	<string name="0xrxw6g7fak9vnk-n264_i269-tips" mz="n264">Importar código de compartilhamento</string>
-	<string name="0xrxw6g7fak9vnk-n264_i269" mz="n264">Importar</string>
 	<string name="0xrxw6g7el231y-n145_g5k3-tips" mz="maoback">Sair</string>
 	<string name="0xrxw6g7el231y-n145_g5k3" mz="maoback">Sair</string>
 	<string name="0xrxw6g7el231y-n5_snk1-0" mz="TopMenu">Debug</string>
@@ -2283,8 +2310,7 @@ jogo</string>
 	<string name="0xrxw6g7f4upcl-n115_vizc" mz="n115">Tela</string>
 	<string name="0xrxw6g7f4upcl-n116_ta1v" mz="n116">Você não pode alterar a resolução durante um jogo.</string>
 	<string name="0xrxw6g7f4upcl-n132_n7j0" mz="n132">BGM Cycle</string>
-	<string name="0xrxw6g7f4upcl-n136_bfm8" mz="n136">Organizar
-Discípulos</string>
+	<string name="0xrxw6g7f4upcl-n136_bfm8" mz="n136">Sort Disps</string>
 	<string name="0xrxw6g7f4upcl-n124_9jgj-tips" mz="n124">Renderização</string>
 	<string name="0xrxw6g7f4upcl-n124_9jgj" mz="n124">Gráficos</string>
 	<string name="0xrxw6g7f4upcl-n124_9jgj-0" mz="n124">Baixo</string>
@@ -2370,7 +2396,7 @@ Discípulos</string>
 	<string name="0xrxw6g7f4upcl-n158_emze" mz="n158">Unidade de temperatura</string>
 	<string name="0xrxw6g7f4upcl-n158_emze-0" mz="n158">℃(Celsius)</string>
 	<string name="0xrxw6g7f4upcl-n158_emze-1" mz="n158">℉(Fahrenheit)</string>
-	<string name="0xrxw6g7f4upcl-n156_r4gy" mz="n156">Idioma da
+	<string name="0xrxw6g7f4upcl-n156_r4gy" mz="n156">Idioma de
 Voz</string>
 	<string name="0xrxw6g7f4upcl-n159_emze" mz="n159">Unidade de temperatura</string>
 	<string name="0xrxw6g7f4upcl-n149_iiau-tips" mz="LagSelect">Idioma</string>
@@ -2444,8 +2470,8 @@ A inspiração necessária para aprender os manuais da Terra ou indefinidos é b
 	<string name="0xrxw6g7h1t8c1-n111_c0eg" mz="n111">Clique com o RMB para cancelar a seleção.</string>
 	<string name="0xrxw6g7h1t8c1-n113_c0eg" mz="n113">ALT</string>
 	<string name="0xrxw6g7h1t8c1-n114_c0eg" mz="n114">Mostrar nomes dos itens</string>
-	<string name="0xrxw6g7h1t8c1-n92_h1t8" mz="title">在游戏中，角色与大部分物品发生交互均是采用命令指定的方式。
-选择对应功能后根据屏幕提示选择正确的对象即可。</string>
+	<string name="0xrxw6g7h1t8c1-n92_h1t8" mz="title">No jogo, os personagens interagem com a maioria dos itens de maneira especificada por comando.
+Após selecionar a função correspondente, basta selecionar o objeto correto de acordo com as instruções na tela.</string>
 	<string name="0xrxw6g7h1t8c1-n93_h1t8" mz="n93">OK</string>
 	<string name="0xrxw6g7h1t8c1-n120_c0eg" mz="n120">Espaço</string>
 	<string name="0xrxw6g7h1t8c1-n121_c0eg" mz="n121">Q</string>
@@ -2455,7 +2481,7 @@ A inspiração necessária para aprender os manuais da Terra ou indefinidos é b
 	<string name="0xrxw6g7h1t8c1-n127_qc1e" mz="n127">Aumente a velocidade do jogo</string>
 	<string name="0xrxw6g7h1t8c1-n132_r5pu" mz="n132">Espaço</string>
 	<string name="0xrxw6g7h1t8c1-n133_r5pu" mz="n133">E</string>
-	<string name="0xrxw6g7h1t8c1-n135_r5pu" mz="n135">Move</string>
+	<string name="0xrxw6g7h1t8c1-n135_r5pu" mz="n135">Mover</string>
 	<string name="0xrxw6g7h1t8c1-n136_r5pu" mz="n136">Fly/Walk</string>
 	<string name="0xrxw6g7h1t8c1-n137_r5pu" mz="n137">Skill Release</string>
 	<string name="0xrxw6g7h1t8c1-n139_r5pu" mz="n139">W</string>
@@ -2583,7 +2609,7 @@ A inspiração necessária para aprender os manuais da Terra ou indefinidos é b
 	<string name="0xrxw6g7gyliovp8-n16_t23f-tips" mz="n16">Há mistérios desconectados.</string>
 	<string name="0xrxw6g7gyliovp8-n16_t23f" mz="n16">Broken</string>
 	<string name="0xrxw6g7gyliovp8-n18_j6o9-tips" mz="copy">Copiar Formação</string>
-	<string name="0xrxw6g7kw5sovq6-n61_pah4" mz="title">Move</string>
+	<string name="0xrxw6g7kw5sovq6-n61_pah4" mz="title">Mover</string>
 	<string name="0xrxw6g7gyliovp9-n5_fewy" mz="frame">Todos os planos para a formação atual</string>
 	<string name="0xrxw6g7gyliovp9-n6_fewy" mz="n6">Salvar</string>
 	<string name="0xrxw6g7gyliovp9-n7_fewy" mz="n7">Resetar</string>

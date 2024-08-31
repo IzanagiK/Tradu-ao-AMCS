@@ -1,25 +1,25 @@
 ﻿ID	Name	Desc	sParam1	sParam2
 ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:妖兽种族) (宝物:物品类型lable 权重:ID|ID.)  (角色:数据名字) (秘闻:随机秘闻ID|ID) (路人：行为描述)(动物进攻：种族)（精怪来临：精怪类型）	(路人：附加标记)（精怪来临：具体名称  用|隔开。必须要有种族）
-1	Clear	é um dia muito claro e brilhante, mas você não sabe quanto tempo vai durar.	SunnyDay	
-2	Cloudy	é um dia muito sombrio e nublado, mas você não sabe quanto tempo vai durar.	Overcast	
-3	Light Rain	Começou a chover levemente.	LightRain	
-4	Heavy Rain	Começou a chover forte.	HeavyRain	
-5	Thick Fog	Uma névoa espessa de repente começou a se formar.	DenseFog	
-6	Gloomy Mood	Um estranho humor sombrio começou a permear a seita.	Melancholy	
+1	Tempo bom	é um dia muito claro e brilhante, mas você não sabe quanto tempo vai durar.	SunnyDay	
+2	Nublado	é um dia muito sombrio e nublado, mas você não sabe quanto tempo vai durar.	Overcast	
+3	Chuva fraca	Começou a chover levemente.	LightRain	
+4	Chuva forte	Começou a chover forte.	HeavyRain	
+5	Névoa espessa	Uma névoa espessa de repente começou a se formar.	DenseFog	
+6	Neve fraca	Um estranho humor sombrio começou a permear a seita.	Melancholy	
 7	Romance	Um clima romântico começou a permear a seita.	Ambiguous	
-8	Irritation	As pessoas de toda a seita de repente começaram a ficar irritadas facilmente.	Impetuous	
-9	Hail	Começou a chover granizo. (Não implementado)	Impetuous	
-10	Rainy Season	A estação das chuvas começou.	MouldRains	
-11	Drought	A temporada de seca começou.	Drought	
-12	Rainstorm	Uma forte tempestade começou, e o Elemento Água através do céu e da terra esta extremamente ativo.	Rainstorm	
-13	Foehn Wind	Um vento seco e quente começou, e o Elemento Fogo através do céu e da terra esta extremamente ativo.	Fohn	
-14	Dust Storm	Uma tempestade de poeira está varrendo a terra, e o Elemento Terra através do céu e da terra esta extremamente ativo.	DustStorm	
-15	Qi Drought	Por razões desconhecidas, há uma seca de Qi através do céu e da terra.	LingRarefiedWave	
-16	Heat	O calor do verão está chegando, por isso será extremamente quente. Certifique-se de evitar a insolação.	HeatWave	
-17	Cold Winter	Um inverno frio está chegando, então o clima estará congelando. Certifique-se de se manter aquecido.	ColdWave	
-18	Polar Night	Uma estranha nuvem está cobrindo o sol. Vai demorar um pouco até que você possa ver a luz do sol novamente.	PermanentNight	
+8	Irritação	As pessoas de toda a seita de repente começaram a ficar irritadas facilmente.	Impetuous	
+9	Salve	Começou a chover granizo. (Não implementado)	Impetuous	
+10	Estação chuvosa	A estação das chuvas começou.	MouldRains	
+11	Seca	A temporada de seca começou.	Drought	
+12	Tempestade	Uma forte tempestade começou, e o Elemento Água através do céu e da terra esta extremamente ativo.	Rainstorm	
+13	Evento de Foeh	Um vento seco e quente começou, e o Elemento Fogo através do céu e da terra esta extremamente ativo.	Fohn	
+14	Tempestade de poeira	Uma tempestade de poeira está varrendo a terra, e o Elemento Terra através do céu e da terra esta extremamente ativo.	DustStorm	
+15	Seca de Qi	Por razões desconhecidas, há uma seca de Qi através do céu e da terra.	LingRarefiedWave	
+16	Calor	O calor do verão está chegando, por isso será extremamente quente. Certifique-se de evitar a insolação.	HeatWave	
+17	Inverno frio	Um inverno frio está chegando, então o clima estará congelando. Certifique-se de se manter aquecido.	ColdWave	
+18	Noite polar	Uma estranha nuvem está cobrindo o sol. Vai demorar um pouco até que você possa ver a luz do sol novamente.	PermanentNight	
 19	Miasma	Um ar nocivo está pairando sobre toda a área, e o Elemento Madeira através do céu e da terra esta extremamente ativo.	Miasma	
-20	Thunderstorm	Uma tempestade está se aproximando, e o Elemento Metal no céu e na terra está extremamente ativo.	LightningStorm	
+20	Tempestade	Uma tempestade está se aproximando, e o Elemento Metal no céu e na terra está extremamente ativo.	LightningStorm	
 21	Beast	Um Fei apareceu perto da área, e trouxe chuva contínua e doenças.	Fei	
 22	Beast	Um Lushu apareceu perto da área, e trouxe um tempo claro e uma atmosfera auspiciosa.	Lushu	
 23	Strange Little Elf	Um grupo de pequenas feras do Outro Mundo estavam vagando com tesouros quando passaram por sua seita. Essas feras são muito tímidas, mas os dois reinos têm regras diferentes, então os métodos comuns usados pelos cultivadores não podem afetá-los, e esses carinhas costumam se revoltar pelo mundo. Para obter os tesouros deles, você precisa pensar em outra coisa.	Lushu	
@@ -128,16 +128,16 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 1000	Dragon Passing By			Item_DragonShit|Item_DragonScale
 1001	Burst of Qi			
 1002	Phoenix Passing By			Item_BossFeng_HuoYu
-10000	Establishment	Vivemos em reclusão aqui, tentando recomeçar nosso cultivo. Nós também estabelecemos uma pequena seita própria. Será este o início de uma nova lenda?\n\n[color=#D06508]Decorações desbloqueadas.\nDesbloqueou mais construções.[/color]	FoundOrganization1	
-10001	Famous	Nossa seita foi ganhando fama aos poucos, o que não foi uma tarefa fácil. Vamos continuar se esforçando para construção de uma grande seita.\n\n[color=#D06508]A população máxima da seita foi aumentada.[/color]	FoundOrganization2	
-10002	Eminent	Nossa seita ganhou sua eminência no mundo dos cultivadores. Tornou-se um santuário de prática que todos sonham em ingressar.\n\n[color=#D06508]A população máxima da seita foi aumentada.\nVocê pode configurar um novo ramo através da Estrutura da Seita.	FoundOrganization3	
-10003	A New Leader	[NAME] tornou-se nosso líder da seita. Este definitivamente vai levar todos nós à imortalidade.		
+10000	Establishment	We live in seclusion here, trying to restart our cultivation. We also established a little sect of our own. Will this be the beginning of a new legend?\n\n[color=#D06508]Unlocked decorations.\nUnlocked more buildings.[/color]	FoundOrganization1	
+10001	Famous	Our sect has gradually earned its fame, which is not an easy task. Let's continue building it into a larger sect.\n\n[color=#D06508]The maximum population of the sect has been raised.[/color]	FoundOrganization2	
+10002	Eminent	Our sect has gained its eminence in the world of cultivators. It has become a sanctum of practice that everyone dreams of joining.\n\n[color=#D06508]The maximum population of the sect has been raised.\nYou can set up a new branch through Sect Structure.	FoundOrganization3	
+10003	A New Leader	[NAME] has become our sect leader. This one definitely will lead all of us into immortality.		
 10004	Lack of Leader	Precisamos de alguém para ser nosso líder de seita.\n[color=#D06508]Você pode escolher um líder de seita [Sect Structure] no menu Seita.[/color]		
 10005	Recommended Disciple	O discípulo recomendado está quase chegando.		
 10006	Escape the Unrest	Porque você escapou com pressa, você não trouxe muitos recursos com você. Você está fugindo há alguns dias, e isso consumiu quase toda a sua energia.\nSem outra opção, você tem que ficar aqui e se recuperar por enquanto.	BaseExpect1	
-10007	Settled	A fogueira quente ajudou a aliviar sua tensão e desconforto. Após uma breve discussão, você decidiu que estava longe o suficiente do perigo, então deveria montar um acampamento temporário aqui.\n\n[color=#D06508]Unlocked Structural Building\nUnlocked Basic Furniture\nUnlocked Basic Work Stations\nUnlocked Floorboard and Roof[/color]	BaseExpect2	
+10007	Settled	A fogueira quente ajudou a aliviar sua tensão e desconforto. Após uma breve discussão, você decidiu que estava longe o suficiente do perigo, então deveria montar um acampamento temporário aqui.\n\n[color=#D06508]Edifício Estrutural Desbloqueado\Mobília Básica Desbloqueada\Estações de Trabalho Básicas Desbloqueadas\nPiso e Telhado Desbloqueados[/color]	BaseExpect2	
 10008	Contented	Embora você ainda estivesse sofrendo com a perda de seus discípulos e mestres mais antigos, você gradualmente se acalmou. Percebendo que este é um lugar muito isolado e aqueles que o perseguiam pareciam ter desistido, você decidiu morar aqui depois de uma pequena discussão.\n\n[color=#D06508][/color]		
-10009	A New Home	Parece que você se acostumou com a vida por aqui. Embora não seja tão tranquilizador quanto quando você ainda estava na antiga seita, a vida aqui ainda é auto-suficiente o suficiente. Por que isso também não pode ser uma forma de cultivo?\nEste é um novo lar em meio a todo o caos e agitação. Será um bom começo também? Todos estão cheios de esperança.\n\n[color=#D06508]Unlocked Advanced Furniture\nUnlocked Advanced Work Stations[/color]	BaseExpect3	
+10009	A New Home	Parece que você se acostumou com a vida por aqui. Embora não seja tão tranquilizador quanto quando você ainda estava na antiga seita, a vida aqui ainda é auto-suficiente o suficiente. Por que isso também não pode ser uma forma de cultivo?\nEste é um novo lar em meio a todo o caos e agitação. Será um bom começo também? Todos estão cheios de esperança.\n\n[color=#D06508]Móveis Avançados Desbloqueados\nEstações de Trabalho Avançadas Desbloqueadas[/color]	BaseExpect3	
 10010	Escaped Outer Disciple	Seu discípulo externo [NAME] escapou durante a noite porque [IT] não aguenta mais viver aqui.		
 10011	Cultivator Again	Alguém entre nós rompeu!\nEle pode sentir de repente a forte energia entre o céu e a terra: \nQi.\nA porta do cultivo finalmente se abriu para nós.\n\n[color=#D06508]Qi tornou-se visível.\nVocê pode estabelecer uma seita agora.[/color]		
 10012	Departure	Eu não sei o que fiz de errado, mas já que você perguntou, eu vou seguir meu caminho. Obrigado a todos pela gentileza nestes últimos dias.\n[TXT] Estou feliz por ter morado e trabalhado com você.		

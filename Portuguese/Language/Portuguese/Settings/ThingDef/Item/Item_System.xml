@@ -20,6 +20,10 @@
 			<ThingName>Lavish Meal</ThingName>
 			<Desc>Uma refeição luxuosa que só pode ser realizada com excelentes habilidades culinárias e ingredientes requintados, tem um sabor extremamente delicioso.</Desc>
 		</Text>
+		<Text Name="Item_WuHuangDan" sParam="Item">
+			<ThingName>Ovo sem gema</ThingName>
+			<Desc>Um prato misterioso e muito saboroso, diz-se que em alguns lugares é um bom presente para dar a amigos e familiares. Consumir pode diretamente construir a base, e aumentar permanentemente 20% da constituição, este efeito é válido apenas na primeira vez que é consumido.</Desc>
+		</Text>
 		<Text Name="Item_GuanyinMud" sParam="Item">
 			<ThingName>Guanyin Clay</ThingName>
 			<Desc>Uma espécie de argila branca que é considerada uma alternativa à alimentação em tempos de desespero.</Desc>
@@ -176,7 +180,7 @@
 			<Desc>Um presente do mestre ancestral, com um tesouro muito apreciado dentro.</Desc>
 			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Open Gift of the Master.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Presente aberto do Mestre.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_SuoYingZhiJuan" sParam="Item">
 			<ThingName>Atlas of Creatures</ThingName>
@@ -389,6 +393,13 @@
 			<ThingName>Cage</ThingName>
 			<Desc>Dentro da jaula há um animal no Estado do Despertar.</Desc>
 			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_ChunYangWuJiGong" sParam="Item">
+			<ThingName>Habilidade Pure Yang Wuji</ThingName>
+			<Desc>O segredo não revelado da Seita Wudang, é o seu método de habilidade interna mais elevado. Este livro secreto tem dois métodos de refinamento: a prática correta pode aumentar fundamentalmente o limite superior da energia espiritual, e a prática reversa pode reduzir o Taoísmo, mas causará ferimentos internos no Dantian. Os praticantes podem escolher um para praticar.</Desc>
+			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Compreender o livro secreto</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

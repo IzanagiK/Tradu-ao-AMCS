@@ -1,19 +1,19 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="LsCalmHeart">
-			<DisplayName>Peaceful Breath</DisplayName>
-			<Desc>Use on an ally character so that they won't need food, water or sleep for 3 days, but their movement will become slow.</Desc>
-			<TargetDesc>Select an ally.</TargetDesc>
+			<DisplayName>Respiração Pacífica</DisplayName>
+			<Desc>Use em um personagem aliado para que eles não precisem de comida, água ou sono por 3 dias, mas seus movimentos ficarão lentos.</Desc>
+			<TargetDesc>Selecione um aliado.</TargetDesc>
 		</Text>
 		<Text Name="LsShapeshift">
-			<DisplayName>Heavenly Block</DisplayName>
-			<Desc>Delays an ally character's Shapeshifting Tribulation at the cost of their lifespan.</Desc>
-			<TargetDesc>Select an ally who has the shapeshifting tribulation.</TargetDesc>
+			<DisplayName>Bloqueio Celestial</DisplayName>
+			<Desc>Atrasa a Tribulação de Mudança de Forma de um personagem aliado ao custo de sua vida útil.</Desc>
+			<TargetDesc>Selecione um aliado que tenha a tribulação de mudança de forma.</TargetDesc>
 		</Text>
 		<Text Name="LsLingWater">
-			<DisplayName>Natural Soil</DisplayName>
-			<Desc>Turns an area into Spirit Soil at the cost of their own growth and nutrition. However, water nearby will all become normal water.</Desc>
-			<TargetDesc>Select an empty area on the ground.</TargetDesc>
+			<DisplayName>Solo Natura</DisplayName>
+			<Desc>Transforma uma área em Solo Espiritual ao custo de seu próprio crescimento e nutrição. No entanto, a água nas proximidades se tornará água normal.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
 		</Text>
 	</List>
 </Texts>

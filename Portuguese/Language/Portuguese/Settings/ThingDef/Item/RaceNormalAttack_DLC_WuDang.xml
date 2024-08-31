@@ -14,5 +14,18 @@
 			<Item.Equip.AtkDamage.2.DescTags>Fervent Dragon</Item.Equip.AtkDamage.2.DescTags>
 			<Item.Equip.AtkDamage.3.DescTags>Fervent Dragon</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
+		<Text Name="WuDangYa_NormalAttack" sParam="Item">
+			<ThingName>Ataque do Pato Wudang</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Estilo da Espada Wuji</Item.Equip.AtkDamage.0.DescTags>
+			<Item.Equip.AtkDamage.1.DescTags>Energia da Espada Shaoyang Precoce</Item.Equip.AtkDamage.1.DescTags>
+			<Item.Equip.AtkDamage.2.DescTags>Estilo da Espada Wuji</Item.Equip.AtkDamage.2.DescTags>
+			<Item.Equip.AtkDamage.3.DescTags>Qi da Espada Shaoyang Inata</Item.Equip.AtkDamage.3.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Punho do Verdadeiro Qi Ziyang</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.5.DescTags>Tai Chi Chuan</Item.Equip.AtkDamage.5.DescTags>
+			<Item.Equip.AtkDamage.6.DescTags>Varredura Divina Xuankong</Item.Equip.AtkDamage.6.DescTags>
+			<Item.Equip.AtkDamage.7.DescTags>Punho do Verdadeiro Qi Ziyang</Item.Equip.AtkDamage.7.DescTags>
+			<Item.Equip.AtkDamage.8.DescTags>Tai Chi Chuan</Item.Equip.AtkDamage.8.DescTags>
+			<Item.Equip.AtkDamage.9.DescTags>Varredura Divina Xuankong</Item.Equip.AtkDamage.9.DescTags>
+		</Text>
 	</List>
 </Texts>

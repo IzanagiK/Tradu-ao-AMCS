@@ -113,7 +113,7 @@
 		</Text>
 		<Text Name="bamen_ji">
 			<DisplayName>Abyssal Sword Formation: Auspicious</DisplayName>
-			<Description>It is said to be a formation used according to the rules of the Eight Trigram Gates. Enhances protection ability of the formation by utilizing the Gate of Life.</Description>
+			<Description>Diz-se que é uma formação usada de acordo com as regras dos Oito Portais do Trigrama. Aumenta a capacidade de proteção da formação utilizando o Portão da Vida.</Description>
 			<NodeName.0>Openness</NodeName.0>
 			<NodeName.1>Rest</NodeName.1>
 			<NodeName.2>Life</NodeName.2>
@@ -121,7 +121,7 @@
 		</Text>
 		<Text Name="bamen_xiong">
 			<DisplayName>Abyssal Sword Formation: Ominous</DisplayName>
-			<Description>It is said to be a formation used according to the rules of the Eight Trigram Gates. Enhances artifact mastery ability of the formation by utilizing the Gate of Death.</Description>
+			<Description>Diz-se que é uma formação usada de acordo com as regras dos Oito Portais do Trigrama. Aprimora a capacidade de domínio do artefato da formação, utilizando o Portão da Morte.</Description>
 			<NodeName.0>Death</NodeName.0>
 			<NodeName.1>Menace</NodeName.1>
 			<NodeName.2>Damage</NodeName.2>
@@ -129,14 +129,14 @@
 		</Text>
 		<Text Name="bamen_zhong">
 			<DisplayName>Abyssal Sword Formation: Central</DisplayName>
-			<Description>It is said to be a formation used according to the rules of the Eight Trigram Gates, making the formation more compact.</Description>
+			<Description>Diz-se que é uma formação usada de acordo com as regras dos Oito Portais do Trigrama, tornando a formação mais compacta.</Description>
 			<NodeName.0>Seclusion</NodeName.0>
 			<NodeName.1>Beauty</NodeName.1>
 			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="jiayimushenzhen">
 			<DisplayName>Wood Spirit Formation</DisplayName>
-			<Description>Formed by concentrating the essence of the Primordial Eastern Wood Spirit, it is said to be a formation capable of awakening the Qi of vitality of both Heaven and Earth, rejuvenating all living things.</Description>
+			<Description>Formado pela concentração da essência do Espírito Primordial da Madeira Oriental, é dito ser uma formação capaz de despertar o Qi da vitalidade tanto do Céu quanto da Terra, rejuvenescendo todos os seres vivos.</Description>
 			<NodeName.0>Spirit Tree Crown</NodeName.0>
 			<NodeName.1>Spirit Tree Branch</NodeName.1>
 			<NodeName.2>Spirit Tree Leaf</NodeName.2>
