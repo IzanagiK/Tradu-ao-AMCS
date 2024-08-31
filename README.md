@@ -96,7 +96,7 @@ README.md
 
 é muito simples nos ajudar, entre em nosso grupo no discord e envie ***print screen*** de erros encontrados em jogo.
 
-[![N|Solid](https://img.icons8.com/clouds/200/discord-new-logo.png)](https://discord.gg/DmXEkbBcg6)
+[![N|Solid](https://img.icons8.com/clouds/200/discord-new-logo.png)](https://discord.gg/2qwcPWpB9u)
 
    [dill]: <https://github.com/joemccann/dillinger>
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>

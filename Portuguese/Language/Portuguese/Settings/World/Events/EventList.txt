@@ -1,25 +1,25 @@
 ﻿ID	Name	Desc	sParam1	sParam2
 ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:妖兽种族) (宝物:物品类型lable 权重:ID|ID.)  (角色:数据名字) (秘闻:随机秘闻ID|ID) (路人：行为描述)(动物进攻：种族)（精怪来临：精怪类型）	(路人：附加标记)（精怪来临：具体名称  用|隔开。必须要有种族）
-1	Clear	é um dia muito claro e brilhante, mas você não sabe quanto tempo vai durar.	SunnyDay	
-2	Cloudy	é um dia muito sombrio e nublado, mas você não sabe quanto tempo vai durar.	Overcast	
-3	Light Rain	Começou a chover levemente.	LightRain	
-4	Heavy Rain	Começou a chover forte.	HeavyRain	
-5	Thick Fog	Uma névoa espessa de repente começou a se formar.	DenseFog	
-6	Gloomy Mood	Um estranho humor sombrio começou a permear a seita.	Melancholy	
+1	Tempo bom	é um dia muito claro e brilhante, mas você não sabe quanto tempo vai durar.	SunnyDay	
+2	Nublado	é um dia muito sombrio e nublado, mas você não sabe quanto tempo vai durar.	Overcast	
+3	Chuva fraca	Começou a chover levemente.	LightRain	
+4	Chuva forte	Começou a chover forte.	HeavyRain	
+5	Névoa espessa	Uma névoa espessa de repente começou a se formar.	DenseFog	
+6	Neve fraca	Um estranho humor sombrio começou a permear a seita.	Melancholy	
 7	Romance	Um clima romântico começou a permear a seita.	Ambiguous	
-8	Irritation	As pessoas de toda a seita de repente começaram a ficar irritadas facilmente.	Impetuous	
-9	Hail	Começou a chover granizo. (Não implementado)	Impetuous	
-10	Rainy Season	A estação das chuvas começou.	MouldRains	
-11	Drought	A temporada de seca começou.	Drought	
-12	Rainstorm	Uma forte tempestade começou, e o Elemento Água através do céu e da terra esta extremamente ativo.	Rainstorm	
-13	Foehn Wind	Um vento seco e quente começou, e o Elemento Fogo através do céu e da terra esta extremamente ativo.	Fohn	
-14	Dust Storm	Uma tempestade de poeira está varrendo a terra, e o Elemento Terra através do céu e da terra esta extremamente ativo.	DustStorm	
-15	Qi Drought	Por razões desconhecidas, há uma seca de Qi através do céu e da terra.	LingRarefiedWave	
-16	Heat	O calor do verão está chegando, por isso será extremamente quente. Certifique-se de evitar a insolação.	HeatWave	
-17	Cold Winter	Um inverno frio está chegando, então o clima estará congelando. Certifique-se de se manter aquecido.	ColdWave	
-18	Polar Night	Uma estranha nuvem está cobrindo o sol. Vai demorar um pouco até que você possa ver a luz do sol novamente.	PermanentNight	
+8	Irritação	As pessoas de toda a seita de repente começaram a ficar irritadas facilmente.	Impetuous	
+9	Salve	Começou a chover granizo. (Não implementado)	Impetuous	
+10	Estação chuvosa	A estação das chuvas começou.	MouldRains	
+11	Seca	A temporada de seca começou.	Drought	
+12	Tempestade	Uma forte tempestade começou, e o Elemento Água através do céu e da terra esta extremamente ativo.	Rainstorm	
+13	Evento de Foeh	Um vento seco e quente começou, e o Elemento Fogo através do céu e da terra esta extremamente ativo.	Fohn	
+14	Tempestade de poeira	Uma tempestade de poeira está varrendo a terra, e o Elemento Terra através do céu e da terra esta extremamente ativo.	DustStorm	
+15	Seca de Qi	Por razões desconhecidas, há uma seca de Qi através do céu e da terra.	LingRarefiedWave	
+16	Calor	O calor do verão está chegando, por isso será extremamente quente. Certifique-se de evitar a insolação.	HeatWave	
+17	Inverno frio	Um inverno frio está chegando, então o clima estará congelando. Certifique-se de se manter aquecido.	ColdWave	
+18	Noite polar	Uma estranha nuvem está cobrindo o sol. Vai demorar um pouco até que você possa ver a luz do sol novamente.	PermanentNight	
 19	Miasma	Um ar nocivo está pairando sobre toda a área, e o Elemento Madeira através do céu e da terra esta extremamente ativo.	Miasma	
-20	Thunderstorm	Uma tempestade está se aproximando, e o Elemento Metal no céu e na terra está extremamente ativo.	LightningStorm	
+20	Tempestade	Uma tempestade está se aproximando, e o Elemento Metal no céu e na terra está extremamente ativo.	LightningStorm	
 21	Beast	Um Fei apareceu perto da área, e trouxe chuva contínua e doenças.	Fei	
 22	Beast	Um Lushu apareceu perto da área, e trouxe um tempo claro e uma atmosfera auspiciosa.	Lushu	
 23	Strange Little Elf	Um grupo de pequenas feras do Outro Mundo estavam vagando com tesouros quando passaram por sua seita. Essas feras são muito tímidas, mas os dois reinos têm regras diferentes, então os métodos comuns usados pelos cultivadores não podem afetá-los, e esses carinhas costumam se revoltar pelo mundo. Para obter os tesouros deles, você precisa pensar em outra coisa.	Lushu	
