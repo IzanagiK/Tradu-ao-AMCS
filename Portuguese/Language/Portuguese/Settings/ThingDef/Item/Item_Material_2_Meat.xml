@@ -1,90 +1,90 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="MeatBase" sParam="Item">
-			<Item.FabaoSuffix>Meatstew, Tablecloth, Lump</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ensopado de Carne, Toalha de Mesa, Pedaço</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BoarMeat" sParam="Item">
-			<ThingName>Boar Meat</ThingName>
+			<ThingName>Carne de Javali</ThingName>
 			<Desc>Carne de javali.</Desc>
 		</Text>
 		<Text Name="Item_FrogMeat" sParam="Item">
-			<ThingName>Frog Meat</ThingName>
+			<ThingName>Carne de Sapo</ThingName>
 			<Desc>Carne de sapo.</Desc>
 		</Text>
 		<Text Name="Item_TurtleMeat" sParam="Item">
-			<ThingName>Turtle Meat</ThingName>
+			<ThingName>Carne de Tartaruga</ThingName>
 			<Desc>Carne de tartaruga.</Desc>
 		</Text>
 		<Text Name="Item_BearMeat" sParam="Item">
-			<ThingName>Bear Meat</ThingName>
+			<ThingName>Carne de Urso</ThingName>
 			<Desc>Carne de urso.</Desc>
 		</Text>
 		<Text Name="Item_Beef" sParam="Item">
-			<ThingName>Bull Meat</ThingName>
+			<ThingName>Carne de Touro</ThingName>
 			<Desc>Carne.</Desc>
 		</Text>
 		<Text Name="Item_RabbitMeat" sParam="Item">
-			<ThingName>Rabbit Meat</ThingName>
+			<ThingName>Carne de Coelho</ThingName>
 			<Desc>Carne de coelho.</Desc>
 		</Text>
 		<Text Name="Item_ChickenMeat" sParam="Item">
-			<ThingName>Chicken</ThingName>
+			<ThingName>Frango</ThingName>
 			<Desc>Carne de frango.</Desc>
 		</Text>
 		<Text Name="Item_WolfMeat" sParam="Item">
-			<ThingName>Wolf Meat</ThingName>
+			<ThingName>Carne de Lobo</ThingName>
 			<Desc>Carne de lobo.</Desc>
 		</Text>
 		<Text Name="Item_FishMeat" sParam="Item">
-			<ThingName>Fish</ThingName>
+			<ThingName>Peixe</ThingName>
 			<Desc>Carne de peixe.</Desc>
 		</Text>
 		<Text Name="Item_SnakeMeat" sParam="Item">
-			<ThingName>Snake Meat</ThingName>
+			<ThingName>Carne de Cobra</ThingName>
 			<Desc>Carne de cobra.</Desc>
 		</Text>
 		<Text Name="Item_CatMeat" sParam="Item">
-			<ThingName>Cat Meat</ThingName>
+			<ThingName>Carne de Gato</ThingName>
 			<Desc>A carne de um gato.</Desc>
 		</Text>
 		<Text Name="Item_TigerMeat" sParam="Item">
-			<ThingName>Tiger Meat</ThingName>
+			<ThingName>Carne de Tigre</ThingName>
 			<Desc>A carne de um tigre.</Desc>
 		</Text>
 		<Text Name="Item_ChickenEgg" sParam="Item">
-			<ThingName>Chicken Egg</ThingName>
+			<ThingName>Ovo de Galinha</ThingName>
 			<Desc>Um ovo de galinha.</Desc>
-			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ovo, Pérola, Bola, Ovos</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SnakeEgg" sParam="Item">
-			<ThingName>Snake Egg</ThingName>
+			<ThingName>Ovo de Cobra</ThingName>
 			<Desc>Um ovo de cobra.</Desc>
-			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ovo, Pérola, Bola, Ovos</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_TurtleEgg" sParam="Item">
-			<ThingName>Turtle Egg</ThingName>
+			<ThingName>Ovo de Tartaruga</ThingName>
 			<Desc>Um ovo de tartaruga.</Desc>
-			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ovo, Pérola, Bola, Ovos</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LongEgg" sParam="Item">
-			<ThingName>Flood Dragon Egg</ThingName>
+			<ThingName>Ovo do Dragão da Inundação</ThingName>
 			<Desc>Ovo não chocado do Dragão da Inundação; mostra sinais óbvios de vida. Para chocar o ovo, ele deve estar em um local com temperatura abaixo de -200 graus, extremamente rico em Qi e muito propício ao elemento Água.</Desc>
-			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ovo, Pérola, Bola, Ovos</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FengEgg" sParam="Item">
-			<ThingName>Phoenix Egg</ThingName>
+			<ThingName>Ovo de Fênix</ThingName>
 			<Desc>Ovo de uma fênix que ainda não eclodiu, dentro dele há sinais óbvios de vida. Para chocar o ovo, ele deve estar em um local com temperatura acima de 300 graus, extremamente rico em Qi e muito propício ao elemento Fogo.</Desc>
-			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ovo, Pérola, Bola, Ovos</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FengEggChange" sParam="Item">
-			<ThingName>Phoenix Egg</ThingName>
+			<ThingName>Ovo de Fênix</ThingName>
 			<Desc>Despertando...</Desc>
-			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ovo, Pérola, Bola, Ovos</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_JiaolongChange" sParam="Item">
-			<ThingName>Flood Dragon Egg</ThingName>
-			<Desc>Despertando...</Desc>>
-			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
+			<ThingName>Ovo do Dragão da Inundação</ThingName>
+			<Desc>Despertando...</Desc>
+			<Item.FabaoSuffix>Ovo, Pérola, Bola, Ovos</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>

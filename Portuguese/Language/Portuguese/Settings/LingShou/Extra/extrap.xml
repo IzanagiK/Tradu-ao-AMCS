@@ -1,51 +1,51 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Fat">
-			<RaceExtra.0.Lv.0.SName>Skinny</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.SName>Magro</RaceExtra.0.Lv.0.SName>
 			<RaceExtra.0.Lv.0.Desc>Parece extremamente magro.  A velocidade de movimento é aumentada significativamente.</RaceExtra.0.Lv.0.Desc>
-			<RaceExtra.0.Lv.1.SName>Skinny</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.SName>Magro</RaceExtra.0.Lv.1.SName>
 			<RaceExtra.0.Lv.1.Desc>Parece um pouco magro.  A Velocidade de Movimento é ligeiramente aumentada.</RaceExtra.0.Lv.1.Desc>
-			<RaceExtra.0.Lv.2.SName>Well-proportioned</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.SName>Bem proporcionado</RaceExtra.0.Lv.2.SName>
 			<RaceExtra.0.Lv.2.Desc>Nem acima do peso, nem abaixo do peso.</RaceExtra.0.Lv.2.Desc>
-			<RaceExtra.0.Lv.3.SName>Plump</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.SName>Gordinho</RaceExtra.0.Lv.3.SName>
 			<RaceExtra.0.Lv.3.Desc>Parece que alguns quilos estão sendo acumulados.  Max Qi aumentou ligeiramente, mas a Velocidade de Movimento também diminuiu.</RaceExtra.0.Lv.3.Desc>
-			<RaceExtra.0.Lv.4.SName>Corpulent</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.SName>Corpulento</RaceExtra.0.Lv.4.SName>
 			<RaceExtra.0.Lv.4.Desc>Parece que a obesidade se instalou. Max Qi aumentou significativamente, mas a Velocidade de Movimento também diminuiu significativamente.</RaceExtra.0.Lv.4.Desc>
 		</Text>
 		<Text Name="Stronger">
-			<RaceExtra.0.Lv.0.SName>Bony</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.SName>Esquelético</RaceExtra.0.Lv.0.SName>
 			<RaceExtra.0.Lv.0.Desc>Pele e ossos, músculos são difíceis de encontrar, mas o Tempo de Recarga de Feitiços diminuiu significativamente.</RaceExtra.0.Lv.0.Desc>
-			<RaceExtra.0.Lv.1.SName>Bony</RaceExtra.0.Lv.1.SName>
-			<RaceExtra.0.Lv.1.Desc>Não há muito músculo nesses ossos, mas o Spell Cooldown diminuiu um pouco como resultado.</RaceExtra.0.Lv.1.Desc>
-			<RaceExtra.0.Lv.2.SName>Average</RaceExtra.0.Lv.2.SName>
-			<RaceExtra.0.Lv.2.Desc>Não forte, mas também não ossuda.</RaceExtra.0.Lv.2.Desc>
-			<RaceExtra.0.Lv.3.SName>Strong</RaceExtra.0.Lv.3.SName>
-			<RaceExtra.0.Lv.3.Desc>Parece estar em boa forma, o Internal Core se beneficiou um pouco.</RaceExtra.0.Lv.3.Desc>
-			<RaceExtra.0.Lv.4.SName>Healthy</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.1.SName>Esquelético</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Não há muito músculo nesses ossos, mas o Tempo de Recarga de Feitiços diminuiu um pouco como resultado.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Médio</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Não forte, mas também não esquelético.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Forte</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Parece estar em boa forma, o Núcleo Interno se beneficiou um pouco.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Saudável</RaceExtra.0.Lv.4.SName>
 			<RaceExtra.0.Lv.4.Desc>Parece extremamente saudável, com bom físico.  O Núcleo Interno se beneficiou significativamente.</RaceExtra.0.Lv.4.Desc>
 		</Text>
 		<Text Name="Justice">
-			<RaceExtra.0.Lv.0.SName>Major Curse</RaceExtra.0.Lv.0.SName>
-			<RaceExtra.0.Lv.0.Desc>Major Curse: Diminui significativamente o poder de barreira, enquanto aumenta significativamente o poder de feitiço e o poder de ataque principal.</RaceExtra.0.Lv.0.Desc>
-			<RaceExtra.0.Lv.1.SName>Moderate Curse</RaceExtra.0.Lv.1.SName>
-			<RaceExtra.0.Lv.1.Desc>Moderate Curse: Diminui ligeiramente o poder de barreira, enquanto aumenta ligeiramente o poder de feitiço e o poder de ataque principal.</RaceExtra.0.Lv.1.Desc>
-			<RaceExtra.0.Lv.2.SName>Neutral</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.0.SName>Grande Maldição</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Grande Maldição: Diminui significativamente o poder de barreira, enquanto aumenta significativamente o poder de feitiço e o poder de ataque principal.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Maldição Moderada</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Maldição Moderada: Diminui ligeiramente o poder de barreira, enquanto aumenta ligeiramente o poder de feitiço e o poder de ataque principal.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Neutro</RaceExtra.0.Lv.2.SName>
 			<RaceExtra.0.Lv.2.Desc>Não parece ser visivelmente abençoado ou amaldiçoado.</RaceExtra.0.Lv.2.Desc>
-			<RaceExtra.0.Lv.3.SName>Moderate Blessing</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.SName>Bênção Moderada</RaceExtra.0.Lv.3.SName>
 			<RaceExtra.0.Lv.3.Desc>Ligeiramente abençoado.  O Poder de Barreira aumenta um pouco, enquanto a força do Feitiço e a força do Ataque do Núcleo Interno diminuem.</RaceExtra.0.Lv.3.Desc>
-			<RaceExtra.0.Lv.4.SName>Major Blessing</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.SName>Grande Bênção</RaceExtra.0.Lv.4.SName>
 			<RaceExtra.0.Lv.4.Desc>Tão abençoado quanto pode ser.  O Poder de Barreira aumenta significativamente, enquanto a força do Feitiço e a força do Ataque do Núcleo Interno diminuem significativamente.</RaceExtra.0.Lv.4.Desc>
-			<RaceExtra.1.Lv.0.SName>Major Curse</RaceExtra.1.Lv.0.SName>
-			<RaceExtra.1.Lv.0.Desc>Major Curse: Diminui significativamente o poder de barreira, enquanto aumenta significativamente o poder de feitiço e o poder de ataque principal.  Aumenta significativamente as taxas de consumo de alimentos e água, enquanto diminui significativamente a taxa de absorção de nutrição.</RaceExtra.1.Lv.0.Desc>
-			<RaceExtra.1.Lv.1.SName>Moderate Curse</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.0.SName>Grande Maldição</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Grande Maldição: Diminui significativamente o poder de barreira, enquanto aumenta significativamente o poder de feitiço e o poder de ataque principal.  Aumenta significativamente as taxas de consumo de alimentos e água, enquanto diminui significativamente a taxa de absorção de nutrição.</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>Maldição Moderada</RaceExtra.1.Lv.1.SName>
 			<RaceExtra.1.Lv.1.Desc>Maldição Maior: Diminui ligeiramente o Poder de Barreira, enquanto aumenta ligeiramente o Poder de Magia e o Poder de Ataque Principal.  Aumenta as taxas de consumo de alimentos e água, enquanto diminui a taxa de absorção de nutrição.</RaceExtra.1.Lv.1.Desc>
-			<RaceExtra.1.Lv.2.SName>Minor Curse</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.SName>Maldição Menor</RaceExtra.1.Lv.2.SName>
 			<RaceExtra.1.Lv.2.Desc>Um fraco senso de maldição.</RaceExtra.1.Lv.2.Desc>
-			<RaceExtra.1.Lv.3.SName>Minor Blessing</RaceExtra.1.Lv.3.SName>
+			<RaceExtra.1.Lv.3.SName>Bênção Menor</RaceExtra.1.Lv.3.SName>
 			<RaceExtra.1.Lv.3.Desc>Um fraco senso de bênção.</RaceExtra.1.Lv.3.Desc>
-			<RaceExtra.1.Lv.4.SName>Moderate Blessing</RaceExtra.1.Lv.4.SName>
+			<RaceExtra.1.Lv.4.SName>Bênção Moderada</RaceExtra.1.Lv.4.SName>
 			<RaceExtra.1.Lv.4.Desc>Bênção Moderada: Aumenta ligeiramente o Poder de Barreira, enquanto diminui o Poder de Magia e o Poder de Ataque Central.  Diminui as taxas de consumo de alimentos e água, enquanto aumenta a taxa de absorção de nutrição.</RaceExtra.1.Lv.4.Desc>
-			<RaceExtra.1.Lv.5.SName>Major Blessing</RaceExtra.1.Lv.5.SName>
+			<RaceExtra.1.Lv.5.SName>Grande Bênção</RaceExtra.1.Lv.5.SName>
 			<RaceExtra.1.Lv.5.Desc>Bênção Maior: Aumenta significativamente o poder de barreira, enquanto diminui significativamente o poder de feitiço e o poder de ataque principal.  Diminui significativamente as taxas de consumo de alimentos e água, enquanto aumenta significativamente a taxa de absorção de nutrição.</RaceExtra.1.Lv.5.Desc>
 		</Text>
 		<Text Name="NeiDan">
@@ -53,29 +53,29 @@
 			<RaceExtra.1.Lv.2.SpecialAbility.0.Desc>Cada 9º ataque lançará um feitiço no inimigo alvo.</RaceExtra.1.Lv.2.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="GrowPercent">
-			<RaceExtra.0.Lv.0.SName>Flood Dragon</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.SName>Dragão Diluviano</RaceExtra.0.Lv.0.SName>
 			<RaceExtra.0.Lv.0.Desc>Possui uma pequena porção do poder total de um dragão.</RaceExtra.0.Lv.0.Desc>
-			<RaceExtra.0.Lv.1.SName>Flood Dragon</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.SName>Dragão Diluviano</RaceExtra.0.Lv.1.SName>
 			<RaceExtra.0.Lv.1.Desc>Possui uma parte do poder total de um dragão.</RaceExtra.0.Lv.1.Desc>
-			<RaceExtra.0.Lv.2.SName>Flood Dragon</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.SName>Dragão Diluviano</RaceExtra.0.Lv.2.SName>
 			<RaceExtra.0.Lv.2.Desc>Possui o poder totalmente desperto de um dragão.</RaceExtra.0.Lv.2.Desc>
-			<RaceExtra.1.Lv.0.SName>Fenghuang Phoenix</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.SName>Fênix Fenghuang</RaceExtra.1.Lv.0.SName>
 			<RaceExtra.1.Lv.0.Desc>Possui uma pequena porção do poder total de uma fênix.</RaceExtra.1.Lv.0.Desc>
-			<RaceExtra.1.Lv.1.SName>Fenghuang Phoenix</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.SName>Fênix Fenghuang</RaceExtra.1.Lv.1.SName>
 			<RaceExtra.1.Lv.1.Desc>Possui uma parte do poder total de uma fênix.</RaceExtra.1.Lv.1.Desc>
-			<RaceExtra.1.Lv.2.SName>Fenghuang Phoenix</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.SName>Fênix Fenghuang</RaceExtra.1.Lv.2.SName>
 			<RaceExtra.1.Lv.2.Desc>Possui o poder totalmente desperto de uma fênix.</RaceExtra.1.Lv.2.Desc>
-			<RaceExtra.2.Lv.0.SName>Nine-tailed Fox</RaceExtra.2.Lv.0.SName>
+			<RaceExtra.2.Lv.0.SName>Raposa de Nove Caudas</RaceExtra.2.Lv.0.SName>
 			<RaceExtra.2.Lv.0.Desc>Possui uma pequena porção do poder total de uma raposa.</RaceExtra.2.Lv.0.Desc>
-			<RaceExtra.2.Lv.1.SName>Nine-tailed Fox</RaceExtra.2.Lv.1.SName>
+			<RaceExtra.2.Lv.1.SName>Raposa de Nove Caudas</RaceExtra.2.Lv.1.SName>
 			<RaceExtra.2.Lv.1.Desc>Possui uma parte do poder total de uma raposa.</RaceExtra.2.Lv.1.Desc>
-			<RaceExtra.2.Lv.2.SName>Nine-tailed Fox</RaceExtra.2.Lv.2.SName>
+			<RaceExtra.2.Lv.2.SName>Raposa de Nove Caudas</RaceExtra.2.Lv.2.SName>
 			<RaceExtra.2.Lv.2.Desc>Possui o poder totalmente desperto de uma raposa.</RaceExtra.2.Lv.2.Desc>
-			<RaceExtra.3.Lv.0.SName>Tiangou Dog</RaceExtra.3.Lv.0.SName>
+			<RaceExtra.3.Lv.0.SName>Cachorro Tiangou</RaceExtra.3.Lv.0.SName>
 			<RaceExtra.3.Lv.0.Desc>Possui uma pequena porção do poder total de um canino.</RaceExtra.3.Lv.0.Desc>
-			<RaceExtra.3.Lv.1.SName>Tiangou Dog</RaceExtra.3.Lv.1.SName>
+			<RaceExtra.3.Lv.1.SName>Cachorro Tiangou</RaceExtra.3.Lv.1.SName>
 			<RaceExtra.3.Lv.1.Desc>Possui uma parte do poder total de um canino.</RaceExtra.3.Lv.1.Desc>
-			<RaceExtra.3.Lv.2.SName>Tiangou Dog</RaceExtra.3.Lv.2.SName>
+			<RaceExtra.3.Lv.2.SName>Cachorro Tiangou</RaceExtra.3.Lv.2.SName>
 			<RaceExtra.3.Lv.2.Desc>Possui o poder totalmente desperto de um canino.</RaceExtra.3.Lv.2.Desc>
 			<RaceExtra.4.Lv.0.SName>Panda</RaceExtra.4.Lv.0.SName>
 			<RaceExtra.4.Lv.0.Desc>Poder Yin Yang Defeituoso</RaceExtra.4.Lv.0.Desc>
@@ -83,11 +83,11 @@
 			<RaceExtra.4.Lv.1.Desc>Poder Yin Yang Incompleto</RaceExtra.4.Lv.1.Desc>
 			<RaceExtra.4.Lv.2.SName>Panda</RaceExtra.4.Lv.2.SName>
 			<RaceExtra.4.Lv.2.Desc>Poder Yin Yang Totalmente Desperto</RaceExtra.4.Lv.2.Desc>
-			<RaceExtra.5.Lv.0.SName>Black Tortoise</RaceExtra.5.Lv.0.SName>
+			<RaceExtra.5.Lv.0.SName>Tartaruga Negra</RaceExtra.5.Lv.0.SName>
 			<RaceExtra.5.Lv.0.Desc>Poder quebrado da Tartaruga Negra.</RaceExtra.5.Lv.0.Desc>
-			<RaceExtra.5.Lv.1.SName>Black Tortoise</RaceExtra.5.Lv.1.SName>
+			<RaceExtra.5.Lv.1.SName>Tartaruga Negra</RaceExtra.5.Lv.1.SName>
 			<RaceExtra.5.Lv.1.Desc>Poder incompleto da Tartaruga Negra.</RaceExtra.5.Lv.1.Desc>
-			<RaceExtra.5.Lv.2.SName>Black Tortoise</RaceExtra.5.Lv.2.SName>
+			<RaceExtra.5.Lv.2.SName>Tartaruga Negra</RaceExtra.5.Lv.2.SName>
 			<RaceExtra.5.Lv.2.Desc>Poder completo da Tartaruga Negra.</RaceExtra.5.Lv.2.Desc>
 		</Text>
 	</List>

@@ -1,42 +1,42 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="RockBlockBase" sParam="Item">
-			<Item.FabaoSuffix>Stone, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pedra, Selo, Estela, Jade Duplo, Tablet, Torre, Rocha</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BrownRockBlock" sParam="Item">
-			<ThingName>Brownstone Block</ThingName>
-			<Desc>Tijolo muito comum feito de Briwbstone. Pode ser usado de forma mais eficaz na criação, mas sua atratividade é muito baixa.</Desc>
-			<Item.BeMaterial.NamePrefix>Brownstone</Item.BeMaterial.NamePrefix>
+			<ThingName>Tijolo de Arenito</ThingName>
+			<Desc>Tijolo muito comum feito de Arenito. Pode ser usado de forma mais eficaz na criação, mas sua atratividade é muito baixa.</Desc>
+			<Item.BeMaterial.NamePrefix>Arenito</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_GrayRockBlock" sParam="Item">
-			<ThingName>Graystone Block</ThingName>
-			<Desc>Tijolo feito de Graystone. Pode ser usado de forma mais eficaz na criação, mas sua atratividade é bastante média.</Desc>
-			<Item.BeMaterial.NamePrefix>Graystone</Item.BeMaterial.NamePrefix>
+			<ThingName>Tijolo de Pedra Cinza</ThingName>
+			<Desc>Tijolo feito de Pedra Cinza. Pode ser usado de forma mais eficaz na criação, mas sua atratividade é bastante média.</Desc>
+			<Item.BeMaterial.NamePrefix>Pedra Cinza</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_MarbleBlock" sParam="Item">
-			<ThingName>Marble Block</ThingName>
-			<Desc>Brick made from marble. Can be used more effectively in crafting. Its texture is rather attractive.</Desc>
-			<Item.BeMaterial.NamePrefix>Marble</Item.BeMaterial.NamePrefix>
+			<ThingName>Tijolo de Mármore</ThingName>
+			<Desc>Tijolo feito de mármore. Pode ser usado de forma mais eficaz na criação. Sua textura é bastante atraente.</Desc>
+			<Item.BeMaterial.NamePrefix>Mármore</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_JadeBlock" sParam="Item">
-			<ThingName>Jade Block</ThingName>
-			<Desc>Tijolo feito de Jade Stone. Pode ser usado de forma mais eficaz na criação.</Desc>
+			<ThingName>Tijolo de Jade</ThingName>
+			<Desc>Tijolo feito de Pedra Jade. Pode ser usado de forma mais eficaz na criação.</Desc>
 			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SkyStoneBlock" sParam="Item">
-			<ThingName>Holy Stone Block</ThingName>
-			<Desc>Tijolo feito de Holy Stone. Pode ser usado de forma mais eficaz na criação.</Desc>
-			<Item.BeMaterial.NamePrefix>Holy Stone</Item.BeMaterial.NamePrefix>
+			<ThingName>Tijolo de Pedra Sagrada</ThingName>
+			<Desc>Tijolo feito de Pedra Sagrada. Pode ser usado de forma mais eficaz na criação.</Desc>
+			<Item.BeMaterial.NamePrefix>Pedra Sagrada</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingStoneBlock" sParam="Item">
-			<ThingName>Spirit Stone Block</ThingName>
-			<Desc>Tijolo feito de Spirit Stone. Pode ser usado de forma mais eficaz na criação.</Desc>
-			<Item.BeMaterial.NamePrefix>Spirit Stone</Item.BeMaterial.NamePrefix>
+			<ThingName>Tijolo de Pedra Espiritual</ThingName>
+			<Desc>Tijolo feito de Pedra Espiritual. Pode ser usado de forma mais eficaz na criação.</Desc>
+			<Item.BeMaterial.NamePrefix>Pedra Espiritual</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingCrystalBlock" sParam="Item">
-			<ThingName>Spirit Crystal Block</ThingName>
-			<Desc>Tijolo feito de Spirit Crystal. Pode ser usado de forma mais eficaz na criação.</Desc>
-			<Item.BeMaterial.NamePrefix>Spirit Crystal</Item.BeMaterial.NamePrefix>
+			<ThingName>Tijolo de Cristal Espiritual</ThingName>
+			<Desc>Tijolo feito de Cristal Espiritual. Pode ser usado de forma mais eficaz na criação.</Desc>
+			<Item.BeMaterial.NamePrefix>Cristal Espiritual</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>

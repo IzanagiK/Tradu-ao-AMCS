@@ -7,13 +7,13 @@
 			<DisplayName>Eficiência Básica de Trabalho</DisplayName>
 			<DisplayValue>{0}/sec</DisplayValue>
 			<Desc>A velocidade de trabalho básica de um personagem. Indica a quantidade de trabalho que eles podem concluir por segundo.</Desc>
-			<FunctionKind>Produce Stats</FunctionKind>
+			<FunctionKind>Status de Produção</FunctionKind>
 		</Text>
 		<Text Name="BaseEmotionAddV">
 			<DisplayName>Valor de humor básico</DisplayName>
 			<DisplayValue>{0}</DisplayValue>
 			<Desc>O valor básico do humor do personagem.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="MaxAge">
 			<DisplayName>Vida útil</DisplayName>
@@ -28,49 +28,49 @@
 			<DisplayName>Raio de percepção</DisplayName>
 			<DisplayValue>{0:N2}m</DisplayValue>
 			<Desc>Distância máxima na qual o personagem é capaz de perceber seus arredores.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="MoveSpeed">
 			<DisplayName>Velocidade de movimento</DisplayName>
 			<DisplayValue>{0:N2}m/sec</DisplayValue>
 			<Desc>A velocidade de movimento do personagem.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="ComfyTMin">
 			<DisplayName>Temperatura ideal mais baixa</DisplayName>
 			<Desc>A temperatura mais baixa em que o personagem se sente confortável.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="ComfyTMax">
 			<DisplayName>Temperatura ideal mais alta</DisplayName>
 			<Desc>A temperatura mais alta na qual o personagem se sente confortável.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="ToleranceTMin">
 			<DisplayName>Tolerância de temperatura mais baixa</DisplayName>
 			<Desc>Menor temperatura que não afeta a saúde do personagem.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="ToleranceTMax">
 			<DisplayName>Tolerância de temperatura mais alta</DisplayName>
 			<Desc>A temperatura mais alta que não afeta a saúde do personagem.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="RecoveryPower">
 			<DisplayName>Resiliência Natural</DisplayName>
 			<DisplayValue>{0}%/sec</DisplayValue>
 			<Desc>A taxa natural de recuperação do personagem de doenças e ferimentos.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="PainTolerance">
 			<DisplayName>Tolerância à dor</DisplayName>
 			<Desc>O nível máximo de dor que o personagem é capaz de tolerar.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="IntelligenceSkillEXPConstant">
 			<DisplayName>Velocidade de aprendizado</DisplayName>
 			<Desc>A quantidade de experiência que o personagem ganha com a prática. Também afeta a velocidade com que os Cultivadores do Núcleo Dourado ganham inspiração.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="EmotionAmplificationFactor">
 			<DisplayName>Multiplicador de humor</DisplayName>
@@ -117,7 +117,7 @@
 		<Text Name="HappyRecoveryConstant">
 			<DisplayName>Bônus de reabastecimento de recreação</DisplayName>
 			<Desc>O bônus de reabastecimento de recreação do personagem.</Desc>
-			</Text>
+		</Text>
 		<Text Name="PracticeFoodConsumeConstant">
 			<DisplayName>Bônus de consumo de essência</DisplayName>
 			<Desc>O bônus de consumo de essência do personagem.</Desc>

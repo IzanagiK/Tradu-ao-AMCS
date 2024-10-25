@@ -1,64 +1,64 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Spouse">
-			<DisplayNameF>Wife</DisplayNameF>
-			<DisplayNameM>Husband</DisplayNameM>
+			<DisplayNameF>Esposa</DisplayNameF>
+			<DisplayNameM>Marido</DisplayNameM>
 		</Text>
 		<Text Name="Child">
-			<DisplayNameF>Daughter</DisplayNameF>
-			<DisplayNameM>Son</DisplayNameM>
+			<DisplayNameF>Filha</DisplayNameF>
+			<DisplayNameM>Filho</DisplayNameM>
 		</Text>
 		<Text Name="Brother">
-			<DisplayNameF>Older Sister, Younger Sister</DisplayNameF>
-			<DisplayNameM>Older Brother, Younger Brother</DisplayNameM>
+			<DisplayNameF>Irmã Mais Velha, Irmã Mais Nova</DisplayNameF>
+			<DisplayNameM>Irmão Mais Velho, Irmão Mais Novo</DisplayNameM>
 		</Text>
 		<Text Name="Parent">
-			<DisplayNameF>Mother</DisplayNameF>
-			<DisplayNameM>Father</DisplayNameM>
+			<DisplayNameF>Mãe</DisplayNameF>
+			<DisplayNameM>Pai</DisplayNameM>
 		</Text>
 		<Text Name="GodChild">
-			<DisplayNameF>Foster Daughter</DisplayNameF>
-			<DisplayNameM>Foster Son</DisplayNameM>
+			<DisplayNameF>Filha Adotiva</DisplayNameF>
+			<DisplayNameM>Filho Adotivo</DisplayNameM>
 		</Text>
 		<Text Name="GodParent">
-			<DisplayNameF>Foster Mother</DisplayNameF>
-			<DisplayNameM>Foster Father</DisplayNameM>
+			<DisplayNameF>Mãe Adotiva</DisplayNameF>
+			<DisplayNameM>Pai Adotivo</DisplayNameM>
 		</Text>
 		<Text Name="BiaoBrother">
 			<DisplayNameF>Cousin, Cousin</DisplayNameF>
 			<DisplayNameM>Cousin, Cousin</DisplayNameM>
 		</Text>
 		<Text Name="Friend">
-			<DisplayNameF>Friend</DisplayNameF>
-			<DisplayNameM>Friend</DisplayNameM>
+			<DisplayNameF>Amiga</DisplayNameF>
+			<DisplayNameM>Amigo</DisplayNameM>
 		</Text>
 		<Text Name="Fancy">
-			<DisplayNameF>Crush</DisplayNameF>
-			<DisplayNameM>Crush</DisplayNameM>
+			<DisplayNameF>Paixão</DisplayNameF>
+			<DisplayNameM>Paixão</DisplayNameM>
 		</Text>
 		<Text Name="FancyFlag">
-			<DisplayNameF>Admirer</DisplayNameF>
-			<DisplayNameM>Admirer</DisplayNameM>
+			<DisplayNameF>Admiradora</DisplayNameF>
+			<DisplayNameM>Admirador</DisplayNameM>
 		</Text>
 		<Text Name="Lover">
-			<DisplayNameF>Lover</DisplayNameF>
-			<DisplayNameM>Lover</DisplayNameM>
+			<DisplayNameF>Amante</DisplayNameF>
+			<DisplayNameM>Amante</DisplayNameM>
 		</Text>
 		<Text Name="RivalInlove">
-			<DisplayNameF>Love Rival</DisplayNameF>
-			<DisplayNameM>Love Rival</DisplayNameM>
+			<DisplayNameF>Rival Amoroso</DisplayNameF>
+			<DisplayNameM>Rival Amoroso</DisplayNameM>
 		</Text>
 		<Text Name="PersonalEnemy">
-			<DisplayNameF>Foe</DisplayNameF>
-			<DisplayNameM>Foe</DisplayNameM>
+			<DisplayNameF>Inimiga</DisplayNameF>
+			<DisplayNameM>Inimigo</DisplayNameM>
 		</Text>
 		<Text Name="Reincarnation">
-			<DisplayNameF>Past Life</DisplayNameF>
-			<DisplayNameM>Past Life</DisplayNameM>
+			<DisplayNameF>Vida Passada</DisplayNameF>
+			<DisplayNameM>Vida Passada</DisplayNameM>
 		</Text>
 		<Text Name="SYS_LOST">
-			<DisplayNameF>Unknown (Empty)</DisplayNameF>
-			<DisplayNameM>Unknown (Empty)</DisplayNameM>
+			<DisplayNameF>Desconhecido (Vazio)</DisplayNameF>
+			<DisplayNameM>Desconhecido (Vazio)</DisplayNameM>
 		</Text>
 	</List>
 </Texts>

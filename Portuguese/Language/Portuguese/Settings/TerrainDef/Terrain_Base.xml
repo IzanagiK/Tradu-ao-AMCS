@@ -1,74 +1,74 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="TerrainBase">
-			<DisplayName>Terrain Foundation</DisplayName>
+			<DisplayName>Fundação do Terreno</DisplayName>
 			<StoryDesc>Acontece na estrada</StoryDesc>
 		</Text>
 		<Text Name="Null">
-			<DisplayName>Void</DisplayName>
+			<DisplayName>Vazio</DisplayName>
 		</Text>
 		<Text Name="Soil">
-			<DisplayName>Soil</DisplayName>
+			<DisplayName>Solo</DisplayName>
 			<StoryDesc>É na área em que as plantas podem ser cultivadas</StoryDesc>
 		</Text>
 		<Text Name="Soil_Sand">
-			<DisplayName>Sand</DisplayName>
+			<DisplayName>Areia</DisplayName>
 			<StoryDesc>É na área arenosa</StoryDesc>
 		</Text>
 		<Text Name="Mud">
-			<DisplayName>Mud</DisplayName>
+			<DisplayName>Lama</DisplayName>
 			<StoryDesc>É na área lamacenta</StoryDesc>
 		</Text>
 		<Text Name="BlackB">
-			<DisplayName>Void</DisplayName>
+			<DisplayName>Vazio</DisplayName>
 			<StoryDesc>Está no Vazio</StoryDesc>
 		</Text>
 		<Text Name="WetLand">
-			<DisplayName>Wet Earth</DisplayName>
+			<DisplayName>Terra Molhada</DisplayName>
 			<StoryDesc>É na área com terra molhada</StoryDesc>
 		</Text>
 		<Text Name="FertileSoil">
-			<DisplayName>Fertile Soil</DisplayName>
+			<DisplayName>Solo Fértil</DisplayName>
 			<StoryDesc>É na área em que as plantas podem ser cultivadas</StoryDesc>
 		</Text>
 		<Text Name="StoneLand">
-			<DisplayName>Rocky Terrain</DisplayName>
+			<DisplayName>Terreno Rocoso</DisplayName>
 			<StoryDesc>É na área acidentada e pedregosa</StoryDesc>
 		</Text>
 		<Text Name="SandLand">
-			<DisplayName>Sand</DisplayName>
+			<DisplayName>Areia</DisplayName>
 			<StoryDesc>É na área acidentada e cheia de pedras.</StoryDesc>
 		</Text>
 		<Text Name="LingSoil">
-			<DisplayName>Spirit Soil</DisplayName>
+			<DisplayName>Solo Espiritual</DisplayName>
 			<StoryDesc>É na área espiritual cercada por Qi</StoryDesc>
 		</Text>
 		<Text Name="DepthDepthWater">
-			<DisplayName>Deep Water</DisplayName>
+			<DisplayName>Água Profunda</DisplayName>
 		</Text>
 		<Text Name="DepthWater">
-			<DisplayName>Deep Water</DisplayName>
+			<DisplayName>Água Profunda</DisplayName>
 		</Text>
 		<Text Name="YunHai">
-			<DisplayName>Sea of Clouds</DisplayName>
+			<DisplayName>Mar de Nuvens</DisplayName>
 		</Text>
 		<Text Name="ShallowWater">
-			<DisplayName>Shallow Water</DisplayName>
+			<DisplayName>Água Rasa</DisplayName>
 			<StoryDesc>É na área alagada, mas rasa.</StoryDesc>
 		</Text>
 		<Text Name="BloodWater">
-			<DisplayName>Thin Blood</DisplayName>
+			<DisplayName>Sangue Ralo</DisplayName>
 			<StoryDesc>É no geralmente vem de criaturas massacrantes</StoryDesc>
 		</Text>
 		<Text Name="DepthBloodWater">
-			<DisplayName>Deep Blood</DisplayName>
+			<DisplayName>Sangue Profundo</DisplayName>
 		</Text>
 		<Text Name="LingWater">
-			<DisplayName>Spirit Water</DisplayName>
+			<DisplayName>Água Espiritual</DisplayName>
 			<StoryDesc>É na área alagada, mas rasa</StoryDesc>
 		</Text>
 		<Text Name="Sand">
-			<DisplayName>Sand</DisplayName>
+			<DisplayName>Areia</DisplayName>
 		</Text>
 	</List>
 </Texts>

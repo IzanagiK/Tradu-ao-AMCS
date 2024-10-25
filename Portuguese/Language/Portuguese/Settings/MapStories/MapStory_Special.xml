@@ -114,535 +114,539 @@
 		<Text Name="Secrets_DongFuAppear_Manual">
 			<DisplayName>Morada do Imortal</DisplayName>
 			<Desc>[NAME] encontrou uma antiga morada de um imortal em [PLACE], com uma abundância de tesouros escondidos nela. O dono da caverna era um mestre em Criação de Artefatos, que montou inúmeras armadilhas e feitiços de proteção com essa habilidade. Não se pode sobreviver e explorar a caverna sem ser proficiente em Criação de Artefatos.</Desc>
-			<Text Name="Secrets_DongFuAppear_Medicine">
-				<DisplayName>Morada do Imortal</DisplayName>
-				<Desc>[NAME] encontrou uma antiga morada de um imortal em [PLACE], com uma abundância de tesouros escondidos nela. O dono da caverna era um mestre Alquimista, que montou inúmeras armadilhas e feitiços de proteção com essa habilidade. Não se pode sobreviver e explorar a caverna sem ser proficiente em Alquimia.</Desc>
-				<Selections.0.Display>Procurar por tesouros</Selections.0.Display>
-				<Selections.0.Tip>Alquimia</Selections.0.Tip>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_Esoterica1">
-				<DisplayName>Vestígios de Livro Antigo</DisplayName>
-				<Desc>Tendo chegado a [PLACE], [NAME] descobriu que um grande número de cultivadores já havia vindo aqui em busca do livro antigo.</Desc>
-				<Selections.0.Display>Divinizar a localização do livro</Selections.0.Display>
-				<Selections.0.Tip>Sorte</Selections.0.Tip>
-				<Selections.1.Display>Procurar ao redor</Selections.1.Display>
-				<Selections.1.Tip>Sorte</Selections.1.Tip>
-				<Selections.2.Display>Sair</Selections.2.Display>
-			</Text>
-			<Text Name="Secrets_Esoterica2">
-				<DisplayName>Desenterrando Manual</DisplayName>
-				<Desc>Tendo chegado a [PLACE], [NAME] descobriu que outros cultivadores em busca do manual já haviam se envolvido em uma luta emaranhada.</Desc>
-				<Selections.0.Display>Pegá-lo à força</Selections.0.Display>
-				<Selections.0.Tip>Núcleo Dourado</Selections.0.Tip>
-				<Selections.1.Display>Aguarde sua vez</Selections.1.Display>
-				<Selections.1.Tip>Sorte</Selections.1.Tip>
-				<Selections.2.Display>Sair</Selections.2.Display>
-			</Text>
-			<Text Name="Secrets_Magic">
-				<DisplayName>Manifestando Milagre</DisplayName>
-				<Desc>Tendo chegado a [PLACE], [NAME] descobriu que um grande número de cultivadores já havia se reunido em torno das recém-descobertas Gravuras de Pedra do Penhasco do Dragão.</Desc>
-				<Selections.0.Display>Meditar</Selections.0.Display>
-				<Selections.0.Tip>Inteligência</Selections.0.Tip>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_Magic_Cold">
-				<DisplayName>Manifestando Milagre</DisplayName>
-				<Desc>Tendo chegado a [PLACE], [NAME] descobriu que um grande número de cultivadores já havia se reunido em torno das recém-descobertas Gravuras de Pedra do Penhasco do Dragão. No entanto, devido à interferência da mecânica de energia Qi entre o céu e a terra, a terra circundante do local desenterrado foi envolta em geada.</Desc>
-				<Selections.0.Display>Meditar</Selections.0.Display>
-				<Selections.0.Tip>Inteligência</Selections.0.Tip>
-				<Selections.1.Display>Sair em frustração</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_Magic_Hot">
-				<DisplayName>Manifestando Milagre</DisplayName>
-				<Desc>Tendo chegado a [PLACE], [NAME] descobriu que um grande número de cultivadores já havia se reunido em torno das recém-descobertas Gravuras de Pedra do Penhasco do Dragão. No entanto, devido à interferência da mecânica de energia Qi entre o céu e a terra, a terra circundante do local desenterrado foi cercada por fogo infernal.</Desc>
-				<Selections.0.Display>Meditar</Selections.0.Display>
-				<Selections.0.Tip>Inteligência</Selections.0.Tip>
-				<Selections.1.Display>Sair em frustração</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_Baozang_EX1">
-				<DisplayName>Vale dos Vermes</DisplayName>
-				<Desc>De acordo com As Viagens do Domador de Ventos: Volume VI, a Lei da Luta para a imortalidade foi encontrada pelo Mestre Ancestral Hunyuan, e inspirou admiração em todo o reino. O cultivador foi atacado por seis seitas malignas no Vale dos Vermes do Sul Selvagem em seus últimos anos, e os tesouros mais preciosos que ele carregava consigo foram perdidos no vale. Seguindo essa pista, [NAME] chegou ao Vale dos Vermes na esperança de encontrar algo.</Desc>
-				<Selections.0.Display>Procurar</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_Baozang_EX2">
-				<DisplayName>Tesouro do Veneno</DisplayName>
-				<Desc>De acordo com o antigo tomo secreto Registros Suplementares: Livro III de III, a Ilha Exultante foi manifestada a partir dos restos do Dragão Arqueano após sua Ascensão, o Lago do Dragão Venenoso sendo onde seu portão da mente estava localizado. Talvez algo curioso possa ser encontrado no lago. O lugar definitivamente merece uma olhada mais de perto.</Desc>
-				<Selections.0.Display>Procurar</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_Baozang_EX3">
-				<DisplayName>Palácio Celestial</DisplayName>
-				<Desc>[NAME] lembrou que, de acordo com As Viagens do Domador de Ventos: Volume I, existe outra misteriosa caverna interna sob os Restos da Caverna do Doutor Imortal no Pico do Alquimista. Eles decidiram mergulhar no mistério.</Desc>
-				<Selections.0.Display>Explorar</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_Baozang_EX4">
-				<DisplayName>Caverna de Fogo</DisplayName>
-				<Desc>[NAME] lembrou que, de acordo com os Registros Taoístas Secretos: As Crônicas do Grande Deserto, o deserto foi formado devido a um meteorito que caiu do céu no antigo período Arqueano. O local onde o Aerólito pousou tornou-se conhecido como Ninho de Chamas nas gerações posteriores. Talvez algo curioso possa ser encontrado na profundidade da caverna infernal. O lugar definitivamente merece uma olhada mais de perto.</Desc>
-				<Selections.0.Display>Explorar</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_Baozang_EX5">
-				<DisplayName>Tesouro do Anjo</DisplayName>
-				<Desc>De acordo com os Registros Suplementares: Livro I de III, sob a Piscina Celestial do Mt. Nelumbo existe um prédio anteriormente usado pelo Fazendeiro Divino como um lugar de reclusão. [NAME] decidiu mergulhar no mistério.</Desc>
-				<Selections.0.Display>Explorar</Selections.0.Display>
-				<Selections.0.Tip>Sorte e Inteligência</Selections.0.Tip>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_Baozang_EX6">
-				<DisplayName>Restos do Demônio</DisplayName>
-				<Desc>De acordo com As Viagens do Domador de Ventos: Volume II, houve uma vez um Demônio Celestial sendo selado dentro da Floresta Espinhosa no pé das Montanhas Negras. Um Milagre pode ser obtido ao se comunicar com o Demônio Celestial através de uma Lei Secreta.</Desc>
-				<Selections.0.Display>Comunicar-se com o Demônio</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_DongFuAppearEX">
-				<DisplayName>Ruínas de Taiyi</DisplayName>
-				<Desc>Não havia vestígios do inimigo, então [NAME] entrou cuidadosamente nas ruínas da Seita Taiyi.</Desc>
-				<Selections.0.Display>Pavilhão Manual</Selections.0.Display>
-				<Selections.1.Display>Pesquisar em todos os lugares</Selections.1.Display>
-				<Selections.2.Display>Visitante Misterioso</Selections.2.Display>
-			</Text>
-			<Text Name="Secrets_DongFuAppearEX_FIX">
-				<DisplayName>Replay da História: Retorno a Taiyi</DisplayName>
-				<Desc>Como as principais missões sobre a Destruição de Taiyi não estão ao vivo até a atualização do conteúdo do Reino Mortal, a trama que possivelmente foi perdida pelos jogadores das versões anteriores do jogo será reproduzida aqui. \nVários meses após a queda da seita, você aprendeu os ensinamentos dos Cinco Picos da Seita Taiyi enquanto retornava à seita agora em ruínas. No entanto, durante a investigação, uma figura misteriosa caiu do céu. À primeira vista, parece a Anciã Yue Qingchou do Abode do Crepúsculo! É incomum para ela estar aqui, ela deve saber de algo. \nDevido ao limite de tempo da missão, os antigos arquivos de salvamento de mais de 700 dias de tempo de jogo inevitavelmente perderão pistas importantes, portanto, não poderão experimentar todas as missões principais. Pedimos desculpas por isso.</Desc>
-				<Selections.0.Display>Ok</Selections.0.Display>
-			</Text>
-			<Text Name="Secrets_NanPing1">
-				<DisplayName>Caixão de Pedra</DisplayName>
-				<Desc>[NAME] chegou à Vila Nanping e soube do local de moradia de Zhang Erwa por algum aldeão.</Desc>
-				<Selections.0.Display>Pedir pelo Caixão</Selections.0.Display>
-				<Selections.0.Tip>Carisma</Selections.0.Tip>
-			</Text>
-			<Text Name="Secrets_XianJianLing1">
-				<DisplayName>Ordem dos Paladinos</DisplayName>
-				<Desc>[NAME] veio ao Mt. Shu para a questão da Ordem dos Paladinos.</Desc>
-				<Selections.0.Display>Pedir detalhes</Selections.0.Display>
-				<Selections.1.Display>Informar Mt. Shu</Selections.1.Display>
-				<Selections.2.Display>Esconder a verdade</Selections.2.Display>
-				<Selections.3.Display>Falhou em capturar o culpado</Selections.3.Display>
-				<Selections.4.Display>Tomar sua licença</Selections.4.Display>
-			</Text>
-			<Text Name="Secrets_XianJianLing2">
-				<DisplayName>Vestígios da Seita Demoníaca</DisplayName>
-				<Desc>Tendo perseguido o cultista da Alma Milenar até a fronteira, [NAME] finalmente alcançou o fugitivo, que já está esgotado pela fuga de mil milhas. Eles imploraram por suas vidas e se ofereceram para deixar [NAME] conhecer o segredo da Lei de Cultivo da Seita da Alma Milenar.</Desc>
-				<Selections.0.Display>Deixe-os ir</Selections.0.Display>
-				<Selections.1.Display>Mate-os por justiça</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_KunLunFaHui">
-				<DisplayName>Competição Kunlun</DisplayName>
-				<Desc>[NAME] chegou às Montanhas Kunlun e descobriu que a Competição Kunlun já começou. Cultivadores e imortais se reuniram, mostrando majestade em toda a sua variedade. Apenas aqueles que atingiram o estado de cultivo do núcleo dourado ou superior podem participar de uma das cinco competições, e o vencedor pode ser informado sobre uma das Leis de Cultivo do Palácio do Vazio de Jade. [NAME] estava se perguntando em qual competição [ENHIM] deve participar.</Desc>
-				<Selections.0.Display>Debate Kunlun</Selections.0.Display>
-				<Selections.1.Display>Concurso de Artesanato</Selections.1.Display>
-				<Selections.2.Display>Concurso de Alquimia</Selections.2.Display>
-				<Selections.3.Display>Duelo de Espadas</Selections.3.Display>
-				<Selections.4.Display>Duelo Mágico</Selections.4.Display>
-				<Selections.5.Display>Sair</Selections.5.Display>
-			</Text>
-			<Text Name="Secrets_KunLunFaHui1">
-				<DisplayName>Debate Kunlun</DisplayName>
-				<Desc>[NAME] chegou ao pico principal das Montanhas Kunlun. É onde o local principal está localizado, e cultivadores renomados realizarão debates acalorados aqui. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Lei Imortal da Pureza de Jade.</Desc>
-				<Selections.0.Display>Participar do debate</Selections.0.Display>
-				<Selections.0.Tip>Inteligência / Sorte / Estado</Selections.0.Tip>
-				<Selections.1.Display>Participar do debate</Selections.1.Display>
-				<Selections.1.Tip>Inteligência / Sorte / Estado</Selections.1.Tip>
-				<Selections.2.Display>Assistir e aprender</Selections.2.Display>
-				<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
-				<Selections.3.Display>Retornar à Entrada</Selections.3.Display>
-			</Text>
-			<Text Name="Secrets_KunLunFaHui2">
-				<DisplayName>Concurso de Artesanato</DisplayName>
-				<Desc>[NAME] chegou à Caverna Dracônica nas montanhas Kunlun. Cultivadores renomados mostrarão cada um seu poder especial para criar o melhor Artefato de todos. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Lei do Myriad Artifact.</Desc>
-				<Selections.0.Display>Participar do concurso</Selections.0.Display>
-				<Selections.0.Tip>Artesanato de Artefatos / Sorte / Estado</Selections.0.Tip>
-				<Selections.1.Display>Participar do concurso</Selections.1.Display>
-				<Selections.1.Tip>Artesanato de Artefatos / Sorte / Estado</Selections.1.Tip>
-				<Selections.2.Display>Assistir e aprender</Selections.2.Display>
-				<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
-				<Selections.3.Display>Deixar o debate</Selections.3.Display>
-			</Text>
-			<Text Name="Secrets_KunLunFaHui3">
-				<DisplayName>Concurso de Alquimia</DisplayName>
-				<Desc>[NAME] chegou à Piscina de Jade nas montanhas Kunlun. Cultivadores renomados mostrarão cada um seu poder especial para reunir materiais místicos e preparar o melhor Elixir de todos. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Lei da Alquimia Primordial.</Desc>
-				<Selections.0.Display>Participar do concurso</Selections.0.Display>
-				<Selections.0.Tip>Alquimia / Sorte / Estado</Selections.0.Tip>
-				<Selections.1.Display>Participar do concurso</Selections.1.Display>
-				<Selections.1.Tip>Alquimia / Sorte / Estado</Selections.1.Tip>
-				<Selections.2.Display>Assistir e aprender</Selections.2.Display>
-				<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
-				<Selections.3.Display>Retornar à Entrada</Selections.3.Display>
-			</Text>
-			<Text Name="Secrets_KunLunFaHui4">
-				<DisplayName>Duelo de Espadas</DisplayName>
-				<Desc>[NAME] chegou ao cume da Pagoda Ruby. Cultivadores renomados mostrarão cada um seu poder especial para emergir vitorioso como o espadachim mais forte de todos. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Espada de Sete Assassinatos.</Desc>
-				<Selections.0.Display>Participar do duelo</Selections.0.Display>
-				<Selections.0.Tip>Domínio do Artefato / Sorte / Estado</Selections.0.Tip>
-				<Selections.1.Display>Participar do duelo</Selections.1.Display>
-				<Selections.1.Tip>Domínio do Artefato / Sorte / Estado</Selections.1.Tip>
-				<Selections.2.Display>Assistir e aprender</Selections.2.Display>
-				<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
-				<Selections.3.Display>Retornar à Entrada</Selections.3.Display>
-			</Text>
-			<Text Name="Secrets_KunLunFaHui5">
-				<DisplayName>Duelo Mágico</DisplayName>
-				<Desc>[NAME] chegou às Ruínas do Vazio. Cultivadores renomados mostrarão cada um seu poder especial para emergir vitorioso como o usuário de magia mais forte de todos. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Lei de Corte de Emoções.</Desc>
-				<Selections.0.Display>Participar do duelo</Selections.0.Display>
-				<Selections.0.Tip>Feitiço / Sorte / Estado</Selections.0.Tip>
-				<Selections.1.Display>Participar do duelo</Selections.1.Display>
-				<Selections.1.Tip>Feitiço / Sorte / Estado</Selections.1.Tip>
-				<Selections.2.Display>Assistir e aprender</Selections.2.Display>
-				<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
-				<Selections.3.Display>Retornar à Entrada</Selections.3.Display>
-			</Text>
-			<Text Name="Secrets_GuangShouMenTu">
-				<DisplayName>Feira do Destino Imortal</DisplayName>
-				<Desc>A Grande Feira do Destino Imortal, que é realizada anualmente no mundo da cultivação, agora começou. Todas as principais seitas se juntaram ao evento em [PLACE] para recrutar novos discípulos com potencial. Por um tempo, todos os talentosos do mundo que aspiram a buscar os caminhos dos imortais se reuniram aqui. Por ordens de sua seita, [NAME] veio à reunião para recrutar novos discípulos com destino imortal.</Desc>
-				<Selections.0.Display>Recrutar discípulos</Selections.0.Display>
-				<Selections.0.Tip>Reputação da Seita / Cultivo / Carisma / Social</Selections.0.Tip>
-				<Selections.1.Display>Deixar a Feira do Destino Imortal</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_XieDiLing">
-				<DisplayName>O Túmulo do Imperador Demônio</DisplayName>
-				<Desc>O Túmulo do Imperador Demônio foi aberto. Muitos cultivadores já se reuniram lá.</Desc>
-				<Selections.0.Display>Procurar por tesouros</Selections.0.Display>
-				<Selections.0.Tip>Sorte</Selections.0.Tip>
-				<Selections.1.Display>Deixar o Túmulo</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_YuJingTan">
-				<DisplayName>Caixão Dourado Aberto</DisplayName>
-				<Desc>Quando [NAME] chegou ao Lago Jadestone, parecia que a água dentro do lago estava fervendo com luz dourada radiante. Horas se passaram, e a água no lago se dispersou em todas as direções com um som estrondoso ensurdecedor. Inúmeras faixas de luz emergiram da água e explodiram de forma desordenada. Algumas delas são especialmente chamativas.</Desc>
-				<Selections.0.Display>Correr atrás do estojo de livros selado com talismãs</Selections.0.Display>
-				<Selections.0.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.0.Tip>
-				<Selections.1.Display>Correr atrás dos cinco artefatos deixando rastros de hélice em chamas</Selections.1.Display>
-				<Selections.1.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.1.Tip>
-				<Selections.2.Display>Correr atrás do anel preto e branco piscando</Selections.2.Display>
-				<Selections.2.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.2.Tip>
-				<Selections.3.Display>Correr atrás das seis pílulas irradiando com aura violeta</Selections.3.Display>
-				<Selections.3.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.3.Tip>
-				<Selections.4.Display>Correr atrás da nuvem negra feita do fantasma do injustiçado</Selections.4.Display>
-				<Selections.4.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.4.Tip>
-				<Selections.5.Display>Sair</Selections.5.Display>
-			</Text>
-			<Text Name="Secrets_YuJingTan1">
-				<DisplayName>Caixão Dourado Aberto</DisplayName>
-				<Desc>Quando [NAME] chegou ao Lago Jadestone, parecia que a água dentro do lago estava fervendo com luz dourada radiante. Horas se passaram, e a água no lago se dispersou em todas as direções com um som estrondoso ensurdecedor. Inúmeras faixas de luz emergiram da água e explodiram de forma desordenada. Algumas delas são especialmente chamativas.</Desc>
-				<Selections.0.Display>Ir atrás de um baú de jade com um símbolo Bagua</Selections.0.Display>
-				<Selections.0.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.0.Tip>
-				<Selections.1.Display>Ir atrás de um Elixir cheio de Espírito Primordial</Selections.1.Display>
-				<Selections.1.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.1.Tip>
-				<Selections.2.Display>Ir atrás de alguns Manuais com aura maligna</Selections.2.Display>
-				<Selections.2.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.2.Tip>
-				<Selections.3.Display>Sair</Selections.3.Display>
-			</Text>
-			<Text Name="Secrets_YuJingTan2">
-				<DisplayName>Caixão Dourado Aberto</DisplayName>
-				<Desc>Quando [NAME] chegou ao Lago Jadestone, parecia que a água dentro do lago estava fervendo com luz dourada radiante. Horas se passaram, e a água no lago se dispersou em todas as direções com um som estrondoso ensurdecedor. Inúmeras faixas de luz emergiram da água e explodiram de forma desordenada. Algumas delas são especialmente chamativas.</Desc>
-				<Selections.0.Display>Ir atrás de um livro com aura sagrada</Selections.0.Display>
-				<Selections.0.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.0.Tip>
-				<Selections.1.Display>Ir atrás de 3 pedaços de Metal com aura amaldiçoada</Selections.1.Display>
-				<Selections.1.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.1.Tip>
-				<Selections.2.Display>Ir atrás de um pergaminho antigo</Selections.2.Display>
-				<Selections.2.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.2.Tip>
-				<Selections.3.Display>Ir atrás de um fragmento de pergaminho com um selo estranho</Selections.3.Display>
-				<Selections.3.Tip>Velocidade de Voo</Selections.3.Tip>
-				<Selections.4.Display>Sair</Selections.4.Display>
-			</Text>
-			<Text Name="Secrets_WuHeYouZhiXiang">
-				<DisplayName>Contos do Outro Mundo</DisplayName>
-				<Desc>[NAME] veio para a Fenda do Outro Mundo na tentativa de investigar a passagem misteriosa que leva a terras perigosas.</Desc>
-				<Selections.0.Display>Explorar</Selections.0.Display>
-				<Selections.0.Tip>Realização</Selections.0.Tip>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_YingTianTai">
-				<DisplayName>Visitante do Outro Mundo</DisplayName>
-				<Desc>[NAME] chegou à Fenda do Outro Mundo, tentando encontrar o Visitante do Outro Mundo nos contos.</Desc>
-				<Selections.0.Display>Visitar</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_YiJieChuanWen">
-				<DisplayName>Rumores do Outro Mundo</DisplayName>
-				<Desc>Recentemente, um rumor vindo do Seascape diz que houve uma região do mar envolta em nuvens e névoas que apareceu no Mar Profundo ao norte. É incomumente perigoso, pois ninguém que entrou é visto saindo. Em busca de mais informações, [NAME] veio para a cidade de Seascape.</Desc>
-				<Selections.0.Display>Perguntar por aí</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_YiJieKaiQi1">
-				<DisplayName>Reemergência do Outro Mundo</DisplayName>
-				<Desc>[NAME] veio para o local no mar como foi dito, e encontrou um trecho de espaço estilhaçado como esperado, constantemente mudando e cintilando. Para sua surpresa, a supostamente violenta Fenda do Outro Mundo na verdade parece bastante calma; pode-se até sentir ares jubilosos do outro lado da fenda. Parece não apresentar nenhuma ameaça.</Desc>
-				<Selections.0.Display>Tentar inspecionar</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_YiJieKaiQi11">
-				<DisplayName>Visão do Outro Mundo</DisplayName>
-				<Desc>Após o choque inicial, [NAME] descobriu que seu Espírito Primordial temporariamente deixou seu corpo e entrou no Outro Mundo. Embora privados de seu poder mágico neste estranho reino, eles podem voltar para seu corpo físico a qualquer momento. Sentindo-se aliviado, [NAME] decidiu dar uma olhada no estranho reino.</Desc>
-				<Selections.0.Display>Olhar em volta</Selections.0.Display>
-				<Selections.1.Display>Ir para aventura</Selections.1.Display>
-				<Selections.2.Display>Fez grandes ganhos</Selections.2.Display>
-			</Text>
-			<Text Name="Secrets_YiJieKaiQi21">
-				<DisplayName>Visão do Outro Mundo</DisplayName>
-				<Desc>Após o choque inicial, [NAME] descobriu que seu Espírito Primordial temporariamente deixou seu corpo e entrou no Outro Mundo. Embora privados de seu poder mágico neste estranho reino, eles podem voltar para seu corpo físico a qualquer momento. Sentindo-se aliviado, [NAME] decidiu dar uma olhada no estranho reino.</Desc>
-				<Selections.0.Display>Olhar em volta</Selections.0.Display>
-				<Selections.1.Display>Investigar</Selections.1.Display>
-				<Selections.2.Display>Pesquisar história</Selections.2.Display>
-			</Text>
-			<Text Name="Secrets_DuGuiXingZong">
-				<DisplayName>Rastros do Jogador</DisplayName>
-				<Desc>Depois de perguntar por aí, [NAME] finalmente encontrou Ye Xuan em uma casa de jogos.</Desc>
-				<Selections.0.Display>Oferecer para jogar com ele</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_DuGuiXingZong1">
-				<DisplayName>Jogo de Vida e Morte</DisplayName>
-				<Desc>Ye Xuan concordou em jogar com [NAME]. As regras são simples: cada jogador se reveza para tirar dois palitos dos cinco palitos de comprimentos variados, cada um representando um número de 1~5. Os jogadores então somam os números em suas mãos e adivinham a diferença entre as duas mãos dos jogadores, usando o comprimento dos palitos como pista. Quem tiver o palpite mais próximo vence. Se [NAME] vencer, [ENHIM] pode sair com um tesouro; se perder, [ENHIM] tem que dar a Ye 50 anos de vida.</Desc>
-				<Selections.0.Display>Aceitar a aposta</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_DuGuiXingZong2">
-				<DisplayName>Jogo de Vida e Morte</DisplayName>
-				<Desc>Ye Xuan concordou em jogar com [NAME]. As regras são simples: cada jogador se reveza para tirar dois palitos dos cinco palitos de comprimentos variados, cada um representando um número de 1~5. Os jogadores então somam os números em suas mãos e adivinham a diferença entre as duas mãos dos jogadores, usando o comprimento dos palitos como pista. Quem tiver o palpite mais próximo vence. Se [NAME] vencer, [ENHIM] pode sair com um tesouro; se perder, [ENHIM] tem que dar a Ye 50 anos de vida.</Desc>
-				<Selections.0.Display>Zero</Selections.0.Display>
-				<Selections.1.Display>Um</Selections.1.Display>
-				<Selections.2.Display>Dois</Selections.2.Display>
-				<Selections.3.Display>Três</Selections.3.Display>
-				<Selections.4.Display>Quatro</Selections.4.Display>
-				<Selections.5.Display>Cinco</Selections.5.Display>
-				<Selections.6.Display>Seis</Selections.6.Display>
-			</Text>
-			<Text Name="Secrets_TianJi">
-				<DisplayName>Talismã Celeste Antigo</DisplayName>
-				<Desc>Para espanto de [NAME], embora parcialmente ausente, o padrão peculiar na entrada da caverna é quase idêntico ao emblema do Patriarca Celestial, conforme mostrado no Registro dos Imortais. Este lugar poderia ter algo a ver com o Patriarca Celestial, cujo paradeiro agora é incerto?</Desc>
-				<Selections.0.Display>Tentar decifrar</Selections.0.Display>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_TianJi1">
-				<DisplayName>Caverna Drake Misteriosa</DisplayName>
-				<Desc>Com a névoa dispersa, [NAME] se encontrou em uma gruta com curiosos símbolos maciços esculpidos em suas paredes. Um homem grisalho estava sentado no centro da caverna com as pernas cruzadas, seus traços como os de uma estátua. Na frente deste homem há um pedestal de pedra natural com uma pedra preciosa de jade de origem desconhecida sobre ele. Após uma inspeção cuidadosa, [NAME] descobriu que o homem já expirou. Acontece que é um Corpo Mortal de Imortal! Há um livro em sua mão, com as palavras "Canto das Montanhas e Rios" escritas na capa.</Desc>
-				<Selections.0.Display>Investigar a parede</Selections.0.Display>
-				<Selections.0.Tip>Estado / Artesanato / Inteligência</Selections.0.Tip>
-				<Selections.1.Display>Investigar o corpo mortal</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_TianJi2">
-				<DisplayName>Patriarca Celestial</DisplayName>
-				<Desc>É uma aventura lucrativa de fato. Mas como se deve lidar com o Corpo Mortal do Patriarca Celestial?</Desc>
-				<Selections.0.Display>Pegá-lo para seu próprio uso</Selections.0.Display>
-				<Selections.1.Display>Devolvê-lo ao Palácio Skydome</Selections.1.Display>
-				<Selections.2.Display>Deixá-lo em paz</Selections.2.Display>
-			</Text>
-			<Text Name="Secrets_TianJi3">
-				<DisplayName>Retorno para Casa</DisplayName>
-				<Desc>[NAME] devolveu o Corpo Mortal do Patriarca Celestial ao Palácio Skydome. A seita estava agitada e os discípulos estavam cheios de alegria e admiração.</Desc>
-				<Selections.0.Display>Devolver o Corpo Mortal</Selections.0.Display>
-			</Text>
-			<Text Name="Secrets_SuoYingTuJuan">
-				<DisplayName>Atlas das Criaturas</DisplayName>
-				<Desc>Ao chegar ao Mt. Mesa, [NAME] descobriu que já havia grandes multidões de pessoas em busca do Tesouro Numinoso.</Desc>
-				<Selections.0.Display>Tesouro Numinoso</Selections.0.Display>
-			</Text>
-			<Text Name="Secrets_BanBenKaiQi3">
-				<DisplayName>Nascimento dos Sábios</DisplayName>
-				<Desc>Já se passaram dias desde que a explosão de Qi terminou de se espalhar pelo reino. Ao ler documentos antigos, as famosas seitas eventualmente decidiram que era a maré de Qi que surge a cada 3.000 anos. Antigos cultivadores que estavam em sono por várias razões começaram a ser revividos um a um pela Maré Milenar. \nSem a ordem e as regras atuais, os cultivadores da antiguidade acreditavam na lei da selva. Esses cultivadores com crenças antigas e longa experiência em cultivo causaram caos no mundo dos cultivadores em apenas alguns dias...</Desc>
-				<Selections.0.Display>Nascimento dos Sábios</Selections.0.Display>
-			</Text>
-			<Text Name="Secrets_BossLong">
-				<DisplayName>Rastros do Dragão de Enchente</DisplayName>
-				<Desc>[NAME] chegou a [PLACE], e sentiu a presença do Dragão de Enchente subterrâneo como esperado.</Desc>
-				<Selections.0.Display>Atrair o Dragão de Enchente</Selections.0.Display>
-				<Selections.0.Tip>Velocidade de Voo em Aventura</Selections.0.Tip>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_BossFeng">
-				<DisplayName>Rastros do Fênix</DisplayName>
-				<Desc>[NAME] chegou a [PLACE], e sentiu a presença do Fênix como esperado.</Desc>
-				<Selections.0.Display>Atrair o Fênix</Selections.0.Display>
-				<Selections.0.Tip>Velocidade de Voo em Aventura</Selections.0.Tip>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_BossZhuLong">
-				<DisplayName>Fôlego Yin-Yang</DisplayName>
-				<Desc>[NAME] chegou a [PLACE], e sentiu o equilíbrio perturbado de Yin e Yang como esperado.</Desc>
-				<Selections.0.Display>Canalizar o Fôlego Yin-Yang</Selections.0.Display>
-				<Selections.0.Tip>Velocidade de Voo em Aventura</Selections.0.Tip>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_danengtest">
-				<DisplayName>Nascimento dos Sábios</DisplayName>
-				<Desc>Desde o início da Maré Milenar, Cultivadores Antigos têm aparecido por toda parte. Reúna o máximo de informações possível, já existem vários sábios nascendo neste mundo.</Desc>
-				<Selections.0.Display>Nascimento dos Sábios</Selections.0.Display>
-			</Text>
-			<Text Name="Secrets_DaNengChuShi">
-				<DisplayName>Rastros do Cultivador Antigo</DisplayName>
-				<Desc>[NAME] veio para [PLACE] em busca de pistas sobre o paradeiro do cultivador antigo.</Desc>
-				<Selections.0.Display>Procurar o cultivador antigo</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_DaNengChuShi1">
-				<DisplayName>Rastros do Cultivador Antigo</DisplayName>
-				<Desc>Depois de perguntar por aí, [NAME] finalmente encontrou o cultivador antigo.</Desc>
-				<Selections.0.Display>Observar</Selections.0.Display>
-				<Selections.1.Display>Negociar</Selections.1.Display>
-				<Selections.1.Tip>Carisma / Estado</Selections.1.Tip>
-				<Selections.2.Display>Caverna Misteriosa</Selections.2.Display>
-				<Selections.3.Display>Provocar</Selections.3.Display>
-				<Selections.3.Tip>Velocidade de Voo em Aventura</Selections.3.Tip>
-				<Selections.4.Display>Sair</Selections.4.Display>
-			</Text>
-			<Text Name="Story_Building_SwordTower">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente à Pagoda e tenta se comunicar com ela usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Building_HenZhiBei">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Building_LongZhiBei">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Secrets_TongLing">
-				<DisplayName>Vestígios de um Velho Amigo</DisplayName>
-				<Desc>[NAME] chegou ao Mt. Coppertomb e usou a percepção para descobrir que a pessoa estranha estava em uma mina abandonada... Era o Sétimo irmão marcial!</Desc>
-				<Selections.0.Display>Cumprimentá-lo</Selections.0.Display>
-			</Text>
-			<Text Name="Story_Building_ShouZhiBei">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Plant_ShouZhiBeiQian">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] usa Percepção para tentar se comunicar com o Cadáver.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Plant_WinterSummer">
-				<DisplayName>Colher</DisplayName>
-				<Desc>[NAME] gentilmente colhe alguns Fungos Caterpillar.</Desc>
-				<Selections.0.Display>Colher</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Building_JiZhiBei">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Building_HuanZhiBei">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Plant_LingZhi_Jin">
-				<DisplayName>Examinar</DisplayName>
-				<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
-				<Selections.0.Display>Examinar</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Plant_LingZhi_Mu">
-				<DisplayName>Examinar</DisplayName>
-				<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
-				<Selections.0.Display>Examinar</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Plant_LingZhi_Shui">
-				<DisplayName>Examinar</DisplayName>
-				<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
-				<Selections.0.Display>Examinar</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Plant_LingZhi_Huo">
-				<DisplayName>Examinar</DisplayName>
-				<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
-				<Selections.0.Display>Examinar</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Plant_LingZhi_Tu">
-				<DisplayName>Examinar</DisplayName>
-				<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
-				<Selections.0.Display>Examinar</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Plant_ShiXiong">
-				<DisplayName>Procurar</DisplayName>
-				<Desc>Então este é o Sétimo Mestre. Parece que ele estava com muita dor quando faleceu. [NAME] se curvou e procurou o cadáver.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Building_ZhongBei">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Building_XingBei">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Building_LingBei">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Building_MuBei">
-				<DisplayName>Interagir</DisplayName>
-				<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
-				<Selections.0.Display>Interagir</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Building_TaiYi">
-				<DisplayName>Visitar Seita</DisplayName>
-				<Desc>[NAME] ajoelhou-se diante do Portão da Montanha Taiyi e as memórias de eventos passados vieram à mente.</Desc>
-			</Text>
-			<Text Name="Story_Building_NoLight">
-				<DisplayName>Inspecionar</DisplayName>
-				<Desc>[NAME] achou estranho que a lanterna não estava acesa. Eles se agacharam para verificar e encontraram algo estranho na paisagem.</Desc>
-			</Text>
-			<Text Name="Story_Building_FireLantern">
-				<DisplayName>Inspecionar</DisplayName>
-				<Desc>[NAME] achou estranho. Por que a lanterna foi feita com uma Barra de Essência de Fogo? Olhando atentamente, o ambiente já não parecia ser um dormitório de mineradores.</Desc>
-			</Text>
-			<Text Name="Story_Building_GolemLantern">
-				<DisplayName>Inspecionar</DisplayName>
-				<Desc>[NAME] achou estranho, havia um Poste de Lâmpada feito de Pedra Sagrada aqui antes? Depois de entrar, houve um flash, e já não parecia tão quente.</Desc>
-			</Text>
-			<Text Name="Story_Building_OddLantern">
-				<DisplayName>Inspecionar</DisplayName>
-				<Desc>[NAME] achou estranho, esta é a posição certa para esta Lanterna? Eles tentaram colocá-la na posição. De repente, parece que a lanterna grita, e então o ambiente parecia diferente.</Desc>
-			</Text>
-			<Text Name="Story_Item_OpenAuction">
-				<DisplayName>Inspecionar</DisplayName>
-				<Desc>[NAME] abre a carta de convite: \nSaudações Imortais, recebi tesouros de todo o mundo, e vocês estão convidados a fazer compras da minha coleção, se assim desejarem. A regra é simples: Quem paga mais Pedra Espiritual pode ter meu tesouro. Quanto mais, melhor! \nAssinatura: Ye Xuan.</Desc>
-			</Text>
-			<Text Name="Story_Building_TaiYiTower">
-				<DisplayName>Cerimônia Memorial</DisplayName>
-				<Desc>[NAME] realiza uma cerimônia aos pés da Pagoda. Algo parece interagir fracamente com seu Qi, que foi uma vez nutrido pelos ensinamentos da Seita Taiyi.</Desc>
-				<Selections.0.Display>Procurar</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_UnlockTiXiu">
-				<DisplayName>Inscrições do Penhasco do Dragão</DisplayName>
-				<Desc>[NAME] chegou aqui e viu uma enorme rocha de montanha em pé no fundo do deserto. A rocha era de cor vermelha, com um lado tão íngreme como se fosse cortado por uma faca. Nela estavam esculpidos inúmeros textos sofisticados que continuam se movendo e mudando. Eram as lendárias inscrições do Penhasco do Dragão, local sagrado do antigo Yaoguai.</Desc>
-				<Selections.0.Display>Meditar sobre as inscrições</Selections.0.Display>
-				<Selections.1.Display>Desistir</Selections.1.Display>
-			</Text>
-			<Text Name="Story_Esoterica_QuQiJue">
-				<DisplayName>O Rastro de um Alquimista</DisplayName>
-				<Desc>Ao chegar [NAME] no local rumoroso na Montanha da Roda Lunar, uma busca minuciosa revelou um pequeno monte escondido por um monte de ervas</Desc>
-				<Selections.0.Display>Procurar</Selections.0.Display>
-				<Selections.0.Tip>Núcleo Dourado</Selections.0.Tip>
-				<Selections.1.Display>Sair</Selections.1.Display>
-			</Text>
-		</List>
-	</Texts>
+			<Selections.0.Display>Procure por tesouros</Selections.0.Display>
+			<Selections.0.Tip>Criação de Artefatos</Selections.0.Tip>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear_Medicine">
+			<DisplayName>Morada do Imortal</DisplayName>
+			<Desc>[NAME] encontrou uma antiga morada de um imortal em [PLACE], com uma abundância de tesouros escondidos nela. O dono da caverna era um mestre Alquimista, que montou inúmeras armadilhas e feitiços de proteção com essa habilidade. Não se pode sobreviver e explorar a caverna sem ser proficiente em Alquimia.</Desc>
+			<Selections.0.Display>Procurar por tesouros</Selections.0.Display>
+			<Selections.0.Tip>Alquimia</Selections.0.Tip>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Esoterica1">
+			<DisplayName>Vestígios de Livro Antigo</DisplayName>
+			<Desc>Tendo chegado a [PLACE], [NAME] descobriu que um grande número de cultivadores já havia vindo aqui em busca do livro antigo.</Desc>
+			<Selections.0.Display>Divinizar a localização do livro</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
+			<Selections.1.Display>Procurar ao redor</Selections.1.Display>
+			<Selections.1.Tip>Sorte</Selections.1.Tip>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Esoterica2">
+			<DisplayName>Desenterrando Manual</DisplayName>
+			<Desc>Tendo chegado a [PLACE], [NAME] descobriu que outros cultivadores em busca do manual já haviam se envolvido em uma luta emaranhada.</Desc>
+			<Selections.0.Display>Pegá-lo à força</Selections.0.Display>
+			<Selections.0.Tip>Núcleo Dourado</Selections.0.Tip>
+			<Selections.1.Display>Aguarde sua vez</Selections.1.Display>
+			<Selections.1.Tip>Sorte</Selections.1.Tip>
+			<Selections.2.Display>Sair</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Magic">
+			<DisplayName>Manifestando Milagre</DisplayName>
+			<Desc>Tendo chegado a [PLACE], [NAME] descobriu que um grande número de cultivadores já havia se reunido em torno das recém-descobertas Gravuras de Pedra do Penhasco do Dragão.</Desc>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.0.Tip>Inteligência</Selections.0.Tip>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Magic_Cold">
+			<DisplayName>Manifestando Milagre</DisplayName>
+			<Desc>Tendo chegado a [PLACE], [NAME] descobriu que um grande número de cultivadores já havia se reunido em torno das recém-descobertas Gravuras de Pedra do Penhasco do Dragão. No entanto, devido à interferência da mecânica de energia Qi entre o céu e a terra, a terra circundante do local desenterrado foi envolta em geada.</Desc>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.0.Tip>Inteligência</Selections.0.Tip>
+			<Selections.1.Display>Sair em frustração</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Magic_Hot">
+			<DisplayName>Manifestando Milagre</DisplayName>
+			<Desc>Tendo chegado a [PLACE], [NAME] descobriu que um grande número de cultivadores já havia se reunido em torno das recém-descobertas Gravuras de Pedra do Penhasco do Dragão. No entanto, devido à interferência da mecânica de energia Qi entre o céu e a terra, a terra circundante do local desenterrado foi cercada por fogo infernal.</Desc>
+			<Selections.0.Display>Meditar</Selections.0.Display>
+			<Selections.0.Tip>Inteligência</Selections.0.Tip>
+			<Selections.1.Display>Sair em frustração</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX1">
+			<DisplayName>Vale dos Vermes</DisplayName>
+			<Desc>De acordo com As Viagens do Domador de Ventos: Volume VI, a Lei da Luta para a imortalidade foi encontrada pelo Mestre Ancestral Hunyuan, e inspirou admiração em todo o reino. O cultivador foi atacado por seis seitas malignas no Vale dos Vermes do Sul Selvagem em seus últimos anos, e os tesouros mais preciosos que ele carregava consigo foram perdidos no vale. Seguindo essa pista, [NAME] chegou ao Vale dos Vermes na esperança de encontrar algo.</Desc>
+			<Selections.0.Display>Procurar</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX2">
+			<DisplayName>Tesouro do Veneno</DisplayName>
+			<Desc>De acordo com o antigo tomo secreto Registros Suplementares: Livro III de III, a Ilha Exultante foi manifestada a partir dos restos do Dragão Arqueano após sua Ascensão, o Lago do Dragão Venenoso sendo onde seu portão da mente estava localizado. Talvez algo curioso possa ser encontrado no lago. O lugar definitivamente merece uma olhada mais de perto.</Desc>
+			<Selections.0.Display>Procurar</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX3">
+			<DisplayName>Palácio Celestial</DisplayName>
+			<Desc>[NAME] lembrou que, de acordo com As Viagens do Domador de Ventos: Volume I, existe outra misteriosa caverna interna sob os Restos da Caverna do Doutor Imortal no Pico do Alquimista. Eles decidiram mergulhar no mistério.</Desc>
+			<Selections.0.Display>Explorar</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX4">
+			<DisplayName>Caverna de Fogo</DisplayName>
+			<Desc>[NAME] lembrou que, de acordo com os Registros Taoístas Secretos: As Crônicas do Grande Deserto, o deserto foi formado devido a um meteorito que caiu do céu no antigo período Arqueano. O local onde o Aerólito pousou tornou-se conhecido como Ninho de Chamas nas gerações posteriores. Talvez algo curioso possa ser encontrado na profundidade da caverna infernal. O lugar definitivamente merece uma olhada mais de perto.</Desc>
+			<Selections.0.Display>Explorar</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX5">
+			<DisplayName>Tesouro do Anjo</DisplayName>
+			<Desc>De acordo com os Registros Suplementares: Livro I de III, sob a Piscina Celestial do Mt. Nelumbo existe um prédio anteriormente usado pelo Fazendeiro Divino como um lugar de reclusão. [NAME] decidiu mergulhar no mistério.</Desc>
+			<Selections.0.Display>Explorar</Selections.0.Display>
+			<Selections.0.Tip>Sorte e Inteligência</Selections.0.Tip>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX6">
+			<DisplayName>Restos do Demônio</DisplayName>
+			<Desc>De acordo com As Viagens do Domador de Ventos: Volume II, houve uma vez um Demônio Celestial sendo selado dentro da Floresta Espinhosa no pé das Montanhas Negras. Um Milagre pode ser obtido ao se comunicar com o Demônio Celestial através de uma Lei Secreta.</Desc>
+			<Selections.0.Display>Comunicar-se com o Demônio</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppearEX">
+			<DisplayName>Ruínas de Taiyi</DisplayName>
+			<Desc>Não havia vestígios do inimigo, então [NAME] entrou cuidadosamente nas ruínas da Seita Taiyi.</Desc>
+			<Selections.0.Display>Pavilhão Manual</Selections.0.Display>
+			<Selections.1.Display>Procurar em todos os lugares</Selections.1.Display>
+			<Selections.2.Display>Visitante Misterioso</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppearEX_FIX">
+			<DisplayName>Replay da História: Retorno a Taiyi</DisplayName>
+			<Desc>Como as principais missões sobre a Destruição de Taiyi não estão ao vivo até a atualização do conteúdo do Reino Mortal, a trama que possivelmente foi perdida pelos jogadores das versões anteriores do jogo será reproduzida aqui. \nVários meses após a queda da seita, você aprendeu os ensinamentos dos Cinco Picos da Seita Taiyi enquanto retornava à seita agora em ruínas. No entanto, durante a investigação, uma figura misteriosa caiu do céu. À primeira vista, parece a Anciã Yue Qingchou do Abode do Crepúsculo! É incomum para ela estar aqui, ela deve saber de algo. \nDevido ao limite de tempo da missão, os antigos arquivos de salvamento de mais de 700 dias de tempo de jogo inevitavelmente perderão pistas importantes, portanto, não poderão experimentar todas as missões principais. Pedimos desculpas por isso.</Desc>
+			<Selections.0.Display>Ok</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_NanPing1">
+			<DisplayName>Caixão de Pedra</DisplayName>
+			<Desc>[NAME] chegou à Vila Nanping e soube do local de moradia de Zhang Erwa por algum aldeão.</Desc>
+			<Selections.0.Display>Pedir pelo Caixão</Selections.0.Display>
+			<Selections.0.Tip>Carisma</Selections.0.Tip>
+		</Text>
+		<Text Name="Secrets_XianJianLing1">
+			<DisplayName>Ordem dos Paladinos</DisplayName>
+			<Desc>[NAME] veio ao Mt. Shu para a questão da Ordem dos Paladinos.</Desc>
+			<Selections.0.Display>Pedir detalhes</Selections.0.Display>
+			<Selections.1.Display>Informar Mt. Shu</Selections.1.Display>
+			<Selections.2.Display>Esconder a verdade</Selections.2.Display>
+			<Selections.3.Display>Falhou em capturar o culpado</Selections.3.Display>
+			<Selections.4.Display>Tomar sua licença</Selections.4.Display>
+		</Text>
+		<Text Name="Secrets_XianJianLing2">
+			<DisplayName>Vestígios da Seita Demoníaca</DisplayName>
+			<Desc>Tendo perseguido o cultista da Alma Milenar até a fronteira, [NAME] finalmente alcançou o fugitivo, que já está esgotado pela fuga de mil milhas. Eles imploraram por suas vidas e se ofereceram para deixar [NAME] conhecer o segredo da Lei de Cultivo da Seita da Alma Milenar.</Desc>
+			<Selections.0.Display>Deixe-os ir</Selections.0.Display>
+			<Selections.1.Display>Mate-os por justiça</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui">
+			<DisplayName>Competição Kunlun</DisplayName>
+			<Desc>[NAME] chegou às Montanhas Kunlun e descobriu que a Competição Kunlun já começou. Cultivadores e imortais se reuniram, mostrando majestade em toda a sua variedade. Apenas aqueles que atingiram o estado de cultivo do núcleo dourado ou superior podem participar de uma das cinco competições, e o vencedor pode ser informado sobre uma das Leis de Cultivo do Palácio do Vazio de Jade. [NAME] estava se perguntando em qual competição [ENHIM] deve participar.</Desc>
+			<Selections.0.Display>Debate Kunlun</Selections.0.Display>
+			<Selections.1.Display>Concurso de Artesanato</Selections.1.Display>
+			<Selections.2.Display>Concurso de Alquimia</Selections.2.Display>
+			<Selections.3.Display>Duelo de Espadas</Selections.3.Display>
+			<Selections.4.Display>Duelo Mágico</Selections.4.Display>
+			<Selections.5.Display>Sair</Selections.5.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui1">
+			<DisplayName>Debate Kunlun</DisplayName>
+			<Desc>[NAME] chegou ao pico principal das Montanhas Kunlun. É onde o local principal está localizado, e cultivadores renomados realizarão debates acalorados aqui. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Lei Imortal da Pureza de Jade.</Desc>
+			<Selections.0.Display>Participar do debate</Selections.0.Display>
+			<Selections.0.Tip>Inteligência / Sorte / Estado</Selections.0.Tip>
+			<Selections.1.Display>Participar do debate</Selections.1.Display>
+			<Selections.1.Tip>Inteligência / Sorte / Estado</Selections.1.Tip>
+			<Selections.2.Display>Assistir e aprender</Selections.2.Display>
+			<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
+			<Selections.3.Display>Retornar à Entrada</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui2">
+			<DisplayName>Concurso de Artesanato</DisplayName>
+			<Desc>[NAME] chegou à Caverna Dracônica nas montanhas Kunlun. Cultivadores renomados mostrarão cada um seu poder especial para criar o melhor Artefato de todos. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Lei do Myriad Artifact.</Desc>
+			<Selections.0.Display>Participar do concurso</Selections.0.Display>
+			<Selections.0.Tip>Artesanato de Artefatos / Sorte / Estado</Selections.0.Tip>
+			<Selections.1.Display>Participar do concurso</Selections.1.Display>
+			<Selections.1.Tip>Artesanato de Artefatos / Sorte / Estado</Selections.1.Tip>
+			<Selections.2.Display>Assistir e aprender</Selections.2.Display>
+			<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
+			<Selections.3.Display>Deixar o debate</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui3">
+			<DisplayName>Concurso de Alquimia</DisplayName>
+			<Desc>[NAME] chegou à Piscina de Jade nas montanhas Kunlun. Cultivadores renomados mostrarão cada um seu poder especial para reunir materiais místicos e preparar o melhor Elixir de todos. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Lei da Alquimia Primordial.</Desc>
+			<Selections.0.Display>Participar do concurso</Selections.0.Display>
+			<Selections.0.Tip>Alquimia / Sorte / Estado</Selections.0.Tip>
+			<Selections.1.Display>Participar do concurso</Selections.1.Display>
+			<Selections.1.Tip>Alquimia / Sorte / Estado</Selections.1.Tip>
+			<Selections.2.Display>Assistir e aprender</Selections.2.Display>
+			<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
+			<Selections.3.Display>Retornar à Entrada</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui4">
+			<DisplayName>Duelo de Espadas</DisplayName>
+			<Desc>[NAME] chegou ao cume da Pagoda Ruby. Cultivadores renomados mostrarão cada um seu poder especial para emergir vitorioso como o espadachim mais forte de todos. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Espada de Sete Assassinatos.</Desc>
+			<Selections.0.Display>Participar do duelo</Selections.0.Display>
+			<Selections.0.Tip>Domínio do Artefato / Sorte / Estado</Selections.0.Tip>
+			<Selections.1.Display>Participar do duelo</Selections.1.Display>
+			<Selections.1.Tip>Domínio do Artefato / Sorte / Estado</Selections.1.Tip>
+			<Selections.2.Display>Assistir e aprender</Selections.2.Display>
+			<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
+			<Selections.3.Display>Retornar à Entrada</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui5">
+			<DisplayName>Duelo Mágico</DisplayName>
+			<Desc>[NAME] chegou às Ruínas do Vazio. Cultivadores renomados mostrarão cada um seu poder especial para emergir vitorioso como o usuário de magia mais forte de todos. De acordo com a prática passada, o vencedor pode ser informado sobre a autêntica Lei de Corte de Emoções.</Desc>
+			<Selections.0.Display>Participar do duelo</Selections.0.Display>
+			<Selections.0.Tip>Feitiço / Sorte / Estado</Selections.0.Tip>
+			<Selections.1.Display>Participar do duelo</Selections.1.Display>
+			<Selections.1.Tip>Feitiço / Sorte / Estado</Selections.1.Tip>
+			<Selections.2.Display>Assistir e aprender</Selections.2.Display>
+			<Selections.2.Tip>Inteligência / Sorte</Selections.2.Tip>
+			<Selections.3.Display>Retornar à Entrada</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_GuangShouMenTu">
+			<DisplayName>Feira do Destino Imortal</DisplayName>
+			<Desc>A Grande Feira do Destino Imortal, que é realizada anualmente no mundo da cultivação, agora começou. Todas as principais seitas se juntaram ao evento em [PLACE] para recrutar novos discípulos com potencial. Por um tempo, todos os talentosos do mundo que aspiram a buscar os caminhos dos imortais se reuniram aqui. Por ordens de sua seita, [NAME] veio à reunião para recrutar novos discípulos com destino imortal.</Desc>
+			<Selections.0.Display>Recrutar discípulos</Selections.0.Display>
+			<Selections.0.Tip>Reputação da Seita / Cultivo / Carisma / Social</Selections.0.Tip>
+			<Selections.1.Display>Deixar a Feira do Destino Imortal</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_XieDiLing">
+			<DisplayName>O Túmulo do Imperador Demônio</DisplayName>
+			<Desc>O Túmulo do Imperador Demônio foi aberto. Muitos cultivadores já se reuniram lá.</Desc>
+			<Selections.0.Display>Procurar por tesouros</Selections.0.Display>
+			<Selections.0.Tip>Sorte</Selections.0.Tip>
+			<Selections.1.Display>Deixar o Túmulo</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YuJingTan">
+			<DisplayName>Caixão Dourado Aberto</DisplayName>
+			<Desc>Quando [NAME] chegou ao Lago Jadestone, parecia que a água dentro do lago estava fervendo com luz dourada radiante. Horas se passaram, e a água no lago se dispersou em todas as direções com um som estrondoso ensurdecedor. Inúmeras faixas de luz emergiram da água e explodiram de forma desordenada. Algumas delas são especialmente chamativas.</Desc>
+			<Selections.0.Display>Correr atrás do estojo de livros selado com talismãs</Selections.0.Display>
+			<Selections.0.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.0.Tip>
+			<Selections.1.Display>Correr atrás dos cinco artefatos deixando rastros de hélice em chamas</Selections.1.Display>
+			<Selections.1.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.1.Tip>
+			<Selections.2.Display>Correr atrás do anel preto e branco piscando</Selections.2.Display>
+			<Selections.2.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.2.Tip>
+			<Selections.3.Display>Correr atrás das seis pílulas irradiando com aura violeta</Selections.3.Display>
+			<Selections.3.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.3.Tip>
+			<Selections.4.Display>Correr atrás da nuvem negra feita do fantasma do injustiçado</Selections.4.Display>
+			<Selections.4.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.4.Tip>
+			<Selections.5.Display>Sair</Selections.5.Display>
+		</Text>
+		<Text Name="Secrets_YuJingTan1">
+			<DisplayName>Caixão Dourado Aberto</DisplayName>
+			<Desc>Quando [NAME] chegou ao Lago Jadestone, parecia que a água dentro do lago estava fervendo com luz dourada radiante. Horas se passaram, e a água no lago se dispersou em todas as direções com um som estrondoso ensurdecedor. Inúmeras faixas de luz emergiram da água e explodiram de forma desordenada. Algumas delas são especialmente chamativas.</Desc>
+			<Selections.0.Display>Ir atrás de um baú de jade com um símbolo Bagua</Selections.0.Display>
+			<Selections.0.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.0.Tip>
+			<Selections.1.Display>Ir atrás de um Elixir cheio de Espírito Primordial</Selections.1.Display>
+			<Selections.1.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.1.Tip>
+			<Selections.2.Display>Ir atrás de alguns Manuais com aura maligna</Selections.2.Display>
+			<Selections.2.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.2.Tip>
+			<Selections.3.Display>Sair</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_YuJingTan2">
+			<DisplayName>Caixão Dourado Aberto</DisplayName>
+			<Desc>Quando [NAME] chegou ao Lago Jadestone, parecia que a água dentro do lago estava fervendo com luz dourada radiante. Horas se passaram, e a água no lago se dispersou em todas as direções com um som estrondoso ensurdecedor. Inúmeras faixas de luz emergiram da água e explodiram de forma desordenada. Algumas delas são especialmente chamativas.</Desc>
+			<Selections.0.Display>Ir atrás de um livro com aura sagrada</Selections.0.Display>
+			<Selections.0.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.0.Tip>
+			<Selections.1.Display>Ir atrás de 3 pedaços de Metal com aura amaldiçoada</Selections.1.Display>
+			<Selections.1.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.1.Tip>
+			<Selections.2.Display>Ir atrás de um pergaminho antigo</Selections.2.Display>
+			<Selections.2.Tip>Velocidade de Voo \ Sorte \ Espírito Primordial</Selections.2.Tip>
+			<Selections.3.Display>Ir atrás de um fragmento de pergaminho com um selo estranho</Selections.3.Display>
+			<Selections.3.Tip>Velocidade de Voo</Selections.3.Tip>
+			<Selections.4.Display>Sair</Selections.4.Display>
+		</Text>
+		<Text Name="Secrets_WuHeYouZhiXiang">
+			<DisplayName>Contos do Outro Mundo</DisplayName>
+			<Desc>[NAME] veio para a Fenda do Outro Mundo na tentativa de investigar a passagem misteriosa que leva a terras perigosas.</Desc>
+			<Selections.0.Display>Explorar</Selections.0.Display>
+			<Selections.0.Tip>Realização</Selections.0.Tip>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YingTianTai">
+			<DisplayName>Visitante do Outro Mundo</DisplayName>
+			<Desc>[NAME] chegou à Fenda do Outro Mundo, tentando encontrar o Visitante do Outro Mundo nos contos.</Desc>
+			<Selections.0.Display>Visitar</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YiJieChuanWen">
+			<DisplayName>Rumores do Outro Mundo</DisplayName>
+			<Desc>Recentemente, um rumor vindo do Seascape diz que houve uma região do mar envolta em nuvens e névoas que apareceu no Mar Profundo ao norte. É incomumente perigoso, pois ninguém que entrou é visto saindo. Em busca de mais informações, [NAME] veio para a cidade de Seascape.</Desc>
+			<Selections.0.Display>Perguntar por aí</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YiJieKaiQi1">
+			<DisplayName>Reemergência do Outro Mundo</DisplayName>
+			<Desc>[NAME] veio para o local no mar como foi dito, e encontrou um trecho de espaço estilhaçado como esperado, constantemente mudando e cintilando. Para sua surpresa, a supostamente violenta Fenda do Outro Mundo na verdade parece bastante calma; pode-se até sentir ares jubilosos do outro lado da fenda. Parece não apresentar nenhuma ameaça.</Desc>
+			<Selections.0.Display>Tentar inspecionar</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YiJieKaiQi11">
+			<DisplayName>Visão do Outro Mundo</DisplayName>
+			<Desc>Após o choque inicial, [NAME] descobriu que seu Espírito Primordial temporariamente deixou seu corpo e entrou no Outro Mundo. Embora privados de seu poder mágico neste estranho reino, eles podem voltar para seu corpo físico a qualquer momento. Sentindo-se aliviado, [NAME] decidiu dar uma olhada no estranho reino.</Desc>
+			<Selections.0.Display>Olhar em volta</Selections.0.Display>
+			<Selections.1.Display>Ir para aventura</Selections.1.Display>
+			<Selections.2.Display>Fez grandes ganhos</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_YiJieKaiQi21">
+			<DisplayName>Visão do Outro Mundo</DisplayName>
+			<Desc>Após o choque inicial, [NAME] descobriu que seu Espírito Primordial temporariamente deixou seu corpo e entrou no Outro Mundo. Embora privados de seu poder mágico neste estranho reino, eles podem voltar para seu corpo físico a qualquer momento. Sentindo-se aliviado, [NAME] decidiu dar uma olhada no estranho reino.</Desc>
+			<Selections.0.Display>Olhar em volta</Selections.0.Display>
+			<Selections.1.Display>Investigar</Selections.1.Display>
+			<Selections.2.Display>Procurar história</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DuGuiXingZong">
+			<DisplayName>Rastros do Jogador</DisplayName>
+			<Desc>Depois de perguntar por aí, [NAME] finalmente encontrou Ye Xuan em uma casa de jogos.</Desc>
+			<Selections.0.Display>Oferecer para jogar com ele</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DuGuiXingZong1">
+			<DisplayName>Jogo de Vida e Morte</DisplayName>
+			<Desc>Ye Xuan concordou em jogar com [NAME]. As regras são simples: cada jogador se reveza para tirar dois palitos dos cinco palitos de comprimentos variados, cada um representando um número de 1~5. Os jogadores então somam os números em suas mãos e adivinham a diferença entre as duas mãos dos jogadores, usando o comprimento dos palitos como pista. Quem tiver o palpite mais próximo vence. Se [NAME] vencer, [ENHIM] pode sair com um tesouro; se perder, [ENHIM] tem que dar a Ye 50 anos de vida.</Desc>
+			<Selections.0.Display>Aceitar a aposta</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DuGuiXingZong2">
+			<DisplayName>Jogo de Vida e Morte</DisplayName>
+			<Desc>Ye Xuan concordou em jogar com [NAME]. As regras são simples: cada jogador se reveza para tirar dois palitos dos cinco palitos de comprimentos variados, cada um representando um número de 1~5. Os jogadores então somam os números em suas mãos e adivinham a diferença entre as duas mãos dos jogadores, usando o comprimento dos palitos como pista. Quem tiver o palpite mais próximo vence. Se [NAME] vencer, [ENHIM] pode sair com um tesouro; se perder, [ENHIM] tem que dar a Ye 50 anos de vida.</Desc>
+			<Selections.0.Display>Zero</Selections.0.Display>
+			<Selections.1.Display>Um</Selections.1.Display>
+			<Selections.2.Display>Dois</Selections.2.Display>
+			<Selections.3.Display>Três</Selections.3.Display>
+			<Selections.4.Display>Quatro</Selections.4.Display>
+			<Selections.5.Display>Cinco</Selections.5.Display>
+			<Selections.6.Display>Seis</Selections.6.Display>
+		</Text>
+		<Text Name="Secrets_TianJi">
+			<DisplayName>Talismã Celeste Antigo</DisplayName>
+			<Desc>Para espanto de [NAME], embora parcialmente ausente, o padrão peculiar na entrada da caverna é quase idêntico ao emblema do Patriarca Celestial, conforme mostrado no Registro dos Imortais. Este lugar poderia ter algo a ver com o Patriarca Celestial, cujo paradeiro agora é incerto?</Desc>
+			<Selections.0.Display>Tentar decifrar</Selections.0.Display>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_TianJi1">
+			<DisplayName>Caverna Drake Misteriosa</DisplayName>
+			<Desc>Com a névoa dispersa, [NAME] se encontrou em uma gruta com curiosos símbolos maciços esculpidos em suas paredes. Um homem grisalho estava sentado no centro da caverna com as pernas cruzadas, seus traços como os de uma estátua. Na frente deste homem há um pedestal de pedra natural com uma pedra preciosa de jade de origem desconhecida sobre ele. Após uma inspeção cuidadosa, [NAME] descobriu que o homem já expirou. Acontece que é um Corpo Mortal de Imortal! Há um livro em sua mão, com as palavras "Canto das Montanhas e Rios" escritas na capa.</Desc>
+			<Selections.0.Display>Investigar a parede</Selections.0.Display>
+			<Selections.0.Tip>Estado / Artesanato / Inteligência</Selections.0.Tip>
+			<Selections.1.Display>Investigar o corpo mortal</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_TianJi2">
+			<DisplayName>Patriarca Celestial</DisplayName>
+			<Desc>É uma aventura lucrativa de fato. Mas como se deve lidar com o Corpo Mortal do Patriarca Celestial?</Desc>
+			<Selections.0.Display>Pegá-lo para seu próprio uso</Selections.0.Display>
+			<Selections.1.Display>Devolvê-lo ao Palácio Skydome</Selections.1.Display>
+			<Selections.2.Display>Deixá-lo em paz</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_TianJi3">
+			<DisplayName>Retorno para Casa</DisplayName>
+			<Desc>[NAME] devolveu o Corpo Mortal do Patriarca Celestial ao Palácio Skydome. A seita estava agitada e os discípulos estavam cheios de alegria e admiração.</Desc>
+			<Selections.0.Display>Devolver o Corpo Mortal</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_SuoYingTuJuan">
+			<DisplayName>Atlas das Criaturas</DisplayName>
+			<Desc>Ao chegar ao Mt. Mesa, [NAME] descobriu que já havia grandes multidões de pessoas em busca do Tesouro Numinoso.</Desc>
+			<Selections.0.Display>Tesouro Numinoso</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_BanBenKaiQi3">
+			<DisplayName>Nascimento dos Sábios</DisplayName>
+			<Desc>Já se passaram dias desde que a explosão de Qi terminou de se espalhar pelo reino. Ao ler documentos antigos, as famosas seitas eventualmente decidiram que era a maré de Qi que surge a cada 3.000 anos. Antigos cultivadores que estavam em sono por várias razões começaram a ser revividos um a um pela Maré Milenar. \nSem a ordem e as regras atuais, os cultivadores da antiguidade acreditavam na lei da selva. Esses cultivadores com crenças antigas e longa experiência em cultivo causaram caos no mundo dos cultivadores em apenas alguns dias...</Desc>
+			<Selections.0.Display>Nascimento dos Sábios</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_BossLong">
+			<DisplayName>Rastros do Dragão de Enchente</DisplayName>
+			<Desc>[NAME] chegou a [PLACE], e sentiu a presença do Dragão de Enchente subterrâneo como esperado.</Desc>
+			<Selections.0.Display>Atrair o Dragão de Enchente</Selections.0.Display>
+			<Selections.0.Tip>Velocidade de Voo em Aventura</Selections.0.Tip>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_BossFeng">
+			<DisplayName>Rastros do Fênix</DisplayName>
+			<Desc>[NAME] chegou a [PLACE], e sentiu a presença do Fênix como esperado.</Desc>
+			<Selections.0.Display>Atrair o Fênix</Selections.0.Display>
+			<Selections.0.Tip>Velocidade de Voo em Aventura</Selections.0.Tip>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_BossZhuLong">
+			<DisplayName>Fôlego Yin-Yang</DisplayName>
+			<Desc>[NAME] chegou a [PLACE], e sentiu o equilíbrio perturbado de Yin e Yang como esperado.</Desc>
+			<Selections.0.Display>Canalizar o Fôlego Yin-Yang</Selections.0.Display>
+			<Selections.0.Tip>Velocidade de Voo em Aventura</Selections.0.Tip>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_danengtest">
+			<DisplayName>Nascimento dos Sábios</DisplayName>
+			<Desc>Desde o início da Maré Milenar, Cultivadores Antigos têm aparecido por toda parte. Reúna o máximo de informações possível, já existem vários sábios nascendo neste mundo.</Desc>
+			<Selections.0.Display>Nascimento dos Sábios</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_DaNengChuShi">
+			<DisplayName>Rastros do Cultivador Antigo</DisplayName>
+			<Desc>[NAME] veio para [PLACE] em busca de pistas sobre o paradeiro do cultivador antigo.</Desc>
+			<Selections.0.Display>Procurar o cultivador antigo</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DaNengChuShi1">
+			<DisplayName>Rastros do Cultivador Antigo</DisplayName>
+			<Desc>Depois de perguntar por aí, [NAME] finalmente encontrou o cultivador antigo.</Desc>
+			<Selections.0.Display>Observar</Selections.0.Display>
+			<Selections.1.Display>Negociar</Selections.1.Display>
+			<Selections.1.Tip>Carisma / Estado</Selections.1.Tip>
+			<Selections.2.Display>Caverna Misteriosa</Selections.2.Display>
+			<Selections.3.Display>Provocar</Selections.3.Display>
+			<Selections.3.Tip>Velocidade de Voo em Aventura</Selections.3.Tip>
+			<Selections.4.Display>Sair</Selections.4.Display>
+		</Text>
+		<Text Name="Story_Building_SwordTower">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente à Pagoda e tenta se comunicar com ela usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_HenZhiBei">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_LongZhiBei">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_TongLing">
+			<DisplayName>Vestígios de um Velho Amigo</DisplayName>
+			<Desc>[NAME] chegou ao Mt. Coppertomb e usou a percepção para descobrir que a pessoa estranha estava em uma mina abandonada... Era o Sétimo irmão marcial!</Desc>
+			<Selections.0.Display>Cumprimentá-lo</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Building_ShouZhiBei">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_ShouZhiBeiQian">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] usa Percepção para tentar se comunicar com o Cadáver.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_WinterSummer">
+			<DisplayName>Colher</DisplayName>
+			<Desc>[NAME] gentilmente colhe alguns Fungos Caterpillar.</Desc>
+			<Selections.0.Display>Colher</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_JiZhiBei">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_HuanZhiBei">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Jin">
+			<DisplayName>Examinar</DisplayName>
+			<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
+			<Selections.0.Display>Examinar</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Mu">
+			<DisplayName>Examinar</DisplayName>
+			<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
+			<Selections.0.Display>Examinar</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Shui">
+			<DisplayName>Examinar</DisplayName>
+			<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
+			<Selections.0.Display>Examinar</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Huo">
+			<DisplayName>Examinar</DisplayName>
+			<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
+			<Selections.0.Display>Examinar</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Tu">
+			<DisplayName>Examinar</DisplayName>
+			<Desc>[NAME] senta-se e tenta usar Percepção para inspecionar.</Desc>
+			<Selections.0.Display>Examinar</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_ShiXiong">
+			<DisplayName>Procurar</DisplayName>
+			<Desc>Então este é o Sétimo Mestre. Parece que ele estava com muita dor quando faleceu. [NAME] se curvou e procurou o cadáver.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZhongBei">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_XingBei">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_LingBei">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_MuBei">
+			<DisplayName>Interagir</DisplayName>
+			<Desc>[NAME] senta-se em frente ao monumento e tenta se comunicar com ele usando Percepção.</Desc>
+			<Selections.0.Display>Interagir</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_TaiYi">
+			<DisplayName>Visitar Seita</DisplayName>
+			<Desc>[NAME] ajoelhou-se diante do Portão da Montanha Taiyi e as memórias de eventos passados vieram à mente.</Desc>
+		</Text>
+		<Text Name="Story_Building_NoLight">
+			<DisplayName>Inspecionar</DisplayName>
+			<Desc>[NAME] achou estranho que a lanterna não estava acesa. Eles se agacharam para verificar e encontraram algo estranho na paisagem.</Desc>
+		</Text>
+		<Text Name="Story_Building_FireLantern">
+			<DisplayName>Inspecionar</DisplayName>
+			<Desc>[NAME] achou estranho. Por que a lanterna foi feita com uma Barra de Essência de Fogo? Olhando atentamente, o ambiente já não parecia ser um dormitório de mineradores.</Desc>
+		</Text>
+		<Text Name="Story_Building_GolemLantern">
+			<DisplayName>Inspecionar</DisplayName>
+			<Desc>[NAME] achou estranho, havia um Poste de Lâmpada feito de Pedra Sagrada aqui antes? Depois de entrar, houve um flash, e já não parecia tão quente.</Desc>
+		</Text>
+		<Text Name="Story_Building_OddLantern">
+			<DisplayName>Inspecionar</DisplayName>
+			<Desc>[NAME] achou estranho, esta é a posição certa para esta Lanterna? Eles tentaram colocá-la na posição. De repente, parece que a lanterna grita, e então o ambiente parecia diferente.</Desc>
+		</Text>
+		<Text Name="Story_Item_OpenAuction">
+			<DisplayName>Inspecionar</DisplayName>
+			<Desc>[NAME] abre a carta de convite: \nSaudações Imortais, recebi tesouros de todo o mundo, e vocês estão convidados a fazer compras da minha coleção, se assim desejarem. A regra é simples: Quem paga mais Pedra Espiritual pode ter meu tesouro. Quanto mais, melhor! \nAssinatura: Ye Xuan.</Desc>
+		</Text>
+		<Text Name="Story_Building_TaiYiTower">
+			<DisplayName>Cerimônia Memorial</DisplayName>
+			<Desc>[NAME] realiza uma cerimônia aos pés da Pagoda. Algo parece interagir fracamente com seu Qi, que foi uma vez nutrido pelos ensinamentos da Seita Taiyi.</Desc>
+			<Selections.0.Display>Procurar</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_UnlockTiXiu">
+			<DisplayName>Inscrições do Penhasco do Dragão</DisplayName>
+			<Desc>[NAME] chegou aqui e viu uma enorme rocha de montanha em pé no fundo do deserto. A rocha era de cor vermelha, com um lado tão íngreme como se fosse cortado por uma faca. Nela estavam esculpidos inúmeros textos sofisticados que continuam se movendo e mudando. Eram as lendárias inscrições do Penhasco do Dragão, local sagrado do antigo Yaoguai.</Desc>
+			<Selections.0.Display>Meditar sobre as inscrições</Selections.0.Display>
+			<Selections.1.Display>Desistir</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Esoterica_QuQiJue">
+			<DisplayName>O Rastro de um Alquimista</DisplayName>
+			<Desc>Ao chegar [NAME] no local rumoroso na Montanha da Roda Lunar, uma busca minuciosa revelou um pequeno monte escondido por um monte de ervas</Desc>
+			<Selections.0.Display>Procurar</Selections.0.Display>
+			<Selections.0.Tip>Núcleo Dourado</Selections.0.Tip>
+			<Selections.1.Display>Sair</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

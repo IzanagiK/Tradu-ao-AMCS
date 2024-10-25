@@ -1,34 +1,34 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_WeaponBow" sParam="Item">
-			<ThingName>Bow</ThingName>
+			<ThingName>Arco</ThingName>
 			<Desc>Um arco que pode ser usado para caçar alvos distantes.</Desc>
-			<Item.FabaoSuffix>Bow</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Arco</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponWoodBow" sParam="Item">
-			<ThingName>Bow</ThingName>
+			<ThingName>Arco</ThingName>
 			<Desc>Um arco que pode ser usado para caçar alvos distantes.</Desc>
-			<Item.FabaoSuffix>Bow</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Arco</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponKnife" sParam="Item">
-			<ThingName>Blade</ThingName>
+			<ThingName>Adaga</ThingName>
 			<Desc>Uma espada de um único gume que se destaca em cortar e cortar.</Desc>
-			<Item.FabaoSuffix>Blade</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Adaga</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponLance" sParam="Item">
-			<ThingName>Spear</ThingName>
+			<ThingName>Lança</ThingName>
 			<Desc>Uma lança longa que pode efetivamente infligir danos perfurantes aos órgãos internos.</Desc>
-			<Item.FabaoSuffix>Spear</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Lança</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponSword" sParam="Item">
-			<ThingName>Sword</ThingName>
+			<ThingName>Espada</ThingName>
 			<Desc>Uma espada leve e flexível.</Desc>
-			<Item.FabaoSuffix>Sword</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Espada</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponHalbert" sParam="Item">
-			<ThingName>Mace</ThingName>
+			<ThingName>Mazaga</ThingName>
 			<Desc>Uma arma contundente pesada, seu impacto é grande o suficiente para quebrar os ossos e tendões do inimigo.</Desc>
-			<Item.FabaoSuffix>Mace</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Mazaga</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponAxeRing" sParam="Item">
 			<ThingName>Chakram</ThingName>
@@ -40,19 +40,19 @@
 			<Desc>Diz-se que na terra distante a oeste, um guerreiro chamado Daraboomba usou esta espada para matar uma poderosa criatura chamada "dragão". A espada inteira é de cor carmesim como se estivesse banhada em sangue de dragão. Ao acertar um golpe com esta espada, há uma chance de infligir lesão Heart Burn ao inimigo.</Desc>
 		</Text>
 		<Text Name="SP_Sword2" sParam="Item">
-			<ThingName>Rainmaker</ThingName>
+			<ThingName>Fazedor de Chuva</ThingName>
 			<Desc>Uma espada de madeira simples deixada pelo Immortal Pearlwood. Não parece nada fora do comum, mas possui a capacidade milagrosa de convocar chuva e vento.</Desc>
 		</Text>
 		<Text Name="SP_Sword3" sParam="Item">
-			<ThingName>Techno Sword</ThingName>
+			<ThingName>Espada Tecnológica</ThingName>
 			<Desc>Esta espada é a lembrança de Wang Laoju, Líder da Seita da Tecnologia do Futuro. A presença desta espada representa a presença do próprio Laoju. Portador desta espada pode melhorar o moral de todos os funcionários, tornando-os mais dispostos a trabalhar.</Desc>
 		</Text>
 		<Text Name="SP_Sword4" sParam="Item">
-			<ThingName>Banedragon Sword</ThingName>
+			<ThingName>Espada Banedragon</ThingName>
 			<Desc>Uma espada extremamente poderosa, esta é a que carregava o Dark Swordmaster desde os tempos antigos.</Desc>
 		</Text>
 		<Text Name="SP_Bow1" sParam="Item">
-			<ThingName>Hunting Bow</ThingName>
+			<ThingName>Arco de Caça</ThingName>
 			<Desc>Arco projetado especificamente para caçar animais. Ele usa flechas especiais que são revestidas com anestésicos e não podem penetrar na pele, então geralmente não causam ferimentos fatais.</Desc>
 		</Text>
 	</List>

@@ -1,65 +1,65 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="God_Xiuwei">
-			<DisplayName>Celestial Meditation</DisplayName>
-			<Desc>Sit quietly while converting your accumulated Belief into Cultivation.</Desc>
+			<DisplayName>Meditação Celestial</DisplayName>
+			<Desc>Sente-se em silêncio enquanto converte sua Crença acumulada em Cultivo.</Desc>
 		</Text>
 		<Text Name="God_Xiuwei1">
-			<DisplayName>Meditation of Divinity</DisplayName>
-			<Desc>Sit quietly while converting your accumulated Belief into Cultivation, but with a rather low conversion rate.</Desc>
+			<DisplayName>Meditação da Divindade</DisplayName>
+			<Desc>Sente-se em silêncio enquanto converte sua Crença acumulada em Cultivo, mas com uma taxa de conversão bastante baixa.</Desc>
 		</Text>
 		<Text Name="God_Xiuwei2">
-			<DisplayName>Meditation of Unification</DisplayName>
-			<Desc>Sit quietly while converting your accumulated Belief into Cultivation, but with a slightly low conversion rate.</Desc>
+			<DisplayName>Meditação da Unificação</DisplayName>
+			<Desc>Sente-se em silêncio enquanto converte sua Crença acumulada em Cultivo, mas com uma taxa de conversão ligeiramente baixa.</Desc>
 		</Text>
 		<Text Name="God_XinZhai">
-			<DisplayName>Mind Fasting</DisplayName>
-			<Desc>Enter Mind Fasting, which gradually reduce the impact of emotions on your Mood, and continues for a period of time after completion. The length of time the effect persists after its completion is equivalent to the time you spent in Mind Fasting.</Desc>
+			<DisplayName>Jejum Mental</DisplayName>
+			<Desc>Entre em Jejum Mental, que reduz gradualmente o impacto das emoções em seu Humor, e continua por um período de tempo após a conclusão. O tempo que o efeito persiste após a sua conclusão é equivalente ao tempo que você passou em Jejum Mental.</Desc>
 		</Text>
 		<Text Name="God_ResurrectionA">
-			<DisplayName>Resurrection Spell</DisplayName>
-			<Desc>Resurrects a dying or dead character. You receive 10 Divinity.</Desc>
-			<TargetDesc>Select a dead or dying character.</TargetDesc>
+			<DisplayName>Feitiço de Ressurreição</DisplayName>
+			<Desc>Ressuscita um personagem morrendo ou morto. Você recebe 10 Divindade.</Desc>
+			<TargetDesc>Selecione um personagem morto ou morrendo.</TargetDesc>
 		</Text>
 		<Text Name="God_ResurrectionB">
-			<DisplayName>Yin Yang Reversal</DisplayName>
-			<Desc>Resurrects all dying and fallen character on your side within the scene. You receive 100 Divinity.</Desc>
+			<DisplayName>Reversão Yin Yang</DisplayName>
+			<Desc>Ressuscita todos os personagens morrendo e caídos do seu lado dentro da cena. Você recebe 100 Divindade.</Desc>
 		</Text>
 		<Text Name="God_DefuseZhinian">
-			<DisplayName>Clean Mind</DisplayName>
-			<Desc>Resolve an Obsession for the character, and obtain an Obsession Gem.</Desc>
-			<TargetDesc>Select a character whose Obsession has already manifested.</TargetDesc>
+			<DisplayName>Mente Limpa</DisplayName>
+			<Desc>Resolve uma Obsessão para o personagem e obtém uma Joia de Obsessão.</Desc>
+			<TargetDesc>Selecione um personagem cuja Obsessão já tenha se manifestado.</TargetDesc>
 		</Text>
 		<Text Name="God_GodLike">
-			<DisplayName>Deification</DisplayName>
-			<Desc>Cast a spell to temporarily raise your Divinity to extreme. However, each usage will permanently increase your Divinity by 1.</Desc>
+			<DisplayName>Deificação</DisplayName>
+			<Desc>Lança um feitiço para aumentar temporariamente sua Divindade ao extremo. No entanto, cada uso aumentará permanentemente sua Divindade em 1.</Desc>
 		</Text>
 		<Text Name="God_BeliveMe">
-			<DisplayName>Persuasion</DisplayName>
-			<Desc>Persuade ally or neutral Inner disciple characters to try to convert them into Core Followers.</Desc>
-			<TargetDesc>Select a character that needs persuasion.</TargetDesc>
+			<DisplayName>Persuasão</DisplayName>
+			<Desc>Persuadir personagens aliados ou discípulos internos neutros a tentar convertê-los em Seguidores Centrais.</Desc>
+			<TargetDesc>Selecione um personagem que precisa de persuasão.</TargetDesc>
 		</Text>
 		<Text Name="God_Jingxin">
-			<DisplayName>Pacification</DisplayName>
-			<Desc>Release on a non-Shendao cultivating character and reduce its Mood multiplier by 25%, lasting 7 days.</Desc>
-			<TargetDesc>Select a non-Shendao character to release on.</TargetDesc>
+			<DisplayName>Pacificação</DisplayName>
+			<Desc>Libere sobre um personagem não cultivador Shendao e reduza seu multiplicador de Humor em 25%, durando 7 dias.</Desc>
+			<TargetDesc>Selecione um personagem não Shendao para liberar.</TargetDesc>
 		</Text>
 		<Text Name="God_ProductUp1">
-			<DisplayName>Divine Rallying Spell</DisplayName>
-			<Desc>Increase the base material output of your god-possessed area by 100% within 10 days.</Desc>
+			<DisplayName>Feitiço de Reunião Divina</DisplayName>
+			<Desc>Aumenta a produção base de materiais da sua área possuída por deus em 100% dentro de 10 dias.</Desc>
 		</Text>
 		<Text Name="God_ProductUp2">
-			<DisplayName>Wish-fulfilling Spell</DisplayName>
-			<Desc>Increase the base material output of your god-possessed area by 200% within 4 days.</Desc>
+			<DisplayName>Feitiço de Realização de Desejos</DisplayName>
+			<Desc>Aumenta a produção base de materiais da sua área possuída por deus em 200% dentro de 4 dias.</Desc>
 		</Text>
 		<Text Name="God_ProductUp3">
-			<DisplayName>Sole Reverence Spell</DisplayName>
-			<Desc>Increase the base material output of your god-possessed area by 500% within 1 day.</Desc>
+			<DisplayName>Feitiço de Reverência Solemne</DisplayName>
+			<Desc>Aumenta a produção base de materiais da sua área possuída por deus em 500% dentro de 1 dia.</Desc>
 		</Text>
 		<Text Name="God_TongLing_Plant">
-			<DisplayName>Divine Mercy</DisplayName>
-			<Desc>Plants are alive but have no mercy. To illuminate a plant needs 1 Humanity as primer. Costs 9 Obsession Gems and 1 Primordial Soul Gem to try to illuminate its psychic power. The illumination result will need some time to appear. The plant cannot be illuminated with psychic power again while in an illumination session. The higher the spell caster's divinity, and the more times the plant has been illuminated, the easier it is for the item to be illuminated successfully.</Desc>
-			<TargetDesc>Select a plant.</TargetDesc>
+			<DisplayName>Divina Misericórdia</DisplayName>
+			<Desc>As plantas estão vivas, mas não têm misericórdia. Para iluminar uma planta, são necessários 1 Humanidade como primer. Custa 9 Joias de Obsessão e 1 Joia de Alma Primordial para tentar iluminar seu poder psíquico. O resultado da iluminação levará algum tempo para aparecer. A planta não pode ser iluminada com poder psíquico novamente enquanto estiver em uma sessão de iluminação. Quanto maior a divindade do lançador do feitiço, e mais vezes a planta tiver sido iluminada, mais fácil será para o item ser iluminado com sucesso.</Desc>
+			<TargetDesc>Selecione uma planta.</TargetDesc>
 		</Text>
 	</List>
 </Texts>

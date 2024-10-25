@@ -1,75 +1,75 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="ChangeZhen">
-			<DisplayName>Change Formation</DisplayName>
+			<DisplayName>Alterar Formação</DisplayName>
 			<Tip>Alterar uma formação para cobrir auxiliares expostos.</Tip>
 		</Text>
 		<Text Name="CancelZhen">
-			<DisplayName>Disband</DisplayName>
+			<DisplayName>Dissolver</DisplayName>
 			<Tip>Dissolve a formação. Após a dissolução de uma formação, algum tempo deve passar antes que uma nova formação possa ser formada.</Tip>
 		</Text>
 		<Text Name="JointJian">
-			<DisplayName>Joint Artifact</DisplayName>
+			<DisplayName>Artefato Conjunto</DisplayName>
 			<Tip>Todos combinam seu Qi para controlar o artefato do pilar de formação e reabastecê-lo com Qi, aumentando drasticamente o Poder do Artefato de acordo com o Bônus de Poder de Maestria da Espada da formação. Todos na formação compartilham o custo do Qi.</Tip>
 		</Text>
 		<Text Name="JointSkill">
-			<DisplayName>Joint Spell</DisplayName>
+			<DisplayName>Feitiço Conjunto</DisplayName>
 			<Tip>Todos combinam seu Qi para ajudar o pilar de formação a lançar o próximo feitiço, aumentando seu poder. O aumento de poder está relacionado ao bônus de poder mágico da formação. Todos na formação compartilham o custo do Qi.</Tip>
 		</Text>
 		<Text Name="ZhenTempAura">
-			<DisplayName>Heat Up</DisplayName>
+			<DisplayName>Aquecer</DisplayName>
 		</Text>
 		<Text Name="ZhenModifyArea">
-			<DisplayName>Enlarge</DisplayName>
+			<DisplayName>Aumentar</DisplayName>
 		</Text>
 		<Text Name="ZhenShield">
-			<DisplayName>Shield Up</DisplayName>
+			<DisplayName>Escudo Ativado</DisplayName>
 		</Text>
 		<Text Name="TransLing">
-			<DisplayName>Qi Transfer</DisplayName>
+			<DisplayName>Transferência de Qi</DisplayName>
 		</Text>
 		<Text Name="Reducetability">
-			<DisplayName>Lower Stability</DisplayName>
+			<DisplayName>Reduzir Estabilidade</DisplayName>
 		</Text>
 		<Text Name="RevealZhen">
-			<DisplayName>Exposed Auxiliary</DisplayName>
+			<DisplayName>Auxiliar Exposto</DisplayName>
 		</Text>
 		<Text Name="FightSkill_Zhen_RevealZhen1">
-			<DisplayName>Heavenly Derivation</DisplayName>
-			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
-			<Tip>Segue o padrão do Stone Sentinel Maze para atacar os pontos fracos da formação alvo. Reduz sua estabilidade e tem chance de expor seus auxiliares.</Tip>
+			<DisplayName>Derivação Celestial</DisplayName>
+			<HeadMsg>Selecione um auxiliar inimigo.</HeadMsg>
+			<Tip>Segue o padrão do Labirinto do Sentinela de Pedra para atacar os pontos fracos da formação alvo. Reduz sua estabilidade e tem chance de expor seus auxiliares.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_RevealZhen2">
-			<DisplayName>Battle Aloofness</DisplayName>
+			<DisplayName>Aloofness de Batalha</DisplayName>
 			<Tip>Causa uma enorme quantidade de dano de Qi ao alvo.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenShield1">
-			<DisplayName>Domain of Five Peaks</DisplayName>
+			<DisplayName>Domínio das Cinco Montanhas</DisplayName>
 			<Tip>Crie um domínio abrangendo um raio de 5 metros ao redor do ponto alvo e use o Qi da formação para se defender.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenShield2">
-			<DisplayName>Domain of Vastness</DisplayName>
+			<DisplayName>Domínio da Vastidão</DisplayName>
 			<Tip>Crie um domínio abrangendo um raio de 12 metros ao redor do ponto alvo e use o Qi da formação para defender.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenArea1">
-			<DisplayName>Domain of Wood Essence</DisplayName>
+			<DisplayName>Domínio da Essência de Madeira</DisplayName>
 			<Tip>Crie um domínio abrangendo um raio de 8 metros ao redor do ponto de destino. Fertiliza o solo no interior e aumenta a resiliência natural dos personagens aliados.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenArea2">
-			<DisplayName>Domain of Heavenly Serenity</DisplayName>
+			<DisplayName>Domínio da Serenidade Celestial</DisplayName>
 			<Tip>Crie um domínio abrangendo um raio de 8 metros ao redor do ponto de destino. Aumenta o estado mental, humor, velocidade de cultivo de personagens aliados dentro do domínio.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointJian1">
-			<DisplayName>Divine Sword of Phoenix</DisplayName>
+			<DisplayName>Espada Divina da Fênix</DisplayName>
 			<Tip>Todos combinam seu Qi para controlar o artefato do pilar de formação e reabastecê-lo com Qi, aumentando drasticamente o Poder do Artefato de acordo com o Bônus de Poder de Maestria da Espada da formação. Todos na formação compartilham o custo do Qi.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointSkill1">
-			<DisplayName>Divine Dragonroar</DisplayName>
+			<DisplayName>Rugido Divino do Dragão</DisplayName>
 			<Tip>Todos combinam seu Qi para ajudar o pilar de formação a lançar o próximo feitiço, aumentando seu poder. O aumento de poder está relacionado ao bônus de poder mágico da formação. Todos na formação compartilham o custo do Qi.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_Stability1">
-			<DisplayName>Divine Obliteration</DisplayName>
-			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
+			<DisplayName>Obliteração Divina</DisplayName>
+			<HeadMsg>Selecione um auxiliar inimigo.</HeadMsg>
 			<Tip>Causa uma enorme quantidade de dano à estabilidade da formação do inimigo.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_Stability2">
@@ -77,14 +77,14 @@
 			<Tip>Recupera a estabilidade da formação.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhuXian">
-			<DisplayName>Ragestriker</DisplayName>
+			<DisplayName>Golpe Furioso</DisplayName>
 			<Tip>Após um pequeno atraso, causa uma enorme quantidade de dano de Qi aos inimigos em um raio de 12 metros do ponto alvo.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_BDPW_MissileBase">
-			<DisplayName>Battle Aloofness Bullets</DisplayName>
+			<DisplayName>Balas de Aloofness de Batalha</DisplayName>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhuXian_MissileBase">
-			<DisplayName>Ragestriker Sub-skill</DisplayName>
+			<DisplayName>Sub-habilidade do Golpe Furioso</DisplayName>
 		</Text>
 	</List>
 </Texts>

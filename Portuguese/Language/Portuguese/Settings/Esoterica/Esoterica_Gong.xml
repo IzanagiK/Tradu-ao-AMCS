@@ -11,7 +11,7 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a taxa de sucesso de criar Grandes Artefatos.\nReduz significativamente a velocidade de criação de defensores.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_1">
-			<DisplayName>Mindful Springs</DisplayName>
+			<DisplayName>Fontes Conscientes</DisplayName>
 			<Desc>Visualize uma fonte jorrando em uma floresta ensolarada, acalmando e aprimorando sua mente. Esse treinamento fortalecedor de Qi está conectado bem com a terra ao seu redor, aumentando a cobertura de Qi.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Melhora o Estado Mental.\nAumenta a eficiência da absorção de Qi.[/color][/size]</EffectDesc>
 		</Text>
@@ -181,8 +181,8 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta a velocidade do artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_16">
-			<DisplayName>Slash Chant</DisplayName>
-			<Desc>Uma técnica secreta usada no treinamento de esgrima, registrada na Seven-Slaughtering Sword. Requer muitos anos de prática para dominar.</Desc>
+			<DisplayName>Canto do Corte</DisplayName>
+			<Desc>Uma técnica secreta usada no treinamento de esgrima, registrada na Lâmina dos Sete Massacres. Requer muitos anos de prática para dominar.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta o Qi do Artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_17">
@@ -728,37 +728,37 @@
 		<Text Name="Gong12_Esoterica_1">
 			<DisplayName>Livro Completo de Talismãs</DisplayName>
 			<Desc>Manual secreto que registrou alguns talismãs comuns necessários no cultivo.</Desc>
-			<EffectDesc>Desbloqueia talismãs: \nTalisman of Departing Shadow\nTalisman of Heavenly Heart\nTalisman of Tranquil Heart\nTalisman of Civil Prosperity\nTalisman of Military Prosperity</EffectDesc>
+			<EffectDesc>Desbloqueia talismãs: \nTalismã da Sombra Partente\nTalismã do Coração Celestial\nTalismã do Coração Tranquilo\nTalismã da Prosperidade Civil\nTalismã da Prosperidade Militar</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_2">
 			<DisplayName>Registros de Talismãs Profundos</DisplayName>
 			<Desc>Grava talismãs que podem melhorar as capacidades de defesa.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nDarkarmor Talisman</EffectDesc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã da Armadura Sombria</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_3">
-			<DisplayName>Registros de talismãs de espada</DisplayName>
+			<DisplayName>Registros de Talismãs de Espada</DisplayName>
 			<Desc>Grava talismãs que podem melhorar o domínio da espada.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nSharpsword Talisman</EffectDesc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã da Espada Afiada</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_4">
-			<DisplayName>Registros de talismãs de encantamento</DisplayName>
-			<Desc>Grava talismãs que podem melhorar o poder das Magia.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nVilecurse Talisman</EffectDesc>
+			<DisplayName>Registros de Talismãs de Encantamento</DisplayName>
+			<Desc>Grava talismãs que podem melhorar o poder da Magia.</Desc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã da Maldição Vil</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_5">
 			<DisplayName>Talismãs dos Céus</DisplayName>
-			<Desc>Ele registra poderosos talismãs que se pensava estarem perdidos há muito tempo. Esses talismãs são capazes de melhorar forçosamente a qualificação do usuário, portanto, são chamados de Heavensent.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nHeavensent Talisman</EffectDesc>
+			<Desc>Ele registra poderosos talismãs que se pensava estarem perdidos há muito tempo. Esses talismãs são capazes de melhorar forçosamente a qualificação do usuário, portanto, são chamados de Enviados dos Céus.</Desc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã Enviado dos Céus</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_6">
 			<DisplayName>Talismãs Celestiais</DisplayName>
 			<Desc>Diz-se que os talismãs registrados por este livro podem aproveitar o poder do céu.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nHeavenlent Talisman</EffectDesc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã Concedido pelo Céu</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_7">
-			<DisplayName>Supreme Divine Talismans</DisplayName>
+			<DisplayName>Talismãs Divinos Supremos</DisplayName>
 			<Desc>Talismãs circularam durante os tempos antigos que se dizia serem desenhados para o cultivo da Lei de Shendao, que foram perdidos há muito tempo.</Desc>
-			<EffectDesc>Desbloqueia talismãs: \nTalisman of Divine Residence\nTalisman of Divine Perception\nTalisman of Divine Authority\nTalisman of Divine Concealment</EffectDesc>
+			<EffectDesc>Desbloqueia talismãs: \nTalismã da Residência Divina\nTalismã da Percepção Divina\nTalismã da Autoridade Divina\nTalismã do Encobrimento Divino</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_8">
 			<DisplayName>Andarilho das Nuvens</DisplayName>

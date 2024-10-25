@@ -1,29 +1,29 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_SpellPaper" sParam="Item">
-			<ThingName>Talisman Paper</ThingName>
+			<ThingName>Papel de Talismã</ThingName>
 			<Desc>Papel feito especialmente que pode ser transformado em Talismã desenhando um símbolo específico com Cinnabar em sua superfície através do poder da mente.</Desc>
-			<Item.FabaoSuffix>Talisman, Incantation, Forbidden</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Talismã, Incantação, Proibido</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SpellPaperLv2" sParam="Item">
-			<ThingName>Blood Talisman</ThingName>
+			<ThingName>Talismã de Sangue</ThingName>
 			<Desc>Papel feito de sangue de Besta que pode ser transformado em Talismã desenhando um símbolo específico com Cinnabar em sua superfície através do poder da mente.</Desc>
 		</Text>
 		<Text Name="Item_SpellPaperLv3" sParam="Item">
-			<ThingName>Sacred Talisman</ThingName>
-			<Desc>Talisman criado com uma Serenity Soul Gem. Ele foi transformado em Talismã desenhando um símbolo específico com Cinnabar em sua superfície através do poder da mente.</Desc>
+			<ThingName>Talismã Sagrado</ThingName>
+			<Desc>Talismã criado com uma Jóia da Alma de Serenidade. Ele foi transformado em Talismã desenhando um símbolo específico com Cinnabar em sua superfície através do poder da mente.</Desc>
 		</Text>
 		<Text Name="Item_Spell" sParam="Item">
-			<ThingName>Talisman</ThingName>
+			<ThingName>Talismã</ThingName>
 			<Desc>Um Talismã feito com sucesso, usando-o concede certos bônus de habilidade.</Desc>
-			<Item.FabaoSuffix>Talisman, Incantation, Forbidden</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Talismã, Incantação, Proibido</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SpellLv2" sParam="Item">
-			<ThingName>Talisman</ThingName>
+			<ThingName>Talismã</ThingName>
 			<Desc>Um Talismã feito com sucesso, usando-o concede certos bônus de habilidade.</Desc>
 		</Text>
 		<Text Name="Item_SpellLv3" sParam="Item">
-			<ThingName>Talisman</ThingName>
+			<ThingName>Talismã</ThingName>
 			<Desc>Um Talismã feito com sucesso, usando-o concede certos bônus de habilidade.</Desc>
 		</Text>
 	</List>

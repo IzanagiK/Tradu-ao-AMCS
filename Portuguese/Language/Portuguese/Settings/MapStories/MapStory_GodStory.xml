@@ -1,17 +1,17 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="GodStory_1">
-			<DisplayName>Preaching</DisplayName>
+			<DisplayName>Pregação</DisplayName>
 			<Desc>Durante a viagem, [NAME] continuou pregando e ajudando os mortais necessitados ao longo do caminho.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="GodStory_2">
-			<DisplayName>Preaching</DisplayName>
+			<DisplayName>Pregação</DisplayName>
 			<Desc>Durante a viagem, [NAME] encontrou alguns mortais necessitados e os ajudou a sair de problemas.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_1">
-			<DisplayName>War of Mortals</DisplayName>
+			<DisplayName>Guerra dos Mortais</DisplayName>
 			<Desc>[NAME] correu para [PLACE], e descobriu que estava envolvido em guerra com muitos sofrimentos.</Desc>
 			<Selections.0.Display>Urgir uma parada para a guerra</Selections.0.Display>
 			<Selections.1.Display>Suprimir a guerra com força bruta</Selections.1.Display>
@@ -19,7 +19,7 @@
 			<Selections.2.Display>Sair</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_2">
-			<DisplayName>Plagues wreak havoc</DisplayName>
+			<DisplayName>Pragas causam caos</DisplayName>
 			<Desc>[NAME] correu para [PLACE] apenas para descobrir que a praga estava em pleno vigor, várias aldeias já haviam sido exterminadas.</Desc>
 			<Selections.0.Display>Curar os pacientes</Selections.0.Display>
 			<Selections.0.Tip>Núcleo Dourado</Selections.0.Tip>
@@ -27,7 +27,7 @@
 			<Selections.2.Display>Sair</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_3">
-			<DisplayName>Evils in the World</DisplayName>
+			<DisplayName>Mal na Terra</DisplayName>
 			<Desc>[NAME] correu para [PLACE] apenas para encontrar a área repleta de Qi maligno, as pessoas entraram em pânico.</Desc>
 			<Selections.0.Display>Usar Estratégia</Selections.0.Display>
 			<Selections.1.Display>Usar a força bruta</Selections.1.Display>
@@ -35,14 +35,14 @@
 			<Selections.2.Display>Sair</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_4">
-			<DisplayName>Sudden Disaster</DisplayName>
+			<DisplayName>Desastre Repentino</DisplayName>
 			<Desc>Enquanto [NAME] correu para [PLACE] apenas para descobrir que a situação era terrível, com muitos lutando para escapar do desastre.</Desc>
 			<Selections.0.Display>Ajude as pessoas</Selections.0.Display>
 			<Selections.1.Display>Sair</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_Gong_God_1">
-			<DisplayName>Lost Law</DisplayName>
-			<Desc>Ao chegar que na ravina mencionada, [NAME] descobriu que o relâmpago aqui era fraco, mas incomum.</Desc>
+			<DisplayName>Lei Perdida</DisplayName>
+			<Desc>Ao chegar na ravina mencionada, [NAME] descobriu que o relâmpago aqui era fraco, mas incomum.</Desc>
 			<Selections.0.Display>Verifique a Ravina</Selections.0.Display>
 			<Selections.1.Display>Sair</Selections.1.Display>
 		</Text>

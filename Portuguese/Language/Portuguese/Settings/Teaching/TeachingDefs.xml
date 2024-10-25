@@ -55,14 +55,14 @@ de Materiais</DisplayName>
 			<Tasks.16.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.16.TaskDesc>
 			<Tasks.18.TaskDesc>Aguarde até que o corte esteja completo.</Tasks.18.TaskDesc>
 			<Tasks.20.TipsData.Desc>O tutorial usa a coleta de madeira como exemplo, e outros materiais como minérios, metais, alimentos, etc. são coletados de forma semelhante.</Tasks.20.TipsData.Desc>
-			<Tasks.22.TaskDesc>Clique em Build no canto inferior esquerdo para abrir a página de Buildings.</Tasks.22.TaskDesc>
+			<Tasks.22.TaskDesc>Clique em Construir no canto inferior esquerdo para abrir a página de Buildings.</Tasks.22.TaskDesc>
 			<Tasks.23.TaskDesc>Clique em Work para abrir a página Work Buildings.</Tasks.23.TaskDesc>
-			<Tasks.23.UiData.Name>Work</Tasks.23.UiData.Name>
+			<Tasks.23.UiData.Name>Trabalho</Tasks.23.UiData.Name>
 			<Tasks.24.TaskDesc>Clique na Estação de trabalho para iniciar o modo de colocação.</Tasks.24.TaskDesc>
 			<Tasks.25.TaskDesc>Coloque a estação de trabalho no local designado.</Tasks.25.TaskDesc>
 			<Tasks.28.TaskDesc>Selecione uma estação de trabalho para mostrar seu status.</Tasks.28.TaskDesc>
 			<Tasks.29.TaskDesc>Clique em Produzir para começar a fabricar os produtos.</Tasks.29.TaskDesc>
-			<Tasks.29.UiData.Name>Produce</Tasks.29.UiData.Name>
+			<Tasks.29.UiData.Name>Produção</Tasks.29.UiData.Name>
 			<Tasks.30.TaskDesc>Clique em Timber para adicioná-lo à lista de produção.</Tasks.30.TaskDesc>
 			<Tasks.30.UiData.Name>Timber</Tasks.30.UiData.Name>
 			<Tasks.31.TaskDesc>Clique em Loop para repetir o proceço.</Tasks.31.TaskDesc>
@@ -88,17 +88,17 @@ Quartos</DisplayName>
 			<Chapters.1.Tasks.0>Selecione um morador</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Verifique as estatísticas da sala</Chapters.1.Tasks.1>
 			<Tasks.1.TipsData.Desc>Temos recursos suficientes, agora vamos usá-los para construir um quarto para os personagens viverem.</Tasks.1.TipsData.Desc>
-			<Tasks.2.TaskDesc>Clique em Build(Construção) no canto inferior esquerdo para abrir a página de construção.</Tasks.2.TaskDesc>
+			<Tasks.2.TaskDesc>Clique em Construir(Construção) no canto inferior esquerdo para abrir a página de construção.</Tasks.2.TaskDesc>
 			<Tasks.3.TaskDesc>Clique em Wall(Parede) para iniciar o modo de posicionamento.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>Arraste e coloque a parede nos locais designados.</Tasks.4.TaskDesc>
 			<Tasks.7.TaskDesc>Clique em Door(Porta) para iniciar o modo de posicionamento.</Tasks.7.TaskDesc>
 			<Tasks.8.TaskDesc>Posicione a Porta no local designado.</Tasks.8.TaskDesc>
-			<Tasks.11.TaskDesc>Clique em Life para abrir a página Life Buildings.</Tasks.11.TaskDesc>
-			<Tasks.11.UiData.Name>Life</Tasks.11.UiData.Name>
+			<Tasks.11.TaskDesc>Clique em Vida para abrir a página Life Buildings.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Vida</Tasks.11.UiData.Name>
 			<Tasks.12.TaskDesc>Clique em Bed(Cama) para iniciar o modo de posicionamento.</Tasks.12.TaskDesc>
 			<Tasks.13.TaskDesc>Posicione a Cama no local designado.</Tasks.13.TaskDesc>
-			<Tasks.16.TaskDesc>Clique em Decoration(Decoração) para abrir a página de Decorative Buildings(Construções decorativas).</Tasks.16.TaskDesc>
-			<Tasks.16.UiData.Name>Decoration</Tasks.16.UiData.Name>
+			<Tasks.16.TaskDesc>Clique em Decoração(Decoração) para abrir a página de Decorative Buildings(Construções decorativas).</Tasks.16.TaskDesc>
+			<Tasks.16.UiData.Name>Decoração</Tasks.16.UiData.Name>
 			<Tasks.17.TaskDesc>Clique na Oil Lamp(Lâmpada a óleo) para iniciar o modo de posicionamento.</Tasks.17.TaskDesc>
 			<Tasks.18.TaskDesc>Coloque a Oil Lamp(Lâmpada a óleo) no local designado.</Tasks.18.TaskDesc>
 			<Tasks.22.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.22.TaskDesc>
@@ -106,7 +106,7 @@ Quartos</DisplayName>
 			<Tasks.26.TipsData.Desc>Após o tutorial de planejamento de cômodos, o jogador pode planejar outros cômodos de acordo com suas necessidades, mas lembre-se que o maior tamanho de um cômodo é 400 e o menor é 3.</Tasks.26.TipsData.Desc>
 			<Tasks.28.TaskDesc>Clique na cama no quarto.</Tasks.28.TaskDesc>
 			<Tasks.29.TaskDesc>Clique para atribuir(assign) a propriedade.</Tasks.29.TaskDesc>
-			<Tasks.29.UiData.Name>Assign</Tasks.29.UiData.Name>
+			<Tasks.29.UiData.Name>Atribuir</Tasks.29.UiData.Name>
 			<Tasks.30.TaskDesc>Clique no primeiro personagem e designe a cama para ele.</Tasks.30.TaskDesc>
 			<Tasks.31.TaskDesc>Confirme a disposição.</Tasks.31.TaskDesc>
 			<Tasks.33.TaskDesc>Selecione a sala clicando na área vazia nela.</Tasks.33.TaskDesc>
@@ -136,11 +136,11 @@ Quartos</DisplayName>
 			<Tasks.7.TaskDesc>Aguarde até que a exploração seja concluída.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Clique na caixa de carga encontrada na exploração.</Tasks.9.TaskDesc>
 			<Tasks.10.TipsData.Desc>Os recursos são encontrados durante a exploração. Abra-os usando o botão interativo.</Tasks.10.TipsData.Desc>
-			<Tasks.10.TipsData.Name>Search</Tasks.10.TipsData.Name>
+			<Tasks.10.TipsData.Name>Procurar</Tasks.10.TipsData.Name>
 			<Tasks.11.TaskDesc>Clique no coelho encontrado na exploração.</Tasks.11.TaskDesc>
 			<Tasks.12.TipsData.Desc>Alguns animais selvagens são encontrados. Cace ou domestique para obter recursos.</Tasks.12.TipsData.Desc>
 			<Tasks.14.TipsData.Desc>Recursos úteis e animais podem ser encontrados durante a exploração. O jogador pode adquirir esses recursos nas fases iniciais e os animais podem ser usados para caçar ou cultivar.</Tasks.14.TipsData.Desc>
-			<Tasks.16.TaskDesc>Posicione o cursor em caçar(Hunt) para ver a tecla de atalho.</Tasks.16.TaskDesc>
+			<Tasks.16.TaskDesc>Posicione o cursor em caçar para ver a tecla de atalho.</Tasks.16.TaskDesc>
 			<Tasks.17.TaskDesc>Use a tecla de atalho {0} para acessar rapidamente a exploração.</Tasks.17.TaskDesc>
 			<Tasks.18.TaskDesc>Clique na área enevoada no canto superior direito para emitir uma tarefa de exploração.</Tasks.18.TaskDesc>
 			<Tasks.20.TaskDesc>Aguarde até que a exploração seja concluída.</Tasks.20.TaskDesc>
@@ -173,7 +173,7 @@ Quartos</DisplayName>
 			<Chapters.2.Tasks.1>Selecione as culturas</Chapters.2.Tasks.1>
 			<Tasks.1.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.1.TaskDesc>
 			<Tasks.2.TaskDesc>Clique em Work para abrir a página Work Buildings.</Tasks.2.TaskDesc>
-			<Tasks.2.UiData.Name>Work</Tasks.2.UiData.Name>
+			<Tasks.2.UiData.Name>Trabalho</Tasks.2.UiData.Name>
 			<Tasks.3.TaskDesc>Clique Well(Poço).</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>Posicione o poço no local designado.</Tasks.4.TaskDesc>
 			<Tasks.6.TaskDesc>Aguarde até que a construção seja concluída.</Tasks.6.TaskDesc>
@@ -182,7 +182,7 @@ Quartos</DisplayName>
 			<Tasks.11.TaskDesc>Clique na galinha no canto superior direito para caçá-la.</Tasks.11.TaskDesc>
 			<Tasks.14.TaskDesc>Clique no coelho nas proximidades.</Tasks.14.TaskDesc>
 			<Tasks.15.TaskDesc>Clique para selecionar um animal para ser caçado.</Tasks.15.TaskDesc>
-			<Tasks.15.UiData.Name>Hunt</Tasks.15.UiData.Name>
+			<Tasks.15.UiData.Name>Caçar</Tasks.15.UiData.Name>
 			<Tasks.17.TaskDesc>Coloque o cursor em Explorar para ver sua tecla de atalho..</Tasks.17.TaskDesc>
 			<Tasks.18.TaskDesc>Use a tecla de atalho {0} para acessar rapidamente a caça.</Tasks.18.TaskDesc>
 			<Tasks.19.TaskDesc>Arraste e selecione uma área alvo para emitir uma ordem de caça.</Tasks.19.TaskDesc>
@@ -190,13 +190,13 @@ Quartos</DisplayName>
 			<Tasks.23.TaskDesc>Espere até que a caça esteja completa.</Tasks.23.TaskDesc>
 			<Tasks.25.TipsData.Desc>Use a Caça para obter comida rapidamente. Mas o número de animais é limitado e sua taxa de reprodução é lenta, de modo que a agricultura é necessária para recursos constantes de alimentos.</Tasks.25.TipsData.Desc>
 			<Tasks.27.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.27.TaskDesc>
-			<Tasks.28.TaskDesc>Clique em Area.</Tasks.28.TaskDesc>
-			<Tasks.28.UiData.Name>Area</Tasks.28.UiData.Name>
+			<Tasks.28.TaskDesc>Clique em Área.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>Área</Tasks.28.UiData.Name>
 			<Tasks.29.TaskDesc>Clique em Campo(Field).</Tasks.29.TaskDesc>
 			<Tasks.30.TaskDesc>Selecione um campo no solo fértil designado.</Tasks.30.TaskDesc>
 			<Tasks.33.TaskDesc>Selecione o campo.</Tasks.33.TaskDesc>
 			<Tasks.34.TaskDesc>Clique no botão interativo de Cultivação de Plantas.</Tasks.34.TaskDesc>
-			<Tasks.34.UiData.Name>Grow Plants</Tasks.34.UiData.Name>
+			<Tasks.34.UiData.Name>Cultive Plantas</Tasks.34.UiData.Name>
 			<Tasks.35.TaskDesc>O jogador pode colocar o cursor sobre trigo para ver as informações sobre o plantio do trigo.</Tasks.35.TaskDesc>
 			<Tasks.36.TaskDesc>O jogador pode colocar o cursor sobre o cogumelos para ver as informações sobre como plantar cogumelos.</Tasks.36.TaskDesc>
 			<Tasks.37.TaskDesc>Selecione Trigo para plantar.</Tasks.37.TaskDesc>
@@ -209,7 +209,7 @@ Armazem</DisplayName>
 			<Desc>Aprenda o básico do planejamento  de armazém neste tutorial.\n[color=#BC1717](Durante o tutorial, os jogadores podem pressionar Esc duas vezes para pular a tarefa e continuar o tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Planeje o primeiro armazém</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Selecione um armazém</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Filter</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.1>Filtro</Chapters.0.Tasks.1>
 			<Chapters.1.DisplayName>Planeje o segundo armazém</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Planeje um armazém</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Filtros</Chapters.1.Tasks.1>
@@ -220,26 +220,26 @@ Armazem</DisplayName>
 			<Tasks.1.TipsData.Desc>Diferentes recursos estão localizados em diferentes áreas e, à medida que seu número aumenta, será inconveniente para o jogador acessá-los, então o armazém é usado para categorizar e gerenciar recursos.</Tasks.1.TipsData.Desc>
 			<Tasks.2.TipsData.Desc>Primeiro, vamos planejar uma área para materiais e ferramentas no meio da seita, para que seja fácil acessá-los à medida que sua seita se expande.</Tasks.2.TipsData.Desc>
 			<Tasks.3.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.3.TaskDesc>
-			<Tasks.4.TaskDesc>Clique na aba Area.</Tasks.4.TaskDesc>
-			<Tasks.4.UiData.Name>Area</Tasks.4.UiData.Name>
-			<Tasks.5.TaskDesc>Clique em Storage para iniciar o planejamento do armazém.</Tasks.5.TaskDesc>
+			<Tasks.4.TaskDesc>Clique na aba Área.</Tasks.4.TaskDesc>
+			<Tasks.4.UiData.Name>Área</Tasks.4.UiData.Name>
+			<Tasks.5.TaskDesc>Clique em Armazenamento para iniciar o planejamento do armazém.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Selecione uma área designada para construção do armazém.</Tasks.6.TaskDesc>
 			<Tasks.9.TaskDesc>Selecione o armazém.</Tasks.9.TaskDesc>
-			<Tasks.10.TaskDesc>Clique em Filter no menu para abrir a página de Filtros.</Tasks.10.TaskDesc>
-			<Tasks.10.UiData.Name>Filter</Tasks.10.UiData.Name>
-			<Tasks.11.TipsData.Desc>O filtro pode ser usado para planejar um armazenamento detalhado que permite que os itens sejam armazenados de acordo com seu tipo, atributo elemental, camada e qualidade.  Lembre-se, quando vários armazenamentos são reunidos, o filtro de um único armazenamento não será aplicado aos demais.</Tasks.11.TipsData.Desc>
+			<Tasks.10.TaskDesc>Clique em Filtro no menu para abrir a página de Filtros.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Filtro</Tasks.10.UiData.Name>
+			<Tasks.11.TipsData.Desc>O Filtro pode ser usado para planejar um armazenamento detalhado que permite que os itens sejam armazenados de acordo com seu tipo, atributo elemental, camada e qualidade.  Lembre-se, quando vários armazenamentos são reunidos, o filtro de um único armazenamento não será aplicado aos demais.</Tasks.11.TipsData.Desc>
 			<Tasks.12.TaskDesc>Clique em Consumables para deixar de fora todos os consumíveis.</Tasks.12.TaskDesc>
 			<Tasks.13.TaskDesc>Clique no botão Fechar para fechar a página.</Tasks.13.TaskDesc>
 			<Tasks.15.TipsData.Desc>Alguns recursos vão estragar com o passar do tempo, por isso precisamos de um armazém de baixa temperatura para estes tipos de recursos.</Tasks.15.TipsData.Desc>
 			<Tasks.17.TipsData.Desc>Em seguida, planejaremos uma área de armazenamento de alimentos próxima à cozinha para um acesso mais eficiente durante a preparação de refeições, construiremos em uma sala fechada para facilitar o ajuste de temperatura para melhor armazenamento dos alimentos.</Tasks.17.TipsData.Desc>
 			<Tasks.18.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.18.TaskDesc>
-			<Tasks.19.TaskDesc>Clique na aba Area.</Tasks.19.TaskDesc>
-			<Tasks.19.UiData.Name>Area</Tasks.19.UiData.Name>
-			<Tasks.20.TaskDesc>Clique em Storage para iniciar o planejamento do armazém.</Tasks.20.TaskDesc>
+			<Tasks.19.TaskDesc>Clique na aba Área.</Tasks.19.TaskDesc>
+			<Tasks.19.UiData.Name>Área</Tasks.19.UiData.Name>
+			<Tasks.20.TaskDesc>Clique em Armazenamento para iniciar o planejamento do armazém.</Tasks.20.TaskDesc>
 			<Tasks.21.TaskDesc>Selecione uma área designada para construção do armazém.</Tasks.21.TaskDesc>
 			<Tasks.24.TaskDesc>Selecione o armazém.</Tasks.24.TaskDesc>
-			<Tasks.25.TaskDesc>Clique em Filter no menu para abrir a página de Filtros.</Tasks.25.TaskDesc>
-			<Tasks.25.UiData.Name>Filter</Tasks.25.UiData.Name>
+			<Tasks.25.TaskDesc>Clique em Filtro no menu para abrir a página de Filtros.</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>Filtro</Tasks.25.UiData.Name>
 			<Tasks.26.TaskDesc>Clique em Tool para deixar de fora todas as ferramentas.</Tasks.26.TaskDesc>
 			<Tasks.27.TaskDesc>Clique em Misc. para deixar de fora recursos diversos.</Tasks.27.TaskDesc>
 			<Tasks.28.TaskDesc>Clique em Material para deixar de fora todos os materiais.</Tasks.28.TaskDesc>
@@ -253,11 +253,11 @@ Armazem</DisplayName>
 			<Tasks.39.TipsData.Desc>Como uma sala é uma área fechada, a temperatura ambiente pode ser ajustada colocando uma fonte de calor.</Tasks.39.TipsData.Desc>
 			<Tasks.41.TaskDesc>Selecione o Display.</Tasks.41.TaskDesc>
 			<Tasks.42.TaskDesc>Clique em Place item(Colocar item).</Tasks.42.TaskDesc>
-			<Tasks.42.UiData.Name>Place Item</Tasks.42.UiData.Name>
+			<Tasks.42.UiData.Name>Colocar Item</Tasks.42.UiData.Name>
 			<Tasks.43.TaskDesc>Clique no Ice Crystal Ore.</Tasks.43.TaskDesc>
 			<Tasks.44.TaskDesc>Selecione outro Display.</Tasks.44.TaskDesc>
 			<Tasks.45.TaskDesc>Clique em Place item(Colocar item)</Tasks.45.TaskDesc>
-			<Tasks.45.UiData.Name>Place Item</Tasks.45.UiData.Name>
+			<Tasks.45.UiData.Name>Colocar Item</Tasks.45.UiData.Name>
 			<Tasks.46.TaskDesc>Clique no Ice Crystal Ore.</Tasks.46.TaskDesc>
 			<Tasks.47.TaskDesc>Aguarde até que sejam armazenados.</Tasks.47.TaskDesc>
 			<Tasks.48.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.48.TaskDesc>
@@ -285,7 +285,7 @@ Armazem</DisplayName>
 			<Tasks.3.TipsData.Desc>No jogo, haverá refugiados pedindo para se juntar à seita. É uma boa oportunidade para expansão, mas crescer muito rápido pressionará a infraestrutura e o fornecimento de alimentos, portanto, considere com cuidado.</Tasks.3.TipsData.Desc>
 			<Tasks.5.TaskDesc>Selecione o refugiado.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Clique em Aceitar no menu do personagem.</Tasks.6.TaskDesc>
-			<Tasks.6.UiData.Name>Accept</Tasks.6.UiData.Name>
+			<Tasks.6.UiData.Name>Aceitar</Tasks.6.UiData.Name>
 			<Tasks.7.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Espere até que seu povo aceite esse personagem.</Tasks.9.TaskDesc>
 			<Tasks.11.TipsData.Desc>Você ganhou um novo personagem. Cada personagem se destaca em um tipo de trabalho.  Abra o menu Work e organize o trabalho adequado para cada personagem.</Tasks.11.TipsData.Desc>
@@ -296,15 +296,15 @@ Armazem</DisplayName>
 			<Tasks.17.TaskDesc>Feche esta página.</Tasks.17.TaskDesc>
 			<Tasks.18.TipsData.Desc>Você atribuiu trabalho para os personagens. fornecer uma ferramenta adequada pode melhorar muito a eficiência do trabalho.</Tasks.18.TipsData.Desc>
 			<Tasks.20.TaskDesc>Selecione um local de trabalho para mostrar seu status.</Tasks.20.TaskDesc>
-			<Tasks.21.TaskDesc>Clique em Produzir/Produce.</Tasks.21.TaskDesc>
-			<Tasks.21.UiData.Name>Produce</Tasks.21.UiData.Name>
+			<Tasks.21.TaskDesc>Clique em Produção</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Produção</Tasks.21.UiData.Name>
 			<Tasks.22.TaskDesc>Faça uma picareta.</Tasks.22.TaskDesc>
-			<Tasks.22.UiData.Name>Pickaxe</Tasks.22.UiData.Name>
+			<Tasks.22.UiData.Name>Picareta</Tasks.22.UiData.Name>
 			<Tasks.23.TaskDesc>Feche a página Produção.</Tasks.23.TaskDesc>
 			<Tasks.24.TaskDesc>Aguarde até que a produção seja concluída.</Tasks.24.TaskDesc>
 			<Tasks.26.TaskDesc>Selecione um personagem que precisa da picareta.</Tasks.26.TaskDesc>
-			<Tasks.28.TaskDesc>Clique no botão interativo Equipar/Equip.</Tasks.28.TaskDesc>
-			<Tasks.28.UiData.Name>Equip</Tasks.28.UiData.Name>
+			<Tasks.28.TaskDesc>Clique no botão interativo Equipar.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>Equipar</Tasks.28.UiData.Name>
 			<Tasks.29.TaskDesc>Clique na Picareta.</Tasks.29.TaskDesc>
 			<Tasks.30.TaskDesc>Espere até que o personagem equipe a picareta.</Tasks.30.TaskDesc>
 			<Tasks.32.TipsData.Desc>Atribuir um trabalho adequado a um novo discípulo ajuda a melhorar a eficiência do trabalho para toda a seita.  Ao organizar diferentes trabalhos, diferentes ferramentas devem ser fornecidas aos discípulos para aumentar sua eficiência individual.</Tasks.32.TipsData.Desc>
@@ -315,7 +315,7 @@ Armazem</DisplayName>
 			<Tasks.37.TipsData.Name>Quarto necessário</Tasks.37.TipsData.Name>
 			<Tasks.39.TaskDesc>Clique na cama no quarto.</Tasks.39.TaskDesc>
 			<Tasks.40.TaskDesc>Clique para atribuir a propriedade.</Tasks.40.TaskDesc>
-			<Tasks.40.UiData.Name>Assign</Tasks.40.UiData.Name>
+			<Tasks.40.UiData.Name>Atribuir</Tasks.40.UiData.Name>
 			<Tasks.41.TaskDesc>Clique no primeiro personagem e arrume a cama para ele.</Tasks.41.TaskDesc>
 			<Tasks.42.TaskDesc>Confirme o arranjo.</Tasks.42.TaskDesc>
 			<Tasks.44.TipsData.Desc>Preste muita atenção ao humor dos personagens e satisfaça suas necessidades para garantir que a seita funcione com mais eficiência. Além de esperar que os refugiados se juntem, o jogador pode enviar discípulos internos para encontrar novos personagens para se juntar ou participar de eventos especiais para recrutar novos discípulos após estabelecer a seita. O jogador pode explorar esses conteúdos avançados enquanto joga.</Tasks.44.TipsData.Desc>
@@ -334,21 +334,21 @@ Discípulos Externos</DisplayName>
 			<Chapters.1.Tasks.1>Definir prioridade especial</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Inspecione a lesão novamente</Chapters.1.Tasks.2>
 			<Tasks.1.TaskDesc>Clique para abrir a lista de medicamentos.</Tasks.1.TaskDesc>
-			<Tasks.2.TipsData.Desc>Cada remédio no jogo tem seu próprio efeito, por exemplo, Healing Balm trata feridas, Bone Healing Balm trata fraturas ósseas, Healing Pill trata órgãos internos, etc. Quando os suprimentos médicos são insuficientes, os discípulos feridos podem não ser tratados a tempo, então  por favor, preste muita atenção ao armazenamento de medicamentos.</Tasks.2.TipsData.Desc>
+			<Tasks.2.TipsData.Desc>Cada remédio no jogo tem seu próprio efeito, por exemplo, Unguento Curativo trata feridas, Bone Unguento Curativo trata fraturas ósseas, Healing Pill trata órgãos internos, etc. Quando os suprimentos médicos são insuficientes, os discípulos feridos podem não ser tratados a tempo, então  por favor, preste muita atenção ao armazenamento de medicamentos.</Tasks.2.TipsData.Desc>
 			<Tasks.4.TaskDesc>Clique para abrir o menu Work.</Tasks.4.TaskDesc>
 			<Tasks.5.TaskDesc>O jogador pode colocar o cursor na posição de Curandeiro/Healer para ver seus requisitos para a habilidades e outros trabalhos relevantes.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Como o segundo discípulo tem a melhor habilidade/proficiencia para ser um curador, selecione o discípulo para ser um curador e clique para ativar.</Tasks.6.TaskDesc>
 			<Tasks.7.TaskDesc>Feche a página.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Clique na mesa de medicamentos.</Tasks.9.TaskDesc>
-			<Tasks.10.TaskDesc>Clique no botão interativo Produce.</Tasks.10.TaskDesc>
-			<Tasks.10.UiData.Name>Produce</Tasks.10.UiData.Name>
-			<Tasks.11.TaskDesc>O jogador pode colocar o cursor em Healing Balm para ver a instrução e seu efeito.</Tasks.11.TaskDesc>
-			<Tasks.11.UiData.Name>Healing Balm</Tasks.11.UiData.Name>
-			<Tasks.12.TaskDesc>Clique para fazer um Healing Balm.</Tasks.12.TaskDesc>
-			<Tasks.12.UiData.Name>Healing Balm</Tasks.12.UiData.Name>
+			<Tasks.10.TaskDesc>Clique no botão interativo Produção.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Produção</Tasks.10.UiData.Name>
+			<Tasks.11.TaskDesc>O jogador pode colocar o cursor em Unguento Curativo para ver a instrução e seu efeito.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Unguento Curativo</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Clique para fazer um Unguento Curativo.</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>Unguento Curativo</Tasks.12.UiData.Name>
 			<Tasks.13.TaskDesc>Clique no "X" para fechar a jenela de produção.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.14.TaskDesc>
-			<Tasks.16.TaskDesc>Espere até que o Healing Balm seja feito.</Tasks.16.TaskDesc>
+			<Tasks.16.TaskDesc>Espere até que o Unguento Curativo seja feito.</Tasks.16.TaskDesc>
 			<Tasks.18.TipsData.Desc>Não há muitas ervas na natureza, então o jogador pode planejar um jardim de ervas com antecedência para garantir um suprimento constante de ervas.</Tasks.18.TipsData.Desc>
 			<Tasks.21.TaskDesc>Clique na notificação de lesão à esquerda.</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>Clique no ícone de saúde/status no lado direito do menu do personagem ferido.</Tasks.23.TaskDesc>
@@ -395,9 +395,9 @@ Discípulos Externos</DisplayName>
 			<Tasks.13.TaskDesc>Clique em 9: na Tabela de Horários.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Defina-o como Treinamento.</Tasks.14.TaskDesc>
 			<Tasks.15.TaskDesc>Feche a página.</Tasks.15.TaskDesc>
-			<Tasks.17.TaskDesc>Clique em Build no canto inferior esquerdo para abrir a página de construção.</Tasks.17.TaskDesc>
+			<Tasks.17.TaskDesc>Clique em Construir no canto inferior esquerdo para abrir a página de construção.</Tasks.17.TaskDesc>
 			<Tasks.18.TaskDesc>Clique em sect para abrir a página Construções da Seita.</Tasks.18.TaskDesc>
-			<Tasks.18.UiData.Name>Sect</Tasks.18.UiData.Name>
+			<Tasks.18.UiData.Name>Seita</Tasks.18.UiData.Name>
 			<Tasks.19.TaskDesc>Clique no Training Spot/local de treinamento</Tasks.19.TaskDesc>
 			<Tasks.20.TaskDesc>Coloque o Training Spot no local designado.</Tasks.20.TaskDesc>
 			<Tasks.21.TaskDesc>Clique com o botão direito.</Tasks.21.TaskDesc>
@@ -408,7 +408,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.31.TaskDesc>Clique no NPC.</Tasks.31.TaskDesc>
 			<Tasks.32.TipsData.Desc>O jogador pode usar o menu Status na parte inferior a qualquer momento para acessar rapidamente informações sobre a fundação de um discípulo externo e ajustar sua estratégia de treinamento.</Tasks.32.TipsData.Desc>
 			<Tasks.34.TaskDesc>Clique no botão Comer no menu abaixo do personagem.</Tasks.34.TaskDesc>
-			<Tasks.34.UiData.Name>Eat</Tasks.34.UiData.Name>
+			<Tasks.34.UiData.Name>Comer</Tasks.34.UiData.Name>
 			<Tasks.35.TaskDesc>Clique para selecionar Bear Gall para o discípulo comer.</Tasks.35.TaskDesc>
 			<Tasks.37.TaskDesc>Espere até que Bear Gall seja comido.</Tasks.37.TaskDesc>
 			<Tasks.39.TipsData.Desc>Este discípulo rapidamente ganhou muita fundação comendo Bear Gall.</Tasks.39.TipsData.Desc>
@@ -432,12 +432,12 @@ Discípulos Externos</DisplayName>
 			<Chapters.2.Tasks.3>Verifique o modo de treinamento</Chapters.2.Tasks.3>
 			<Tasks.1.TaskDesc>Clique na notificação para concluir o treinamento básico à esquerda.</Tasks.1.TaskDesc>
 			<Tasks.3.TaskDesc>Clique no botão Promover no Status do discípulo abaixo.</Tasks.3.TaskDesc>
-			<Tasks.3.UiData.Name>Promote</Tasks.3.UiData.Name>
+			<Tasks.3.UiData.Name>Promover</Tasks.3.UiData.Name>
 			<Tasks.5.TipsData.Desc>Este discípulo não é adequado para a Lei atual, verifique se outro discípulo corresponde à Lei.</Tasks.5.TipsData.Desc>
 			<Tasks.6.TaskDesc>Clique para fechar o menu Escolher Lei.</Tasks.6.TaskDesc>
 			<Tasks.8.TaskDesc>Clique e selecione outro discípulo externo.</Tasks.8.TaskDesc>
 			<Tasks.9.TaskDesc>Clique no botão Promover no Status do discípulo abaixo.</Tasks.9.TaskDesc>
-			<Tasks.9.UiData.Name>Promote</Tasks.9.UiData.Name>
+			<Tasks.9.UiData.Name>Promover</Tasks.9.UiData.Name>
 			<Tasks.11.TipsData.Desc>O jogador pode usar a tabela de correspondência da lei para ver se um discípulo é adequado para praticar a lei.  Quanto mais altos forem os Cinco Atributos de um discípulo, melhor eles combinarão com a Lei, de modo que diferentes discípulos podem ter diferentes Leis correspondentes.</Tasks.11.TipsData.Desc>
 			<Tasks.13.TaskDesc>Clique em Escolher Lei.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Clique em Sim.</Tasks.14.TaskDesc>
@@ -475,7 +475,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.2.TaskDesc>O jogador pode colocar o cursor na barra de estamina no Status para verificar a estamina.  A prática de um discípulo interno custar continuamente stamina, e quando o stamina atinge 0, o discípulo não pode continuar praticando até consumir elixires ou comida para reabastecer o stamina.</Tasks.2.TaskDesc>
 			<Tasks.4.TaskDesc>O jogador pode colocar o cursor em Stamina Pill para ver seu efeito.</Tasks.4.TaskDesc>
 			<Tasks.5.TaskDesc>Clique em Comer no menu Status do personagem.</Tasks.5.TaskDesc>
-			<Tasks.5.UiData.Name>Eat</Tasks.5.UiData.Name>
+			<Tasks.5.UiData.Name>Comer</Tasks.5.UiData.Name>
 			<Tasks.6.TaskDesc>Clique para selecionar a Stamina Pill.</Tasks.6.TaskDesc>
 			<Tasks.7.TaskDesc>Clique em Velocidade 3x ​​no canto superior esquerdo para acelerar o jogo.</Tasks.7.TaskDesc>
 			<Tasks.10.TaskDesc>Espere até que o NPC coma a pílula.</Tasks.10.TaskDesc>
@@ -506,7 +506,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.3.TaskDesc>Clique e selecione um discípulo interno.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>O jogador pode colocar o cursor na barra para verificar suas necessidades.</Tasks.4.TaskDesc>
 			<Tasks.6.TaskDesc>Clique em Comer no menu Status do personagem.</Tasks.6.TaskDesc>
-			<Tasks.6.UiData.Name>Eat</Tasks.6.UiData.Name>
+			<Tasks.6.UiData.Name>Comer</Tasks.6.UiData.Name>
 			<Tasks.7.TaskDesc>Clique para selecionar Pílula de Jejum.</Tasks.7.TaskDesc>
 			<Tasks.9.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.9.TaskDesc>
 			<Tasks.11.TaskDesc>Espere até que o discípulo coma a pílula.</Tasks.11.TaskDesc>
@@ -516,7 +516,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.19.TaskDesc>Clique e selecione um discípulo interno.</Tasks.19.TaskDesc>
 			<Tasks.20.TaskDesc>O jogador pode colocar o cursor na barra para verificar suas necessidades.</Tasks.20.TaskDesc>
 			<Tasks.22.TaskDesc>Clique em Comer no menu Status do personagem.</Tasks.22.TaskDesc>
-			<Tasks.22.UiData.Name>Eat</Tasks.22.UiData.Name>
+			<Tasks.22.UiData.Name>Comer</Tasks.22.UiData.Name>
 			<Tasks.23.TaskDesc>Clique para selecionar Inedia Pill.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Espere até que o discípulo coma a pílula.</Tasks.25.TaskDesc>
 			<Tasks.27.TaskDesc>O jogador pode colocar o cursor na barra para verificar suas mudanças.</Tasks.27.TaskDesc>
@@ -559,8 +559,8 @@ Discípulos Externos</DisplayName>
 			<Tasks.16.UiData.ParentObject>thinginfo-Producelist-Stamina Pill</Tasks.16.UiData.ParentObject>
 			<Tasks.18.TipsData.Desc>Preparar elixires não só precisa dos materiais básicos para elixires, mas os discípulos também precisam aumentar seu nível de alquimia ou aprender outras receitas de elixir para criar elixires mais avançados.  O jogador também pode usar o Loop para inventar elixires em lote ou cancelar o loop para parar de cria.</Tasks.18.TipsData.Desc>
 			<Tasks.20.TaskDesc>Clique e selecione um discípulo interno.</Tasks.20.TaskDesc>
-			<Tasks.21.TaskDesc>Clique em Criar/Craft no menu Status do personagem.</Tasks.21.TaskDesc>
-			<Tasks.21.UiData.Name>Craft</Tasks.21.UiData.Name>
+			<Tasks.21.TaskDesc>Clique em Criar no menu Status do personagem.</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Criar</Tasks.21.UiData.Name>
 			<Tasks.22.TaskDesc>Clique em Criação de artefatos</Tasks.22.TaskDesc>
 			<Tasks.25.TaskDesc>O jogador pode colocar o cursor na Espada de Pedra Sagrada para verificar seu material e nível, e a taxa de sucesso e os requisitos para fabricação também são mostrados.</Tasks.25.TaskDesc>
 			<Tasks.27.TaskDesc>O jogador pode colocar o cursor em Graystone Blade para verificar seu material e nível, e a taxa de sucesso e os requisitos para fabricação também são mostrados.</Tasks.27.TaskDesc>
@@ -575,8 +575,8 @@ Discípulos Externos</DisplayName>
 			<Tasks.38.TaskDesc>Clique em Sim.</Tasks.38.TaskDesc>
 			<Tasks.40.TaskDesc>Espere até que o talismã seja desenhado.</Tasks.40.TaskDesc>
 			<Tasks.42.TaskDesc>Clique para selecionar a Mesa de Desenho de Talismã.</Tasks.42.TaskDesc>
-			<Tasks.43.TaskDesc>Clique em Produzir/Produce.</Tasks.43.TaskDesc>
-			<Tasks.43.UiData.Name>Produce</Tasks.43.UiData.Name>
+			<Tasks.43.TaskDesc>Clique em Produção.</Tasks.43.TaskDesc>
+			<Tasks.43.UiData.Name>Produção</Tasks.43.UiData.Name>
 			<Tasks.44.TipsData.Desc>Conforme mostrado na página Produzir, existem alguns tipos diferentes de papel de talismã, que terão efeitos de bônus diferentes depois que o talismã for sacado.  De um modo geral, o efeito bônus está positivamente associado ao nível do papel talismã.</Tasks.44.TipsData.Desc>
 			<Tasks.45.TaskDesc>Feche a página produção.</Tasks.45.TaskDesc>
 			<Tasks.47.TipsData.Desc>Quão bem o jogador desenha o talismã será a qualidade do produto final, que também é um fator importante que influencia seu efeito.</Tasks.47.TipsData.Desc>
@@ -696,7 +696,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.25.TaskDesc>O jogador precisa verificar a etiqueta elemental de Parasol Wood para saber as estatísticas elementares deste item.</Tasks.25.TaskDesc>
 			<Tasks.27.TaskDesc>Clique para selecionar Exibir.</Tasks.27.TaskDesc>
 			<Tasks.28.TaskDesc>Clique em Colocar Item.</Tasks.28.TaskDesc>
-			<Tasks.28.UiData.Name>Place Item</Tasks.28.UiData.Name>
+			<Tasks.28.UiData.Name>Colocar Item</Tasks.28.UiData.Name>
 			<Tasks.29.TaskDesc>Clique para selecionar Barra de Igneocobre.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>Clique em Feng Shui no canto superior esquerdo para sair do modo Feng Shui.</Tasks.31.TaskDesc>
 			<Tasks.32.TaskDesc>Clique em Velocidade 3x ​​no canto superior esquerdo para acelerar o jogo.</Tasks.32.TaskDesc>
@@ -741,7 +741,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.24.TaskDesc>O jogador pode ler as instruções da Purity Leaf para saber seu efeito.</Tasks.24.TaskDesc>
 			<Tasks.26.TaskDesc>O jogador pode ler as instruções da Purity Pill para saber seu efeito.</Tasks.26.TaskDesc>
 			<Tasks.27.TaskDesc>Clique no botão Comer no menu abaixo do NPC.</Tasks.27.TaskDesc>
-			<Tasks.27.UiData.Name>Eat</Tasks.27.UiData.Name>
+			<Tasks.27.UiData.Name>Comer</Tasks.27.UiData.Name>
 			<Tasks.29.TaskDesc>Clique para selecionar Pílula de Pureza.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>Espere até que a Pílula de Pureza seja consumida.</Tasks.31.TaskDesc>
 			<Tasks.33.TaskDesc>Este discípulo restaurou um pouco do estado mental depois de comer a Pílula da Pureza.  O jogador pode observar essas mudanças verificando o estado mental.</Tasks.33.TaskDesc>
@@ -839,7 +839,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.39.TaskDesc>Clique para fechar o menu Lei e Cultivo.</Tasks.39.TaskDesc>
 			<Tasks.41.TaskDesc>O jogador pode colocar o cursor na Pílula da Iluminação para ver seu efeito.</Tasks.41.TaskDesc>
 			<Tasks.43.TaskDesc>Clique no botão Comer no menu abaixo do NPC.</Tasks.43.TaskDesc>
-			<Tasks.43.UiData.Name>Eat</Tasks.43.UiData.Name>
+			<Tasks.43.UiData.Name>Comer</Tasks.43.UiData.Name>
 			<Tasks.44.TaskDesc>Pílula de Iluminação</Tasks.44.TaskDesc>
 			<Tasks.46.TaskDesc>Espere até que Bear Gall seja comido.</Tasks.46.TaskDesc>
 			<Tasks.48.TaskDesc>Clique para abrir o menu Lei e Cultivo.</Tasks.48.TaskDesc>
@@ -959,8 +959,8 @@ Discípulos Externos</DisplayName>
 			<Chapters.2.Tasks.2>Verifique o layout de uma sala</Chapters.2.Tasks.2>
 			<Chapters.2.Tasks.3>Verifique a direção de uma porta</Chapters.2.Tasks.3>
 			<Tasks.1.TaskDesc>Clique em Construir no canto inferior esquerdo para abrir a página Construir.</Tasks.1.TaskDesc>
-			<Tasks.2.TaskDesc>Clique em Life para abrir a página Life Buildings.</Tasks.2.TaskDesc>
-			<Tasks.2.UiData.Name>Life</Tasks.2.UiData.Name>
+			<Tasks.2.TaskDesc>Clique em Vida para abrir a página Life Buildings.</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Vida</Tasks.2.UiData.Name>
 			<Tasks.3.TaskDesc>No jogo, a maioria dos edifícios classificados em Vida, Trabalho, Seita e Entretenimento com a tag "Edifício Feng Shui" pertencem a edifícios Feng Shui.  O Feng Shui desses edifícios muda com o ambiente elementar em sua localização.  Quando o elemento do ambiente gera o do edifício, o Feng Shui será bom e vice-versa.</Tasks.3.TaskDesc>
 			<Tasks.5.TaskDesc>No jogo, um edifício sem a etiqueta "Feng Shui Building" é decoração.  A maioria desses edifícios herdará o atributo elemental de seu material principal e afetará o ambiente elemental ao seu redor.  Os próprios edifícios não são afetados pelos Cinco Elementos nem pelo Feng Shui.</Tasks.5.TaskDesc>
 			<Tasks.6.TipsData.Desc>No jogo, alguns edifícios têm sua própria etiqueta elementar.  Quando uma edificação possui um tag elementar ou indefinido, ele não será afetado pelo elemento do material principal, então o que influencia o ambiente elementar é o elemento no tag.</Tasks.6.TipsData.Desc>
@@ -972,7 +972,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.16.TaskDesc>Clique em Feng Shui no canto superior esquerdo para sair do modo Feng Shui.</Tasks.16.TaskDesc>
 			<Tasks.18.TaskDesc>Selecione o Spirit Stone Display à esquerda da mesa de arenito.</Tasks.18.TaskDesc>
 			<Tasks.19.TaskDesc>Clique em Colocar Item.</Tasks.19.TaskDesc>
-			<Tasks.19.UiData.Name>Place Item</Tasks.19.UiData.Name>
+			<Tasks.19.UiData.Name>Colocar Item</Tasks.19.UiData.Name>
 			<Tasks.20.TaskDesc>Clique para selecionar Barra de Igneocobre.</Tasks.20.TaskDesc>
 			<Tasks.22.TaskDesc>Selecione a Lanterna do Parasol à direita da mesa de arenito.</Tasks.22.TaskDesc>
 			<Tasks.23.TaskDesc>Clique em Demolir.</Tasks.23.TaskDesc>
@@ -1019,29 +1019,29 @@ Discípulos Externos</DisplayName>
 			<Tasks.9.TaskDesc>Clique em Feng Shui no canto superior esquerdo para sair do modo Feng Shui.</Tasks.9.TaskDesc>
 			<Tasks.11.TipsData.Desc>Por favor, siga as interações dos Cinco Elementos para selecionar uma sala para um discípulo interno e tente construir a sala em uma área de um elemento que gere a do discípulo.</Tasks.11.TipsData.Desc>
 			<Tasks.13.TaskDesc>Clique em Construir no canto inferior esquerdo para abrir a página Construir.</Tasks.13.TaskDesc>
-			<Tasks.14.TaskDesc>Clique em Life para abrir a página Life Buildings.</Tasks.14.TaskDesc>
-			<Tasks.14.UiData.Name>Life</Tasks.14.UiData.Name>
+			<Tasks.14.TaskDesc>Clique em Vida para abrir a página Life Buildings.</Tasks.14.TaskDesc>
+			<Tasks.14.UiData.Name>Vida</Tasks.14.UiData.Name>
 			<Tasks.15.TaskDesc>Clique em Cama para iniciar o modo de colocação.</Tasks.15.TaskDesc>
 			<Tasks.16.TipsData.Desc>Este discípulo é do elemento Metal, por isso é mais indicado que pratiquem em um ambiente rico em Terra.  Um edifício de Feng Shui precisa ir com decorações com elemento que gera terra, então é melhor escolher um material principal que seja do elemento Metal para colocar muitas decorações do elemento Terra que gera Metal.</Tasks.16.TipsData.Desc>
 			<Tasks.17.TaskDesc>Clique para selecionar Barra de Ferro.</Tasks.17.TaskDesc>
 			<Tasks.18.TaskDesc>Coloque-o no local designado na planta.</Tasks.18.TaskDesc>
-			<Tasks.19.TaskDesc>Clique com o botão direito do mouse para cancelar o modo Build.</Tasks.19.TaskDesc>
+			<Tasks.19.TaskDesc>Clique com o botão direito do mouse para cancelar o modo Construir.</Tasks.19.TaskDesc>
 			<Tasks.21.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>Aguarde até que a construção está concluída.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Clique para selecionar Cama de Ferro.</Tasks.25.TaskDesc>
 			<Tasks.26.TaskDesc>Clique para atribuir a propriedade.</Tasks.26.TaskDesc>
-			<Tasks.26.UiData.Name>Assign</Tasks.26.UiData.Name>
+			<Tasks.26.UiData.Name>Atribuir</Tasks.26.UiData.Name>
 			<Tasks.27.TaskDesc>Clique no primeiro personagem e arrume a cama para ele.</Tasks.27.TaskDesc>
 			<Tasks.28.TaskDesc>Confirme o arranjo.</Tasks.28.TaskDesc>
 			<Tasks.30.TipsData.Desc>Uma cama, uma almofada ou um trono podem ser usados ​​como local de treino.  Seu material principal deve ser do mesmo elemento que a Lei do discípulo interno.</Tasks.30.TipsData.Desc>
 			<Tasks.32.TaskDesc>Clique em Construir no canto inferior esquerdo para abrir a página Construir.</Tasks.32.TaskDesc>
 			<Tasks.33.TaskDesc>Clique em Decoração para abrir a página Edifícios da Vida.</Tasks.33.TaskDesc>
-			<Tasks.33.UiData.Name>Decoration</Tasks.33.UiData.Name>
+			<Tasks.33.UiData.Name>Decoração</Tasks.33.UiData.Name>
 			<Tasks.34.TaskDesc>Clique em Oil Lamp para iniciar o modo de colocação.</Tasks.34.TaskDesc>
 			<Tasks.35.TaskDesc>Clique para selecionar brownstone como o material principal.</Tasks.35.TaskDesc>
 			<Tasks.36.TaskDesc>Coloque-o no local designado na planta.</Tasks.36.TaskDesc>
 			<Tasks.38.TaskDesc>Clique em Móveis.</Tasks.38.TaskDesc>
-			<Tasks.38.UiData.Name>Furniture</Tasks.38.UiData.Name>
+			<Tasks.38.UiData.Name>Móveis</Tasks.38.UiData.Name>
 			<Tasks.39.TaskDesc>Clique em Vaso.</Tasks.39.TaskDesc>
 			<Tasks.40.TaskDesc>Coloque-o no local designado na planta.</Tasks.40.TaskDesc>
 			<Tasks.41.TaskDesc>Clique em Incensário.</Tasks.41.TaskDesc>
@@ -1064,13 +1064,13 @@ Discípulos Externos</DisplayName>
 			<Tasks.5.TipsData.Desc>Mercadores virão à seita de vez em quando, e o jogador pode trocar recursos com eles.  A moeda para o comércio é principalmente Pedras Espirituais, e itens de igual valor podem ser trocados.  O jogador precisa preparar os recursos a serem negociados antes de cada transação.</Tasks.5.TipsData.Desc>
 			<Tasks.7.TaskDesc>Clique em Construir no canto inferior esquerdo para abrir a página Construir.</Tasks.7.TaskDesc>
 			<Tasks.8.TaskDesc>Clique em Área para abrir a página Edifícios de Área.</Tasks.8.TaskDesc>
-			<Tasks.8.UiData.Name>Area</Tasks.8.UiData.Name>
+			<Tasks.8.UiData.Name>Área</Tasks.8.UiData.Name>
 			<Tasks.9.TaskDesc>Clique em Cama para iniciar o modo de colocação.</Tasks.9.TaskDesc>
 			<Tasks.10.TaskDesc>Arraste e selecione uma área de comércio no local designado.</Tasks.10.TaskDesc>
-			<Tasks.11.TaskDesc>Clique com o botão direito do mouse para cancelar o modo Build.</Tasks.11.TaskDesc>
+			<Tasks.11.TaskDesc>Clique com o botão direito do mouse para cancelar o modo Construir.</Tasks.11.TaskDesc>
 			<Tasks.13.TaskDesc>Selecione Pedra do Espírito.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Clique em Negociar no menu inferior.</Tasks.14.TaskDesc>
-			<Tasks.14.UiData.Name>Trade Area</Tasks.14.UiData.Name>
+			<Tasks.14.UiData.Name>Trade Área</Tasks.14.UiData.Name>
 			<Tasks.15.TaskDesc>Mude para o modo acelerado 3x clicando em 3x no canto superior esquerdo.</Tasks.15.TaskDesc>
 			<Tasks.17.TaskDesc>Aguarde até que os itens sejam movidos para a área de comércio.</Tasks.17.TaskDesc>
 			<Tasks.19.TipsData.Desc>Toda vez que um comerciante chega, ele traz uma grande quantidade de recursos, então prepare os itens que precisam ser negociados com antecedência caso você perca o horário de negociação.</Tasks.19.TipsData.Desc>
@@ -1479,7 +1479,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.6.TipsData.Desc>As estatísticas de temperatura dos discípulos da seita decidem se eles serão afetados pelo clima extremo.</Tasks.6.TipsData.Desc>
 			<Tasks.8.TipsData.Desc>Quando um discípulo na seita do jogador está desconfortável devido ao clima extremo, pode causar ferimentos, e o discípulo pode morrer se os ferimentos forem muito graves.</Tasks.8.TipsData.Desc>
 			<Tasks.10.TaskDesc>Clique em Equipar item.</Tasks.10.TaskDesc>
-			<Tasks.10.UiData.Name>Equip</Tasks.10.UiData.Name>
+			<Tasks.10.UiData.Name>Equipar</Tasks.10.UiData.Name>
 			<Tasks.12.TaskDesc>Clique para equipar o Talismã do Yang Supremo.</Tasks.12.TaskDesc>
 			<Tasks.13.TaskDesc>Aguarde até que seja equipado.</Tasks.13.TaskDesc>
 			<Tasks.14.TipsData.Desc>Um discípulo pode equipar um talismã ou usar outros métodos para aumentar sua temperatura, que é a maneira mais direta de lidar com climas extremos.</Tasks.14.TipsData.Desc>
@@ -1502,7 +1502,7 @@ Discípulos Externos</DisplayName>
 			<Tasks.5.TaskDesc>O jogador pode obter o Talismã da Invisibilidade desenhando.  Quando um discípulo interno se aventura com um Talismã da Invisibilidade ativado, ele pode efetivamente diminuir a reputação obtida.</Tasks.5.TaskDesc>
 			<Tasks.7.TaskDesc>Clique e selecione um discípulo.</Tasks.7.TaskDesc>
 			<Tasks.8.TaskDesc>Clique em Equipar item.</Tasks.8.TaskDesc>
-			<Tasks.8.UiData.Name>Equip</Tasks.8.UiData.Name>
+			<Tasks.8.UiData.Name>Equipar</Tasks.8.UiData.Name>
 			<Tasks.10.TaskDesc>Clique para equipar o Talismã da Invisibilidade.</Tasks.10.TaskDesc>
 			<Tasks.11.TaskDesc>Aguarde até que seja equipado.</Tasks.11.TaskDesc>
 			<Tasks.13.TipsData.Desc>A reputação até certo ponto afeta a seita do jogador, então o jogador pode usar o Talismã da Invisibilidade para diminuir a reputação obtida a fim de gerenciar a reputação da seita.</Tasks.13.TipsData.Desc>
@@ -1545,9 +1545,9 @@ Discípulos Externos</DisplayName>
 			<Chapters.0.Tasks.2>Reconstruir em lote</Chapters.0.Tasks.2>
 			<Tasks.1.TaskDesc>Clique e selecione um discípulo.</Tasks.1.TaskDesc>
 			<Tasks.2.TaskDesc>O jogador pode colocar o cursor para ver a tecla de atalho para emitir uma tarefa em lote de Comer.  O jogador pode pressionar o Shift esquerdo e clicar com o botão esquerdo em vários alimentos para comê-los em lote.</Tasks.2.TaskDesc>
-			<Tasks.2.UiData.Name>Eat</Tasks.2.UiData.Name>
+			<Tasks.2.UiData.Name>Comer</Tasks.2.UiData.Name>
 			<Tasks.3.TaskDesc>Clique no botão Comer.</Tasks.3.TaskDesc>
-			<Tasks.3.UiData.Name>Eat</Tasks.3.UiData.Name>
+			<Tasks.3.UiData.Name>Comer</Tasks.3.UiData.Name>
 			<Tasks.4.TaskDesc>Pressione Shift e selecione os itens a serem comidos.</Tasks.4.TaskDesc>
 			<Tasks.5.TaskDesc>Clique com o botão direito do mouse para cancelar o modo de seleção.</Tasks.5.TaskDesc>
 			<Tasks.7.TaskDesc>Clique em Cancelar no menu inferior.</Tasks.7.TaskDesc>
@@ -1571,24 +1571,24 @@ Discípulos Externos</DisplayName>
 			<Chapters.0.Tasks.1>Expandir campo</Chapters.0.Tasks.1>
 			<Tasks.1.TipsData.Desc>Quando o armazenamento atinge a capacidade total, o jogador pode expandir a área de armazenamento para aumentar sua capacidade.</Tasks.1.TipsData.Desc>
 			<Tasks.2.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.2.TaskDesc>
-			<Tasks.3.TaskDesc>Clique na aba Area.</Tasks.3.TaskDesc>
-			<Tasks.3.UiData.Name>Area</Tasks.3.UiData.Name>
+			<Tasks.3.TaskDesc>Clique na aba Área.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Área</Tasks.3.UiData.Name>
 			<Tasks.4.TaskDesc>Clique em Armazenamento para iniciar o planejamento de armazenamento.</Tasks.4.TaskDesc>
 			<Tasks.5.TaskDesc>Arraste para expandir o armazenamento.</Tasks.5.TaskDesc>
-			<Tasks.6.TaskDesc>Clique com o botão direito do mouse para cancelar o modo Build.</Tasks.6.TaskDesc>
+			<Tasks.6.TaskDesc>Clique com o botão direito do mouse para cancelar o modo Construir.</Tasks.6.TaskDesc>
 			<Tasks.7.TaskDesc>Selecione o armazenamento.</Tasks.7.TaskDesc>
 			<Tasks.8.TaskDesc>Abra o menu Armazenamento.</Tasks.8.TaskDesc>
-			<Tasks.8.UiData.Name>Filter</Tasks.8.UiData.Name>
+			<Tasks.8.UiData.Name>Filtro</Tasks.8.UiData.Name>
 			<Tasks.9.TipsData.Desc>Um armazenamento expandido manterá as configurações de filtro do armazenamento original.</Tasks.9.TipsData.Desc>
 			<Tasks.10.TaskDesc>Feche o menu Armazenamento.</Tasks.10.TaskDesc>
 			<Tasks.12.TipsData.Desc>Quando a área do campo não puder mais atender às necessidades dos discípulos internos, o jogador pode expandir o campo para aumentar a área plantada</Tasks.12.TipsData.Desc>
 			<Tasks.13.TaskDesc>Use a tecla de atalho {0} para abrir o menu de construção.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Clique em Campo para iniciar o planejamento de campo.</Tasks.14.TaskDesc>
 			<Tasks.15.TaskDesc>Arraste para expandir o campo.</Tasks.15.TaskDesc>
-			<Tasks.16.TaskDesc>Clique com o botão direito do mouse para cancelar o modo Build.</Tasks.16.TaskDesc>
+			<Tasks.16.TaskDesc>Clique com o botão direito do mouse para cancelar o modo Construir.</Tasks.16.TaskDesc>
 			<Tasks.17.TaskDesc>Selecione o campo.</Tasks.17.TaskDesc>
 			<Tasks.18.TipsData.Desc>Um campo expandido manterá as configurações da planta do campo original.</Tasks.18.TipsData.Desc>
-			<Tasks.18.TipsData.Name>Grow Plants</Tasks.18.TipsData.Name>
+			<Tasks.18.TipsData.Name>Cultive Plantas</Tasks.18.TipsData.Name>
 			<Tasks.20.TipsData.Desc>Existem áreas semelhantes no jogo que podem ser expandidas dessa maneira, portanto, este tutorial não entrará em detalhes sobre elas.</Tasks.20.TipsData.Desc>
 		</Text>
 	</List>

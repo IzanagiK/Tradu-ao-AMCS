@@ -1,10 +1,10 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_Grass" sParam="Item">
-			<ThingName>Hay</ThingName>
+			<ThingName>Feno</ThingName>
 			<Desc>Um punhado de feno.</Desc>
-			<Item.FabaoSuffix>Rope, Cord, Grass</Item.FabaoSuffix>
-			<Item.BeMaterial.NamePrefix>Hay</Item.BeMaterial.NamePrefix>
+			<Item.FabaoSuffix>Corda, Fio, Feno</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Feno</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>

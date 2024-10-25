@@ -1,40 +1,40 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Box_Cargo" sParam="Plant">
-			<ThingName>Old Box</ThingName>
-			<Desc>Uma caixa de carga relativamente bem preservada. Parece que foi perdida por alguem em pânico fugindo da guerra.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
+			<ThingName>Caixa Antiga</ThingName>
+			<Desc>Uma caixa de carga relativamente bem preservada. Parece que foi perdida por alguém em pânico fugindo da guerra.</Desc>
+			<StoryBnts.0.Name>Pesquisar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Pesquise nesta caixa.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse" sParam="Plant">
-			<ThingName>Decomposed Body</ThingName>
+			<ThingName>Corpo Decompondo</ThingName>
 			<Desc>Um corpo já em decomposição. Por alguma razão, morreu aqui.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Search this body.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Pesquisar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Pesquise este corpo.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_OldMan1" sParam="Plant">
-			<ThingName>Decomposed Body</ThingName>
+			<ThingName>Corpo Decompondo</ThingName>
 			<Desc>Um corpo já em decomposição. Por alguma razão, morreu aqui.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Search this body.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Pesquisar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Pesquise este corpo.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_OldMan2" sParam="Plant">
-			<ThingName>Decomposed Body</ThingName>
+			<ThingName>Corpo Decompondo</ThingName>
 			<Desc>Um corpo já em decomposição. Por alguma razão, morreu aqui.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Search this body.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Pesquisar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Pesquise este corpo.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_BeastMan" sParam="Plant">
-			<ThingName>Half-decomposed Body</ThingName>
+			<ThingName>Corpo Semi-decomposto</ThingName>
 			<Desc>Um corpo semi-decomposto, as bestas selvagens não o comem por qualquer razão.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Try to interact with its Apparition with your Perception.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente interagir com sua Aparição usando sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_ShiXiong" sParam="Plant">
-			<ThingName>Recent Corpse</ThingName>
+			<ThingName>Corpo Recente</ThingName>
 			<Desc>Um corpo que morreu aqui não há muito tempo por alguma razão.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Search this body.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Pesquisar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Pesquise este corpo.</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

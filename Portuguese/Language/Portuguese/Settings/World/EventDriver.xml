@@ -3,20 +3,20 @@
 		<Text Name="Template">
 			<DisplayName>Template</DisplayName>
 			<Types.0.DisplayName>Eventos de Encontro Fortuito</Types.0.DisplayName>
-			<Types.0.Desc>Esses incluem Rastros de Bestas Ancestrais, E Pistas de cultivadores antigos.</Types.0.Desc>
-			<Types.1.DisplayName>Eventos de inimigos poderosos</Types.1.DisplayName>
-			<Types.1.Desc>Estes incluem a difícil Invasão de Cultivadores e Invasão de Bestas.</Types.1.Desc>
-			<Types.2.DisplayName>Eventos raros</Types.2.DisplayName>
-			<Types.2.Desc>Estes incluem encontros climáticos difíceis, encontros familiares e tesouros avançados desenterrados.</Types.2.Desc>
-			<Types.3.DisplayName>Eventos secretos</Types.3.DisplayName>
-			<Types.3.Desc>Estes incluem Mandato de Manifestação e Mandato de Manifestação.</Types.3.Desc>
-			<Types.4.DisplayName>Visitor Events</Types.4.DisplayName>
-			<Types.4.Desc>Estes incluem Juntar Refugiados, Pedidos de transeuntes e visitantes imortais.</Types.4.Desc>
+			<Types.0.Desc>Esses incluem Rastros de Bestas Ancestrais e Pistas de Cultivadores Antigos.</Types.0.Desc>
+			<Types.1.DisplayName>Eventos de Inimigos Poderosos</Types.1.DisplayName>
+			<Types.1.Desc>Estes incluem a Difícil Invasão de Cultivadores e Invasão de Bestas.</Types.1.Desc>
+			<Types.2.DisplayName>Eventos Raros</Types.2.DisplayName>
+			<Types.2.Desc>Estes incluem Encontros Climáticos Difíceis, Encontros Familiares e Tesouros Avançados Desenterrados.</Types.2.Desc>
+			<Types.3.DisplayName>Eventos Secretos</Types.3.DisplayName>
+			<Types.3.Desc>Estes incluem Mandato de Manifestação.</Types.3.Desc>
+			<Types.4.DisplayName>Eventos de Visitantes</Types.4.DisplayName>
+			<Types.4.Desc>Estes incluem Juntar Refugiados, Pedidos de Transeuntes e Visitantes Imortais.</Types.4.Desc>
 			<Types.5.DisplayName>Eventos Inimigos</Types.5.DisplayName>
 			<Types.5.Desc>Estes incluem Invasão de Cultivadores e Invasão de Monstros.</Types.5.Desc>
-			<Types.6.DisplayName>Eventos comuns</Types.6.DisplayName>
+			<Types.6.DisplayName>Eventos Comuns</Types.6.DisplayName>
 			<Types.6.Desc>Estes incluem Encontros Meteorológicos e Mudanças na Atmosfera da Seita.</Types.6.Desc>
-			<Types.7.DisplayName>Eventos avançados</Types.7.DisplayName>
+			<Types.7.DisplayName>Eventos Avançados</Types.7.DisplayName>
 			<Types.7.Desc>Estes incluem Encontros Especiais de Clima, Tesouro Desenterrado e Surtos de Qi.</Types.7.Desc>
 		</Text>
 		<Text Name="EasyFate">

@@ -1,22 +1,22 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="RockBase" sParam="Item">
-			<Item.FabaoSuffix>Stone, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pedra, Selo, Estela, Jade Duplo, Tablet, Torre, Rocha</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BrownRock" sParam="Item">
-			<ThingName>Brownstone</ThingName>
+			<ThingName>Pedra Castanha</ThingName>
 			<Desc>Pedra de cor castanha; um material muito comum.</Desc>
-			<Item.BeMaterial.NamePrefix>Brownstone</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pedra Castanha</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_GrayRock" sParam="Item">
-			<ThingName>Graystone</ThingName>
+			<ThingName>Pedra Cinza</ThingName>
 			<Desc>Pedra de cor cinza; um material muito comum.</Desc>
-			<Item.BeMaterial.NamePrefix>Graystone</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pedra Cinza</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Marble" sParam="Item">
-			<ThingName>Marble</ThingName>
+			<ThingName>Mármore</ThingName>
 			<Desc>Mármore é um material de pedra comum. Sua textura é bastante atraente.</Desc>
-			<Item.BeMaterial.NamePrefix>Marble</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Mármore</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Jade" sParam="Item">
 			<ThingName>Jade</ThingName>
@@ -24,34 +24,34 @@
 			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_JadeEssence" sParam="Item">
-			<ThingName>Jade Essence</ThingName>
+			<ThingName>Essência de Jade</ThingName>
 			<Desc>A essência de uma pedra de jade, é leve, tem uma superfície lisa e muito bonita. Frequentemente usado para fazer decorações sofisticadas e também para remédios.</Desc>
-			<Item.BeMaterial.NamePrefix>Jade Essence</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Essência de Jade</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_StoneEssence" sParam="Item">
-			<ThingName>Stone Essence</ThingName>
+			<ThingName>Essência de Pedra</ThingName>
 			<Desc>A essência de uma pedra, é leve, tem uma superfície lisa e muito bonita. Frequentemente usado para fazer decorações sofisticadas e também para remédios.</Desc>
-			<Item.BeMaterial.NamePrefix>Stone Essence</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Essência de Pedra</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SkyStone" sParam="Item">
-			<ThingName>Holy Stone</ThingName>
+			<ThingName>Pedra Sagrada</ThingName>
 			<Desc>Um tipo raro de rocha que se diz ter sido desenterrado dos pilares celestiais, com o barulhento Qi do elemento Terra dentro dele.</Desc>
-			<Item.BeMaterial.NamePrefix>Holy Stone</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pedra Sagrada</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_ExtremeJade" sParam="Item">
-			<ThingName>Divine Jade</ThingName>
+			<ThingName>Jade Divina</ThingName>
 			<Desc>Um tesouro muito procurado entre os cultivadores, apresenta naturalmente a forma de um cristal cilíndrico. Possui excepcional adaptabilidade Qi.</Desc>
-			<Item.BeMaterial.NamePrefix>Divine Jade</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Jade Divina</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingStone" sParam="Item">
-			<ThingName>Spirit Stone</ThingName>
+			<ThingName>Pedra Espiritual</ThingName>
 			<Desc>Sólido formado pela condensação de Qi altamente concentrado. Consumi-lo restaura 500 Qi e melhora sua afinidade de Qi por um determinado período de tempo.</Desc>
-			<Item.BeMaterial.NamePrefix>Spirit Stone</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pedra Espiritual</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingCrystal" sParam="Item">
-			<ThingName>Spirit Crystal</ThingName>
+			<ThingName>Cristal Espiritual</ThingName>
 			<Desc>Cristal formado pela condensação de Qi altamente concentrado. Consumi-lo restaura 20.000 Qi e melhora significativamente sua afinidade Qi por um determinado período de tempo.</Desc>
-			<Item.BeMaterial.NamePrefix>Spirit Crystal</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Cristal Espiritual</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>

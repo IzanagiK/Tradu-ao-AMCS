@@ -1,19 +1,19 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="IronOre" sParam="Plant">
-			<ThingName>Iron Ore Vein</ThingName>
+			<ThingName>Veia de Minério de Ferro</ThingName>
 			<Desc>Montanha rica em ferro, a partir da qual se pode extrair minério de ferro.</Desc>
 		</Text>
 		<Text Name="CopperOre" sParam="Plant">
-			<ThingName>Igneocopper Ore Vein</ThingName>
-			<Desc>Montanha rica em Igneocopper, da qual pode ser extraído minério de Igneocopper.</Desc>
+			<ThingName>Veia de Minério de Igneocobre</ThingName>
+			<Desc>Montanha rica em Igneocobre, da qual pode ser extraído minério de Igneocobre.</Desc>
 		</Text>
 		<Text Name="SilverOre" sParam="Plant">
-			<ThingName>Ice Crystal Ore Vein</ThingName>
-			<Desc>Montanha rica em Ice Crystal, da qual pode ser extraído minério de Ice Crystal.</Desc>
+			<ThingName>Veia de Minério de Cristal de Gelo</ThingName>
+			<Desc>Montanha rica em Cristal de Gelo, da qual pode ser extraído minério de Cristal de Gelo.</Desc>
 		</Text>
 		<Text Name="RockLing" sParam="Plant">
-			<ThingName>Spirit Stone Vein</ThingName>
+			<ThingName>Veia de Pedra Espiritual</ThingName>
 			<Desc>Rocha de montanha rica em Qi, da qual podem ser extraídas as Pedras Espirituais.</Desc>
 		</Text>
 	</List>

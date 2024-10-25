@@ -1,27 +1,27 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="SimpleFoodBase" sParam="Item">
-			<Item.FabaoSuffix>Numinous Treasure</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Tesouro Numinoso</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Cake" sParam="Item">
-			<ThingName>Bread</ThingName>
+			<ThingName>Pão</ThingName>
 			<Desc>Ração de comida simples para matar a fome.</Desc>
-			<Item.FabaoSuffix>Pancake</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Panqueca</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Jerky" sParam="Item">
-			<ThingName>Dried Meat</ThingName>
+			<ThingName>Carne Seca</ThingName>
 			<Desc>Ração de comida simples para matar a fome.</Desc>
-			<Item.FabaoSuffix>Dried</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Seca</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PreservedFruit" sParam="Item">
-			<ThingName>Li's Dried Amber Fruit</ThingName>
-			<Desc>[color=#FFA500]Havia uma fruta uma vez, com gosto de mel. \nAguardando sua estação, enquanto o penduramos acima do beiral. \nAgora vem uma senhora, seus olhos atraindo como mel. \nO que mais esperar quando a temporada antecipada terminar? \n[/color]Amber Fruit é difícil de armazenar. Somente a família Li de Jinling é capaz de transformá-lo em frutas secas, preservando sua potência com sua receita secreta única.</Desc>
-			<Item.FabaoSuffix>Fruit</Item.FabaoSuffix>
+			<ThingName>Fruta Âmbar Seca do Li</ThingName>
+			<Desc>[color=#FFA500]Havia uma fruta uma vez, com gosto de mel. \nAguardando sua estação, enquanto o penduramos acima do beiral. \nAgora vem uma senhora, seus olhos atraindo como mel. \nO que mais esperar quando a temporada antecipada terminar? \n[/color]Fruta Âmbar é difícil de armazenar. Somente a família Li de Jinling é capaz de transformá-la em frutas secas, preservando sua potência com sua receita secreta única.</Desc>
+			<Item.FabaoSuffix>Fruta</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Yao_BoarMeat" sParam="Item">
-			<ThingName>Pig Demon Meat</ThingName>
+			<ThingName>Carne de Demônio Porco</ThingName>
 			<Desc>A essência da carne de um porco demônio, não pode ser cozida com fogo comum. Consumi-lo diretamente pode reabastecer uma grande quantidade de Vigor.</Desc>
-			<Item.FabaoSuffix>Dried</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Seca</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>

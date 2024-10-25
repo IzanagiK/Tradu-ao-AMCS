@@ -244,19 +244,19 @@
 			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_FeiLei">
-			<DisplayName>Thunderclap Cave</DisplayName>
-			<Desc>Foi dito que o Imortal Caerulea ascendeu aqui e deixou um segredo incrível. [NAME] não pude deixar de ficar curioso para ver o que poderia ser.</Desc>
+			<DisplayName>Caverna do Trovão</DisplayName>
+			<Desc>Foi dito que o Imortal Caerulea ascendeu aqui e deixou um segredo incrível. [NAME] não pôde deixar de ficar curioso para ver o que poderia ser.</Desc>
 			<Selections.0.Display>Olhar em volta</Selections.0.Display>
 		</Text>
 		<Text Name="BaoZang_FeiLei1">
-			<DisplayName>Thunderclap Cave</DisplayName>
-			<Desc>Mt. Shu disse que a chave da Caverna Thunderclap é um volume deixado pelo Sábio. Eles vão presentear qualquer um que possa pegar de volta o volume.</Desc>
+			<DisplayName>Caverna do Trovão</DisplayName>
+			<Desc>Mt. Shu disse que a chave da Caverna do Trovão é um volume deixado pelo Sábio. Eles vão presentear qualquer um que possa pegar de volta o volume.</Desc>
 			<Selections.0.Display>Emprestar o Volume</Selections.0.Display>
 			<Selections.1.Display>Sair</Selections.1.Display>
 		</Text>
 		<Text Name="LingWu_DanXia">
-			<DisplayName>Sunshade Setting Sun</DisplayName>
-			<Desc>[NAME] ficou chocado com a vista majestosa no Precipício Sunshade.</Desc>
+			<DisplayName>Sol Poente à Sombra</DisplayName>
+			<Desc>[NAME] ficou chocado com a vista majestosa no Precipício da Sombra.</Desc>
 			<Selections.0.Display>Meditar</Selections.0.Display>
 			<Selections.0.Tip>Inteligência e Ideais</Selections.0.Tip>
 			<Selections.1.Display>Meditar</Selections.1.Display>
@@ -264,22 +264,22 @@
 			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua1">
-			<DisplayName>The Land of the Hidden Dragon</DisplayName>
+			<DisplayName>A Terra do Dragão Oculto</DisplayName>
 			<Desc>[NAME] parou diante da Piscina Wyvern e lembrou que nos tempos antigos um grande poder havia sido reunido aqui, quando o dragão foi solto aqui, e não podia simplesmente ficar parado.</Desc>
 			<Selections.0.Display>Ganhou Algo</Selections.0.Display>
 			<Selections.1.Display>Meditar</Selections.1.Display>
 			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua2">
-			<DisplayName>The Land of the Phoenix</DisplayName>
-			<Desc>[NAME]parou diante do fossilized Phoenixwood em Phoenix Cliff, suspirou de emoção e pareceu ouvir o que parecia ser um chamado de fênix.</Desc>
+			<DisplayName>A Terra da Fênix</DisplayName>
+			<Desc>[NAME] parou diante do Phoenixwood fossilizado em Phoenix Cliff, suspirou de emoção e pareceu ouvir o que parecia ser um chamado de fênix.</Desc>
 			<Selections.0.Display>Ganhou Algo</Selections.0.Display>
 			<Selections.1.Display>Meditar</Selections.1.Display>
 			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_LongHu">
-			<DisplayName>Skypass Falls</DisplayName>
-			<Desc>[NAME] ficou sem palavras pelas águas brancas de Skypass Falls, sua força superou a de um cultivador que possui o núcleo dourado.</Desc>
+			<DisplayName>Cachoeiras de Skypass</DisplayName>
+			<Desc>[NAME] ficou sem palavras pelas águas brancas das Cachoeiras de Skypass, sua força superou a de um cultivador que possui o núcleo dourado.</Desc>
 			<Selections.0.Display>Ganhou Algo</Selections.0.Display>
 			<Selections.0.Tip>Domínio de Artefato</Selections.0.Tip>
 			<Selections.1.Display>Ganhou Algo</Selections.1.Display>
@@ -287,8 +287,8 @@
 			<Selections.2.Display>Aprecie o Cenário</Selections.2.Display>
 		</Text>
 		<Text Name="Story_TianJi">
-			<DisplayName>Mystic Cavern</DisplayName>
-			<Desc>Uma caverna normal dentro da Drake Cave. Parece bastante comum, mas emite uma aura estranha e mística, que não pode ser sentida a menos que seja alguém que conheça a Drake Cave por dentro e por fora. Parece haver alguns padrões naturais peculiares na entrada da caverna.</Desc>
+			<DisplayName>Caverna Mística</DisplayName>
+			<Desc>Uma caverna normal dentro da Caverna Drake. Parece bastante comum, mas emite uma aura estranha e mística, que não pode ser sentida a menos que seja alguém que conheça a Caverna Drake por dentro e por fora. Parece haver alguns padrões naturais peculiares na entrada da caverna.</Desc>
 			<Selections.0.Display>Inspecionar</Selections.0.Display>
 			<Selections.1.Display>Medite no Muro de Pedra</Selections.1.Display>
 			<Selections.1.Tip>Estado / Artesanato / Inteligência</Selections.1.Tip>
@@ -296,8 +296,8 @@
 			<Selections.3.Display>Partir</Selections.3.Display>
 		</Text>
 		<Text Name="Story_HighFind_SpPlace">
-			<DisplayName>Search for Luck</DisplayName>
-			<Desc>[NAME] foi para o campo de batalha do Clash of Immortals and Demons em busca de alguma sorte.</Desc>
+			<DisplayName>Buscar por Sorte</DisplayName>
+			<Desc>[NAME] foi para o campo de batalha do Conflito de Imortais e Demônios em busca de alguma sorte.</Desc>
 			<Selections.0.Display>Busca por sorte</Selections.0.Display>
 			<Selections.1.Display>Partir</Selections.1.Display>
 		</Text>

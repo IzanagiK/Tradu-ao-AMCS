@@ -1,72 +1,72 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Camp">
-			<DisplayName>Faction</DisplayName>
-			<ValuesDesc.0>Friendly</ValuesDesc.0>
-			<ValuesDesc.1>Neutral</ValuesDesc.1>
-			<ValuesDesc.2>Hostile</ValuesDesc.2>
+			<DisplayName>Facção</DisplayName>
+			<ValuesDesc.0>Amigável</ValuesDesc.0>
+			<ValuesDesc.1>Neutro</ValuesDesc.1>
+			<ValuesDesc.2>Hostil</ValuesDesc.2>
 		</Text>
 		<Text Name="MoveAI">
-			<DisplayName>Movement Mode</DisplayName>
-			<ValuesDesc.0>Standing</ValuesDesc.0>
-			<ValuesDesc.1>Free</ValuesDesc.1>
-			<ValuesDesc.2>Roaming</ValuesDesc.2>
-			<ValuesDesc.3>Fixed Route</ValuesDesc.3>
+			<DisplayName>Modo de Movimento</DisplayName>
+			<ValuesDesc.0>Parado</ValuesDesc.0>
+			<ValuesDesc.1>Livre</ValuesDesc.1>
+			<ValuesDesc.2>Explorando</ValuesDesc.2>
+			<ValuesDesc.3>Rota Fixa</ValuesDesc.3>
 		</Text>
 		<Text Name="MoveRoute">
-			<DisplayName>Key for fixed route</DisplayName>
+			<DisplayName>Chave para rota fixa</DisplayName>
 		</Text>
 		<Text Name="GuradRange">
-			<DisplayName>Alert Range</DisplayName>
+			<DisplayName>Alcance de Alerta</DisplayName>
 		</Text>
 		<Text Name="IsStepRuning">
-			<DisplayName>Frame Callback</DisplayName>
-			<ValuesDesc.0>No</ValuesDesc.0>
-			<ValuesDesc.1>Yes</ValuesDesc.1>
+			<DisplayName>Callback de Quadro</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
 		</Text>
 		<Text Name="IsFrameStep">
-			<DisplayName>Callback each frame</DisplayName>
-			<ValuesDesc.0>No</ValuesDesc.0>
-			<ValuesDesc.1>Yes</ValuesDesc.1>
+			<DisplayName>Callback a cada quadro</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
 		</Text>
 		<Text Name="IsRenderRuning">
-			<DisplayName>Render Frame Callback</DisplayName>
-			<ValuesDesc.0>No</ValuesDesc.0>
-			<ValuesDesc.1>Yes</ValuesDesc.1>
+			<DisplayName>Callback de Quadro de Renderização</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
 		</Text>
 		<Text Name="IsGod">
-			<DisplayName>Invulnerable or not</DisplayName>
-			<ValuesDesc.0>No</ValuesDesc.0>
-			<ValuesDesc.1>Yes</ValuesDesc.1>
+			<DisplayName>Invulnerável ou não</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
 		</Text>
 		<Text Name="ChouHenLianDong">
-			<DisplayName>Shared hatred of team</DisplayName>
-			<ValuesDesc.0>No</ValuesDesc.0>
-			<ValuesDesc.1>Yes</ValuesDesc.1>
+			<DisplayName>Ódio compartilhado da equipe</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
 		</Text>
 		<Text Name="AutoNext">
-			<DisplayName>Beat All Enemies</DisplayName>
-			<ValuesDesc.0>No</ValuesDesc.0>
-			<ValuesDesc.1>Yes</ValuesDesc.1>
+			<DisplayName>Derrotar Todos os Inimigos</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
 		</Text>
 		<Text Name="PickAndRemove">
-			<DisplayName>Resources exhaustible or not</DisplayName>
-			<ValuesDesc.0>No</ValuesDesc.0>
-			<ValuesDesc.1>Yes</ValuesDesc.1>
+			<DisplayName>Recursos esgotáveis ou não</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
 		</Text>
 		<Text Name="LightFog">
-			<DisplayName>Light up fog or not</DisplayName>
-			<ValuesDesc.0>No</ValuesDesc.0>
-			<ValuesDesc.1>Yes</ValuesDesc.1>
+			<DisplayName>Revelar névoa ou não</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
 		</Text>
 		<Text Name="LightFogDis">
-			<DisplayName>Range of lit-up fog</DisplayName>
+			<DisplayName>Alcance da névoa revelada</DisplayName>
 		</Text>
 		<Text Name="Param1">
-			<DisplayName>Parameter 1 (RpgParam1)</DisplayName>
+			<DisplayName>Parâmetro 1 (RpgParam1)</DisplayName>
 		</Text>
 		<Text Name="Param2">
-			<DisplayName>Parameter 2 (RpgParam2)</DisplayName>
+			<DisplayName>Parâmetro 2 (RpgParam2)</DisplayName>
 		</Text>
 	</List>
 </Texts>

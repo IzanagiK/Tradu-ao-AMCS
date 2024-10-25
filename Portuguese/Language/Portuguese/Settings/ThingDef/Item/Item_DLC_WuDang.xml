@@ -1,42 +1,42 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_WuDang_HuangJing" sParam="Item">
-			<ThingName>Soil Essence</ThingName>
+			<ThingName>Essência do Solo</ThingName>
 			<Desc>Uma erva doce e refrescante que pode não apenas reduzir a fome, mas também repor nutrientes. Pensada como Ganoderma pelos imortais, a erva é conhecida como Essência do Solo porque absorve a essência da terra.</Desc>
-			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Fruta, Pérola, Bolus, Bola</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WuDang_HuangJingFen" sParam="Item">
-			<ThingName>Soil Essence Powder</ThingName>
+			<ThingName>Pó de Essência do Solo</ThingName>
 			<Desc>Pó moído de Essência do Solo seco. Embora um pouco potente, é mais frequentemente usado para preparar elixires.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponFuChen" sParam="Item">
-			<ThingName>Fly-Whisk</ThingName>
+			<ThingName>Vassourinha</ThingName>
 			<Desc>Um batedor de moscas frequentemente usado por imortais e taoístas.</Desc>
-			<Item.FabaoSuffix>Soft. Whisk</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Macio, Batedor</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WeaponDaoSword" sParam="Item">
-			<ThingName>Sword of Tao</ThingName>
+			<ThingName>Espada do Tao</ThingName>
 			<Desc>Uma espada compatível com magia que é usada especificamente para rituais taoístas.</Desc>
-			<Item.FabaoSuffix>Sword</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Espada</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XuanTianShangDiPai" sParam="Item">
-			<ThingName>Sacred Nimbus Plate</ThingName>
+			<ThingName>Placa Nimbus Sagrado</ThingName>
 			<Desc>Uma placa pendente gravada com o título sagrado de Imperador Guerreiro Aperfeiçoado. Use para obter as bênçãos do Imperador e melhorar a Sorte e o Estado Mental.</Desc>
-			<Item.FabaoSuffix>Plate</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Placa</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_WuQiNoHunger2" sParam="Item">
-			<ThingName>Qi Fasting Pill</ThingName>
+			<ThingName>Pílula de Jejum de Qi</ThingName>
 			<Desc>Uma pílula de jejum secreta das Montanhas Wudang. Em comparação com as pílulas de jejum normais, dura mais (num total de 30 dias).</Desc>
 		</Text>
 		<Text Name="Item_Dan_SanHuaHuangJing" sParam="Item">
-			<ThingName>Trimerous Essence Pill</ThingName>
+			<ThingName>Pílula de Essência Trimerosa</ThingName>
 			<Desc>Um elixir secreto das Montanhas Wudang. Tome para aumentar Max Qi por um valor fixo. Embora não seja muito útil para cultivadores experientes, é recomendado para ajudar a estabelecer as bases para novos discípulos. Mas seu efeito diminuirá significativamente se for tomado várias vezes.</Desc>
 		</Text>
 		<Text Name="Item_MiBao_ZhenWuDangMoShenJian" sParam="Item">
-			<ThingName>Perfected Warrior Sword</ThingName>
+			<ThingName>Espada do Guerreiro Aperfeiçoado</ThingName>
 			<Desc>Também conhecido como o Exorcista Prime, o Guerreiro Aperfeiçoado usou esta preciosa espada para expulsar todos os males. Com cerca de 3 polegadas de comprimento, a espada é reforjada de pedras de jade com os verdadeiros poderes de exorcismo; tem assim um brilho arroxeado imponente ao seu redor. Uma vez desenhado, ele se transforma em relâmpagos violeta de 2,5 cm de comprimento que destroem tudo o que tocam.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Mate 1 Snake Demon enquanto carrega este item.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.0.des>Mate 1 Demônio Serpente enquanto carrega este item.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.ActiveCondition.1.des>Mate 1 Demônio Lobo enquanto carrega este item.</Item.Fabao.ActiveCondition.1.des>
 			<Item.Fabao.ActiveCondition.2.des>Mate 1 Demônio Urso enquanto carrega este item.</Item.Fabao.ActiveCondition.2.des>
 			<Item.Fabao.ActiveCondition.3.des>Mate 1 Demônio Tartaruga enquanto carrega este item.</Item.Fabao.ActiveCondition.3.des>
@@ -45,32 +45,32 @@
 			<Item.Fabao.SpecialAbility.1.Desc>Causa 3x de dano quando equipado por um humano.</Item.Fabao.SpecialAbility.1.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ZiXiaoChi" sParam="Item">
-			<ThingName>Purple Cloud Measure</ThingName>
+			<ThingName>Medida da Nuvem Roxa</ThingName>
 			<Desc>Um artefato secreto da Seita Wudang. Esculpida em uma Pedra Sagrada completa, a medida tem escamas gravadas com 7 Sopros Celestiais e poderes astrais e é forjada após 7 Tribulações Celestiais. Uma vez dominado, o artefato pode ser usado para medir as contribuições de todas as vidas com o credo do céu e até mesmo acelerar a Tribulação Celestial do inimigo.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Sobreviva a 7 Tribulações da Ascensão carregando um artefato.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Os ataques causam dano baseado na diferença entre a obtenção de ambos os lados. Uma lacuna de 1 Consequência aumenta o dano em 1%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Fish_SkySnake" sParam="Item">
-			<ThingName>Cloud Eel</ThingName>
+			<ThingName>Enguia das Nuvens</ThingName>
 			<Desc>Uma enguia especial exclusiva do Mar de Nuvens. Como o Qi preenche seu corpo, a carne da enguia é macia e leve como o ar.</Desc>
-			<Item.FabaoSuffix>Surimi,Fish,Bone</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Surimi,Pescado,Osso</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_SkyFish" sParam="Item">
-			<ThingName>Night Carp</ThingName>
+			<ThingName>Carpa Noturna</ThingName>
 			<Desc>Uma carpa que vive nas nuvens e só aparece à noite.</Desc>
 		</Text>
 		<Text Name="Fish_SkyCrab" sParam="Item">
-			<ThingName>Golden Claw</ThingName>
+			<ThingName>Garra Dourada</ThingName>
 			<Desc>Um caranguejo que vive no Mar de Nuvens e tem o corpo mais resistente. Dizem que eles se alimentam da energia dos raios nas nuvens.</Desc>
 		</Text>
 		<Text Name="Item_XuanWuEgg" sParam="Item">
-			<ThingName>Black Tortoise Jade</ThingName>
-			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<ThingName>Jade da Tartaruga Negra</ThingName>
+			<StoryBnts.0.Name>Inspecionar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspecionar Jade da Tartaruga Negra</StoryBnts.0.Desc>
 			<Desc>Uma jade enviada pela Seita Wudang como presente. Parece ser um de um conjunto de itens.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_ZhenWuShenNian" sParam="Item">
-			<ThingName>Perfected Guidance</ThingName>
+			<ThingName>Orientação Aperfeiçoada</ThingName>
 			<Desc>Uma pequena quantidade de Orientação Aperfeiçoada. Ele pode ser usado para construir a Estátua do Guerreiro Aperfeiçoado.</Desc>
 		</Text>
 	</List>

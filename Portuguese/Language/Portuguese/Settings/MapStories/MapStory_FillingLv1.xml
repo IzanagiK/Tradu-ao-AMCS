@@ -100,7 +100,7 @@
 			<Selections.3.Tip>Núcleo Dourado</Selections.3.Tip>
 			<Selections.4.Display>Ataque furtivo</Selections.4.Display>
 			<Selections.4.Tip>Núcleo Dourado</Selections.4.Tip>
-			<Selections.5.Display>Attack</Selections.5.Display>
+			<Selections.5.Display>Ataque</Selections.5.Display>
 			<Selections.5.Tip>Núcleo Dourado</Selections.5.Tip>
 			<Selections.6.Display>Ignorar</Selections.6.Display>
 			<Selections.7.Display>Provocar</Selections.7.Display>
@@ -208,7 +208,7 @@
 			<Selections.4.Display>Ignorar</Selections.4.Display>
 		</Text>
 		<Text Name="Treasure_Base">
-			<DisplayName>Pesquisar por relíquias</DisplayName>
+			<DisplayName>Procurar por relíquias</DisplayName>
 			<Desc>[NAME] inadvertidamente se deparou com a residência escondida de um cultivador ... parece que foi abandonado há algum tempo.</Desc>
 			<Selections.0.Display>dar uma olhada</Selections.0.Display>
 			<Selections.0.Tip>Sorte</Selections.0.Tip>
@@ -289,7 +289,7 @@
 			<Selections.1.Display>Ignorar</Selections.1.Display>
 		</Text>
 		<Text Name="Place_Cold_Base">
-			<DisplayName>Pesquisar locais</DisplayName>
+			<DisplayName>Procurar locais</DisplayName>
 			<Desc>[NAME] ouviu dizer que havia mais do que alguns lugares terrivelmente interessantes perto de [PLACE] e então decidiu fazer uma excursão.</Desc>
 			<Selections.0.Display>Procure por locais isolados</Selections.0.Display>
 			<Selections.0.Tip>Resistência ao frio</Selections.0.Tip>

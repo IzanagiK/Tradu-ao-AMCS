@@ -1,35 +1,35 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Dandelion" sParam="Plant">
-			<ThingName>Dandelion</ThingName>
+			<ThingName>Taraxaco</ThingName>
 			<Desc>Pequena flor bonita.</Desc>
 		</Text>
 		<Text Name="Flower1" sParam="Plant">
-			<ThingName>Springhope</ThingName>
-			<Desc>Bela planta de ligeiro Wood element.</Desc>
+			<ThingName>Esperança da Primavera</ThingName>
+			<Desc>Bela planta de leve elemento Madeira.</Desc>
 		</Text>
 		<Text Name="IceFlower1" sParam="Plant">
-			<ThingName>Iceflower</ThingName>
-			<Desc>Bela planta de ligeiro Wood element.</Desc>
+			<ThingName>Flor do Gelo</ThingName>
+			<Desc>Bela planta de leve elemento Madeira.</Desc>
 		</Text>
 		<Text Name="Flower2" sParam="Plant">
 			<ThingName>Aureate</ThingName>
-			<Desc>Bela planta de ligeiro Metal element.</Desc>
+			<Desc>Bela planta de leve elemento Metal.</Desc>
 		</Text>
 		<Text Name="Flower3" sParam="Plant">
-			<ThingName>Sanguinea</ThingName>
-			<Desc>Bela planta de ligeiro Fire element.</Desc>
+			<ThingName>Sanguínea</ThingName>
+			<Desc>Bela planta de leve elemento Fogo.</Desc>
 		</Text>
 		<Text Name="Flower4" sParam="Plant">
 			<ThingName>Triandrus</ThingName>
-			<Desc>Bela planta de ligeiro Water element.</Desc>
+			<Desc>Bela planta de leve elemento Água.</Desc>
 		</Text>
 		<Text Name="Flower5" sParam="Plant">
 			<ThingName>Fraxinus</ThingName>
-			<Desc>Bela planta de ligeiro Earth element.</Desc>
+			<Desc>Bela planta de leve elemento Terra.</Desc>
 		</Text>
 		<Text Name="ShiChe" sParam="Plant">
-			<ThingName>Cornflowers</ThingName>
+			<ThingName>Flor de Milho</ThingName>
 			<Desc>Uma bela planta que cresce no deserto.</Desc>
 		</Text>
 		<Text Name="CongRong" sParam="Plant">
@@ -37,7 +37,7 @@
 			<Desc>Uma bela planta que cresce no deserto.</Desc>
 		</Text>
 		<Text Name="CamelSting" sParam="Plant">
-			<ThingName>Camelthorn</ThingName>
+			<ThingName>Espinhos de Camelo</ThingName>
 			<Desc>Uma bela planta que cresce no deserto.</Desc>
 		</Text>
 	</List>

@@ -1,44 +1,44 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="MainUIWorldTime">
-			<Notes>Comment Panel of World Clock</Notes>
-			<Title>World Clock</Title>
+			<Notes>Painel de Comentários do Relógio Mundial</Notes>
+			<Title>Relógio Mundial</Title>
 			<Desc>Tempo do mundo, cujos números aumentam à medida que o jogo avança.</Desc>
-			<Tips>Clique com RMB para abrir o painel de comentários do[color=#D06508]World Clock[/color]</Tips>
+			<Tips>Clique com RMB para abrir o painel de comentários do [color=#D06508]Relógio Mundial[/color]</Tips>
 		</Text>
 		<Text Name="MainUIWeather">
-			<Notes>Only used to show tips at the entrance of comment panel of Weather.</Notes>
-			<Tips>Clique com RMB para abrir o painel de comentários de [color=#D06508]Weather[/color].</Tips>
+			<Notes>Usado apenas para mostrar dicas na entrada do painel de comentários do Tempo.</Notes>
+			<Tips>Clique com RMB para abrir o painel de comentários de [color=#D06508]Tempo[/color].</Tips>
 		</Text>
 		<Text Name="MainUISectFengShui">
-			<Notes>Comment Panel of Sect's Feng Shui</Notes>
-			<Title>Sect's Feng Shui</Title>
+			<Notes>Painel de Comentários do Feng Shui da Seita</Notes>
+			<Title>Feng Shui da Seita</Title>
 			<Desc>O Feng Shui de uma seita.</Desc>
-			<Tips>Clique com RMB para abrir o painel de comentários do [color=#D06508]Sect's Feng Shui[/color].</Tips>
+			<Tips>Clique com RMB para abrir o painel de comentários do [color=#D06508]Feng Shui da Seita[/color].</Tips>
 		</Text>
 		<Text Name="MainUIRoomFengShui">
-			<Notes>Comment Panel of Room's Feng Shui</Notes>
-			<Title>Room's Feng Shui</Title>
+			<Notes>Painel de Comentários do Feng Shui da Sala</Notes>
+			<Title>Feng Shui da Sala</Title>
 			<Desc>O Feng Shui de uma sala.</Desc>
-			<Tips>Clique com RMB para abrir o painel de comentários de [color=#D06508]Room's Feng Shui[/color].</Tips>
+			<Tips>Clique com RMB para abrir o painel de comentários de [color=#D06508]Feng Shui da Sala[/color].</Tips>
 		</Text>
 		<Text Name="MainUILingShi">
-			<Notes>Comment Panel of Spirit Stone</Notes>
-			<Title>Spirit Stone Coin</Title>
-			<Desc>Produto universalmente aceito, que pode ser usado como moeda para comercio.</Desc>
-			<Tips>Clique com RMB para abrir o painel de comentários do [color=#D06508]Spirit Stone[/color].</Tips>
+			<Notes>Painel de Comentários da Pedra Espiritual</Notes>
+			<Title>Moeda de Pedra Espiritual</Title>
+			<Desc>Produto universalmente aceito, que pode ser usado como moeda para comércio.</Desc>
+			<Tips>Clique com RMB para abrir o painel de comentários da [color=#D06508]Pedra Espiritual[/color].</Tips>
 		</Text>
 		<Text Name="MainUIInfluence">
-			<Notes>Comment Panel of Influence</Notes>
-			<Title>Influence</Title>
-			<Desc>A influencia de sua seita no mundo mortal pode ser usada para expandir seu poder no mundo mortal.</Desc>
-			<Tips>Clique com RMB para abrir o painel de comentários de [color=#D06508]Influence[/color].</Tips>
+			<Notes>Painel de Comentários da Influência</Notes>
+			<Title>Influência</Title>
+			<Desc>A influência de sua seita no mundo mortal pode ser usada para expandir seu poder no mundo mortal.</Desc>
+			<Tips>Clique com RMB para abrir o painel de comentários de [color=#D06508]Influência[/color].</Tips>
 		</Text>
 		<Text Name="MainUIWuXingGraph">
-			<Notes>Comment Panel of Five Element Diagram</Notes>
-			<Title>Five Element Diagram</Title>
-			<Desc>O Diagrama dos Cinco Elementos mostra cada uma das relações sinergicas e antagonicas entre os cinco elementos - Metal, Madeira, Água, Fogo e Terra.</Desc>
-			<Tips>Clique com RMB para abrir o painel de comentários do [color=#D06508]Five Element Diagram[/color].</Tips>
+			<Notes>Painel de Comentários do Diagrama dos Cinco Elementos</Notes>
+			<Title>Diagrama dos Cinco Elementos</Title>
+			<Desc>O Diagrama dos Cinco Elementos mostra cada uma das relações sinérgicas e antagônicas entre os cinco elementos - Metal, Madeira, Água, Fogo e Terra.</Desc>
+			<Tips>Clique com RMB para abrir o painel de comentários do [color=#D06508]Diagrama dos Cinco Elementos[/color].</Tips>
 		</Text>
 	</List>
 </Texts>

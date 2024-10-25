@@ -4,179 +4,179 @@
 			<DisplayName>Taxa de autocura do cultivador físico</DisplayName>
 			<Desc>A velocidade de autocura dos cultivadores físicos quando feridos.</Desc>
 			<DisplayValue>{0:P2}/sec</DisplayValue>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_MaxZhenQi">
 			<DisplayName>Qi verdadeiro máximo</DisplayName>
 			<Desc>Máximo Qi Verdadeiro de cultivadores Físicos.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_RecoverZhenQi">
 			<DisplayName>Valor base da taxa de recuperação Qi real</DisplayName>
 			<Desc>A taxa básica de recuperação do Qi Verdadeiro dos cultivadores Físicos.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_DefenseRecoverZhenQi">
 			<DisplayName>Taxa de recuperação True Qi do modo de recuperação</DisplayName>
 			<Desc>A porcentagem de Qi Verdadeiro a ser recuperada por segundo quando o Qi Verdadeiro de um cultivador físico está esgotado.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_CatchFaboValue">
 			<DisplayName>Taxa de Supressão de Consumo</DisplayName>
 			<Desc>A quantidade de Qi Verdadeiro adicional a ser consumida quando um cultivador físico está suprimindo um artefato.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_BodyStrong">
 			<DisplayName>Força do corpo</DisplayName>
 			<Desc>A habilidade do corpo de um cultivador físico de resistir a danos. Quanto mais forte o corpo, menor a probabilidade de morrer de lesões.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_QuenchingSpeed">
 			<DisplayName>Velocidade de Remoção</DisplayName>
 			<Desc>A velocidade com que os cultivadores físicos remodelam seus corpos.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAtk_EquptMaxCount">
 			<DisplayName>Contagem de corpos secreta ofensiva</DisplayName>
 			<Desc>O número máximo de Corpos Secretos Ofensivos que um cultivador físico pode ativar simultaneamente.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartDef_EquptMaxCount">
 			<DisplayName>Contagem de corpos secretos defensivos</DisplayName>
 			<Desc>O número máximo de Corpos Secretos Defensivos que um cultivador físico pode ativar simultaneamente.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartBuff_EquptMaxCount">
 			<DisplayName>Contagem de corpos secreta efetiva</DisplayName>
 			<Desc>O número máximo de Corpos Secretos Efetivos que um cultivador físico pode ativar simultaneamente.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_Other_TunaAddp">
 			<DisplayName>Efeito de respiração adicional</DisplayName>
 			<Desc>O bônus aplicado à eficiência de um cultivador físico em obter essência pela respiração.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_SuperPartCostAddP">
 			<DisplayName>Taxa de consumo de corpo secreto</DisplayName>
 			<Desc>O bônus aplicado à Taxa de Consumo de Qi Verdadeiro de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_SuperPartRecoverAddP">
 			<DisplayName>Taxa de recuperação do Qi verdadeiro do corpo secreto</DisplayName>
 			<Desc>O bônus aplicado à Taxa de Recuperação do Qi Verdadeiro de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_AtkPower">
 			<DisplayName>Poder Corporal Secreto Global</DisplayName>
 			<Desc>O bônus aplicado ao poder de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_DefPower">
 			<DisplayName>Resistência Corporal Secreta Global</DisplayName>
 			<Desc>O bônus aplicado à Resistência de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_AtkRate">
 			<DisplayName>Precisão global do corpo secreto</DisplayName>
 			<Desc>O bônus aplicado à Precisão de Ataque de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_DefRate">
 			<DisplayName>Taxa Global de Defesa Corporal Secreta</DisplayName>
 			<Desc>O bônus aplicado à Taxa de Sucesso de Defesa de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_ArmorPenetration">
 			<DisplayName>Penetração Global do Corpo Secreto</DisplayName>
 			<Desc>O bônus aplicado à Penetração da Barreira de Qi de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_CatchFabao">
 			<DisplayName>Supressão global de corpos secretos</DisplayName>
 			<Desc>O bônus aplicado à Chance de Supressão de Artefato de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_AtkPower">
 			<DisplayName>Poder Corporal Secreto Global</DisplayName>
 			<Desc>O valor do bônus aplicado ao poder de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_DefPower">
 			<DisplayName>Resistência Corporal Secreta Global</DisplayName>
 			<Desc>O valor do bônus aplicado à Resistência de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_AtkRate">
 			<DisplayName>Precisão global do corpo secreto</DisplayName>
 			<Desc>O valor de bônus aplicado à Precisão de Ataque de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_DefRate">
 			<DisplayName>Taxa Global de Defesa Corporal Secreta</DisplayName>
 			<Desc>O valor do bônus aplicado à Taxa de Sucesso de Defesa de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_ArmorPenetration">
 			<DisplayName>Penetração Global do Corpo Secreto</DisplayName>
 			<Desc>O valor do bônus aplicado à Penetração da Barreira de Qi de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_CatchFabao">
 			<DisplayName>Supressão global de corpos secretos</DisplayName>
 			<Desc>O valor de bônus aplicado à Chance de Supressão de Artefato de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_AngerFireNum">
 			<DisplayName>Máximo de memórias dolorosas</DisplayName>
 			<Desc>O número máximo de memórias que os cultivadores físicos podem lembrar como suas memórias dolorosas.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_AngerFireDuration">
 			<DisplayName>Duração do Furioso Furioso</DisplayName>
 			<Desc>O tempo de duração de um Furioso Furioso quando o Cultivador Físico o iniciou.</Desc>
 			<DisplayValue>{0:N} sec</DisplayValue>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_AngerFireEffectAddp">
 			<DisplayName>Multiplicador de Efeito Furioso Furioso</DisplayName>
 			<Desc>A força efetiva de um Furioso Furioso quando o Cultivador Físico o inicia.</Desc>
-			<FunctionKind>Battle Stats</FunctionKind>
+			<FunctionKind>Estatísticas da Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_EatItemMaxRate">
 			<DisplayName>Nível máximo de itens de devorar</DisplayName>
 			<Desc>O nível mais alto de itens que os cultivadores físicos podem devorar.</Desc>
 			<DisplayValue>Tier {0:N}</DisplayValue>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_EatItemProduceCountAddp">
 			<DisplayName>Bônus para devorar a quantidade</DisplayName>
 			<Desc>A porcentagem de bônus aplicada ao número de Essências obtidas por cultivadores Físicos após devorar itens.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_EatItemProduceRateAddp">
 			<DisplayName>Bônus para Devorar raridade</DisplayName>
 			<Desc>A porcentagem de bônus aplicada à chance de obter Essência rara por cultivadores Físicos após devorar itens.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache1">
 			<DisplayName>Bônus para remodelação incomum</DisplayName>
 			<Desc>A chance de bônus de uma direção de evolução incomum ocorrer quando um cultivador físico está sendo remodelado.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache2">
 			<DisplayName>Bônus para Remoldagem raramente</DisplayName>
 			<Desc>A chance de bônus de uma rara direção de evolução ocorrer quando um cultivador físico está sendo remodelado.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache3">
 			<DisplayName>Bônus para remodelar soberbamente</DisplayName>
 			<Desc>A chance de bônus de uma excelente direção de evolução ocorrer quando um cultivador físico está se remodelando.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Cache4">
 			<DisplayName>Bônus para remodelação épica</DisplayName>
 			<Desc>A chance de bônus de uma direção de evolução épica ocorrer quando um cultivador físico está sendo remodelado.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<FunctionKind>Estatísticas de Cultivo</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_RollAddtion_Null">
 			<DisplayName>Bônus de chance de falha de remodelação</DisplayName>
@@ -184,7 +184,7 @@
 		<Text Name="BodyPractice_MaxFoodAddtion">
 			<DisplayName>Bônus Máximo de Fome</DisplayName>
 			<Desc>Bônus Máximo de Fome do Cultivador Físico</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<FunctionKind>Estatísticas Base</FunctionKind>
 		</Text>
 	</List>
 </Texts>

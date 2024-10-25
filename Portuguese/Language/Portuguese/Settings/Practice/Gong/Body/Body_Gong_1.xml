@@ -1,17 +1,17 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Body_Gong_1">
-			<DisplayName>Primordial Unity Body</DisplayName>
+			<DisplayName>Corpo da Unidade Primordial</DisplayName>
 			<Desc>Uma lei de cultivo remodelada passada desde os tempos antigos que imita as formas de todas as criaturas, segue a vontade do universo e obedece à lei das seis direções. Este feitiço se destaca na integração com a natureza e evolui passo a passo para uma entidade unificadora que significa a complexidade de todas as criaturas do mundo. O corpo físico torna-se divino e abraça o esquecimento.</Desc>
 			<SelectDesc>O treinamento físico significa combinar energia, Qi e espírito em um, cortando o Qi e quaisquer outros itens mágicos e começando a prática apenas com o corpo físico. Você quer tomar esta Lei?</SelectDesc>
-			<Stages.0.DisplayName>Remold Phase</Stages.0.DisplayName>
+			<Stages.0.DisplayName>Fase de Remodelagem</Stages.0.DisplayName>
 			<Stages.0.Necks.0.DisplayName>Físico Renascido</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Marrow-cleansing Phase</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Alteração de medula</Stages.1.Necks.0.DisplayName>
-			<Stages.2.DisplayName>Incubation Phase</Stages.2.DisplayName>
+			<Stages.1.DisplayName>Fase de Limpeza de Medula</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Alteração de Medula</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Fase de Incubação</Stages.2.DisplayName>
 			<Stages.2.Necks.0.DisplayName>Unidade Unificadora</Stages.2.Necks.0.DisplayName>
-			<Stages.3.DisplayName>Chaos Phase</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Penalidade primordial</Stages.3.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Fase do Caos</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Penalidade Primordial</Stages.3.Necks.0.DisplayName>
 		</Text>
 	</List>
 </Texts>

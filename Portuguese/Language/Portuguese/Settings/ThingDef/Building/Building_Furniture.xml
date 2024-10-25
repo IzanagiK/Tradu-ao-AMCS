@@ -1,102 +1,102 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Bed" sParam="Building">
-			<ThingName>Bed</ThingName>
+			<ThingName>Cama</ThingName>
 			<Desc>Uma cama de solteiro que lhe pode proporcionar uma boa noite de sono.</Desc>
 		</Text>
 		<Text Name="DoubleBed" sParam="Building">
-			<ThingName>Double Bed</ThingName>
+			<ThingName>Cama de Casal</ThingName>
 			<Desc>Uma cama de casal adequada para duas pessoas.</Desc>
 		</Text>
 		<Text Name="SmallTable" sParam="Building">
-			<ThingName>Table</ThingName>
+			<ThingName>Mesa</ThingName>
 			<Desc>Uma mesa simples para as pessoas comerem suas refeições.</Desc>
 		</Text>
 		<Text Name="Table" sParam="Building">
-			<ThingName>Square Table</ThingName>
+			<ThingName>Mesa Quadrada</ThingName>
 			<Desc>Uma mesa tradicional para as pessoas jantarem.</Desc>
 		</Text>
 		<Text Name="WaterTank" sParam="Building">
-			<ThingName>Water Vat</ThingName>
+			<ThingName>Vasilha de Água</ThingName>
 			<Desc>Um recipiente para armazenamento e limpeza de água. Pode ser muito conveniente ter em algum lugar que requeira o uso frequente de água.</Desc>
 		</Text>
 		<Text Name="SmallPool" sParam="Building">
-			<ThingName>Destiny Pool</ThingName>
+			<ThingName>Piscina do Destino</ThingName>
 			<Desc>Uma piscina feita de Fogo Cobre e Cristal de Gelo com uma Semente da Fortuna como núcleo. Pode melhorar gradualmente a qualidade da terra ao redor.</Desc>
 		</Text>
 		<Text Name="StreetLight" sParam="Building">
-			<ThingName>Lamp Post</ThingName>
+			<ThingName>Poste de Luz</ThingName>
 			<Desc>Uma luz decorativa que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="StreetLight1" sParam="Building">
-			<ThingName>Lamp Post</ThingName>
+			<ThingName>Poste de Luz</ThingName>
 			<Desc>Uma luz decorativa que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="StreetLight2" sParam="Building">
-			<ThingName>Lamp Post</ThingName>
+			<ThingName>Poste de Luz</ThingName>
 			<Desc>Uma luz decorativa que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="Lantern" sParam="Building">
-			<ThingName>Lantern</ThingName>
+			<ThingName>Lanterna</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="Lantern1" sParam="Building">
-			<ThingName>Lantern</ThingName>
+			<ThingName>Lanterna</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="Lantern2" sParam="Building">
-			<ThingName>Lantern (Protection)</ThingName>
+			<ThingName>Lanterna (Proteção)</ThingName>
 		</Text>
 		<Text Name="Lantern3" sParam="Building">
-			<ThingName>Lantern</ThingName>
+			<ThingName>Lanterna</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="Lantern4" sParam="Building">
-			<ThingName>Lantern</ThingName>
+			<ThingName>Lanterna</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="Lantern5" sParam="Building">
-			<ThingName>Prosperity Lantern</ThingName>
+			<ThingName>Lanterna da Prosperidade</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="Lantern6" sParam="Building">
-			<ThingName>Harmony Lantern</ThingName>
+			<ThingName>Lanterna da Harmonia</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="Lantern_S1" sParam="Building">
-			<ThingName>Crane Lantern</ThingName>
+			<ThingName>Lanterna do Grou</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="Candlestick" sParam="Building">
-			<ThingName>Oil Lamp</ThingName>
+			<ThingName>Lâmpada a Óleo</ThingName>
 			<Desc>Uma luz frequentemente utilizada em interiores que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="TicTacToe" sParam="Building">
-			<ThingName>Tic-tac-toe</ThingName>
-			<Desc>Não requer materiais, apenas uma área vazia no chão para jogar ao tic-tac-toe.</Desc>
+			<ThingName>Jogo da Velha</ThingName>
+			<Desc>Não requer materiais, apenas uma área vazia no chão para jogar ao jogo da velha.</Desc>
 		</Text>
 		<Text Name="GoTable" sParam="Building">
-			<ThingName>Go Table</ThingName>
-			<Desc>Uma pequena mesa Go com uma grelha 19x19 para duas pessoas jogarem um grande jogo de Go on.</Desc>
+			<ThingName>Mesa de Go</ThingName>
+			<Desc>Uma pequena mesa de Go com uma grelha 19x19 para duas pessoas jogarem um grande jogo de Go.</Desc>
 		</Text>
 		<Text Name="GuzhengTable" sParam="Building">
-			<ThingName>Zither Table</ThingName>
-			<Desc>Uma mesa com uma Cítara Chinesa que pode ser tocada por uma pessoa.</Desc>
+			<ThingName>Mesa de Guzheng</ThingName>
+			<Desc>Uma mesa com uma cítara chinesa que pode ser tocada por uma pessoa.</Desc>
 		</Text>
 		<Text Name="CalligraphyTable" sParam="Building">
-			<ThingName>Talisman Table</ThingName>
-			<Desc>Uma mesa com pincéis, bastões de tinta, papel e tintas que pode ser utilizada para desenhar talismans. Para além disto, pode também ser utilizada para fins de lazer.</Desc>
+			<ThingName>Mesa de Talisman</ThingName>
+			<Desc>Uma mesa com pincéis, bastões de tinta, papel e tintas que pode ser utilizada para desenhar talismãs. Para além disso, pode também ser utilizada para fins de lazer.</Desc>
 		</Text>
 		<Text Name="CageShelf" sParam="Building">
-			<ThingName>Bird Cage</ThingName>
-			<Desc>Uma gaiola de pássaros lindamente feita para pessoas que mantêm aves e insectos.</Desc>
+			<ThingName>Gaiola de Pássaros</ThingName>
+			<Desc>Uma gaiola de pássaros lindamente feita para pessoas que mantêm aves e insetos.</Desc>
 		</Text>
 		<Text Name="Building_Tomb" sParam="Building">
-			<ThingName>Grave</ThingName>
+			<ThingName>Túmulo</ThingName>
 			<Desc>Um lugar simples de sepultamento dos mortos.</Desc>
 		</Text>
 		<Text Name="Building_BigTomb" sParam="Building">
-			<ThingName>Tomb</ThingName>
+			<ThingName>Mausoléu</ThingName>
 			<Desc>Um local de sepultamento para os mortos.</Desc>
 		</Text>
 	</List>

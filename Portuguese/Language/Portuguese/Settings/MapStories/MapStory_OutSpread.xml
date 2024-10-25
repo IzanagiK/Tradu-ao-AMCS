@@ -6,42 +6,42 @@
 			<Selections.0.Display>Pergunte por que</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Accelerate">
-			<DisplayName>Manual Labor</DisplayName>
-			<Desc>[NAME] supervised labor.</Desc>
-			<Selections.0.Display>Check results</Selections.0.Display>
+			<DisplayName>Trabalho Manual</DisplayName>
+			<Desc>[NAME] supervisionou o trabalho.</Desc>
+			<Selections.0.Display>Verificar resultados</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_TreasureHunt">
-			<DisplayName>Caça ao tesouro</DisplayName>
-			<Desc>[NAME] caçado em busca de tesouros.</Desc>
+			<DisplayName>Caça ao Tesouro</DisplayName>
+			<Desc>[NAME] caçou em busca de tesouros.</Desc>
 			<Selections.0.Display>Veja os resultados</Selections.0.Display>
 		</Text>
 		<Text Name="Outs1">
-			<DisplayName>A caminho</DisplayName>
+			<DisplayName>A Caminho</DisplayName>
 			<Desc>[NAME] foi roubado.</Desc>
 			<Selections.0.Display>Dê-lhes Spiritstones</Selections.0.Display>
 			<Selections.1.Display>Persuadir</Selections.1.Display>
 		</Text>
 		<Text Name="Outs2">
-			<DisplayName>A caminho</DisplayName>
+			<DisplayName>A Caminho</DisplayName>
 			<Desc>[NAME] encontrou alguns refugiados. Que pena, eles não têm casa para onde voltar.</Desc>
 			<Selections.0.Display>Dê-lhes Spiritstones</Selections.0.Display>
 			<Selections.1.Display>Persuadir</Selections.1.Display>
 		</Text>
 		<Text Name="Outs3">
-			<DisplayName>A caminho</DisplayName>
+			<DisplayName>A Caminho</DisplayName>
 			<Desc>[NAME] encontrou alguns agricultores sendo intimidados por vários cultivadores individuais.</Desc>
 			<Selections.0.Display>Dê-lhes Spiritstones</Selections.0.Display>
 			<Selections.1.Display>Persuadir</Selections.1.Display>
 			<Selections.2.Display>Finja que não viu nada</Selections.2.Display>
 		</Text>
 		<Text Name="CollectFaith">
-			<DisplayName>Reúna a crença</DisplayName>
+			<DisplayName>Reúna a Crença</DisplayName>
 			<Desc>Existem crentes aqui, podemos reunir crenças.</Desc>
 			<Selections.0.Display>Aquisição</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_GoodMood">
 			<DisplayName>Pagode Verde</DisplayName>
-			<Desc>Os discípulos podem divertir-se no Pagode Verde.</Desc>
+			<Desc>Os discípulos podem se divertir no Pagode Verde.</Desc>
 			<Selections.0.Display>Lazer</Selections.0.Display>
 		</Text>
 	</List>

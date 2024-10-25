@@ -19,13 +19,13 @@
 			<DisplayName>Em Transe</DisplayName>
 		</Text>
 		<Text Name="JobObtainThing">
-			<DisplayName>Obtain</DisplayName>
+			<DisplayName>Obter</DisplayName>
 		</Text>
 		<Text Name="JobEatItem">
-			<DisplayName>Eat</DisplayName>
+			<DisplayName>Comer</DisplayName>
 		</Text>
 		<Text Name="JobEquipItem">
-			<DisplayName>Equip</DisplayName>
+			<DisplayName>Equipar</DisplayName>
 		</Text>
 		<Text Name="JobFaceIdle">
 			<DisplayName>Interagir</DisplayName>
@@ -34,7 +34,7 @@
 			<DisplayName>Em batalha</DisplayName>
 		</Text>
 		<Text Name="JobFight">
-			<DisplayName>Battle</DisplayName>
+			<DisplayName>Batalha</DisplayName>
 		</Text>
 		<Text Name="JobFightDriver">
 			<DisplayName>Em batalha</DisplayName>
@@ -49,7 +49,7 @@
 			<DisplayName>Sair</DisplayName>
 		</Text>
 		<Text Name="JobWaitHelp">
-			<DisplayName>Passerby</DisplayName>
+			<DisplayName>Passante</DisplayName>
 		</Text>
 		<Text Name="JobTalk">
 			<DisplayName>Socializar</DisplayName>
@@ -67,7 +67,7 @@
 			<DisplayName>Mover-se</DisplayName>
 		</Text>
 		<Text Name="JobMoveThingTo">
-			<DisplayName>Haul</DisplayName>
+			<DisplayName>Transportar </DisplayName>
 		</Text>
 		<Text Name="JobYSSleep">
 			<DisplayName>Dormir</DisplayName>

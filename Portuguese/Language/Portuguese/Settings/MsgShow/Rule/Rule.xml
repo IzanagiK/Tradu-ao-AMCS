@@ -1,189 +1,189 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="FanRenEvent">
-			<DisplayName>Mortal Encounters</DisplayName>
+			<DisplayName>Encontros Mortais</DisplayName>
 			<Desc>A atitude que você toma ao lidar com mortais enquanto viaja pelo mundo.</Desc>
-			<Selection.0.DisplayName>Warm-hearted</Selection.0.DisplayName>
+			<Selection.0.DisplayName>De bom coração</Selection.0.DisplayName>
 			<Selection.0.Desc>Ajude-os quando estiverem com problemas e tente não ter um impacto negativo sobre eles ao fazer as coisas.</Selection.0.Desc>
-			<Selection.1.DisplayName>Careless</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Desatento</Selection.1.DisplayName>
 			<Selection.1.Desc>Fazendo o que quiser, sem se importar com o tipo de impacto que isso teria nos mortais.</Selection.1.Desc>
-			<Selection.2.DisplayName>Ignoring</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Ignorar</Selection.2.DisplayName>
 			<Selection.2.Desc>Esses assuntos triviais dos mortais não valem o meu tempo.</Selection.2.Desc>
 		</Text>
 		<Text Name="JiangHuFenZheng">
-			<DisplayName>Worldly Dispute</DisplayName>
+			<DisplayName>Disputa Mundana</DisplayName>
 			<Desc>A atitude que você toma ao lidar com cultivadores enquanto viaja pelo mundo.</Desc>
-			<Selection.0.DisplayName>Just Cultivator</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Justo Cultivador</Selection.0.DisplayName>
 			<Selection.0.Desc>Ao encontrar esse tipo de evento, primeiro tente lidar com isso como uma pessoa da seita justa.</Selection.0.Desc>
-			<Selection.1.DisplayName>Evil Cultivator</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Cultivador Maligno</Selection.1.DisplayName>
 			<Selection.1.Desc>Ao encontrar esse tipo de evento, primeiro tente lidar com isso como uma pessoa da seita do Mal.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Afaste-se e evite se envolver ao encontrar esse tipo de coisa.</Selection.2.Desc>
 		</Text>
 		<Text Name="FindTreasure">
-			<DisplayName>Immortal Luck</DisplayName>
+			<DisplayName>Sorte Imortal</DisplayName>
 			<Desc>A ação que você toma ao encontrar chances de sorte em relação à imortalidade enquanto viaja pelo mundo.</Desc>
-			<Selection.0.DisplayName>Explore and Advance</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Explorar e Avançar</Selection.0.DisplayName>
 			<Selection.0.Desc>Primeiro tente arriscar ao encontrar esse tipo de evento.</Selection.0.Desc>
-			<Selection.1.DisplayName>Avoiding Trouble</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Evitando Problemas</Selection.1.DisplayName>
 			<Selection.1.Desc>Afaste-se e evite se envolver ao encontrar esse tipo de coisa.</Selection.1.Desc>
 		</Text>
 		<Text Name="FindProduce">
-			<DisplayName>Resource Collection</DisplayName>
+			<DisplayName>Coleta de Recursos</DisplayName>
 			<Desc>A atitude que você toma quando a região local tem recursos exclusivos enquanto você viaja pelo mundo.</Desc>
-			<Selection.0.DisplayName>Resource Collection</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Coleta de Recursos</Selection.0.DisplayName>
 			<Selection.0.Desc>Colete ativamente os recursos ao encontrar esse tipo de evento.</Selection.0.Desc>
-			<Selection.1.DisplayName>Ignoring</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Ignorar</Selection.1.DisplayName>
 			<Selection.1.Desc>Não perca tempo com esse tipo de coisa.</Selection.1.Desc>
 		</Text>
 		<Text Name="FindHighProduce">
-			<DisplayName>Treasure Gathering</DisplayName>
+			<DisplayName>Coleta de Tesouro</DisplayName>
 			<Desc>A atitude que você toma quando a região local tem um tesouro raro exclusivo enquanto você viaja pelo mundo.</Desc>
-			<Selection.0.DisplayName>Attempt Searching</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Tentar Procurar</Selection.0.DisplayName>
 			<Selection.0.Desc>Tente procurar o tesouro ao encontrar esse tipo de evento.</Selection.0.Desc>
-			<Selection.1.DisplayName>Ignoring</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Ignorar</Selection.1.DisplayName>
 			<Selection.1.Desc>Não perca tempo com esse tipo de coisa.</Selection.1.Desc>
 		</Text>
 		<Text Name="FindSecret">
-			<DisplayName>Strange Tales</DisplayName>
+			<DisplayName>Histórias Estranhas</DisplayName>
 			<Desc>A atitude que você toma ao ouvir algumas histórias estranhas ao longo do caminho enquanto viaja pelo mundo.</Desc>
-			<Selection.0.DisplayName>Investigate</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Investigar</Selection.0.DisplayName>
 			<Selection.0.Desc>Tente perguntar e explorar os detalhes ao encontrar esse tipo de evento.</Selection.0.Desc>
-			<Selection.1.DisplayName>Ignoring</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Ignorar</Selection.1.DisplayName>
 			<Selection.1.Desc>Não perca tempo com esse tipo de coisa.</Selection.1.Desc>
 		</Text>
 		<Text Name="School_All">
-			<DisplayName>Sect Relations</DisplayName>
+			<DisplayName>Relações de Seita</DisplayName>
 			<Desc>Corpo de lógica</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_1">
-			<DisplayName>Sect Relation - Sunshade Abode</DisplayName>
+			<DisplayName>Relação de Seita - Morada do Guarda-Sol</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com a Morada do Guarda-Sol.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_2">
-			<DisplayName>Sect Relation - Kunlun Palace</DisplayName>
+			<DisplayName>Relação de Seita - Palácio Kunlun</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com o Palácio Kunlun.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_3">
-			<DisplayName>Sect Relation - Skydome Palace</DisplayName>
+			<DisplayName>Relação de Seita - Palácio Skydome</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com o Palácio Skydome.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_4">
-			<DisplayName>Sect Relation - Purple Cloud Temple</DisplayName>
+			<DisplayName>Relação de Seita - Templo da Nuvem Púrpura</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com o Templo da Nuvem Púrpura.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_5">
-			<DisplayName>Sect Relation - Mystic Unity Sect</DisplayName>
+			<DisplayName>Relação de Seita - Seita da Unidade Mística</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com a Seita da Unidade Mística.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_6">
-			<DisplayName>Sect Relation - Blue Lotus Temple</DisplayName>
+			<DisplayName>Relação de Seita - Templo do Lótus Azul</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com o Templo do Lótus Azul.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_7">
-			<DisplayName>Sect Relation - Evenfall Abode</DisplayName>
+			<DisplayName>Relação de Seita - Morada do Entardecer</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com a Morada do Entardecer.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_8">
-			<DisplayName>Sect Relation - Mt. Hundred Insects</DisplayName>
+			<DisplayName>Relação de Seita - Mt. Cem Insetos</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com Mt. Cem Insetos.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_9">
-			<DisplayName>Sect Relation - Pit of Doom</DisplayName>
-			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com Pit of Doom.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<DisplayName>Relação de Seita - Abismo do Destino</DisplayName>
+			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com o Abismo do Destino.</Desc>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_10">
-			<DisplayName>Sect Relation - Seven-Slaughtering Sect</DisplayName>
+			<DisplayName>Relação de Seita - Seita do Sete Abate</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com a Seita do Sete Abate.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_11">
-			<DisplayName>Sect Relation - Exultant Sect</DisplayName>
+			<DisplayName>Relação de Seita - Seita Exultante</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com a Seita Exultante.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="School_12">
-			<DisplayName>Sect Relation - Daemonia Temple</DisplayName>
+			<DisplayName>Relação de Seita - Templo Daemonia</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com o Templo Daemonia.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 		<Text Name="lingguangyishan">
-			<DisplayName>Spark of Inspiration</DisplayName>
+			<DisplayName>Faísca de Inspiração</DisplayName>
 		</Text>
 	</List>
 </Texts>

@@ -1,39 +1,39 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_CapeBase" sParam="Item">
-			<Item.FabaoSuffix>Silk,Yarn,Satin</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Seda,Fio,Cetim</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Cape_Nomal1" sParam="Item">
-			<ThingName>Fire Mantle</ThingName>
+			<ThingName>Manto de Fogo</ThingName>
 			<Desc>Um manto para decoração, um estilo famoso entre o Reino de Cultivo.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Nomal2" sParam="Item">
-			<ThingName>Cloud Mantle</ThingName>
+			<ThingName>Manto de Nuvem</ThingName>
 			<Desc>Um manto para decoração, um estilo famoso entre o Reino de Cultivo.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Nomal3" sParam="Item">
-			<ThingName>Dark Mantle</ThingName>
+			<ThingName>Manto Escuro</ThingName>
 			<Desc>Um manto para decoração, um estilo famoso entre o Reino de Cultivo.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Nomal4" sParam="Item">
-			<ThingName>Bright Mantle</ThingName>
+			<ThingName>Manto Brilhante</ThingName>
 			<Desc>Um manto para decoração, um estilo famoso entre o Reino de Cultivo.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp1" sParam="Item">
-			<ThingName>Zhou Flow</ThingName>
+			<ThingName>Fluxo de Zhou</ThingName>
 			<Desc>Um manto com padrão requintado, com o símbolo do vencedor do Feitiço da Feira KunLun.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp2" sParam="Item">
-			<ThingName>Sky Fire Extinct</ThingName>
+			<ThingName>Fogo Celestial Extinto</ThingName>
 			<Desc>Um símbolo de derrotar a Fênix. O padrão no manto é uma aparência natural da essência dentro de seu corpo e parece bastante misterioso.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp3" sParam="Item">
-			<ThingName>Freeze Cloud Blizzard</ThingName>
+			<ThingName>Nuvem Congelada Blizzard</ThingName>
 			<Desc>Um símbolo de derrotar o Dragão da Inundação. O padrão no manto é uma aparência natural da essência dentro de seu corpo e parece bastante misterioso.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp4" sParam="Item">
-			<ThingName>Fortune</ThingName>
-			<Desc>Um manto com padrão requintado, com é o símbolo do vencedor KunLun Fair Arifact Craft.</Desc>
+			<ThingName>Fortuna</ThingName>
+			<Desc>Um manto com padrão requintado, é o símbolo do vencedor KunLun Fair Arifact Craft.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp5" sParam="Item">
 			<ThingName>Dan Xi</ThingName>
@@ -41,23 +41,23 @@
 		</Text>
 		<Text Name="Item_Cape_Sp6" sParam="Item">
 			<ThingName>Bu Ying</ThingName>
-			<Desc>Um manto com padrão requintado, com é o símbolo do vencedor do KunLun Fair Artifact.</Desc>
+			<Desc>Um manto com padrão requintado, é o símbolo do vencedor do KunLun Fair Artifact.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp7" sParam="Item">
-			<ThingName>Living Beings</ThingName>
-			<Desc>Um manto vem de outro mundo. Seu padrão significa que o inverno acabou e a primavera está chegando e tudo está saindo.</Desc>
+			<ThingName>Seres Vivos</ThingName>
+			<Desc>Um manto que vem de outro mundo. Seu padrão significa que o inverno acabou e a primavera está chegando, e tudo está florescendo.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp8" sParam="Item">
-			<ThingName>Dark Body's Shadow</ThingName>
+			<ThingName>Sombra do Corpo Sombrio</ThingName>
 			<Desc>Um símbolo de derrotar o Dragão da Tocha. O padrão no manto é uma aparência natural da essência Yin dentro de seu corpo e parece bastante misterioso.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp9" sParam="Item">
-			<ThingName>Bright Feather's Light</ThingName>
+			<ThingName>Luz da Pena Brilhante</ThingName>
 			<Desc>Um símbolo de derrotar o Dragão da Tocha. O padrão no manto é uma aparência natural da essência Yang dentro de seu corpo e parece bastante misterioso.</Desc>
 		</Text>
 		<Text Name="Item_Cape_Sp10" sParam="Item">
-			<ThingName>Tao Principles</ThingName>
-			<Desc>Um manto com padrão requintado, com o símbolo do vencedor do KunLun Fair Debate. Diz-se que Siga o caminho antigo e conquiste o presente, conhecer o antigo é conhecer os Princípios do Tao.</Desc>
+			<ThingName>Princípios do Tao</ThingName>
+			<Desc>Um manto com padrão requintado, com o símbolo do vencedor do KunLun Fair Debate. Diz-se que seguir o caminho antigo e conquistar o presente, conhecer o antigo é conhecer os Princípios do Tao.</Desc>
 		</Text>
 	</List>
 </Texts>

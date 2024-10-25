@@ -1,32 +1,32 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="MetalBase" sParam="Item">
-			<Item.FabaoSuffix>Metal, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Metal, Selo, Estela, Jade Dupla, Tábua, Torre, Rocha</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_IronRock" sParam="Item">
-			<ThingName>Iron Ore</ThingName>
+			<ThingName>Minério de Ferro</ThingName>
 			<Desc>O minério de metal mais comum. É um material muito duro e fácil de processar.</Desc>
-			<Item.BeMaterial.NamePrefix>Iron</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Ferro</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CopperRock" sParam="Item">
-			<ThingName>Igneocopper Ore</ThingName>
+			<ThingName>Minério de Igneocobre</ThingName>
 			<Desc>Minério de metal rico no poder do fogo, qualquer um que se aproximasse sentiria um calor escaldante.</Desc>
-			<Item.BeMaterial.NamePrefix>Igneocopper</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Igneocobre</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SilverRock" sParam="Item">
-			<ThingName>Ice Crystal Ore</ThingName>
+			<ThingName>Minério de Cristal de Gelo</ThingName>
 			<Desc>Belo minério metálico rico no poder do frio e tem uma textura semelhante à do minério de prata. Qualquer um que se aproximasse sentiria um beliscão no ar.</Desc>
-			<Item.BeMaterial.NamePrefix>Ice Crystal</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Cristal de Gelo</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_DarksteelRock" sParam="Item">
-			<ThingName>Darksteel Ore</ThingName>
+			<ThingName>Minério de Aço Negro</ThingName>
 			<Desc>Metal raro de cor escura. Extremamente pesado e sólido, é um excelente material de arma que é difícil de encontrar.</Desc>
-			<Item.BeMaterial.NamePrefix>Darksteel</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Aço Negro</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_StarEssence" sParam="Item">
-			<ThingName>Lumina Core</ThingName>
+			<ThingName>Núcleo Luminoso</ThingName>
 			<Desc>A essência de um meteorito, possui atributos físicos especiais e é considerado um tesouro raro no mundo do cultivo.</Desc>
-			<Item.BeMaterial.NamePrefix>Lumina Core</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Núcleo Luminoso</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>

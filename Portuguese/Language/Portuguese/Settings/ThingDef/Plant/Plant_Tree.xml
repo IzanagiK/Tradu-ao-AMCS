@@ -1,53 +1,53 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="TreePoplar" sParam="Plant">
-			<ThingName>Poplar Tree</ThingName>
+			<ThingName>Árvore de Choupo</ThingName>
 			<Desc>Árvore de crescimento rápido com uma textura macia e constante. Fonte de madeira de qualidade superior.</Desc>
 		</Text>
 		<Text Name="TreePine" sParam="Plant">
-			<ThingName>Pine Tree</ThingName>
-			<Desc>Árvore de crescimento lento, alta e direita com uma textura sólida.</Desc>
+			<ThingName>Árvore de Pinho</ThingName>
+			<Desc>Árvore de crescimento lento, alta e reta com uma textura sólida.</Desc>
 		</Text>
 		<Text Name="TreePine_Big" sParam="Plant">
-			<ThingName>Huge Pine Tree</ThingName>
-			<Desc>Pinheiro muito velho.</Desc>
+			<ThingName>Grande Árvore de Pinho</ThingName>
+			<Desc>Pinheiro muito antigo.</Desc>
 		</Text>
 		<Text Name="TreePear" sParam="Plant">
-			<ThingName>Pear Tree</ThingName>
-			<Desc>Árvore frutífera comum, cuja madeira é fina mas fácil de apodrecer. Os seus rendimentos são geralmente pequenos.</Desc>
+			<ThingName>Árvore de Pêra</ThingName>
+			<Desc>Árvore frutífera comum, cuja madeira é fina, mas fácil de apodrecer. Seus rendimentos são geralmente pequenos.</Desc>
 		</Text>
 		<Text Name="TreeGinkgo" sParam="Plant">
-			<ThingName>Ginkgo Tree</ThingName>
-			<Desc>Uma espécie de árvore grande e de crescimento lento que pode atingir a espiritualidade. O seu fruto é comestível e tem uma incrível capacidade de cura.</Desc>
+			<ThingName>Árvore de Ginkgo</ThingName>
+			<Desc>Uma espécie de árvore grande e de crescimento lento que pode atingir a espiritualidade. Seu fruto é comestível e tem uma incrível capacidade de cura.</Desc>
 		</Text>
 		<Text Name="TreeGinkgo_Big" sParam="Plant">
-			<ThingName>Huge Ginkgo Tree</ThingName>
+			<ThingName>Grande Árvore de Ginkgo</ThingName>
 			<Desc>Árvore ginkgo muito antiga. Enorme e permeada de Qi.</Desc>
 		</Text>
 		<Text Name="TreeGinkgo_Dead" sParam="Plant">
-			<ThingName>Dead Phoenixwood</ThingName>
+			<ThingName>Phoenixwood Morta</ThingName>
 			<Desc>Árvore Phoenixwood morta, que ainda é incrivelmente alta.</Desc>
 		</Text>
 		<Text Name="PintuBase" sParam="Plant">
-			<ThingName>For Puzzles only</ThingName>
+			<ThingName>Apenas para Puzzles</ThingName>
 		</Text>
 		<Text Name="TreePeach" sParam="Plant">
-			<ThingName>Peach Tree</ThingName>
-			<Desc>Peach blossom tree.</Desc>
-			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to collect a sample of this object.</StoryBnts.0.Desc>
+			<ThingName>Árvore de Pessegueiro</ThingName>
+			<Desc>Árvore de flor de pessegueiro.</Desc>
+			<StoryBnts.0.Name>Coletar amostra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente coletar uma amostra deste objeto.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="TreeJade" sParam="Plant">
-			<ThingName>Immortal Tree</ThingName>
-			<Desc>Immortal tree.</Desc>
-			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to collect a sample of this object.</StoryBnts.0.Desc>
+			<ThingName>Árvore Imortal</ThingName>
+			<Desc>Árvore imortal.</Desc>
+			<StoryBnts.0.Name>Coletar amostra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente coletar uma amostra deste objeto.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="TreeBone" sParam="Plant">
-			<ThingName>Fiend Tree</ThingName>
-			<Desc>Fiend tree.</Desc>
-			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to collect a sample of this object.</StoryBnts.0.Desc>
+			<ThingName>Árvore Demoníaca</ThingName>
+			<Desc>Árvore demoníaca.</Desc>
+			<StoryBnts.0.Name>Coletar amostra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente coletar uma amostra deste objeto.</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

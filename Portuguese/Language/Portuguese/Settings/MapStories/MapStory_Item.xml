@@ -1,186 +1,186 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Story_BoxFind1">
-			<DisplayName>Search the Box</DisplayName>
+			<DisplayName>Procure na caixa</DisplayName>
 			<Desc>[NAME] encontrou uma caixa velha que continha algumas coisas úteis dentro.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind2">
-			<DisplayName>Search the corpse.</DisplayName>
+			<DisplayName>Reviste o cadáver.</DisplayName>
 			<Desc>[NAME] revistou cuidadosamente o cadáver e descobriu que nada além da arma poderia ser usada.</Desc>
 		</Text>
 		<Text Name="Story_BoxFind3">
-			<DisplayName>Search the corpse.</DisplayName>
-			<Desc>[NAME] cuidadosamente revistou o cadáver, um feixe de luz saiu dele e foi direto para cérebro de [NAME]. [NAME] ficou surpreso ao descobrir que muitos outros métodos de cultivo agora apareceram na memória. \n\n[color=#000000]"O que diabos aconteceu aqui? De onde vieram essas Leis? O que exatamente aconteceu com essa pessoa antes de morrer? "Embora agradavelmente surpreso, [/color]\n[NAME] não podia deixar de fazer perguntas. \n\nInfelizmente, esses eventos passados não puderam ser esclarecidos...</Desc>
+			<DisplayName>Reviste o cadáver.</DisplayName>
+			<Desc>[NAME] cuidadosamente revistou o cadáver, um feixe de luz saiu dele e foi direto para o cérebro de [NAME]. [NAME] ficou surpreso ao descobrir que muitos outros métodos de cultivo agora apareceram na memória. \n\n[color=#000000]"O que diabos aconteceu aqui? De onde vieram essas Leis? O que exatamente aconteceu com essa pessoa antes de morrer? "Embora agradavelmente surpreso, [/color]\n[NAME] não podia deixar de fazer perguntas. \n\nInfelizmente, esses eventos passados não puderam ser esclarecidos...</Desc>
 		</Text>
 		<Text Name="Story_BoxFind4">
-			<DisplayName>Search the corpse.</DisplayName>
+			<DisplayName>Reviste o cadáver.</DisplayName>
 			<Desc>[NAME] revistou cuidadosamente o cadáver e descobriu que nada além da arma poderia ser usada.</Desc>
 		</Text>
 		<Text Name="Story_Item_StoneBox">
-			<DisplayName>Stone Casket</DisplayName>
+			<DisplayName>Caixão de Pedra</DisplayName>
 			<Desc>Um misterioso sacerdote taoísta deu a todos vocês um caixão de pedra, com cerca de 30 centímetros quadrados. Nem a água nem o fogo podiam entrar. Foi bastante sobrenatural. O exterior brilhava com uma luz de vez em quando, isso não poderia ser um item normal.</Desc>
 			<Selections.0.Display>Use as mãos para abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_StoneBox1">
-			<DisplayName>Stone Casket</DisplayName>
+			<DisplayName>Caixão de Pedra</DisplayName>
 			<Desc>Este é o baú que o caçador Zhang Erwa, da vila de Nanping, tirou do cadáver no sopé do Monte FullMoon. Há uma espada longa cruzada com uma cabaça de licor no exterior, esta é a marca de um discípulo na Seita Taiyi. [NAME] lembrou-se do condiscípulo e de como ele era como pessoa.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_StoneBox2">
-			<DisplayName>Ancient Casket</DisplayName>
+			<DisplayName>Caixão Antigo</DisplayName>
 			<Desc>Um caixão de pedra escavado na pedra que parecia estar lá há décadas. Quem sabe o conteúdo que contém.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_FaBaoBox">
-			<DisplayName>Polaris Chest</DisplayName>
+			<DisplayName>Caixa de Polaris</DisplayName>
 			<Desc>Na noite do ataque, a sala de artefatos foi invadida. Você não suportava ver tais raridades sendo saqueadas, então arriscou sua vida para salvar algumas.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_DanBox">
-			<DisplayName>Polaris Chest</DisplayName>
+			<DisplayName>Caixa de Polaris</DisplayName>
 			<Desc>Na noite do ataque, a sala do elixir foi violada. Você não suportava ver tais raridades sendo saqueadas, então arriscou sua vida para salvar algumas.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_MiJiBox">
-			<DisplayName>Polaris Chest</DisplayName>
+			<DisplayName>Caixa de Polaris</DisplayName>
 			<Desc>Na noite do ataque, o Scriptorium foi invadido. Você não suportava ver tais raridades sendo saqueadas, então arriscou sua vida para salvar algumas.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_E_FuBox">
-			<DisplayName>Polaris Chest</DisplayName>
+			<DisplayName>Caixa de Polaris</DisplayName>
 			<Desc>Na noite do ataque, a sala do talismã foi invadida. Você não suportava ver tais raridades sendo saqueadas, então arriscou sua vida para salvar algumas.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_LunHui_Box1">
-			<DisplayName>Magical Talisman Box</DisplayName>
-			<Desc>A Mrs. Lu carrega uma caixa de talismã mágica com três talismãs misteriosos dentro.</Desc>
+			<DisplayName>Caixa de Talismã Mágico</DisplayName>
+			<Desc>A Sra. Lu carrega uma caixa de talismã mágica com três talismãs misteriosos dentro.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_LunHui_Box2">
-			<DisplayName>Magic Talisman Casket</DisplayName>
+			<DisplayName>Caixão de Talismã Mágico</DisplayName>
 			<Desc>Yang Shu carrega uma caixa de talismã mágica com um talismã extremamente raro dentro.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_ZuShiZhiCi">
-			<DisplayName>Gift of the Master</DisplayName>
+			<DisplayName>Presente do Mestre</DisplayName>
 			<Desc>Existe um tesouro precioso no presente do Mestre.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_BenYuan">
-			<DisplayName>Refine the Heavenly Font</DisplayName>
+			<DisplayName>Refinar a Fonte Celestial</DisplayName>
 			<Desc>Para refinar a Fonte Celestial, a mesma classe de Lei deve ser usada no Estado mais alto, caso contrário, não há esperança de sucesso. Quanto maior a sua Consecução, maior a taxa de sucesso do refino. Se você falhar, sofrerá ferimentos e isso aumentará a Condenação. Tem certeza de que deseja refinar a Fonte Celestial?</Desc>
-			<Selections.0.Display>Refine</Selections.0.Display>
+			<Selections.0.Display>Refinar</Selections.0.Display>
 			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_SuoYingZhiJuan">
-			<DisplayName>Miniature Scroll</DisplayName>
+			<DisplayName>Pergaminho Miniatura</DisplayName>
 			<Desc>Este é um registro em miniatura de tudo o que aconteceu desde o nascimento do céu e da terra. Se você souber o verdadeiro nome da criatura em questão, poderá convocá-la do pergaminho. Este é um dos 12 Tesouros Numinosos Caóticos que sobraram da criação do mundo.</Desc>
 			<Selections.0.Display>Desistir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_BossSoulItem">
-			<DisplayName>Inspiration</DisplayName>
+			<DisplayName>Inspiração</DisplayName>
 			<Desc>[NAME] tentou obter algumas informações úteis a partir dele.</Desc>
 			<Selections.0.Display>Usar Espírito Primordial</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_OldSchool_Letter">
-			<DisplayName>Mysterious Letter</DisplayName>
+			<DisplayName>Cartão Misterioso</DisplayName>
 			<Desc>Esta é a carta deixada por aquele que salvou todos vocês do perigo enquanto todos fugiam após a destruição da Seita.</Desc>
 			<Selections.0.Display>Ler</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin">
-			<DisplayName>Inspect</DisplayName>
+			<DisplayName>Inspecionar</DisplayName>
 			<Desc>Não parecia haver nada fora do comum. Quem sabe que mistérios ela contém.</Desc>
 			<Selections.0.Display>Inspecionar</Selections.0.Display>
 			<Selections.1.Display>Destruir</Selections.1.Display>
 			<Selections.2.Display>Desistir</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin1">
-			<DisplayName>Destroy</DisplayName>
-			<Desc>Apesar [NAME] não tinha como discernir o que havia de tão perigoso nesse item, mas ao tentar destruí-lo de repente, uma sensação indescritível de terror surgiu na boca do estômago... o que aconteceria se isso fosse destruído? Tem certeza de que deseja destruí-lo? (Se você confirmar, uma besta antiga será convocada. Sua seita pode ser completamente destruída se você não estiver suficientemente preparado. Por favor, considere suas escolhas com sabedoria)</Desc>
+			<DisplayName>Destruir</DisplayName>
+			<Desc>Apesar de [NAME] não ter como discernir o que havia de tão perigoso nesse item, mas ao tentar destruí-lo de repente, uma sensação indescritível de terror surgiu na boca do estômago... o que aconteceria se isso fosse destruído? Tem certeza de que deseja destruí-lo? (Se você confirmar, uma besta antiga será convocada. Sua seita pode ser completamente destruída se você não estiver suficientemente preparado. Por favor, considere suas escolhas com sabedoria)</Desc>
 			<Selections.0.Display>Destruir</Selections.0.Display>
 			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_Boss_FengYin2">
-			<DisplayName>Destroy</DisplayName>
+			<DisplayName>Destruir</DisplayName>
 			<Desc>[NAME] destruiu o item, mas nada aconteceu.</Desc>
-			<Selections.0.Display>Okay</Selections.0.Display>
+			<Selections.0.Display>Ok</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Eat_StrangeMush">
-			<DisplayName>Have a Taste</DisplayName>
+			<DisplayName>Experimente</DisplayName>
 			<Desc>[NAME] provou o estranho cogumelo com curiosidade.</Desc>
 			<Selections.0.Display>Coma apesar dos riscos</Selections.0.Display>
 			<Selections.1.Display>Desistir</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Item_ZhenTu">
-			<DisplayName>Inspiration</DisplayName>
+			<DisplayName>Inspiração</DisplayName>
 			<Desc>[NAME] tentou meditar sobre o Diagrama de Formação.</Desc>
 			<Selections.0.Display>Medite no Diagrama de Formação</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu">
-			<DisplayName>Inspect this item</DisplayName>
+			<DisplayName>Inspecionar este item</DisplayName>
 			<Desc>[NAME] tentou inspecionar este item.</Desc>
 			<Selections.0.Display>Inspecionar este item</Selections.0.Display>
 			<Selections.1.Display>Deslacrar</Selections.1.Display>
 			<Selections.2.Display>Desistir</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu1">
-			<DisplayName>Inspect this item</DisplayName>
+			<DisplayName>Inspecionar este item</DisplayName>
 			<Desc>[NAME] sente que o selo deste objeto é muito familiar, aparentemente já o encontrou antes.</Desc>
 			<Selections.0.Display>Examine Cuidadosamente</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Portia_YijieZhiWu2">
-			<DisplayName>Scattered and disappeared</DisplayName>
+			<DisplayName>Espalhados e desaparecidos</DisplayName>
 			<Desc>Depois que as informações espirituais terminam de tocar, os objetos do Outromundo começam a ser rejeitados pelos caminhos do Céu deste mundo e gradualmente se tornam reduzidos a cinzas.</Desc>
 			<Selections.0.Display>Examine Cuidadosamente</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan">
-			<DisplayName>Ancient Scroll</DisplayName>
+			<DisplayName>Pergaminho Antigo</DisplayName>
 			<Desc>Um pergaminho secreto transmitido desde os tempos antigos, cujo conteúdo é desconhecido.</Desc>
 			<Selections.0.Display>Ler</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan_1">
-			<DisplayName>Learn</DisplayName>
+			<DisplayName>Aprender</DisplayName>
 			<Desc>Uma página de livro que registrou como os antigos cultivadores de Shendao congelaram algum tipo de milagre especial.</Desc>
 			<Selections.0.Display>Ler</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_God_Guard">
-			<DisplayName>Refine</DisplayName>
+			<DisplayName>Refinar</DisplayName>
 			<Desc>[NAME] tentou refinar este item.</Desc>
 			<Selections.0.Display>Ler</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_GodPractice_MiJuan_2">
-			<DisplayName>Unseal</DisplayName>
+			<DisplayName>Remover selo</DisplayName>
 			<Desc>[NAME] tentou remover o selo deste item.</Desc>
 			<Selections.0.Display>Deslacrar</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Gong12">
-			<DisplayName>Examine scroll</DisplayName>
+			<DisplayName>Examinar pergaminho</DisplayName>
 			<Desc>[NAME] estudou o pergaminho cuidadosamente.</Desc>
 			<Selections.0.Display>Lei Adquirida</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_2">
-			<DisplayName>Examine scroll</DisplayName>
+			<DisplayName>Examinar pergaminho</DisplayName>
 			<Desc>[NAME] estudou o pergaminho cuidadosamente.</Desc>
 			<Selections.0.Display>Lei Adquirida</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_Body_Gong_5">
-			<DisplayName>Examine scroll</DisplayName>
+			<DisplayName>Examinar pergaminho</DisplayName>
 			<Desc>[NAME] estudou o pergaminho cuidadosamente.</Desc>
 			<Selections.0.Display>Lei Adquirida</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_God_GongAll">
-			<DisplayName>Examine Collection</DisplayName>
+			<DisplayName>Examinar Coleção</DisplayName>
 			<Desc>[NAME] estudou a Coleção.</Desc>
 			<Selections.0.Display>Lei Adquirida</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_SpringBox">
-			<DisplayName>Festive Goods</DisplayName>
+			<DisplayName>Produtos Festivos</DisplayName>
 			<Desc>Tente abrir este item.</Desc>
 			<Selections.0.Display>Abrir</Selections.0.Display>
 		</Text>
 		<Text Name="Story_ZhuLongXuYuan_1">
-			<DisplayName>Wish for great fortune</DisplayName>
-			<Desc>Sob a influência dos caminhos celestiais do Outro Mundo, algumas mudanças temporárias também ocorreram nos caminhos celestiais deste mundo. Até mesmo o Torch Dragon, a manifestação da Regra do Yin e Yang, tem agido menos freneticamente do que antes, ao se interessar por uma espécie de disco de metal chamado "moedas" do Outro mundo. Como esta moeda abrigou muitos desejos de riqueza, o Torch Dragon pode aproveitar o poder do desejo para trazer a você uma manifestação de fortuna.</Desc>
+			<DisplayName>Desejar grande fortuna</DisplayName>
+			<Desc>Sob a influência dos caminhos celestiais do Outro Mundo, algumas mudanças temporárias também ocorreram nos caminhos celestiais deste mundo. Até mesmo o Dragão Tocha, a manifestação da Regra do Yin e Yang, tem agido menos freneticamente do que antes, ao se interessar por uma espécie de disco de metal chamado "moedas" do Outro mundo. Como esta moeda abrigou muitos desejos de riqueza, o Dragão Tocha pode aproveitar o poder do desejo para trazer a você uma manifestação de fortuna.</Desc>
 			<Selections.0.Display>Uma grande quantidade de Spiritstone</Selections.0.Display>
 			<Selections.1.Display>Uma grande quantidade de ingredientes</Selections.1.Display>
 			<Selections.2.Display>Uma grande quantidade de madeira</Selections.2.Display>
@@ -189,22 +189,22 @@
 			<Selections.5.Display>Esqueça, dedico minha fé ao Credo do Céu e nada busco em troca!</Selections.5.Display>
 		</Text>
 		<Text Name="Story_ZhuLongXuYuan_2">
-			<DisplayName>Wish for fine medicines</DisplayName>
+			<DisplayName>Desejar remédios finos</DisplayName>
 			<Desc>Sob a influência dos caminhos celestiais do Outro Mundo, algumas mudanças temporárias também ocorreram nos caminhos celestiais deste mundo. Até mesmo o Torch Dragon, a manifestação da Regra do Yin e Yang, tem agido menos freneticamente do que antes, ao se interessar por uma espécie de disco de metal chamado "moedas" do Outromundo. Como esta moeda abrigou muitos desejos de saúde, o Torch Dragon pode aproveitar o poder do desejo para trazer a você a manifestação de alguns remédios milagrosos.</Desc>
 			<Selections.0.Display>1 Medicina Elemental de Metal</Selections.0.Display>
 			<Selections.1.Display>1 Medicina Elemental da Madeira</Selections.1.Display>
 			<Selections.2.Display>1 Medicina Elemental da Água</Selections.2.Display>
 			<Selections.3.Display>1 Medicina Elemental do Fogo</Selections.3.Display>
 			<Selections.4.Display>1 Medicina Elemental da Terra</Selections.4.Display>
-			<Selections.5.Display>15 Resin Essence</Selections.5.Display>
-			<Selections.6.Display>3 Earth Flux</Selections.6.Display>
-			<Selections.7.Display>1 Panacea Pill</Selections.7.Display>
-			<Selections.8.Display>1 conjunto de Prolonging Pill</Selections.8.Display>
-			<Selections.9.Display>1 Enlightenment Pill</Selections.9.Display>
+			<Selections.5.Display>15 Essência de Resina</Selections.5.Display>
+			<Selections.6.Display>3 Fluxo da Terra</Selections.6.Display>
+			<Selections.7.Display>1 Pílula Panaceia</Selections.7.Display>
+			<Selections.8.Display>1 conjunto de Pílula Prolongadora</Selections.8.Display>
+			<Selections.9.Display>1 Pílula de Iluminação</Selections.9.Display>
 			<Selections.10.Display>Esqueça, dedico minha fé ao Credo do Céu e nada busco em troca!</Selections.10.Display>
 		</Text>
 		<Text Name="Story_ZhuLongXuYuan_3">
-			<DisplayName>Wish for exquisite equipments</DisplayName>
+			<DisplayName>Desejar equipamentos requintados</DisplayName>
 			<Desc>Sob a influência dos caminhos celestiais do Outro Mundo, algumas mudanças temporárias também ocorreram nos caminhos celestiais deste mundo. Até o Torch Dragon, a manifestação da Regra do Yin e Yang, tem agido menos freneticamente do que antes, ao se interessar por uma espécie de disco de metal chamado "moedas" do Outromundo. Como esta moeda abrigou muitos desejos por roupas novas, o Torch Dragon pode aproveitar o poder do desejo para trazer a você a manifestação de um conjunto de equipamentos de proteção.</Desc>
 			<Selections.0.Display>Roupa que pode te ajudar na defesa</Selections.0.Display>
 			<Selections.1.Display>Roupa que pode te ajudar com feitiços</Selections.1.Display>

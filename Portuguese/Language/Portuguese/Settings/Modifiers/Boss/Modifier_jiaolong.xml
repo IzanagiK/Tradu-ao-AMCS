@@ -1,42 +1,42 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Boss_PartFight">
-			<DisplayName>General BOSS Parts Battle Stats</DisplayName>
+			<DisplayName>Estatísticas de Batalha das Partes do BOSS Geral</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong">
-			<DisplayName>Flood Dragon</DisplayName>
+			<DisplayName>Dragão da Inundação</DisplayName>
 		</Text>
 		<Text Name="Boss_JiaolongFight">
-			<DisplayName>Flood Dragon Battle Stats</DisplayName>
+			<DisplayName>Estatísticas de Batalha do Dragão da Inundação</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong_Part">
-			<DisplayName>Flood Dragon Body Part</DisplayName>
+			<DisplayName>Parte do Corpo do Dragão da Inundação</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong_Part1">
-			<DisplayName>Flood Dragon body part weakened</DisplayName>
+			<DisplayName>Parte do Corpo do Dragão da Inundação Enfraquecida</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong_JiSiGongYang">
-			<DisplayName>Grown</DisplayName>
+			<DisplayName>Crescido</DisplayName>
 			<Desc>O dragão demoníaco obteve força das oferendas de sacrifício, seu Qi tornou-se ainda mais espesso.</Desc>
 		</Text>
 		<Text Name="Boss_Jiaolong_Shuiling">
-			<DisplayName>Power of Water Spirit</DisplayName>
-			<Desc>Flood Dragon concentra o poder do Water Spirit até atingir 100 stacks, altura em que uma enorme inundação será liberada.</Desc>
+			<DisplayName>Poder do Espírito da Água</DisplayName>
+			<Desc>Dragão da Inundação concentra o poder do Espírito da Água até atingir 100 stacks, altura em que uma enorme inundação será liberada.</Desc>
 		</Text>
 		<Text Name="Boss_Jiaolong_LongNu">
-			<DisplayName>Dragon Wrath</DisplayName>
+			<DisplayName>Ira do Dragão</DisplayName>
 			<Desc>O dragão demoníaco entra em estado de fúria, causando um aumento em todas as estatísticas.</Desc>
 		</Text>
 		<Text Name="Boss_Jiaolong_Longxi">
-			<DisplayName>Dragon's Inhalation</DisplayName>
+			<DisplayName>Inalação do Dragão</DisplayName>
 			<Desc>O dragão demoníaco respira fundo, fazendo com que a água dentro do corpo do seu personagem diminua rapidamente.</Desc>
 		</Text>
 		<Text Name="Boss_Jiaolong_zhenlong">
-			<DisplayName>True Dragon</DisplayName>
+			<DisplayName>Dragão Verdadeiro</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong_fanshi">
-			<DisplayName>Backfire - Flood Dragon's Counterattack</DisplayName>
-			<Desc>Flood Dragon fará um Artifact sair pela culatra em seu dono após um período de tempo, fazendo com que o Artifact Qi seja reduzido pela metade. O efeito é dobrado para o elemento Artefatos do Fogo e reduzido pela metade para os do elemento Terra.</Desc>
+			<DisplayName>Retaliação - Contra-ataque do Dragão da Inundação</DisplayName>
+			<Desc>Dragão da Inundação fará um Artefato sair pela culatra em seu dono após um período de tempo, fazendo com que o Qi do Artefato seja reduzido pela metade. O efeito é dobrado para o elemento Artefatos do Fogo e reduzido pela metade para os do elemento Terra.</Desc>
 		</Text>
 	</List>
 </Texts>

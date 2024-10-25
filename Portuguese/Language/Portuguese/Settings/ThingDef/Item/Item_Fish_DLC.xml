@@ -1,267 +1,267 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="FishBase" sParam="Item">
-			<ThingName>Fish (General)</ThingName>
-			<Item.FabaoSuffix>Surimi,Fish,Bone</Item.FabaoSuffix>
+			<ThingName>Peixe (Geral)</ThingName>
+			<Item.FabaoSuffix>Surimi,Peixe,Osso</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_StoneCrab" sParam="Item">
-			<ThingName>Crab</ThingName>
+			<ThingName>Caranguejo</ThingName>
 			<Desc>Caranguejo comum que vive na terra e nas rochas.</Desc>
 		</Text>
 		<Text Name="Fish_Ji" sParam="Item">
-			<ThingName>Carp</ThingName>
+			<ThingName>Carpa</ThingName>
 			<Desc>Peixe comum de água doce que vive em todos os tipos de corpos d'água.</Desc>
 		</Text>
 		<Text Name="Fish_t6" sParam="Item">
-			<ThingName>Blue Dwarf Cichlid</ThingName>
+			<ThingName>Ciclídeo Anão Azul</ThingName>
 			<Desc>Peixe que é comumente visto no Monte Kunlun.</Desc>
 		</Text>
 		<Text Name="Fish_t8" sParam="Item">
-			<ThingName>Red Killifish</ThingName>
+			<ThingName>Killifish Vermelho</ThingName>
 			<Desc>Um grande killifish que só vive nas montanhas e resiste ao frio.</Desc>
 		</Text>
 		<Text Name="Fish_s3" sParam="Item">
-			<ThingName>Blue Amur Bream</ThingName>
-			<Desc>Bream que só vive em Heavenstep Peak. Gosta de comer Ice Flower.</Desc>
+			<ThingName>Bream Azul Amur</ThingName>
+			<Desc>Bream que só vive no Pico Heavenstep. Gosta de comer Flor de Gelo.</Desc>
 		</Text>
 		<Text Name="Fish_s7" sParam="Item">
-			<ThingName>Highland Flatfish</ThingName>
+			<ThingName>Peixe-Plano das Terras Altas</ThingName>
 			<Desc>Peixe chato que vive apenas nas montanhas do noroeste.</Desc>
 		</Text>
 		<Text Name="Fish_s9" sParam="Item">
-			<ThingName>Blackstone Flatfish</ThingName>
-			<Desc>Flatfish que só vive em Mt. Blackstone. Afetado pelos Pilares da Espada, é preto e resistente e gosta de itens do elemento metal.</Desc>
+			<ThingName>Peixe-Plano Blackstone</ThingName>
+			<Desc>Flatfish que só vive no Monte Blackstone. Afetado pelos Pilares da Espada, é preto e resistente e gosta de itens do elemento metal.</Desc>
 		</Text>
 		<Text Name="Fish_ChillyCrab" sParam="Item">
-			<ThingName>Rime Crab</ThingName>
-			<Desc>Caranguejo com carne saborosa que só é vista em áreas frias.</Desc>
-			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
+			<ThingName>Caranguejo de Gelo</ThingName>
+			<Desc>Caranguejo com carne saborosa que só é visto em áreas frias.</Desc>
+			<Item.FabaoSuffix>Surimi,Concha,Osso</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_BaiHuang" sParam="Item">
-			<ThingName>Snow Naked Carp</ThingName>
+			<ThingName>Carpa Pelada da Neve</ThingName>
 			<Desc>Um tipo raro de carpa nua que só vive no Lago Jakestone e aparece durante o inverno. Sua carne é saborosa e pode ser consumida diretamente.</Desc>
 		</Text>
 		<Text Name="Fish_s1" sParam="Item">
-			<ThingName>White Killifish</ThingName>
+			<ThingName>Killifish Branco</ThingName>
 			<Desc>Um grande killifish branco como a neve que raramente aparece em áreas de água fria.</Desc>
 		</Text>
 		<Text Name="Fish_r6" sParam="Item">
-			<ThingName>Red-fin Pond Loach</ThingName>
+			<ThingName>Loach do Lago com Barbatana Vermelha</ThingName>
 			<Desc>Um raro loach com barbatanas vermelhas afiadas que vive em áreas frias e só aparece durante o inverno.</Desc>
 		</Text>
 		<Text Name="Fish_QingHei" sParam="Item">
-			<ThingName>Green Snakehead</ThingName>
+			<ThingName>Cabeça de Cobra Verde</ThingName>
 			<Desc>Uma espécie de cabeça de cobra com uma cabeça verde difícil de pegar.</Desc>
 		</Text>
 		<Text Name="Fish_t2" sParam="Item">
-			<ThingName>Crucian Carp</ThingName>
-			<Desc>Peixe comum que é visto principalmente em Mountain South.</Desc>
+			<ThingName>Carpa Cruciana</ThingName>
+			<Desc>Peixe comum que é visto principalmente ao sul da montanha.</Desc>
 		</Text>
 		<Text Name="Fish_s2" sParam="Item">
 			<ThingName>Bream</ThingName>
-			<Desc>Um peixe achatado e comum que é visto principalmente em riachos e rios perto de Mountain South.</Desc>
+			<Desc>Um peixe achatado e comum que é visto principalmente em riachos e rios perto do sul da montanha.</Desc>
 		</Text>
 		<Text Name="Fish_r8" sParam="Item">
-			<ThingName>Blue-fin Swamp Eel</ThingName>
-			<Desc>Diz-se que só aparece perto da Seita Taiyi e vem com a Noite Polar. Tem uma grande quantidade de resistência, por isso tem o nome de "Fada da Água"</Desc>
+			<ThingName>Enguia do Pântano Azul</ThingName>
+			<Desc>Diz-se que só aparece perto da Seita Taiyi e vem com a Noite Polar. Tem uma grande quantidade de resistência, por isso tem o nome de "Fada da Água".</Desc>
 		</Text>
 		<Text Name="Fish_s5" sParam="Item">
-			<ThingName>Pink Amur Bream</ThingName>
-			<Desc>Uma brema de Amur rosa que se diz ser um híbrido de carpa e brema. Durante o outono, nada de mar a rio para desovar e seu corpo fica macio para se ajustar às rochas dos rios de água doce.</Desc>
+			<ThingName>Bream Rosa Amur</ThingName>
+			<Desc>Uma brema de Amur rosa que se diz ser um híbrido de carpa e brema. Durante o outono, nada do mar ao rio para desovar e seu corpo fica macio para se ajustar às rochas dos rios de água doce.</Desc>
 		</Text>
 		<Text Name="Fish_t1" sParam="Item">
-			<ThingName>Moonlight Fish</ThingName>
-			<Desc>Peixe raro com carne doce e saborosa. Mora em Celestial Pool e só aparece depois da meia-noite de outono.</Desc>
+			<ThingName>Peixe da Luz da Lua</ThingName>
+			<Desc>Peixe raro com carne doce e saborosa. Mora na Piscina Celestial e só aparece depois da meia-noite de outono.</Desc>
 		</Text>
 		<Text Name="Fish_t5" sParam="Item">
-			<ThingName>Pink Dwarf Cichlid</ThingName>
+			<ThingName>Ciclídeo Anão Rosa</ThingName>
 			<Desc>Um pequeno peixe que costuma ser visto perto do Monte Nelumbo.</Desc>
 		</Text>
 		<Text Name="Fish_r2" sParam="Item">
-			<ThingName>Pond Loach</ThingName>
+			<ThingName>Loach do Lago</ThingName>
 			<Desc>Um peixe longo e magro que vive em terra perto de riachos.</Desc>
 		</Text>
 		<Text Name="Fish_r1" sParam="Item">
-			<ThingName>White Flatfish</ThingName>
+			<ThingName>Peixe-Plano Branco</ThingName>
 			<Desc>Peixes planos raros que vivem no Monte Shu.</Desc>
 		</Text>
 		<Text Name="Fish_r11" sParam="Item">
-			<ThingName>Jade Essence Fish</ThingName>
-			<Desc>Um peixe raro visto ao redor do Monte Shu, que gosta de Jade Essence. Talvez seja atraído por Earth Qi.</Desc>
+			<ThingName>Peixe da Essência de Jade</ThingName>
+			<Desc>Um peixe raro visto ao redor do Monte Shu, que gosta de Essência de Jade. Talvez seja atraído por Qi da Terra.</Desc>
 		</Text>
 		<Text Name="Fish_FenLi" sParam="Item">
-			<ThingName>Pink Carp</ThingName>
-			<Desc>Carpa que é rosa por todo o corpo. Alguns pensam que é afetado pelas flores de pêssego nas proximidades.</Desc>
+			<ThingName>Carpa Rosa</ThingName>
+			<Desc>Carpa que é rosa por todo o corpo. Alguns pensam que é afetada pelas flores de pêssego nas proximidades.</Desc>
 		</Text>
 		<Text Name="Fish_t11" sParam="Item">
-			<ThingName>Demon Killifish</ThingName>
+			<ThingName>Killifish Demônio</ThingName>
 			<Desc>Killifish que vive em pântanos no Sul Selvagem e é dito ter padrões por todo o seu corpo porque inalou a aura do Imperador Demônio. Só aparece durante a primavera.</Desc>
 		</Text>
 		<Text Name="Fish_r3" sParam="Item">
-			<ThingName>Black Pond Loach</ThingName>
-			<Desc>Um largo e preto pond loach que só aparece no Sul Selvagem.</Desc>
+			<ThingName>Loach do Lago Preto</ThingName>
+			<Desc>Um largo e preto loach do lago que só aparece no Sul Selvagem.</Desc>
 		</Text>
 		<Text Name="Fish_Black" sParam="Item">
-			<ThingName>Snakehead</ThingName>
+			<ThingName>Cabeça de Cobra</ThingName>
 			<Desc>Peixe comum de água doce que vive principalmente em rios.</Desc>
 		</Text>
 		<Text Name="Fish_BlueFish" sParam="Item">
-			<ThingName>Blue Carp</ThingName>
-			<Desc>Carpa azul rara que vive em grandes rios. Seu corpo ficou azul depois de absorver Water Qi por gerações.</Desc>
+			<ThingName>Carpa Azul</ThingName>
+			<Desc>Carpa azul rara que vive em grandes rios. Seu corpo ficou azul depois de absorver Qi da Água por gerações.</Desc>
 		</Text>
 		<Text Name="Fish_Huang" sParam="Item">
-			<ThingName>Naked Carp</ThingName>
+			<ThingName>Carpa Nua</ThingName>
 			<Desc>Peixe dourado que vive principalmente em grandes rios.</Desc>
 		</Text>
 		<Text Name="Fish_HongHuang" sParam="Item">
-			<ThingName>Red-cap Naked Carp</ThingName>
-			<Desc>Naked carp que tem uma capa vermelha e raramente aparece em grandes rios.</Desc>
+			<ThingName>Carpa Nua com Capuz Vermelho</ThingName>
+			<Desc>Carpa nua que tem uma capa vermelha e raramente aparece em grandes rios.</Desc>
 		</Text>
 		<Text Name="Fish_r13" sParam="Item">
-			<ThingName>White Swamp Eel</ThingName>
+			<ThingName>Enguia do Pântano Branca</ThingName>
 			<Desc>Uma enguia branca do pântano com carne macia e saborosa que só vive em grandes rios.</Desc>
 		</Text>
 		<Text Name="Fish_RedFish" sParam="Item">
-			<ThingName>Rainbow Trout</ThingName>
+			<ThingName>Truta Arco-íris</ThingName>
 			<Desc>Um peixe de água doce vermelha que vive nas profundezas do rio perto de Galepeak Town e só flutua acima durante o inverno.</Desc>
 		</Text>
 		<Text Name="Fish_t10" sParam="Item">
-			<ThingName>Jade Killifish</ThingName>
+			<ThingName>Killifish de Jade</ThingName>
 			<Desc>Killifish que vive em Água Espiritual.</Desc>
 		</Text>
 		<Text Name="Fish_JadeCrab" sParam="Item">
-			<ThingName>Jade Crab</ThingName>
+			<ThingName>Caranguejo de Jade</ThingName>
 			<Desc>Caranguejo muito raro que só aparece durante o dia. Seu corpo foi afetado pela Água Espiritual e tornou-se parecido com um jade. Alguns cultivadores acariciam-nos no Monte Nulumbo.</Desc>
-			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Surimi,Concha,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_s6" sParam="Item">
-			<ThingName>Peacock Bream</ThingName>
+			<ThingName>Brema Pavo Real</ThingName>
 			<Desc>Um belo e translúcido bream verde que vive em Água Espiritual. Todas as seitas mantiveram algumas para fins ornamentais.</Desc>
 		</Text>
 		<Text Name="Fish_r5" sParam="Item">
-			<ThingName>Peach Pond Loach</ThingName>
-			<Desc>Pond loach que só vive na Água Espiritual e gosta de comer Pedras Espirituais.</Desc>
+			<ThingName>Loach Pêssego</ThingName>
+			<Desc>Loach que só vive na Água Espiritual e gosta de comer Pedras Espirituais.</Desc>
 		</Text>
 		<Text Name="Fish_r12" sParam="Item">
-			<ThingName>Shinning Swamp Eel</ThingName>
+			<ThingName>Enguia Brilhante do Pântano</ThingName>
 			<Desc>Enguia rara do pântano que vive na Água Espiritual, só aparece durante o verão e se alimenta de raízes preciosas do Espírito.</Desc>
 		</Text>
 		<Text Name="Fish_XieLi" sParam="Item">
-			<ThingName>Demon Carp</ThingName>
-			<Desc>Carpa que só aparece em Thin Blood com padrões demoníacos em seu corpo.</Desc>
+			<ThingName>Carpa Demoníaca</ThingName>
+			<Desc>Carpa que só aparece em Sangue Fino com padrões demoníacos em seu corpo.</Desc>
 		</Text>
 		<Text Name="Fish_t3" sParam="Item">
-			<ThingName>Dark-eye Snakehead</ThingName>
-			<Desc>Snakehead com olhos negros gigantes, que só aparecem em Água de Sangue.</Desc>
+			<ThingName>Cabeça de Cobra de Olhos Escuros</ThingName>
+			<Desc>Cabeça de cobra com olhos negros gigantes, que só aparecem em Água de Sangue.</Desc>
 		</Text>
 		<Text Name="Fish_s4" sParam="Item">
-			<ThingName>Red Bream</ThingName>
-			<Desc>Bream que só vive em Thin Blood e muitas vezes ataca animais que passam por perto.</Desc>
+			<ThingName>Brema Vermelha</ThingName>
+			<Desc>Brema que só vive em Sangue Fino e muitas vezes ataca animais que passam por perto.</Desc>
 		</Text>
 		<Text Name="Fish_s11" sParam="Item">
-			<ThingName>Demon Flatfish</ThingName>
+			<ThingName>Flatfish Demoníaco</ThingName>
 			<Desc>Raro flatfish que vive em Água de Sangue com um forte odor que a mantém longe de seu predador. Assim, a água de sangue mais fraca tem um cheiro horrível na Primavera.</Desc>
 		</Text>
 		<Text Name="Fish_FireCrab" sParam="Item">
-			<ThingName>Fire Crab</ThingName>
-			<Desc>Crab que vive em uma região quente com uma concha que ajuda a suportar o tempo frio.</Desc>
-			<Item.FabaoSuffix>Surimi,Shell,Bone</Item.FabaoSuffix>
+			<ThingName>Caranguejo de Fogo</ThingName>
+			<Desc>Caranguejo que vive em uma região quente com uma concha que ajuda a suportar o tempo frio.</Desc>
+			<Item.FabaoSuffix>Surimi,Concha,Bone</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Fish_HongGui" sParam="Item">
-			<ThingName>Sockeye Salmon</ThingName>
+			<ThingName>Salmão Sockeye</ThingName>
 			<Desc>Um salmão vermelho com uma capa esbranquiçada que aparece perto do Grande Deserto.</Desc>
 		</Text>
 		<Text Name="Fish_t4" sParam="Item">
-			<ThingName>Golden Dwarf Cichlid</ThingName>
+			<ThingName>Carpa Dwarf Dourada</ThingName>
 			<Desc>Peixe que vive no deserto. Nascido para suportar a fome. Talvez seja porque ele só se alimenta de comida do elemento Madeira.</Desc>
 		</Text>
 		<Text Name="Fish_s10" sParam="Item">
-			<ThingName>Brown Flatfish</ThingName>
+			<ThingName>Flatfish Marrom</ThingName>
 			<Desc>Flatfish que é visto em Grande Deserto.</Desc>
 		</Text>
 		<Text Name="Fish_r4" sParam="Item">
-			<ThingName>Igneocopper Pond Loach</ThingName>
-			<Desc>Pond loach que vive perto de minas Igneocopper e se alimenta de minerais nos minérios. Seu corpo pode emitir calor.</Desc>
+			<ThingName>Loach Igneocopper</ThingName>
+			<Desc>Loach que vive perto de minas Igneocopper e se alimenta de minerais nos minérios. Seu corpo pode emitir calor.</Desc>
 		</Text>
 		<Text Name="Fish_r7" sParam="Item">
-			<ThingName>Sand Loach</ThingName>
+			<ThingName>Loach de Areia</ThingName>
 			<Desc>Um tipo de loach que vive no deserto.</Desc>
 		</Text>
 		<Text Name="Fish_t7" sParam="Item">
-			<ThingName>Big-mouth Killifish</ThingName>
+			<ThingName>Killifish de Boca Grande</ThingName>
 			<Desc>Peixe com uma boca grossa que é frequentemente visto no mar.</Desc>
 		</Text>
 		<Text Name="Fish_t9" sParam="Item">
-			<ThingName>Black Killifish</ThingName>
+			<ThingName>Killifish Preto</ThingName>
 			<Desc>Raro killifish que vive no mar.</Desc>
 		</Text>
 		<Text Name="Fish_t12" sParam="Item">
-			<ThingName>Flame Killifish</ThingName>
-			<Desc>Killifish que só pode ser visto durante o verão. Poucas pessoas o viram em Poison Dragon Lake.</Desc>
+			<ThingName>Killifish Flamejante</ThingName>
+			<Desc>Killifish que só pode ser visto durante o verão. Poucas pessoas o viram no Lago Dragão Venenoso.</Desc>
 		</Text>
 		<Text Name="Fish_s12" sParam="Item">
-			<ThingName>Dark-eye Flatfish</ThingName>
+			<ThingName>Flatfish de Olhos Escuros</ThingName>
 			<Desc>Um peixe grande que vive em alto mar e só desova em áreas rasas.</Desc>
 		</Text>
 		<Text Name="Fish_s8" sParam="Item">
-			<ThingName>Blue-fin Flatfish</ThingName>
+			<ThingName>Flatfish de Barbatana Azul</ThingName>
 			<Desc>Flatfish que é comumente visto no mar.</Desc>
 		</Text>
 		<Text Name="Fish_r9" sParam="Item">
-			<ThingName>Sea Eel</ThingName>
-			<Desc>Eel que é comumente visto no mar.</Desc>
+			<ThingName>Enguia do Mar</ThingName>
+			<Desc>Enguia que é comumente vista no mar.</Desc>
 		</Text>
 		<Text Name="Fish_r10" sParam="Item">
-			<ThingName>Spotted Eel</ThingName>
-			<Desc>Raro eel que vive no mar. O padrão manchado é possivelmente causado por ele se alimentando de cinzas vulcânicas no fundo do mar.</Desc>
+			<ThingName>Enguia Manchada</ThingName>
+			<Desc>Rara enguia que vive no mar. O padrão manchado é possivelmente causado por ele se alimentando de cinzas vulcânicas no fundo do mar.</Desc>
 		</Text>
 		<Text Name="Shrimp1" sParam="Item">
-			<ThingName>River Shrimp</ThingName>
+			<ThingName>Camarão de Rio</ThingName>
 			<Desc>Camarão comum, vive em todas as águas frescas.</Desc>
 		</Text>
 		<Text Name="Shrimp2" sParam="Item">
-			<ThingName>Sea Shrimp</ThingName>
+			<ThingName>Camarão do Mar</ThingName>
 			<Desc>Camarão comum no mar, com tamanho maior.</Desc>
 		</Text>
 		<Text Name="Shrimp3" sParam="Item">
-			<ThingName>Purple Shrimp</ThingName>
-			<Desc>Shrimps que só vivem em montanhas perto do Palácio Skydome.</Desc>
+			<ThingName>Camarão Roxo</ThingName>
+			<Desc>Camarões que só vivem em montanhas perto do Palácio Skydome.</Desc>
 		</Text>
 		<Text Name="Shrimp4" sParam="Item">
-			<ThingName>Red Shrimp</ThingName>
+			<ThingName>Camarão Vermelho</ThingName>
 			<Desc>Camarão especial de casca vermelha, pode suportar alta temperatura.</Desc>
 		</Text>
 		<Text Name="Shrimp5" sParam="Item">
-			<ThingName>Sand Shrimp</ThingName>
+			<ThingName>Camarão de Areia</ThingName>
 			<Desc>Camarão que vive no deserto, com tamanho pequeno.</Desc>
 		</Text>
 		<Text Name="Shrimp6" sParam="Item">
-			<ThingName>Acele Shrimp</ThingName>
+			<ThingName>Camarão Acelerado</ThingName>
 			<Desc>Camarão que vive perto do grande rio, com tamanho pequeno.</Desc>
 		</Text>
 		<Text Name="Shrimp7" sParam="Item">
-			<ThingName>Blue Stripe Shrimp</ThingName>
+			<ThingName>Camarão de Listras Azuis</ThingName>
 			<Desc>Camarão que vive perto da Planície Central, não é fácil de pegar.</Desc>
 		</Text>
 		<Text Name="Shrimp8" sParam="Item">
-			<ThingName>Yellow Spot Shrimp</ThingName>
+			<ThingName>Camarão com Manchas Amarelas</ThingName>
 			<Desc>Camarão que vive perto do Sul Selvagem, sabor amargo.</Desc>
 		</Text>
 		<Text Name="Shrimp9" sParam="Item">
-			<ThingName>Blood Shrimp</ThingName>
+			<ThingName>Camarão Sangrento</ThingName>
 			<Desc>Camarão que vive em água de sangue, muito feroz.</Desc>
 		</Text>
 		<Text Name="Shrimp10" sParam="Item">
-			<ThingName>High Blood Shrimp</ThingName>
+			<ThingName>Camarão de Sangue Alto</ThingName>
 			<Desc>Um camarão que aparece na água do sangue nas montanhas e só come comida do elemento Fogo. Também aparece em outros tipos de água devido à sua invasividade.</Desc>
 		</Text>
 		<Text Name="Shrimp11" sParam="Item">
-			<ThingName>Fluorescence Shrimp</ThingName>
-			<Desc>Camarão que só aparecem em Five Dragon Pond nas noites de verão. Seu corpo brilha, que é dito porque eles só comem comida do elemento metal.</Desc>
+			<ThingName>Camarão Fluorescente</ThingName>
+			<Desc>Camarão que só aparece em Five Dragon Pond nas noites de verão. Seu corpo brilha, que é dito porque eles só comem comida do elemento metal.</Desc>
 		</Text>
 		<Text Name="Shrimp12" sParam="Item">
-			<ThingName>Peach Shrimp</ThingName>
-			<Desc>Camarão que só aparecem no Perennial Miasma em nascentes. Seus corpos cor-de-rosa são efetuados pela flor de pêssego.</Desc>
+			<ThingName>Camarão Pêssego</ThingName>
+			<Desc>Camarão que só aparece no Miasma Perene em nascentes. Seus corpos cor-de-rosa são afetados pela flor de pêssego.</Desc>
 		</Text>
 	</List>
 </Texts>

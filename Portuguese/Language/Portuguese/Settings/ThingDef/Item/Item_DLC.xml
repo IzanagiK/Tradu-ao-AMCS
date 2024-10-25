@@ -1,28 +1,28 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_BambooShoot" sParam="Item">
-			<ThingName>Bamboo Shoots</ThingName>
+			<ThingName>Brotos de Bambu</ThingName>
 			<Desc>Alguns brotos de bambu. A raiz de bambu que pode ser usada para cozinhar, crocante e refrescante.</Desc>
-			<Item.FabaoSuffix>Cord, Thread</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Corda, Linha</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Bamboo" sParam="Item">
-			<ThingName>Bamboo Stalk</ThingName>
+			<ThingName>Colmo de Bambu</ThingName>
 			<Desc>Um feixe de bambus que pode ser usado para fazer varas de pescar e algumas construções. Comestível apenas para pandas.</Desc>
-			<Item.FabaoSuffix>Stick</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Vara</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FishStick" sParam="Item">
-			<ThingName>Fishing Rod</ThingName>
+			<ThingName>Vara de Pesca</ThingName>
 			<Desc>Uma vara de pescar. Alguns peixes são atraídos por elementos específicos e também só aparecem em momentos diferentes. Além disso, quanto maior o nível da vara, maior a taxa de captura de peixes raros.</Desc>
-			<Item.FabaoSuffix>Rod,Line,Wire</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Vara,Linha,Fio</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PandaJade" sParam="Item">
-			<ThingName>Panda Jade</ThingName>
+			<ThingName>Jade do Panda</ThingName>
 			<Desc>Uma jade encontrada na floresta de bambu. Parece ser um de um conjunto de itens.</Desc>
-			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspecionar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Verifique o Panda Jade.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_HorseFromJY_Panda" sParam="Item">
-			<ThingName>Spirit Contract: Panda</ThingName>
+			<ThingName>Contrato Espiritual: Panda</ThingName>
 		</Text>
 	</List>
 </Texts>

@@ -1,9 +1,9 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_Cotton" sParam="Item">
-			<ThingName>Cotton</ThingName>
+			<ThingName>Algodão</ThingName>
 			<Desc>Um caixote de algodão, que é o principal material usado para tecer. Além de plantar algodão, você também pode coletá-lo viajando para Mt. Barren em Adventure.</Desc>
-			<Item.FabaoSuffix>Thread, Rope, Cord, Damask, String</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Fio, Corda, Corda, Damasco, Barbante</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>

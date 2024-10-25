@@ -1,70 +1,70 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="MakeLingSoil">
-			<DisplayName>Spiritual Soil of Creator</DisplayName>
-			<Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Spiritual Soil.</Desc>
-			<TargetDesc>Select an empty area on the ground.</TargetDesc>
+			<DisplayName>Solo Espiritual do Criador</DisplayName>
+			<Desc>Troca o próprio crescimento e nutrição para converter uma parcela de terra em Solo Espiritual.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
 		</Text>
 		<Text Name="MakeFatSoil">
-			<DisplayName>Fertile Soil</DisplayName>
-			<Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Fertile Soil.</Desc>
-			<TargetDesc>Select an empty area on the ground.</TargetDesc>
+			<DisplayName>Solo Fértil</DisplayName>
+			<Desc>Troca o próprio crescimento e nutrição para converter uma parcela de terra em Solo Fértil.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
 		</Text>
 		<Text Name="LcBrokeHeartLock">
-			<DisplayName>Act Playful</DisplayName>
-			<Desc>Costs intelligence to perceive the mind of a visitor or an outsider and act Playful to take down their guard.</Desc>
-			<TargetDesc>Select a target.</TargetDesc>
+			<DisplayName>Agir Brincalhão</DisplayName>
+			<Desc>Custa inteligência para perceber a mente de um visitante ou estranho e agir de maneira brincalhona para baixar a guarda deles.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
 		</Text>
 		<Text Name="LcClearHanyu">
-			<DisplayName>Cold Prison Dispelling</DisplayName>
-			<Desc>As the same type of creature as a Flood Dragon, it can dispel the Cold Prison that the Flood Dragons leave behind to acquire a large amount of nutrition.</Desc>
-			<TargetDesc>Select a target.</TargetDesc>
+			<DisplayName>Dispensão da Prisão Fria</DisplayName>
+			<Desc>Como o mesmo tipo de criatura que um Dragão Inundante, pode dispelir a Prisão Fria que os Dragões Inundantes deixam para trás para adquirir uma grande quantidade de nutrição.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
 		</Text>
 		<Text Name="LcStopColdWave">
-			<DisplayName>Scorching Breath</DisplayName>
-			<Desc>Uses the Phoenix's power from within to emit scorching breath and expel bitter cold.</Desc>
-			<TargetDesc>Select a target.</TargetDesc>
+			<DisplayName>Respiração Escaldante</DisplayName>
+			<Desc>Usa o poder da Fênix de dentro para emitir uma respiração escaldante e expulsar o frio intenso.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
 		</Text>
 		<Text Name="LcStopHeatWave">
-			<DisplayName>Icy Breath</DisplayName>
-			<Desc>Uses the Flood Dragon's power from within to emit icy breath and expel scorching heat.</Desc>
-			<TargetDesc>Select a target.</TargetDesc>
+			<DisplayName>Respiração Glacial</DisplayName>
+			<Desc>Usa o poder do Dragão Inundante de dentro para emitir uma respiração glacial e expulsar o calor escaldante.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
 		</Text>
 		<Text Name="LcBaipiao">
-			<DisplayName>Act Playful</DisplayName>
-			<Desc>Costs some intelligence to guess Traveling Merchant's mind and act Playful in order to curry favor. Maybe the merchant is not as cold-hearted as imagined.</Desc>
-			<TargetDesc>Select a Traveling Merchant.</TargetDesc>
+			<DisplayName>Agir Brincalhão</DisplayName>
+			<Desc>Custa um pouco de inteligência para adivinhar a mente do Mercador Viajante e agir de maneira brincalhona para conquistar sua simpatia. Talvez o mercador não seja tão frio quanto se imaginava.</Desc>
+			<TargetDesc>Selecione um Mercador Viajante.</TargetDesc>
 		</Text>
 		<Text Name="LcSeeUnknown">
-			<DisplayName>Piercing Sight</DisplayName>
-			<Desc>Grants Piercing Sight to an inner disciple so that they will be able to see through to an item's true features while at an auction.</Desc>
-			<TargetDesc>Select a target.</TargetDesc>
+			<DisplayName>Visão Penetrante</DisplayName>
+			<Desc>Concede Visão Penetrante a um discípulo interno para que ele possa ver as verdadeiras características de um item durante um leilão.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
 		</Text>
 		<Text Name="LcOutspreadAttractive">
-			<DisplayName>Auspicious Signs</DisplayName>
-			<Desc>Sends them to an agency and shows auspicious signs at the cost of their own growth and stats in order to increase our appeal.</Desc>
-			<sParam2>Auspicious</sParam2>
+			<DisplayName>Signos Auspiciosos</DisplayName>
+			<Desc>Envia-os para uma agência e mostra signos auspiciosos ao custo de seu próprio crescimento e estatísticas para aumentar nosso apelo.</Desc>
+			<sParam2>Auspicioso</sParam2>
 		</Text>
 		<Text Name="LcOutspreadStability">
-			<DisplayName>Renowned Might</DisplayName>
-			<Desc>Sends them to an agency and shows divine might at the cost of their own growth and stats in order to increase stability of the place.</Desc>
-			<sParam2>Divine Might</sParam2>
+			<DisplayName>Poder Renomado</DisplayName>
+			<Desc>Envia-os para uma agência e mostra poder divino ao custo de seu próprio crescimento e estatísticas para aumentar a estabilidade do lugar.</Desc>
+			<sParam2>Poder Divino</sParam2>
 		</Text>
 		<Text Name="Magic_YG_RealPower">
-			<DisplayName>Origin Force (Power)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the power of the artifacts and secret bodies. Release the skill again to stop this effect.</Desc>
+			<DisplayName>Força de Origem (Poder)</DisplayName>
+			<Desc>Queima rapidamente a fonte da vida para estimular a força original do Yaoguai, a fim de aumentar drasticamente o poder dos artefatos e corpos secretos. Liberte a habilidade novamente para parar esse efeito.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealRecover">
-			<DisplayName>Origin Force (Nurture)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the resilience, artifact Qi recovery rate and secret body True Qi recovery rate. Release the skill again to stop this effect.</Desc>
+			<DisplayName>Força de Origem (Nutrição)</DisplayName>
+			<Desc>Queima rapidamente a fonte da vida para estimular a força original do Yaoguai, a fim de aumentar drasticamente a resiliência, a taxa de recuperação de Qi de artefatos e a taxa de recuperação de Verdadeiro Qi do corpo secreto. Liberte a habilidade novamente para parar esse efeito.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealWisdom">
-			<DisplayName>Origin Force (INT)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the spell power, secret body attack accuracy, defense success rate, Qi barrier penetration and artifact suppression chance. Release the skill again to stop this effect.</Desc>
+			<DisplayName>Força de Origem (INT)</DisplayName>
+			<Desc>Queima rapidamente a fonte da vida para estimular a força original do Yaoguai, a fim de aumentar drasticamente o poder mágico, a precisão de ataque do corpo secreto, a taxa de sucesso de defesa, a penetração da barreira de Qi e a chance de supressão de artefatos. Liberte a habilidade novamente para parar esse efeito.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealShield">
-			<DisplayName>Origin Force (PCT)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the Qi barrier and secret body endurance. Release the skill again to stop this effect.</Desc>
+			<DisplayName>Força de Origem (PCT)</DisplayName>
+			<Desc>Queima rapidamente a fonte da vida para estimular a força original do Yaoguai, a fim de aumentar drasticamente a barreira de Qi e a resistência do corpo secreto. Liberte a habilidade novamente para parar esse efeito.</Desc>
 		</Text>
 	</List>
 </Texts>

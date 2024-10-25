@@ -1,19 +1,19 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Wheat" sParam="Plant">
-			<ThingName>Wheat</ThingName>
+			<ThingName>Trigo</ThingName>
 			<Desc>Principal fonte de alimentação. Apesar de um longo período de crescimento, é resiliente e pode crescer a uma temperatura entre [temperature]0[/temperature]-[temperature]40[/temperature], e concede um elevado rendimento.</Desc>
 		</Text>
 		<Text Name="Healroot" sParam="Plant">
-			<ThingName>Herb</ThingName>
-			<Desc>A medicina mais comum e básica. Pode ser processado e refinado em outros tipos de medicamentos. Só pode crescer a uma temperatura entre [temperature]10[/temperature]-[temperature]40[/temperature].</Desc>
+			<ThingName>Erva</ThingName>
+			<Desc>A medicina mais comum e básica. Pode ser processada e refinada em outros tipos de medicamentos. Só pode crescer a uma temperatura entre [temperature]10[/temperature]-[temperature]40[/temperature].</Desc>
 		</Text>
 		<Text Name="Cotton" sParam="Plant">
-			<ThingName>Cotton</ThingName>
+			<ThingName>Algodão</ThingName>
 			<Desc>Principal fonte para a fabricação de tecidos. Adequado para crescer numa temperatura entre [temperature]5[/temperature]-[temperature]35[/temperature]. Também pode ser obtido durante uma aventura ao Monte Barren.</Desc>
 		</Text>
 		<Text Name="Mushroom" sParam="Plant">
-			<ThingName>Mushroom</ThingName>
+			<ThingName>Cogumelo</ThingName>
 			<Desc>Cogumelo comum. Muitas vezes cresce num ambiente de [temperature]18[/temperature]-[temperature]23[/temperature], e só pode crescer no escuro.</Desc>
 		</Text>
 	</List>

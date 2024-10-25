@@ -1,152 +1,160 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="War1">
-			<DisplayName>Battle Against Evil</DisplayName>
+			<DisplayName>Batalha Contra o Mal</DisplayName>
 			<Desc>Um discípulo de {0} foi morto por algum malfeitor em sua aventura. A seita deseja que você possa ajudar a se vingar, pois eles não podem fazer isso sozinhos, considerando sua reputação.</Desc>
 		</Text>
 		<Text Name="War2">
-			<DisplayName>Purge Spies</DisplayName>
+			<DisplayName>Eliminar Espiões</DisplayName>
 			<Desc>{0} descobriram que um de seus próprios discípulos era um espião. A seita não pode fazer nada com eles, pois estão muito ocupados com seus assuntos de seita. Eles estão contando com outra pessoa para matar o espião.</Desc>
 		</Text>
 		<Text Name="War3">
-			<DisplayName>Kill a Traitor</DisplayName>
+			<DisplayName>Matar um Traidor</DisplayName>
 			<Desc>Um discípulo de {0} quebrou seu mandamento e fugiu. Eles esperam encontrar alguém disposto a ajudá-los com esse problema.</Desc>
 		</Text>
 		<Text Name="Rest1">
-			<DisplayName>Heal the Disciple</DisplayName>
-			<Desc>{0}'s discípulo sênior sofre graves ferimentos na Terra, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
+			<DisplayName>Curar o Discípulo</DisplayName>
+			<Desc>O discípulo sênior de {0} sofre graves ferimentos na Terra, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
 		</Text>
 		<Text Name="Rest2">
-			<DisplayName>Heal the Disciple</DisplayName>
-			<Desc>{0}'s discípulo sênior sofre graves ferimentos de madeira, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
+			<DisplayName>Curar o Discípulo</DisplayName>
+			<Desc>O discípulo sênior de {0} sofre graves ferimentos de madeira, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
 		</Text>
 		<Text Name="Rest3">
-			<DisplayName>Heal the Disciple</DisplayName>
-			<Desc>{0}'s discípulo sênior sofre graves ferimentos de Fogo, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
+			<DisplayName>Curar o Discípulo</DisplayName>
+			<Desc>O discípulo sênior de {0} sofre graves ferimentos de Fogo, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
 		</Text>
 		<Text Name="Rest4">
-			<DisplayName>Heal the Disciple</DisplayName>
-			<Desc>{0}'s discípulo sênior sofre graves lesões de Metal, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
+			<DisplayName>Curar o Discípulo</DisplayName>
+			<Desc>O discípulo sênior de {0} sofre graves lesões de Metal, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
 		</Text>
 		<Text Name="Rest5">
-			<DisplayName>Heal the Disciple</DisplayName>
-			<Desc>{0}'s discípulo sênior sofre graves ferimentos de Água, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
+			<DisplayName>Curar o Discípulo</DisplayName>
+			<Desc>O discípulo sênior de {0} sofre graves ferimentos de Água, mas toda a seita não tem elixires para tratamento. Qualquer ajuda externa é apreciada agora.</Desc>
 		</Text>
 		<Text Name="Rest6">
-			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s ancião sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada de uma grande quantidade de Qi da Água. Qualquer ajuda oportuna será muito apreciada.</Desc>
+			<DisplayName>Curar o Ancião</DisplayName>
+			<Desc>O ancião de {0} sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada de uma grande quantidade de Qi da Água. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Rest7">
-			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s ancião sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada por uma grande quantidade de Fire Qi. Qualquer ajuda oportuna será muito apreciada.</Desc>
+			<DisplayName>Curar o Ancião</DisplayName>
+			<Desc>O ancião de {0} sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada por uma grande quantidade de Qi do Fogo. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Rest8">
-			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s ancião sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada por uma grande quantidade de Metal Qi. Qualquer ajuda oportuna será muito apreciada.</Desc>
+			<DisplayName>Curar o Ancião</DisplayName>
+			<Desc>O ancião de {0} sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada por uma grande quantidade de Qi do Metal. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Rest9">
-			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s ancião sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada de uma grande quantidade de Qi da Madeira. Qualquer ajuda oportuna será muito apreciada.</Desc>
+			<DisplayName>Curar o Ancião</DisplayName>
+			<Desc>O ancião de {0} sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada de uma grande quantidade de Qi da Madeira. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Rest10">
-			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s ancião sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada por uma grande quantidade de Qi da Terra. Qualquer ajuda oportuna será muito apreciada.</Desc>
+			<DisplayName>Curar o Ancião</DisplayName>
+			<Desc>O ancião de {0} sofre de ferimentos graves que não podem ser curados por elixires comuns. A recuperação só é possível através de uma transferência contínua de energia acompanhada de uma grande quantidade de Qi da Terra. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Rest11">
-			<DisplayName>Delay the Tribulation</DisplayName>
-			<Desc>{0}'s presbítero precisa completar uma tarefa urgente, mas o Dia da Tribulação está chegando, e será muito embaraçoso pedir ajuda de outra seita. Se alguém estiver disposto a ajudar, será muito recompensado depois.</Desc>
+			<DisplayName>Adiamento da Tribulação</DisplayName>
+			<Desc>O presbítero de {0} precisa completar uma tarefa urgente, mas o Dia da Tribulação está chegando, e será muito embaraçoso pedir ajuda de outra seita. Se alguém estiver disposto a ajudar, será muito recompensado depois.</Desc>
 		</Text>
 		<Text Name="Rest12">
-			<DisplayName>Delay the Tribulation</DisplayName>
-			<Desc>{0}'s O ancião não tem o cultivo necessário antes da próxima Tribulação Celestial e precisa de elixires para prolongar a vida e evitar a Tribulação.</Desc>
+			<DisplayName>Adiamento da Tribulação</DisplayName>
+			<Desc>O ancião de {0} não tem o cultivo necessário antes da próxima Tribulação Celestial e precisa de elixires para prolongar a vida e evitar a Tribulação.</Desc>
 		</Text>
 		<Text Name="Rest13">
-			<DisplayName>Life Fading</DisplayName>
-			<Desc>{0}'s discípulo sênior consumiu uma grande quantidade de tempo de vida devido a tarefas no reino mortal e está enfrentando o fim de sua vida. Um elixir é necessário para prolongar sua vida, mas não há nenhum na seita agora.</Desc>
+			<DisplayName>Vida Esvaindo</DisplayName>
+			<Desc>O discípulo sênior de {0} consumiu uma grande quantidade de tempo de vida devido a tarefas no reino mortal e está enfrentando o fim de sua vida. Um elixir é necessário para prolongar sua vida, mas não há nenhum na seita agora.</Desc>
 		</Text>
 		<Text Name="Rest14">
-			<DisplayName>Life Fading</DisplayName>
-			<Desc>{0}'s O ancião consumiu uma grande quantidade de tempo de vida devido a tarefas no reino mortal e está enfrentando o fim de sua vida. Não querendo reencarnar, eles agora estão procurando ajuda de todos os imortais.</Desc>
+			<DisplayName>Vida Esvaindo</DisplayName>
+			<Desc>O ancião de {0} consumiu uma grande quantidade de tempo de vida devido a tarefas no reino mortal e está enfrentando o fim de sua vida. Não querendo reencarnar, eles agora estão procurando ajuda de todos os imortais.</Desc>
 		</Text>
 		<Text Name="Rest15">
-			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s Ancião estava avançando enquanto o Qi da Água de repente se dissipou. Não há nenhuma raiz espiritual disponível na seita agora. Qualquer ajuda oportuna será muito apreciada.</Desc>
+			<DisplayName>Avanço</DisplayName>
+			<Desc>O ancião de {0} estava avançando enquanto o Qi da Água de repente se dissipou. Não há nenhuma raiz espiritual disponível na seita agora. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Rest16">
-			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s Ancião estava avançando enquanto o Qi do Fogo de repente se dissipou. Não há nenhuma raiz espiritual disponível na seita agora. Qualquer ajuda oportuna será muito apreciada.</Desc>
+			<DisplayName>Avanço</DisplayName>
+			<Desc>O ancião de {0} estava avançando enquanto o Qi do Fogo de repente se dissipou. Não há nenhuma raiz espiritual disponível na seita agora. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Rest17">
-			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s Elder estava avançando enquanto Metal Qi de repente se dissipou. Não há nenhuma raiz espiritual disponível na seita agora. Qualquer ajuda oportuna será muito apreciada.</Desc>
+			<DisplayName>Avanço</DisplayName>
+			<Desc>O ancião de {0} estava avançando enquanto o Qi do Metal de repente se dissipou. Não há nenhuma raiz espiritual disponível na seita agora. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Rest18">
-			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s Elder estava avançando enquanto Wood Qi de repente se dissipou. Não há nenhuma raiz espiritual disponível na seita agora. Qualquer ajuda oportuna será muito apreciada.</Desc>
+			<DisplayName>Avanço</DisplayName>
+			<Desc>O ancião de {0} estava avançando enquanto o Qi da Madeira de repente se dissipou. Não há nenhuma raiz espiritual disponível na seita agora. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Rest19">
-			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s elder was breakthroughing while Earth Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+			<DisplayName>Avanço</DisplayName>
+			<Desc>O ancião de {0} estava avançando enquanto o Qi da Terra de repente se dissipou. Não há nenhuma raiz espiritual disponível na seita agora. Qualquer ajuda oportuna será muito apreciada.</Desc>
 		</Text>
 		<Text Name="Build1">
-			<DisplayName>Sect Building</DisplayName>
+			<DisplayName>Construção da Seita</DisplayName>
 			<Desc>{0} está prestes a falhar em completar uma maravilha pela falta do material chave, Pedra Sagrada, devido a um erro de cálculo. Qualquer ajuda oportuna será muito apreciada e recompensada.</Desc>
 		</Text>
 		<Text Name="Build2">
-			<DisplayName>Sect Building</DisplayName>
+			<DisplayName>Construção da Seita</DisplayName>
 			<Desc>{0} está prestes a falhar em completar uma maravilha pela falta do material chave, núcleo de lumina, devido a um erro de cálculo. Qualquer ajuda oportuna será muito apreciada e recompensada.</Desc>
 		</Text>
 		<Text Name="Build3">
-			<DisplayName>Sect Building</DisplayName>
-			<Desc>{0} is building a new entrance hall, but doesn't have enough stone essence. Any timely help will be greatly rewarded.</Desc>
+			<DisplayName>Construção da Seita</DisplayName>
+			<Desc>{0} está construindo um novo hall de entrada, mas não tem essência de pedra suficiente. Qualquer ajuda oportuna será muito recompensada.</Desc>
 		</Text>
 		<Text Name="Build4">
-			<DisplayName>Sect Building</DisplayName>
-			<Desc>{0} está construindo uma nova piscina, mas não tem Jade Essence suficiente. Qualquer ajuda de todas as seitas será apreciada.</Desc>
+			<DisplayName>Construção da Seita</DisplayName>
+			<Desc>Uma fonte de energia é necessária para a construção do novo espaço de cultivo. O que {0} precisa é um novo núcleo de energia. Agradecemos a qualquer ajuda que você puder dar.</Desc>
 		</Text>
 		<Text Name="Build5">
-			<DisplayName>Sect Building</DisplayName>
-			<Desc>{0} precisa de uma grande quantidade de Minérios de Igneocobre para construir uma fornalha de alquimia, mas há falta de materiais necessários em toda a seita agora.</Desc>
+			<DisplayName>Construção da Seita</DisplayName>
+			<Desc>{0} precisa de ajuda com a construção de um novo pavilhão, mas não possui os materiais necessários. Eles estão contando com você para obter um núcleo de construção.</Desc>
 		</Text>
 		<Text Name="Build6">
-			<DisplayName>Sect Building</DisplayName>
-			<Desc>{0} precisa de uma grande quantidade de Minérios de Ice Crystal Ores para construir uma fornalha de alquimia, mas há uma falta de materiais necessários em toda a seita agora.</Desc>
+			<DisplayName>Construção da Seita</DisplayName>
+			<Desc>{0} está se preparando para construir um pavilhão, mas não tem materiais suficientes. Eles estão contando com você para conseguir um núcleo de materiais.</Desc>
 		</Text>
 		<Text Name="Build7">
-			<DisplayName>Sect Building</DisplayName>
-			<Desc>{0} estava reformando o salão quando o depósito pegou fogo de repente, e todo o Goldwood deles virou cinzas. Mas eles não podem parar de reformar o salão. Qualquer ajuda oportuna será apreciada.</Desc>
+			<DisplayName>Construção da Seita</DisplayName>
+			<Desc>Os discípulos de {0} precisam de ajuda em suas pesquisas. Eles precisam de uma grande quantidade de essência da Terra para suas investigações, mas não têm.</Desc>
 		</Text>
 		<Text Name="Build8">
-			<DisplayName>Sect Building</DisplayName>
-			<Desc>{0} precisa expandir o refeitório, mas a madeira armazenada em sua seita foi maltratada e corroída por insetos. Qualquer ajuda oportuna será apreciada.</Desc>
+			<DisplayName>Construção da Seita</DisplayName>
+			<Desc>{0} deseja construir uma nova sala de cultivo, mas precisa de materiais especiais. Eles pedem sua ajuda na busca por alguns.</Desc>
 		</Text>
-		<Text Name="Build9">
-			<DisplayName>Resource Shortage</DisplayName>
-			<Desc>{0}'s portão da seita de repente desabou. Pedras Sagradas são urgentemente necessárias para repará-lo, ou sua reputação será arruinada. Qualquer ajuda oportuna será muito apreciada e recompensada.</Desc>
+		<Text Name="Cave1">
+			<DisplayName>Inspeção de Cavernas</DisplayName>
+			<Desc>{0} está na necessidade urgente de inspecionar uma caverna nas proximidades, mas não pode por causa dos bandidos e monstros. Eles pedem sua ajuda para eliminá-los.</Desc>
 		</Text>
-		<Text Name="Build10">
-			<DisplayName>Resource Shortage</DisplayName>
-			<Desc>{0}'s artefato é quebrado devido a um erro momentâneo durante a elaboração. Os núcleos Lumina são urgentemente necessários para repará-lo. Qualquer ajuda oportuna será muito apreciada e recompensada.</Desc>
+		<Text Name="Cave2">
+			<DisplayName>Inspeção de Cavernas</DisplayName>
+			<Desc>Algumas criaturas estranhas apareceram nas cavernas. Os discípulos de {0} não podem mais trabalhar em suas investigações e precisam de sua ajuda para removê-las.</Desc>
 		</Text>
-		<Text Name="Build11">
-			<DisplayName>Resource Shortage</DisplayName>
-			<Desc>{0}'s a fundação do solo está danificada e é necessária uma grande quantidade de essência de pedra para preencher as lacunas. Qualquer ajuda oportuna será muito recompensada.</Desc>
+		<Text Name="Cave3">
+			<DisplayName>Inspeção de Cavernas</DisplayName>
+			<Desc>A seita de {0} precisa urgentemente inspecionar uma caverna e saber mais sobre as estranhas criaturas que apareceram, mas não podem. Eles pedem sua ajuda.</Desc>
 		</Text>
-		<Text Name="Build12">
-			<DisplayName>Resource Shortage</DisplayName>
-			<Desc>{0} precisa de uma grande quantidade de Essência de Jade para construir uma estátua, mas não há o suficiente em toda a seita. Qualquer ajuda de todas as seitas será apreciada.</Desc>
+		<Text Name="Cave4">
+			<DisplayName>Inspeção de Cavernas</DisplayName>
+			<Desc>A seita de {0} precisa inspecionar a caverna vizinha. Eles não podem ir agora devido a algumas criaturas ameaçadoras que apareceram. Eles pedem sua ajuda.</Desc>
 		</Text>
-		<Text Name="Build13">
-			<DisplayName>Resource Shortage</DisplayName>
-			<Desc>{0} precisa construir uma sala de calor extremo para a Sobrevivência da Tribulação, mas há uma escassez de Minérios de Igneocobre disponíveis na seita. Qualquer ajuda será apreciada.</Desc>
+		<Text Name="Friend1">
+			<DisplayName>Amigo em Apuros</DisplayName>
+			<Desc>Um discípulo da seita {0} foi capturado e precisa ser resgatado. Se você não ajudar, ele pode nunca mais voltar.</Desc>
 		</Text>
-		<Text Name="Build14">
-			<DisplayName>Resource Shortage</DisplayName>
-			<Desc>{0} precisa construir uma sala de frio extremo para Sobrevivência à Tribulação, mas há uma escassez de Minérios de Cristal de Gelo disponíveis na seita. Qualquer ajuda será apreciada.</Desc>
+		<Text Name="Friend2">
+			<DisplayName>Amigo em Apuros</DisplayName>
+			<Desc>Um amigo de {0} foi pego no caminho. Eles não podem ir em sua ajuda agora e pedem que você faça isso por eles.</Desc>
 		</Text>
-		<Text Name="Build15">
-			<DisplayName>Resource Shortage</DisplayName>
-			<Desc>{0} quer estudar o cultivo de talismãs, e uma grande quantidade de Cinnabar é necessária para desenhar todos os tipos de talismãs divinos, mas a seita não armazenou esse material. Qualquer ajuda oportuna será muito apreciada.</Desc>
+		<Text Name="Friend3">
+			<DisplayName>Amigo em Apuros</DisplayName>
+			<Desc>Um amigo de {0} está sendo cercado por inimigos e precisa de ajuda. Ele não pode fazer nada agora, então qualquer ajuda será muito apreciada.</Desc>
+		</Text>
+		<Text Name="Friend4">
+			<DisplayName>Amigo em Apuros</DisplayName>
+			<Desc>Um amigo de {0} está em perigo e precisa de ajuda. O amigo não pode resistir aos inimigos sozinho, então a seita pede que você vá ajudá-lo.</Desc>
+		</Text>
+		<Text Name="Friend5">
+			<DisplayName>Amigo em Apuros</DisplayName>
+			<Desc>Um amigo de {0} foi capturado por bandidos e precisa de resgate. Eles pedem que você vá ajudá-lo.</Desc>
 		</Text>
 	</List>
 </Texts>

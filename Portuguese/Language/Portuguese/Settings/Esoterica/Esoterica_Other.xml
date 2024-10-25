@@ -16,9 +16,9 @@
 			<EffectDesc>Aumenta a percepção em 10%.\nAumenta a inteligência em 10%.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui3">
-			<DisplayName>Força incrível</DisplayName>
+			<DisplayName>Força Incrível</DisplayName>
 			<Desc>Técnica definitiva exclusiva de Dugu Xing, permite que alguém de repente exploda com um poder incrível.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Aprenda Miracle: Incredible Force\nUltimate técnica exclusiva de Dugu Xing, que permite explodir de repente com um poder incrível.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Força Incrível\nTécnica definitiva exclusiva de Dugu Xing, que permite explodir de repente com um poder incrível.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui4">
 			<DisplayName>Lei do Imortal de Kunlun</DisplayName>
@@ -28,12 +28,12 @@
 		<Text Name="Esoterica_LunHui5">
 			<DisplayName>Talismã de Oração</DisplayName>
 			<Desc>Encantamento que faz as pessoas se sentirem seguras e felizes.</Desc>
-			<EffectDesc>Desbloqueie o Talismã: \nOração Talismã</EffectDesc>
+			<EffectDesc>Desbloqueia o Talismã: \nTalismã da Oração</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DanXia1">
 			<DisplayName>Brilho da Noite dos Pinheiros</DisplayName>
-			<Desc>Habilidade milagrosa inspirada no cenário de penhascos verdejantes em Mt. Sunshade, aumenta o dano de feitiço.</Desc>
-			<EffectDesc>Aumenta o dano mágico</EffectDesc>
+			<Desc>Habilidade milagrosa inspirada no cenário de penhascos verdejantes no Monte Sunshade, aumenta o dano de feitiço.</Desc>
+			<EffectDesc>Aumenta o dano mágico.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DanXia2">
 			<DisplayName>Nuvens Violetas</DisplayName>
@@ -42,8 +42,8 @@
 		</Text>
 		<Text Name="Other_Esoterica_DengXian1">
 			<DisplayName>Códice Oriental Secreto (Espada Estrela Roxa)</DisplayName>
-			<Desc>Ultima habilidade de espada inventada pelo Imperador Imortal do Oriente. Aproveite o poder imperial que habita a Estrela Púrpura com seu espírito primordial e integre-o à aura da espada, tornando-a absolutamente imparável. Este volume também registrou a receita de criação do Borealis, um artefato legado inventado pelo Imperador Imortal do Oriente.</Desc>
-			<EffectDesc>Aumenta significativamente o Poder do Artefato.\n Adquira Artefato Legado: \nBorealis</EffectDesc>
+			<Desc>Última habilidade de espada inventada pelo Imperador Imortal do Oriente. Aproveite o poder imperial que habita a Estrela Púrpura com seu espírito primordial e integre-o à aura da espada, tornando-a absolutamente imparável. Este volume também registrou a receita de criação do Borealis, um artefato legado inventado pelo Imperador Imortal do Oriente.</Desc>
+			<EffectDesc>Aumenta significativamente o Poder do Artefato.\nAdquira Artefato Legado: \nBorealis</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_JiuHua">
 			<DisplayName>Códice de Dragão e Fênix</DisplayName>
@@ -52,13 +52,13 @@
 		</Text>
 		<Text Name="Other_Esoterica_LongHu1">
 			<DisplayName>Vantagem da Espada Fluente</DisplayName>
-			<Desc>Sword Will inspirado observando a paisagem de um arco-íris branco dividindo pedras nas Cataratas Skypass em Mt. Tiger Paw. Integrando-o em sua habilidade de espada aumenta massivamente o poder de impacto do Artefato.</Desc>
-			<EffectDesc>Melhora o impacto do artefato</EffectDesc>
+			<Desc>Vontade da espada inspirada observando a paisagem de um arco-íris branco dividindo pedras nas Cataratas Skypass no Monte Tiger Paw. Integrá-la em sua habilidade de espada aumenta massivamente o poder de impacto do Artefato.</Desc>
+			<EffectDesc>Melhora o impacto do artefato.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongHu2">
-			<DisplayName>Flying Creek</DisplayName>
+			<DisplayName>Riacho Voador</DisplayName>
 			<Desc>Técnica de respiração inspirada na observação da paisagem nas Cataratas Skypass no Monte Tiger Paw, aumenta sua taxa de recuperação de Qi.</Desc>
-			<EffectDesc>Aumenta a taxa de recuperação Qi</EffectDesc>
+			<EffectDesc>Aumenta a taxa de recuperação de Qi.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan">
 			<DisplayName>Artesanato do Fogo Terrestre</DisplayName>
@@ -78,22 +78,22 @@
 		<Text Name="Other_Esoterica_ShanHeJue">
 			<DisplayName>Canto de Montanhas e Rios</DisplayName>
 			<Desc>Técnica secreta descoberta pelo Patriarca Celestial que se inspirou na circulação da Veia do Dragão, inclui várias maneiras de reconstruir terrenos utilizando a Semente da Sorte.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Aprenda o Milagre: \nMoldagem do Lago\nMoldagem da Terra\nSolo Espiritual do Criador\nLagoa Espiritual do Criador\nSolo Fértil\nAdquira Receitas de Elixir: \nSemente do Espírito\nAreia da Fortuna\nDesbloqueie Construção: \ nJade Pond of Creator[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Aprenda o Milagre: \nMoldagem do Lago\nMoldagem da Terra\nSolo Espiritual do Criador\nLagoa Espiritual do Criador\nSolo Fértil\nAdquira Receitas de Elixir: \nSemente do Espírito\nAreia da Fortuna\nDesbloqueie Construção: \nLago de Jade do Criador[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongDan">
-			<DisplayName>Dragon Spirit Soul</DisplayName>
-			<Desc>Técnica secreta que se inspirou em fragmentos de memória do Flood Dragon.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Adquira a seguinte receita de elixir: \nDragon Elixir\nAumenta bastante o Poder do Artefato.[/color][/size]</EffectDesc>
+			<DisplayName>Alma do Espírito Dragão</DisplayName>
+			<Desc>Técnica secreta que se inspirou em fragmentos de memória do Dragão Inundador.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquira a seguinte receita de elixir: \nElixir do Dragão\nAumenta bastante o Poder do Artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FengDan">
 			<DisplayName>Alma Espiritual da Fênix</DisplayName>
-			<Desc>Técnica secreta que se inspirou em fragmentos de memória de Phoenix.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Adquira a seguinte receita de elixir: \nPhoenix Elixir\nAumenta muito o poder mágico.[/color][/size]</EffectDesc>
+			<Desc>Técnica secreta que se inspirou em fragmentos de memória da Fênix.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquira a seguinte receita de elixir: \nElixir da Fênix\nAumenta muito o poder mágico.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ZhuLongDan">
 			<DisplayName>Yin &amp; Espírito Yang</DisplayName>
-			<Desc>Técnica secreta que se inspirou nos fragmentos de memória do Torch Dragon.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Adquira a seguinte receita de elixir: \nBalance Spirit Pill\n Adquira o método de fabricação do Legacy Artifact: \nDraconic Tablet\nFundamentalmente aumenta o poder da barreira em uma margem significativa.[/color][/size]</EffectDesc>
+			<Desc>Técnica secreta que se inspirou nos fragmentos de memória do Dragão Tocha.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquira a seguinte receita de elixir: \nPílula do Espírito do Equilíbrio\nAdquira o método de fabricação do Artefato Legado: \nTabela Dracônica\nFundamentalmente aumenta o poder da barreira em uma margem significativa.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen1">
 			<DisplayName>Qi de Pureza Tripla</DisplayName>
@@ -116,14 +116,14 @@
 			<EffectDesc>[size=10][color=#D06508]Ganha um subespírito.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_YanHuangTongShi">
-			<DisplayName>Uma história abrangente da Serica</DisplayName>
-			<Desc>Livro que abrange cinco mil anos de história do país de Serica. Ele gravou uma grande variedade de conteúdos extensos, dentro dos quais estão muitas escolas de pensamentos que são muito inspiradoras para o cultivo.</Desc>
+			<DisplayName>Uma História Abrangente da Serica</DisplayName>
+			<Desc>Livro que abrange cinco mil anos de história do país de Serica. Ele gravou uma grande variedade de conteúdos extensos, dentro dos quais estão muitas escolas de pensamento que são muito inspiradoras para o cultivo.</Desc>
 			<EffectDesc>Aumenta a inteligência em 20%.\nAumenta o Qi Sense em 5.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_QuQiJue">
 			<DisplayName>Cinco Qi Dissipar</DisplayName>
 			<Desc>Diz-se que é a técnica secreta incompleta dos antigos alquimistas, registrando algumas especulações sobre o Qi da Alquimia. Esta energia é incolor, insípida e sem forma, tornando-a extremamente difícil de observar. Além disso, porque os benefícios e desvantagens do Qi da Alquimia não são totalmente compreendidos, o princípio dos cinco elementos superando uns aos outros foi utilizado para criar uma habilidade divina que dispersa completamente o Qi da Alquimia na cena.</Desc>
-			<EffectDesc>[size=18][color=#CCFF66]Aprenda o Milagre: \n Cinco Qi Dissipar[/color][/size]</EffectDesc>
+			<EffectDesc>[size=18][color=#CCFF66]Aprenda o Milagre: \nCinco Qi Dissipar[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>

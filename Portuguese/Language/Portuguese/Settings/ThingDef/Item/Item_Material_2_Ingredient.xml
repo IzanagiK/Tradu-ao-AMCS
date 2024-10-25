@@ -1,29 +1,29 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_Flour" sParam="Item">
-			<ThingName>Flour</ThingName>
+			<ThingName>Farinha</ThingName>
 			<Desc>Um saco de farinha. Ingrediente de cozimento.</Desc>
-			<Item.FabaoSuffix>Particle, Powder, Bag</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Partícula, Pó, Saco</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Pear" sParam="Item">
-			<ThingName>Pear</ThingName>
-			<Desc>Uma caixa de peras.</Desc>>
-			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball, Dome</Item.FabaoSuffix>
+			<ThingName>Pera</ThingName>
+			<Desc>Uma caixa de peras.</Desc>
+			<Item.FabaoSuffix>Fruta, Bolinha, Bolus, Bola, Cúpula</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Wheat" sParam="Item">
-			<ThingName>Wheat</ThingName>
+			<ThingName>Trigo</ThingName>
 			<Desc>Um feixe de trigo.</Desc>
-			<Item.FabaoSuffix>Cord, Thread</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Corda, Fio</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Mushroom" sParam="Item">
-			<ThingName>Mushroom</ThingName>
+			<ThingName>Cogumelo</ThingName>
 			<Desc>Uma cesta de cogumelos.</Desc>
-			<Item.FabaoSuffix>Basket, Mushroom</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Cesta, Cogumelo</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Lotusroot" sParam="Item">
-			<ThingName>Lotus Root</ThingName>
+			<ThingName>Raiz de Lótus</ThingName>
 			<Desc>Uma seção de raiz de lótus.</Desc>
-			<Item.FabaoSuffix>Lotus Root</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Raiz de Lótus</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>

@@ -1,69 +1,69 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Boss_Zhulong">
-			<DisplayName>Torch Dragon</DisplayName>
+			<DisplayName>Dragão da Tocha</DisplayName>
 		</Text>
 		<Text Name="Boss_ZhulongFight">
-			<DisplayName>Torch Dragon</DisplayName>
+			<DisplayName>Dragão da Tocha</DisplayName>
 		</Text>
 		<Text Name="Boss_Zhulong_ShadowFight">
-			<DisplayName>Phantom Battle Zoom</DisplayName>
+			<DisplayName>Batalha Fantasma Zoom</DisplayName>
 		</Text>
 		<Text Name="Boss_Zhulong_YangShadow">
-			<DisplayName>Phantom of Light</DisplayName>
+			<DisplayName>Fantasma da Luz</DisplayName>
 		</Text>
 		<Text Name="Boss_Zhulong_YinShadow">
-			<DisplayName>Phantom of Darkness</DisplayName>
+			<DisplayName>Fantasma da Escuridão</DisplayName>
 		</Text>
 		<Text Name="Boss_Zhulong_LongPuFix">
-			<DisplayName>Fix of Dragon Servant</DisplayName>
+			<DisplayName>Conserto do Servo do Dragão</DisplayName>
 		</Text>
 		<Text Name="Boss_ZhuLong_Part">
-			<DisplayName>Torch Dragon's Body Part</DisplayName>
+			<DisplayName>Parte do Corpo do Dragão da Tocha</DisplayName>
 		</Text>
 		<Text Name="Boss_ZhulongShadow">
-			<DisplayName>Torch Dragon's Shadow</DisplayName>
+			<DisplayName>Sombra do Dragão da Tocha</DisplayName>
 		</Text>
 		<Text Name="Boss_Zhulong_NightGod">
-			<DisplayName>God of Eternal Night</DisplayName>
-			<Desc>Ganhe 1 camada de [Lunarfrost Breath] a cada 6 segundos. Apenas Artefatos e Feitiços de elementos Yang (Fogo, Madeira) podem causar dano total. Artefatos do elemento Terra podem causar uma quantidade menor de dano. O dano causado por Artefatos de elementos Yin será absorvido.</Desc>
+			<DisplayName>Deus da Noite Eterna</DisplayName>
+			<Desc>Ganhe 1 camada de [Respiração de Gelo Lunar] a cada 6 segundos. Apenas Artefatos e Feitiços de elementos Yang (Fogo, Madeira) podem causar dano total. Artefatos do elemento Terra podem causar uma quantidade menor de dano. O dano causado por Artefatos de elementos Yin será absorvido.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_Night">
-			<DisplayName>Lunarfrost Breath</DisplayName>
-			<Desc>Quando Lunarfrost Breath atingir 100 stacks, ele desencadeará as manifestações do demônio interior.</Desc>
+			<DisplayName>Respiração de Gelo Lunar</DisplayName>
+			<Desc>Quando Respiração de Gelo Lunar atingir 100 stacks, ele desencadeará as manifestações do demônio interior.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_DayGod">
-			<DisplayName>God of Eternal Day</DisplayName>
-			<Desc>Ganhe 1 camada de [Solarflare Breath] a cada 6 segundos. Apenas Artefatos e Feitiços de elementos Yin (Metal, Água) podem causar dano total. Artefatos do elemento Terra podem causar uma quantidade menor de dano. O dano causado por Artefatos de elementos Yang será absorvido.</Desc>
+			<DisplayName>Deus do Dia Eterno</DisplayName>
+			<Desc>Ganhe 1 camada de [Respiração de Fogo Solar] a cada 6 segundos. Apenas Artefatos e Feitiços de elementos Yin (Metal, Água) podem causar dano total. Artefatos do elemento Terra podem causar uma quantidade menor de dano. O dano causado por Artefatos de elementos Yang será absorvido.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_Day">
-			<DisplayName>Solarflare Breath</DisplayName>
-			<Desc>Quando Solarflare Breath atingir 100 stacks, ele desencadeará as manifestações da força do karma.</Desc>
+			<DisplayName>Respiração de Fogo Solar</DisplayName>
+			<Desc>Quando Respiração de Fogo Solar atingir 100 stacks, ele desencadeará as manifestações da força do karma.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_Shennian">
-			<DisplayName>Cognitive Oscillation</DisplayName>
+			<DisplayName>Oscilação Cognitiva</DisplayName>
 			<Desc>Cada camada diminui o Estado Mental em 2. Ele será limpo quando o Dragão da Tocha mudar de fase.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_Zuinie">
-			<DisplayName>Sin Entanglement</DisplayName>
+			<DisplayName>Emaranhamento do Pecado</DisplayName>
 			<Desc>Cada camada diminui a Condenação em 2. Ela será eliminada quando o Dragão da Tocha mudar de fase.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_yehuocanshen">
-			<DisplayName>Inferno of Karma</DisplayName>
+			<DisplayName>Inferno do Karma</DisplayName>
 			<Desc>A condenação aumenta em 1000, mas diminui permanentemente em 200 quando termina.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_yehuocanshen_end">
-			<DisplayName>Inferno of Karma</DisplayName>
+			<DisplayName>Inferno do Karma</DisplayName>
 		</Text>
 		<Text Name="Boss_Zhulong_xinlingzezao">
-			<DisplayName>Mind Shielding</DisplayName>
+			<DisplayName>Proteção Mental</DisplayName>
 			<Desc>O Estado Mental é reduzido em 100, mas permanentemente aumentado em 20 quando termina.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_xinlingzezao_end">
-			<DisplayName>Mind Shielding</DisplayName>
+			<DisplayName>Proteção Mental</DisplayName>
 		</Text>
 		<Text Name="Boss_ZhulongIdleEffect">
-			<DisplayName>Torch Dragon Special Effect</DisplayName>
+			<DisplayName>Efeito Especial do Dragão da Tocha</DisplayName>
 		</Text>
 	</List>
 </Texts>

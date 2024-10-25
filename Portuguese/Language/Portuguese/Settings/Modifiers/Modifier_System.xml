@@ -158,71 +158,71 @@
 			<DisplayName>Fundação Construída (Crença)</DisplayName>
 		</Text>
 		<Text Name="BasePracticeAchievements5">
-			<DisplayName>Foundation Built (Physical Training)</DisplayName>
+			<DisplayName>Fundação Construída (Treinamento Físico)</DisplayName>
 		</Text>
 		<Text Name="Sys_Demon">
-			<DisplayName>Demon ([TXT])</DisplayName>
-			<Desc>Demonized for some reason.</Desc>
+			<DisplayName>Demônio ([TXT])</DisplayName>
+			<Desc>Demoniado por algum motivo.</Desc>
 		</Text>
 		<Text Name="FengShui1">
-			<DisplayName>Blessed Land</DisplayName>
+			<DisplayName>Terra Abençoada</DisplayName>
 		</Text>
 		<Text Name="FengShui2">
 			<DisplayName>Very Auspicious</DisplayName>
 		</Text>
 		<Text Name="FengShui3">
-			<DisplayName>Slightly Auspicious</DisplayName>
+			<DisplayName>Levemente Auspicioso</DisplayName>
 		</Text>
 		<Text Name="FengShui4">
-			<DisplayName>Slightly Ominous</DisplayName>
+			<DisplayName>Levemente Ominoso</DisplayName>
 		</Text>
 		<Text Name="FengShui5">
 			<DisplayName>Very Ominous</DisplayName>
 		</Text>
 		<Text Name="FengShui6">
-			<DisplayName>Cursed Land</DisplayName>
+			<DisplayName>Terra Maldita</DisplayName>
 		</Text>
 		<Text Name="Sys_AbsorbGong_5">
-			<DisplayName>Exploitation of External Pleasures</DisplayName>
+			<DisplayName>Exploitação de Prazeres Externos</DisplayName>
 			<Desc>Este alvo foi conjurado com o feitiço Exploração de Prazeres Externos e, portanto, torna-se mais facilmente afetado pelo Humor. Quando em humor extremo (acima de 160 ou abaixo de 40), continuamente fornece Inspiração e Cultivo para o conjurador.</Desc>
 		</Text>
 		<Text Name="Sys_AbsorbGong_6">
-			<DisplayName>Parasite Infection</DisplayName>
-			<Desc>Este alvo foi lançado com o feitiço Soul Infection, fazendo com que toda a sua Fundação seja convertida em Cultivo e alimentada no lançador todos os dias às 0h. Também enfraquece o personagem, diminuindo seus Cinco Atributos e Eficiência Geral do Trabalho.</Desc>
+			<DisplayName>Infecção por Parasitas</DisplayName>
+			<Desc>Este alvo foi lançado com o feitiço Infecção da Alma, fazendo com que toda a sua Fundação seja convertida em Cultivo e alimentada no lançador todos os dias às 0h. Também enfraquece o personagem, diminuindo seus Cinco Atributos e Eficiência Geral do Trabalho.</Desc>
 		</Text>
 		<Text Name="Sys_ShenXiu_Magic_JingXin">
-			<DisplayName>Pacification</DisplayName>
+			<DisplayName>Pacificação</DisplayName>
 			<Desc>O humor dessa pessoa está mais calmo agora.</Desc>
 		</Text>
 		<Text Name="Sys_DaoLv">
-			<DisplayName>Companionship</DisplayName>
+			<DisplayName>Companhia</DisplayName>
 			<Desc>Quando junto com meu companheiro, posso sentir uma forte consonância entre nós, o que aumenta muito a eficiência do Cultivo.</Desc>
 		</Text>
 		<Text Name="Sys_Zombie">
-			<DisplayName>Zombie</DisplayName>
+			<DisplayName>Zumbi</DisplayName>
 		</Text>
 		<Text Name="Sys_Jianglingfenshen">
-			<DisplayName>Descending Doppelganger</DisplayName>
+			<DisplayName>Doppelganger Descendente</DisplayName>
 			<Desc>O doppelganger de um mestre ancestral que serve apenas para lutar em batalha. Vai sair depois de um tempo.</Desc>
 		</Text>
 		<Text Name="Sys_Jianglingjiangdao">
-			<DisplayName>Descending Doppelganger</DisplayName>
+			<DisplayName>Doppelganger Descendente</DisplayName>
 			<Desc>O doppelganger de um mestre ancestral que está dando uma palestra. Vai sair depois de um tempo.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_ZangMenDebuff">
-			<DisplayName>Distressed (Sect Leader)</DisplayName>
+			<DisplayName>Angustiado (Líder da Seita)</DisplayName>
 			<Desc>O Líder da Seita está sentindo muito estresse devido ao pesado fardo de ter que gerenciar a seita, o que causa uma diminuição nas estatísticas relacionadas ao cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Descoberta. Quanto mais ramos a seita tiver, mais pesado será o estresse. Pode ser reduzido até certo ponto dependendo das habilidades de gerenciamento do Líder da Seita.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_TangZhuDebuff">
-			<DisplayName>Distressed (Branch Leader)</DisplayName>
+			<DisplayName>Angustiado (Líder do Ramo)</DisplayName>
 			<Desc>O Líder do Ramo está sentindo muito estresse devido ao pesado fardo de ter que gerenciar os discípulos do ramo, o que causa uma diminuição nas estatísticas relacionadas ao cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Descoberta. Quanto mais discípulos o ramo tiver, mais pesado será o estresse. Pode ser reduzido até certo ponto dependendo das habilidades de gerenciamento do Líder da Seita.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_ZangMenDebuff_Old">
-			<DisplayName>Tired</DisplayName>
+			<DisplayName>Cansado</DisplayName>
 			<Desc>Embora não seja mais o Líder da Seita, o estresse pesado que você suportou ao administrar a seita não deve ser aliviado tão facilmente em um curto período de tempo. Diminui as estatísticas relacionadas ao Cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Descoberta.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_TangZhuDebuff_Old">
-			<DisplayName>Tired</DisplayName>
+			<DisplayName>Cansado</DisplayName>
 			<Desc>Embora não seja mais o Líder de Filial, o grande estresse que você suportou gerenciando a filial não deve ser aliviado tão facilmente em um curto período de tempo. Diminui as estatísticas relacionadas ao cultivo, incluindo estado mental, velocidade de cultivo, velocidade de obtenção de inspiração e chance de descoberta.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_NoAreaBuff">
