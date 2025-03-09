@@ -1,147 +1,147 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="TwoRandom">
-			<DisplayName>Same Boat</DisplayName>
+			<DisplayName>Mesma Barco</DisplayName>
 			<Desc>Ao fugir do massacre, dois discípulos Taiyi, que são apenas conhecidos seus, pediram para se juntar a você.</Desc>
 		</Text>
 		<Text Name="Coma50">
-			<DisplayName>Helping Hand</DisplayName>
+			<DisplayName>Mão Amiga</DisplayName>
 			<Desc>Ao fugir do massacre, um discípulo Taiyi gravemente ferido implorou que você os levasse.</Desc>
 		</Text>
 		<Text Name="Thunder100">
-			<DisplayName>Inclusivity</DisplayName>
-			<Desc>Ao fugir do massacre, um Yaoguai que completou uma metamorfose pediu para se juntar a você.  Eles vão enfrentar a tribulação de mudança de forma em 100 dias.</Desc>
+			<DisplayName>Inclusividade</DisplayName>
+			<Desc>Ao fugir do massacre, um Yaoguai que completou uma metamorfose pediu para se juntar a você. Eles vão enfrentar a tribulação de mudança de forma em 100 dias.</Desc>
 		</Text>
 		<Text Name="HardLeave">
-			<DisplayName>Narrow Escape</DisplayName>
-			<Desc>Ao fugir do massacre, vários discípulos Taiyi, dos quais você conhece pouco, pediram para se juntar a você, e você não tem escolha a não ser levar-los junto.</Desc>
+			<DisplayName>Fuga Apertada</DisplayName>
+			<Desc>Ao fugir do massacre, vários discípulos Taiyi, dos quais você conhece pouco, pediram para se juntar a você, e você não tem escolha a não ser levá-los junto.</Desc>
 		</Text>
 		<Text Name="HotSummer">
-			<DisplayName>Hot Summer</DisplayName>
+			<DisplayName>Verão Quente</DisplayName>
 			<Desc>Devido ao clima anormal, o verão aqui é ainda mais quente.</Desc>
 		</Text>
 		<Text Name="ColdWinter">
-			<DisplayName>Cold Winter</DisplayName>
+			<DisplayName>Inverno Frio</DisplayName>
 			<Desc>Devido ao clima anormal, o inverno aqui é ainda mais frio.</Desc>
 		</Text>
 		<Text Name="OffensiveThunder">
-			<DisplayName>Thunderstorm</DisplayName>
+			<DisplayName>Tempestade de Trovão</DisplayName>
 			<Desc>Devido ao ambiente geográfico anormal, os raios aqui são mais ferozes e tendem a atingir as pessoas com mais frequência.</Desc>
 		</Text>
 		<Text Name="HardNature">
-			<DisplayName>Harsh Weather</DisplayName>
+			<DisplayName>Clima Severos</DisplayName>
 			<Desc>O clima aqui é mais severo em geral.</Desc>
 		</Text>
 		<Text Name="MoreYaoShou2">
-			<DisplayName>Extra Monsters 1</DisplayName>
+			<DisplayName>Monstros Extras 1</DisplayName>
 			<Desc>Gere 1 monstro extra no mapa inicial.</Desc>
 		</Text>
 		<Text Name="MoreYaoShou3">
-			<DisplayName>Extra Monsters 2</DisplayName>
+			<DisplayName>Monstros Extras 2</DisplayName>
 			<Desc>Gere 2 monstros extras no mapa inicial.</Desc>
 		</Text>
 		<Text Name="MoreYaoShou4">
-			<DisplayName>Extra Monsters 3</DisplayName>
+			<DisplayName>Monstros Extras 3</DisplayName>
 			<Desc>Gere 3 monstros extras no mapa inicial.</Desc>
 		</Text>
 		<Text Name="YaoGuaiMore">
-			<DisplayName>Monsters Rampage</DisplayName>
+			<DisplayName>Fúria dos Monstros</DisplayName>
 			<Desc>Gere mais monstros no mapa inicial.</Desc>
 		</Text>
 		<Text Name="BuildMoreCost">
-			<DisplayName>Rough Craft</DisplayName>
+			<DisplayName>Ofício Difícil</DisplayName>
 			<Desc>Os materiais necessários para construir edifícios são duplicados.</Desc>
 		</Text>
 		<Text Name="BuildSlow">
-			<DisplayName>Toil and Moil</DisplayName>
+			<DisplayName>Labuta e Sofrimento</DisplayName>
 			<Desc>A construção é três vezes mais lenta.</Desc>
 		</Text>
 		<Text Name="BuildLessHp">
-			<DisplayName>Weathered</DisplayName>
+			<DisplayName>Desgastado</DisplayName>
 			<Desc>A durabilidade dos edifícios é significativamente reduzida.</Desc>
 		</Text>
 		<Text Name="HardBuild">
-			<DisplayName>Intricate Buildings</DisplayName>
+			<DisplayName>Edifícios Intrincados</DisplayName>
 			<Desc>Dificuldades gerais em relação aos edifícios são levantadas.</Desc>
 		</Text>
 		<Text Name="InferiorFengShui">
-			<DisplayName>Lost Feng Shui</DisplayName>
+			<DisplayName>Feng Shui Perdido</DisplayName>
 			<Desc>Observatório mostra apenas classificações de Feng Shui sem detalhes.</Desc>
 		</Text>
 		<Text Name="InferiorDan">
-			<DisplayName>Lost Alchemy</DisplayName>
-			<Desc>As chances de falhar ao inventar remédios e elixires são aumentadas;  materiais necessários ao inventar são duplicados.</Desc>
+			<DisplayName>Alquimia Perdida</DisplayName>
+			<Desc>As chances de falhar ao inventar remédios e elixires são aumentadas; os materiais necessários ao inventar são duplicados.</Desc>
 		</Text>
 		<Text Name="LostPractice">
-			<DisplayName>Lost Arts</DisplayName>
+			<DisplayName>Artes Perdidas</DisplayName>
 			<Desc>Algumas das profundas artes de cultivo estão perdidas para o mundo.</Desc>
 		</Text>
 		<Text Name="FastRot">
-			<DisplayName>Air of Decay</DisplayName>
+			<DisplayName>Aire de Decomposição</DisplayName>
 			<Desc>As taxas de consideração dos itens são dobradas.</Desc>
 		</Text>
 		<Text Name="HighPrice">
-			<DisplayName>Soaring Prices</DisplayName>
+			<DisplayName>Preços Elevados</DisplayName>
 			<Desc>Os preços de compra dos itens são duplicados.</Desc>
 		</Text>
 		<Text Name="LessGain">
-			<DisplayName>Scant Items</DisplayName>
+			<DisplayName>Itens Escassos</DisplayName>
 			<Desc>Os mapas da região selvagem contêm itens menores.</Desc>
 		</Text>
 		<Text Name="SourceLimit">
-			<DisplayName>Scarce Resources</DisplayName>
+			<DisplayName>Recursos Escassos</DisplayName>
 			<Desc>Os recursos são mais difíceis de encontrar em geral.</Desc>
 		</Text>
 		<Text Name="LessWalker">
-			<DisplayName>Desolate Sect</DisplayName>
+			<DisplayName>Seita Desolada</DisplayName>
 			<Desc>Menos mortais passarão.</Desc>
 		</Text>
 		<Text Name="LessMember">
-			<DisplayName>Simple Sect</DisplayName>
+			<DisplayName>Seita Simples</DisplayName>
 			<Desc>A contagem máxima de discípulos foi reduzida.</Desc>
 		</Text>
 		<Text Name="LessZhaolan">
-			<DisplayName>Restless Age</DisplayName>
-			<Desc>Os mortais estão muito ocupados com assuntos seculares para se dedicarem ao cultivo;  número de discípulos recrutados é reduzido pela metade.</Desc>
+			<DisplayName>Era Inquieta</DisplayName>
+			<Desc>Os mortais estão muito ocupados com assuntos seculares para se dedicarem ao cultivo; o número de discípulos recrutados é reduzido pela metade.</Desc>
 		</Text>
 		<Text Name="LessFiveBase">
-			<DisplayName>Talent Shortage</DisplayName>
+			<DisplayName>Escassez de Talento</DisplayName>
 			<Desc>Os mortais geralmente têm menos talento.</Desc>
 		</Text>
 		<Text Name="DaoShuai">
-			<DisplayName>Hard Times</DisplayName>
+			<DisplayName>Tempos Difíceis</DisplayName>
 			<Desc>Sempre é mais difícil recrutar discípulos talentosos.</Desc>
 		</Text>
 		<Text Name="LessWalkTrader">
-			<DisplayName>Tricky Path</DisplayName>
-			<Desc>Os viajantes viajantes visitam com menos frequência.</Desc>
+			<DisplayName>Caminho Difícil</DisplayName>
+			<Desc>Os viajantes visitam com menos frequência.</Desc>
 		</Text>
 		<Text Name="LessWalkLStone">
-			<DisplayName>Currency Crisis</DisplayName>
+			<DisplayName>Crise de Moeda</DisplayName>
 			<Desc>O mercador viajante carrega menos pedras espirituais.</Desc>
 		</Text>
 		<Text Name="StrictWalker">
-			<DisplayName>Limited Deal</DisplayName>
+			<DisplayName>Negócio Limitado</DisplayName>
 			<Desc>Para cada visita, os comerciantes viajantes comprarão apenas um tipo de item de você.</Desc>
 		</Text>
 		<Text Name="StrictWTrader">
-			<DisplayName>Mean Merchants</DisplayName>
+			<DisplayName>Comerciantes Cruéis</DisplayName>
 			<Desc>Geralmente é mais difícil negociar com comerciantes viajantes.</Desc>
 		</Text>
 		<Text Name="MoreElementWeather">
-			<DisplayName>Element Chaos</DisplayName>
+			<DisplayName>Caos Elementar</DisplayName>
 			<Desc>Desastres de cinco elementos ocorrem com mais frequência.</Desc>
 		</Text>
 		<Text Name="LessLingWeather">
-			<DisplayName>Qi Ebb</DisplayName>
+			<DisplayName>Ebb de Qi</DisplayName>
 			<Desc>Secas de Qi ocorrem com mais frequência e suas durações são aumentadas.</Desc>
 		</Text>
 		<Text Name="ForeverNight20">
-			<DisplayName>Yin Yang Chaos</DisplayName>
+			<DisplayName>Caos Yin Yang</DisplayName>
 			<Desc>A noite polar ocorre todos os anos em um horário fixo.</Desc>
 		</Text>
 		<Text Name="TianDaoWenLuan">
-			<DisplayName>Tao Disorder</DisplayName>
+			<DisplayName>Desordem do Tao</DisplayName>
 			<Desc>Climas especiais são geralmente mais difíceis de lidar.</Desc>
 		</Text>
 		<Text Name="PetReviveInterval">
@@ -149,200 +149,200 @@
 			<Desc>Leva mais tempo para um animal de estimação espiritual ressuscitar.</Desc>
 		</Text>
 		<Text Name="PetLingMax">
-			<DisplayName>Disturbed Qi</DisplayName>
+			<DisplayName>Qi Perturbado</DisplayName>
 			<Desc>O limite de Qi do animal de estimação espiritual diminui.</Desc>
 		</Text>
 		<Text Name="PetFabao">
-			<DisplayName>Loose Core</DisplayName>
-			<Desc>O poder do núcleo interno e dos feitiços do Spirit Pet diminui.</Desc>
+			<DisplayName>Núcleo Solto</DisplayName>
+			<Desc>O poder do núcleo interno e dos feitiços do Animal de Estimação Espiritual diminui.</Desc>
 		</Text>
 		<Text Name="PetWeak">
-			<DisplayName>Frail Pets</DisplayName>
+			<DisplayName>Animais de Estimação Fracos</DisplayName>
 			<Desc>Animais de estimação espirituais são geralmente mais fracos.</Desc>
 		</Text>
 		<Text Name="FavorDown">
-			<DisplayName>Agent Clash</DisplayName>
+			<DisplayName>Conflito de Agentes</DisplayName>
 			<Desc>Atribuir agências diminui a reputação da seita.</Desc>
 		</Text>
 		<Text Name="ColdMan">
-			<DisplayName>Cold Hearts</DisplayName>
+			<DisplayName>Corações Frios</DisplayName>
 			<Desc>Mais personagens no reino mortal são de personalidade Retraída.</Desc>
 		</Text>
 		<Text Name="NoTeacher">
-			<DisplayName>All by My Self</DisplayName>
+			<DisplayName>Sozinho</DisplayName>
 			<Desc>O Cultivador Misterioso não aparece mais.</Desc>
 		</Text>
 		<Text Name="ColdMortal">
-			<DisplayName>Cold World</DisplayName>
+			<DisplayName>Mundo Frio</DisplayName>
 			<Desc>O mundo se torna um lugar mais frio em geral.</Desc>
 		</Text>
 		<Text Name="YaoComing1">
-			<DisplayName>Yaoguai Attack: 160th day.</DisplayName>
+			<DisplayName>Ataque de Yaoguai: 160º dia.</DisplayName>
 			<Desc>Uma horda de Yaoguai ataca sua seita no 160º dia.</Desc>
 		</Text>
 		<Text Name="YaoComing2">
-			<DisplayName>Yaoguai Attack: 120th day.</DisplayName>
+			<DisplayName>Ataque de Yaoguai: 120º dia.</DisplayName>
 			<Desc>Uma horda de Yaoguai ataca sua seita no 120º dia.</Desc>
 		</Text>
 		<Text Name="YaoComing3">
-			<DisplayName>Yaoguai Attack: 80th day.</DisplayName>
+			<DisplayName>Ataque de Yaoguai: 80º dia.</DisplayName>
 			<Desc>Uma horda de Yaoguai ataca sua seita no 80º dia.</Desc>
 		</Text>
 		<Text Name="YaoGuaiComing">
-			<DisplayName>Yaoguai Raids</DisplayName>
+			<DisplayName>Incursões de Yaoguai</DisplayName>
 			<Desc>Os monstros violentos atacarão sua seita.</Desc>
 		</Text>
 		<Text Name="KillerComing1">
-			<DisplayName>Taiyi Hunter: Day 250</DisplayName>
-			<Desc>Mesmo após a destruição da Taiyi Sect, ainda há um monte de figuras misteriosas caçando seus remanescentes.  Um grupo deles chegará no dia 250.</Desc>
+			<DisplayName>Caçador Taiyi: Dia 250</DisplayName>
+			<Desc>Mesmo após a destruição da Seita Taiyi, ainda há um monte de figuras misteriosas caçando seus remanescentes. Um grupo deles chegará no dia 250.</Desc>
 		</Text>
 		<Text Name="KillerComing2">
-			<DisplayName>Taiyi Hunter: Day 200</DisplayName>
-			<Desc>Mesmo após a destruição da Taiyi Sect, ainda há um monte de figuras misteriosas caçando seus remanescentes.  Um grupo deles chegará no 200º dia.</Desc>
+			<DisplayName>Caçador Taiyi: Dia 200</DisplayName>
+			<Desc>Mesmo após a destruição da Seita Taiyi, ainda há um monte de figuras misteriosas caçando seus remanescentes. Um grupo deles chegará no 200º dia.</Desc>
 		</Text>
 		<Text Name="KillerComing3">
-			<DisplayName>Taiyi Hunter: Day 150</DisplayName>
-			<Desc>Mesmo após a destruição da Taiyi Sect, ainda há um monte de figuras misteriosas caçando seus remanescentes.  Um grupo deles chegará no 150º dia.</Desc>
+			<DisplayName>Caçador Taiyi: Dia 150</DisplayName>
+			<Desc>Mesmo após a destruição da Seita Taiyi, ainda há um monte de figuras misteriosas caçando seus remanescentes. Um grupo deles chegará no 150º dia.</Desc>
 		</Text>
 		<Text Name="KillerComing">
-			<DisplayName>Taiyi Hunters</DisplayName>
-			<Desc>Mesmo após a destruição da Taiyi Sect, ainda há um monte de figuras misteriosas caçando seus remanescentes.</Desc>
+			<DisplayName>Caçadores Taiyi</DisplayName>
+			<Desc>Mesmo após a destruição da Seita Taiyi, ainda há um monte de figuras misteriosas caçando seus remanescentes.</Desc>
 		</Text>
 		<Text Name="SoonDragon1">
-			<DisplayName>Mysterious Cavern: Day 160</DisplayName>
+			<DisplayName>Caverna Misteriosa: Dia 160</DisplayName>
 			<Desc>A Caverna Misteriosa aparece no 160º dia.</Desc>
 		</Text>
 		<Text Name="SoonDragon2">
-			<DisplayName>Mysterious Cavern: Day 80</DisplayName>
+			<DisplayName>Caverna Misteriosa: Dia 80</DisplayName>
 			<Desc>A Caverna Misteriosa aparece no 80º dia.</Desc>
 		</Text>
 		<Text Name="SoonDragon3">
-			<DisplayName>Mysterious Cavern: Day 30</DisplayName>
+			<DisplayName>Caverna Misteriosa: Dia 30</DisplayName>
 			<Desc>A Caverna Misteriosa aparece no 30º dia.</Desc>
 		</Text>
 		<Text Name="SoonDragon">
-			<DisplayName>Cavern Calamity</DisplayName>
+			<DisplayName>Calamidade da Caverna</DisplayName>
 			<Desc>A Caverna Misteriosa aparece antes.</Desc>
 		</Text>
 		<Text Name="RequiredSacrifice">
-			<DisplayName>Dragon's Might</DisplayName>
+			<DisplayName>Poder do Dragão</DisplayName>
 			<Desc>As Cavernas Misteriosas não podem mais ser suprimidas.</Desc>
 		</Text>
 		<Text Name="Basfff">
-			<DisplayName>Good Appetite</DisplayName>
+			<DisplayName>Bom Apetite</DisplayName>
 			<Desc>A Caverna Misteriosa exige mais.</Desc>
 		</Text>
 		<Text Name="ThunderBeast">
-			<DisplayName>Thunder Might</DisplayName>
+			<DisplayName>Poder do Trovão</DisplayName>
 			<Desc>Tempestades ocorrem com mais frequência.</Desc>
 		</Text>
 		<Text Name="StrictDragon">
-			<DisplayName>Ancient Awe</DisplayName>
+			<DisplayName>Admiração Antiga</DisplayName>
 			<Desc>A Caverna Misteriosa é mais difícil de lidar em geral.</Desc>
 		</Text>
 		<Text Name="LowerPointEvent">
-			<DisplayName>Hard Policy</DisplayName>
+			<DisplayName>Política Dura</DisplayName>
 			<Desc>Os eventos de política ocorrem com menos frequência.</Desc>
 		</Text>
 		<Text Name="MoreBuilding">
-			<DisplayName>Life of Luxury</DisplayName>
+			<DisplayName>Vida de Luxo</DisplayName>
 			<Desc>Os custos dos edifícios da agência são duplicados.</Desc>
 		</Text>
 		<Text Name="MorePolicy">
-			<DisplayName>Bureaucracy</DisplayName>
+			<DisplayName>Burocracia</DisplayName>
 			<Desc>Os custos das apólices são duplicados.</Desc>
 		</Text>
 		<Text Name="MoreMortal">
-			<DisplayName>Worldly Chores</DisplayName>
+			<DisplayName>Afazeres Mundanos</DisplayName>
 			<Desc>Questões relativas a agências são mais difíceis de lidar em geral.</Desc>
 		</Text>
 		<Text Name="LowFavor">
-			<DisplayName>Out of League</DisplayName>
+			<DisplayName>Fora de Alcance</DisplayName>
 			<Desc>Os favores iniciais das seitas NPC são reduzidos.</Desc>
 		</Text>
 		<Text Name="HardFavor">
-			<DisplayName>Wary Eyes</DisplayName>
+			<DisplayName>Olhos Cautelosos</DisplayName>
 			<Desc>Os favores das seitas NPC aumentam mais lentamente.</Desc>
 		</Text>
 		<Text Name="MorePoint">
-			<DisplayName>Impersonal</DisplayName>
+			<DisplayName>Impersonalidade</DisplayName>
 			<Desc>Requer mais conexões para negociar com seitas NPC.</Desc>
 		</Text>
 		<Text Name="ColdRealm">
-			<DisplayName>Emotionless Immortals</DisplayName>
+			<DisplayName>Imortais Sem Emoção</DisplayName>
 			<Desc>Geralmente é mais difícil negociar com outras seitas.</Desc>
 		</Text>
 		<Text Name="NoLimit1">
-			<DisplayName>It gets harder</DisplayName>
+			<DisplayName>Está ficando mais difícil</DisplayName>
 			<Desc>Atacaques inimigos são cada vez mais fortes.</Desc>
 		</Text>
 		<Text Name="NoLimit">
-			<DisplayName>It gets harder</DisplayName>
+			<DisplayName>Está ficando mais difícil</DisplayName>
 			<Desc>Atacaques inimigos são cada vez mais fortes.</Desc>
 		</Text>
 		<Text Name="SchoolPower1">
-			<DisplayName>3x Sect Power</DisplayName>
+			<DisplayName>Poder da Seita 3x</DisplayName>
 			<Desc>Todas as seitas NPC têm seu poder aumentado em 200%.</Desc>
 		</Text>
 		<Text Name="SchoolPower2">
-			<DisplayName>6x Sect Power</DisplayName>
+			<DisplayName>Poder da Seita 6x</DisplayName>
 			<Desc>Todas as seitas NPC têm seu poder aumentado em 500%.</Desc>
 		</Text>
 		<Text Name="SchoolPower3">
-			<DisplayName>9x Sect Power</DisplayName>
+			<DisplayName>Poder da Seita 9x</DisplayName>
 			<Desc>Todas as seitas NPC são mais fortes.</Desc>
 		</Text>
 		<Text Name="SchoolPower">
-			<DisplayName>Immortal Might</DisplayName>
+			<DisplayName>Poder Imortal</DisplayName>
 			<Desc>Todos os NPC da seita são fortes.</Desc>
 		</Text>
 		<Text Name="DragonPower1">
-			<DisplayName>2x Jiao-dragon power</DisplayName>
+			<DisplayName>Poder do Dragão Jiao 2x</DisplayName>
 			<Desc>2x poder do dragão Jiao</Desc>
 		</Text>
 		<Text Name="DragonPower2">
-			<DisplayName>3x Jiao-dragon power</DisplayName>
+			<DisplayName>Poder do Dragão Jiao 3x</DisplayName>
 			<Desc>3x poder do dragão Jiao</Desc>
 		</Text>
 		<Text Name="DragonPower3">
-			<DisplayName>4x Jiao-dragon power</DisplayName>
+			<DisplayName>Poder do Dragão Jiao 4x</DisplayName>
 			<Desc>4x poder do dragão Jiao</Desc>
 		</Text>
 		<Text Name="DragonPower">
-			<DisplayName>Might of Water</DisplayName>
+			<DisplayName>Poder da Água</DisplayName>
 			<Desc>Jiao-dragão é mais forte.</Desc>
 		</Text>
 		<Text Name="FengPower1">
-			<DisplayName>2x Phoenix power</DisplayName>
+			<DisplayName>Poder da Fênix 2x</DisplayName>
 			<Desc>2x poder da Fênix</Desc>
 		</Text>
 		<Text Name="FengPower2">
-			<DisplayName>3x Phoenix power</DisplayName>
+			<DisplayName>Poder da Fênix 3x</DisplayName>
 			<Desc>3x poder da Fênix</Desc>
 		</Text>
 		<Text Name="FengPower3">
-			<DisplayName>4x Phoenix power</DisplayName>
+			<DisplayName>Poder da Fênix 4x</DisplayName>
 			<Desc>4x poder da Fênix</Desc>
 		</Text>
 		<Text Name="FengPower">
-			<DisplayName>Might of Fire</DisplayName>
+			<DisplayName>Poder do Fogo</DisplayName>
 			<Desc>Fênix é forte.</Desc>
 		</Text>
 		<Text Name="ZhulongPower1">
-			<DisplayName>2x Torch Dragon power</DisplayName>
+			<DisplayName>Poder do Dragão da Tocha 2x</DisplayName>
 			<Desc>2x Poder do Dragão da Tocha</Desc>
 		</Text>
 		<Text Name="ZhulongPower2">
-			<DisplayName>3x Torch Dragon power</DisplayName>
+			<DisplayName>Poder do Dragão da Tocha 3x</DisplayName>
 			<Desc>3x Poder do Dragão da Tocha</Desc>
 		</Text>
 		<Text Name="ZhulongPower3">
-			<DisplayName>4x Torch Dragon power</DisplayName>
+			<DisplayName>Poder do Dragão da Tocha 4x</DisplayName>
 			<Desc>4x Poder do Dragão da Tocha</Desc>
 		</Text>
 		<Text Name="ZhulongPower">
-			<DisplayName>Yin Yang Might</DisplayName>
-			<Desc>Dragão da toca é forte.</Desc>
+			<DisplayName>Poder Yin Yang</DisplayName>
+			<Desc>Dragão da Tocha é forte.</Desc>
 		</Text>
 	</List>
 </Texts>

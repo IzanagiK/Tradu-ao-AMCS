@@ -1,25 +1,25 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="JobAIPathMove">
-			<DisplayName>Mover</DisplayName>
+			<DisplayName>Movimento</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIFree">
-			<DisplayName>Andar</DisplayName>
+			<DisplayName>Vagar</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIStay">
-			<DisplayName>Ficar</DisplayName>
+			<DisplayName>Permanecer</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIRoute">
 			<DisplayName>Patrulhar</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIPatrol">
-			<DisplayName>Perambular</DisplayName>
+			<DisplayName>Vagar</DisplayName>
 		</Text>
 		<Text Name="JobRPGPlayerMove">
-			<DisplayName>Mover</DisplayName>
+			<DisplayName>Movimento</DisplayName>
 		</Text>
 		<Text Name="JobRPGOpt">
-			<DisplayName>Mover</DisplayName>
+			<DisplayName>Movimento</DisplayName>
 		</Text>
 		<Text Name="JobRPGMine">
 			<DisplayName>Minerar</DisplayName>
@@ -40,13 +40,13 @@
 			<DisplayName>Equipar</DisplayName>
 		</Text>
 		<Text Name="JobRPGPassiveMove">
-			<DisplayName>Mover</DisplayName>
+			<DisplayName>Movimento</DisplayName>
 		</Text>
 		<Text Name="JobRPGMoveTo">
-			<DisplayName>Mover para</DisplayName>
+			<DisplayName>Ir Para</DisplayName>
 		</Text>
 		<Text Name="JobRPGSlaughter">
-			<DisplayName>Tirar Carne</DisplayName>
+			<DisplayName>Abater</DisplayName>
 		</Text>
 	</List>
 </Texts>

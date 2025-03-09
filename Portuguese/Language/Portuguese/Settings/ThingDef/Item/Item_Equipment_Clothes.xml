@@ -1,66 +1,66 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="ClothesBase" sParam="Item">
-			<Item.FabaoSuffix>Clothes, Armor, Robe, Shirt</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Roupas, Armadura, Robe, Camisa</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SummerClothes" sParam="Item">
-			<ThingName>Thin Shirt</ThingName>
+			<ThingName>Camisa Fina</ThingName>
 			<Desc>Roupa muito respirável, mas também protege um pouco do frio.</Desc>
 		</Text>
 		<Text Name="Item_SilkClothes" sParam="Item">
-			<ThingName>Summer Shirt</ThingName>
+			<ThingName>Camisa de Verão</ThingName>
 			<Desc>Roupas refrescantes e relaxantes, com uma sensação agradável de usar.</Desc>
 		</Text>
 		<Text Name="Item_PracticeClothes" sParam="Item">
-			<ThingName>Sect Uniform</ThingName>
+			<ThingName>Uniforme da Seita</ThingName>
 			<Desc>Uniforme padrão de uma seita, permite ficar relativamente quente, mas não é muito respirável.</Desc>
 		</Text>
 		<Text Name="Item_FormalClothes" sParam="Item">
-			<ThingName>Casual Shirt</ThingName>
+			<ThingName>Camisa Casual</ThingName>
 			<Desc>Roupas casuais para o dia a dia, permitem que a pessoa fique relativamente quente, mas não é muito respirável.</Desc>
 		</Text>
 		<Text Name="Item_WinterClothes" sParam="Item">
-			<ThingName>Winter Shirt</ThingName>
+			<ThingName>Camisa de Inverno</ThingName>
 			<Desc>Roupas grossas e sólidas, permitem que você fique absolutamente aquecido.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes1" sParam="Item">
-			<ThingName>Scale Tunic</ThingName>
+			<ThingName>Túnica de Escamas</ThingName>
 			<Desc>Pano mágico tecido com escamas de dragão. Usá-lo aumenta o nível de habilidade de proteção.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes2" sParam="Item">
-			<ThingName>Shadow Tunic</ThingName>
+			<ThingName>Túnica das Sombras</ThingName>
 			<Desc>Pano mágico com puro poder Yin concentrado. Usá-lo aumenta o nível de habilidade de Feitiço.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes3" sParam="Item">
-			<ThingName>Cinder Tunic</ThingName>
+			<ThingName>Túnica de Cinzas</ThingName>
 			<Desc>Pano mágico com puro poder Yang concentrado. Usá-lo aumenta o nível de habilidade de Domínio de Artefato.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes4" sParam="Item">
-			<ThingName>Shroud Tunic</ThingName>
+			<ThingName>Túnica de Véu</ThingName>
 			<Desc>Pano mágico capaz de enganar os caminhos do céu. Usá-lo diminui a Realização.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes5" sParam="Item">
-			<ThingName>Feather Tunic</ThingName>
+			<ThingName>Túnica de Penas</ThingName>
 			<Desc>Pano mágico com poder de dissipação do mal. Usá-lo pode melhorar o estado mental, expulsando os demônios internos da mente.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes6" sParam="Item">
-			<ThingName>Golden Tunic</ThingName>
+			<ThingName>Túnica Dourada</ThingName>
 			<Desc>Pano mágico com puro poder Yang concentrado. Usá-lo aumenta o nível de habilidade de Domínio de Artefato.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes7" sParam="Item">
-			<ThingName>Firebath Tunic</ThingName>
-			<Desc>Pano mágico costurado com o couro de Blaze Rats. Usá-lo pode melhorar o nível de habilidade de proteção e reduzir efetivamente o dano de fogo.</Desc>
+			<ThingName>Túnica de Banho de Fogo</ThingName>
+			<Desc>Pano mágico costurado com o couro de Ratos Blaze. Usá-lo pode melhorar o nível de habilidade de proteção e reduzir efetivamente o dano de fogo.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes8" sParam="Item">
-			<ThingName>Robe of Flow</ThingName>
+			<ThingName>Túnica do Fluxo</ThingName>
 			<Desc>Pano mágico capaz de enganar os caminhos do céu. Usá-lo diminui a Realização.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes9" sParam="Item">
-			<ThingName>Specter Tunic</ThingName>
+			<ThingName>Túnica do Espectro</ThingName>
 			<Desc>Pano mágico com puro poder Yin concentrado. Usá-lo aumenta o nível de habilidade de Feitiço.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes10" sParam="Item">
-			<ThingName>Crane Tunic</ThingName>
+			<ThingName>Túnica da Garça</ThingName>
 			<Desc>Pano mágico com poder de dissipação do mal. Usá-lo pode melhorar o estado mental, expulsando os demônios internos da mente.</Desc>
 		</Text>
 	</List>

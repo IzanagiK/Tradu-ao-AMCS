@@ -1,13 +1,13 @@
-﻿talk	notarget	int	string	float	thing
-NotEat_Item_WuDang_HuangJingFen	Eu não vou comer o Soil Essence Powder				
-NotEat_Item_Dan_WuQiNoHunger2	Eu não vou comer a pílula de jejum de Qi				
-NotEat_Item_Dan_SanHuaHuangJing	Eu não vou comer a Trimerous Essence Pill				
-WannaEat_Item_WuDang_HuangJingFen	Eu quero comer o Soil Essence Powder				
-WannaEat_Item_Dan_WuQiNoHunger2	Eu quero comer a pílula de jejum de Qi				
-WannaEat_Item_Dan_SanHuaHuangJing	Eu quero comer a Trimerous Essence Pill				
-DoTalkEat_Item_WuDang_HuangJingFen					Estou comendo o Soil Essence Powder
-DoTalkEat_Item_Dan_WuQiNoHunger2					Estou comendo a pílula de jejum Qi
-DoTalkEat_Item_Dan_SanHuaHuangJing					estou comendo o
-CantEat_Item_WuDang_HuangJingFen	Não consigo encontrar um Soil Essence Powder				
-CantEat_Item_Dan_WuQiNoHunger2	Não consigo encontrar uma pílula de jejum de Qi para comer				
-CantEat_Item_Dan_SanHuaHuangJing	Não consigo encontrar uma Trimerous Essence Pill para comer				
+﻿talk	notarget	thing
+NotEat_Item_WuDang_HuangJingFen	Eu não vou comer o Pó da Essência do Solo				
+NotEat_Item_Dan_WuQiNoHunger2	Eu não vou comer a Pílula de Jejum de Qi				
+NotEat_Item_Dan_SanHuaHuangJing	Eu não vou comer a Pílula da Essência Trimerosa				
+WannaEat_Item_WuDang_HuangJingFen	Eu quero comer o Pó da Essência do Solo				
+WannaEat_Item_Dan_WuQiNoHunger2	Eu quero comer a Pílula de Jejum de Qi				
+WannaEat_Item_Dan_SanHuaHuangJing	Eu quero comer a Pílula da Essência Trimerosa				
+DoTalkEat_Item_WuDang_HuangJingFen					Estou comendo o Pó da Essência do Solo
+DoTalkEat_Item_Dan_WuQiNoHunger2					Estou comendo a Pílula de Jejum de Qi
+DoTalkEat_Item_Dan_SanHuaHuangJing					Estou comendo a Pílula da Essência Trimerosa
+CantEat_Item_WuDang_HuangJingFen	Não consigo encontrar o Pó da Essência do Solo				
+CantEat_Item_Dan_WuQiNoHunger2	Não consigo encontrar uma Pílula de Jejum de Qi para comer				
+CantEat_Item_Dan_SanHuaHuangJing	Não consigo encontrar uma Pílula da Essência Trimerosa para comer				

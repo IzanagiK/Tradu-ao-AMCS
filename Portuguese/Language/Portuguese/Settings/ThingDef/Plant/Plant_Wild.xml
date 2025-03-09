@@ -1,35 +1,35 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Grass" sParam="Plant">
-			<ThingName>Grass</ThingName>
+			<ThingName>Erva</ThingName>
 			<Desc>Erva selvagem.</Desc>
 		</Text>
 		<Text Name="IceGrass" sParam="Plant">
-			<ThingName>Icegrass</ThingName>
+			<ThingName>Erva Gélida</ThingName>
 			<Desc>Erva selvagem que cresce em planícies geladas.</Desc>
 		</Text>
 		<Text Name="Reed" sParam="Plant">
-			<ThingName>Reed</ThingName>
+			<ThingName>Junco</ThingName>
 			<Desc>Planta que cresce à beira de um lago ou rio, com valor estético.</Desc>
 		</Text>
 		<Text Name="LongGrass" sParam="Plant">
-			<ThingName>Long Grass</ThingName>
+			<ThingName>Erva Alta</ThingName>
 			<Desc>Erva selvagem.</Desc>
 		</Text>
 		<Text Name="Raspberry" sParam="Plant">
-			<ThingName>Amber Fruit</ThingName>
+			<ThingName>Fruto Âmbar</ThingName>
 			<Desc>Fruta selvagem regada com saliva de dragão. Tem um efeito espiritual especial, impedindo que se sinta com fome ou exausto durante meio dia depois de o comer. No entanto, os frutos apodrecem rapidamente depois de colhidos.</Desc>
 		</Text>
 		<Text Name="Lotus" sParam="Plant">
-			<ThingName>Lotus</ThingName>
+			<ThingName>Lótus</ThingName>
 			<Desc>Planta que cresce na água, tendo valor estético. A sua raiz é comestível.</Desc>
 		</Text>
 		<Text Name="LittleRock" sParam="Plant">
-			<ThingName>Little Rock</ThingName>
+			<ThingName>Pedrinha</ThingName>
 			<Desc>Pequenas rochas espalhadas no solo.</Desc>
 		</Text>
 		<Text Name="IceLittleRock" sParam="Plant">
-			<ThingName>Small Icerock</ThingName>
+			<ThingName>Pedrinha de Gelo</ThingName>
 			<Desc>Pequenas rochas espalhadas no solo.</Desc>
 		</Text>
 	</List>

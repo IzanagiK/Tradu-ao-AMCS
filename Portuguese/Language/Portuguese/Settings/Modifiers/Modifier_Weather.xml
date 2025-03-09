@@ -49,7 +49,7 @@
 			<DisplayName>Vento Föhn</DisplayName>
 		</Text>
 		<Text Name="Weather_DustStorm">
-			<DisplayName>Tempestade de Poeira</DisplayName>
+			<DisplayName>Diabo de Poeira</DisplayName>
 		</Text>
 		<Text Name="Weather_LingRarefiedWave">
 			<DisplayName>Seca de Qi</DisplayName>
@@ -91,142 +91,143 @@
 			<DisplayName>Égide do Grande Mestre</DisplayName>
 		</Text>
 		<Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
-			<DisplayName>Qi Aquasphere</DisplayName>
-			<Desc>Aumente consideravelmente a velocidade de recuperação do seu Qi e Resiliência Natural enquanto estiver dentro do Qi Aquasphere.</Desc>
+			<DisplayName>Esfera Aquática de Qi</DisplayName>
+			<Desc>Aumente consideravelmente a velocidade de recuperação do seu Qi e Resiliência Natural enquanto estiver dentro da Esfera Aquática de Qi.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Magic_BeiDouJianJie">
-			<DisplayName>Grand Chariot Bladezone</DisplayName>
-			<Desc>Aumente bastante seu Poder de Artefato enquanto estiver dentro da Grande Chariot Bladezone.</Desc>
+			<DisplayName>Zona de Lâmina do Carro Grande</DisplayName>
+			<Desc>Aumente bastante seu Poder de Artefato enquanto estiver dentro da Zona de Lâmina do Carro Grande.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
-			<DisplayName>Qi Ignosphere</DisplayName>
+			<DisplayName>Ignosfera de Qi</DisplayName>
 			<Desc>Aumente muito seu poder mágico enquanto estiver na Ignosfera de Qi.</Desc>
+		</Text>
 		<Text Name="Modifier_Weather_Season_DanQi">
-			<DisplayName>Alchemy Qi Overflowing</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_Wu">
-			<DisplayName>Alchemy Qi Overflowing (Primordial Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi Primordial)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, o nível de cultivo diminui, a velocidade de aprendizado aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_Jin">
-			<DisplayName>Alchemy Qi Overflowing (Metallic Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi Metálico)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_Mu">
-			<DisplayName>Alchemy Qi Overflowing (Wood Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi de Madeira)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_Shui">
-			<DisplayName>Alchemy Qi Overflowing (Water Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi da Água)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_Huo">
-			<DisplayName>Alchemy Qi Overflowing (Fire Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi do Fogo)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_Tu">
-			<DisplayName>Alchemy Qi Overflowing (Earth Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi da Terra)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinMu">
-			<DisplayName>Alchemy Qi Overflowing (Exhausting Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi Esgotante)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de corte de madeira e colheita aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinShui">
-			<DisplayName>Alchemy Qi Overflowing (Surging Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi Emersa)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de artesanato e costura aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinHuo">
-			<DisplayName>Alchemy Qi Overflowing (Melting Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi Derretente)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de mineração aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinTu">
-			<DisplayName>Alchemy Qi Overflowing (Accumulating Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi Acumulante)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, o rendimento da mineração aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_MuShui">
-			<DisplayName>Alchemy Qi Overflowing (Breeding Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi de Criação)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, o rendimento da colheita aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_MuHuo">
-			<DisplayName>Alchemy Qi Overflowing (Full Blaze Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi de Chama Completa)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de forjamento e cozimento aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_MuTu">
-			<DisplayName>Alchemy Qi Overflowing (Stabilizing Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi de Estabilização)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de construção aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_ShuiHuo">
-			<DisplayName>Alchemy Qi Overflowing (Waning Flame Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi de Chama Minguante)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de socorro em desastres e a taxa de sucesso aumentam.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_ShuiTu">
-			<DisplayName>Alchemy Qi Overflowing (Overflowing Qi)</DisplayName>
+			<DisplayName>Qi de Alquimia Transbordante (Qi Transbordante)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, os efeitos esperados de cura e recuperação natural aumentam.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_HuoTu">
-			<DisplayName>Alchemy Qi Overflowing (Ashen Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi das Cinzas)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de demolição e processamento de pedra aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinMuShui">
-			<DisplayName>Alchemy Qi Overflowing (Jia Wood Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi da Madeira Jia)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a compatibilidade da técnica do atributo madeira aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinMuHuo">
-			<DisplayName>Alchemy Qi Overflowing (Yi Wood Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi da Madeira Yi)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, o rendimento da alquimia aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinMuTu">
-			<DisplayName>Alchemy Qi Overflowing (Ji Earth Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi da Terra Ji)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de construção da fundação, a velocidade de cultivo e o valor do estado mental aumentam.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinShuiHuo">
-			<DisplayName>Alchemy Qi Overflowing (Xin Metal Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi do Metal Xin)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a taxa de sucesso do refinamento de artefatos aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinShuiTu">
-			<DisplayName>Alchemy Qi Overflowing (Ren Water Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi da Água Ren)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a compatibilidade da técnica do atributo água aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_JinHuoTu">
-			<DisplayName>Alchemy Qi Overflowing (Kui Metal Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi do Metal Kui)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a compatibilidade da técnica do atributo metal aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_MuShuiHuo">
-			<DisplayName>Alchemy Qi Overflowing (Bing Fire Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi do Fogo Bing)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a compatibilidade da técnica do atributo fogo aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_MuShuiTu">
-			<DisplayName>Alchemy Qi Overflowing (Gui Water Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi da Água Gui)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de refinamento de pílulas aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_MuHuoTu">
-			<DisplayName>Alchemy Qi Overflowing (Wu Earth Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi da Terra Wu)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a compatibilidade da técnica do atributo terra aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_ShuiHuoTu">
-			<DisplayName>Alchemy Qi Overflowing (Ding Fire Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi do Fogo Ding)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia, a velocidade de refinamento de tesouros mágicos aumenta.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_NoJin">
-			<DisplayName>Alchemy Qi Overflowing (Metal Sever Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi do Metal Sever)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_NoMu">
-			<DisplayName>Alchemy Qi Overflowing (Wood Sever Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi da Madeira Sever)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_NoShui">
-			<DisplayName>Alchemy Qi Overflowing (Water Sever Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi da Água Sever)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_NoHuo">
-			<DisplayName>Alchemy Qi Overflowing (Fire Sever Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi do Fogo Sever)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Elixir_NoTu">
-			<DisplayName>Alchemy Qi Overflowing (Earth Sever Qi)</DisplayName>
+			<DisplayName>Overflow de Qi da Alquimia (Qi da Terra Sever)</DisplayName>
 			<Desc>Cercado por um rico Qi de Alquimia.</Desc>
 		</Text>
 	</List>

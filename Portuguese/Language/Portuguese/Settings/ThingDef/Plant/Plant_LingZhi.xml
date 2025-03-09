@@ -1,54 +1,54 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="LingZhi_Huo" sParam="Plant">
-			<ThingName>Fire Spirit Root: Crimson Fruit Tree</ThingName>
-			<Desc>The plant of Crimson Fruit, an Elemental Medicine. Grows in a place with dense Qi, compatible element and fertile soil. For its special trait, it has to grow in an environment above [temperature]200[/temperature].</Desc>
+			<ThingName>Raiz Espiritual de Fogo: Árvore do Fruto Carmesim</ThingName>
+			<Desc>A planta do Fruto Carmesim, um remédio elemental. Cresce em um lugar com Qi denso, elemento compatível e solo fértil. Devido à sua característica especial, precisa crescer em um ambiente acima de [temperature]200[/temperature].</Desc>
 		</Text>
 		<Text Name="LingZhi_Jin" sParam="Plant">
-			<ThingName>Metal Spirit Root: Sagacity Tree</ThingName>
-			<Desc>The plant of Sage Fruit, an Elemental Medicine. Grows in a place with dense Qi, compatible element and fertile soil. Extremely sensitive to high temperature, but relatively resistant to cold. It has to grow in an environment below [temperature]20[/temperature].</Desc>
+			<ThingName>Raiz Espiritual de Metal: Árvore da Sagacidade</ThingName>
+			<Desc>A planta do Fruto da Sabedoria, um remédio elemental. Cresce em um lugar com Qi denso, elemento compatível e solo fértil. Extremamente sensível a altas temperaturas, mas relativamente resistente ao frio. Deve crescer em um ambiente abaixo de [temperature]20[/temperature].</Desc>
 		</Text>
 		<Text Name="LingZhi_Mu" sParam="Plant">
-			<ThingName>Wood Spirit Root: Gnarled Vine</ThingName>
-			<Desc>The plant of Gnarled Vine, an Elemental Medicine. Grows in a place with dense Qi, compatible element and fertile soil. It has a strict requirement for environment temperature, and only grows in between [temperature]15[/temperature]-[/temperature]35[/temperature].</Desc>
+			<ThingName>Raiz Espiritual de Madeira: Videira Retorcida</ThingName>
+			<Desc>A planta da Videira Retorcida, um remédio elemental. Cresce em um lugar com Qi denso, elemento compatível e solo fértil. Tem uma exigência rigorosa de temperatura, crescendo apenas entre [temperature]15[/temperature]-[/temperature]35[/temperature].</Desc>
 		</Text>
 		<Text Name="LingZhi_Shui" sParam="Plant">
-			<ThingName>Water Spirit Root: Prism Lotus</ThingName>
-			<Desc>The Prism Lotus plant, an Elemental Medicine. Grows in places with dense Qi, compatible element and fertile soil. It prefers low temperature, and only grows in an environment below [temperature]-120[/temperature].</Desc>
+			<ThingName>Raiz Espiritual da Água: Lótus Prismático</ThingName>
+			<Desc>A planta de Lótus Prismático, um remédio elemental. Cresce em lugares com Qi denso, elemento compatível e solo fértil. Prefere baixas temperaturas e só cresce em um ambiente abaixo de [temperature]-120[/temperature].</Desc>
 		</Text>
 		<Text Name="LingZhi_Tu" sParam="Plant">
-			<ThingName>Earth Spirit Root: Ocher Essence</ThingName>
-			<Desc>The plant of Ocher Essence, an elemental medicine. Grows in a place with dense Qi, compatible element and fertile soil. It avoids low temperature, and only grows in an environment above [temperature]30[/temperature].</Desc>
+			<ThingName>Raiz Espiritual de Terra: Essência Ocre</ThingName>
+			<Desc>A planta de Essência Ocre, um remédio elemental. Cresce em um lugar com Qi denso, elemento compatível e solo fértil. Evita baixas temperaturas e só cresce em um ambiente acima de [temperature]30[/temperature].</Desc>
 		</Text>
 		<Text Name="LingZhi_Huo_ZF" sParam="Plant">
-			<ThingName>Fire Spirit Root: Crimson Fruit Tree</ThingName>
-			<Desc>The plant of Crimson Fruit, an Elemental Medicine. It is said to only grow in places with dense Qi, compatible element and fertile soil.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
+			<ThingName>Raiz Espiritual de Fogo: Árvore do Fruto Carmesim</ThingName>
+			<Desc>A planta do Fruto Carmesim, um remédio elemental. Diz-se que só cresce em lugares com Qi denso, elemento compatível e solo fértil.</Desc>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente examiná-la de perto com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Jin_ZF" sParam="Plant">
-			<ThingName>Metal Spirit Root: Sagacity Tree</ThingName>
-			<Desc>A planta do fruto de Sagacidade, um remédio elemental. Diz-se que só cresce em lugares com Qi denso, elemento compatível e solo fértil.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
+			<ThingName>Raiz Espiritual de Metal: Árvore da Sagacidade</ThingName>
+			<Desc>A planta do Fruto da Sabedoria, um remédio elemental. Diz-se que só cresce em lugares com Qi denso, elemento compatível e solo fértil.</Desc>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente examiná-la de perto com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Mu_ZF" sParam="Plant">
-			<ThingName>Wood Spirit Root: Gnarled Vine</ThingName>
-			<Desc>A planta de Gnarled Vine, um remédio elemental. Diz-se que só cresce em lugares com Qi denso, elemento compatível e solo fértil.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
+			<ThingName>Raiz Espiritual de Madeira: Videira Retorcida</ThingName>
+			<Desc>A planta da Videira Retorcida, um remédio elemental. Diz-se que só cresce em lugares com Qi denso, elemento compatível e solo fértil.</Desc>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente examiná-la de perto com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Shui_ZF" sParam="Plant">
-			<ThingName>Water Spirit Root: Prism Lotus</ThingName>
+			<ThingName>Raiz Espiritual da Água: Lótus Prismático</ThingName>
 			<Desc>A planta de Lótus Prismático, um remédio elemental. Diz-se que só cresce em lugares com Qi denso, elemento compatível e solo fértil.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente examiná-la de perto com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Tu_ZF" sParam="Plant">
-			<ThingName>Earth Spirit Root: Ocher Essence</ThingName>
-			<Desc>A planta de Ochre Essence, um remédio elemental. Diz-se que só cresce em lugares com Qi denso, elemento compatível e solo fértil.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
+			<ThingName>Raiz Espiritual de Terra: Essência Ocre</ThingName>
+			<Desc>A planta de Essência Ocre, um remédio elemental. Diz-se que só cresce em lugares com Qi denso, elemento compatível e solo fértil.</Desc>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente examiná-la de perto com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

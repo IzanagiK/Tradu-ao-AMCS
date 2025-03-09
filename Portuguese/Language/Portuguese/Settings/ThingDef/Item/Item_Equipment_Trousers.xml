@@ -1,66 +1,66 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="TrousersBase" sParam="Item">
-			<Item.FabaoSuffix>Clothes, Armor, Robe, Shirt</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Roupas, Armadura, Robe, Camisa</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SummerTrousers" sParam="Item">
-			<ThingName>Thin Pants</ThingName>
+			<ThingName>Calças Finas</ThingName>
 			<Desc>Roupa muito respirável, mas também protege um pouco do frio.</Desc>
 		</Text>
 		<Text Name="Item_SilkTrousers" sParam="Item">
-			<ThingName>Summer Pants</ThingName>
+			<ThingName>Calças de Verão</ThingName>
 			<Desc>Roupas refrescantes e relaxantes, com uma sensação agradável de usar.</Desc>
 		</Text>
 		<Text Name="Item_PracticeTrousers" sParam="Item">
-			<ThingName>Cultivator Pants</ThingName>
+			<ThingName>Calças do Cultivador</ThingName>
 			<Desc>Uniforme padrão de uma seita, permite ficar relativamente quente, mas não é muito respirável.</Desc>
 		</Text>
 		<Text Name="Item_FormalTrousers" sParam="Item">
-			<ThingName>Casual Pants</ThingName>
+			<ThingName>Calças Casuais</ThingName>
 			<Desc>Roupas casuais para o dia a dia, permitem que a pessoa fique relativamente quente, mas não é muito respirável.</Desc>
 		</Text>
 		<Text Name="Item_WinterTrousers" sParam="Item">
-			<ThingName>Winter Pants</ThingName>
+			<ThingName>Calças de Inverno</ThingName>
 			<Desc>Roupas grossas e sólidas, permitem que você fique absolutamente aquecido.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers1" sParam="Item">
-			<ThingName>Scale Pants</ThingName>
+			<ThingName>Calças de Escama</ThingName>
 			<Desc>Pano mágico tecido com escamas de dragão. Usá-lo aumenta o nível de habilidade de proteção e permite viajar de windriding. Muito milagroso.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers2" sParam="Item">
-			<ThingName>Dark Pants</ThingName>
+			<ThingName>Calças Escuras</ThingName>
 			<Desc>Pano mágico com puro poder Yin concentrado. Usá-lo aumenta o nível de habilidade de Feitiço e permite viajar pelo vento. Muito milagroso.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers3" sParam="Item">
-			<ThingName>Cinder Pants</ThingName>
+			<ThingName>Calças de Cinzas</ThingName>
 			<Desc>Pano mágico com puro poder Yang concentrado. Usá-lo aumenta o nível de habilidade de Maestria de Artefato e permite viajar de windriding. Muito milagroso.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers4" sParam="Item">
-			<ThingName>Shroud Pants</ThingName>
+			<ThingName>Calças de Véu</ThingName>
 			<Desc>Pano mágico capaz de enganar os caminhos do céu. Usá-lo diminui a realização e permite viajar por windriding. Muito milagroso.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers5" sParam="Item">
-			<ThingName>Feather Pants</ThingName>
+			<ThingName>Calças de Penas</ThingName>
 			<Desc>Pano mágico com poder de dissipação do mal. Usá-lo pode melhorar o estado mental, expulsando os demônios internos da mente, e permite viajar pelo vento. Muito milagroso.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers6" sParam="Item">
-			<ThingName>Golden Pants</ThingName>
+			<ThingName>Calças Douradas</ThingName>
 			<Desc>Pano mágico com puro poder Yang concentrado. Usá-lo aumenta o nível de habilidade de Maestria de Artefato e permite viajar de windriding. Muito milagroso.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers7" sParam="Item">
-			<ThingName>Firebath Pants</ThingName>
-			<Desc>Pano mágico costurado com o couro de Blaze Rats. Usá-lo pode melhorar o nível de habilidade de proteção e reduzir efetivamente o dano de fogo, além de permitir viagens ao vento. Muito milagroso.</Desc>
+			<ThingName>Calças de Banho de Fogo</ThingName>
+			<Desc>Pano mágico costurado com o couro de Ratos de Fogo. Usá-lo pode melhorar o nível de habilidade de proteção e reduzir efetivamente o dano de fogo, além de permitir viagens ao vento. Muito milagroso.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers8" sParam="Item">
-			<ThingName>Pants of Flow</ThingName>
+			<ThingName>Calças do Fluxo</ThingName>
 			<Desc>Pano mágico capaz de enganar os caminhos do céu. Usá-lo diminui a realização e permite viajar por windriding. Muito milagroso.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers9" sParam="Item">
-			<ThingName>Specter Pants</ThingName>
+			<ThingName>Calças do Espectro</ThingName>
 			<Desc>Pano mágico com puro poder Yin concentrado. Usá-lo aumenta o nível de habilidade de Feitiço e permite viajar pelo vento. Muito milagroso.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers10" sParam="Item">
-			<ThingName>Crane Pants</ThingName>
+			<ThingName>Calças de Gru</ThingName>
 			<Desc>Pano mágico com poder de dissipação do mal. Usá-lo pode melhorar o estado mental, expulsando os demônios internos da mente, e permite viajar pelo vento. Muito milagroso.</Desc>
 		</Text>
 	</List>

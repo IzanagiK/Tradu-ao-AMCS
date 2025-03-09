@@ -1,23 +1,23 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Place_Level1Base">
-			<Desc>Lv.1 Location Templates</Desc>
+			<Desc>Modelos de Localização Lv.1</Desc>
 		</Text>
 		<Text Name="Place_DanXia">
 			<DisplayName>Mt. Sunshade</DisplayName>
-			<Desc>Uma montanha de renome mundial que dá santuário à Sunshade Abode, a terceira maior morada celestial taoísta. A montanha imponente é cheia de majestade e grandeza, e mais famosa pela paisagem de tirar o fôlego de suas falésias com vista para o pôr do sol. Mt. Sunshade é rico em ginseng velho. Diz-se que existe um lugar milagroso chamado Lago dos Cinco Dragões onde o Lótus Prisma – a Raiz Espiritual da Morada do Guarda-sol é plantado.</Desc>
+			<Desc>Uma montanha de renome mundial que dá santuário à Morada do Guarda-sol, a terceira maior morada celestial taoísta. A montanha imponente é cheia de majestade e grandeza, e mais famosa pela paisagem de tirar o fôlego de suas falésias com vista para o pôr do sol. Mt. Sunshade é rico em ginseng velho. Diz-se que existe um lugar milagroso chamado Lago dos Cinco Dragões onde o Lótus Prisma – a Raiz Espiritual da Morada do Guarda-sol é plantado.</Desc>
 		</Text>
 		<Text Name="Place_KunLun">
 			<DisplayName>Mt. Kunlun</DisplayName>
 			<Desc>As montanhas mais sagradas e espirituais do mundo, a fonte da Veia do Dragão e lar da maior Morada Celestial Taoísta de todas - a Morada do Vazio de Jade do Palácio de Kunlun. As montanhas são ricas em várias pedras, com destaque para as suas Pedras Sagradas. Há uma caverna que se conecta diretamente à Veia do Dragão, onde o Palácio Kunlun cultiva sua Raiz Espiritual - a Essência Ocre.</Desc>
 		</Text>
 		<Text Name="Place_TianJi">
-			<DisplayName>Heavenstep Peak</DisplayName>
-			<Desc>O Heavenstep Peak é um pico isolado de milhares de quilômetros de altura que atinge as nuvens, no topo do qual fica o misterioso e isolado Skydome Palace. O Skydome Palace caminha sobre uma linha tênue entre o bem e o mal. Seus discípulos são todos rapazes e moças atraentes que têm muitos admiradores entre os co-cultivadores. O Heavenstep Peak está repleto de Purity Leaf, e o magnífico Nimbus Ravine está no topo do pico. Diz-se que o Palácio Skydome tem a Raiz Espiritual – Fruto da Sálvia plantada no penhasco da ravina.</Desc>
+			<DisplayName>Pico Heavenstep</DisplayName>
+			<Desc>O Pico Heavenstep é um pico isolado de milhares de quilômetros de altura que atinge as nuvens, no topo do qual fica o misterioso e isolado Palácio Skydome. O Palácio Skydome caminha sobre uma linha tênue entre o bem e o mal. Seus discípulos são todos rapazes e moças atraentes que têm muitos admiradores entre os co-cultivadores. O Pico Heavenstep está repleto de Folha da Pureza, e o magnífico Ravine Nimbus está no topo do pico. Diz-se que o Palácio Skydome tem a Raiz Espiritual – Fruto da Sálvia plantada no penhasco da ravina.</Desc>
 		</Text>
 		<Text Name="Place_JiuHua">
 			<DisplayName>Mt. Lucian</DisplayName>
-			<Desc>O Monte Lucian tem nove picos altos com Leis sinuosas e desfiladeiros profundos, onde reside o Templo da Nuvem Púrpura – uma das dez maiores Moradas Celestiais Taoístas. Diz a lenda que um antigo imortal costumava ascender daqui, montando dragões e fênix. A montanha é rica em materiais de pedra premium. Tornou-se uma anedota famosa que alguém desenterrou Prismatic Jade aqui.</Desc>
+			<Desc>O Monte Lucian tem nove picos altos com Leis sinuosas e desfiladeiros profundos, onde reside o Templo da Nuvem Púrpura – uma das dez maiores Moradas Celestiais Taoístas. Diz a lenda que um antigo imortal costumava ascender daqui, montando dragões e fênix. A montanha é rica em materiais de pedra premium. Tornou-se uma anedota famosa que alguém desenterrou Jade Prismático aqui.</Desc>
 		</Text>
 		<Text Name="Place_LongHu">
 			<DisplayName>Mt. Tiger Paw</DisplayName>
@@ -25,7 +25,7 @@
 		</Text>
 		<Text Name="Place_Shu">
 			<DisplayName>Mt. Shu</DisplayName>
-			<Desc>A montanha mais bizarra e mítica de todas, famosa por suas Leis perigosas e sinuosas, mesmo animais tão ágeis quanto os macacos não conseguem escalar. Uma das dez maiores moradas celestiais taoístas - a morada de Caerulea mora nas nuvens no topo da montanha. Mt. Shu sempre foi uma zona de perigo abundante com animais como dragões e cobras, mas também é rica em minérios finos e fontes conhecidas que são frequentemente usadas para forjar a espada mais rara. Diz a lenda que o imortal do Templo do Lótus Azul uma vez obteve a semente sagrada do Fruto Carmesim - um dos cinco remédios mágicos e o plantou no Penhasco de Jadestone, a veia espiritual do Monte Shu..</Desc>
+			<Desc>A montanha mais bizarra e mítica de todas, famosa por suas Leis perigosas e sinuosas, mesmo animais tão ágeis quanto os macacos não conseguem escalar. Uma das dez maiores moradas celestiais taoístas - a morada de Caerulea mora nas nuvens no topo da montanha. Mt. Shu sempre foi uma zona de perigo abundante com animais como dragões e cobras, mas também é rica em minérios finos e fontes conhecidas que são frequentemente usadas para forjar a espada mais rara. Diz a lenda que o imortal do Templo do Lótus Azul uma vez obteve a semente sagrada do Fruto Carmesim - um dos cinco remédios mágicos e o plantou no Penhasco de Jadestone, a veia espiritual do Monte Shu.</Desc>
 		</Text>
 		<Text Name="Place_WuLian">
 			<DisplayName>Mt. Nelumbo</DisplayName>
@@ -48,23 +48,23 @@
 			<Desc>Lar do culto demoníaco do leste. Um belo país das maravilhas no Mar do Leste, rico em Qi. A Seita Exultante tem sido meticulosamente administrada por cem anos, com uma formação de desejos construída em torno de um raio de 50 milhas da ilha. Pescadores comuns que por engano entrarem no círculo ficarão encantados e transformados em caldeirão para sua prática. A maioria dos discípulos da Seita Exultante permanece jovem para sempre, o que é especulado porque há uma fonte sagrada do Fluxo Terrestre na ilha.</Desc>
 		</Text>
 		<Text Name="Place_Desert">
-			<DisplayName>Great Desert</DisplayName>
+			<DisplayName>Grande Deserto</DisplayName>
 			<Desc>Um grande deserto sem limites com inúmeros mitos e ruínas escondidos sob a vasta areia amarela. Diz a lenda que o mítico Templo Daemonia fica nas profundezas do grande deserto ocidental.</Desc>
 		</Text>
 		<Text Name="Place_SouthForest">
-			<DisplayName>Wild South</DisplayName>
+			<DisplayName>Selva Selvagem do Sul</DisplayName>
 			<Desc>Um deserto indomável no sul do país, permeado por neblina venenosa e infestado de cobras e insetos venenosos. Diz a lenda que o místico Vale Wormwrought fica no Sul Selvagem. Cheio de névoa venenosa e insetos, o Vale é extremamente perigoso. No entanto, devido à sua umidade e calor, é especialmente adequado para o crescimento do remédio mágico - Gnarled Vine. Também é dito que o Imperador Demônio, o fundador do culto demoníaco do sul, foi enterrado há mil anos nas profundezas do Sul Selvagem.</Desc>
 		</Text>
 		<Text Name="Place_Snowfield">
-			<DisplayName>The Great Snowland</DisplayName>
+			<DisplayName>A Grande Terra Nevada</DisplayName>
 			<Desc>Uma terra do norte coberta de neve que se estende até o horizonte, com colinas intocadas e grandes manchas de pinheiros em meio à neve e ao gelo. É rico em pedras de ginseng e jade que são difíceis de extrair. Dizem que nas profundezas da neve, há um mítico Lago Jadestone que nunca congelará, onde cresce a Raiz Espiritual - Prisma Lotus.</Desc>
 		</Text>
 		<Text Name="Place_FertileField">
-			<DisplayName>Riverbank Plains</DisplayName>
-			<Desc>Planícies férteis ao longo das margens dos rios, altamente povoadas e abundantes em alimentos. A leste das planícies fica uma montanha chamada Mt. Rue. Há rumores de que o Spirit Root—Sage Fruit cresce em seu penhasco.</Desc>
+			<DisplayName>Planícies de Margem do Rio</DisplayName>
+			<Desc>Planícies férteis ao longo das margens dos rios, altamente povoadas e abundantes em alimentos. A leste das planícies fica uma montanha chamada Mt. Rue. Há rumores de que a Raiz Espiritual—Fruto da Sábia cresce em seu penhasco.</Desc>
 		</Text>
 		<Text Name="Place_CentralPlains">
-			<DisplayName>Central Plain</DisplayName>
+			<DisplayName>Planícies Centrais</DisplayName>
 			<Desc>O planalto central altamente povoado, abundante em vários tipos de culturas. Existem muitas montanhas e locais sagrados conhecidos, um dos quais é chamado de Pico do Alquimista, o lugar onde o médico genial costumava cultivar a Raiz Espiritual - Essência Ocre.</Desc>
 		</Text>
 		<Text Name="Place_SouthMount">
@@ -72,7 +72,7 @@
 			<Desc>Mt. South está localizado no Sul, escassamente povoado, mas com muitos recursos inexplorados. A Seita Taiyi original foi construída aqui, onde a maioria das pessoas acreditava nelas.</Desc>
 		</Text>
 		<Text Name="Place_HeYinCity">
-			<DisplayName>Riverback City</DisplayName>
+			<DisplayName>Riverback</DisplayName>
 			<Desc>Uma enorme cidade construída ao longo do rio. Devido à abundância de produtos naturais, os moradores aqui não precisam se preocupar com comida ou roupas, pois a cidade está imbuída de cultura. As pessoas que vivem na cidade geralmente são criativas e muitas vezes pensam fora da caixa.</Desc>
 		</Text>
 		<Text Name="Place_HuCity">
@@ -80,15 +80,15 @@
 			<Desc>Uma cidade construída à beira do Mar do Leste, facilmente acessível e altamente povoada com negócios prósperos. A maioria das pessoas na cidade são comerciantes, e sua experiência os ensinou a ler as pessoas e lhes proporcionou uma excelente percepção.</Desc>
 		</Text>
 		<Text Name="Place_PanSheCity">
-			<DisplayName>Snaketail Village</DisplayName>
+			<DisplayName>Vila Snaketail</DisplayName>
 			<Desc>A porta de entrada para as Selvas do Sul e a maior cidade do Sul Selvagem. A vila valoriza sua tradição de respeitar a natureza e as regras do céu, o que pode ou não ter resultado na melhor sorte de seus moradores do que outros.</Desc>
 		</Text>
 		<Text Name="Place_ShanCity">
-			<DisplayName>City of Abundance</DisplayName>
+			<DisplayName>Cidade da Abundância</DisplayName>
 			<Desc>Uma grande cidade no meio-sul, construída ao lado das montanhas no entroncamento vital de transporte que prospera em serviços de transporte. As pessoas na cidade são francas e abertas às pessoas, facilmente capazes de ganhar o favor dos outros com seu carisma único.</Desc>
 		</Text>
 		<Text Name="Place_DaLiangCity">
-			<DisplayName>City of Desolation</DisplayName>
+			<DisplayName>Cidade da Desolação</DisplayName>
 			<Desc>Uma grande cidade na fronteira ocidental, construída na terra árida entre as Planícies Centrais e o Grande Deserto. A cidade é rica em minérios e pedras. Seu terreno contribui para a ferocidade de seus moradores, que costumam ser muito aptos e fortes.</Desc>
 		</Text>
 	</List>

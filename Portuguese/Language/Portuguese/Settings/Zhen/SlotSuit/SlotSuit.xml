@@ -1,133 +1,133 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Sys_Lost">
-			<DisplayName>Empty</DisplayName>
+			<DisplayName>Vazio</DisplayName>
 		</Text>
 		<Text Name="SlotSuit_1">
-			<DisplayName>Mind of the Sword</DisplayName>
+			<DisplayName>Mente da Espada</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_2">
-			<DisplayName>Mind of the Creed</DisplayName>
+			<DisplayName>Mente do Credo</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Magia Aprimorada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_3">
-			<DisplayName>Mind of Positivity</DisplayName>
+			<DisplayName>Mente da Positividade</DisplayName>
 			<SuitEffect.0.Description>Capacidade de proteção aprimorada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_4">
-			<DisplayName>Mind of Pliability</DisplayName>
+			<DisplayName>Mente da Maleabilidade</DisplayName>
 			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_5">
-			<DisplayName>Mind of Balance</DisplayName>
+			<DisplayName>Mente do Equilíbrio</DisplayName>
 			<SuitEffect.0.Description>Tamanho da Formação Reduzido</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Carga de Formação Reduzida</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_6">
-			<DisplayName>State of Heaven</DisplayName>
+			<DisplayName>Estado do Céu</DisplayName>
 			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_7">
-			<DisplayName>Mind of Earth</DisplayName>
+			<DisplayName>Mente da Terra</DisplayName>
 			<SuitEffect.0.Description>Capacidade de proteção aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_8">
-			<DisplayName>Mind of Thunder</DisplayName>
+			<DisplayName>Mente do Trovão</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_9">
-			<DisplayName>Mind of Wind</DisplayName>
+			<DisplayName>Mente do Vento</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Magia Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_10">
-			<DisplayName>Mind of Water</DisplayName>
+			<DisplayName>Mente da Água</DisplayName>
 			<SuitEffect.0.Description>Eficiência de Formação Aumentada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_11">
-			<DisplayName>Mind of Fire</DisplayName>
+			<DisplayName>Mente do Fogo</DisplayName>
 			<SuitEffect.0.Description>Capacidade de operação aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_12">
-			<DisplayName>Mind of Mountains</DisplayName>
+			<DisplayName>Mente das Montanhas</DisplayName>
 			<SuitEffect.0.Description>Tamanho da Formação Reduzido</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_13">
-			<DisplayName>Mind of Moors</DisplayName>
+			<DisplayName>Mente dos Pântanos</DisplayName>
 			<SuitEffect.0.Description>Carga de Formação Reduzida</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_14">
-			<DisplayName>Heavenly Derivation</DisplayName>
+			<DisplayName>Derivação Celestial</DisplayName>
 			<SuitEffect.0.Description>Nova Habilidade: Derivação Celestial</SuitEffect.0.Description>
 		</Text>
 		<Text Name="SlotSuit_15">
-			<DisplayName>Luna Thunderstorm</DisplayName>
+			<DisplayName>Trovão Lunar</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_16">
-			<DisplayName>Skyfire of the Sun</DisplayName>
+			<DisplayName>Fogo Celeste do Sol</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Magia Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_17">
-			<DisplayName>Gentle Breeze</DisplayName>
+			<DisplayName>Brisa Suave</DisplayName>
 			<SuitEffect.0.Description>Capacidade de proteção aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Capacidade de proteção ligeiramente aprimorada</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_18">
-			<DisplayName>Roaring Thunder</DisplayName>
+			<DisplayName>Trovão Estrondoso</DisplayName>
 			<SuitEffect.0.Description>Capacidade de proteção aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_19">
-			<DisplayName>Boundless Mountains</DisplayName>
+			<DisplayName>Montanhas Sem Limite</DisplayName>
 			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Estabilidade ligeiramente melhorada</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_20">
-			<DisplayName>Endless Streams</DisplayName>
+			<DisplayName>Córregos Infinitos</DisplayName>
 			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Aumento do limite de energia de formação</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_21">
-			<DisplayName>Origin of Sky &amp; Earth</DisplayName>
+			<DisplayName>Origem do Céu e da Terra</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Magia Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Habilidade de Magia Ligeiramente Aprimorada</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_22">
-			<DisplayName>End of Hills &amp; Rivers</DisplayName>
+			<DisplayName>Fim das Colinas e Rios</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_23">
-			<DisplayName>Birth of Creations</DisplayName>
+			<DisplayName>Nascimento das Criações</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Habilidade de Magia Aprimorada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Capacidade de operação aprimorada</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_24">
-			<DisplayName>Clash of Fire &amp; Water</DisplayName>
+			<DisplayName>Conflito de Fogo e Água</DisplayName>
 			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Habilidade de Magia Aprimorada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Eficiência de Formação Aumentada</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_25">
-			<DisplayName>Temper of Fire</DisplayName>
+			<DisplayName>Temperamento do Fogo</DisplayName>
 			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Capacidade de proteção aprimorada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Tamanho da Formação Reduzido</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_26">
-			<DisplayName>Erosion of Nature</DisplayName>
+			<DisplayName>Erosão da Natureza</DisplayName>
 			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Capacidade de proteção aprimorada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Carga de Formação Reduzida</SuitEffect.2.Description>
@@ -142,13 +142,13 @@
 			<SuitEffect.5.Description>Estabilidade Aprimorada</SuitEffect.5.Description>
 		</Text>
 		<Text Name="SlotSuit_28">
-			<DisplayName>Great Vastness</DisplayName>
+			<DisplayName>Grande Vastidão</DisplayName>
 			<SuitEffect.0.Description>Aumento do tamanho da formação</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Carga de formação aumentada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Aumento do limite de energia de formação</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_1">
-			<DisplayName>Mind of Ragestriker</DisplayName>
+			<DisplayName>Mente do Golpe Feroz</DisplayName>
 			<SuitEffect.0.Description>Tamanho da formação ligeiramente aumentado</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Carga de formação ligeiramente aumentada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.2.Description>
@@ -157,7 +157,7 @@
 			<SuitEffect.5.Description>Aumento do limite de energia de formação</SuitEffect.5.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_2">
-			<DisplayName>Mind of Seven Slaughters</DisplayName>
+			<DisplayName>Mente dos Sete Abates</DisplayName>
 			<SuitEffect.0.Description>Tamanho da formação ligeiramente aumentado</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Carga de formação ligeiramente aumentada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.2.Description>
@@ -166,7 +166,7 @@
 			<SuitEffect.5.Description>Aumento do limite de energia de formação</SuitEffect.5.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_3">
-			<DisplayName>Mind of the Impregnable Formation</DisplayName>
+			<DisplayName>Mente da Formação Impregnável</DisplayName>
 			<SuitEffect.0.Description>Tamanho da formação ligeiramente aumentado</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Carga de formação ligeiramente aumentada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.2.Description>
@@ -175,45 +175,45 @@
 			<SuitEffect.5.Description>Aumento do limite de energia de formação</SuitEffect.5.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_4">
-			<DisplayName>Mind of the Divine Law Formation</DisplayName>
+			<DisplayName>Mente da Formação da Lei Divina</DisplayName>
 			<SuitEffect.0.Description>Carga de formação ligeiramente aumentada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Eficiência de Formação Aumentada</SuitEffect.1.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_5">
-			<DisplayName>Mind of the True Dragon</DisplayName>
+			<DisplayName>Mente do Verdadeiro Dragão</DisplayName>
 			<SuitEffect.0.Description>Carga de formação ligeiramente aumentada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Habilidade de Magia Aprimorada</SuitEffect.2.Description>
 			<SuitEffect.3.Description>Capacidade de proteção aprimorada</SuitEffect.3.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_6">
-			<DisplayName>Mind of the Divine Phoenix</DisplayName>
+			<DisplayName>Mente da Fênix Divina</DisplayName>
 			<SuitEffect.0.Description>Carga de formação ligeiramente aumentada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Habilidade de Magia Aprimorada</SuitEffect.2.Description>
 			<SuitEffect.3.Description>Capacidade de proteção aprimorada</SuitEffect.3.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_7">
-			<DisplayName>Mind of Yin Yang</DisplayName>
+			<DisplayName>Mente do Yin Yang</DisplayName>
 			<SuitEffect.0.Description>Tamanho da formação ligeiramente aumentado</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Carga de formação ligeiramente aumentada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Capacidade de operação aprimorada</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_8">
-			<DisplayName>Mind of Lunarfrost</DisplayName>
+			<DisplayName>Mente da Geada Lunar</DisplayName>
 			<SuitEffect.0.Description>Tamanho da formação ligeiramente aumentado</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Carga de formação ligeiramente aumentada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Habilidade de Magia Aprimorada</SuitEffect.2.Description>
 			<SuitEffect.3.Description>Capacidade de proteção aprimorada</SuitEffect.3.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_9">
-			<DisplayName>Mind of the Abyssal Sword</DisplayName>
+			<DisplayName>Mente da Espada Abissal</DisplayName>
 			<SuitEffect.0.Description>Carga de formação ligeiramente aumentada</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Capacidade de proteção aprimorada</SuitEffect.2.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_10">
-			<DisplayName>Mind of the Eastern Wood</DisplayName>
+			<DisplayName>Mente da Madeira Oriental</DisplayName>
 			<SuitEffect.0.Description>Tamanho da formação ligeiramente aumentado</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Carga de formação ligeiramente aumentada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.2.Description>
@@ -221,7 +221,7 @@
 			<SuitEffect.4.Description>Capacidade de operação aprimorada</SuitEffect.4.Description>
 		</Text>
 		<Text Name="SlotSuit_SpZhen_11">
-			<DisplayName>Mind of the Convergence</DisplayName>
+			<DisplayName>Mente da Convergência</DisplayName>
 			<SuitEffect.0.Description>Tamanho da formação ligeiramente aumentado</SuitEffect.0.Description>
 			<SuitEffect.1.Description>Carga de formação ligeiramente aumentada</SuitEffect.1.Description>
 			<SuitEffect.2.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.2.Description>

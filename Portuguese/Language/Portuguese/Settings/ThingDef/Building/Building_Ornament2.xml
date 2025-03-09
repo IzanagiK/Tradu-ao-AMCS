@@ -1,222 +1,222 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Building_ZhengFaPlantBase" sParam="Building">
-			<ThingName>Plant Template</ThingName>
-			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
+			<ThingName>Modelo de Planta</ThingName>
+			<StoryBnts.0.Name>Coletar amostra</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente coletar uma amostra deste objeto.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ZhengFaBuildBase" sParam="Building">
-			<ThingName>Building Template</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Modelo de Edifício</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="MiracleBase" sParam="Building">
 			<Desc>Maravilha da Seita</Desc>
-			<StoryBnts.0.Name>Take</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Pegar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Pegue essa maravilha à força.</StoryBnts.0.Desc>
-			<StoryBnts.1.Name>Inspiration</StoryBnts.1.Name>
+			<StoryBnts.1.Name>Inspiração</StoryBnts.1.Name>
 			<StoryBnts.1.Desc>Medite nos caminhos celestiais que habitam nele.</StoryBnts.1.Desc>
 		</Text>
 		<Text Name="Building_BaBaoGongDe" sParam="Building">
-			<ThingName>Pool of Virtues</ThingName>
-			<Desc>Cenário icónico de Sunshade Abode, diz-se que incorporou segredos relativos aos caminhos do universo.</Desc>
+			<ThingName>Piscina das Virtudes</ThingName>
+			<Desc>Cenário icônico de Morada do Sol, diz-se que incorporou segredos relativos aos caminhos do universo.</Desc>
 		</Text>
 		<Text Name="Building_BaBaoGongDe_Our" sParam="Building">
-			<ThingName>Pool of Virtues</ThingName>
-			<Desc>Cenário icónico de Sunshade Abode, diz-se que incorporou segredos relativos aos caminhos do universo.</Desc>
+			<ThingName>Piscina das Virtudes</ThingName>
+			<Desc>Cenário icônico de Morada do Sol, diz-se que incorporou segredos relativos aos caminhos do universo.</Desc>
 		</Text>
 		<Text Name="Building_WanDaoZunFaZuo" sParam="Building">
-			<ThingName>Throne of Taos</ThingName>
-			<Desc>Cenário icónico do Palácio Kunlun, diz-se que incorporou segredos relativos aos caminhos da criação do céu e da terra.</Desc>
+			<ThingName>Trono dos Taos</ThingName>
+			<Desc>Cenário icônico do Palácio Kunlun, diz-se que incorporou segredos relativos aos caminhos da criação do céu e da terra.</Desc>
 		</Text>
 		<Text Name="Building_WanDaoZunFaZuo_Our" sParam="Building">
-			<ThingName>Throne of Taos</ThingName>
-			<Desc>Cenário icónico do Palácio Kunlun, diz-se que incorporou segredos relativos aos caminhos da criação do céu e da terra.</Desc>
+			<ThingName>Trono dos Taos</ThingName>
+			<Desc>Cenário icônico do Palácio Kunlun, diz-se que incorporou segredos relativos aos caminhos da criação do céu e da terra.</Desc>
 		</Text>
 		<Text Name="Building_QiQingQingTongShu" sParam="Building">
-			<ThingName>Wood of Emotions</ThingName>
-			<Desc>Cenário icónico do Palácio Skydome, diz-se que incorporou segredos sobre os caminhos do yin e do yang.</Desc>
+			<ThingName>Madeira das Emoções</ThingName>
+			<Desc>Cenário icônico do Palácio Skydome, diz-se que incorporou segredos sobre os caminhos do yin e do yang.</Desc>
 		</Text>
 		<Text Name="Building_QiQingQingTongShu_Our" sParam="Building">
-			<ThingName>Wood of Emotions</ThingName>
-			<Desc>Cenário icónico do Palácio Skydome, diz-se que incorporou segredos sobre os caminhos do yin e do yang.</Desc>
+			<ThingName>Madeira das Emoções</ThingName>
+			<Desc>Cenário icônico do Palácio Skydome, diz-se que incorporou segredos sobre os caminhos do yin e do yang.</Desc>
 		</Text>
 		<Text Name="Building_ZhouTianXingDouPan" sParam="Building">
-			<ThingName>Astral Plate</ThingName>
-			<Desc>Cenário icónico do Templo da Nuvem Púrpura, diz-se que incorporou segredos sobre a origem do espaço e do tempo, bem como sobre os caminhos do Sol e da Lua.</Desc>
+			<ThingName>Placa Astral</ThingName>
+			<Desc>Cenário icônico do Templo da Nuvem Púrpura, diz-se que incorporou segredos sobre a origem do espaço e do tempo, bem como sobre os caminhos do Sol e da Lua.</Desc>
 		</Text>
 		<Text Name="Building_ZhouTianXingDouPan_Our" sParam="Building">
-			<ThingName>Astral Plate</ThingName>
-			<Desc>Cenário icónico do Templo da Nuvem Púrpura, diz-se que incorporou segredos sobre a origem do espaço e do tempo, bem como sobre os caminhos do Sol e da Lua.</Desc>
+			<ThingName>Placa Astral</ThingName>
+			<Desc>Cenário icônico do Templo da Nuvem Púrpura, diz-se que incorporou segredos sobre a origem do espaço e do tempo, bem como sobre os caminhos do Sol e da Lua.</Desc>
 		</Text>
 		<Text Name="Building_WuLongXuanJinTa" sParam="Building">
-			<ThingName>Draconic Pagoda</ThingName>
-			<Desc>Cenário icónico da Seita Unidade Mística, diz-se que incorporou segredos relativos aos caminhos do início e do fim.</Desc>
+			<ThingName>Pagode Dracônico</ThingName>
+			<Desc>Cenário icônico da Seita Unidade Mística, diz-se que incorporou segredos relativos aos caminhos do início e do fim.</Desc>
 		</Text>
 		<Text Name="Building_WuLongXuanJinTa_Our" sParam="Building">
-			<ThingName>Draconic Pagoda</ThingName>
-			<Desc>Cenário icónico da Seita Unidade Mística, diz-se que incorporou segredos relativos aos caminhos do início e do fim.</Desc>
+			<ThingName>Pagode Dracônico</ThingName>
+			<Desc>Cenário icônico da Seita Unidade Mística, diz-se que incorporou segredos relativos aos caminhos do início e do fim.</Desc>
 		</Text>
 		<Text Name="Building_ShuShanJianChi" sParam="Building">
-			<ThingName>Pool of Sword</ThingName>
-			<Desc>Cenário icónico do Templo Lótus Azul, diz-se que incorporou segredos relativos às formas de criação e destruição.</Desc>
+			<ThingName>Piscina da Espada</ThingName>
+			<Desc>Cenário icônico do Templo Lótus Azul, diz-se que incorporou segredos relativos às formas de criação e destruição.</Desc>
 		</Text>
 		<Text Name="Building_ShuShanJianChi_Our" sParam="Building">
-			<ThingName>Pool of Sword</ThingName>
-			<Desc>Cenário icónico do Templo Lótus Azul, diz-se que incorporou segredos relativos às formas de criação e destruição.</Desc>
+			<ThingName>Piscina da Espada</ThingName>
+			<Desc>Cenário icônico do Templo Lótus Azul, diz-se que incorporou segredos relativos às formas de criação e destruição.</Desc>
 		</Text>
 		<Text Name="Building_LingYuFeng" sParam="Building">
-			<ThingName>Numinous Peak</ThingName>
-			<Desc>Cenário icónico de Morada do Entardecer, diz-se que incorporou segredos de crescimento de todos os seres vivos.</Desc>
+			<ThingName>Pico Numinoso</ThingName>
+			<Desc>Cenário icônico de Morada do Entardecer, diz-se que incorporou segredos de crescimento de todos os seres vivos.</Desc>
 		</Text>
 		<Text Name="Building_LingYuFeng_Our" sParam="Building">
-			<ThingName>Numinous Peak</ThingName>
-			<Desc>Cenário icónico de Morada do Entardecer, diz-se que incorporou segredos de crescimento de todos os seres vivos.</Desc>
+			<ThingName>Pico Numinoso</ThingName>
+			<Desc>Cenário icônico de Morada do Entardecer, diz-se que incorporou segredos de crescimento de todos os seres vivos.</Desc>
 		</Text>
 		<Text Name="Building_WanGuXieFaTan" sParam="Building">
-			<ThingName>Altar of Death</ThingName>
+			<ThingName>Altar da Morte</ThingName>
 			<Desc>Cenário icônico do Mt. Cem Insetos, diz-se que incorporou segredos relativos à nulidade do tempo e do espaço.</Desc>
 		</Text>
 		<Text Name="Building_WanGuXieFaTan_Our" sParam="Building">
-			<ThingName>Altar of Death</ThingName>
+			<ThingName>Altar da Morte</ThingName>
 			<Desc>Cenário icônico do Mt. Cem Insetos, diz-se que incorporou segredos relativos à nulidade do tempo e do espaço.</Desc>
 		</Text>
 		<Text Name="Building_XuanCiTianKeng" sParam="Building">
-			<ThingName>Magnetic Crater</ThingName>
-			<Desc>Cenário icónico do Poço da Perdição, diz-se que incorporou segredos relativos à desolação do céu e da terra.</Desc>
+			<ThingName>Cratera Magnética</ThingName>
+			<Desc>Cenário icônico do Poço da Perdição, diz-se que incorporou segredos relativos à desolação do céu e da terra.</Desc>
 		</Text>
 		<Text Name="Building_XuanCiTianKeng_Our" sParam="Building">
-			<ThingName>Magnetic Crater</ThingName>
-			<Desc>Cenário icónico do Poço da Perdição, diz-se que incorporou segredos relativos à desolação do céu e da terra.</Desc>
+			<ThingName>Cratera Magnética</ThingName>
+			<Desc>Cenário icônico do Poço da Perdição, diz-se que incorporou segredos relativos à desolação do céu e da terra.</Desc>
 		</Text>
 		<Text Name="Building_QiShaShenBei" sParam="Building">
-			<ThingName>Stele of Slaughter</ThingName>
-			<Desc>Cenário icónico da Seita dos Sete Abates, diz-se que incorporou os segredos da morte de todos os seres vivos.</Desc>
+			<ThingName>Estela do Massacre</ThingName>
+			<Desc>Cenário icônico da Seita dos Sete Abates, diz-se que incorporou os segredos da morte de todos os seres vivos.</Desc>
 		</Text>
 		<Text Name="Building_QiShaShenBei_Our" sParam="Building">
-			<ThingName>Stele of Slaughter</ThingName>
-			<Desc>Cenário icónico da Seita dos Sete Abates, diz-se que incorporou os segredos da morte de todos os seres vivos.</Desc>
+			<ThingName>Estela do Massacre</ThingName>
+			<Desc>Cenário icônico da Seita dos Sete Abates, diz-se que incorporou os segredos da morte de todos os seres vivos.</Desc>
 		</Text>
 		<Text Name="Building_XuanYinShengQuan" sParam="Building">
-			<ThingName>Sacred Yin Spring</ThingName>
-			<Desc>Cenário icónico da Seita Exultante, diz-se que incorporou segredos relativos aos caminhos da fortuna.</Desc>
+			<ThingName>Fonte Sagrada do Yin</ThingName>
+			<Desc>Cenário icônico da Seita Exultante, diz-se que incorporou segredos relativos aos caminhos da fortuna.</Desc>
 		</Text>
 		<Text Name="Building_XuanYinShengQuan_Our" sParam="Building">
-			<ThingName>Sacred Yin Spring</ThingName>
-			<Desc>Cenário icónico da Seita Exultante, diz-se que incorporou segredos relativos aos caminhos da fortuna.</Desc>
+			<ThingName>Fonte Sagrada do Yin</ThingName>
+			<Desc>Cenário icônico da Seita Exultante, diz-se que incorporou segredos relativos aos caminhos da fortuna.</Desc>
 		</Text>
 		<Text Name="Building_YaoZuYiHai" sParam="Building">
-			<ThingName>Ancestral Demon's Remains</ThingName>
-			<Desc>Cenário icónico do Templo Daemonia, diz-se que incorporou memórias do Demónio Ancestral.</Desc>
+			<ThingName>Restos do Yaoguai Ancestral</ThingName>
+			<Desc>Cenário icônico do Templo Daemonia, diz-se que incorporou memórias do Demônio Ancestral.</Desc>
 		</Text>
 		<Text Name="Building_YaoZuYiHai_Our" sParam="Building">
-			<ThingName>Ancestral Demon's Remains</ThingName>
-			<Desc>Cenário icónico do Templo Daemonia, diz-se que incorporou memórias do Demónio Ancestral.</Desc>
+			<ThingName>Restos do Yaoguai Ancestral</ThingName>
+			<Desc>Cenário icônico do Templo Daemonia, diz-se que incorporou memórias do Demônio Ancestral.</Desc>
 		</Text>
 		<Text Name="Building_QiShi1" sParam="Building">
-			<ThingName>Strange Rock</ThingName>
+			<ThingName>Pedra Estranha</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi1" sParam="Building">
-			<ThingName>Strange Aqua Rock</ThingName>
+			<ThingName>Pedra Aqua Estranha</ThingName>
 		</Text>
 		<Text Name="Building_QiShi2" sParam="Building">
-			<ThingName>Strange Rock</ThingName>
+			<ThingName>Pedra Estranha</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi2" sParam="Building">
-			<ThingName>Strange Aqua Rock</ThingName>
+			<ThingName>Pedra Aqua Estranha</ThingName>
 		</Text>
 		<Text Name="Building_QiShi3" sParam="Building">
-			<ThingName>Strange Rock</ThingName>
+			<ThingName>Pedra Estranha</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi3" sParam="Building">
-			<ThingName>Strange Aqua Rock</ThingName>
+			<ThingName>Pedra Aqua Estranha</ThingName>
 		</Text>
 		<Text Name="Building_QiShi4" sParam="Building">
-			<ThingName>Strange Rock</ThingName>
+			<ThingName>Pedra Estranha</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi4" sParam="Building">
-			<ThingName>Strange Aqua Rock</ThingName>
+			<ThingName>Pedra Aqua Estranha</ThingName>
 		</Text>
 		<Text Name="Building_QiShi5" sParam="Building">
-			<ThingName>Strange Rock</ThingName>
+			<ThingName>Pedra Estranha</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi5" sParam="Building">
-			<ThingName>Strange Aqua Rock</ThingName>
+			<ThingName>Pedra Aqua Estranha</ThingName>
 		</Text>
 		<Text Name="Building_QiShi6" sParam="Building">
-			<ThingName>Strange Rock</ThingName>
+			<ThingName>Pedra Estranha</ThingName>
 		</Text>
 		<Text Name="Building_ShuiZhongQiShi6" sParam="Building">
-			<ThingName>Strange Aqua Rock</ThingName>
+			<ThingName>Pedra Aqua Estranha</ThingName>
 		</Text>
 		<Text Name="Building_LingShu1" sParam="Building">
-			<ThingName>Spirit Tree</ThingName>
+			<ThingName>Árvore do Espírito</ThingName>
 		</Text>
 		<Text Name="Building_LingShu2" sParam="Building">
-			<ThingName>Spirit Tree</ThingName>
+			<ThingName>Árvore do Espírito</ThingName>
 		</Text>
 		<Text Name="Building_LingShu3" sParam="Building">
-			<ThingName>Spirit Tree</ThingName>
+			<ThingName>Árvore do Espírito</ThingName>
 		</Text>
 		<Text Name="Building_LingShu4" sParam="Building">
-			<ThingName>Aqua Spirit Tree</ThingName>
+			<ThingName>Árvore do Espírito Aqua</ThingName>
 		</Text>
 		<Text Name="Building_LingShu5" sParam="Building">
-			<ThingName>Aqua Spirit Tree</ThingName>
+			<ThingName>Árvore do Espírito Aqua</ThingName>
 		</Text>
 		<Text Name="Building_LingShu6" sParam="Building">
-			<ThingName>Aqua Spirit Tree</ThingName>
+			<ThingName>Árvore do Espírito Aqua</ThingName>
 		</Text>
 		<Text Name="Building_ZiXiaoJuShu" sParam="Building">
-			<ThingName>Purplecloud Tree</ThingName>
+			<ThingName>Árvore Nuvem Roxa</ThingName>
 		</Text>
 		<Text Name="Building_ShaShenMu1" sParam="Building">
-			<ThingName>Fiend Tree</ThingName>
+			<ThingName>Árvore Demônio</ThingName>
 		</Text>
 		<Text Name="Building_ShaShenMu2" sParam="Building">
-			<ThingName>Fiend Tree</ThingName>
+			<ThingName>Árvore Demônio</ThingName>
 		</Text>
 		<Text Name="Building_ShaShenMu3" sParam="Building">
-			<ThingName>Fiend Tree</ThingName>
+			<ThingName>Árvore Demônio</ThingName>
 		</Text>
 		<Text Name="Building_ShaShenMu4" sParam="Building">
-			<ThingName>Fiend Tree</ThingName>
+			<ThingName>Árvore Demônio</ThingName>
 		</Text>
 		<Text Name="Building_ShuiShenHuaShu1" sParam="Building">
-			<ThingName>Aqua Tree</ThingName>
+			<ThingName>Árvore Aqua</ThingName>
 		</Text>
 		<Text Name="Building_ShuiShenHuaShu2" sParam="Building">
-			<ThingName>Aqua Tree</ThingName>
+			<ThingName>Árvore Aqua</ThingName>
 		</Text>
 		<Text Name="Building_ShuiShenHuaShu3" sParam="Building">
-			<ThingName>Aqua Tree</ThingName>
+			<ThingName>Árvore Aqua</ThingName>
 		</Text>
 		<Text Name="Building_TaoShu1" sParam="Building">
-			<ThingName>Peach Tree</ThingName>
+			<ThingName>Árvore do Pêssego</ThingName>
 		</Text>
 		<Text Name="Building_TaoShu2" sParam="Building">
-			<ThingName>Peach Tree</ThingName>
+			<ThingName>Árvore do Pêssego</ThingName>
 		</Text>
 		<Text Name="Building_TaoShu3" sParam="Building">
-			<ThingName>Peach Tree</ThingName>
+			<ThingName>Árvore do Pêssego</ThingName>
 		</Text>
 		<Text Name="Building_YuShu1" sParam="Building">
-			<ThingName>Immortal Tree</ThingName>
+			<ThingName>Árvore Imortal</ThingName>
 		</Text>
 		<Text Name="Building_YuShu2" sParam="Building">
-			<ThingName>Immortal Tree</ThingName>
+			<ThingName>Árvore Imortal</ThingName>
 		</Text>
 		<Text Name="Building_YuShu3" sParam="Building">
-			<ThingName>Immortal Tree</ThingName>
+			<ThingName>Árvore Imortal</ThingName>
 		</Text>
 		<Text Name="Building_YuShu4" sParam="Building">
-			<ThingName>Immortal Tree</ThingName>
+			<ThingName>Árvore Imortal</ThingName>
 		</Text>
 		<Text Name="Building_YuShu5" sParam="Building">
-			<ThingName>Immortal Tree</ThingName>
+			<ThingName>Árvore Imortal</ThingName>
 		</Text>
 		<Text Name="Building_YuShu6" sParam="Building">
-			<ThingName>Immortal Tree</ThingName>
+			<ThingName>Árvore Imortal</ThingName>
 		</Text>
 		<Text Name="Building_CongRong1" sParam="Building">
 			<ThingName>Cistanche</ThingName>
@@ -225,293 +225,293 @@
 			<ThingName>Cistanche</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuShouHai1" sParam="Building">
-			<ThingName>Ancient Remains</ThingName>
+			<ThingName>Restos Antigos</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuShouHai2" sParam="Building">
-			<ThingName>Ancient Remains</ThingName>
+			<ThingName>Restos Antigos</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuShouHai3" sParam="Building">
-			<ThingName>Ancient Remains</ThingName>
+			<ThingName>Restos Antigos</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuShouHai4" sParam="Building">
-			<ThingName>Ancient Remains</ThingName>
+			<ThingName>Restos Antigos</ThingName>
 		</Text>
 		<Text Name="Building_LuoTuoCao" sParam="Building">
 			<ThingName>Camelthorn</ThingName>
 		</Text>
 		<Text Name="Building_ShiCheJu1" sParam="Building">
-			<ThingName>Cornflower</ThingName>
+			<ThingName>Flores de Centáurea</ThingName>
 		</Text>
 		<Text Name="Building_ShiCheJu2" sParam="Building">
-			<ThingName>Cornflower</ThingName>
+			<ThingName>Flores de Centáurea</ThingName>
 		</Text>
 		<Text Name="Building_ShiCheJu3" sParam="Building">
-			<ThingName>Cornflower</ThingName>
+			<ThingName>Flores de Centáurea</ThingName>
 		</Text>
 		<Text Name="Building_GuMu1" sParam="Building">
-			<ThingName>Ancient Stump</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu2" sParam="Building">
-			<ThingName>Ancient Stump</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu3" sParam="Building">
-			<ThingName>Ancient Stump</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu4" sParam="Building">
-			<ThingName>Ancient Stump</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu5" sParam="Building">
-			<ThingName>Ancient Stump</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu6" sParam="Building">
-			<ThingName>Ancient Stump</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi1" sParam="Building">
-			<ThingName>Ancient Ruins</ThingName>
+			<ThingName>Ruínas Antigas</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi2" sParam="Building">
-			<ThingName>Ancient Ruins</ThingName>
+			<ThingName>Ruínas Antigas</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi3" sParam="Building">
-			<ThingName>Ancient Ruins</ThingName>
+			<ThingName>Ruínas Antigas</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi4" sParam="Building">
-			<ThingName>Ancient Ruins</ThingName>
+			<ThingName>Ruínas Antigas</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi5" sParam="Building">
-			<ThingName>Ancient Ruins</ThingName>
+			<ThingName>Ruínas Antigas</ThingName>
 		</Text>
 		<Text Name="Building_LingDiShuiChi" sParam="Building">
-			<ThingName>Spirit Pond</ThingName>
+			<ThingName>Poço do Espírito</ThingName>
 		</Text>
 		<Text Name="Building_LianFaTan" sParam="Building">
-			<ThingName>Altar of Magic</ThingName>
+			<ThingName>Altar da Magia</ThingName>
 		</Text>
 		<Text Name="Building_TaiXuanBingZhu" sParam="Building">
-			<ThingName>Ever-Ice Pillar</ThingName>
+			<ThingName>Pilar do Gelo Eterno</ThingName>
 		</Text>
 		<Text Name="Build_KunLunFang" sParam="Building">
-			<ThingName>Kunlun Gate</ThingName>
-			<Desc>Um portão majestoso da sect.</Desc>
+			<ThingName>Portão de Kunlun</ThingName>
+			<Desc>Um portão majestoso da Seita.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_QingTongLong" sParam="Building">
-			<ThingName>Bronze Dragon</ThingName>
+			<ThingName>Dragão de Bronze</ThingName>
 		</Text>
 		<Text Name="Building_QingTongShouXiangLu" sParam="Building">
-			<ThingName>Bronze Censer</ThingName>
+			<ThingName>Censurador de Bronze</ThingName>
 		</Text>
 		<Text Name="Building_QingTongFanQi" sParam="Building">
-			<ThingName>Bronze Banner</ThingName>
+			<ThingName>Bandeira de Bronze</ThingName>
 		</Text>
 		<Text Name="Building_YanDiTai" sParam="Building">
-			<ThingName>Origin Platform</ThingName>
+			<ThingName>Plataforma de Origem</ThingName>
 		</Text>
 		<Text Name="Building_JuXingXiangLu" sParam="Building">
-			<ThingName>Giant Censer</ThingName>
+			<ThingName>Censurador Gigante</ThingName>
 		</Text>
 		<Text Name="Building_TengLongZhu" sParam="Building">
-			<ThingName>Dragonrising Pillar</ThingName>
+			<ThingName>Pilar do Dragão Ascendente</ThingName>
 		</Text>
 		<Text Name="Building_HuangLongDengTai" sParam="Building">
-			<ThingName>Dragon Lampstand</ThingName>
+			<ThingName>Suporte de Lâmpada do Dragão</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_LianHuaDengTai" sParam="Building">
-			<ThingName>Lotus Lamp</ThingName>
+			<ThingName>Lâmpada de Lótus</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_YuHeQingLian1" sParam="Building">
-			<ThingName>Swordheart Lotus</ThingName>
+			<ThingName>Lótus do Coração da Espada</ThingName>
 		</Text>
 		<Text Name="Building_YuHeQingLian2" sParam="Building">
-			<ThingName>Swordheart Lotus</ThingName>
+			<ThingName>Lótus do Coração da Espada</ThingName>
 		</Text>
 		<Text Name="Building_YuHeQingLian3" sParam="Building">
-			<ThingName>Swordheart Lotus</ThingName>
+			<ThingName>Lótus do Coração da Espada</ThingName>
 		</Text>
 		<Text Name="Building_JianYiFuDiao" sParam="Building">
-			<ThingName>Sword Relief</ThingName>
+			<ThingName>Relevo de Espada</ThingName>
 		</Text>
 		<Text Name="Building_XiaoDanLu1" sParam="Building">
-			<ThingName>Small Furnace</ThingName>
+			<ThingName>Pequeno Forno</ThingName>
 		</Text>
 		<Text Name="Building_XiaoDanLu2" sParam="Building">
-			<ThingName>Small Furnace</ThingName>
+			<ThingName>Pequeno Forno</ThingName>
 		</Text>
 		<Text Name="Building_HuoDing" sParam="Building">
-			<ThingName>Fire Cauldron</ThingName>
+			<ThingName>Caldeirão de Fogo</ThingName>
 		</Text>
 		<Text Name="Building_ShuiLianTai" sParam="Building">
-			<ThingName>Lotus Platform</ThingName>
+			<ThingName>Plataforma de Lótus</ThingName>
 		</Text>
 		<Text Name="Building_XieXiDeng" sParam="Building">
-			<ThingName>Evil Specter Light</ThingName>
+			<ThingName>Luz do Espectro Maligno</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_KuLouDeng" sParam="Building">
-			<ThingName>Nether Light</ThingName>
+			<ThingName>Luz do Submundo</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Build_BaiManFang" sParam="Building">
-			<ThingName>Insect Gate</ThingName>
-			<Desc>Um majestoso portão da seita.</Desc>
+			<ThingName>Portão dos Insetos</ThingName>
+			<Desc>A majestoso portão da seita.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_DiMuJiDeng" sParam="Building">
-			<ThingName>Sacrificial Lamp</ThingName>
+			<ThingName>Lâmpada Sacrificial</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_DiMuJiQi" sParam="Building">
-			<ThingName>Earthmother Banner</ThingName>
+			<ThingName>Bandeira da Mãe Terra</ThingName>
 		</Text>
 		<Text Name="Building_DiMuMiXue" sParam="Building">
-			<ThingName>Earthmother Hive</ThingName>
+			<ThingName>Colmeia da Mãe Terra</ThingName>
 		</Text>
 		<Text Name="Building_QiShaJianZhu" sParam="Building">
-			<ThingName>Sword Pillar</ThingName>
+			<ThingName>Pilar da Espada</ThingName>
 		</Text>
 		<Text Name="Building_XieLongDiaoXiang" sParam="Building">
-			<ThingName>Evil Dragon</ThingName>
+			<ThingName>Dragão Maligno</ThingName>
 		</Text>
 		<Text Name="Building_XiongKuiDeng" sParam="Building">
-			<ThingName>Wicked Puppet Lamp</ThingName>
+			<ThingName>Lâmpada de Marionete Maligna</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ShaZhang1" sParam="Building">
-			<ThingName>Silk Curtain</ThingName>
+			<ThingName>Cortina de Seda</ThingName>
 		</Text>
 		<Text Name="Building_ShaZhang2" sParam="Building">
-			<ThingName>Silk Curtain</ThingName>
+			<ThingName>Cortina de Seda</ThingName>
 		</Text>
 		<Text Name="Building_QingShaDeng" sParam="Building">
-			<ThingName>Veiled Lamp</ThingName>
+			<ThingName>Lâmpada Velada</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_BingFengDiaoSu" sParam="Building">
-			<ThingName>Ice Phoenix</ThingName>
+			<ThingName>Fênix de Gelo</ThingName>
 		</Text>
 		<Text Name="Building_DiMuKuiShou" sParam="Building">
-			<ThingName>Earthmother Chief</ThingName>
+			<ThingName>Chefe da Mãe Terra</ThingName>
 		</Text>
 		<Text Name="Building_MoMenJiQi" sParam="Building">
-			<ThingName>Demonic Banner</ThingName>
+			<ThingName>Bandeira Demoníaca</ThingName>
 		</Text>
 		<Text Name="Building_MoMenJiQi1" sParam="Building">
-			<ThingName>Demonic Banner</ThingName>
+			<ThingName>Bandeira Demoníaca</ThingName>
 		</Text>
 		<Text Name="Building_MoZhuaDiaoSu" sParam="Building">
-			<ThingName>Claw Sculpture</ThingName>
+			<ThingName>Escultura de Garra</ThingName>
 		</Text>
 		<Text Name="Building_MoWenHuaPing" sParam="Building">
-			<ThingName>Demonhead Bottle</ThingName>
+			<ThingName>Frasco de Cabeça Demoníaca</ThingName>
 		</Text>
 		<Text Name="Building_KuLouHuaPing" sParam="Building">
-			<ThingName>Fiend Branch</ThingName>
+			<ThingName>Ramo Fiend</ThingName>
 		</Text>
 		<Text Name="Building_XiePingFeng" sParam="Building">
-			<ThingName>Fiendish Screen</ThingName>
+			<ThingName>Tela Maligna</ThingName>
 		</Text>
 		<Text Name="Building_YaoHuoPen" sParam="Building">
-			<ThingName>Headless Animalian Furnace</ThingName>
+			<ThingName>Fornalha Animaliana Sem Cabeça</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ChangMingDeng" sParam="Building">
-			<ThingName>Animalian Ever-burning Lamp</ThingName>
+			<ThingName>Lâmpada Animaliana Eterna</ThingName>
 			<Desc>Uma luz que brilha durante a noite para iluminar o seu ambiente.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_JuXingShouGu" sParam="Building">
-			<ThingName>Behemoth Bone Carving</ThingName>
+			<ThingName>Escultura de Osso de Behemoth</ThingName>
 		</Text>
 		<Text Name="Building_LongXingYuanPan" sParam="Building">
-			<ThingName>Coiled Dragon Throne</ThingName>
+			<ThingName>Trono do Dragão Enrolado</ThingName>
 		</Text>
 		<Text Name="Building_YaoZuDiaoXiang" sParam="Building">
-			<ThingName>Savage Statue</ThingName>
+			<ThingName>Estátua Selvagem</ThingName>
 		</Text>
 		<Text Name="Building_YaoShouDing" sParam="Building">
-			<ThingName>Demon Lord's Cauldron</ThingName>
+			<ThingName>Caldeirão do Senhor Demônio</ThingName>
 		</Text>
 		<Text Name="Build_WanYaoMen" sParam="Building">
-			<ThingName>Daemonia Gate</ThingName>
-			<Desc>Um portão majestoso da seita.</Desc>
+			<ThingName>Portão da Demoníaca</ThingName>
+			<Desc>Um majestoso portão da seita.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_TianSheQi" sParam="Building">
-			<ThingName>Serpentis Banner</ThingName>
+			<ThingName>Bandeira da Serpente</ThingName>
 		</Text>
 		<Text Name="Building_YaoZuXingJia" sParam="Building">
-			<ThingName>Demonic Rack</ThingName>
+			<ThingName>Estante Demoníaca</ThingName>
 		</Text>
 		<Text Name="Building_RPG_YingTianTai" sParam="Building">
-			<ThingName>Heaven Echo Altar</ThingName>
+			<ThingName>Altar do Eco do Céu</ThingName>
 			<Desc>Uma construção especial recebida de um homem secreto na Fenda do Outro Mundo. Pode ser usado para comunicar com outros mundos em mente, tão misterioso.</Desc>
-			<StoryBnts.0.Name>Enter</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Enter the space indicated by the Heaven Echo Altar.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Entrar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Entre no espaço indicado pelo Altar do Eco do Céu.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_RPG_YingTianTai_Rpg" sParam="Building">
-			<ThingName>Heaven Echo Altar</ThingName>
+			<ThingName>Altar do Eco do Céu</ThingName>
 			<Desc>Uma construção especial recebida de um homem secreto na Fenda do Outro Mundo. Pode ser usado para comunicar com outros mundos em mente, tão misterioso.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_1" sParam="Building">
-			<ThingName>Lantern Pagoda</ThingName>
-			<Desc>Uma encantadora pagoda com lanternas suspensas que são acesas à noite.</Desc>
+			<ThingName>Pagode da Lanterna</ThingName>
+			<Desc>Uma encantadora pagode com lanternas suspensas que são acesas à noite.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_2" sParam="Building">
-			<ThingName>Art Lantern: Fortune</ThingName>
+			<ThingName>Lanterna Artística: Fortuna</ThingName>
 			<Desc>Uma luz decorativa que significa primavera, com desejos de boa sorte.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_3" sParam="Building">
-			<ThingName>Art Lantern: Lotus</ThingName>
+			<ThingName>Lanterna Artística: Lótus</ThingName>
 			<Desc>Uma luz decorativa que significa Primavera, com desejos de reencontro familiar.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_4" sParam="Building">
-			<ThingName>Art Lantern: Water Lily</ThingName>
+			<ThingName>Lanterna Artística: Lírio D'Água</ThingName>
 			<Desc>Uma luz decorativa que significa primavera, com desejos de concórdia e unidade.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_5" sParam="Building">
-			<ThingName>Art Lantern: Warmth</ThingName>
+			<ThingName>Lanterna Artística: Calor</ThingName>
 			<Desc>Uma luz decorativa que significa primavera, com desejos de renascimento de vidas.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_6" sParam="Building">
-			<ThingName>Art Lantern: Lion</ThingName>
+			<ThingName>Lanterna Artística: Leão</ThingName>
 			<Desc>Uma luz decorativa que significa primavera, com desejos de expulsar todos os males.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_7" sParam="Building">
-			<ThingName>Lantern - Flower Bud</ThingName>
+			<ThingName>Lanterna - Botão de Flor</ThingName>
 			<Desc>Uma luz decorativa que significa Primavera.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_8" sParam="Building">
-			<ThingName>Lantern - Pure Snow</ThingName>
+			<ThingName>Lanterna - Neve Pura</ThingName>
 			<Desc>Uma luz decorativa que significa Primavera.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_9" sParam="Building">
-			<ThingName>Art Lantern: Ascension</ThingName>
+			<ThingName>Lanterna Artística: Ascensão</ThingName>
 			<Desc>Uma luz decorativa que significa Primavera, com desejos de eminência no novo ano.</Desc>
 		</Text>
 		<Text Name="Building_Spring2021_10" sParam="Building">
-			<ThingName>Art Lantern: Dragon's Gate</ThingName>
+			<ThingName>Lanterna Artística: Portão do Dragão</ThingName>
 			<Desc>Uma luz decorativa que significa Primavera, com desejos de mudanças profundas para o novo ano.</Desc>
 		</Text>
 	</List>

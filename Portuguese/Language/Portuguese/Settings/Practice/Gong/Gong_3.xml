@@ -1,28 +1,28 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Gong_3_Jin">
-			<DisplayName>Seven-Slaughtering Sword</DisplayName>
+			<DisplayName>Espada dos Sete Abates</DisplayName>
 			<Desc>Diz a lenda que esta é uma lei secreta do reino demoníaco para a realização do domínio da espada. Ele conduz seu seguidor através de sete estados. Tanto o início quanto o avanço no cultivo são relativamente difíceis. Um se tornará muito poderoso em batalhas e terá uma forte intenção de matar, o que leva aos extremamente perigosos trovões triplos da tribulação. É a Lei de um assassino absoluto.</Desc>
 			<SelectDesc>A pessoa se destacará no domínio de artefatos e se tornará poderoso nas batalhas, mas terá que passar por várias Tribulações Celestiais devido a todos os assassinatos. Tem certeza de que deseja seguir esta Lei?</SelectDesc>
-			<Stages.0.DisplayName>Heart of Sword</Stages.0.DisplayName>
+			<Stages.0.DisplayName>Coração da Espada</Stages.0.DisplayName>
 			<Stages.0.Necks.0.DisplayName>Coração de Espada</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>Encontre sua própria Espada do Sete Abate com determinação de todo o coração. Se der errado, reinicie do zero. [color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas. \nEsse avanço é mais difícil para personagens com baixa percepção. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.1.DisplayName>Sword Aura</Stages.1.DisplayName>
+			<Stages.0.Necks.0.Desc>Encontre sua própria Espada dos Sete Abates com determinação de todo o coração. Se der errado, reinicie do zero. [color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas. \nEsse avanço é mais difícil para personagens com baixa percepção. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Aura de Espada</Stages.1.DisplayName>
 			<Stages.1.Necks.0.DisplayName>Aura de Espada</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>Forme a aura da espada para abrir o portão da mente com determinação, gastando sua energia fina, sangue e energia vital. [color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas. \nEsse avanço é mais difícil para personagens com baixa percepção. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.2.DisplayName>Blade Pill</Stages.2.DisplayName>
+			<Stages.2.DisplayName>Pílula de Lâmina</Stages.2.DisplayName>
 			<Stages.2.Desc>Condense a aura da espada na essência da lâmina, como o Núcleo Dourado combinado com elementos mistos.</Stages.2.Desc>
 			<Stages.2.Necks.0.DisplayName>Pílula de Lâmina</Stages.2.Necks.0.DisplayName>
-			<Stages.3.DisplayName>Sword Will</Stages.3.DisplayName>
+			<Stages.3.DisplayName>Vontade da Espada</Stages.3.DisplayName>
 			<Stages.3.Desc>O trovão da tribulação cai quando o núcleo da espada toma forma. Use-o para formar a vontade da espada.</Stages.3.Desc>
 			<Stages.3.Necks.0.DisplayName>Vontade da espada</Stages.3.Necks.0.DisplayName>
-			<Stages.4.DisplayName>Sword Embryo</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Embrião de Espada</Stages.4.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Incubação da Espada</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Incubação da Espada</Stages.4.Necks.0.DisplayName>
 			<Stages.4.Necks.0.Desc>Após a tribulação celestial, retorne à forma mais pura e crie o embrião da espada a partir do núcleo da espada.</Stages.4.Necks.0.Desc>
-			<Stages.5.DisplayName>Sword Soul</Stages.5.DisplayName>
+			<Stages.5.DisplayName>Alma da Espada</Stages.5.DisplayName>
 			<Stages.5.Necks.0.DisplayName>Alma de Espada</Stages.5.Necks.0.DisplayName>
 			<Stages.5.Necks.0.Desc>Use a vontade da espada para roubar a Lei celestial para a destruição das tribulações para alcançar o estado de um espadachim celestial. Se for bem-sucedido, enfrentará a ira do céu - a tribulação celestial final.</Stages.5.Necks.0.Desc>
-			<Stages.6.DisplayName>Sword Spirit</Stages.6.DisplayName>
+			<Stages.6.DisplayName>Espírito da Espada</Stages.6.DisplayName>
 			<Stages.6.Necks.0.DisplayName>Espírito da Espada</Stages.6.Necks.0.DisplayName>
 			<Stages.6.Necks.0.Desc>Use o trovão celestial para forjar a alma da espada como prova do puro Yang para ascender à imortalidade.</Stages.6.Necks.0.Desc>
 		</Text>

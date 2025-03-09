@@ -2,25 +2,25 @@
 	<List>
 		<Text Name="Ginseng" sParam="Plant">
 			<ThingName>Ginseng</ThingName>
-			<Desc>Material medicinal raro. Tem uma poderosa capacidade de cura e pode aumentar muito o seu Qi primitivo. Cresce num ambiente entre [temperature]-30[/temperature] para [temperature]40[/temperature]. Só cresce em lugares com uma certa quantidade de Qi.</Desc>
+			<Desc>Material medicinal raro. Tem uma poderosa capacidade de cura e pode aumentar muito o seu Qi primitivo. Cresce em um ambiente entre [temperature]-30[/temperature] e [temperature]40[/temperature]. Só cresce em lugares com uma certa quantidade de Qi.</Desc>
 		</Text>
 		<Text Name="GanodermaLucidum" sParam="Plant">
 			<ThingName>Lingzhi</ThingName>
-			<Desc>Material medicinal raro. Tem uma poderosa capacidade de cura e pode aumentar muito o seu Qi primitivo. Cresce num ambiente entre [temperature]10[/temperature] para [temperature]40[/temperature]. Só cresce em lugares com uma certa quantidade de Qi.</Desc>
+			<Desc>Material medicinal raro. Tem uma poderosa capacidade de cura e pode aumentar muito o seu Qi primitivo. Cresce em um ambiente entre [temperature]10[/temperature] e [temperature]40[/temperature]. Só cresce em lugares com uma certa quantidade de Qi.</Desc>
 		</Text>
 		<Text Name="Mint" sParam="Plant">
-			<ThingName>Purity Leaf</ThingName>
-			<Desc>Material medicinal comum. Frio na natureza, tem um efeito calmante e relaxante. Cresce num ambiente entre [temperature]-30[/temperature] para [temperature]40[/temperature]. Só cresce em lugares com uma certa quantidade de Qi.</Desc>
+			<ThingName>Folha de Pureza</ThingName>
+			<Desc>Material medicinal comum. Fria por natureza, tem um efeito calmante e relaxante. Cresce em um ambiente entre [temperature]-30[/temperature] e [temperature]40[/temperature]. Só cresce em lugares com uma certa quantidade de Qi.</Desc>
 		</Text>
 		<Text Name="MagicHerb" sParam="Plant">
-			<ThingName>Spirit Leaf</ThingName>
-			<Desc>Material médico com espiritualidade. Supõe-se que seja relativamente raro. Cresce num ambiente entre [temperature]-30[/temperature] para [temperature]40[/temperature]. Só cresce em lugares com uma certa quantidade de Qi. Há folhas espirituais a crescer por todo o lado fora da Mansão da Caverna no Pico do Alquimista, nas Planícies Centrais.</Desc>
+			<ThingName>Folha Espiritual</ThingName>
+			<Desc>Material medicinal com espiritualidade. Supõe-se que seja relativamente raro. Cresce em um ambiente entre [temperature]-30[/temperature] e [temperature]40[/temperature]. Só cresce em lugares com uma certa quantidade de Qi. Há folhas espirituais crescendo por todo o lado fora da Mansão da Caverna no Pico do Alquimista, nas Planícies Centrais.</Desc>
 		</Text>
 		<Text Name="WarmHerb" sParam="Plant">
-			<ThingName>Caterpillar Fungus</ThingName>
-			<Desc>Erva com uma variedade de aparências que só amadurece no Inverno e no Verão. Também conhecida como "relva movediça" entre as pessoas comuns. Quando consumido, pode melhorar temporariamente a sua adaptabilidade a ambientes extremos.</Desc>
-			<StoryBnts.0.Name>Harvest</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Attempt to harvest with spell.</StoryBnts.0.Desc>
+			<ThingName>Fungo Lagarta</ThingName>
+			<Desc>Erva com uma variedade de aparências que só amadurece no inverno e no verão. Também conhecida como "relva movediça" entre as pessoas comuns. Quando consumido, pode melhorar temporariamente sua adaptabilidade a ambientes extremos.</Desc>
+			<StoryBnts.0.Name>Colher</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente colher com um feitiço.</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

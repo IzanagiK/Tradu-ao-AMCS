@@ -1,44 +1,44 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Initialize">
-			<DisplayName>Initialize</DisplayName>
+			<DisplayName>Inicializar</DisplayName>
 		</Text>
 		<Text Name="StayInTrap">
-			<DisplayName>Stay in Trap Point</DisplayName>
-			<PDisplayName>Stay Time (sec)</PDisplayName>
+			<DisplayName>Permanecer no Ponto de Armadilha</DisplayName>
+			<PDisplayName>Tempo de Permanência (seg)</PDisplayName>
 		</Text>
 		<Text Name="EnterTrap">
-			<DisplayName>Enter Trap Point</DisplayName>
+			<DisplayName>Entrar no Ponto de Armadilha</DisplayName>
 		</Text>
 		<Text Name="LeaveTrap">
-			<DisplayName>Leave Trap Point</DisplayName>
+			<DisplayName>Sair do Ponto de Armadilha</DisplayName>
 		</Text>
 		<Text Name="BeenAttack">
-			<DisplayName>Under Attack</DisplayName>
+			<DisplayName>Sob Ataque</DisplayName>
 		</Text>
 		<Text Name="BeenDestroy">
-			<DisplayName>Destroyed</DisplayName>
+			<DisplayName>Destruído</DisplayName>
 		</Text>
 		<Text Name="Dead">
-			<DisplayName>Dead</DisplayName>
+			<DisplayName>Morto</DisplayName>
 		</Text>
 		<Text Name="InSocial">
-			<DisplayName>When Interacting</DisplayName>
+			<DisplayName>Durante a Interação</DisplayName>
 		</Text>
 		<Text Name="LeaveSocial">
-			<DisplayName>After Interaction</DisplayName>
+			<DisplayName>Após a Interação</DisplayName>
 		</Text>
 		<Text Name="NpcEnterWorkSpace">
-			<DisplayName>Character enters build point</DisplayName>
+			<DisplayName>Personagem entra no ponto de construção</DisplayName>
 		</Text>
 		<Text Name="NpcLeaveWorkSpace">
-			<DisplayName>Character leaves build point</DisplayName>
+			<DisplayName>Personagem sai do ponto de construção</DisplayName>
 		</Text>
 		<Text Name="OnStep">
-			<DisplayName>Logic Frame Callback</DisplayName>
+			<DisplayName>Callback de Quadro Lógico</DisplayName>
 		</Text>
 		<Text Name="OnRender">
-			<DisplayName>Rendering Frame Callback</DisplayName>
+			<DisplayName>Callback de Quadro de Renderização</DisplayName>
 		</Text>
 	</List>
 </Texts>

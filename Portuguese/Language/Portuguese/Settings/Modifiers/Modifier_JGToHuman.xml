@@ -1,27 +1,27 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="FoodToHuman">
-			<DisplayName>Sentient Food Spirit</DisplayName>
+			<DisplayName>Espírito Alimentar Sensiente</DisplayName>
 			<Desc>Naturalmente possui alta capacidade de absorção de Qi.</Desc>
 		</Text>
 		<Text Name="LingStoneToHuman">
-			<DisplayName>Sentient Stone Spirit</DisplayName>
+			<DisplayName>Espírito de Pedra Sensiente</DisplayName>
 			<Desc>Naturalmente possui Qi de Base alto.</Desc>
 		</Text>
 		<Text Name="FabaoToHuman">
-			<DisplayName>Sentient Artifact Spirit</DisplayName>
+			<DisplayName>Espírito de Artefato Sensiente</DisplayName>
 			<Desc>Naturalmente possui alta taxa de recuperação de Qi de artefato e taxa de conversão.</Desc>
 		</Text>
 		<Text Name="DanToHuman">
-			<DisplayName>Sentient Elixir</DisplayName>
+			<DisplayName>Elixir Sensiente</DisplayName>
 			<Desc>Não haverá tolerância ao medicamento na próxima vez que você tomar uma pílula.</Desc>
 		</Text>
 		<Text Name="PlantToHuman">
-			<DisplayName>Self Growth</DisplayName>
+			<DisplayName>Crescimento Autônomo</DisplayName>
 			<Desc>Continua a crescer lentamente todos os dias.</Desc>
 		</Text>
 		<Text Name="BuildToHuman">
-			<DisplayName>Self-repairing</DisplayName>
+			<DisplayName>Autorreparação</DisplayName>
 			<Desc>Progresso do reparo: {0}\n Quando o progresso do reparo chegar a 100, todos os membros perdidos serão restaurados e o progresso voltará a zero.</Desc>
 		</Text>
 	</List>

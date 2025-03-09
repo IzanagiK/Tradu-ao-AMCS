@@ -1,7 +1,7 @@
-﻿ID	Name	Desc	sParam1	sParam2
-ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:妖兽种族) (宝物:物品类型lable 权重:ID|ID.)  (角色:数据名字) (秘闻:随机秘闻ID|ID) (路人：行为描述)(动物进攻：种族)（精怪来临：精怪类型）	(路人：附加标记)（精怪来临：具体名称  用|隔开。必须要有种族）
-40001	Enlightened Panda		Panda,10,10,10,10,10,3,Target,,3	At [TXT], a panda came to the realization of "[FRAG]" by chance, and has thus become awakened.
-40002	Enlightened Panda		Panda,10,10,10,10,10,3,Emotion,,3	At [TXT], for some reason, a panda accidentally felt "[FRAG]" several times, becoming awakened as a result.
-40003	Enlightened Panda		Panda,10,10,10,10,10,3,Scene,,3	A panda "[FRAG]" multiple times at [TXT], then had a sudden Enlightment and became awakened.
-40004	Animal Joined	Um panda chegou à sua seita. Parece gostar de estar aqui.	Panda	
-40005	Invasion of Beasts	Alguns monstros panda apareceram nas proximidades e parecem muito hostis.	JYPanda	TongYong_DropList
+﻿ID	Name	sParam2	Desc
+
+40001	Panda Iluminado	Em [TXT], um panda chegou à realização de "[FRAG]" por acaso, e assim se tornou desperto.	
+40002	Panda Iluminado	Em [TXT], por algum motivo, um panda sentiu acidentalmente "[FRAG]" várias vezes, tornando-se desperto como resultado.	
+40003	Panda Iluminado	Um panda "[FRAG]" várias vezes em [TXT], então teve uma Iluminação súbita e se tornou desperto.	
+40004	Animal Unido	Um panda veio para o seu secto. Parece gostar de estar aqui.	
+40005	Invasão de Bestas	Vários monstros panda apareceram nas proximidades, e parecem ser muito hostis.	

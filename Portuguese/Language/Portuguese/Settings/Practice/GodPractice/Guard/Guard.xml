@@ -1,294 +1,359 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Guard_LeiBu_1">
-			<DisplayName>Father of Thunder</DisplayName>
+			<DisplayName>Pai do Trovão</DisplayName>
 			<Names>Ying</Names>
-			<Desc>Guard that can wield the power of thunder. Worshiping of it comprehensively improves all your abilities, with extra bonuses to Artifact Mastery skill level and Artifact Power. However, it decreases your Recovery Rate of Artifact Qi.</Desc>
+			<Desc>Guardião que pode empunhar o poder do trovão. A adoração a ele melhora de forma abrangente todas as suas habilidades, com bônus extras ao nível de habilidade de Domínio de Artefato e Poder do Artefato. No entanto, isso diminui sua Taxa de Recuperação de Qi do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_2">
-			<DisplayName>Mother of Lightning</DisplayName>
+			<DisplayName>Mãe do Relâmpago</DisplayName>
 			<Names>Jiang</Names>
-			<Desc>Guard that can wield the power of lightning. Worshiping of it comprehensively improves all your abilities, with extra bonuses to Artifact Mastery skill level and Artifact Qi Recovery Rate. However, it decreases your Artifact Power.</Desc>
+			<Desc>Guardião que pode empunhar o poder do relâmpago. A adoração a ele melhora de forma abrangente todas as suas habilidades, com bônus extras ao nível de habilidade de Domínio de Artefato e Taxa de Recuperação de Qi do Artefato. No entanto, isso diminui seu Poder do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_3">
-			<DisplayName>Thunder General</DisplayName>
+			<DisplayName>General do Trovão</DisplayName>
 			<Names>Shan</Names>
-			<Desc>Guard that is capable of deploying clouds and regulating winds. Worshiping of it can slightly improve your abilities, with extra bonuses to Protection skill level. However, it decreases your Artifact Power.</Desc>
+			<Desc>Guardião que é capaz de implantar nuvens e regular ventos. A adoração a ele pode melhorar ligeiramente suas habilidades, com bônus extras ao nível de habilidade de Proteção. No entanto, isso diminui seu Poder do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_4">
-			<DisplayName>Cloud General</DisplayName>
+			<DisplayName>General das Nuvens</DisplayName>
 			<Names>Zhen</Names>
-			<Desc>Guard that is capable of generating rains and manifesting thunders. Worshiping of it can slightly improve your abilities, with extra bonuses to Protection skill level. However, it decreases your Artifact Qi Recovery Rate.</Desc>
+			<Desc>Guardião que é capaz de gerar chuvas e manifestar trovões. A adoração a ele pode melhorar ligeiramente suas habilidades, com bônus extras ao nível de habilidade de Proteção. No entanto, isso diminui sua Taxa de Recuperação de Qi do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_5">
-			<DisplayName>Skyrift Messenger</DisplayName>
+			<DisplayName>Mensageiro do Abismo Celestial</DisplayName>
 			<Names>Gong</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, with extra bonuses to Artifact Power, Artifact Qi and Artifact Qi Recovery Rate.</Desc>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, com bônus extras ao Poder do Artefato, Qi do Artefato e Taxa de Recuperação de Qi do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_6">
-			<DisplayName>Bolt Messenger</DisplayName>
+			<DisplayName>Mensageiro do Raio</DisplayName>
 			<Names>Lei</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, with extra bonuses to Artifact Power. However, it decreases your Barrier Power.</Desc>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, com bônus extras ao Poder do Artefato. No entanto, isso diminui seu Poder de Barreiras.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_7">
-			<DisplayName>Evernight Messenger</DisplayName>
+			<DisplayName>Mensageiro da Noite Eterna</DisplayName>
 			<Names>Xuan</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, with extra bonuses to Artifact Power, Spell Power but also increases Spell Cost.</Desc>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, com bônus extras ao Poder do Artefato, Poder de Feitiço, mas também aumenta o Custo de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_8">
-			<DisplayName>Celeste Messenger</DisplayName>
+			<DisplayName>Mensageiro Celeste</DisplayName>
 			<Names>Ding</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, with extra bonuses to Artifact Mastery skill level, Spell Power skill level and Protection skill level.</Desc>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, com bônus extras ao nível de habilidade de Domínio de Artefato, nível de habilidade de Poder de Feitiço e nível de habilidade de Proteção.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_9">
-			<DisplayName>Cardinal Messenger</DisplayName>
+			<DisplayName>Mensageiro Cardinal</DisplayName>
 			<Names>Zhou</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, and makes you learn the following Miracle: Meditation of Unification.</Desc>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, e faz você aprender a seguinte Milagre: Meditação da Unificação.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_1">
 			<DisplayName>Deva</DisplayName>
-			<Names>Di</Names>
-			<Desc>Head of the Eight Legions. Worshiping of it comprehensively improves all your abilities, and makes you learn the following Miracle: Meditation of Divinity.</Desc>
+			<Names>Imperador</Names>
+			<Desc>Chefe das Oito Legiões. A adoração a ele melhora de forma abrangente todas as suas habilidades e faz você aprender a seguinte Milagre: Meditação da Divindade.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_2">
 			<DisplayName>Naga</DisplayName>
 			<Names>Long</Names>
-			<Desc>Deity in charge of all living beings in ocean among the Eight Legions. Worshiping of it can slightly improves all your abilities, and makes you learn the following Spell: Dragon's Roar, and grants extra bonuses to your Spell skill level and Spell Power, but your Spell Cost will multiply.</Desc>
+			<Desc>Divindade encarregada de todos os seres vivos no oceano entre as Oito Legiões. A adoração a ele pode melhorar ligeiramente todas as suas habilidades e faz você aprender o seguinte Feitiço: Rugido do Dragão, e concede bônus extras ao seu nível de habilidade de Feitiço e Poder de Feitiço, mas seu Custo de Feitiço irá multiplicar.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_3">
 			<DisplayName>Yaksha</DisplayName>
 			<Names>Luo</Names>
-			<Desc>Deity representing agility and secrecy, a king of Guards among the Eight Legions. Worshiping of it slightly improves your abilities, and makes you learn the following Spell: Curse of Yaksha. It also increases your Spell Power and Spell Cost, and reduces Spell Cooldown and Spell Cast Delay.</Desc>
+			<Desc>Divindade que representa agilidade e segredo, um rei dos Guardiões entre as Oito Legiões. A adoração a ele melhora ligeiramente suas habilidades e faz você aprender o seguinte Feitiço: Maldição de Yaksha. Também aumenta seu Poder de Feitiço e Custo de Feitiço, e reduz o Tempo de Recarga de Feitiço e o Tempo de Lançamento de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_4">
 			<DisplayName>Gandharva</DisplayName>
 			<Names>Huan</Names>
-			<Desc>Guard that represents change among the Eight Legions. Worshiping of it slightly improves your abilities, with extra bonuses of increasing Artifact Qi Recovery Rate and reducing Spell Qi Cost.</Desc>
+			<Desc>Guardião que representa a mudança entre as Oito Legiões. A adoração a ele melhora ligeiramente suas habilidades, com bônus extras que aumentam a Taxa de Recuperação de Qi do Artefato e reduzem o Custo de Qi de Feitiço.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_1">
+			<DisplayName>Pai do Trovão</DisplayName>
+			<Names>Demônio</Names>
+			<Desc>Guardião que pode empunhar o poder do trovão. A adoração a ele melhora de forma abrangente todas as suas habilidades, com bônus extras ao nível de habilidade de Domínio de Artefato e Poder do Artefato. No entanto, isso diminui sua Taxa de Recuperação de Qi do Artefato.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_2">
+			<DisplayName>Mãe do Relâmpago</DisplayName>
+			<Names>Jiang</Names>
+			<Desc>Guardião que pode empunhar o poder do relâmpago. A adoração a ele melhora de forma abrangente todas as suas habilidades, com bônus extras ao nível de habilidade de Domínio de Artefato e Taxa de Recuperação de Qi do Artefato. No entanto, isso diminui seu Poder do Artefato.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_3">
+			<DisplayName>General do Trovão</DisplayName>
+			<Names>Shan</Names>
+			<Desc>Guardião que é capaz de implantar nuvens e regular ventos. A adoração a ele pode melhorar ligeiramente suas habilidades, com bônus extras ao nível de habilidade de Proteção. No entanto, isso diminui seu Poder do Artefato.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_4">
+			<DisplayName>General das Nuvens</DisplayName>
+			<Names>Zhen</Names>
+			<Desc>Guardião que é capaz de gerar chuvas e manifestar trovões. A adoração a ele pode melhorar ligeiramente suas habilidades, com bônus extras ao nível de habilidade de Proteção. No entanto, isso diminui sua Taxa de Recuperação de Qi do Artefato.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_5">
+			<DisplayName>Mensageiro do Abismo Celestial</DisplayName>
+			<Names>Gong</Names>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, com bônus extras ao Poder do Artefato, Qi do Artefato e Taxa de Recuperação de Qi do Artefato.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_6">
+			<DisplayName>Mensageiro do Raio</DisplayName>
+			<Names>Lei</Names>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, com bônus extras ao Poder do Artefato. No entanto, isso diminui seu Poder de Barreiras.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_7">
+			<DisplayName>Mensageiro da Noite Eterna</DisplayName>
+			<Names>Xuan</Names>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, com bônus extras ao Poder do Artefato, Poder de Feitiço, mas também aumenta o Custo de Feitiço.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_8">
+			<DisplayName>Mensageiro Celeste</DisplayName>
+			<Names>Ding</Names>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, com bônus extras ao nível de habilidade de Domínio de Artefato, nível de habilidade de Poder de Feitiço e nível de habilidade de Proteção.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_9">
+			<DisplayName>Mensageiro Cardinal</DisplayName>
+			<Names>Zhou</Names>
+			<Desc>Um dos Cinco Mensageiros do Trovão. A adoração a ele prolonga a Vida e aumenta o Max Qi, e faz você aprender a seguinte Milagre: Meditação da Unificação.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_1">
+			<DisplayName>Deva</DisplayName>
+			<Names>Di</Names>
+			<Desc>Chefe das Oito Legiões. A adoração a ele melhora de forma abrangente todas as suas habilidades e faz você aprender a seguinte Milagre: Meditação da Divindade.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_2">
+			<DisplayName>Naga</DisplayName>
+			<Names>Long</Names>
+			<Desc>Divindade encarregada de todos os seres vivos no oceano entre as Oito Legiões. A adoração a ele pode melhorar ligeiramente todas as suas habilidades e faz você aprender o seguinte Feitiço: Rugido do Dragão, e concede bônus extras ao seu nível de habilidade de Feitiço e Poder de Feitiço, mas seu Custo de Feitiço irá multiplicar.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_3">
+			<DisplayName>Yaksha</DisplayName>
+			<Names>Luo</Names>
+			<Desc>Divindade que representa agilidade e segredo, um rei dos Guardiões entre as Oito Legiões. A adoração a ele melhora ligeiramente suas habilidades e faz você aprender o seguinte Feitiço: Maldição de Yaksha. Também aumenta seu Poder de Feitiço e Custo de Feitiço, e reduz o Tempo de Recarga de Feitiço e o Tempo de Lançamento de Feitiço.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_4">
+			<DisplayName>Gandharva</DisplayName>
+			<Names>Huan</Names>
+			<Desc>Guardião que representa a mudança entre as Oito Legiões. A adoração a ele melhora ligeiramente suas habilidades, com bônus extras que aumentam a Taxa de Recuperação de Qi do Artefato e reduzem o Custo de Qi de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_5">
 			<DisplayName>Asura</DisplayName>
 			<Names>Mo</Names>
-			<Desc>Guard that represents killing among the Eight Legions. Worshiping of it slightly improves your abilities, and makes you learn the following Spell: Sword of Asura, with extra bonuses to your Battle skill level, Artifact Mastery skill level, Spell skill level and Protection skill level.</Desc>
+			<Desc>Guarda que representa a matança entre as Oito Legiões. A adoração a ele melhora ligeiramente suas habilidades e faz você aprender o seguinte Feitiço: Lâmina da Dança da Chuva, com bônus extras para seu nível de habilidade em Batalha, nível de Habilidade em Artefatos, nível de Habilidade em Feitiços e nível de Habilidade em Proteção.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_6">
 			<DisplayName>Garuda</DisplayName>
 			<Names>Peng</Names>
-			<Desc>Guard that represents solemnity among the Eight Legions. Worshiping of it slightly improves your abilities, with extra bonuses to your Artifact Flying Speed, Artifact Speed and Artifact Turn Speed.</Desc>
+			<Desc>Guarda que representa a solenidade entre as Oito Legiões. A adoração a ele melhora ligeiramente suas habilidades, com bônus extras para a Velocidade de Voo do Artefato, Velocidade do Artefato e Velocidade de Giro do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_7">
 			<DisplayName>Kinnara</DisplayName>
 			<Names>Yue</Names>
-			<Desc>Guard that represents peace and tranquility among the Eight Legions. Worshiping of it slightly improves your abilities, and makes you learn the following Spell: Tranquility, with extra bonuses to your Charisma, Lifespan and Max Qi.</Desc>
+			<Desc>Guarda que representa a paz e tranquilidade entre as Oito Legiões. A adoração a ele melhora ligeiramente suas habilidades e faz você aprender o seguinte Feitiço: Tranquilidade, com bônus extras para seu Carisma, Tempo de Vida e Máximo de Qi.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_8">
 			<DisplayName>Mahoraga</DisplayName>
 			<Names>Jie</Names>
-			<Desc>Guard that represents all living beings on land among the Eight Legions. Worshiping of it slightly improves your abilities, and makes you acquire the following Miracle: Meditation of Unification, with extra bonuses to your Barrier skill level and Barrier Power.</Desc>
+			<Desc>Guarda que representa todos os seres vivos na terra entre as Oito Legiões. A adoração a ele melhora ligeiramente suas habilidades e faz você adquirir a seguinte Milagre: Meditação da Unificação, com bônus extras para seu nível de Habilidade em Barreira e Poder da Barreira.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_1">
-			<DisplayName>Nether Judge</DisplayName>
+			<DisplayName>Juiz do Além</DisplayName>
 			<Names>Li</Names>
-			<Desc>Guard in charge of life and death in Netherworld. Worshiping of it improves all of your abilities, and makes you acquire the following Miracle: Yin Yang Reversal, with extra bonuses to your Guardian skill level and Max Qi.</Desc>
+			<Desc>Guarda responsável pela vida e pela morte no Mundo Infernal. A adoração a ele melhora todas as suas habilidades e faz você adquirir a seguinte Milagre: Inversão do Yin Yang, com bônus extras para seu nível de Habilidade em Guardião e Máximo de Qi.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_2">
-			<DisplayName>Black Judge</DisplayName>
+			<DisplayName>Juiz Negro</DisplayName>
 			<Names>Fan</Names>
-			<Desc>Soul snatcher of the Netherworld. Worshiping of it slightly improves all your abilities, and makes you learn the following Spell: Guard of Impermanence, with extra bonuses to your Artifact Mastery skill level, Artifact Power, Artifact Qi and Artifact Qi Recovery Rate.</Desc>
+			<Desc>Tomador de almas do Mundo Infernal. A adoração a ele melhora ligeiramente todas as suas habilidades e faz você aprender o seguinte Feitiço: Guarda da Impermanência, com bônus extras para seu nível de Habilidade em Artefatos, Poder do Artefato, Qi do Artefato e Taxa de Recuperação de Qi do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_3">
-			<DisplayName>White Judge</DisplayName>
+			<DisplayName>Juiz Branco</DisplayName>
 			<Names>Xie</Names>
-			<Desc>Soul snatcher of the Netherworld. Worshiping of it slightly improves all your abilities, with extra bonuses to your Spell skill level, Spell Power but also increases Spell Cost.</Desc>
+			<Desc>Tomador de almas do Mundo Infernal. A adoração a ele melhora ligeiramente todas as suas habilidades, com bônus extras para seu nível de Habilidade em Feitiços, Poder do Feitiço, mas também aumenta o Custo do Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_4">
-			<DisplayName>Ox-Head Messenger</DisplayName>
+			<DisplayName>Mensageiro de Cabeça de Boi</DisplayName>
 			<Names>Niu</Names>
-			<Desc>Patroller of the Netherworld. Worshiping of it slightly improves all your abilities, with extra bonuses to your Barrier Power and Artifact Power.</Desc>
+			<Desc>Patrulheiro do Mundo Infernal. A adoração a ele melhora ligeiramente todas as suas habilidades, com bônus extras para seu Poder da Barreira e Poder do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_5">
-			<DisplayName>Horse-Face Sergeant</DisplayName>
+			<DisplayName>Sergeant de Rosto de Cavalo</DisplayName>
 			<Names>Ma</Names>
-			<Desc>Patroller of the Netherworld. Worshiping of it slightly improves all your abilities, with extra bonuses to your Barrier Power and Spell Power.</Desc>
+			<Desc>Patrulheiro do Mundo Infernal. A adoração a ele melhora ligeiramente todas as suas habilidades, com bônus extras para seu Poder da Barreira e Poder do Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_6">
-			<DisplayName>Ferryman</DisplayName>
+			<DisplayName>Barqueiro</DisplayName>
 			<Names>Meng</Names>
-			<Desc>Driver of the ferryboat on the Nether River. Worshiping of it extends Lifespan and increases Max Qi, and makes you learn the following Miracle: Resurrection Spell, with extra bonuses to your Artifact Power and Spell Power.</Desc>
+			<Desc>Condutor da balsa no Rio do Além. A adoração a ele estende o Tempo de Vida e aumenta o Máximo de Qi, e faz você aprender a seguinte Milagre: Feitiço de Ressurreição, com bônus extras para seu Poder do Artefato e Poder do Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_7">
-			<DisplayName>Darkmountain Guardian</DisplayName>
+			<DisplayName>Guardião da Montanha Sombria</DisplayName>
 			<Names>He</Names>
-			<Desc>Guardian of the Darkmountain in Netherworld. Worshiping of it extends Lifespan and increases Max Qi, with the extra bonuses of increasing your Barrier Power and making you acquire the following Miracle: Meditation of Unification.</Desc>
+			<Desc>Guardião da Montanha Sombria no Mundo Infernal. A adoração a ele estende o Tempo de Vida e aumenta o Máximo de Qi, com bônus extras que aumentam seu Poder da Barreira e fazem você adquirir a seguinte Milagre: Meditação da Unificação.</Desc>
 		</Text>
 		<Text Name="Guard_Other_1">
 			<DisplayName>Dubhe</DisplayName>
 			<Names>Lü</Names>
-			<Desc>Spirit of a star that is incredibly ferocious. Worshiping of it improves all of your abilities, with extra bonuses to Artifact Power and Spell Power. However, it will significantly reduce your Lifespan.</Desc>
+			<Desc>Espírito de uma estrela que é incrivelmente feroz. A adoração a ele melhora todas as suas habilidades, com bônus extras para o Poder do Artefato e Poder do Feitiço. No entanto, isso reduzirá significativamente seu Tempo de Vida.</Desc>
 		</Text>
 		<Text Name="Guard_Other_2">
 			<DisplayName>Polis</DisplayName>
 			<Names>Sha</Names>
-			<Desc>Spirit of a star that is incredibly ferocious. Worshiping of it improves all of your abilities, with extra bonuses to Artifact Power and Spell Power. However, it will significantly reduce your Max Qi.</Desc>
+			<Desc>Espírito de uma estrela que é incrivelmente feroz. A adoração a ele melhora todas as suas habilidades, com bônus extras para o Poder do Artefato e Poder do Feitiço. No entanto, isso reduzirá significativamente seu Máximo de Qi.</Desc>
 		</Text>
 		<Text Name="Guard_Other_3">
 			<DisplayName>Alkaid</DisplayName>
 			<Names>Jun</Names>
-			<Desc>Spirit of a star that is incredibly ferocious. Worshiping of it improves all of your abilities, with extra bonuses to Artifact Power and Spell Power. However, it will significantly reduce your Barrier Power.</Desc>
+			<Desc>Espírito de uma estrela que é incrivelmente feroz. A adoração a ele melhora todas as suas habilidades, com bônus extras para o Poder do Artefato e Poder do Feitiço. No entanto, isso reduzirá significativamente seu Poder da Barreira.</Desc>
 		</Text>
 		<Text Name="Guard_Other_4">
-			<DisplayName>Crimson Spirit</DisplayName>
+			<DisplayName>Espírito Carmesim</DisplayName>
 			<Names>Chi</Names>
-			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonuses to Spell skill level and Spell Power.</Desc>
+			<Desc>Um dos antigos Guardas das cinco direções e cinco elementos. A adoração a ele pode melhorar ligeiramente todas as suas habilidades, com bônus extras para o nível de Habilidade em Feitiços e Poder do Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Other_5">
-			<DisplayName>White Spirit</DisplayName>
+			<DisplayName>Espírito Branco</DisplayName>
 			<Names>Bai</Names>
-			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonuses to Artifact skill level, Artifact Power, Artifact Qi Cap and Artifact Qi Recovery Rate.</Desc>
+			<Desc>Um dos antigos Guardas das cinco direções e cinco elementos. A adoração a ele pode melhorar ligeiramente todas as suas habilidades, com bônus extras para o nível de Habilidade em Artefatos, Poder do Artefato, Capacidade de Qi do Artefato e Taxa de Recuperação de Qi do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Other_6">
-			<DisplayName>Yellow Spirit</DisplayName>
+			<DisplayName>Espírito Amarelo</DisplayName>
 			<Names>Ji</Names>
-			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonuses to Protection skill level and Barrier Power.</Desc>
+			<Desc>Um dos antigos Guardas das cinco direções e cinco elementos. A adoração a ele pode melhorar ligeiramente todas as suas habilidades, com bônus extras para o nível de Habilidade em Proteção e Poder da Barreira.</Desc>
 		</Text>
 		<Text Name="Guard_Other_7">
-			<DisplayName>Black Spirit</DisplayName>
+			<DisplayName>Espírito Negro</DisplayName>
 			<Names>Zhi</Names>
-			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonus to Qi Sense.</Desc>
+			<Desc>Um dos antigos Guardas das cinco direções e cinco elementos. A adoração a ele pode melhorar ligeiramente todas as suas habilidades, com bônus extras para o Sentido de Qi.</Desc>
 		</Text>
 		<Text Name="Guard_Other_8">
-			<DisplayName>Azure Spirit</DisplayName>
+			<DisplayName>Espírito Azul</DisplayName>
 			<Names>Ling</Names>
-			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonus to Max Qi.</Desc>
+			<Desc>Um dos antigos Guardas das cinco direções e cinco elementos. A adoração a ele pode melhorar ligeiramente todas as suas habilidades, com bônus extras para o Máximo de Qi.</Desc>
 		</Text>
 		<Text Name="Guard_Other_9">
-			<DisplayName>Sea Spirit</DisplayName>
+			<DisplayName>Espírito do Mar</DisplayName>
 			<Names>Wang</Names>
-			<Desc>Guard with unknown divine heritage. Worshiping of it can slightly improve all of your abilities, with extra bonus to Spell Power.</Desc>
+			<Desc>Guarda com herança divina desconhecida. A adoração a ele pode melhorar ligeiramente todas as suas habilidades, com um bônus extra para o Poder de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Other_10">
-			<DisplayName>Mountain Spirit</DisplayName>
+			<DisplayName>Espírito da Montanha</DisplayName>
 			<Names>Tai</Names>
-			<Desc>Spirit of the Guard of mountains. Worshiping of it can slightly improve all of your abilities, with extra bonus to Barrier Power.</Desc>
+			<Desc>Espírito do Guarda das montanhas. A adoração a ele pode melhorar ligeiramente todas as suas habilidades, com um bônus extra para o Poder de Barreira.</Desc>
 		</Text>
 		<Text Name="Guard_Other_11">
-			<DisplayName>Flower Spirit</DisplayName>
+			<DisplayName>Espírito da Flor</DisplayName>
 			<Names>Xiang</Names>
-			<Desc>Spirit of the Guard of flowers. Worshiping of it slightly improves all your abilities, and makes you learn the following Spell: Curse of Luxuriance, with extra bonus to your Max Qi.</Desc>
+			<Desc>Espírito do Guarda das flores. A adoração a ele melhora ligeiramente todas as suas habilidades e faz com que você aprenda o seguinte Feitiço: Maldição da Luxuriância, com um bônus extra para seu Qi Máximo.</Desc>
 		</Text>
 		<Text Name="Guard_Other_12">
-			<DisplayName>Giant Spirit</DisplayName>
+			<DisplayName>Espírito Gigante</DisplayName>
 			<Names>Chong</Names>
-			<Desc>Guard with enormous physical strength. Worshiping of it can slightly improve all of your abilities, with extra bonuses to Artifact's Knockback and Artifact's Knockback Resistance.</Desc>
+			<Desc>Guarda com enorme força física. A adoração a ele pode melhorar ligeiramente todas as suas habilidades, com bônus extras para o Recuo de Artefatos e Resistência ao Recuo de Artefatos.</Desc>
 		</Text>
 		<Text Name="Guard_Base_1">
-			<DisplayName>Metal Sprite</DisplayName>
+			<DisplayName>Espirito Metálico</DisplayName>
 			<Names>Ren</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact skill level, Artifact Power, Artifact Qi Cap and Artifact Qi Recovery Rate.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu nível de habilidade de Artefato, Poder de Artefato, Limite de Qi de Artefato e Taxa de Recuperação de Qi de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_2">
-			<DisplayName>Wood Sprite</DisplayName>
+			<DisplayName>Espirito de Madeira</DisplayName>
 			<Names>Ye</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Max Qi.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu Qi Máximo.</Desc>
 		</Text>
 		<Text Name="Guard_Base_3">
-			<DisplayName>Water Sprite</DisplayName>
+			<DisplayName>Espirito de Água</DisplayName>
 			<Names>Liu</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Qi Sense.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar sua Percepção de Qi.</Desc>
 		</Text>
 		<Text Name="Guard_Base_4">
-			<DisplayName>Fire Sprite</DisplayName>
+			<DisplayName>Espirito de Fogo</DisplayName>
 			<Names>Yan</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Spell skill level and Spell Power.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu nível de habilidade de Feitiço e Poder de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Base_5">
-			<DisplayName>Earth Sprite</DisplayName>
+			<DisplayName>Espirito da Terra</DisplayName>
 			<Names>Chen</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Protection skill level and Barrier Power.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu nível de habilidade de Proteção e Poder de Barreira.</Desc>
 		</Text>
 		<Text Name="Guard_Base_6">
-			<DisplayName>Earth Fiend</DisplayName>
-			<Names>Can</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Lifespan.</Desc>
+			<DisplayName>Demônio da Terra</DisplayName>
+			<Names>P</Names>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar sua Longevidade.</Desc>
 		</Text>
 		<Text Name="Guard_Base_7">
-			<DisplayName>Wood Fiend</DisplayName>
+			<DisplayName>Demônio da Madeira</DisplayName>
 			<Names>Ling</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Max Qi.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu Qi Máximo.</Desc>
 		</Text>
 		<Text Name="Guard_Base_8">
-			<DisplayName>Metal Fiend</DisplayName>
+			<DisplayName>Demônio Metálico</DisplayName>
 			<Names>Mie</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact Power.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu Poder de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_9">
-			<DisplayName>Lake Sprite</DisplayName>
+			<DisplayName>Espirito do Lago</DisplayName>
 			<Names>Yu</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact Qi Recovery Rate.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar sua Taxa de Recuperação de Qi de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_10">
-			<DisplayName>Crystal Sprite</DisplayName>
+			<DisplayName>Espirito de Cristal</DisplayName>
 			<Names>Ming</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact Qi.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu Qi de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_11">
-			<DisplayName>Rock Sprite</DisplayName>
+			<DisplayName>Espirito de Rocha</DisplayName>
 			<Names>Hou</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Barrier Power.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu Poder de Barreira.</Desc>
 		</Text>
 		<Text Name="Guard_Base_12">
-			<DisplayName>Fire Fiend</DisplayName>
+			<DisplayName>Demônio de Fogo</DisplayName>
 			<Names>Chi</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Spell damage.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu dano de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Base_13">
-			<DisplayName>Water Fiend</DisplayName>
+			<DisplayName>Demônio da Água</DisplayName>
 			<Names>Jue</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can reduce your Spell Cast Delay.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode reduzir seu Tempo de Lançamento de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Base_14">
-			<DisplayName>Wind Sprite</DisplayName>
+			<DisplayName>Espirito do Vento</DisplayName>
 			<Names>Xiao</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Spell Artifact Flying Speed.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar a Velocidade de Voo do Artefato de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Base_15">
-			<DisplayName>Wind Fiend</DisplayName>
+			<DisplayName>Demônio do Vento</DisplayName>
 			<Names>Ming</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact Turn Speed.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar a Velocidade de Giro do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_16">
-			<DisplayName>Rock Fiend</DisplayName>
+			<DisplayName>Demônio da Rocha</DisplayName>
 			<Names>Zhi</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact's Knockback Distance.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar a Distância de Recuo do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_17">
-			<DisplayName>Pliable Fiend</DisplayName>
+			<DisplayName>Demônio Maleável</DisplayName>
 			<Names>Jian</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact's Knockback Resistance.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar a Resistência ao Recuo do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_18">
-			<DisplayName>Wood Guardian</DisplayName>
+			<DisplayName>Guardião da Madeira</DisplayName>
 			<Names>Ye</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can reduce your Spell Cooldown.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode reduzir o Tempo de Recarga de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Base_19">
-			<DisplayName>Water Guardian</DisplayName>
+			<DisplayName>Guardião da Água</DisplayName>
 			<Names>Bo</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can reduce your Spell Cast Delay.</Desc>
+			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode reduzir seu Tempo de Lançamento de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Base_20">
-			<DisplayName>Metal Guardian</DisplayName>
-			<Names>Tong</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact Mastery skill level.</Desc>
+			<DisplayName>Guardião Metálico</DisplayName>
+			<Names>Cobre</Names>
+			<Desc>Guardião não reclamado que pode ser visto em todo o mundo. Adorar este Guardião pode aumentar seu nível de habilidade de Maestria de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_21">
-			<DisplayName>Fire Guardian</DisplayName>
+			<DisplayName>Guardião de Fogo</DisplayName>
 			<Names>Yan</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Spell skill level.</Desc>
+			<Desc>Guardião não reclamado que pode ser visto em todo o mundo. Adorar este Guardião pode aumentar seu nível de habilidade de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Base_22">
-			<DisplayName>Earth Guardian</DisplayName>
+			<DisplayName>Guardião da Terra</DisplayName>
 			<Names>Mai</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Protection skill level.</Desc>
+			<Desc>Guardião não reclamado que pode ser visto em todo o mundo. Adorar este Guardião pode aumentar seu nível de habilidade de Proteção.</Desc>
 		</Text>
 	</List>
 </Texts>

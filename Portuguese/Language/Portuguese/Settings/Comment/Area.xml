@@ -1,28 +1,28 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="AreaRoom">
-			<Notes>Comment Panel of Room</Notes>
-			<Title>Room</Title>
+			<Notes>Painel de Comentário de Quarto</Notes>
+			<Title>Quarto</Title>
 			<Desc>Um espaço confinado cercado por paredes e pedras.</Desc>
 		</Text>
 		<Text Name="AreaWarehouse">
-			<Notes>Comment Panel of Storage</Notes>
-			<Title>Storage</Title>
+			<Notes>Painel de Comentário de Armazenamento</Notes>
+			<Title>Armazém</Title>
 			<Desc>Uma área para armazenar itens.</Desc>
 		</Text>
 		<Text Name="AreaFarmland">
-			<Notes>Comment Panel of Field</Notes>
-			<Title>Field</Title>
+			<Notes>Painel de Comentário de Campo</Notes>
+			<Title>Campo</Title>
 			<Desc>Uma área para plantio de safras.</Desc>
 		</Text>
 		<Text Name="AreaHerbsField">
-			<Notes>Comment Panel of Herb Garden</Notes>
-			<Title>Herb Garden</Title>
+			<Notes>Painel de Comentário de Jardim de Ervas</Notes>
+			<Title>Jardim de Ervas</Title>
 			<Desc>Uma área para plantio de medicamentos.</Desc>
 		</Text>
 		<Text Name="AreaTransaction">
-			<Notes>Comment Panel of Trade Area</Notes>
-			<Title>Trade Area</Title>
+			<Notes>Painel de Comentário de Area de Troca</Notes>
+			<Title>Area de Troca</Title>
 			<Desc>Uma área de comércio.</Desc>
 		</Text>
 	</List>

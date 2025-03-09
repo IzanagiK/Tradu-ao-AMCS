@@ -1,113 +1,113 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="HotStory_Fun_LingWu">
-			<DisplayName>Comprehension</DisplayName>
+			<DisplayName>Compreensão</DisplayName>
 			<Desc>[NAME] teve uma faísca de inspiração!</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 			<Selections.1.Display>Ganhou Compreensão</Selections.1.Display>
 		</Text>
 		<Text Name="HotStory_Fun_LingWu_DuShu">
-			<DisplayName>Search</DisplayName>
+			<DisplayName>Procurar</DisplayName>
 			<Desc>Enquanto lia antigos tomos, [NAME] descobriu algo fora do comum.</Desc>
 			<Selections.0.Display>Abriu novos caminhos</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu">
-			<DisplayName>Comprehension</DisplayName>
+			<DisplayName>Compreensão</DisplayName>
 			<Desc>[NAME] teve uma faísca de inspiração!</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingGan">
-			<DisplayName>Comprehension</DisplayName>
+			<DisplayName>Compreensão</DisplayName>
 			<Desc>[NAME] teve uma faísca de inspiração!</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Work_LingWu">
-			<DisplayName>Comprehension</DisplayName>
+			<DisplayName>Compreensão</DisplayName>
 			<Desc>[NAME] teve uma faísca de inspiração!</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Work_LingWu_Feed">
-			<DisplayName>Comprehension</DisplayName>
+			<DisplayName>Compreensão</DisplayName>
 			<Desc>[NAME] teve uma faísca de inspiração!</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu_CookingFailed">
-			<DisplayName>Comprehension</DisplayName>
+			<DisplayName>Compreensão</DisplayName>
 			<Desc>[NAME] teve uma faísca de inspiração!</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu_CookingSucceed">
-			<DisplayName>Comprehension</DisplayName>
+			<DisplayName>Compreensão</DisplayName>
 			<Desc>[NAME] teve uma faísca de inspiração!</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_LingWu">
-			<DisplayName>Comprehension</DisplayName>
+			<DisplayName>Compreensão</DisplayName>
 			<Desc>[NAME] teve uma faísca de inspiração!</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Brokening">
-			<DisplayName>Breakthrough Epiphany</DisplayName>
+			<DisplayName>Epifania de Avanço</DisplayName>
 			<Desc>[NAME] veio a entender algum Credo maior graças ao avanço.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_BrokenSucceed">
-			<DisplayName>Epiphany</DisplayName>
+			<DisplayName>Epifania</DisplayName>
 			<Desc>[NAME] veio a entender algum Credo maior graças ao avanço.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_BrokenFailed">
-			<DisplayName>Epiphany</DisplayName>
+			<DisplayName>Epifania</DisplayName>
 			<Desc>[NAME] veio a entender algum Credo maior graças ao avanço.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Golding">
-			<DisplayName>Core Shaping Epiphany</DisplayName>
+			<DisplayName>Epifania da Modelagem do Núcleo</DisplayName>
 			<Desc>[NAME] entrou em um Estado Liberado durante a formação do núcleo.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_GoldSucceed">
-			<DisplayName>Epiphany</DisplayName>
+			<DisplayName>Epifania</DisplayName>
 			<Desc>[NAME] alcançou algum entendimento depois de concluir a modelagem do núcleo.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_ThunderSucceed">
-			<DisplayName>Tribulation Epiphany</DisplayName>
+			<DisplayName>Epifania da Tribulação</DisplayName>
 			<Desc>[NAME] sobreviveu à tribulação e ganhou uma visão do mistério da natureza.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningDan">
-			<DisplayName>Alchemy Epiphany</DisplayName>
+			<DisplayName>Epifania da Alquimia</DisplayName>
 			<Desc>[NAME] teve uma epifania enquanto usava alquimia.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningDanFailed">
-			<DisplayName>Alchemy Epiphany</DisplayName>
+			<DisplayName>Epifania da Alquimia</DisplayName>
 			<Desc>[NAME] ganhou compreensão apesar de falhar usando a alquimia.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Refining">
-			<DisplayName>Artifact Crafting Epiphany</DisplayName>
+			<DisplayName>Epifania da Criação de Artefatos</DisplayName>
 			<Desc>[NAME] teve uma epifania ao usar a Criação de Artefatos.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningGod">
-			<DisplayName>Artifact Crafting Epiphany</DisplayName>
+			<DisplayName>Epifania da Criação de Artefatos</DisplayName>
 			<Desc>[NAME] teve uma faísca de inspiração!</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningFailed">
-			<DisplayName>Artifact Crafting Epiphany</DisplayName>
+			<DisplayName>Epifania da Criação de Artefatos</DisplayName>
 			<Desc>[NAME] ganhou compreensão apesar de falhar na criação de artefatos.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Fei_LingWu">
-			<DisplayName>Sudden Inspiration</DisplayName>
+			<DisplayName>Inspiração Repentina</DisplayName>
 			<Desc>[NAME] de repente teve uma epifania enquanto brincava com Fei.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_LuShu_LingWu">
-			<DisplayName>Sudden Inspiration</DisplayName>
+			<DisplayName>Inspiração Repentina</DisplayName>
 			<Desc>[NAME] de repente teve uma epifania enquanto brincava com Lushu.</Desc>
 			<Selections.0.Display>Ganhou Compreensão</Selections.0.Display>
 		</Text>

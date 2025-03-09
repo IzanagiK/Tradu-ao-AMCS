@@ -1,28 +1,28 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="LsPanda_Carve" sParam="Building">
-			<ThingName>Divine Panda Statue</ThingName>
-			<Desc>Estátua de um panda divino. Pode ser usado para reanimar ou invocar um panda divino.</Desc>
+			<ThingName>Estátua do Panda Divino</ThingName>
+			<Desc>Estátua de um panda divino. Pode ser usada para reanimar ou invocar um panda divino.</Desc>
 		</Text>
 		<Text Name="BambooBed" sParam="Building">
-			<ThingName>Bamboo Bed</ThingName>
-			<Desc>Uma cama aconchegante de bambu de solteiro que lhe pode proporcionar uma boa noite de sono.</Desc>
+			<ThingName>Cama de Bambu</ThingName>
+			<Desc>Uma cama aconchegante de bambu de solteiro que pode proporcionar uma boa noite de sono.</Desc>
 		</Text>
 		<Text Name="Building_BambooScreen1" sParam="Building">
-			<ThingName>Bamboo Folding Screen</ThingName>
+			<ThingName>Painel de Bambu Retrátil</ThingName>
 		</Text>
 		<Text Name="Building_WaterWheel" sParam="Building">
-			<ThingName>Waterwheel</ThingName>
+			<ThingName>Roda d'Água</ThingName>
 		</Text>
 		<Text Name="Building_BambooScreen2" sParam="Building">
-			<ThingName>Bamboo Folding Screen</ThingName>
+			<ThingName>Painel de Bambu Retrátil</ThingName>
 		</Text>
 		<Text Name="BambooLight" sParam="Building">
-			<ThingName>Bamboo Lamp Post</ThingName>
+			<ThingName>Poste de Luz de Bambu</ThingName>
 			<Desc>Uma luz decorativa que brilha durante a noite para iluminar o seu ambiente.</Desc>
 		</Text>
 		<Text Name="Building_BambooPavilion" sParam="Building">
-			<ThingName>Bamboo Pavilion</ThingName>
+			<ThingName>Pavilhão de Bambu</ThingName>
 		</Text>
 	</List>
 </Texts>

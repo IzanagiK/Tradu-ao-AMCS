@@ -4,116 +4,116 @@
 			<Desc>Uma estrutura decorativa. Pode afetar os Cinco Elementos do seu ambiente com base nos seus materiais.</Desc>
 		</Text>
 		<Text Name="Building_StoneMan" sParam="Building">
-			<ThingName>Stone Giant</ThingName>
+			<ThingName>Gigante de Pedra</ThingName>
 		</Text>
 		<Text Name="Building_Flag1" sParam="Building">
-			<ThingName>Dragon Flag</ThingName>
+			<ThingName>Bandeira do Dragão</ThingName>
 		</Text>
 		<Text Name="Building_Flag2" sParam="Building">
-			<ThingName>Trigrams Flag</ThingName>
+			<ThingName>Bandeira dos Trigramas</ThingName>
 		</Text>
 		<Text Name="Building_Flag3" sParam="Building">
-			<ThingName>Tai Chi Flag</ThingName>
+			<ThingName>Bandeira do Taiji</ThingName>
 		</Text>
 		<Text Name="Building_StoneLion" sParam="Building">
-			<ThingName>Stone Lion</ThingName>
+			<ThingName>Leão de Pedra</ThingName>
 		</Text>
 		<Text Name="Building_StoneLion2" sParam="Building">
-			<ThingName>Stone Lion</ThingName>
+			<ThingName>Leão de Pedra</ThingName>
 		</Text>
 		<Text Name="Building_StoneLion3" sParam="Building">
-			<ThingName>Stone Lion</ThingName>
+			<ThingName>Leão de Pedra</ThingName>
 		</Text>
 		<Text Name="Building_BigTripod" sParam="Building">
-			<ThingName>Cauldron</ThingName>
+			<ThingName>Caldeirão</ThingName>
 		</Text>
 		<Text Name="Building_SmallTripod" sParam="Building">
-			<ThingName>Cauldron</ThingName>
+			<ThingName>Caldeirão</ThingName>
 		</Text>
 		<Text Name="Building_BigCenser" sParam="Building">
-			<ThingName>Censer</ThingName>
+			<ThingName>Incensário</ThingName>
 		</Text>
 		<Text Name="Building_SmallCenser" sParam="Building">
-			<ThingName>Censer</ThingName>
+			<ThingName>Incensário</ThingName>
 		</Text>
 		<Text Name="Building_BigSwordPillar" sParam="Building">
-			<ThingName>Sword Shield</ThingName>
-			<Desc>Os artefatos de reserva podem ser usados para formar um Sword Shield, que pode ser ativado para defender ataque dos inimigos. O Escudo só pode proteger discípulos internos. Os artefatos não podem ser recuperados.</Desc>
+			<ThingName>Escudo de Espada</ThingName>
+			<Desc>Os artefatos de reserva podem ser usados para formar um Escudo de Espada, que pode ser ativado para defender ataques dos inimigos. O escudo só pode proteger discípulos internos. Os artefatos não podem ser recuperados.</Desc>
 		</Text>
 		<Text Name="Building_BigVase" sParam="Building">
-			<ThingName>Vase</ThingName>
+			<ThingName>Vaso</ThingName>
 		</Text>
 		<Text Name="Building_SmallVase" sParam="Building">
-			<ThingName>Vase</ThingName>
+			<ThingName>Vaso</ThingName>
 		</Text>
 		<Text Name="Building_Screen1" sParam="Building">
-			<ThingName>Folding Screen</ThingName>
+			<ThingName>Tela Dobrável</ThingName>
 		</Text>
 		<Text Name="Building_BookShelf" sParam="Building">
-			<ThingName>Decoration Shelf</ThingName>
+			<ThingName>Prateleira de Decoração</ThingName>
 		</Text>
 		<Text Name="Building_ItemShelf" sParam="Building">
-			<ThingName>Display</ThingName>
-			<Desc>Os Items podem ser selecionados e colocados na Tela</Desc>
+			<ThingName>Exibição</ThingName>
+			<Desc>Os itens podem ser selecionados e colocados na tela.</Desc>
 		</Text>
 		<Text Name="Building_ShuZhuangTai" sParam="Building">
-			<ThingName>Dressing Table</ThingName>
+			<ThingName>Toalete</ThingName>
 		</Text>
 		<Text Name="Building_Tower" sParam="Building">
-			<ThingName>Subduer Pagoda</ThingName>
+			<ThingName>Pagode do Subjugador</ThingName>
 		</Text>
 		<Text Name="Building_Tower2" sParam="Building">
-			<ThingName>Pagoda</ThingName>
+			<ThingName>Pagode</ThingName>
 		</Text>
 		<Text Name="Building_ShiBei" sParam="Building">
-			<ThingName>Stele</ThingName>
+			<ThingName>Estela</ThingName>
 		</Text>
 		<Text Name="Building_Zhong" sParam="Building">
-			<ThingName>Bell</ThingName>
-			<Desc>Um grande sino que pode ser tocado para alertar e convocar todos os discípulos externos que evitem o perigo, que precisa ser parado mas manualmente.Também pode ser usado como decoração, o que afeta os Cinco Elementos do seu ambiente com base nos seus materiais.</Desc>
+			<ThingName>Sineta</ThingName>
+			<Desc>Um grande sino que pode ser tocado para alertar e convocar todos os discípulos externos que evitem o perigo, que precisa ser parado manualmente. Também pode ser usado como decoração, o que afeta os Cinco Elementos do seu ambiente com base nos seus materiais.</Desc>
 		</Text>
 		<Text Name="Building_Gu" sParam="Building">
-			<ThingName>Drum</ThingName>
+			<ThingName>Tambor</ThingName>
 		</Text>
 		<Text Name="Building_JiaShan1" sParam="Building">
-			<ThingName>Rock Garden (Peak)</ThingName>
+			<ThingName>Jardim de Rochas (Pico)</ThingName>
 		</Text>
 		<Text Name="Building_JiaShan2" sParam="Building">
-			<ThingName>Rock Garden (Hill)</ThingName>
+			<ThingName>Jardim de Rochas (Colina)</ThingName>
 		</Text>
 		<Text Name="Building_PenZai1" sParam="Building">
-			<ThingName>Bonsai (Lush)</ThingName>
+			<ThingName>Bonsai (Luxuriante)</ThingName>
 		</Text>
 		<Text Name="Building_PenZai2" sParam="Building">
-			<ThingName>Bonsai (Pine)</ThingName>
+			<ThingName>Bonsai (Pinho)</ThingName>
 		</Text>
 		<Text Name="Building_PenZai3" sParam="Building">
-			<ThingName>Bonsai (Upright)</ThingName>
+			<ThingName>Bonsai (Vertical)</ThingName>
 		</Text>
 		<Text Name="Building_Tower1" sParam="Building">
-			<ThingName>Golden Pagoda</ThingName>
+			<ThingName>Pagode Dourado</ThingName>
 		</Text>
 		<Text Name="Building_ShiBei1" sParam="Building">
-			<ThingName>Force Stele</ThingName>
+			<ThingName>Estela da Força</ThingName>
 		</Text>
 		<Text Name="Building_Zhong1" sParam="Building">
-			<ThingName>Dragon Bell</ThingName>
+			<ThingName>Sineta do Dragão</ThingName>
 		</Text>
 		<Text Name="Building_Gu1" sParam="Building">
-			<ThingName>Dragon Drum</ThingName>
+			<ThingName>Tambor do Dragão</ThingName>
 		</Text>
 		<Text Name="Building_BookShelf_CangJing" sParam="Building">
-			<ThingName>Manual Pavilion</ThingName>
-			<Desc>Estante utilizada para manuais secretos, cada um tem uma capacidade de armazenamento de 100. Quanto mais espaço de armazenamento é necessário.</Desc>
+			<ThingName>Prateleira de Manuais</ThingName>
+			<Desc>Estante utilizada para manuais secretos, cada um com uma capacidade de armazenamento de 100. Quanto mais espaço de armazenamento é necessário.</Desc>
 		</Text>
 		<Text Name="Building_StoneYiJi1" sParam="Building">
-			<ThingName>Bixi Stele</ThingName>
+			<ThingName>Estela Bixi</ThingName>
 		</Text>
 		<Text Name="Building_StoneYiJi2" sParam="Building">
-			<ThingName>Decrepit Statue</ThingName>
+			<ThingName>Estátua Decrépita</ThingName>
 		</Text>
 		<Text Name="Building_JuNengDeng" sParam="Building">
-			<ThingName>Primordial Light</ThingName>
+			<ThingName>Luz Primordial</ThingName>
 		</Text>
 	</List>
 </Texts>

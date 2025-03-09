@@ -1,111 +1,111 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_Dice" sParam="Item">
-			<ThingName>Dice</ThingName>
+			<ThingName>Dados</ThingName>
 			<Desc>Um par de dados que pode ser usado para eliminar o tédio e melhorar o humor quando se está livre, mas eles prejudicarão a eficiência do trabalho.</Desc>
-			<Item.FabaoSuffix>Dice</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Dados</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SmallBell" sParam="Item">
-			<ThingName>Bell</ThingName>
+			<ThingName>Sino</ThingName>
 			<Desc>Um pequeno sino, ao levá-lo com você, melhora seu humor, além de atrair a atenção dos outros, tornando-os mais dispostos a se comunicar com você.</Desc>
-			<Item.FabaoSuffix>Bell</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Sino</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Bracelet" sParam="Item">
-			<ThingName>Bracelet</ThingName>
+			<ThingName>Pulseira</ThingName>
 			<Desc>Um par de pulseiras, usá-las torna você mais atraente.</Desc>
-			<Item.FabaoSuffix>Bracelet, Carving</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pulseira, Escultura</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Handkerchief" sParam="Item">
-			<ThingName>Handkerchief</ThingName>
+			<ThingName>Lenço</ThingName>
 			<Desc>Um lenço, carregá-lo faz de você uma pessoa de boas maneiras aos olhos dos outros.</Desc>
-			<Item.FabaoSuffix>Handkerchief, Silk, Textile</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Lenço, Seda, Tecido</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PerfumeBag" sParam="Item">
-			<ThingName>Scented Sachet</ThingName>
+			<ThingName>Saco Perfumado</ThingName>
 			<Desc>Um pequeno saco de ervas e especiarias perfumadas, melhora o estado mental de alguém quando usado por um discípulo interior.</Desc>
-			<Item.FabaoSuffix>Bag</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Saco</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WhiteHair" sParam="Item">
-			<ThingName>Poems of Sadness</ThingName>
+			<ThingName>Poemas de Tristeza</ThingName>
 			<Desc>Uma coleção de poemas com um forte sentimento de tristeza. O cabelo do portador ficará branco devido à influência do livro e difundir uma vibração melancólica, que faz com que se sinta atraente.</Desc>
-			<Item.FabaoSuffix>Volume, Book, Slips, Scroll</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Volume, Livro, Manuscritos, Pergaminho</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LunHui_PerfectWorld" sParam="Item">
-			<ThingName>A Beautiful World</ThingName>
-			<Desc>Uma caixa de outro mundo. Ao mergulhar a mente nele, pode-se jogar um jogo interessante e tocante.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<ThingName>Um Mundo Bonito</ThingName>
+			<Desc>Uma caixa de outro mundo. Ao mergulhar a mente nela, pode-se jogar um jogo interessante e tocante.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LunHui_QiYuanZhiXin" sParam="Item">
-			<ThingName>Heart of Prayer</ThingName>
+			<ThingName>Coração da Oração</ThingName>
 			<Desc>Tesouro que se manifestou através das orações e desejos de felicidade dos mortais.</Desc>
-			<Item.FabaoSuffix>Heart</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Coração</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LunHui_DongFangHeShenZhen" sParam="Item">
-			<ThingName>Spike of the He Sect</ThingName>
+			<ThingName>Ponta da Seita He</ThingName>
 			<Desc>Este objeto era originalmente um artefato de escolha de um imortal de espada. Embora tenha perdido todo o seu poder no processo de reencarnação com seu mestre, sua essência extraordinária ainda permanece.</Desc>
-			<Item.FabaoSuffix>Needle</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Agulha</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_MuBai_BaiYuShi" sParam="Item">
-			<ThingName>White Jade</ThingName>
+			<ThingName>Jade Branco</ThingName>
 			<Desc>Um pedaço de pedra de jade branca deixada pela Pérola Imortal. Embora pareça comum, pode melhorar muito a resiliência natural do usuário.</Desc>
-			<Item.FabaoSuffix>Rock</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pedra</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_QingLianShan_SiXiang" sParam="Item">
-			<ThingName>Painting of the Four Symbols</ThingName>
+			<ThingName>Pintura dos Quatro Símbolos</ThingName>
 			<Desc>Um diagrama misterioso deixado pelo Imortal Caerulea com grande poder. O portador da pintura pode utilizar a energia Qi local e o poder de rotação das quatro estações no Universo Ilimitado para enganar o caminho do Céu por 9 anos, sendo imune à Tribulação Celestial. Se o pergaminho de pintura não estiver equipado durante este processo, a Tribulação Celestial chegará imediatamente.</Desc>
-			<Item.FabaoSuffix>Picture</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Imagem</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Other_PuppetTest" sParam="Item">
-			<ThingName>Vessel</ThingName>
+			<ThingName>Recipiente</ThingName>
 			<Desc>Uma embarcação. Diz-se que existe um método secreto de dotar um Recipiente de Bênção registrado na Lei dos Dezesseis Passos Supremos.</Desc>
-			<Item.FabaoSuffix>Vessel</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Recipiente</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Yao_RabbitLuck" sParam="Item">
-			<ThingName>Rabbit Demon's Foot</ThingName>
+			<ThingName>Pé do Demônio Coelho</ThingName>
 			<Desc>Diz-se que traz boa sorte.</Desc>
 		</Text>
 		<Text Name="Item_Yao_WolfAtk" sParam="Item">
-			<ThingName>Wolf Demon's Fang</ThingName>
+			<ThingName>Fang do Demônio Lobo</ThingName>
 			<Desc>Uma presa de Demônio Lobo intacta cheia de energia negativa. Usá-lo aumenta muito o dano de artefato de um personagem.</Desc>
 		</Text>
 		<Text Name="Item_Yao_SnakeHanLin" sParam="Item">
-			<ThingName>Snake Demon's Scale</ThingName>
-			<Desc>Escala que tem uma concentração de Yin Qi de um Demônio Serpente. Permite ser invulnerável a altas temperaturas e ter um estado mental puro.</Desc>
+			<ThingName>Escama do Demônio Serpente</ThingName>
+			<Desc>Escama que tem uma concentração de Yin Qi de um Demônio Serpente. Permite ser invulnerável a altas temperaturas e ter um estado mental puro.</Desc>
 		</Text>
 		<Text Name="Item_Yao_BearPiMao" sParam="Item">
-			<ThingName>Bear Demon's Fur</ThingName>
+			<ThingName>Pelagem do Demônio Urso</ThingName>
 			<Desc>Os cabelos mais finos do pescoço de um Demônio Urso, com o violento Yang Qi morando dentro dele. Usá-lo permite ser invulnerável a baixas temperaturas e aumenta a velocidade de cultivo.</Desc>
 		</Text>
 		<Text Name="Item_Yao_TurtleKe" sParam="Item">
-			<ThingName>Giant Turtle's Shell</ThingName>
-			<Desc>A carapaça muito resistente de uma Tartaruga Gigante, usando-a pode aumentar enormemente a resistência a danos do Qi.</Desc>
+			<ThingName>Carapaça da Tartaruga Gigante</ThingName>
+			<Desc>A carapaça muito resistente de uma Tartaruga Gigante, usá-la pode aumentar enormemente a resistência a danos do Qi.</Desc>
 		</Text>
 		<Text Name="Item_Yao_TigerZhui" sParam="Item">
-			<ThingName>Tiger King's Bone</ThingName>
-			<Desc> Fatia de osso de um tigre Yaoguai resplandecente com poder autoritário. Usá-lo melhora o carisma e a realização.</Desc>
+			<ThingName>Osso do Rei Tigre</ThingName>
+			<Desc>Fatias de osso de um tigre Yaoguai resplandecente com poder autoritário. Usá-lo melhora o carisma e a realização.</Desc>
 		</Text>
 		<Text Name="Item_Yao_CattleJiao" sParam="Item">
-			<ThingName>Yaoguai Bull's Horn</ThingName>
+			<ThingName>Chifre do Touro Yaoguai</ThingName>
 			<Desc>O chifre duro temperado de um touro Yaoguai. Usá-lo melhora a Constituição.</Desc>
 		</Text>
 		<Text Name="Item_Yao_ChickenGuan" sParam="Item">
-			<ThingName>Gold Suncrown</ThingName>
-			<Desc>Coroa preciosa criada pela concentração da Essência Solar no topo da cabeça de uma galinha Yaoguai. Usá-lo melhora a inteligência.</Desc>
+			<ThingName>Coroa Dourada do Sol</ThingName>
+			<Desc>Coroa preciosa criada pela concentração da Essência Solar no topo da cabeça de uma galinha Yaoguai. Usá-la melhora a inteligência.</Desc>
 		</Text>
 		<Text Name="Item_StoneCutter" sParam="Item">
-			<ThingName>Scraper</ThingName>
-			<Desc>Faca com uma lâmina muito sem corte, originalmente destinada à mineração de jade. Devido à sua natureza como um instrumento contundente, ela pode construir muito rápido..</Desc>
+			<ThingName>Raspador</ThingName>
+			<Desc>Faca com uma lâmina muito sem corte, originalmente destinada à mineração de jade. Devido à sua natureza como um instrumento contundente, ela pode construir muito rápido.</Desc>
 		</Text>
 		<Text Name="Item_SewingDefender" sParam="Item">
-			<ThingName>Cloth Gauntlet</ThingName>
+			<ThingName>Manopla de Tecido</ThingName>
 			<Desc>Embora pareça uma braçadeira simples, ela pode acelerar o trabalho de costura utilizando a força do cotovelo.</Desc>
 		</Text>
 		<Text Name="Item_MillVell" sParam="Item">
-			<ThingName>Facemask</ThingName>
+			<ThingName>Máscara Facial</ThingName>
 			<Desc>Como ninguém o reconhecerá depois de cobrir o rosto, você pode amassar a massa ou acelerar outros trabalhos manuais como quiser, pois ninguém pode dizer se você fez bem ou não.</Desc>
 		</Text>
 		<Text Name="Item_Sys_RanSeYu" sParam="Item">
-			<ThingName>Dyed Jade</ThingName>
+			<ThingName>Jade Tingida</ThingName>
 			<Desc>Um tipo peculiar de jade. Uma vez ativado com feitiço, ele pode ser transformado em fumaça e anexado a uma pessoa sem ser detectado. Mas o lançador do feitiço poderá rastreá-lo.</Desc>
 			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
 		</Text>

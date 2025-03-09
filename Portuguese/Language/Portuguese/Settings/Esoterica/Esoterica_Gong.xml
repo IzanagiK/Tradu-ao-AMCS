@@ -3,15 +3,16 @@
 		<Text Name="God2_Dan">
 			<DisplayName>Pílula Eureka</DisplayName>
 			<Desc>Compreenda completamente os caminhos dos Céus depois de sobreviver à tribulação celestial. Depois de atingir um nível de alquimia de elite, você entende como o caminho dos céus pode ser aproveitado para criar elixires divinos.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Adquira as seguintes receitas de elixir: \nEureka Pill[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Adquira as seguintes receitas de elixir: \n
+Pílula Eureka[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="God2_Fabao">
-			<DisplayName>Artefato Taoísta</DisplayName>
+			<DisplayName>Ofício Taoísta</DisplayName>
 			<Desc>Compreenda completamente os caminhos dos Céus depois de sobreviver à tribulação celestial. Depois de atingir um nível de elite na criação dos céus, você entende como o caminho pode ser aproveitado para seus exercícios.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a taxa de sucesso de criar Grandes Artefatos.\nReduz significativamente a velocidade de criação de defensores.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_1">
-			<DisplayName>Mindful Springs</DisplayName>
+			<DisplayName>Fontes Conscientes</DisplayName>
 			<Desc>Visualize uma fonte jorrando em uma floresta ensolarada, acalmando e aprimorando sua mente. Esse treinamento fortalecedor de Qi está conectado bem com a terra ao seu redor, aumentando a cobertura de Qi.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Melhora o Estado Mental.\nAumenta a eficiência da absorção de Qi.[/color][/size]</EffectDesc>
 		</Text>
@@ -21,7 +22,7 @@
 			<EffectDesc>[size=10][color=#D06508]Aumente seu poder mágico.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_3">
-			<DisplayName>Canto do Windrider</DisplayName>
+			<DisplayName>Canção do Cavaleiro dos Ventos</DisplayName>
 			<Desc>Um canto místico que detalha a técnica de uso como força do vento para voar sobre a espada.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumente a velocidade de vôo em aventuras.\nMelhora suas habilidades de Bladeriding.[/color][/size]</EffectDesc>
 		</Text>
@@ -41,12 +42,12 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta muito o Qi Máximo.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_7">
-			<DisplayName>Essential Osmosis</DisplayName>
+			<DisplayName>Osmose de Essência</DisplayName>
 			<Desc>Complemente sua resistência interior com a força primordial da água, fortalecendo e revigorando todo o seu ser. Praticar esta habilidade aumenta significativamente a Constituição da pessoa.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta a Constituição em 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_8">
-			<DisplayName>Meridian Osmosis</DisplayName>
+			<DisplayName>Osmose de Meridianos</DisplayName>
 			<Desc>Suplemente seus meridianos com a força primordial da água, fortalecendo e revigorando todo o seu ser. Praticar esta habilidade aumenta significativamente o Carisma e a eficiência da Absorção de Qi.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta o Carisma em 10%.\nAumenta significativamente a eficiência de absorção de Qi.[/color][/size]</EffectDesc>
 		</Text>
@@ -103,7 +104,7 @@
 		<Text Name="Gong2_Esoterica_10">
 			<DisplayName>Análise Suprema da Criação</DisplayName>
 			<Desc>Técnicas de fabricação de artefatos transmitidas exclusivamente pela Seita da Avareza. Combinando notas sobre as propriedades físicas de inúmeros materiais em um guia inestimável, é considerado o santo graal dos manuais de artesanato.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a velocidade de criação de artefatos.\nAumenta significativamente a taxa de sucesso da criação de artefatos.\nMelhora significativamente o nível de artefatos criados.\nAumenta significativamente a qualidade dos artefatos criados.\n\nAdquira Talismãs: \nTalisman of Riches\nWonder Talisman[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a velocidade de criação de artefatos.\nAumenta significativamente a taxa de sucesso da criação de artefatos.\nMelhora significativamente o nível de artefatos criados.\nAumenta significativamente a qualidade dos artefatos criados.\n\nAdquira Talismãs: \nTalismã das Riquezas\nTalismã Maravilha[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_1">
 			<DisplayName>Intenção de matar</DisplayName>
@@ -181,8 +182,8 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta a velocidade do artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_16">
-			<DisplayName>Slash Chant</DisplayName>
-			<Desc>Uma técnica secreta usada no treinamento de esgrima, registrada na Seven-Slaughtering Sword. Requer muitos anos de prática para dominar.</Desc>
+			<DisplayName>Canto do Corte</DisplayName>
+			<Desc>Uma técnica secreta usada no treinamento de esgrima, registrada na Lâmina dos Sete Massacres. Requer muitos anos de prática para dominar.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta o Qi do Artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_17">
@@ -501,7 +502,7 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta a velocidade do artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_10">
-			<DisplayName>Grande Carruagem Ultimate (Canto Sete Estrelas)</DisplayName>
+			<DisplayName>Grande Carruagem Ultimate - Canto Sete Estrelas</DisplayName>
 			<Desc>Uma habilidade com poder incomparável, é a maior técnica da Lei da Luta.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumente o Poder do Artefato.\nAumenta a velocidade do artefato.\nAumenta a velocidade de giro do Artefato.[/color][/size]</EffectDesc>
 		</Text>
@@ -546,7 +547,7 @@
 			<EffectDesc>[size=10][color=#D06508]Melhora o Estado Mental.\nAumenta o poder mágico.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_6">
-			<DisplayName>Doutrina da Reencarnação</DisplayName>
+			<DisplayName>Escritura da Reencarnação</DisplayName>
 			<Desc>Uma doutrina misteriosa que se acredita originar-se do Netherworld, e forma a base para o Livro da Reencarnação. Aumenta muito o Max Qi.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta muito o Qi Máximo.[/color][/size]</EffectDesc>
 		</Text>
@@ -656,7 +657,7 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a Velocidade do Artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_3">
-			<DisplayName>Ensinamentos ligados à Terra</DisplayName>
+			<DisplayName>Ensinamentos da Força do Vazio</DisplayName>
 			<Desc>Um manual secreto que detalha como as forças terrestres podem ser usadas para cultivar um escudo de Qi.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta a eficácia do Qi Shield.[/color][/size]</EffectDesc>
 		</Text>
@@ -683,7 +684,7 @@
 		<Text Name="Gong11_Esoterica_8">
 			<DisplayName>Espírito ravel</DisplayName>
 			<Desc>Mova-se com uma velocidade incrível, como se o mundo tivesse encolhido abaixo de você, e você percorresse uma milha a cada passo.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Significantly increases Movement Speed.\nAumente a velocidade de vôo em aventuras.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a Vel. de Movimento.\nAumente a velocidade de vôo em aventuras.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_9">
 			<DisplayName>Notas sobre integridade moral</DisplayName>
@@ -701,14 +702,14 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta Significativamente a velocidade de giro do artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_12">
-			<DisplayName>Rocha lunar</DisplayName>
-			<Desc>Uma habilidade de espada que se origina das profundezas do Netherworld. Amass pure Yin energies within your blade, greatly enhancing your knockback resistance.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Aumenta Significativamente a Resistência ao Retorno do Artefato.[/color][/size]</EffectDesc>
+			<DisplayName>Rocha Lunar</DisplayName>
+			<Desc>Uma habilidade de espada que se origina das profundezas do Netherworld. Concentra energias puras de Yin em sua lâmina, aumentando significativamente sua resistência ao retrocesso.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Aumenta Significativamente a Resistência ao Retrocesso do Artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_13">
 			<DisplayName>Onda Abissal</DisplayName>
-			<Desc>Uma habilidade de espada que se origina das profundezas do Netherworld. Greatly enhances Artifact power at the expense of Artifact Qi recovery rate.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Aumente o Poder do Artefato.\nDecreases Artifact Qi recovery rate.[/color][/size]</EffectDesc>
+			<Desc>Uma habilidade de espada que se origina das profundezas do Netherworld. Aumenta significativamente o poder do Artefato à custa da taxa de recuperação de Qi do Artefato.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Aumente o Poder do Artefato.\nDiminui a taxa de recuperação de Qi do Artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_14">
 			<DisplayName>Impulso de Aniquilação</DisplayName>
@@ -728,37 +729,37 @@
 		<Text Name="Gong12_Esoterica_1">
 			<DisplayName>Livro Completo de Talismãs</DisplayName>
 			<Desc>Manual secreto que registrou alguns talismãs comuns necessários no cultivo.</Desc>
-			<EffectDesc>Desbloqueia talismãs: \nTalisman of Departing Shadow\nTalisman of Heavenly Heart\nTalisman of Tranquil Heart\nTalisman of Civil Prosperity\nTalisman of Military Prosperity</EffectDesc>
+			<EffectDesc>Desbloqueia talismãs: \nTalismã da Sombra Partente\nTalismã do Coração Celestial\nTalismã do Coração Tranquilo\nTalismã da Prosperidade Civil\nTalismã da Prosperidade Militar</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_2">
 			<DisplayName>Registros de Talismãs Profundos</DisplayName>
 			<Desc>Grava talismãs que podem melhorar as capacidades de defesa.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nDarkarmor Talisman</EffectDesc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã da Armadura Sombria</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_3">
-			<DisplayName>Registros de talismãs de espada</DisplayName>
+			<DisplayName>Registros de Talismãs de Espada</DisplayName>
 			<Desc>Grava talismãs que podem melhorar o domínio da espada.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nSharpsword Talisman</EffectDesc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã da Espada Afiada</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_4">
-			<DisplayName>Registros de talismãs de encantamento</DisplayName>
-			<Desc>Grava talismãs que podem melhorar o poder das Magia.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nVilecurse Talisman</EffectDesc>
+			<DisplayName>Registros de Talismãs de Encantamento</DisplayName>
+			<Desc>Grava talismãs que podem melhorar o poder da Magia.</Desc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã da Maldição Vil</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_5">
 			<DisplayName>Talismãs dos Céus</DisplayName>
-			<Desc>Ele registra poderosos talismãs que se pensava estarem perdidos há muito tempo. Esses talismãs são capazes de melhorar forçosamente a qualificação do usuário, portanto, são chamados de Heavensent.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nHeavensent Talisman</EffectDesc>
+			<Desc>Ele registra poderosos talismãs que se pensava estarem perdidos há muito tempo. Esses talismãs são capazes de melhorar forçosamente a qualificação do usuário, portanto, são chamados de Enviados dos Céus.</Desc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã Enviado dos Céus</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_6">
 			<DisplayName>Talismãs Celestiais</DisplayName>
 			<Desc>Diz-se que os talismãs registrados por este livro podem aproveitar o poder do céu.</Desc>
-			<EffectDesc>Desbloqueia talismã: \nHeavenlent Talisman</EffectDesc>
+			<EffectDesc>Desbloqueia talismã: \nTalismã Concedido pelo Céu</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_7">
-			<DisplayName>Supreme Divine Talismans</DisplayName>
+			<DisplayName>Talismãs Divinos Supremos</DisplayName>
 			<Desc>Talismãs circularam durante os tempos antigos que se dizia serem desenhados para o cultivo da Lei de Shendao, que foram perdidos há muito tempo.</Desc>
-			<EffectDesc>Desbloqueia talismãs: \nTalisman of Divine Residence\nTalisman of Divine Perception\nTalisman of Divine Authority\nTalisman of Divine Concealment</EffectDesc>
+			<EffectDesc>Desbloqueia talismãs: \nTalismã da Residência Divina\nTalismã da Percepção Divina\nTalismã da Autoridade Divina\nTalismã do Encobrimento Divino</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_8">
 			<DisplayName>Andarilho das Nuvens</DisplayName>

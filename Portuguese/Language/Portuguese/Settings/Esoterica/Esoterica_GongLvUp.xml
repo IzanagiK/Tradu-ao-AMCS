@@ -1,8 +1,8 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Gong1_LvUpEsoterica_1">
-			<DisplayName>Rainchant</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Rainchant\nInvoque as energias Qi que flutuam pelo céu e pela terra e infunda-as na planta alvo para aumentar ligeiramente sua taxa de crescimento por 7 dias. Menos eficaz em plantas de níveis mais altos.[/color][/size]</EffectDesc>
+			<DisplayName>Canto da Chuva</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Canto da Chuva\nInvoque as energias Qi que flutuam pelo céu e pela terra e infunda-as na planta alvo para aumentar ligeiramente sua taxa de crescimento por 7 dias. Menos eficaz em plantas de níveis mais altos.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_LvUpEsoterica_2">
 			<DisplayName>Infusão Arcana</DisplayName>
@@ -24,8 +24,8 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente o Qi Sense.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_LvUpEsoterica_6">
-			<DisplayName>Qi Aquasphere</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Qi Aquasphere\nUtilize magia poderosa para colocar uma aquasfera dentro da área designada, diminuindo a temperatura em todo o mapa. Aumenta significativamente a resiliência natural e a taxa de recuperação de Qi de todos os personagens amigáveis. Apenas um campo pode existir por vez.[/color][/size]</EffectDesc>
+			<DisplayName>Esfera Aquática de Qi</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Esfera Aquática de Qi\nUtilize magia poderosa para colocar uma aquasfera dentro da área designada, diminuindo a temperatura em todo o mapa. Aumenta significativamente a resiliência natural e a taxa de recuperação de Qi de todos os personagens amigáveis. Apenas um campo pode existir por vez.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_LvUpEsoterica_7">
 			<DisplayName>Amálgama</DisplayName>
@@ -77,21 +77,21 @@
 			<EffectDesc>[size=10][color=#D06508]Compreenda o verdadeiro significado de Sword Mastery e ultrapasse seu limite em 1 nível.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_LvUpEsoterica_8">
-			<DisplayName>Fatebreak Incantation</DisplayName>
+			<DisplayName>Incantação da Quebra do Destino</DisplayName>
 			<Desc>Tome o destino em suas próprias mãos em vez de aceitar as cartas que lhe foram dadas e aumente ainda mais os Cinco Atributos.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta cinco atributos em 20%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_LvUpEsoterica_9">
-			<DisplayName>Grande Chariot Bladezone</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Grand Chariot Bladezone\nUtilize magia poderosa para colocar uma bladezone dentro da área designada, aumentando significativamente o Poder do Artefato de todos os personagens aliados no mapa. Apenas um campo pode existir por vez.[/color][/size]</EffectDesc>
+			<DisplayName>Grande Zona de Lâmina do Carro</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Grande Zona de Lâmina do Carro\nUtilize magia poderosa para colocar uma bladezone dentro da área designada, aumentando significativamente o Poder do Artefato de todos os personagens aliados no mapa. Apenas um campo pode existir por vez.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_LvUpEsoterica_10">
-			<DisplayName>Grand Chariot Ultimate (Northsword Ultima)</DisplayName>
+			<DisplayName>Lâmina Grande Suprema (Northsword Ultima)</DisplayName>
 			<Desc>Uma habilidade com poder incomparável, é a maior técnica da Lei da Luta.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente o Poder do Artefato.\n Adquira Movimento Secreto: Possessed Northsword[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente o Poder do Artefato.\nAdquira Movimento Secreto: Northsword Possuído[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_LvUpEsoterica_11">
-			<DisplayName>Grand Chariot Ultimate (Blade Unity)</DisplayName>
+			<DisplayName>Lâmina Grande Suprema (Unidade de Lâmina)</DisplayName>
 			<Desc>Uma habilidade com poder incomparável, é a maior técnica da Lei da Luta.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta o número de artefatos em 1.[/color][/size]</EffectDesc>
 		</Text>
@@ -174,7 +174,7 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente o poder mágico.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_LvUpEsoterica_10">
-			<DisplayName>True Form - Nível III</DisplayName>
+			<DisplayName>Forma Verdadeira - Nível III</DisplayName>
 			<Desc>Através da canalização do Qi que é liberado durante a reencarnação, pode-se treinar para aperfeiçoar a forma física. Melhora muito o Max Qi.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta muito o Qi Máximo.[/color][/size]</EffectDesc>
 		</Text>
@@ -199,18 +199,18 @@
 			<EffectDesc>[size=10][color=#D06508]Adquirir habilidade: Astroflare[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_LvUpEsoterica_4">
-			<DisplayName>Qi Ignosphere</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Qi Ignosphere\nUtilize magia poderosa para colocar uma Qi Ignosphere dentro da área designada, aumentando a temperatura em todo o mapa. Aumenta significativamente o Poder Mágico para todos os personagens aliados. Apenas um campo pode existir por vez.[/color][/size]</EffectDesc>
+			<DisplayName>Esfera Ignosa de Qi</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Esfera Ignosa de Qi\nUtilize magia poderosa para colocar uma Esfera Ignosa de Qi dentro da área designada, aumentando a temperatura em todo o mapa. Aumenta significativamente o Poder Mágico para todos os personagens aliados. Apenas um campo pode existir por vez.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_LvUpEsoterica_5">
-			<DisplayName>Innerfire</DisplayName>
+			<DisplayName>Fogo Interno</DisplayName>
 			<Desc>Acenda uma chama de Qi no fundo de sua mente que queima continuamente para reduzir significativamente os intervalos e custos de lançamento.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Diminui significativamente o tempo de espera do lançamento de feitiços.\nDiminui o consumo de Qi dos feitiços.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_LvUpEsoterica_6">
-			<DisplayName>Infernoform</DisplayName>
+			<DisplayName>Forma do Inferno</DisplayName>
 			<Desc>Incorpore um fogo feroz ao atrair energias ígneas que permeiam as terras entre o céu e a terra.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a Tolerância à Temperatura.\nGanhe a capacidade de curar uma certa quantidade de Lesões Internas sustentadas.\nAumenta significativamente o Poder Mágico.[/color][/size]</EffectDesc >
+			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a Tolerância à Temperatura.\nGanhe a capacidade de curar uma certa quantidade de Lesões Internas sustentadas.\nAumenta significativamente o Poder Mágico.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_LvUpEsoterica_7">
 			<DisplayName>Esplendor Celestial</DisplayName>
@@ -220,12 +220,12 @@
 		<Text Name="Gong11_LvUpEsoterica_1">
 			<DisplayName>Forma Lunar Menor</DisplayName>
 			<Desc>Refine sua forma física usando uma forma menor da energia Yin Qi que emana da luz da lua. Resulta na inversão de gênero se o cultivador que a pratica for do sexo masculino.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Transforme as energias dentro do seu corpo para se tornarem as do Yin Menor.\nAumenta fundamentalmente o Qi Máximo.\nAumenta fundamentalmente o Poder do Artefato.[/color][/size]</EffectDesc >
+			<EffectDesc>[size=10][color=#D06508]Transforme as energias dentro do seu corpo para se tornarem as do Yin Menor.\nAumenta fundamentalmente o Qi Máximo.\nAumenta fundamentalmente o Poder do Artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_LvUpEsoterica_2">
 			<DisplayName>Formulário Lunarfrost</DisplayName>
 			<Desc>Refine a forma física usando a energia Yin Qi que emana da luz da lua apenas nas noites mais frias. Resulta na inversão de gênero se o cultivador que a pratica for do sexo masculino.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Transforme as energias do seu corpo para se tornarem Yin puro e gelado.\nAumenta fundamentalmente o Qi Máximo.\nCompreenda o verdadeiro significado de Domínio de Artefatos e supere sua limites em 3 níveis.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Transforme as energias do seu corpo para se tornarem Yin puro e gelado.\nAumenta fundamentalmente o Qi Máximo.\nCompreenda o verdadeiro significado de Domínio de Artefatos e supere seus limites em 3 níveis.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_LvUpEsoterica_3">
 			<DisplayName>Velocidade repentina</DisplayName>
@@ -237,9 +237,9 @@
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Forja do Espírito Etéreo\nAproveite as forças do Nether para invocar a alma de uma forma de vida inculta, aumentando assim o próprio Cultivo e ganhando Inspiração. Mais eficaz com alvos de maior inteligência.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_LvUpEsoterica_5">
-			<DisplayName>Void Aegis</DisplayName>
+			<DisplayName>Aegis do Vazio</DisplayName>
 			<Desc>Um manual secreto que detalha como as forças terrestres podem ser usadas para cultivar um escudo de Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a eficácia do Qi Shield.\nAdquirir Movimento Secreto: Void Aegis[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente a eficácia do Aegis de Qi.\nAdquirir Movimento Secreto: Aegis do Vazio[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_LvUpEsoterica_6">
 			<DisplayName>Rocha Lunar Menor</DisplayName>
@@ -347,7 +347,7 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente o Poder do Artefato.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_7">
-			<DisplayName>Selfsword II</DisplayName>
+			<DisplayName>Espada Interior II</DisplayName>
 			<Desc>O método final de combinar o espírito primitivo com o da espada. Aumenta significativamente o Poder do Artefato.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente o Poder do Artefato.[/color][/size]</EffectDesc>
 		</Text>
@@ -357,19 +357,19 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta o número de artefatos em 1.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_9">
-			<DisplayName>Selfsword III</DisplayName>
+			<DisplayName>Espada Interior III</DisplayName>
 			<Desc>O método final de combinar o espírito primitivo com o da espada. Quando treinado ao extremo, aumenta o número de artefatos que se pode controlar.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Aumenta o número de artefatos em 1.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_10">
 			<DisplayName>Artefato Legado: Matador Imortal</DisplayName>
-			<Desc>Artefato Legado Gravado: Receita de criação do Immortal Slayer.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Adquira o método de criação de artefatos legados: \nImmortal Slayer[/color][/size]</EffectDesc>
+			<Desc>Artefato Legado Gravado: Receita de criação do Matador Imortal.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Adquira o método de criação de artefatos legados: \nMatador Imortal[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_LvUpEsoterica_1">
-			<DisplayName>Soulsmite</DisplayName>
+			<DisplayName>Golpe da Alma</DisplayName>
 			<Desc>Emitir um feixe de luz incrivelmente rápido criado através da manipulação de campos magnéticos. Embora a habilidade consuma uma grande quantidade de Qi, é rápida e de grande poder.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Adquirir habilidade: Soulsmite[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir habilidade: Golpe da Alma[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_LvUpEsoterica_2">
 			<DisplayName>Meditação Astral</DisplayName>
@@ -520,39 +520,39 @@
 			<EffectDesc>[size=10][color=#D06508]Aumenta significativamente o Potencial.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_LvUpEsoterica_5">
-			<DisplayName>Sagely Stoic</DisplayName>
+			<DisplayName>Estoico Sábio</DisplayName>
 			<Desc>Abrace a torrente de emoções que emana do mundo ao seu redor até que você se torne tolerante com elas, e elas não o subjuguem mais. Veja este plano mortal com um coração inflexível e ganhe a aceitação de todos ao seu redor.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Melhora todas as habilidades de forma abrangente.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_LvUpEsoterica_6">
-			<DisplayName>Auraforce Blade</DisplayName>
+			<DisplayName>Espada da Força da Aura</DisplayName>
 			<Desc>A habilidade suprema ensinada no 'Caminho do Esquecimento' dos Sábios do Elixir. Encontre o seu verdadeiro eu, ao cortar todos os laços com o mundo mortal. Cultive uma Aura de Espada suprema que divide tudo em sua Lei, permitindo que você mate o inimigo mais fraco diante do poder de sua mente.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Adquirir habilidade: Auraforce Blade[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Adquirir habilidade: Espada da Força da Aura[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_LvUpEsoterica_7">
 			<DisplayName>Artefato Legado: Pena da Agilidade</DisplayName>
 			<Desc>Artefato Legado Gravado: Receita de criação da Pena da Agilidade.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Adquira o método de criação de artefatos legados: \nFeather of Agility[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Adquira o método de criação de artefatos legados: \nPena da Agilidade[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_LvUpEsoterica_1">
 			<DisplayName>Talismã da Espada Divina</DisplayName>
-			<Desc>Talisman que pode melhorar de forma abrangente suas habilidades de domínio da espada. Pode ser desenhado com Qi cultivado estudando a Lei dos Símbolos Primordiais.</Desc>
-			<EffectDesc>Desbloqueia talismãs: \nDivinesword Talisman\nSpiritsword Talisman\nSacredsword Talisman</EffectDesc>
+			<Desc>Talismã que pode melhorar de forma abrangente suas habilidades de domínio da espada. Pode ser desenhado com Qi cultivado estudando a Lei dos Símbolos Primordiais.</Desc>
+			<EffectDesc>Desbloqueia talismãs: \nTalismã da Espada Divina\nTalismã da Espada Espiritual\nTalismã da Espada Sagrada</EffectDesc>
 		</Text>
 		<Text Name="Gong12_LvUpEsoterica_2">
 			<DisplayName>Talismã Armadura Celestial</DisplayName>
-			<Desc>Talisman que pode melhorar de forma abrangente suas habilidades de proteção. Pode ser desenhado com Qi cultivado estudando a Lei dos Símbolos Primordiais.</Desc>
-			<EffectDesc>Desbloqueia talismãs: \nDaroth Talisman\nMetalarmor Talisman\nWoodarmor Talisman\nWaterarmor Talisman\nFirearmor Talisman\nEartharmor Talisman</EffectDesc>
+			<Desc>Talismã que pode melhorar de forma abrangente suas habilidades de proteção. Pode ser desenhado com Qi cultivado estudando a Lei dos Símbolos Primordiais.</Desc>
+			<EffectDesc>Desbloqueia talismãs: \nTalismã Daroth\nTalismã de Armadura Metálica\nTalismã de Armadura de Madeira\nTalismã de Armadura de Água\nTalismã de Armadura de Fogo\nTalismã de Armadura de Terra</EffectDesc>
 		</Text>
 		<Text Name="Gong12_LvUpEsoterica_3">
 			<DisplayName>Talismã da Maldição Divina</DisplayName>
-			<Desc>Talisman que pode melhorar suas habilidades de feitiço de forma abrangente. Pode ser desenhado com o Qi cultivado a partir da Lei dos Símbolos Primordiais.</Desc>
+			<Desc>Talismã que pode melhorar suas habilidades de feitiço de forma abrangente. Pode ser desenhado com o Qi cultivado a partir da Lei dos Símbolos Primordiais.</Desc>
 			<EffectDesc>Desbloqueia talismãs: \nTalismã da Maldição Divina\nTalismã da Maldição do Espírito\nTalismã da Maldição Sagrada</EffectDesc>
 		</Text>
 		<Text Name="Gong12_LvUpEsoterica_4">
 			<DisplayName>Talismã Encoberto do Céu</DisplayName>
-			<Desc>Talisman com qualidades mágicas de espíritos e divindades, sendo capaz de enganar até certo ponto os caminhos do céu.</Desc>
-			<EffectDesc>Desbloqueia talismãs: \nHeavenshrouding Talisman\nLatent Talismã</EffectDesc>
+			<Desc>Talismã com qualidades mágicas de espíritos e divindades, sendo capaz de enganar até certo ponto os caminhos do céu.</Desc>
+			<EffectDesc>Desbloqueia talismãs: \nTalismã do Céu Encoberto\nTalismã Latente</EffectDesc>
 		</Text>
 		<Text Name="Gong12_LvUpEsoterica_5">
 			<DisplayName>Livro dilacerante de Eastwood</DisplayName>

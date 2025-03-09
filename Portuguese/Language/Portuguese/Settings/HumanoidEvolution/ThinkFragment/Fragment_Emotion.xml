@@ -1,85 +1,85 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="SlightlyFear">
-			<DisplayName>A bit afraid</DisplayName>
+			<DisplayName>Um pouco assustado</DisplayName>
 			<SingleFormat.0>Senti {0} dos outros animais..</SingleFormat.0>
 			<SingleFormat.1>Senti {0} do novo ambiente..</SingleFormat.1>
 		</Text>
 		<Text Name="Fear">
-			<DisplayName>Afraid</DisplayName>
+			<DisplayName>Assustado</DisplayName>
 			<SingleFormat.0>Senti {0} das pessoas próximas..</SingleFormat.0>
 		</Text>
 		<Text Name="GreatlyFear">
-			<DisplayName>Terrified</DisplayName>
+			<DisplayName>Apavorado</DisplayName>
 			<SingleFormat.0>Relembrou seu inimigo natural e sentiu {0}..</SingleFormat.0>
 			<SingleFormat.1>Senti {0} sobre companheiros mortos.</SingleFormat.1>
 		</Text>
 		<Text Name="SlightlyHappy">
-			<DisplayName>A bit happy</DisplayName>
+			<DisplayName>Um pouco feliz</DisplayName>
 			<SingleFormat.0>Senti {0} sobre um dia claro e ensolarado.</SingleFormat.0>
 			<SingleFormat.1>Senti {0} sobre algo delicioso.</SingleFormat.1>
 		</Text>
 		<Text Name="Happy">
-			<DisplayName>Delighted</DisplayName>
+			<DisplayName>Deliciado</DisplayName>
 			<SingleFormat.0>Senti {0} nos arredores.</SingleFormat.0>
 		</Text>
 		<Text Name="GreatlyHappy">
-			<DisplayName>Ecstatic</DisplayName>
+			<DisplayName>Extasiado</DisplayName>
 			<SingleFormat.0>Sentiu {0} sobre o encontro com os parentes.</SingleFormat.0>
 		</Text>
 		<Text Name="SlightlyAnger">
-			<DisplayName>A bit ticked off</DisplayName>
+			<DisplayName>Um pouco irritado</DisplayName>
 			<SingleFormat.0>Senti {0} nas pessoas passando.</SingleFormat.0>
 		</Text>
 		<Text Name="Anger">
-			<DisplayName>Angry</DisplayName>
+			<DisplayName>Bravo</DisplayName>
 			<SingleFormat.0>Sentiu {0} sobre outros assumindo riscos.</SingleFormat.0>
 		</Text>
 		<Text Name="GreatlyAnger">
-			<DisplayName>Furious</DisplayName>
+			<DisplayName>Furioso</DisplayName>
 			<SingleFormat.0>Sentiu {0} sobre outros animais brigando.</SingleFormat.0>
 			<SingleFormat.1>Sentiu {0} por ter sofrido bullying.</SingleFormat.1>
 		</Text>
 		<Text Name="SlightlyWorry">
-			<DisplayName>A bit anxious</DisplayName>
+			<DisplayName>Um pouco ansioso</DisplayName>
 			<SingleFormat.0>Senti {0} na passagem de estranhos.</SingleFormat.0>
 		</Text>
 		<Text Name="Worry">
-			<DisplayName>Anxious</DisplayName>
+			<DisplayName>Ansioso</DisplayName>
 			<SingleFormat.0>Senti {0} sobre um rio profundo.</SingleFormat.0>
 			<SingleFormat.1>Senti {0} na beira de uma ravina.</SingleFormat.1>
 		</Text>
 		<Text Name="GreatlyWorry">
-			<DisplayName>Distraught</DisplayName>
+			<DisplayName>Desesperado</DisplayName>
 			<SingleFormat.0>Sentiu {0} sobre a morte.</SingleFormat.0>
 			<SingleFormat.1>Sentiu que {0} foi pego por humanos.</SingleFormat.1>
 		</Text>
 		<Text Name="SlightlyMiss">
-			<DisplayName>A vague yearning</DisplayName>
+			<DisplayName>Um anseio vago</DisplayName>
 			<SingleFormat.0>Senti {0} para algumas figuras difusas.</SingleFormat.0>
-			<SingleFormat.1>Feltro {0} para uma área panorâmica.</SingleFormat.1>
+			<SingleFormat.1>Senti {0} para uma área panorâmica.</SingleFormat.1>
 		</Text>
 		<Text Name="Miss">
-			<DisplayName>yearning</DisplayName>
+			<DisplayName>Saudade</DisplayName>
 			<SingleFormat.0>Senti {0} para a vida ao ar livre.</SingleFormat.0>
 			<SingleFormat.1>Senti {0} para companheiros.</SingleFormat.1>
 		</Text>
 		<Text Name="GreatlyMiss">
-			<DisplayName>Desire</DisplayName>
+			<DisplayName>Desejo</DisplayName>
 			<SingleFormat.0>Senti {0} sobre parentes de infância.</SingleFormat.0>
 			<SingleFormat.1>Sentiu {0} sobre riachos nas memórias.</SingleFormat.1>
 		</Text>
 		<Text Name="Peace">
-			<DisplayName>Tranquil</DisplayName>
+			<DisplayName>Tranquilo</DisplayName>
 			<SingleFormat.0>Senti {0} ao pisar em terra firme.</SingleFormat.0>
 			<SingleFormat.1>Senti {0} olhando para as criaturas que passavam.</SingleFormat.1>
 		</Text>
 		<Text Name="Eruption">
-			<DisplayName>Restlessness</DisplayName>
+			<DisplayName>Inquietação</DisplayName>
 			<SingleFormat.0>Instintivamente senti uma sensação de {0}.</SingleFormat.0>
 		</Text>
 		<Text Name="Regret">
-			<DisplayName>Regretful</DisplayName>
+			<DisplayName>Arrependido</DisplayName>
 			<SingleFormat.0>Senti {0} enquanto as flores de ameixa caíam.</SingleFormat.0>
 			<SingleFormat.1>Senti {0} enquanto as flores de ameixa caíam.</SingleFormat.1>
 		</Text>

@@ -1,7 +1,7 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Ls_FirstNoLing">
-			<DisplayName>Qi de Pet  esgotado</DisplayName>
+			<DisplayName>Qi de Pet esgotado</DisplayName>
 			<Desc>O Qi do animal de estimação foi esgotado. Você deve construir a estátua correspondente para ressuscitá-la, e o processo levará três dias.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
@@ -10,7 +10,7 @@
 			<Desc>Você só pode ter um animal de estimação. Este animal de estimação desaparecerá por um tempo. Para convocar este animal de estimação, você precisa primeiro construir sua estátua.</Desc>
 		</Text>
 		<Text Name="Ls_Outspread_Stability">
-			<DisplayName>Renowned Might</DisplayName>
+			<DisplayName>Poder Renomado</DisplayName>
 			<Desc>O dragão flutuante está voando alto, com nuvens escuras, raios e trovões enchendo o céu. Aqueles que cometeram atos ilícitos devem ter muito medo.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>

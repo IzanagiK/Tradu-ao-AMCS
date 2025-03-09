@@ -1,32 +1,41 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Boss_Xiongfeng">
-			<DisplayName>Phoenix</DisplayName>
+			<DisplayName>Fênix</DisplayName>
 		</Text>
 		<Text Name="Boss_XiongfengFight">
-			<DisplayName>Phoenix</DisplayName>
+			<DisplayName>Fênix</DisplayName>
 		</Text>
 		<Text Name="Boss_Xiongfeng_Part">
-			<DisplayName>Phoenix Body Part</DisplayName>
+			<DisplayName>Parte do Corpo da Fênix</DisplayName>
 		</Text>
 		<Text Name="Boss_Xiongfeng_huoling">
-			<DisplayName>Power of Fire Spirit</DisplayName>
-			<Desc>Phoenix concentra o poder do Fire Spirit até atingir 100 stacks, quando libera Flame Feather e entra na Forma Inferno.</Desc>
+			<DisplayName>Poder do Espírito do Fogo</DisplayName>
+			<Desc>Fênix concentra o poder do Espírito do Fogo até atingir 100 stacks, quando libera Pena de Chama e entra na Forma Inferno.</Desc>
 		</Text>
 		<Text Name="Boss_Xiongfeng_Huofeng">
-			<DisplayName>Inferno Form</DisplayName>
-			<Desc>Phoenix continua consumindo Espíritos do Fogo enquanto está na Forma Inferno. Quando terminar, recupere as penas de fogo restantes e restaure o Qi.</Desc>
+			<DisplayName>Forma Inferno</DisplayName>
+			<Desc>Fênix continua consumindo Espíritos do Fogo enquanto está na Forma Inferno. Quando terminar, recupere as penas de fogo restantes e restaure o Qi.</Desc>
 		</Text>
 		<Text Name="Boss_Xiongfeng_rongjin">
-			<DisplayName>Fuse</DisplayName>
+			<DisplayName>Fundir</DisplayName>
 			<Desc>Causa dano após um período de tempo. Cultivadores não metálicos recebem apenas 1/3 do dano.</Desc>
 		</Text>
 		<Text Name="Boss_Xiongfeng_yishang">
-			<DisplayName>Vulnerable</DisplayName>
-			<Desc>Phoenix é vulnerável.</Desc>
+			<DisplayName>Vulnerável</DisplayName>
+			<Desc>Fênix é vulnerável.</Desc>
 		</Text>
 		<Text Name="Boss_Xiongfeng_taiyangzhiyan">
-			<DisplayName>Solar Eye</DisplayName>
+			<DisplayName>Olho Solar</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng2">
+			<DisplayName>Fênix</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part2">
+			<DisplayName>Parte do Corpo da Fênix</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan2">
+			<DisplayName>Olho Solar</DisplayName>
 		</Text>
 	</List>
 </Texts>

@@ -1,62 +1,62 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Modifier_SpNpc_BasePropertie">
-			<DisplayName>Starting Stats</DisplayName>
+			<DisplayName>Estatísticas Iniciais</DisplayName>
 		</Text>
 		<Text Name="Modifier_SpNpc_BaseFightPropertie">
-			<DisplayName>Base Battle Stats</DisplayName>
+			<DisplayName>Estatísticas Básicas de Batalha</DisplayName>
 		</Text>
 		<Text Name="Modifier_SpNpc_Ling">
-			<DisplayName>Spiritual</DisplayName>
+			<DisplayName>Espiritual</DisplayName>
 			<Desc>Esta pessoa tem uma base profundamente construída, com energia Qi sem fundo.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_Shield">
-			<DisplayName>Resilient</DisplayName>
+			<DisplayName>Resiliente</DisplayName>
 			<Desc>Esta pessoa tem um corpo de ferro, sendo excepcionalmente boa em habilidades de proteção.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoAtk">
-			<DisplayName>Keen</DisplayName>
+			<DisplayName>Afiado</DisplayName>
 			<Desc>Essa pessoa utiliza um Artefato como o trovão, com um poder esmagadoramente surpreendente</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoLing">
-			<DisplayName>Robust</DisplayName>
+			<DisplayName>Robusto</DisplayName>
 			<Desc>Esta pessoa utiliza um Artefato como uma montanha, com uma força indestrutível de solidez.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoSpeed">
-			<DisplayName>Nimble</DisplayName>
+			<DisplayName>Ágil</DisplayName>
 			<Desc>Esta pessoa utiliza um Artefato como um relâmpago, com sua velocidade tão rápida quanto um trovão.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoDisp">
-			<DisplayName>Masterful</DisplayName>
+			<DisplayName>Hábil</DisplayName>
 			<Desc>Esta pessoa utiliza Artefatos com graça e elegância incomparáveis.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoNum">
-			<DisplayName>Versatile</DisplayName>
+			<DisplayName>Versátil</DisplayName>
 			<Desc>Esta pessoa pode dominar vários artefatos.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FightSkillAtk">
-			<DisplayName>Mystic</DisplayName>
+			<DisplayName>Místico</DisplayName>
 			<Desc>Esta pessoa possui um poder mágico incomparável.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FightSkillCD">
-			<DisplayName>Swift</DisplayName>
+			<DisplayName>Rápido</DisplayName>
 			<Desc>Esta pessoa tem Recuperação de Atraso de Conjuração de Feitiços muito rápida.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_Comeback">
-			<DisplayName>Nemesis</DisplayName>
+			<DisplayName>Nêmesis</DisplayName>
 			<Desc>Quando ficar cara a cara com o arqui-inimigo, a força de alguém se torna mais forte do que nunca devido ao ódio.</Desc>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
-			<DisplayName>Qi Shaping Minimum</DisplayName>
+			<DisplayName>Mínimo de Modelagem de Qi</DisplayName>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
-			<DisplayName>Core Shaping Minimum</DisplayName>
+			<DisplayName>Mínimo de Modelagem do Núcleo</DisplayName>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
-			<DisplayName>Golden Core Minimum</DisplayName>
+			<DisplayName>Mínimo do Núcleo Dourado</DisplayName>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_God">
-			<DisplayName>Primordial Spirit Minimum</DisplayName>
+			<DisplayName>Mínimo do Espírito Primordial</DisplayName>
 		</Text>
 	</List>
 </Texts>

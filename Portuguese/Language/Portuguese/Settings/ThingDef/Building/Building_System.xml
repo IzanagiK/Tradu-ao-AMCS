@@ -1,152 +1,152 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="SYS_LOASBUILDING" sParam="Building">
-			<ThingName>Lost Building</ThingName>
-			<Desc>Uma Construção perdida que ninguém reconhece. \n(Vazio)</Desc>
+			<ThingName>Edifício Perdido</ThingName>
+			<Desc>Uma construção perdida que ninguém reconhece. \n(Vazio)</Desc>
 		</Text>
 		<Text Name="FillSoil" sParam="Building">
-			<ThingName>Soil</ThingName>
+			<ThingName>Solo</ThingName>
 			<Desc>Reconstruir uma área no solo. Este trabalho vai demorar muito tempo.</Desc>
 		</Text>
 		<Text Name="FillFertileSoil" sParam="Building">
-			<ThingName>Fertile Soil</ThingName>
+			<ThingName>Solo Fértil</ThingName>
 			<Desc>Reconstruir uma área terrestre em solo fértil. Este trabalho vai demorar muito tempo.</Desc>
 		</Text>
 		<Text Name="FillShallowWater" sParam="Building">
-			<ThingName>Shallow Water</ThingName>
-			<Desc>Reconstruir uma área subterrânea em Água rasa. Este trabalho demorará muito tempo.</Desc>
+			<ThingName>Água Rasa</ThingName>
+			<Desc>Reconstruir uma área subterrânea em água rasa. Este trabalho demorará muito tempo.</Desc>
 		</Text>
 		<Text Name="NPCBornPoint_SchoolCore" sParam="Building">
-			<ThingName>Main NPC Spawn Point</ThingName>
+			<ThingName>Ponto de Renascimento Principal de NPC</ThingName>
 		</Text>
 		<Text Name="NPCBornPoint_Ordinary" sParam="Building">
-			<ThingName>Mortal Spawn Point</ThingName>
+			<ThingName>Ponto de Renascimento Mortal</ThingName>
 		</Text>
 		<Text Name="NPCBornPoint_Random" sParam="Building">
-			<ThingName>Common Cultivator</ThingName>
+			<ThingName>Cultivador Comum</ThingName>
 		</Text>
 		<Text Name="NPCBornPoint_Fill" sParam="Building">
-			<ThingName>Filler Cultivator</ThingName>
+			<ThingName>Cultivador Preenchedor</ThingName>
 		</Text>
 		<Text Name="NPCBornPoint_JYMonster" sParam="Building">
-			<ThingName>Beast Spawn Point</ThingName>
+			<ThingName>Ponto de Renascimento de Bestas</ThingName>
 		</Text>
 		<Text Name="NPCBornPoint_Animal" sParam="Building">
-			<ThingName>Animal Spawn Point</ThingName>
+			<ThingName>Ponto de Renascimento de Animais</ThingName>
 		</Text>
 		<Text Name="BDSetPoint_Gong" sParam="Building">
-			<ThingName>Law Spawn Point</ThingName>
+			<ThingName>Ponto de Renascimento da Lei</ThingName>
 		</Text>
 		<Text Name="NPCBornPoint_RPG" sParam="Building">
-			<ThingName>Character Spawn Point</ThingName>
+			<ThingName>Ponto de Renascimento de Personagem</ThingName>
 		</Text>
 		<Text Name="NormalPoint_RPG" sParam="Building">
-			<ThingName>Logic Point</ThingName>
+			<ThingName>Ponto de Lógica</ThingName>
 		</Text>
 		<Text Name="BDSetPoint_Outs" sParam="Building">
-			<ThingName>Expand Building Foundation</ThingName>
-			<StoryBnts.0.Name>Export Building Content</StoryBnts.0.Name>
+			<ThingName>Expandir Fundação do Edifício</ThingName>
+			<StoryBnts.0.Name>Exportar Conteúdo do Edifício</StoryBnts.0.Name>
 		</Text>
 		<Text Name="FillBuild_Hide" sParam="Building">
 			<Desc>Um edifício oculto, utilizado para atualizar a superfície da terra.</Desc>
 		</Text>
 		<Text Name="FillBuild_Empty" sParam="Building">
-			<Desc>construção oculta utilizada para posicionamento.</Desc>
+			<Desc>Construção oculta utilizada para posicionamento.</Desc>
 		</Text>
 		<Text Name="HideBuild_Empty" sParam="Building">
-			<Desc>edifício oculto utilizado para posicionamento, é inútil, caso contrário</Desc>
+			<Desc>Edifício oculto utilizado para posicionamento, é inútil, caso contrário.</Desc>
 		</Text>
 		<Text Name="Building_SwordTower" sParam="Building">
-			<ThingName>Sword Subduer</ThingName>
+			<ThingName>Torre do Suprimidor de Espadas</ThingName>
 			<Desc>Uma enorme torre subterrânea, parece ser usada para suprimir algo.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_HenZhiBei" sParam="Building">
-			<ThingName>Stele of Hatred</ThingName>
-			<Desc>Uma estela com as palavras "Stele of Hatred" escritas nela. Quem é Hatred?</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<ThingName>Estela do Ódio</ThingName>
+			<Desc>Uma estela com as palavras "Estela do Ódio" escritas nela. Quem é o Ódio?</Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_LongZhiBei" sParam="Building">
-			<ThingName>Stele of Dragon</ThingName>
-			<Desc>Diz "Stele of Dragon" e tem um cheiro terrível. Será que os dragões também precisam de ser enterrados?</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<ThingName>Estela do Dragão</ThingName>
+			<Desc>Diz "Estela do Dragão" e tem um cheiro terrível. Será que os dragões também precisam ser enterrados?</Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ShouZhiBei" sParam="Building">
-			<ThingName>Stele of Beasts</ThingName>
-			<Desc>Diz "Stele of Beasts" sobre ela.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<ThingName>Estela das Bestas</ThingName>
+			<Desc>Diz "Estela das Bestas" sobre ela.</Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_JiZhiBei" sParam="Building">
-			<ThingName>Stele of Extremity</ThingName>
-			<Desc>Diz "Stele of Extremity" sobre ela.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<ThingName>Estela da Extremidade</ThingName>
+			<Desc>Diz "Estela da Extremidade" sobre ela.</Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_HuanZhiBei" sParam="Building">
-			<ThingName>Stele of Illusion</ThingName>
-			<Desc>Diz "Stele of Illusion" sobre ela.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<ThingName>Estela da Ilusão</ThingName>
+			<Desc>Diz "Estela da Ilusão" sobre ela.</Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ZhongBei" sParam="Building">
-			<ThingName>End Stele</ThingName>
-			<Desc>Diz "End Stele" sobre ela.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<ThingName>Estela Final</ThingName>
+			<Desc>Diz "Estela Final" sobre ela.</Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_LingBei" sParam="Building">
-			<ThingName>Spirit Stele</ThingName>
-			<Desc>Diz "Spirit Stele" sobre ela.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<ThingName>Estela Espiritual</ThingName>
+			<Desc>Diz "Estela Espiritual" sobre ela.</Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_XingBei" sParam="Building">
-			<ThingName>Star Stele</ThingName>
-			<Desc>Diz "Star Stele" sobre ela.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<ThingName>Estela das Estrelas</ThingName>
+			<Desc>Diz "Estela das Estrelas" sobre ela.</Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_MuBei" sParam="Building">
-			<ThingName>Wood Stele</ThingName>
-			<Desc>Diz "Wood Stele" sobre ela.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<ThingName>Estela de Madeira</ThingName>
+			<Desc>Diz "Estela de Madeira" sobre ela.</Desc>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_TaiYiMen" sParam="Building">
-			<ThingName>Gate of Taiyi</ThingName>
-			<Desc>Gate frontal da Taiyi Sect.</Desc>
-			<StoryBnts.0.Name>Visit Sect</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Visit the Taiyi Sect.</StoryBnts.0.Desc>
+			<ThingName>Portão de Taiyi</ThingName>
+			<Desc>Portão frontal da Seita Taiyi.</Desc>
+			<StoryBnts.0.Name>Visitar Seita</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Visite a Seita Taiyi.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="StreetNoLight" sParam="Building">
-			<ThingName>Lamp Post</ThingName>
+			<ThingName>Poste de Luz</ThingName>
 			<Desc>Uma luz decorativa que brilha durante a noite para iluminar o seu ambiente.</Desc>
-			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspecionar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspecionar</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="FireLantern" sParam="Building">
-			<ThingName>Lantern</ThingName>
-			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<ThingName>Lanterna</ThingName>
+			<StoryBnts.0.Name>Inspecionar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspecionar</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="GolemLantern" sParam="Building">
-			<ThingName>Lamp Post</ThingName>
-			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<ThingName>Poste de Luz</ThingName>
+			<StoryBnts.0.Name>Inspecionar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspecionar</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="OddLantern" sParam="Building">
-			<ThingName>Lantern</ThingName>
-			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<ThingName>Lanterna</ThingName>
+			<StoryBnts.0.Name>Inspecionar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspecionar</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_TaiYiTower" sParam="Building">
-			<ThingName>Subduer Pagoda</ThingName>
+			<ThingName>Pagode do Suprimidor</ThingName>
 			<Desc>Preciosa pagoda da Seita Taiyi. Sobreviveu à catástrofe.</Desc>
-			<StoryBnts.0.Name>Treasure Hunt</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Caça ao Tesouro</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente procurar tesouros dentro.</StoryBnts.0.Desc>
 		</Text>
 	</List>

@@ -1,75 +1,75 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="LingShouShitPlace" sParam="Building">
-			<ThingName>Pet Defecation Spot</ThingName>
-			<Desc>Selecione um local para os seus pets defecar.</Desc>
+			<ThingName>Local de Defecação de Pets</ThingName>
+			<Desc>Selecione um local para os seus pets defecarem.</Desc>
 		</Text>
 		<Text Name="LSEnemyCarryPlace" sParam="Building">
-			<ThingName>Enemy Staging Area</ThingName>
-			<Desc>Os pets podem mover inimigos inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte sendo a mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Inimigos</ThingName>
+			<Desc>Os pets podem mover inimigos inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSWaiCarryPlace" sParam="Building">
-			<ThingName>Outer Disciple Staging Area</ThingName>
-			<Desc>Os pets podem mover Discípulos Exteriores inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Discípulos Exteriores</ThingName>
+			<Desc>Os pets podem mover Discípulos Exteriores inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSNeiCarryPlace" sParam="Building">
-			<ThingName>Inner Disciple Staging Area</ThingName>
-			<Desc>Os pets podem mover Discípulos Interiores inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Discípulos Interiores</ThingName>
+			<Desc>Os pets podem mover Discípulos Interiores inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSVistorCarryPlace" sParam="Building">
-			<ThingName>Visitor Staging Area</ThingName>
-			<Desc>Os pets podem mover Visitantes inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Visitantes</ThingName>
+			<Desc>Os pets podem mover Visitantes inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSIncomingCarryPlace" sParam="Building">
-			<ThingName>Guest Staging Area</ThingName>
-			<Desc>Os pets podem mover Convidados inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Convidados</ThingName>
+			<Desc>Os pets podem mover Convidados inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSEnemyBodyCarryPlace" sParam="Building">
-			<ThingName>Enemy Corpse Staging Area</ThingName>
-			<Desc>Os pets podem mover cadáveres inimigos para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Cadáveres de Inimigos</ThingName>
+			<Desc>Os pets podem mover cadáveres inimigos para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSWaiBodyCarryPlace" sParam="Building">
-			<ThingName>Outer Disciple Corpse Staging Area</ThingName>
-			<Desc>Os pets podem mover os Cadáveres dos Discípulos Exteriores para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Cadáveres de Discípulos Exteriores</ThingName>
+			<Desc>Os pets podem mover os cadáveres dos Discípulos Exteriores para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSNeiBodyCarryPlace" sParam="Building">
-			<ThingName>Inner Disciple Corpse Staging Area</ThingName>
-			<Desc>Os pets podem mover os Cadáveres dos Discípulos Interiores para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Cadáveres de Discípulos Interiores</ThingName>
+			<Desc>Os pets podem mover os cadáveres dos Discípulos Interiores para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSVistorBodyCarryPlace" sParam="Building">
-			<ThingName>Visitor Corpse Staging Area</ThingName>
-			<Desc>Os pets podem mover os cadáveres de visitantes para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Cadáveres de Visitantes</ThingName>
+			<Desc>Os pets podem mover os cadáveres de visitantes para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSIncomingBodyCarryPlace" sParam="Building">
-			<ThingName>Guest Corpse Staging Area</ThingName>
-			<Desc>Os pets podem mover os cadáveres de visitantes para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Cadáveres de Convidados</ThingName>
+			<Desc>Os pets podem mover os cadáveres de visitantes para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSMortalBodyCarryPlace" sParam="Building">
-			<ThingName>Mortal Stranger Corpse Staging Area</ThingName>
-			<Desc>Os pets podem mover os cadáveres de mortais para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Cadáveres de Mortais Estranhos</ThingName>
+			<Desc>Os pets podem mover os cadáveres de mortais para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSMortalCarryPlace" sParam="Building">
-			<ThingName>Mortal Stranger Staging Area</ThingName>
-			<Desc>Os pets podem mover mortais inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte sendo mais próxima do pet será escolhida.</Desc>
+			<ThingName>Area de Estágio de Mortais Estranhos</ThingName>
+			<Desc>Os pets podem mover mortais inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LsDogHouse" sParam="Building">
-			<ThingName>Pet's Bed</ThingName>
+			<ThingName>Cama de Pet</ThingName>
 			<Desc>A cama de um pet.</Desc>
 		</Text>
 		<Text Name="LsDog_Carve" sParam="Building">
-			<ThingName>Divine Dog Statue</ThingName>
+			<ThingName>Estátua do Cão Divino</ThingName>
 			<Desc>Estátua de um Cão Divino. Pode ser usada para reanimar ou convocar o Cão Divino.</Desc>
 		</Text>
 		<Text Name="LsFox_Carve" sParam="Building">
-			<ThingName>Spirit Fox Statue</ThingName>
+			<ThingName>Estátua da Raposa Espiritual</ThingName>
 			<Desc>Estátua de uma Raposa Espiritual. Pode ser utilizada para reanimar ou convocar a Raposa Espiritual.</Desc>
 		</Text>
 		<Text Name="LsDragon_Carve" sParam="Building">
-			<ThingName>Float Dragon Statue</ThingName>
+			<ThingName>Estátua do Dragão Flutuante</ThingName>
 			<Desc>Estátua de um Dragão Flutuante. Pode ser utilizado para reanimar ou convocar o Dragão Flutuante.</Desc>
 		</Text>
 		<Text Name="LsPhoenix_Carve" sParam="Building">
-			<ThingName>Dark Phoenix Statue</ThingName>
+			<ThingName>Estátua da Fênix Negra</ThingName>
 			<Desc>Estátua de uma Fênix Negra. Pode ser usada para reviver ou convocar a Fênix Negra.</Desc>
 		</Text>
 	</List>

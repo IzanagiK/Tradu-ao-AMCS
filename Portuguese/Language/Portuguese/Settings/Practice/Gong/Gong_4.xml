@@ -1,34 +1,34 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Gong_4_None">
-			<DisplayName>Jade Purity Immortal Law</DisplayName>
+			<DisplayName>Lei Imortal da Pureza de Jade</DisplayName>
 			<Desc>A ortodoxia deixada para trás pelo Senhor do Início Primordial. A Lei secreta do Palácio Kunlun. Diz-se que é a fonte suprema de todas as leis taoístas. Ele conduz seu seguidor através de 6 estados e 12 portas. Um possuirá uma força mágica extremamente abundante e poderosa depois de seguir esta Lei. É preciso uma inteligência incrível e boa sorte para cultivar com sucesso seguindo esta lei.</Desc>
 			<SelectDesc>A pessoa se destacará em todos os tipos de feitiços e terá uma força mágica abundante, mas requer todos os tipos de raridades para romper e avançar nesta Lei. Tem certeza de que deseja seguir esta Lei?</SelectDesc>
-			<Stages.0.DisplayName>Qi Shaping</Stages.0.DisplayName>
+			<Stages.0.DisplayName>Estado da Modelagem de Qi</Stages.0.DisplayName>
 			<Stages.0.Necks.0.DisplayName>Portal da Mente</Stages.0.Necks.0.DisplayName>
 			<Stages.0.Necks.0.Desc>[color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas. \nEste avanço é mais difícil para personagens com pouca Sorte.[/color]</Stages.0.Necks.0.Desc>
 			<Stages.0.Necks.1.DisplayName>Portão de Energia</Stages.0.Necks.1.DisplayName>
 			<Stages.0.Necks.1.Desc>[color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas. \nEste avanço é mais difícil para personagens com pouca Sorte.[/color]</Stages.0.Necks.1.Desc>
-			<Stages.1.DisplayName>Qi Gathering</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Qi Gate</Stages.1.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Estado da Reunião de Qi</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Portão de Qi</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>[color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas. \nEste avanço é mais difícil para personagens com baixa Inteligência.[/color]</Stages.1.Necks.0.Desc>
 			<Stages.1.Necks.1.DisplayName>Portão Negro</Stages.1.Necks.1.DisplayName>
 			<Stages.1.Necks.1.Desc>[color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas. \nEste avanço é mais difícil para personagens com pouca Sorte.[/color]</Stages.1.Necks.1.Desc>
-			<Stages.2.DisplayName>Core Shaping</Stages.2.DisplayName>
+			<Stages.2.DisplayName>Estado da Modelagem do Núcleo</Stages.2.DisplayName>
 			<Stages.2.Necks.0.DisplayName>Portão Vermelho</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.0.Desc>[color=#D06508]\nEste avanço pode ser concluído após repetidas tentativas. \nEste avanço é mais difícil para personagens com baixa Inteligência.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>Core Gate</Stages.2.Necks.1.DisplayName>
-			<Stages.3.DisplayName>Unification</Stages.3.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Portão do Núcleo</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Estado da Unificação</Stages.3.DisplayName>
 			<Stages.3.Necks.0.DisplayName>Portão de Metal</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.1.DisplayName>Portão de Água</Stages.3.Necks.1.DisplayName>
 			<Stages.3.Necks.2.DisplayName>Portão de Madeira</Stages.3.Necks.2.DisplayName>
 			<Stages.3.Necks.3.DisplayName>Portão de Fogo</Stages.3.Necks.3.DisplayName>
 			<Stages.3.Necks.4.DisplayName>Portão da Terra</Stages.3.Necks.4.DisplayName>
 			<Stages.3.Necks.5.DisplayName>Portão do Devaneio</Stages.3.Necks.5.DisplayName>
-			<Stages.4.DisplayName>Transformation</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Portão da alteração</Stages.4.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Estado da Transformação</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Portão da Alteração</Stages.4.Necks.0.DisplayName>
 			<Stages.4.Necks.1.DisplayName>Portão da Variação</Stages.4.Necks.1.DisplayName>
-			<Stages.5.DisplayName>Tribulation Survival</Stages.5.DisplayName>
+			<Stages.5.DisplayName>Estado da Sobrevivência à Tribulação</Stages.5.DisplayName>
 			<Stages.5.Necks.0.DisplayName>Portão da Morte</Stages.5.Necks.0.DisplayName>
 			<Stages.5.Necks.0.Desc>Ilumine seu espírito com a bênção do céu. A pessoa enfrentará a Tribulação Celestial depois de quebrar este limite. [color=#D06508]\nÉ extremamente difícil romper e não haverá nenhum bônus de XP.[/color]</Stages.5.Necks.0.Desc>
 			<Stages.5.Necks.1.DisplayName>Portão da Vida</Stages.5.Necks.1.DisplayName>

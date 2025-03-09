@@ -1,22 +1,22 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Gong_1_Shui">
-			<DisplayName>Sixteen Supreme Steps Law</DisplayName>
+			<DisplayName>Lei dos Dezesseis Passos Supremos</DisplayName>
 			<Desc>Uma das verdadeiras Leis elementares da Seita Taiyi, incluindo 4 estados e 16 limites diferentes que requerem um progresso passo a passo. Não é fácil alcançar um estado superior nesta Lei, mas não requer muito para começar. Você fará um progresso constante no cultivo, e a imortalidade pode eventualmente acontecer.</Desc>
 			<SelectDesc>Esta Lei requer um progresso passo a passo e especialmente uma base estável, mas você tem que experimentar a primeira tribulação durante a formação do núcleo. Tem certeza de que deseja seguir esta Lei?</SelectDesc>
-			<Stages.0.DisplayName>Qi Congealment</Stages.0.DisplayName>
+			<Stages.0.DisplayName>Consolidação de Qi</Stages.0.DisplayName>
 			<Stages.0.Desc>O primeiro estado sobre esta Lei. Requer uma mente pacífica e um longo tempo de meditação. É mais difícil para uma pessoa inteligente banir os pensamentos de sua mente e passar desse estado.</Stages.0.Desc>
 			<Stages.0.Necks.0.DisplayName>Concentração</Stages.0.Necks.0.DisplayName>
 			<Stages.0.Necks.0.Desc>Concentre a mente e afaste outros pensamentos aleatórios na meditação. [color=#D06508]\nEsse avanço será mais difícil para personagens com alta inteligência.[/color]</Stages.0.Necks.0.Desc>
 			<Stages.0.Necks.1.DisplayName>Introspecção</Stages.0.Necks.1.DisplayName>
 			<Stages.0.Necks.1.Desc>Após a concentração, percebe ainda a mudança interna em seu corpo, como uma pessoa cega sentindo seus arredores, e finalmente alcança o estado de ser capaz de sentir a condição de seus órgãos internos. [color=#D06508]\nEsse avanço será mais difícil para personagens com alta inteligência.[/color]</Stages.0.Necks.1.Desc>
-			<Stages.0.Necks.2.DisplayName>Qi Motion</Stages.0.Necks.2.DisplayName>
-			<Stages.0.Necks.2.Desc>À medida que a introspecção progride, será possível encontrar o primeiro sentido de Qi na meditação. É o início da Conversão de Vigor, que é chamada de 'First Perception'. [color=#D06508]\nEste avanço será mais difícil para personagens com baixo Qi sense. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.0.Necks.2.Desc>
-			<Stages.0.Necks.3.DisplayName>The Bounded Heavens</Stages.0.Necks.3.DisplayName>
-			<Stages.0.Necks.3.Desc>Neste estado, você precisa aumentar gradualmente o Qi interno e conduzi-lo através dos Vasos Governantes e da Concepção para criar um ciclo interno. Isso é chamado de 'Universal Cycle'.</Stages.0.Necks.3.Desc>
-			<Stages.1.DisplayName>Core Shaping</Stages.1.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Movimento de Qi</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>À medida que a introspecção progride, será possível encontrar o primeiro sentido de Qi na meditação. É o início da Conversão de Vigor, que é chamada de 'Primeira Percepção'. [color=#D06508]\nEste avanço será mais difícil para personagens com baixo senso de Qi. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.0.Necks.3.DisplayName>Ciclo Universal</Stages.0.Necks.3.DisplayName>
+			<Stages.0.Necks.3.Desc>Neste estado, você precisa aumentar gradualmente o Qi interno e conduzi-lo através dos Vasos Governantes e da Concepção para criar um ciclo interno. Isso é chamado de 'Ciclo Universal'.</Stages.0.Necks.3.Desc>
+			<Stages.1.DisplayName>Formação do Núcleo</Stages.1.DisplayName>
 			<Stages.1.Desc>O segundo estado nesta Lei. Requer arriscar a própria vida por uma regulação entre Água e Fogo, a fim de formar um Núcleo Dourado.</Stages.1.Desc>
-			<Stages.1.Necks.0.DisplayName>Portão mental</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Portão Mental</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>Abra o portão da mente para se conectar com o céu e a terra. Deixe todos os problemas mundanos para trás.</Stages.1.Necks.0.Desc>
 			<Stages.1.Necks.1.DisplayName>Realização</Stages.1.Necks.1.DisplayName>
 			<Stages.1.Necks.1.Desc>Deixe o Qi fluir livremente por todo o corpo, permitindo que você alcance um estado de completude.</Stages.1.Necks.1.Desc>
@@ -24,17 +24,17 @@
 			<Stages.1.Necks.2.Desc>Construa um caldeirão interno para modelar o núcleo usando o peito e o abdômen como caldeirão, o coração como fogo, o rim como água e a vida como combustível. [color=#D06508]\nEste avanço é mais difícil para personagens com baixa Constituição. \nA falha no avanço pode levar a ferimentos.[/color]</Stages.1.Necks.2.Desc>
 			<Stages.1.Necks.3.DisplayName>Congelamento do Núcleo</Stages.1.Necks.3.DisplayName>
 			<Stages.1.Necks.3.Desc>Combine sua energia, Qi e espírito em um Núcleo Dourado, tornando-o a base da Lei.</Stages.1.Necks.3.Desc>
-			<Stages.2.DisplayName>Core Refinement</Stages.2.DisplayName>
+			<Stages.2.DisplayName>Refinamento do Núcleo</Stages.2.DisplayName>
 			<Stages.2.Desc>O terceiro estado nesta Lei. Retornar à sua natureza original e mais pura. A pessoa deve libertar sua mente e realizar o verdadeiro eu neste estado.</Stages.2.Desc>
-			<Stages.2.Necks.0.DisplayName>Primeira Tribulação</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.DisplayName>primeira tribulação</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.0.Desc>Trovão da Tribulação acontecerá com você após a formação do Núcleo Dourado.</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>Germinal</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Germinativo</Stages.2.Necks.1.DisplayName>
 			<Stages.2.Necks.1.Desc>O verdadeiro eu forma-se gradualmente dentro do Núcleo Dourado, como se estivesse no estágio inicial do desenvolvimento pré-natal. [color=#D06508]\nEste avanço é mais difícil para personagens com baixa Inteligência.[/color]</Stages.2.Necks.1.Desc>
 			<Stages.2.Necks.2.DisplayName>Embrionário</Stages.2.Necks.2.DisplayName>
 			<Stages.2.Necks.2.Desc>O verdadeiro eu de uma pessoa lentamente toma forma e está pronto para crescer. [color=#D06508]Este avanço é mais difícil para personagens com baixa Constituição.[/color]</Stages.2.Necks.2.Desc>
 			<Stages.2.Necks.3.DisplayName>Fetal</Stages.2.Necks.3.DisplayName>
 			<Stages.2.Necks.3.Desc>A forma mais pura no Espírito Interior começa a romper os limites do corpo mortal, entrando em um estado de quase imortalidade na terra.</Stages.2.Necks.3.Desc>
-			<Stages.3.DisplayName>Great Vehicle</Stages.3.DisplayName>
+			<Stages.3.DisplayName>Grande Veículo</Stages.3.DisplayName>
 			<Stages.3.Desc>O quarto estado nesta Lei. O Espírito Interior sobreviverá ao Trovão da Tribulação, se tornará um ser de puro Yang, deixará o corpo mortal para trás e ascenderá como um Imortal.</Stages.3.Desc>
 			<Stages.3.Necks.0.DisplayName>Forja do Espírito</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.0.Desc>Forje seu espírito com as respirações Yin puras da Deusa da Terra.</Stages.3.Necks.0.Desc>

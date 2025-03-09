@@ -1,27 +1,27 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="WoodBase" sParam="Item">
-			<Item.FabaoSuffix>Wood, Branch, Column, Stake</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Madeira, Galho, Coluna, Estaca</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Wood" sParam="Item">
-			<ThingName>Wood</ThingName>
+			<ThingName>Madeira</ThingName>
 			<Desc>Madeira de boa qualidade, é um material comum de artesanato.</Desc>
-			<Item.BeMaterial.NamePrefix>Wood</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Madeira</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_HardWood" sParam="Item">
-			<ThingName>Goldwood</ThingName>
-			<Desc>Preciosa Goldwood que tem cem anos, um material muito firme e pesado.</Desc>
-			<Item.BeMaterial.NamePrefix>Goldwood</Item.BeMaterial.NamePrefix>
+			<ThingName>Madeira Dourada</ThingName>
+			<Desc>Preciosa madeira dourada que tem cem anos, um material muito firme e pesado.</Desc>
+			<Item.BeMaterial.NamePrefix>Madeira Dourada</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_ParasolWood" sParam="Item">
-			<ThingName>Phoenixwood</ThingName>
-			<Desc>Madeira divina na qual as Fênix se pousam, tem uma superfície lisa e uma textura extremamente firme rica em Qi. Um material muito raro.</Desc>
-			<Item.BeMaterial.NamePrefix>Parasol Wood</Item.BeMaterial.NamePrefix>
+			<ThingName>Madeira Fênix</ThingName>
+			<Desc>Madeira divina na qual as fênixes se pousam, tem uma superfície lisa e uma textura extremamente firme rica em Qi. Um material muito raro.</Desc>
+			<Item.BeMaterial.NamePrefix>Madeira Fênix</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingWood" sParam="Item">
-			<ThingName>Spiritwood</ThingName>
+			<ThingName>Madeira Espiritual</ThingName>
 			<Desc>Madeira impregnada de Qi, é um material muito firme e altamente resistente ao fogo.</Desc>
-			<Item.BeMaterial.NamePrefix>Spiritwood</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Madeira Espiritual</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>

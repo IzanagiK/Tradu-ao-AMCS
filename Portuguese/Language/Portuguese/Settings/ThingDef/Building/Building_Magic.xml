@@ -1,79 +1,79 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="FengShui" sParam="Building">
-			<ThingName>Observatory</ThingName>
-			<Desc>Uma estrutura utilizada para observar os Cinco elementos, o Feng Shui e a distribution of Qi.</Desc>
+			<ThingName>Observatório</ThingName>
+			<Desc>Uma estrutura utilizada para observar os Cinco elementos, o Feng Shui e a distribuição de Qi.</Desc>
 		</Text>
 		<Text Name="TheGate" sParam="Building">
-			<ThingName>Sect Stele</ThingName>
+			<ThingName>Estela da Seita</ThingName>
 			<Desc>Uma estela histórica da Seita.</Desc>
 		</Text>
 		<Text Name="Build_TheBigGate" sParam="Building">
-			<ThingName>Sect Gate</ThingName>
+			<ThingName>Portão da Seita</ThingName>
 			<Desc>Um portão majestoso da Seita.</Desc>
 		</Text>
 		<Text Name="Cushion" sParam="Building">
-			<ThingName>Cushion</ThingName>
+			<ThingName>Almofada</ThingName>
 			<Desc>Uma almofada macia para as pessoas sentarem.</Desc>
 		</Text>
 		<Text Name="Building_MagicCushion" sParam="Building">
-			<ThingName>Qi Cushion</ThingName>
+			<ThingName>Almofada Qi</ThingName>
 			<Desc>Uma almofada especificamente utilizada para o cultivo que pode recolher Qi.</Desc>
 		</Text>
 		<Text Name="BasePracticePlace" sParam="Building">
-			<ThingName>Training Spot</ThingName>
+			<ThingName>Ponto de Treino</ThingName>
 			<Desc>Não necessita de qualquer material, apenas de um local designado para o treino de discípulos externos.</Desc>
 		</Text>
 		<Text Name="PuppetPlace" sParam="Building">
-			<ThingName>Vessel Spot</ThingName>
+			<ThingName>Ponto de Vasilhas</ThingName>
 			<Desc>Os navios voltarão aqui e aguardarão quando não houver trabalho.</Desc>
 		</Text>
 		<Text Name="TrainingDummy" sParam="Building">
-			<ThingName>Wooden Dummy</ThingName>
+			<ThingName>Boneco de Madeira</ThingName>
 			<Desc>Um dispositivo utilizado para o treino de fundação dos discípulos externos.</Desc>
 		</Text>
 		<Text Name="ExploreBackPlace" sParam="Building">
-			<ThingName>Reward Spot</ThingName>
-			<Desc>Depois dos discípulos internos regressarem das aventuras, eles colocarão aqui as suas rewards.</Desc>
+			<ThingName>Ponto de Recompensa</ThingName>
+			<Desc>Depois dos discípulos internos regressarem das aventuras, eles colocarão aqui as suas recompensas.</Desc>
 		</Text>
 		<Text Name="Building_Statue1" sParam="Building">
-			<ThingName>Virtue Statue</ThingName>
+			<ThingName>Estátua da Virtude</ThingName>
 			<Desc>Uma estátua gigante do Senhor da Virtude.</Desc>
 		</Text>
 		<Text Name="Building_Statue2" sParam="Building">
-			<ThingName>Beginning Statue</ThingName>
+			<ThingName>Estátua do Princípio</ThingName>
 			<Desc>Uma estátua gigante do Senhor do Princípio Primordial.</Desc>
 		</Text>
 		<Text Name="Building_Statue3" sParam="Building">
-			<ThingName>Treasures Statue</ThingName>
+			<ThingName>Estátua dos Tesouros</ThingName>
 			<Desc>Uma estátua gigante do Senhor dos Tesouros.</Desc>
 		</Text>
 		<Text Name="Building_SacrificialTable" sParam="Building">
-			<ThingName>Ancestral Shrine</ThingName>
+			<ThingName>Santuário Ancestral</ThingName>
 			<Desc>Um santuário usado para comemorar os ancestrais.</Desc>
 		</Text>
 		<Text Name="DanStove" sParam="Building">
-			<ThingName>Alchemy Furnace</ThingName>
-			<Desc>O melhor lugar para inventar elixirs.</Desc>
+			<ThingName>Forno de Alquimia</ThingName>
+			<Desc>O melhor lugar para inventar elixires.</Desc>
 		</Text>
 		<Text Name="DanStove_Part" sParam="Building">
-			<ThingName>Furnace Part (Dev)</ThingName>
+			<ThingName>Parte do Forno (Desenv)</ThingName>
 		</Text>
 		<Text Name="RefiningCushion" sParam="Building">
-			<ThingName>Crafting Table</ThingName>
+			<ThingName>Banco de Trabalho</ThingName>
 			<Desc>O melhor lugar para fabricar artefatos.</Desc>
 		</Text>
 		<Text Name="Building_SleeveSpace" sParam="Building">
-			<ThingName>Mini Universe</ThingName>
-			<Desc>Um Universo instável Criado através da direcção do poder espacial do Universe Cristal Espiritual complementado por materiais preciosos dos  Cinco elementos, que podem ser utilizados para armazenar items. Devido à instabilidade espacial, só pode armazenar common items. Caso contrário, pode causar o colapso do espaço.</Desc>
-			<StoryBnts.0.Name>Acquisition</StoryBnts.0.Name>
+			<ThingName>Mini Universo</ThingName>
+			<Desc>Um universo instável criado através da direção do poder espacial do Cristal Espiritual, complementado por materiais preciosos dos Cinco Elementos, que pode ser utilizado para armazenar itens. Devido à instabilidade espacial, só pode armazenar itens comuns. Caso contrário, pode causar o colapso do espaço.</Desc>
+			<StoryBnts.0.Name>Aquisição</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Colete imediatamente todos os itens do mapa que não estejam cobertos por neblina, não proibidos e colecionáveis pelo Mini Universo.</StoryBnts.0.Desc>
-			<StoryBnts.1.Name>Inspect</StoryBnts.1.Name>
+			<StoryBnts.1.Name>Inspecionar</StoryBnts.1.Name>
 			<StoryBnts.1.Desc>Use a Mente Divina para inspecionar o segredo do Mini Universo.</StoryBnts.1.Desc>
 		</Text>
 		<Text Name="Building_SleeveSpace1" sParam="Building">
-			<ThingName>Mini Universe Gate</ThingName>
-			<Desc>Um pequeno Porta de entrada de ligação ao Mini Universo, através da qual se pode ir buscar items dentro dela.</Desc>
+			<ThingName>Portão do Mini Universo</ThingName>
+			<Desc>Um pequeno portão de entrada de ligação ao Mini Universo, através do qual se pode ir buscar itens dentro dele.</Desc>
 		</Text>
 	</List>
 </Texts>

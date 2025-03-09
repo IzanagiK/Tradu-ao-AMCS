@@ -1,11 +1,11 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="NI_FSZhenWu">
-			<DisplayName>Negative - Relic Channeling</DisplayName>
+			<DisplayName>Negativo - Canalização de Relíquias</DisplayName>
 			<Desc>A Relíquia Feng Shui nesta sala está em conflito com o ambiente; personagens na sala serão afetados negativamente e sofrerão de habilidades enfraquecidas como resultado.</Desc>
 		</Text>
 		<Text Name="SHUN_FSZhenWu">
-			<DisplayName>Positive - Relic Channeling</DisplayName>
+			<DisplayName>Positivo - Canalização de Relíquias</DisplayName>
 			<Desc>A Relíquia Feng Shui nesta sala está em vigor; personagens na sala serão afetados positivamente e ganharão habilidades aprimoradas como resultado.</Desc>
 		</Text>
 		<Text Name="FSZhenWu_1">
@@ -72,7 +72,7 @@
 			<DisplayName>Bônus base de valor de humor</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_22">
-			<DisplayName>Bônus de Velocidade de Movimento</DisplayName>
+			<DisplayName>Bônus de Vel. de Movimento</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_23">
 			<DisplayName>Bônus de tolerância de temperatura (frio)</DisplayName>
@@ -243,7 +243,7 @@
 			<DisplayName>Cabaça de Tushita</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_15">
-			<DisplayName>Bastão Carmesim</DisplayName>
+			<DisplayName>Cajado do Dragão</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_16">
 			<DisplayName>Santa Graça</DisplayName>

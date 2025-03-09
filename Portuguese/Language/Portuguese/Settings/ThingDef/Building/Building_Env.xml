@@ -1,30 +1,30 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Building_Geothermy" sParam="Building">
-			<ThingName>Fiery Chasm</ThingName>
+			<ThingName>Abismo Flamejante</ThingName>
 			<Desc>Um abismo a rachar até ao núcleo da terra. O vento escaldante continua a soprar para fora.</Desc>
 		</Text>
 		<Text Name="Building_ColdHole" sParam="Building">
-			<ThingName>Frozen Furnace</ThingName>
-			<Desc>Um antigo sábio tentou aqui inventar um elixir que inverte o destino, mas a sua criação é devastada por uma tribulação celestial. O fogo da fornalha foi invertido em gelo que não derrete, mesmo após centenas de séculos.</Desc>
+			<ThingName>Fornalha Congelada</ThingName>
+			<Desc>Um antigo sábio tentou aqui inventar um elixir que inverte o destino, mas a sua criação foi devastada por uma tribulação celestial. O fogo da fornalha foi invertido em gelo que não derrete, mesmo após centenas de séculos.</Desc>
 		</Text>
 		<Text Name="Building_OuterWorld" sParam="Building">
-			<ThingName>Otherworld Rift</ThingName>
-			<Desc>O espaço aqui foi destruído devido a uma batalha entre sábios poderosos, e transformou-se, ao longo dos anos, numa Fenda do Outro Mundo, permitindo que itens ou cultivadores de outros planos o passassem de tempos em tempos.</Desc>
+			<ThingName>Fenda do Outro Mundo</ThingName>
+			<Desc>O espaço aqui foi destruído devido a uma batalha entre sábios poderosos, e transformou-se, ao longo dos anos, numa Fenda do Outro Mundo, permitindo que itens ou cultivadores de outros planos a atravessem de tempos em tempos.</Desc>
 		</Text>
 		<Text Name="Building_YinYang" sParam="Building">
-			<ThingName>Yin Yang Stela</ThingName>
-			<Desc>Uma estranha pedra criada durante a troca de Yin e Yang que contém o segredo do céu e da terra. Quanto mais alto é o Estado do discípulo, mais profunda é a revelação. Mas a meditação da estela de pedra provocará sempre fenómenos astronómicos anormais.</Desc>
+			<ThingName>Estela Yin Yang</ThingName>
+			<Desc>Uma estranha pedra criada durante a troca de Yin e Yang que contém o segredo do céu e da terra. Quanto mais alto é o Estado do discípulo, mais profunda é a revelação. No entanto, a meditação sobre a estela de pedra provocará sempre fenómenos astronómicos anormais.</Desc>
 		</Text>
 		<Text Name="Building_DiMu" sParam="Building">
-			<ThingName>Earthmother Shrine</ThingName>
-			<Desc>Um santuário deixado por um antigo culto de adoração à Mãe-Terra. Pode-se fazer um desejo ao remanescente da vontade da Mãe Terra oferecendo-o com Pedras Espirituais, embora isto possa trazer desastres naturais.</Desc>
+			<ThingName>Santuário da Mãe Terra</ThingName>
+			<Desc>Um santuário deixado por um antigo culto de adoração à Mãe-Terra. Pode-se fazer um desejo ao remanescente da vontade da Mãe Terra, oferecendo-lhe Pedras Espirituais, embora isso possa trazer desastres naturais.</Desc>
 		</Text>
 		<Text Name="LingShu" sParam="Building">
-			<ThingName>Illumitree</ThingName>
-			<Desc>Uma planta curiosa que pode transformar solo próximo em spiritual soil. No entanto, o pólen que liberta pode causar blocked meridians e suppressed Qi.</Desc>
-			<StoryBnts.0.Name>Feel</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Sinta o Qi ao redor de Illumitree.</StoryBnts.0.Desc>
+			<ThingName>Árvore da Iluminação</ThingName>
+			<Desc>Uma planta curiosa que pode transformar o solo próximo em solo espiritual. No entanto, o pólen que ela liberta pode causar bloqueio dos meridianos e suprimir o Qi.</Desc>
+			<StoryBnts.0.Name>Sentir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Sinta o Qi ao redor da Árvore da Iluminação.</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

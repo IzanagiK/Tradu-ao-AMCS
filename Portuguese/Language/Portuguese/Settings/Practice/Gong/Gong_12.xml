@@ -1,26 +1,26 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Gong_12_None">
-			<DisplayName>Primordial Symbols Law</DisplayName>
+			<DisplayName>Lei dos Símbolos Primordiais</DisplayName>
 			<Desc>Uma escola de ensinamentos que se acredita ter vindo do Imortal Dourado Yunzhong Zi. Ele encontrou um novo caminho fora do sistema tradicional de Cultivo do Núcleo Dourado. Aproveitando o momento da descoberta, seria possível congelar cinco talismãs de Natal, que têm usos fascinantes.</Desc>
-			<SelectDesc>À medida que você se torna mais cultivado nesta Lei, você pode coagular cinco Talismãs de Natal para esta habilidade para obter a bênção permanente do poder do Talismã. No entanto, a Lei deixa a desejar no campo da Magia, não sendo muito boa em lutar</SelectDesc>
+			<SelectDesc>À medida que você se torna mais cultivado nesta Lei, você pode coagular cinco Talismãs de Natal para esta habilidade para obter a bênção permanente do poder do Talismã. No entanto, a Lei deixa a desejar no campo da Magia, não sendo muito boa em lutar.</SelectDesc>
 			<Stages.0.DisplayName>Qi</Stages.0.DisplayName>
 			<Stages.0.Necks.0.DisplayName>Confluência</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>[color=#D06508]\nEsse avanço é mais difícil para personagens com baixa percepção.</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Seagazer</Stages.0.Necks.1.DisplayName>
-			<Stages.1.DisplayName>Causation</Stages.1.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nEsse avanço é mais difícil para personagens com baixa percepção.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Observador de Mar</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Causa</Stages.1.DisplayName>
 			<Stages.1.Necks.0.DisplayName>Acumulado</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>[color=#D06508]\nEste avanço é mais difícil para personagens com baixa Constituição.[/color]</Stages.1.Necks.0.Desc>
 			<Stages.1.Necks.1.DisplayName>Primeiro Talismã</Stages.1.Necks.1.DisplayName>
-			<Stages.2.DisplayName>Water and Fire</Stages.2.DisplayName>
+			<Stages.2.DisplayName>Água e Fogo</Stages.2.DisplayName>
 			<Stages.2.Necks.0.DisplayName>Talismã de Fogo</Stages.2.Necks.0.DisplayName>
 			<Stages.2.Necks.1.DisplayName>Talismã da Água</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>Formação de núcleo</Stages.2.Necks.2.DisplayName>
-			<Stages.3.DisplayName>Primordial Core</Stages.3.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Formação de Núcleo</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Núcleo Primordial</Stages.3.DisplayName>
 			<Stages.3.Necks.0.DisplayName>Natural</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.1.DisplayName>Talismã Primordial</Stages.3.Necks.1.DisplayName>
-			<Stages.4.DisplayName>Pure Yang</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Mudança de forma</Stages.4.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Puro Yang</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Transformação</Stages.4.Necks.0.DisplayName>
 			<Stages.4.Necks.1.DisplayName>Talismã Divino</Stages.4.Necks.1.DisplayName>
 			<Stages.4.Necks.2.DisplayName>Nuvem Crescente</Stages.4.Necks.2.DisplayName>
 		</Text>

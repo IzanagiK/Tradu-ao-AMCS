@@ -1,405 +1,412 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="SYS_LOASITEM" sParam="Item">
-			<ThingName>Lost Item</ThingName>
+			<ThingName>Item Perdido</ThingName>
 			<Desc>Uma construção perdida que ninguém reconhece. \n(Vazio)</Desc>
 		</Text>
 		<Text Name="Item_HorribleMeal" sParam="Item">
-			<ThingName>Spoiled Meal</ThingName>
+			<ThingName>Refeição Estragada</ThingName>
 			<Desc>Um prato cuja cozedura falhou, cujo sabor é apenas aceitável. Só pode servir para encher o estômago.</Desc>
 		</Text>
 		<Text Name="Item_HomeFood" sParam="Item">
-			<ThingName>Simple Meal</ThingName>
+			<ThingName>Refeição Simples</ThingName>
 			<Desc>Um prato caseiro simples, de sabor médio, mas sincero.</Desc>
 		</Text>
 		<Text Name="Item_DeliciousFood" sParam="Item">
-			<ThingName>Fine Meal</ThingName>
+			<ThingName>Refeição Fina</ThingName>
 			<Desc>Uma iguaria, tanto os ingredientes como as técnicas com que é feito são bastante sofisticados. Tem um gosto muito delicioso.</Desc>
 		</Text>
 		<Text Name="Item_DelicacyFood" sParam="Item">
-			<ThingName>Lavish Meal</ThingName>
+			<ThingName>Refeição Luxuosa</ThingName>
 			<Desc>Uma refeição luxuosa que só pode ser realizada com excelentes habilidades culinárias e ingredientes requintados, tem um sabor extremamente delicioso.</Desc>
 		</Text>
 		<Text Name="Item_WuHuangDan" sParam="Item">
-			<ThingName>Ovo sem gema</ThingName>
+			<ThingName>Ovo sem Gema</ThingName>
 			<Desc>Um prato misterioso e muito saboroso, diz-se que em alguns lugares é um bom presente para dar a amigos e familiares. Consumir pode diretamente construir a base, e aumentar permanentemente 20% da constituição, este efeito é válido apenas na primeira vez que é consumido.</Desc>
 		</Text>
 		<Text Name="Item_GuanyinMud" sParam="Item">
-			<ThingName>Guanyin Clay</ThingName>
+			<ThingName>Argila Guanyin</ThingName>
 			<Desc>Uma espécie de argila branca que é considerada uma alternativa à alimentação em tempos de desespero.</Desc>
 		</Text>
 		<Text Name="Item_Water" sParam="Item">
-			<ThingName>Water</ThingName>
+			<ThingName>Água</ThingName>
 			<Desc>Uma porção de água limpa.</Desc>
-			<Item.FabaoSuffix>Water</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Água</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_DirtyWater" sParam="Item">
-			<ThingName>Unclean Water</ThingName>
+			<ThingName>Água Suja</ThingName>
 			<Desc>Água suja. Parece haver algo se movendo nele.</Desc>
-			<Item.FabaoSuffix>Water</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Água</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Garbage" sParam="Item">
-			<ThingName>Rubbish</ThingName>
+			<ThingName>Resíduos</ThingName>
 			<Desc>Resíduos inúteis.</Desc>
-			<Item.FabaoSuffix>Powder, Poison, Dreg</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pó, Veneno, Resíduo</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Shit" sParam="Item">
-			<ThingName>Feces</ThingName>
+			<ThingName>Fezes</ThingName>
 			<Desc>Fezes de criaturas.</Desc>
-			<Item.FabaoSuffix>Feces, Guano, Dung</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Fezes, Guano, Estrume</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_DragonShit" sParam="Item">
-			<ThingName>Dragon Feces</ThingName>
+			<ThingName>Fezes de Dragão</ThingName>
 			<Desc>Excremento de dragão.</Desc>
-			<Item.FabaoSuffix>Feces, Guano, Dung</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Fezes, Guano, Estrume</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FunPainting" sParam="Item">
-			<ThingName>Painting</ThingName>
+			<ThingName>Pintura</ThingName>
 			<Desc>Um quadro pintado.</Desc>
-			<Item.FabaoSuffix>Scroll, Picture</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Rolo, Quadro</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FunPoem" sParam="Item">
-			<ThingName>Script</ThingName>
+			<ThingName>Roteiro</ThingName>
 			<Desc>Um trabalho escrito.</Desc>
-			<Item.FabaoSuffix>Volume, Book, Slips, Scroll</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Volume, Livro, Fichas, Rolo</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FunMusic" sParam="Item">
-			<ThingName>Sheet Music</ThingName>
+			<ThingName>Partitura</ThingName>
 			<Desc>Uma partitura musical.</Desc>
-			<Item.FabaoSuffix>Sheet, Scroll</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Folha, Rolo</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FunChess" sParam="Item">
 			<ThingName>Go</ThingName>
 			<Desc>Um diagrama de xadrez Go que registrou uma partida.</Desc>
-			<Item.FabaoSuffix>Sheet, Scroll, Match</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Folha, Rolo, Partida</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SysAxe" sParam="Item">
-			<ThingName>Timber Axe</ThingName>
+			<ThingName>Machado de Madeira</ThingName>
 			<Desc>Um machado pode aumentar muito sua eficiência de registro. Claro, também pode ser usado como arma.</Desc>
-			<Item.FabaoSuffix>Axe</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Machado</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SysPickaxe" sParam="Item">
-			<ThingName>Pickaxe</ThingName>
-			<Desc>Uma picareta pode aumentar muito sua velocidade de mineração. Claro, também pode ser usado como arma.</Desc>
-			<Item.FabaoSuffix>Pickaxe</Item.FabaoSuffix>
+			<ThingName>Picareta</ThingName>
+			<Desc>Uma picareta pode aumentar muito sua velocidade de mineração. Claro, também pode ser usada como arma.</Desc>
+			<Item.FabaoSuffix>Picareta</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SysSickle" sParam="Item">
-			<ThingName>Farming Tool</ThingName>
-			<Desc>Um conjunto de ferramentas agrícolas pode aumentar enormemente sua velocidade de cultivo e de colheita.</Desc>
-			<Item.FabaoSuffix>Hoe</Item.FabaoSuffix>
+			<ThingName>Ferramenta Agrícola</ThingName>
+			<Desc>Um conjunto de ferramentas de cultivo que aumenta consideravelmente a velocidade de plantio e colheita.</Desc>
+			<Item.FabaoSuffix>Enxada</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SysAcupuncture" sParam="Item">
-			<ThingName>Acupuncture Needle</ThingName>
+			<ThingName>Agulha de Acupuntura</ThingName>
 			<Desc>Um conjunto de acupuntura que pode melhorar a qualidade e a taxa de sucesso da cura.</Desc>
-			<Item.FabaoSuffix>Needle, Spike</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Agulha, Espeto</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Umbrella" sParam="Item">
-			<ThingName>Umbrella</ThingName>
+			<ThingName>Guarda-chuva</ThingName>
 			<Desc>Um guarda-chuva.</Desc>
-			<Item.FabaoSuffix>Umbrella</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Guarda-chuva</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Esoterica" sParam="Item">
 			<ThingName>Manual</ThingName>
 			<Desc>Um manual secreto.</Desc>
-			<Item.FabaoSuffix>Book, Volume, Scroll</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Livro, Volume, Pergaminho</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_StoneBox" sParam="Item">
-			<ThingName>Stone Casket</ThingName>
-			<Desc>Misterioso caixão de pedra com cerca de 30 centímetros de tamanho. O casco exterior é um todo integral, parece que não é uma coisa comum.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
+			<ThingName>Caixão de Pedra</ThingName>
+			<Desc>Um misterioso caixão de pedra de aproximadamente 30 centímetros de tamanho. A casca externa é uma peça única e integral, não parece ser uma coisa comum.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente abrir este caixão</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_StoneBox1" sParam="Item">
-			<ThingName>Stone Casket</ThingName>
-			<Desc>Um caixão de pedra obtido por um caçador chamado Zhang Erwa da vila de Nanping. É de uma qualidade estranha e invulnerável à água e ao fogo.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
+			<ThingName>Caixão de Pedra</ThingName>
+			<Desc>Um caixão de pedra obtido por um caçador chamado Zhang Erwa da vila de Nanping. É de qualidade estranha e é invulnerável à água e ao fogo.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente abrir este caixão</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_E_FaBaoBox" sParam="Item">
-			<ThingName>Polaris Casket</ThingName>
-			<Desc>Na noite do ataque, você notou que a sala de artefatos foi invadida. Você não suportava ver essas raridades serem saqueadas, então arriscou sua vida para salvar algumas delas em um caixão e levou embora.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Abra o Caixão Polaris.</StoryBnts.0.Desc>
+			<ThingName>Caixão de Polaris</ThingName>
+			<Desc>Na noite do ataque, você notou que a sala de artefatos havia sido invadida. Você não pôde suportar ver essas raridades sendo saqueadas, então arriscou sua vida para salvar algumas delas em um caixão e as levou embora.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Abra o Caixão de Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_E_DanBox" sParam="Item">
-			<ThingName>Polaris Casket</ThingName>
-			<Desc>Na noite do ataque, você notou que a sala de elixir foi invadida. Você não suportava ver essas raridades serem saqueadas, então arriscou sua vida para salvar algumas delas em um caixão e levou embora.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Abra o Caixão Polaris.</StoryBnts.0.Desc>
+			<ThingName>Caixão de Polaris</ThingName>
+			<Desc>Na noite do ataque, você notou que a sala de elixires havia sido invadida. Você não pôde suportar ver essas raridades sendo saqueadas, então arriscou sua vida para salvar algumas delas em um caixão e as levou embora.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Abra o Caixão de Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_E_MiJiBox" sParam="Item">
-			<ThingName>Polaris Casket</ThingName>
-			<Desc>Na noite do ataque, você notou que o Scriptorium foi violado. Você não suportava ver essas raridades serem saqueadas, então arriscou sua vida para salvar algumas delas em um caixão e levou embora.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Abra o Caixão Polaris.</StoryBnts.0.Desc>
+			<ThingName>Caixão de Polaris</ThingName>
+			<Desc>Na noite do ataque, você notou que o Scriptorium havia sido violado. Você não pôde suportar ver essas raridades sendo saqueadas, então arriscou sua vida para salvar algumas delas em um caixão e as levou embora.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Abra o Caixão de Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_E_FuBox" sParam="Item">
-			<ThingName>Polaris Casket</ThingName>
-			<Desc>Na noite do ataque, você notou que a sala dos talismãs foi arrombada. Você não suportava ver essas raridades serem saqueadas, então arriscou sua vida para salvar algumas delas em um caixão e levou embora.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Abra o Caixão Polaris.</StoryBnts.0.Desc>
+			<ThingName>Caixão de Polaris</ThingName>
+			<Desc>Na noite do ataque, você notou que a sala de talismãs havia sido invadida. Você não pôde suportar ver essas raridades sendo saqueadas, então arriscou sua vida para salvar algumas delas em um caixão e as levou embora.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Abra o Caixão de Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_StoneBox2" sParam="Item">
-			<ThingName>Ancient Casket</ThingName>
-			<Desc>Um caixão de pedra enterrado nas profundezas das rochas da montanha parece ser bastante datado. Não se sabe o que contém.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
+			<ThingName>Caixão Antigo</ThingName>
+			<Desc>Um caixão de pedra enterrado profundamente nas rochas da montanha parece estar bastante datado. Não se sabe o que contém.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente abrir este caixão</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BuildingBox" sParam="Item">
-			<ThingName>Building Pack</ThingName>
-			<Desc>Um prédio lotado que pode ser reposicionado em algum lugar.</Desc>
+			<ThingName>Pacote de Construção</ThingName>
+			<Desc>Um edifício embalado que pode ser reposicionado em algum lugar.</Desc>
 		</Text>
 		<Text Name="Item_Baobeier" sParam="Item">
-			<ThingName>Rod</ThingName>
+			<ThingName>Varinha</ThingName>
 			<Desc>Coisas memoráveis.</Desc>
-			<Item.FabaoSuffix>Root</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Raiz</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LunHui_Box1" sParam="Item">
-			<ThingName>Magic Talisman Casket</ThingName>
-			<Desc>Mrs. Lu carrega uma caixa mágica de talismãs com três misteriosos talismãs dentro.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Abra o Caixão Polaris.</StoryBnts.0.Desc>
+			<ThingName>Caixão de Talismã Mágico</ThingName>
+			<Desc>A Sra. Lu carrega uma caixa mágica de talismãs com três talismãs misteriosos dentro.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Abra o Caixão de Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_LunHui_Box2" sParam="Item">
-			<ThingName>Magic Talisman Casket</ThingName>
-			<Desc>Uma caixa mágica de talismãs carregada por Yang Shu com ele, contém três misteriosos talismãs.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Abra o Caixão Polaris.</StoryBnts.0.Desc>
+			<ThingName>Caixão de Talismã Mágico</ThingName>
+			<Desc>Uma caixa mágica de talismãs carregada por Yang Shu, contendo três talismãs misteriosos.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Abra o Caixão de Polaris.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ZuShiZhiCi" sParam="Item">
-			<ThingName>Gift of the Master</ThingName>
-			<Desc>Um presente do mestre ancestral, com um tesouro muito apreciado dentro.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Presente aberto do Mestre.</StoryBnts.0.Desc>
+			<ThingName>Presente do Mestre</ThingName>
+			<Desc>Um presente do mestre ancestral, contendo um tesouro de alto valor dentro.</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Abra o presente do mestre.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_SuoYingZhiJuan" sParam="Item">
-			<ThingName>Atlas of Creatures</ThingName>
-			<Desc>Ele registra as miniaturas de todas as coisas vivas de todas as eras desde o nascimento do céu e da terra até o presente. Se você souber o verdadeiro nome da criatura em questão, você pode convocá-la do pergaminho. É um dos doze Tesouros Numinosos primordiais do Caos.</Desc>
+			<ThingName>Atlas de Criaturas</ThingName>
+			<Desc>Registra as miniaturas de todos os seres vivos desde o nascimento do céu e da terra até o presente. Se você souber o verdadeiro nome da criatura em questão, pode invocá-la a partir do pergaminho. É um dos doze tesouros primordiais de Numinos do Caos.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Abra o Atlas das Criaturas.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Abra o Atlas de Criaturas.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_XiangHuo1" sParam="Item">
-			<ThingName>Morality Ritual</ThingName>
+			<ThingName>Ritual da Moralidade</ThingName>
 			<Desc>Um ritual básico, com um processo relativamente simples. Gera 1 Faith. Faith adicional pode ser gerada usando comida de alto nível como oferendas no ritual.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo2" sParam="Item">
-			<ThingName>Elements Ritual</ThingName>
-			<Desc>Ritual de nível médio, que requer o uso de alguns artefatos. Gera 4 Faith. Faith adicional pode ser gerada usando comida de alto nível como oferendas no ritual.</Desc>
+			<ThingName>Ritual dos Elementos</ThingName>
+			<Desc>Um ritual de nível médio que requer o uso de alguns artefatos. Gera 4 Faith. Faith adicional pode ser gerada usando comida de alto nível como oferendas no ritual.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo3" sParam="Item">
-			<ThingName>Harmony Ritual</ThingName>
+			<ThingName>Ritual da Harmonia</ThingName>
 			<Desc>Ritual do mais alto nível, requer artefatos sofisticados e orações prolongadas. Gera 9 Faith. Faith adicional pode ser gerada usando comida de alto nível como oferendas no ritual.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo4" sParam="Item">
-			<ThingName>Ritual of Spirit</ThingName>
+			<ThingName>Ritual do Espírito</ThingName>
 			<Desc>Um ritual básico de deus, com um processo relativamente simples. Gera 1 Faith. Faith adicional pode ser gerada usando comida de alto nível como oferendas no ritual.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo5" sParam="Item">
-			<ThingName>Ritual of Heaven</ThingName>
+			<ThingName>Ritual do Céu</ThingName>
 			<Desc>Ritual de deus de nível médio, que requer o uso de alguns instrumentos. Gera 4 Faith. Faith adicional pode ser gerada usando comida de alto nível como oferendas no ritual.</Desc>
 		</Text>
 		<Text Name="Item_XiangHuo6" sParam="Item">
-			<ThingName>Ritual of Veneration</ThingName>
+			<ThingName>Ritual da Veneração</ThingName>
 			<Desc>Ritual de deus do mais alto nível, requer instrumentos sofisticados e orações prolongadas. Gera 9 Faith. Faith adicional pode ser gerada usando comida de alto nível como oferendas no ritual.</Desc>
 		</Text>
 		<Text Name="Item_OldSchool_Letter" sParam="Item">
-			<ThingName>Mysterious Letter</ThingName>
+			<ThingName>Carta Misteriosa</ThingName>
 			<Desc>Uma carta deixada pelo misterioso cultivador que salvou você do perigo na noite em que a seita foi massacrada.</Desc>
-			<Item.FabaoSuffix>Letter</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Read</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Carta</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Ler</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Leia a carta.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_StrangeMush" sParam="Item">
-			<ThingName>Strange Mushroom</ThingName>
+			<ThingName>Cogumelo Estranho</ThingName>
 			<Desc>Cogumelo estranho, o consumo pode causar alucinações.</Desc>
-			<Item.FabaoSuffix>Basket, Mushroom</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Attempt eating</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Cesta, Cogumelo</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Tentar comer</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente comer este item.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_AuctionPaper" sParam="Item">
-			<ThingName>Auction Invitation</ThingName>
+			<ThingName>Convite para Leilão</ThingName>
 			<Desc>Carta de convite para um leilão realizado por Ye Xuan.</Desc>
-			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspecionar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspecione este item.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan" sParam="Item">
-			<ThingName>Ancient Scroll</ThingName>
+			<ThingName>Pergaminho Antigo</ThingName>
 			<Desc>Um pergaminho secreto que circulou durante os tempos antigos, seu conteúdo é desconhecido.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar pergaminho</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_1" sParam="Item">
-			<ThingName>Miracle Site: Heavenly Palace</ThingName>
-			<Desc>Uma folha de papel que registra como materializar Miracle Site: Heavenly Palace, que somente os cultivadores da Lei de Shendao podem compreender.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<ThingName>Local Milagroso: Palácio Celestial</ThingName>
+			<Desc>Uma folha de papel que registra como materializar o Local Milagroso: Palácio Celestial, que somente os cultivadores da Lei de Shendao podem compreender.</Desc>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar pergaminho</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_2" sParam="Item">
-			<ThingName>Miracle Site Scroll</ThingName>
-			<Desc>Uma folha de papel que registra como materializar Miracle Site: Altar of Investiture, que somente os cultivadores da Lei de Shendao podem compreender.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<ThingName>Pergaminho do Local Milagroso</ThingName>
+			<Desc>Uma folha de papel que registra como materializar o Local Milagroso: Altar da Investidura, que somente os cultivadores da Lei de Shendao podem compreender.</Desc>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar pergaminho</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_3" sParam="Item">
-			<ThingName>Miracle Site Scroll</ThingName>
-			<Desc>Uma folha de papel que registra como materializar Miracle Site: Melancholia of Mortal Realm, que somente os cultivadores da Lei de Shendao podem compreender.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<ThingName>Pergaminho do Local Milagroso</ThingName>
+			<Desc>Uma folha de papel que registra como materializar o Local Milagroso: Melancolia do Reino Mortal, que somente os cultivadores da Lei de Shendao podem compreender.</Desc>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar pergaminho</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_4" sParam="Item">
-			<ThingName>Miracle Site Scroll</ThingName>
-			<Desc>Uma folha de papel que registra como materializar Miracle Site: Generality Residence; Miracle Site: Residence of Connection, que somente os cultivadores da Lei de Shendao podem compreender.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<ThingName>Pergaminho do Local Milagroso</ThingName>
+			<Desc>Uma folha de papel que registra como materializar o Local Milagroso: Residência da Generalidade; Local Milagroso: Residência da Conexão, que somente os cultivadores da Lei de Shendao podem compreender.</Desc>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar pergaminho</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_6" sParam="Item">
-			<ThingName>Miracle Site Scroll Fragment: Sacred Pavilion</ThingName>
+			<ThingName>Fragmento do Pergaminho do Local Milagroso: Pavilhão Sagrado</ThingName>
 			<Desc>Fragmentos de rolagem que registraram um método especial para construir o Pavilhão Sagrado, que somente os cultivadores da Lei de Shendao são capazes de compreender.</Desc>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar pergaminho</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_GodPractice_MiJuan_5" sParam="Item">
-			<ThingName>Legacy of Taiyi</ThingName>
+			<ThingName>Legado de Taiyi</ThingName>
 			<Desc>Uma bola peculiar que foi selada com o poder da Tribulação Celestial. Não se sabe o que é mantido dentro.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Unseal</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Desselar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente levantar o selo.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Gong12" sParam="Item">
-			<ThingName>Primordial Symbols Law</ThingName>
+			<ThingName>Lei dos Símbolos Primordiais</ThingName>
 			<Desc>Uma escola de ensinamentos que se acredita ter vindo do Imortal Dourado Yunzhong Zi. Ele encontrou um novo caminho fora do sistema tradicional de Cultivo do Núcleo Dourado. Aproveitando o momento da descoberta, seria possível congelar cinco talismãs de Natal, que têm usos fascinantes.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar Lei</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Body_Gong_2" sParam="Item">
-			<ThingName>Barbarous Forging Body</ThingName>
+			<ThingName>Corpo de Forjamento Bárbaro</ThingName>
 			<Desc>Um feitiço remold criado por cultivadores físicos humanos em referência aos corpos naturais de Yaoguai dos antigos sábios. Este feitiço é conhecido por sua natureza selvagem e agressiva e se destaca em refinar ossos para eventualmente criar um Corpo de Forjamento Bárbaro. O corpo físico torna-se divino e abraça o esquecimento.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar Lei</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Body_Gong_5" sParam="Item">
-			<ThingName>Obliteration Body</ThingName>
+			<ThingName>Corpo de Obliteração</ThingName>
 			<Desc>No passado, alguns cultivadores físicos pensavam nesta vida como uma jaula e as noites polares são a luz lançada de fora da jaula. Eles absorveram uma estranha essência das noites polares e a usaram para remodelar o corpo, acreditando que ele acabaria sendo transformado em um veículo que quebra a gaiola e os leva para longe da miséria. Esta escola de cultivadores físicos adorava noites polares e era evitada por todos os outros, assim chamada de Culto de Obliteração. Sua Lei fundamental é, portanto, chamada de Corpo de Obliteração.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar Lei</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_God_GongAll" sParam="Item">
-			<ThingName>Records of Shendao</ThingName>
+			<ThingName>Registros de Shendao</ThingName>
 			<Desc>Este livro registrou vários métodos antigos de cultivo da Lei de Shendao. Foi compilado durante o reinado do Imperador dos Demônios quando dominou.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar Lei</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_God_Guard1" sParam="Item">
-			<ThingName>Polis Lumina Core</ThingName>
-			<Desc>Lumina Core com o poder da estrela Polis morando dentro dele. Talvez alguém possa aproveitar esse poder para usar como Guarda interagindo com ele através da Lei de Shendao.</Desc>
+			<ThingName>Núcleo Lumina de Polis</ThingName>
+			<Desc>Núcleo Lumina com o poder da estrela Polis morando dentro dele. Talvez alguém possa aproveitar esse poder para usar como Guarda interagindo com ele através da Lei de Shendao.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Examinar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examinar Lei</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_God_Guard2" sParam="Item">
-			<ThingName>Alkaid Lumina Core</ThingName>
-			<Desc>Lumina Core com o poder da estrela Alkaid morando dentro dele. Talvez alguém possa aproveitar esse poder para usar como Guarda interagindo com ele através da Lei de Shendao.</Desc>
+			<ThingName>Núcleo Lumina de Alkaid</ThingName>
+			<Desc>Núcleo Lumina com o poder da estrela Alkaid morando dentro dele. Talvez alguém possa aproveitar esse poder para usar como Guarda interagindo com ele através da Lei de Shendao.</Desc>
 		</Text>
 		<Text Name="Item_God_Guard3" sParam="Item">
-			<ThingName>Dubhe Lumina Core</ThingName>
-			<Desc>Lumina Core com o poder da estrela Dubhe morando dentro dele. Talvez alguém possa aproveitar esse poder para usar como Guarda interagindo com ele através da Lei de Shendao.</Desc>
+			<ThingName>Núcleo Lumina de Dubhe</ThingName>
+			<Desc>Núcleo Lumina com o poder da estrela Dubhe morando dentro dele. Talvez alguém possa aproveitar esse poder para usar como Guarda interagindo com ele através da Lei de Shendao.</Desc>
 		</Text>
 		<Text Name="Item_Sys_Gong" sParam="Item">
-			<ThingName>Law</ThingName>
+			<ThingName>Lei</ThingName>
 			<Desc>Um conjunto de Leis.</Desc>
-			<Item.FabaoSuffix>Book, Volume, Scroll</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Livro, Volume, Pergaminho</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Firecracker" sParam="Item">
-			<ThingName>Firecracker</ThingName>
+			<ThingName>Foguete</ThingName>
 			<Desc>Brinquedo peculiar do Outro Mundo. Escolha um lugar para ativá-lo e ele pode atrair facilmente as pessoas ao seu redor para assistir. É um dispositivo bastante intimidador para os fracos de coração.</Desc>
-			<Item.FabaoSuffix>Firework</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Light</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Fogos de Artifício</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Acender</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Acender</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_FirecrackerShit" sParam="Item">
-			<ThingName>Processed Firecracker</ThingName>
+			<ThingName>Foguete Processado</ThingName>
 			<Desc>Foguetes com processamento especial. Muito aterrorizante.</Desc>
-			<Item.FabaoSuffix>Firework</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Light</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Fogos de Artifício</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Acender</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Acender</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Jiaozi" sParam="Item">
-			<ThingName>Dumpling</ThingName>
+			<ThingName>Bolinho</ThingName>
 			<Desc>Comida do Outro Mundo, cheia de bons desejos e alegrias festivas. Coma e você pode descobrir alguma surpresa agradável!</Desc>
-			<Item.FabaoSuffix>Dumpling</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Bolinho</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Yingbi1" sParam="Item">
-			<ThingName>Prayer Coin</ThingName>
-			<Desc>Firme disco de metal escondido dentro de bolinhos, abrigava os bons desejos de muitos seres do Outro Mundo que ansiavam por felicidade e riqueza. Torch Dragon, a manifestação da Regra do Yin e Yang neste mundo, recentemente se tornou um pouco estranho sob a influência do Outro Mundo. Parece estar muito interessado neste objeto.</Desc>
-			<Item.FabaoSuffix>Coin</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Rub</StoryBnts.0.Name>
+			<ThingName>Moeda de Oração</ThingName>
+			<Desc>Firme disco de metal escondido dentro de bolinhos, abrigava os bons desejos de muitos seres do Outro Mundo que ansiavam por felicidade e riqueza. O Dragão Tocha, a manifestação da Regra do Yin e Yang neste mundo, recentemente se tornou um pouco estranho sob a influência do Outro Mundo. Parece estar muito interessado neste objeto.</Desc>
+			<Item.FabaoSuffix>Moeda</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Esfregar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente esfregar?</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Yingbi2" sParam="Item">
-			<ThingName>Prayer Coin</ThingName>
-			<Desc>Firme disco de metal escondido dentro de bolinhos, abrigava os bons desejos de muitos seres do Outro Mundo que ansiavam por longevidade e saúde. Torch Dragon, a manifestação da Regra do Yin e Yang neste mundo, recentemente se tornou um pouco estranho sob a influência do Outro Mundo. Parece estar muito interessado neste objeto.</Desc>
-			<Item.FabaoSuffix>Coin</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Rub</StoryBnts.0.Name>
+			<ThingName>Moeda de Oração</ThingName>
+			<Desc>Firme disco de metal escondido dentro de bolinhos, abrigava os bons desejos de muitos seres do Outro Mundo que ansiavam por longevidade e saúde. O Dragão Tocha, a manifestação da Regra do Yin e Yang neste mundo, recentemente se tornou um pouco estranho sob a influência do Outro Mundo. Parece estar muito interessado neste objeto.</Desc>
+			<Item.FabaoSuffix>Moeda</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Esfregar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente esfregar?</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Yingbi3" sParam="Item">
-			<ThingName>Prayer Coin</ThingName>
-			<Desc>Disco de metal firme escondido dentro de bolinhos, abrigava os bons desejos de muitos seres do Outro Mundo que ansiavam por roupas novas e bonitas. Torch Dragon, a manifestação da Regra do Yin e Yang neste mundo, recentemente se tornou um pouco estranho sob a influência do Outro Mundo. Parece estar muito interessado neste objeto.</Desc>
-			<Item.FabaoSuffix>Coin</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Rub</StoryBnts.0.Name>
+			<ThingName>Moeda de Oração</ThingName>
+			<Desc>Disco de metal firme escondido dentro de bolinhos, abrigava os bons desejos de muitos seres do Outro Mundo que ansiavam por roupas novas e bonitas. O Dragão Tocha, a manifestação da Regra do Yin e Yang neste mundo, recentemente se tornou um pouco estranho sob a influência do Outro Mundo. Parece estar muito interessado neste objeto.</Desc>
+			<Item.FabaoSuffix>Moeda</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Esfregar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente esfregar?</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_SpringBox" sParam="Item">
-			<ThingName>Festive Goods</ThingName>
+			<ThingName>Bens Festivos</ThingName>
 			<Desc>Presente misterioso do Outro Mundo, é referido como "bens festivos" pelas pessoas que vivem lá.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Open</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Abrir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente abrir este caixão</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_SuperPartItem" sParam="Item">
-			<ThingName>Body Profundity</ThingName>
+			<ThingName>Profundidade do Corpo</ThingName>
 			<Desc>Os cultivadores físicos podem estudá-lo para obter novos conhecimentos sobre Corpos Secretos.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Aprenda a profundidade</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_AnimalBox" sParam="Item">
-			<ThingName>Beautiful Cage</ThingName>
+			<ThingName>Jaula Bonita</ThingName>
 			<Desc>Dentro da jaula há um animal cuidadosamente cultivado no Estado do Despertar.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_NormalAnimalBox" sParam="Item">
-			<ThingName>Simple Cage</ThingName>
+			<ThingName>Jaula Simples</ThingName>
 			<Desc>Dentro da gaiola simples há um animal no Estado do Despertar.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BodyAnimalBox" sParam="Item">
-			<ThingName>Cage</ThingName>
+			<ThingName>Jaula</ThingName>
 			<Desc>Dentro da jaula há um animal no Estado do Despertar.</Desc>
-			<Item.FabaoSuffix>Box</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_ChunYangWuJiGong" sParam="Item">
-			<ThingName>Habilidade Pure Yang Wuji</ThingName>
-			<Desc>O segredo não revelado da Seita Wudang, é o seu método de habilidade interna mais elevado. Este livro secreto tem dois métodos de refinamento: a prática correta pode aumentar fundamentalmente o limite superior da energia espiritual, e a prática reversa pode reduzir o Taoísmo, mas causará ferimentos internos no Dantian. Os praticantes podem escolher um para praticar.</Desc>
-			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Compreender o livro secreto</StoryBnts.0.Desc>
+			<ThingName>Lei Suprema do Yang Puro</ThingName>
+			<Desc>A arte esotérica da Seita Wudang é sua técnica interna mais avançada. Este manual oferece dois métodos de prática: o método ortodoxo aumenta fundamentalmente o limite de Qi, enquanto o método reverso reduz o alcance, mas causa desordem dentro do Dantian. Os cultivadores podem escolher um para praticar.</Desc>
+			<Item.FabaoSuffix>Livro</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Manual de Estudo</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_SupplyBox" sParam="Item">
+			<ThingName>Caixa de Suprimentos</ThingName>
+			<Desc>Um presente do Dao Celestial!</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente abrir este baú</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

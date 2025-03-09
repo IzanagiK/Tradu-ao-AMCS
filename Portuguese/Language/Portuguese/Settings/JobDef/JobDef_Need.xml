@@ -4,7 +4,7 @@
 			<DisplayName>Comer</DisplayName>
 		</Text>
 		<Text Name="JobBAnimalFree">
-			<DisplayName>Mover</DisplayName>
+			<DisplayName>Movimento</DisplayName>
 		</Text>
 		<Text Name="JobBAnimalGiveBirth">
 			<DisplayName>Cruzar</DisplayName>
@@ -22,13 +22,13 @@
 			<DisplayName>Dormir</DisplayName>
 		</Text>
 		<Text Name="JobLookAtSky">
-			<DisplayName>Skygaze</DisplayName>
+			<DisplayName>Observar o céu</DisplayName>
 		</Text>
 		<Text Name="JobFree">
 			<DisplayName>Vagar</DisplayName>
 		</Text>
 		<Text Name="JobRunAway">
-			<DisplayName>Flee</DisplayName>
+			<DisplayName>Fugir</DisplayName>
 		</Text>
 		<Text Name="JobPlayWithBuilding">
 			<DisplayName>Se divertir</DisplayName>
@@ -37,7 +37,7 @@
 			<DisplayName>Treinamento básico</DisplayName>
 		</Text>
 		<Text Name="JobIdle">
-			<DisplayName>Idle</DisplayName>
+			<DisplayName>Inativo</DisplayName>
 		</Text>
 	</List>
 </Texts>

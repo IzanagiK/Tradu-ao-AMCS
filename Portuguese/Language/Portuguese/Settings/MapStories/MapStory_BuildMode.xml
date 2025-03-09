@@ -1,25 +1,25 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="BuildMode_ChangeTime">
-			<DisplayName>Land of Illusion</DisplayName>
+			<DisplayName>Terra da Ilusão</DisplayName>
 			<Desc>Então, para quando você precisa ajustar o tempo?</Desc>
 			<Selections.0.Display>Manhã</Selections.0.Display>
 			<Selections.1.Display>Meio-dia</Selections.1.Display>
 			<Selections.2.Display>Anoitecer</Selections.2.Display>
 			<Selections.3.Display>Noite</Selections.3.Display>
-			<Selections.4.Display>Deixa para lá</Selections.4.Display>
+			<Selections.4.Display>Não</Selections.4.Display>
 		</Text>
 		<Text Name="BuildMode_ChangeSeason">
-			<DisplayName>Land of Illusion</DisplayName>
+			<DisplayName>Terra da Ilusão</DisplayName>
 			<Desc>Então, que estação deve ser?</Desc>
 			<Selections.0.Display>Primavera</Selections.0.Display>
 			<Selections.1.Display>Verão</Selections.1.Display>
 			<Selections.2.Display>Outono</Selections.2.Display>
 			<Selections.3.Display>Inverno</Selections.3.Display>
-			<Selections.4.Display>Deixa para lá</Selections.4.Display>
+			<Selections.4.Display>Não</Selections.4.Display>
 		</Text>
 		<Text Name="BuildMode_ChangeWeather">
-			<DisplayName>Land of Illusion</DisplayName>
+			<DisplayName>Terra da Ilusão</DisplayName>
 			<Desc>Então, que clima deve ser?</Desc>
 			<Selections.0.Display>Leve Chuva/Neve</Selections.0.Display>
 			<Selections.1.Display>Pesada Chuva/Neve</Selections.1.Display>
@@ -27,7 +27,7 @@
 			<Selections.3.Display>Noite Polar</Selections.3.Display>
 			<Selections.4.Display>Trovoada</Selections.4.Display>
 			<Selections.5.Display>Limpar todos os efeitos climáticos</Selections.5.Display>
-			<Selections.6.Display>Deixa para lá</Selections.6.Display>
+			<Selections.6.Display>Não</Selections.6.Display>
 		</Text>
 	</List>
 </Texts>

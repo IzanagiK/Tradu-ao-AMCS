@@ -1,174 +1,174 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="LsXuanWu_Carve" sParam="Building">
-			<ThingName>Black Tortoise Statue</ThingName>
+			<ThingName>Estátua da Tartaruga Preta</ThingName>
 			<Desc>Estátua de uma tartaruga preta. Pode ser usado para reanimar ou convocar uma tartaruga negra.</Desc>
 		</Text>
 		<Text Name="ZhenWuCarve" sParam="Building">
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
-			<ThingName>Perfected Warrior Emperor Statue</ThingName>
+			<ThingName>Estátua do Imperador Guerreiro Aperfeiçoado</ThingName>
 			<Desc>Uma estátua sagrada do Imperador Guerreiro Aperfeiçoado para adoração, com poder divino inviolável e bênçãos sem limites.</Desc>
 		</Text>
 		<Text Name="TurTleMonu" sParam="Building">
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
-			<ThingName>Bixi Memorial Stele</ThingName>
-			<Desc>Diz a lenda que há milénios, Yu the Great domou a Bixi a tartaruga, usando-a para dragar, desviar rios e controlar inundações. As suas contribuições estão todas registadas nesta estela.</Desc>
+			<ThingName>Estela Memorial de Bixi</ThingName>
+			<Desc>Diz a lenda que há milênios, Yu, o Grande, domou Bixi, a tartaruga, usando-a para dragar, desviar rios e controlar inundações. Suas contribuições estão todas registradas nesta estela.</Desc>
 		</Text>
 		<Text Name="IncenseTripod" sParam="Building">
-			<ThingName>Incense Cauldron</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Caldeirão de Incenso</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 			<Desc>Um caldeirão taoísta usado para queimar paus de incenso para acalmar os nervos.</Desc>
 		</Text>
 		<Text Name="DragonIncense" sParam="Building">
-			<ThingName>Dragon Incense</ThingName>
-			<StoryBnts.0.Name>Worship</StoryBnts.0.Name>
+			<ThingName>Incenso de Dragão</ThingName>
+			<StoryBnts.0.Name>Adorar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente adorar com incenso de dragão.</StoryBnts.0.Desc>
-			<Desc>Um milagre no the Southrock Palace que fica nas falésias das Wudang Mountains. É preciso subir de quatro em quatro para oferecer incenso. Um passo em falso levará a uma queda das montanhas..</Desc>
+			<Desc>Um milagre no Palácio Southrock, que fica nas falésias das Montanhas Wudang. É preciso subir de quatro em quatro para oferecer incenso. Um passo em falso levará a uma queda das montanhas.</Desc>
 		</Text>
 		<Text Name="RedWallDownLeft" sParam="Building">
-			<ThingName>Red Wall Corner (L)</ThingName>
-			<Desc>Uma parede única para a Seita Wudang. Embora poderoso e impressionante, não pode ser usado para criar uma sala.</Desc>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Esquina da Parede Vermelha (L)</ThingName>
+			<Desc>Uma parede única para a Seita Wudang. Embora poderosa e impressionante, não pode ser usada para criar uma sala.</Desc>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="RedWallDownLeft2" sParam="Building">
-			<ThingName>Red Wall Corner (L)</ThingName>
+			<ThingName>Esquina da Parede Vermelha (L)</ThingName>
 		</Text>
 		<Text Name="RedWallUpLeft" sParam="Building">
-			<ThingName>Red Wall Corner (L)</ThingName>
+			<ThingName>Esquina da Parede Vermelha (L)</ThingName>
 		</Text>
 		<Text Name="RedWallUpLeft2" sParam="Building">
-			<ThingName>Red Wall Corner (L)</ThingName>
+			<ThingName>Esquina da Parede Vermelha (L)</ThingName>
 		</Text>
 		<Text Name="RedWallMidUp" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Parede Vermelha Curva (L)</ThingName>
 		</Text>
 		<Text Name="RedWallMidUp2" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Parede Vermelha Curva (L)</ThingName>
 		</Text>
 		<Text Name="RedWallMidRight" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Parede Vermelha Curva (L)</ThingName>
 		</Text>
 		<Text Name="RedWallMidRight2" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Parede Vermelha Curva (L)</ThingName>
 		</Text>
 		<Text Name="RedWallVertical" sParam="Building">
-			<ThingName>Red wall mid (L)</ThingName>
+			<ThingName>Parede Vermelha do Meio (L)</ThingName>
 		</Text>
 		<Text Name="RedWallVerticalHalf" sParam="Building">
-			<ThingName>Red Wall End (L)</ThingName>
+			<ThingName>Fim da Parede Vermelha (L)</ThingName>
 		</Text>
 		<Text Name="RedWallHorizontalHalf" sParam="Building">
-			<ThingName>Red Wall End (L)</ThingName>
+			<ThingName>Fim da Parede Vermelha (L)</ThingName>
 		</Text>
 		<Text Name="RedWallHorizontal" sParam="Building">
-			<ThingName>Red Wall (L)</ThingName>
+			<ThingName>Parede Vermelha (L)</ThingName>
 		</Text>
 		<Text Name="RedWallDownLeftTiny" sParam="Building">
-			<ThingName>Red Wall Small Corner (L)</ThingName>
+			<ThingName>Pequena Esquina da Parede Vermelha (L)</ThingName>
 		</Text>
 		<Text Name="RedWallUpLeftTiny" sParam="Building">
-			<ThingName>Red Wall Small Corner (L)</ThingName>
+			<ThingName>Pequena Esquina da Parede Vermelha (L)</ThingName>
 		</Text>
 		<Text Name="RedWallGate" sParam="Building">
-			<ThingName>Taoist Pagoda</ThingName>
+			<ThingName>Pagode Taoísta</ThingName>
 			<Desc>Uma pagode taoísta grandiosa e solene.</Desc>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="RedWallDrum" sParam="Building">
-			<ThingName>Taichi Drum</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Tambor de Taiji</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 			<Desc>Uma estrutura decorativa. Pode afetar os Cinco Elementos do seu ambiente com base nos seus materiais.</Desc>
 		</Text>
 		<Text Name="WuDangBigGate" sParam="Building">
-			<ThingName>Wudang Gate</ThingName>
+			<ThingName>Portão Wudang</ThingName>
 			<Desc>Um portão majestoso da Seita Wudang.</Desc>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangScreen" sParam="Building">
-			<ThingName>Black Phoenix Screen</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Painel Fênix Negra</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangFlag" sParam="Building">
-			<ThingName>Wudang Banner</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Bandeira Wudang</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangXiangLu" sParam="Building">
-			<ThingName>Dragon Censer</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Incensário de Dragão</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangPuTuan" sParam="Building">
-			<ThingName>Trigrams Cushion</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Almofada de Trigramas</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangXianHeDeng" sParam="Building">
-			<ThingName>Gruidae Lantern</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Lanterna Gruidae</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangDivine" sParam="Building">
-			<ThingName>Sacred Nimbus Plate</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Placa Sagrada Nimbus</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
-			<Desc>Uma estrutura exclusiva das Wudang Mountains que está gravada com o título sagrado do Imperador Guerreiro Aperfeiçoado.</Desc>
+			<Desc>Uma estrutura exclusiva das Montanhas Wudang que está gravada com o título sagrado do Imperador Guerreiro Aperfeiçoado.</Desc>
 		</Text>
 		<Text Name="WuDangJinDian" sParam="Building">
-			<ThingName>Golden Hall</ThingName>
-			<Desc>Uma maravilha milagrosa que se mantém no topo da mountain peak da Seita Wudang. Abençoado pelo poder divino do Imperador Guerreiro Aperfeiçoado, contém o segredo arcano da derradeira habilidade Wudang a ser aprendida e praticada por cultivadores sortudos o suficiente para a encontrar.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<ThingName>Salão Dourado</ThingName>
+			<Desc>Uma maravilha milagrosa que se mantém no topo do pico da montanha da Seita Wudang. Abençoado pelo poder divino do Imperador Guerreiro Aperfeiçoado, contém o segredo arcano da derradeira habilidade Wudang a ser aprendida e praticada por cultivadores sortudos o suficiente para a encontrar.</Desc>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Medite nos caminhos celestiais que habitam nele.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangXuanWuDeng" sParam="Building">
-			<ThingName>Black Tortoise Lantern</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Lanterna da Tartaruga Negra</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ChaShu1" sParam="Building">
-			<ThingName>Cloudpeak Tea Plant</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Planta de Chá Cloudpeak</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ChaShu2" sParam="Building">
-			<ThingName>Cloudpeak Tea Plant</ThingName>
+			<ThingName>Planta de Chá Cloudpeak</ThingName>
 		</Text>
 		<Text Name="Building_WuDangSong1" sParam="Building">
-			<ThingName>Wudang Pine Tree</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<ThingName>Pinheiro Wudang</ThingName>
+			<StoryBnts.0.Name>Observar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_WuDangSong2" sParam="Building">
-			<ThingName>Wudang Pine Tree</ThingName>
+			<ThingName>Pinheiro Wudang</ThingName>
 		</Text>
 		<Text Name="Building_WuDangSong3" sParam="Building">
-			<ThingName>Wudang Pine Tree</ThingName>
+			<ThingName>Pinheiro Wudang</ThingName>
 		</Text>
 		<Text Name="Building_WuDangSong4" sParam="Building">
-			<ThingName>Wudang Pine Tree</ThingName>
+			<ThingName>Pinheiro Wudang</ThingName>
 		</Text>
 		<Text Name="Table_TaiZi" sParam="Building">
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com a sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_BigSwordPillar_ZiXiao" sParam="Building">
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com a sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_XiaoDanLu1_ZiXiao" sParam="Building">
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com a sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ShiBei_ZiXiao" sParam="Building">
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Interagir</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente interagir com ele com a sua Percepção.</StoryBnts.0.Desc>
 		</Text>
 	</List>

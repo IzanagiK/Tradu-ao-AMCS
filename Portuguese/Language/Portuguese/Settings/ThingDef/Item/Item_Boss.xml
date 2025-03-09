@@ -1,132 +1,132 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_Boss_Jiaowangci" sParam="Item">
-			<ThingName>Wyrm King Horn</ThingName>
+			<ThingName>Chifre do Rei Wyrm</ThingName>
 		</Text>
 		<Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
-			<ThingName>Phoenix Core</ThingName>
+			<ThingName>Núcleo da Fênix</ThingName>
 		</Text>
 		<Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
-			<ThingName>Phoenix Flame Feather</ThingName>
+			<ThingName>Pena Flamejante da Fênix</ThingName>
 		</Text>
 		<Text Name="Item_BossFeng_HuoYu" sParam="Item">
-			<ThingName>Blazing Feather</ThingName>
-			<Desc>Um manto com padrão requintado, com o símbolo do vencedor do KunLun Fair Debate. Diz-se que Siga o caminho antigo e conquiste o presente, conhecer o antigo é conhecer os Princípios do Tao.</Desc>
-			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+			<ThingName>Pena Flamejante</ThingName>
+			<Desc>Um manto com padrão requintado, com o símbolo do vencedor do Debate de Feira KunLun. Diz-se que Siga o caminho antigo e conquiste o presente, conhecer o antigo é conhecer os Princípios do Tao.</Desc>
+			<Item.FabaoSuffix>Pena</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_GangYu" sParam="Item">
-			<ThingName>Phoenix Ironclad Feather</ThingName>
+			<ThingName>Pena de Ferroclado da Fênix</ThingName>
 			<Desc>Uma pena de Fênix intacta, seu imenso calor inteiramente confinado dentro. É afiada e resistente. Usá-lo permite que a pessoa se torne impermeável ao frio, acelerando a circulação do Qi e do sangue, além de aumentar a taxa de consumo de alimentos.</Desc>
-			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pena</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_TouYu" sParam="Item">
-			<ThingName>Phoenix Oblivion Feather</ThingName>
-			<Desc>A linda pena em chamas eternas da cabeça de Phoenix, contendo sua essência concentrada. Phoenix é hábil nas formas de feitiços. Usá-lo permite que você aproveite o poder da Fênix e ultrapasse o limite de habilidade do Feitiço em 3 níveis.</Desc>
-			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+			<ThingName>Pena do Oblívio da Fênix</ThingName>
+			<Desc>A linda pena em chamas eternas da cabeça de Fênix, contendo sua essência concentrada. A Fênix é hábil nas formas de feitiços. Usá-lo permite que você aproveite o poder da Fênix e ultrapasse o limite de habilidade do Feitiço em 3 níveis.</Desc>
+			<Item.FabaoSuffix>Pena</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_WeiYu" sParam="Item">
-			<ThingName>Phoenix Mantle Feather</ThingName>
-			<Desc>A enorme pena da cauda da Fênix. Apesar da chama brilhante que habita em cima dele, sente-se moderadamente quente em vez de queimar quente ao tocá-lo, o que é maravilhoso. Deve ter alguns efeitos peculiares depois de ter sido processado com um método especial.</Desc>
-			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+			<ThingName>Pena do Manto da Fênix</ThingName>
+			<Desc>A enorme pena da cauda da Fênix. Apesar da chama brilhante que habita em cima dela, sente-se moderadamente quente em vez de queimar quente ao tocá-la, o que é maravilhoso. Deve ter alguns efeitos peculiares depois de ter sido processada com um método especial.</Desc>
+			<Item.FabaoSuffix>Pena</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_Gu" sParam="Item">
-			<ThingName>Phoenix Iron Bone</ThingName>
+			<ThingName>Osso de Ferro da Fênix</ThingName>
 			<Desc>Os ossos ocos das duas asas da Fênix são extraordinariamente firmes e leves. Deve ter alguns efeitos peculiares depois de ter sido processado com um método especial.</Desc>
-			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Pena</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_HongYu" sParam="Item">
-			<ThingName>Phoenix Fire Jade</ThingName>
+			<ThingName>Jade de Fogo da Fênix</ThingName>
 			<Desc>A fonte de poder da Fênix; é onde reside seu espírito primordial. Se alguém se comunicar com seu espírito primordial, poderá compreender algumas informações úteis dele. Usá-lo permite aproveitar o poder da Fênix e receber 10% menos dano de Fogo.</Desc>
 			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Meditate</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Meditar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente obter alguma informação útil a partir dele.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BossFeng_Meat" sParam="Item">
-			<ThingName>Phoenix Flesh</ThingName>
-			<Desc>A melhor carne e sangue do corpo da Fênix, consumi-la aumenta o Qi Max em 25 e prolonga a Vida útil por 10 anos. Múltiplos consumos diminuirão gradualmente seu efeito.</Desc>
-			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
+			<ThingName>Carne de Fênix</ThingName>
+			<Desc>A melhor carne e sangue do corpo da Fênix, consumi-la aumenta o Qi Máx em 25 e prolonga a Vida útil por 10 anos. Múltiplos consumos diminuirão gradualmente seu efeito.</Desc>
+			<Item.FabaoSuffix>Carne</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_DragonScale" sParam="Item">
-			<ThingName>Dragon Scale</ThingName>
-			<Desc>Escala caída do corpo do dragão, perdeu a maioria de suas qualidades mágicas, exceto por um forte efeito de convergência espiritual.</Desc>
-			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+			<ThingName>Escama de Dragão</ThingName>
+			<Desc>Escama caída do corpo do dragão, perdeu a maioria de suas qualidades mágicas, exceto por um forte efeito de convergência espiritual.</Desc>
+			<Item.FabaoSuffix>Escama</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Jiao" sParam="Item">
-			<ThingName>Flood Dragon Horn</ThingName>
-			<Desc>O chifre no topo da cabeça do Dragão da Inundação, é onde a essência do dragão está concentrada. Flood Dragon é habilidoso nos caminhos do Artifact Mastery. Usá-lo permite aproveitar o poder do Flood Dragon e romper o limite de habilidade de Sword Mastery em 3 níveis.</Desc>
-			<Item.FabaoSuffix>Thorn</Item.FabaoSuffix>
+			<ThingName>Chifre do Dragão da Inundação</ThingName>
+			<Desc>O chifre no topo da cabeça do Dragão da Inundação, é onde a essência do dragão está concentrada. O Dragão da Inundação é habilidoso nos caminhos da Maestria de Artefatos. Usá-lo permite aproveitar o poder do Dragão da Inundação e romper o limite de habilidade de Maestria da Espada em 3 níveis.</Desc>
+			<Item.FabaoSuffix>Espinho</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Zhua" sParam="Item">
-			<ThingName>Flood Dragon Devil Claw</ThingName>
-			<Desc>Garra afiada do Flood Dragon, não tem escassez de bordas afiadas e possui poder destrutivo imparável. Deve ter alguns efeitos peculiares depois de ter sido processado com um método especial.</Desc>
-			<Item.FabaoSuffix>Thorn</Item.FabaoSuffix>
+			<ThingName>Garra do Demônio Dragão da Inundação</ThingName>
+			<Desc>Garra afiada do Dragão da Inundação, não tem escassez de bordas afiadas e possui poder destrutivo imparável. Deve ter alguns efeitos peculiares depois de ter sido processada com um método especial.</Desc>
+			<Item.FabaoSuffix>Espinho</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Lin" sParam="Item">
-			<ThingName>Flood Dragon Scale</ThingName>
-			<Desc>Uma escama intacta do corpo do Flood Dragon, é bastante indestrutível. Usá-lo permite resistir ao dano do Qi.</Desc>
-			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+			<ThingName>Escama do Dragão da Inundação</ThingName>
+			<Desc>Uma escama intacta do corpo do Dragão da Inundação, é bastante indestrutível. Usá-la permite resistir ao dano do Qi.</Desc>
+			<Item.FabaoSuffix>Escama</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_NiLin" sParam="Item">
-			<ThingName>Flood Dragon Forbidden Scale</ThingName>
-			<Desc>A fonte do poder do Flood Dragon, é aqui que seu espírito primordial reside. Se alguém se comunicar com seu espírito primordial, poderá compreender algumas informações úteis dele. Usá-lo permite aproveitar o poder do Flood Dragon e receber 10% menos dano de Água.</Desc>
-			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Meditate</StoryBnts.0.Name>
+			<ThingName>Escama Proibida do Dragão da Inundação</ThingName>
+			<Desc>A fonte do poder do Dragão da Inundação, é aqui que seu espírito primordial reside. Se alguém se comunicar com seu espírito primordial, poderá compreender algumas informações úteis dele. Usá-lo permite aproveitar o poder do Dragão da Inundação e receber 10% menos dano de Água.</Desc>
+			<Item.FabaoSuffix>Escama</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Meditar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente obter alguma informação útil a partir dele.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BossLong_Jing" sParam="Item">
-			<ThingName>Flood Dragon Wrath Vein</ThingName>
+			<ThingName>Veia de Ira do Dragão da Inundação</ThingName>
 			<Desc>O meridiano de tendão mais resistente na cauda do Dragão da Inundação, é de excelente condutividade de Qi. Deve ter alguns efeitos peculiares depois de ter sido processado com um método especial.</Desc>
-			<Item.FabaoSuffix>Tendon</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Tendão</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Meat" sParam="Item">
-			<ThingName>Flood Dragon Flesh</ThingName>
-			<Desc>A melhor carne e sangue do corpo do Flood Dragon, consumi-la aumenta o Max Qi em 25 e prolonga a vida útil por 10 anos. Múltiplos consumos diminuirão gradualmente seu efeito.</Desc>
-			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
+			<ThingName>Carne de Dragão da Inundação</ThingName>
+			<Desc>A melhor carne e sangue do corpo do Dragão da Inundação, consumi-la aumenta o Qi Máx em 25 e prolonga a vida útil por 10 anos. Múltiplos consumos diminuirão gradualmente seu efeito.</Desc>
+			<Item.FabaoSuffix>Carne</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
-			<ThingName>White Scale</ThingName>
-			<Desc>Pura escama branca derramada do corpo do Torch Dragon.</Desc>
-			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+			<ThingName>Escama Branca</ThingName>
+			<Desc>Pura escama branca derramada do corpo do Dragão da Tocha.</Desc>
+			<Item.FabaoSuffix>Escama</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
-			<ThingName>Black Scale</ThingName>
-			<Desc>Escala negra do corpo do Torch Dragon.</Desc>
-			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+			<ThingName>Escama Negra</ThingName>
+			<Desc>Escama negra do corpo do Dragão da Tocha.</Desc>
+			<Item.FabaoSuffix>Escama</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_Eye" sParam="Item">
-			<ThingName>Yin-Yang Crystal</ThingName>
+			<ThingName>Cristal Yin-Yang</ThingName>
 			<Desc>Cristais transparentes das cores misturadas de preto e branco nos olhos do Dragão da Tocha, através dos quais se pode aparentemente decifrar os mistérios dos caminhos do yin e do yang. Deve ter alguns efeitos peculiares depois de ter sido processado com um método especial.</Desc>
-			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Cristal</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_TianLin" sParam="Item">
-			<ThingName>Divine Torch Dragon Scale</ThingName>
-			<Desc>A escama de formato estranho entre as sobrancelhas do Dragão da Tocha, é onde a essência do dragão está concentrada. Cinco Elementos que foram transformados pelo Dragão da Tocha de Yin e Yang. Usá-lo permite que você aproveite o poder do Torch Dragon e ultrapasse o limite de habilidade da Barreira em 3 níveis.</Desc>
-			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
+			<ThingName>Escama Divina do Dragão da Tocha</ThingName>
+			<Desc>A escama de formato estranho entre as sobrancelhas do Dragão da Tocha, é onde a essência do dragão está concentrada. Cinco Elementos que foram transformados pelo Dragão da Tocha de Yin e Yang. Usá-la permite que você aproveite o poder do Dragão da Tocha e ultrapasse o limite de habilidade da Barreira em 3 níveis.</Desc>
+			<Item.FabaoSuffix>Escama</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_LongYu" sParam="Item">
-			<ThingName>Chaos Jade</ThingName>
+			<ThingName>Jade do Caos</ThingName>
 			<Desc>A fonte de poder do Dragão da Tocha, é aqui que reside um fragmento de seu espírito primordial remanescente. Se alguém se comunicar com seu espírito primordial, poderá compreender algumas informações úteis dele. Usá-lo permite aproveitar o poder do Dragão da Tocha e receber 5% a menos de dano elemental.</Desc>
 			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Meditate</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Meditar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente obter alguma informação útil a partir dele.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BossZhuLong_Meat" sParam="Item">
-			<ThingName>Primeval Flesh</ThingName>
+			<ThingName>Carne Primeva</ThingName>
 			<Desc>Sangue e carne do corpo do Dragão da Tocha, é contaminado pelo poder do Yin e Yang e, portanto, tem usos únicos. Consumi-lo diminui a Conquista em 2 e aumenta a Vida útil em 10 anos. Múltiplos consumos diminuirão gradualmente seu efeito.</Desc>
-			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Carne</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_FengYin" sParam="Item">
-			<ThingName>Phoenix Jade</ThingName>
+			<ThingName>Jade da Fênix</ThingName>
 			<Desc>Um antigo pedaço de jade dos tesouros da plataforma do dragão, parece ser um de um conjunto de itens.</Desc>
 			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Inspecione o Phoenix Jade.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Inspecionar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Inspecione o Jade da Fênix.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BossZhuLong_FengYin" sParam="Item">
-			<ThingName>Ancient Jade</ThingName>
+			<ThingName>Jade Antiga</ThingName>
 			<Desc>Um pedaço peculiar de jade encontrado no Campo de Batalha Celestial, o antigo campo de batalha. A essência do Yin e Yang pisca dentro dele, como se nutrisse algo.</Desc>
 			<Item.FabaoSuffix>Jade</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Inspect</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspecionar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Inspecione a Jade Antiga.</StoryBnts.0.Desc>
 		</Text>
 	</List>

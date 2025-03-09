@@ -105,11 +105,11 @@
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Reconstrução\nRegenere o membro de um alvo, reforjando todas as partes do corpo perdidas.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_RobBodyLow_1">
-			<DisplayName>Posse Menor</DisplayName>
+			<DisplayName>Possessão do Deus Yin</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Possessão Menor\nTécnica de possessão de baixo nível. Pegue o corpo de um ser vivo sem experiência de cultivo. No entanto, grande parte da experiência de cultivo do usuário será perdida, causando incompatibilidade de alma como resultado.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_RobBodyHigh_1">
-			<DisplayName>Posse Maior</DisplayName>
+			<DisplayName>Possessão do Deus Yang</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Posse Maior\nTécnica de possessão avançada. Agarre completamente o corpo de um ser vivo sem experiência de cultivo, mas uma grande parte da experiência de cultivo do usuário será perdida.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_1_1">
@@ -142,7 +142,7 @@
 		</Text>
 		<Text Name="Magic_AbsorbGong_8_1">
 			<DisplayName>Encantamento da Limpeza da Mente</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Encantamento de Limpeza da Mente\nLance um feitiço e conceda um ser vivo sem experiência de cultivo da mesma raça que o usuário com um status de humor positivo.[/color] [/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Encantamento de Limpeza da Mente\nLance um feitiço e conceda um ser vivo sem experiência de cultivo da mesma raça que o usuário com um estatus de humor positivo.[/color] [/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PlantGrowUp_1">
 			<DisplayName>Domínio do Canto da Madeira</DisplayName>
@@ -186,7 +186,7 @@
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Dança da Chuva\nFaça uma chuva através de um milagre. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForSun_1">
-			<DisplayName>Chant of Cloud Dispelling</DisplayName>
+			<DisplayName>Canto de Dissipação de Nuvens</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Canto de Dissipação de Nuvens\nTraga o tempo ensolarado por meio de um milagre. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForRainstorm">
@@ -194,7 +194,7 @@
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Dança da Tempestade\nFaça uma tempestade através de um milagre durante o inverno e o verão. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForFohn">
-			<DisplayName>Foehn Wind</DisplayName>
+			<DisplayName>Vento Foehn</DisplayName>
 			<EffectDesc>[size=10][color=#D06508]Aprenda Milagre: Vento Foehn\nConvoque uma rajada de vento foehn através do milagre durante o verão e o outono. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForDustStorm">

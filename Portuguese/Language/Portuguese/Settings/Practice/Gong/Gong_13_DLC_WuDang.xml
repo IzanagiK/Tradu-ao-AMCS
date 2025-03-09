@@ -1,21 +1,20 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Gong_13_None">
-			<DisplayName>Law of Nimbus Conquest</DisplayName>
-			<Desc>Uma lei suprema criada pelo Guerreiro Aperfeiçoado. Depois de aprender esta lei, pode-se formar yin e yang dentro, criar núcleos dourados yin e yang e também alcançar espíritos primordiais yin e yang. Ao treinar sub-espíritos, pode-se ganhar o dobro do efeito da metade do esforço. É a lei mais famosa do Guerreiro Aperfeiçoado na Montanha Wudang. É muito misterioso.</Desc>
-			<SelectDesc>Depois de praticar esta lei, a realização obtida pela compreensão do mistério também separou-se em Yin e Yang. Embora possa melhorar muito o limite superior da força dos cultivadores, a proporção de realização entre yin e Yang também afetará fundamentalmente as realizações dos cultivadores. Este método rouba o mistério do yin e do Yang no céu e na terra e é muito invejado pelo céu. Portanto, o poder da tribulação é extremamente poderoso.</SelectDesc>
-			<Stages.0.DisplayName>Chaos</Stages.0.DisplayName>
+			<DisplayName>Lei da Conquista do Nimbus</DisplayName>
+			<Desc>Uma lei suprema criada pelo Guerreiro Aperfeiçoado. Depois de aprender esta lei, pode-se formar yin e yang dentro, criar núcleos dourados yin e yang e também alcançar espíritos primordiais yin e yang. Ao treinar sub-espíritos, pode-se ganhar o dobro do efeito da metade do esforço. É a lei mais famosa do Guerreiro Aperfeiçoado na Montanha Wudang. É muito misteriosa.</Desc>
+			<SelectDesc>Depois de praticar esta lei, a realização obtida pela compreensão do mistério também se separou em Yin e Yang. Embora possa melhorar muito o limite superior da força dos cultivadores, a proporção de realização entre yin e Yang também afetará fundamentalmente as realizações dos cultivadores. Este método rouba o mistério do yin e do Yang no céu e na terra e é muito invejado pelo céu. Portanto, o poder da tribulação é extremamente poderoso.</SelectDesc>
+			<Stages.0.DisplayName>Taiyi</Stages.0.DisplayName>
 			<Stages.0.Necks.0.DisplayName>Vazio</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>[color=#D06508]\nEsse avanço é mais difícil para personagens com baixa percepção.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.1.DisplayName>Origin</Stages.1.DisplayName>
+			<Stages.1.DisplayName>Origem</Stages.1.DisplayName>
 			<Stages.1.Necks.0.DisplayName>Inato</Stages.1.Necks.0.DisplayName>
 			<Stages.1.Necks.0.Desc>[color=#D06508]\nEste avanço é mais difícil para personagens com baixa Constituição.[/color]</Stages.1.Necks.0.Desc>
 			<Stages.1.Necks.1.DisplayName>Qi Nascido</Stages.1.Necks.1.DisplayName>
-			<Stages.2.DisplayName>Innate</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Forma Nascida</Stages.2.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Inato</Stages.2.DisplayName>
+			<Stages.2.DisplayName>Taishi</Stages.2.DisplayName>
 			<Stages.2.Necks.1.DisplayName>Combinar</Stages.2.Necks.1.DisplayName>
 			<Stages.3.DisplayName>Material</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Vida nascida</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Vida Nascida</Stages.3.Necks.0.DisplayName>
 			<Stages.3.Necks.1.DisplayName>Congelar</Stages.3.Necks.1.DisplayName>
 			<Stages.4.DisplayName>Taiji</Stages.4.DisplayName>
 			<Stages.4.Necks.0.DisplayName>YinYang</Stages.4.Necks.0.DisplayName>

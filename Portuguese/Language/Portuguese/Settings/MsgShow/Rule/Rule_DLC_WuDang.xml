@@ -1,13 +1,13 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="School_13">
-			<DisplayName>Sect Relation - WuDang Sect</DisplayName>
+			<DisplayName>Relação de Seita - Seita Wudang</DisplayName>
 			<Desc>A atitude que os discípulos de sua seita devem tomar ao lidar com a Seita Wudang.</Desc>
-			<Selection.0.DisplayName>Benevolent</Selection.0.DisplayName>
+			<Selection.0.DisplayName>Benévolo</Selection.0.DisplayName>
 			<Selection.0.Desc>Lidar com eles com uma atitude amigável.</Selection.0.Desc>
-			<Selection.1.DisplayName>Malevolent</Selection.1.DisplayName>
+			<Selection.1.DisplayName>Malévolo</Selection.1.DisplayName>
 			<Selection.1.Desc>Lidar com eles com uma atitude hostil.</Selection.1.Desc>
-			<Selection.2.DisplayName>Avoiding Trouble</Selection.2.DisplayName>
+			<Selection.2.DisplayName>Evitando Problemas</Selection.2.DisplayName>
 			<Selection.2.Desc>Tome a iniciativa de evitá-los ao encontrar seu povo.</Selection.2.Desc>
 		</Text>
 	</List>

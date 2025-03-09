@@ -1,17 +1,17 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Body_Gong_2">
-			<DisplayName>Barbarous Forging Body</DisplayName>
+			<DisplayName>Corpo de Forjamento Bárbaro</DisplayName>
 			<Desc>Uma lei de cultivo remodelada criada por cultivadores físicos humanos em referência aos corpos naturais de Yaoguai dos antigos sábios. Esta Lei é conhecida por sua natureza selvagem e agressiva e se destaca em refinar ossos para eventualmente criar um Corpo de Forjamento Bárbaro. O corpo físico torna-se divino e abraça o esquecimento.</Desc>
 			<SelectDesc>O treinamento físico significa combinar energia, Qi e espírito em um, cortando o Qi e quaisquer outros itens mágicos e começando a prática apenas com o corpo físico. Você quer tomar esta Lei?</SelectDesc>
-			<Stages.0.DisplayName>Remold Phase</Stages.0.DisplayName>
+			<Stages.0.DisplayName>Fase de Remodelagem</Stages.0.DisplayName>
 			<Stages.0.Necks.0.DisplayName>Físico Renascido</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Marrow-cleansing Phase</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Alteração de medula</Stages.1.Necks.0.DisplayName>
-			<Stages.2.DisplayName>Incubation Phase</Stages.2.DisplayName>
+			<Stages.1.DisplayName>Fase de Limpeza de Medula</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Alteração de Medula</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Fase de Incubação</Stages.2.DisplayName>
 			<Stages.2.Necks.0.DisplayName>Unidade Unificadora</Stages.2.Necks.0.DisplayName>
-			<Stages.3.DisplayName>Chaos Phase</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Penalidade primordial</Stages.3.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Fase do Caos</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Penalidade Primordial</Stages.3.Necks.0.DisplayName>
 		</Text>
 	</List>
 </Texts>

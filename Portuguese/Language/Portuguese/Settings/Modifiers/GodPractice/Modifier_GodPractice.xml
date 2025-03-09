@@ -1,31 +1,31 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="GodPractice_GodPowerEffect">
-			<DisplayName>Divinity</DisplayName>
+			<DisplayName>Divindade</DisplayName>
 			<Desc>À medida que a Divindade aumenta, o personagem pode exercer mais controle sobre o poder divino e, assim, tornar-se mais poderoso, enquanto ao mesmo tempo o multiplicador de Humor também aumenta.</Desc>
 		</Text>
 		<Text Name="GodPractice_GodPowerEffect_A">
-			<DisplayName>Divinity</DisplayName>
+			<DisplayName>Divindade</DisplayName>
 			<Desc>Efeitos reais para um valor de Divindade de 0-30.</Desc>
 		</Text>
 		<Text Name="GodPractice_GodPowerEffect_B">
-			<DisplayName>Divinity</DisplayName>
+			<DisplayName>Divindade</DisplayName>
 			<Desc>Efeitos reais para um valor de Divindade de 30-100.</Desc>
 		</Text>
 		<Text Name="GodPractice_Xinzhai">
-			<DisplayName>Mind Fasting</DisplayName>
-			<Desc>Reduza temporariamente o impacto das emoções no Humor através do Mind Fasting. Quanto mais tempo leva em Mind Fasting, mais tempo seus efeitos persistem após a conclusão. Seu estado mental não mudará durante o jejum mental.</Desc>
+			<DisplayName>Jejum Mental</DisplayName>
+			<Desc>Reduza temporariamente o impacto das emoções no Humor através do Jejum Mental. Quanto mais tempo leva em Jejum Mental, mais tempo seus efeitos persistem após a conclusão. Seu estado mental não mudará durante o jejum mental.</Desc>
 		</Text>
 		<Text Name="GodPractice_GodLike">
-			<DisplayName>Deification</DisplayName>
+			<DisplayName>Deificação</DisplayName>
 			<Desc>Ajuste temporariamente a Divindade para 99,99% em 300 segundos e ganhe 1% de Divindade permanentemente após terminar.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_XinYang_KeJi">
-			<DisplayName>Restrained</DisplayName>
+			<DisplayName>Contido</DisplayName>
 			<Desc>Cultivo da Fé - Contido</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_XinYang_ZongYu">
-			<DisplayName>Indulging</DisplayName>
+			<DisplayName>Entregando-se</DisplayName>
 			<Desc>Cultivo da Fé - Entregando-se</Desc>
 		</Text>
 	</List>

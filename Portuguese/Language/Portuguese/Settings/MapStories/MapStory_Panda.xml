@@ -8,15 +8,15 @@
 		<Text Name="Ls_FindPanda">
 			<DisplayName>Panda Jada</DisplayName>
 			<Desc>Dizem que existe uma estranha jade dentro da Grande Floresta de Bambu. É metade branco e metade preto, como o legado do Panda em tulsa.</Desc>
-			<Selections.0.Display>Find Carefully</Selections.0.Display>
+			<Selections.0.Display>Encontrar Cautelosamente</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_CallPanda">
-			<DisplayName>Destroy</DisplayName>
+			<DisplayName>Destruir</DisplayName>
 			<Desc>Este jade contém dois tipos de respiração, um Yin e um Yang. Eles combinaram entre si, fofos e antigos.</Desc>
-			<Selections.0.Display>Destroy</Selections.0.Display>
+			<Selections.0.Display>Destruir</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Fish">
-			<DisplayName>Fish Eureka</DisplayName>
+			<DisplayName>Pescaria Eureka</DisplayName>
 			<Desc>[NAME] teve uma centelha de inspiração!</Desc>
 			<Selections.0.Display>Compreensão adquirida</Selections.0.Display>
 		</Text>

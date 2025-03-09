@@ -1,17 +1,17 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="LostPart">
-			<DisplayName>Lost Item</DisplayName>
+			<DisplayName>Item Perdido</DisplayName>
 		</Text>
 		<Text Name="SYS_DamageMethod">
-			<DisplayName>Injury Remold Spell</DisplayName>
+			<DisplayName>Feitiço de Remoldagem de Ferimento</DisplayName>
 		</Text>
 		<Text Name="SYS_RebuildMethod">
-			<DisplayName>Reconstruction Spell</DisplayName>
+			<DisplayName>Feitiço de Reconstrução</DisplayName>
 			<Desc>Reconstrói a parte perdida.</Desc>
 		</Text>
 		<Text Name="SYS_yishan">
-			<DisplayName>Spark of Inspiration</DisplayName>
+			<DisplayName>Centelha de Inspiração</DisplayName>
 			<Desc>Centelha de inspiração</Desc>
 		</Text>
 	</List>

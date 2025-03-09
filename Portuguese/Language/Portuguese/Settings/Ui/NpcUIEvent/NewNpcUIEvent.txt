@@ -83,7 +83,7 @@
 81	Earthmother Stele recuperou seu poder.	Earthmother Stele recuperou seu poder.		
 82	Um item voou da Fenda do Outro Mundo.	Um item voou da Fenda do Outro Mundo.		
 83	{0}： Peixe mordeu a isca!	pescaria		
-84	{0} aprendeu {1}	Treinamento		
+84	{0} aprendeu {1}	Cultivo/Treino		
 10001	Caverna Misteriosa			Os terremotos cada vez mais frequentes em sua seita de repente pararam recentemente e, ao mesmo tempo, uma misteriosa caverna apareceu no chão. Você pode sentir uma vontade forte, mas obscura de um ser de dentro da caverna. Você não tem ideia do que pode ser. \n Cultivadores antigos estão começando a aparecer neste reino com mais frequência. Talvez você possa pedir-lhes informações.
 10002	Ameaçador			A caverna misteriosa de repente se tornou ameaçadora, e queria que você [TXT].
 10003	Ameaçador			A caverna misteriosa de repente se tornou ameaçadora, e queria que você [TXT].
@@ -105,7 +105,7 @@
 10019	Cataratas da Fenóxica			Depois de uma luta longa e difícil, o Phoenix foi finalmente morto.
 10020	Começa a Noite Polar			Por razões desconhecidas, o reino de repente perdeu o equilíbrio de Yin e Yang. A área ao redor de sua seita fica envolta em um breu, como se fosse noite.
 10021	Ovo de Yin			Alguns ovos estranhos apareceram de repente perto de sua seita no meio da noite. Há algo eclodindo dentro deles...
-10022	Começa o dia polar			Por razões desconhecidas, o reino de repente perdeu o equilíbrio de Yin e Yang. De repente, tornou-se meio-dia na área ao redor de sua seita... Você não sabe por quanto tempo esse caos continuará.
+10022	O Início do Meio-dia	Por razões desconhecidas, o reino de repente perdeu o equilíbrio de Yin e Yang. De repente, se tornou meio-dia na área ao redor de sua seita... Você não sabe quanto tempo esse caos continuará.
 10023	Ovo de Yang			Alguns ovos estranhos apareceram de repente perto de sua seita no meio do dia. Há algo eclodindo dentro deles...
 10024	Caos do Dragão da Tocha			O caos contínuo de Yin e Yang finalmente atingiu seu limite. Com um suspiro prolongado, uma criatura gigante começou a se manifestar dentro do reino!
 10025	Incubação de ovos			À medida que os estranhos ovos começaram a eclodir, o Yin e o Yang do reino lentamente perderam o equilíbrio!
@@ -117,20 +117,20 @@
 10031	Tribulação dos Dragões			O poder da Tribulação Celestial matou todos os Dragões do Dilúvio ainda não nascidos...
 10032	Ameaçador			A caverna misteriosa de repente se tornou ameaçadora, e queria que você [TXT].
 10033	A conquista ({0}) falhou	Conquistas		Falha na conquista
-20001	Rumores no mundo			    [TXT]
+20001	Rumor no Mundo			
 20002	Perturbação do Outro Mundo			Houve conversas de que a Fenda para o outro mundo de repente se abriu recentemente e vários tesouros reluzentes voaram para fora dela, espalhando-se pelo mundo. Você sentiu algo estranho acontecendo. Parece que você tem uma conexão espiritual com esses tesouros e uma busca cuidadosa é necessária.
 30001	O agente {0} chegou em {1}.	O agente chegou		Chegada bem sucedida
 30002	{0} atribuído com sucesso.	Atribuição bem-sucedida		Atribuição bem-sucedida
 30003	Construção concluída {0}.	Construção concluída		Construção concluída
 30004	Concluída a atualização do salão principal de {0}.	Atualização do salão principal		Atualização concluída
-30005	{0}	Um evento aconteceu.		Evento aconteceu
-30006	{0}	Um desastre aconteceu.		Desastre aconteceu
+30005		Um evento aconteceu.		Evento aconteceu
+30006		Um desastre aconteceu.		Desastre aconteceu
 30007	O comerciante {0} chegou.	Chegada do comerciante		O Mercador Viajante chegou
 30008	Nós construímos {0}!	Construção concluída		Maravilha Construída
 40000	A União Mercante anunciou sua condenação!	Condenação da União Mercante	Por causa de seu comportamento rude, o Sindicato Comercial decidiu bani-lo de sua lista de comércio para sempre.	
 30009	As crenças de {0} estão cheias.	Crenças Completas	{0} reuniu crenças suficientes. Por favor, envie discípulos para recolhê-los.	
 30010	O armazenamento de {0} está cheio.	s armazenamento está cheio.	O armazenamento de {0} está cheio, reivindique-o manualmente.	
-30011	{0}	Escolha a política		
+30011		Escolha a política		
 31001	Elfo Estranho	Elfo Estranho	Estranho Pequeno Elfo chegou.	
 31002	Dragão da Tocha Mutante	Dragão da Tocha Mutante	O Dragão da Tocha Mutante apareceu.	
 32001	Um cachorrinho apareceu nas proximidades!	Um cachorrinho apareceu nas proximidades!	Um cachorrinho apareceu nas proximidades!	    
@@ -142,7 +142,7 @@
 34001	{0} precisa urgentemente de pensar	Necessidade urgente de pensar	Já obteve Pensamento suficiente, vá em frente e chegue ao Pensamento.	    
 34002	{0} entrou no estado de despertar	Estado de Despertar		    
 34003	{0} começou a aprender	Estágio de Aprendizagem		
-34004	{0} amadureceu	Estágio maduro		
+34004	{0} amadureceu	Maduro		
 34005	{0} está hesitando	hesitar		
 34006	A inteligência de {0} já foi maximizada	Exercício		
 34007	O Qi de {0} já foi maximizado	Exercício		
@@ -154,3 +154,4 @@
 34102	As Pedras Espirituais no Altar do Eco do Céu esperam para serem coletadas	As Pedras Espirituais no Altar do Eco do Céu esperam para serem coletadas		
 34103	Pedra do Espírito Cristalizada Completa!	Pedra do Espírito Cristalizada Completa!		
 34200	Desbloquear Manto: {0}	Desbloqueie o Manto.	Pode ser produzido em uma mesa de costura.	
+41001	Caos Celestial	Caos Celestial

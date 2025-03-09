@@ -7,55 +7,55 @@
 			<Item.Fabao.SpecialAbility.0.Desc>A cada 15 golpes, ele atacará o próprio corpo do cultivador, penetrando no escudo e causando dano adicional.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_BaiLingZhanXianSword" sParam="Item">
-			<ThingName>Immortal Slayer</ThingName>
+			<ThingName>Assassino Imortal</ThingName>
 			<Desc>Técnica de espada antiga transmitida da antiga Seita Wutai. É feito primeiro derretendo dez Cristais Espirituais junto com uma Pérola da Alma para formar uma Incubação de Espadas e, em seguida, sacrificando as Bênçãos de cem seres vivos a ela. Cada vez que a espada é usada, sua Bênção e poder aumentarão gradualmente, até serem infundidos com Qi novamente.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Mate 100 seres vivos durante a incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>O poder base do artefato é aumentado em 1% a cada 1 segundo que a espada continua voando. O efeito é limpo quando retorna.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShiErShaShenMoLingSha" sParam="Item">
-			<ThingName>Sand of Destruction</ThingName>
+			<ThingName>Areia da Destruição</ThingName>
 			<Desc>Artefato cruel registrado no Livro dos Cem Venenos. Ele é criado misturando primeiro milhares de libras de Pó de Igneocobre com os cinco Líquidos Espirituais e os prepara em um pequeno saco de Pó Espiritual, depois sacrificando doze seres vivos com nível de cultivo do Espírito Primordial para incitar a ferocidade. Ao usar este artefato, pode-se poluir o artefato de seu oponente, tornando-o indisponível por um período de tempo.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Mate 12 seres vivos com Espírito Primordial enquanto carrega a incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Para cada 12 ataques em um mesmo artefato, ele pode desabilitar o alvo por um determinado período de tempo correspondente ao seu nível.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianMoHuaXueShenDao" sParam="Item">
-			<ThingName>Bloodsucker</ThingName>
+			<ThingName>Suga Sangue</ThingName>
 			<Desc>Artefato perverso do reino dos Demônios. Primeiro, milhares de quilos de essência de Igneocobre são refinados em uma incubação. Então, a essência yang primordial de 27 seres vivos masculinos é necessária para formar seu espírito. Ao usar este artefato, quanto menor for a Saúde de um, maior será o poder do artefato.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Mate 27 seres vivos do sexo masculino enquanto carrega esta incubação rara.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Para cada 1% de Vida menor, o Poder do Artefato aumenta em 5%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YinHunZhu" sParam="Item">
-			<ThingName>Vortex Orb</ThingName>
+			<ThingName>Orbe Vortex</ThingName>
 			<Desc>Artefato do Legado Secreto transmitido da antiga escola demoníaca do Blood Master Searcher. Ele é criado combinando 9 Soul Pearls enquanto utiliza rancores como catalisador para formar um pequeno orbe e, em seguida, aproveitar as vidas de 36 seres vivos com o nível de cultivo do Espírito Primordial. Ao matar com este orbe, pode-se gradualmente incitar a ferocidade dentro dele. Cada pessoa morta aumentará seu poder em 10%, até um máximo de 36 pilhas. No entanto, um único dia sem sangue e ele voltará a dormir.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Mate 36 seres vivos com o Espírito Primordial enquanto carrega a incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Cada ser vivo morto aumentará seu poder em 10%, até um máximo de 36 acúmulos. O efeito é cancelado se não beber sangue por 1 dia.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JiuTianYuanYangChi" sParam="Item">
-			<ThingName>Heavenly Measure</ThingName>
+			<ThingName>Medida Celestial</ThingName>
 			<Desc>Artefato guardião passado por Guangcheng Zi, o imortal dourado do Culto Chan. Tem nove flores douradas e um fio de Qi roxo morando nela. Cada flor dourada é congelada da essência de um Núcleo Lumina, enquanto o Qi roxo é refinado do Sopro da Tribulação. A cada nove ataques com este artefato lançará um fio de yang Qi para atacar o próprio corpo do alvo com um poder terrível.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Refinar a incubação espiritual 9 vezes.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Cada 9º ataque lançará um feitiço no inimigo alvo.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_LongXinYinYangGui" sParam="Item">
-			<ThingName>Draconic Tablet</ThingName>
+			<ThingName>Tablete Dracônico</ThingName>
 			<Desc>Artefato Legado inspirado nos restos do espírito primordial do Dragão da Tocha. Seu núcleo é formado pela condensação de cem libras de Jade e a essência do Torch Dragon juntos, auxiliados pelo poder de mudança aproveitado de nove meios-dias e meia-noites consecutivos para se tornar espírito. Melhora significativamente a compreensão da proteção.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Refinamento de espectro ao meio-dia ou meia-noite com sucesso por 9 dias contínuos.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Nível de habilidade de proteção aumentado em 10.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_DaiShenZhu" sParam="Item">
-			<ThingName>Illusion Sphere</ThingName>
+			<ThingName>Esfera da Ilusão</ThingName>
 			<Desc>Artefato de Legado transmitido do Livro dos Cem Venenos. Usando uma Besta Soul Pearl como base, ela é fundida com drogas dos Cinco Elementos para formar um núcleo. O orbe é então infundido com drogas dos Cinco Elementos sucessivamente com a técnica de refinamento do espírito. Embora o objeto não possa ser usado para atacar nem defender, ele pode trazê-lo de volta da morte uma vez em caso de calamidade fatal. Muito misterioso.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Tente refinar espiritualmente o artefato 25 vezes.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Ao custo de ser destruído, desafie a morte uma vez e restaure todo o dano causado a você.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_QiJueShenZhen" sParam="Item">
-			<ThingName>Needles of Tribulation</ThingName>
+			<ThingName>Agulhas da Tribulação</ThingName>
 			<Desc>Artefato criado pelos antigos cultivadores para lutar contra o próprio céu com suas vidas. Sete agulhas divinas foram congeladas a partir de sete materiais preciosos, que são então repetidamente temperados para atingir um estado entre tangibilidade e intangibilidade e fundidos em uma incubação. Devido ao conflito entre as propriedades físicas, a agulha divina neste ponto teria se tornado um objeto mortal novamente. Seu poder precisa ser reativado gradualmente através do refinamento do espectro para que ele seja concluído. Ao usar este artefato, quanto mais próximo você estiver do fim de sua vida útil, mais poderoso ele se tornará.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Refinar com sucesso o artefato 11 vezes.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Quanto mais próximo o usuário estiver da vida útil máxima, mais poderoso será o artefato.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_XiXingShenSuo" sParam="Item">
-			<ThingName>Stardust Shuttle</ThingName>
+			<ThingName>Shuttle de Poeira Estelar</ThingName>
 			<Desc>Artefato secreto do antigo Culto Taiyin. Uma incubação é forjada combinando a essência do Cristal de Gelo com os canais meridianos da cauda de um Dragão de Inundação, e então nutrida com o sopro de uma donzela. Ao atacar com este artefato, uma parte do dano causado pode ser convertida no próprio Qi do artefato.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Carregado e nutrido por uma menina solteira por um ano.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>10% do dano causado será reposto no Qi do artefato.</Item.Fabao.SpecialAbility.0.Desc>
@@ -67,269 +67,269 @@
 			<Item.Fabao.SpecialAbility.0.Desc>Para cada 7 ataques, gere um swordsprite que dura 7 segundos.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_WuqiLeiFu" sParam="Item">
-			<ThingName>Thunder Talisman</ThingName>
+			<ThingName>Talisman de Trovão</ThingName>
 			<Desc>Artefato antigo da Seita da Unidade Mística. Depois de desenhar o talismã com a Mente Divina, deve aproveitar o poder da Tribulação Celestial dos Cinco Elementos para torná-lo espiritual. Melhora significativamente a compreensão do Feitiço.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Sobreviva a uma Tribulação Celestial do elemento Metal enquanto carrega um artefato.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.ActiveCondition.1.des>Sobreviva a uma Tribulação Celestial da Madeira enquanto carrega um artefato.</Item.Fabao.ActiveCondition.1.des>
 			<Item.Fabao.ActiveCondition.2.des>Sobreviva a um elemento da Tribulação Celestial da Água enquanto carrega um artefato.</Item.Fabao.ActiveCondition.2.des>
-			<Item.Fabao.ActiveCondition.3.des>Sobreviva a um elemento Heavenly Tribulation of Fire enquanto carrega um artefato.</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.3.des>Sobreviva a um elemento da Tribulação Celestial do Fogo enquanto carrega um artefato.</Item.Fabao.ActiveCondition.3.des>
 			<Item.Fabao.ActiveCondition.4.des>Sobreviva a um elemento da Tribulação Celestial da Terra enquanto carrega um artefato.</Item.Fabao.ActiveCondition.4.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Nível de habilidade de magia aumentado em 10.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JinFabao" sParam="Item">
-			<ThingName>White Cloud Banner</ThingName>
-			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a essência Sagacity Fruit em um Tough Demon Beast Hide como a bandeira e, em seguida, utilizou o poder de um elemento do Núcleo Dourado da Terra de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Madeira.</Desc>
+			<ThingName>Bandeira Nuvem Branca</ThingName>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a essência do Fruto da Sabedoria em uma Pele de Demônio Resistente como a bandeira e, em seguida, utilizou o poder de um elemento do Núcleo Dourado da Terra de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Madeira.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado da Terra de Nível I enquanto carrega esta incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Aumenta em 100% o dano aos alvos do elemento Madeira.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_MuFabao" sParam="Item">
-			<ThingName>Green Lotus Banner</ThingName>
-			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a essência Gnarled Vine em um Tough Demon Beast Hide como a bandeira e, em seguida, utilizou o poder de um elemento Golden Core of Water de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Terra.</Desc>
+			<ThingName>Bandeira Lótus Verde</ThingName>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a essência da Videira Torcida em uma Pele de Demônio Resistente como a bandeira e, em seguida, utilizou o poder de um elemento Núcleo Dourado de Água de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Terra.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado de Água de Nível I ao realizar esta incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Aumenta o dano aos alvos do elemento Terra em 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShuiFabao" sParam="Item">
-			<ThingName>Black Vulture Banner</ThingName>
-			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o pólo, desenhando com a essência Prismatic Lotus em um Tough Demon Beast Hide como a bandeira, e então utilizou o poder de um elemento do Núcleo Dourado de Metal de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Fogo.</Desc>
+			<ThingName>Bandeira Abutre Negro</ThingName>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o pólo, desenhando com a essência do Lótus Prismático em uma Pele de Demônio Resistente como a bandeira, e então utilizou o poder de um elemento do Núcleo Dourado de Metal de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Fogo.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado de Metal de Nível I enquanto realiza esta incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Aumenta em 100% o dano aos alvos do elemento Fogo.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_HuoFabao" sParam="Item">
-			<ThingName>Soaring Flame Banner</ThingName>
-			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a essência Crimson Fruit em um Tough Demon Beast Hide como a bandeira e, em seguida, utilizou o poder de um elemento Golden Core of Wood de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Metal.</Desc>
+			<ThingName>Bandeira Chama Ascendente</ThingName>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a essência do Fruto Carmesim em uma Pele de Demônio Resistente como a bandeira e, em seguida, utilizou o poder de um elemento Núcleo Dourado de Madeira de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Metal.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado de Madeira de Nível I enquanto realiza esta incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Aumenta o dano aos alvos do elemento Metal em 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TuFabao" sParam="Item">
-			<ThingName>Yellow Apricot Banner</ThingName>
-			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso de Phoenix como o poste, desenhando com Ochre Essence em um Tough Demon Beast Hide como a bandeira e, em seguida, utilizou o poder de um elemento Golden Core of Fire de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Água.</Desc>
+			<ThingName>Bandeira de Damasco Amarelo</ThingName>
+			<Desc>Um dos cinco Vastos Estandartes. Ele usa o osso da Fênix como o poste, desenhando com a Essência Ocre em um Tough Demon Beast Hide como a bandeira e, em seguida, utilizou o poder de um elemento Núcleo Dourado de Fogo de Nível I em formação para se completar. Embora este seja uma cópia, ainda é bastante maravilhoso. Este artefato causa o dobro de dano a alvos do elemento Água.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Gere um elemento Núcleo Dourado de Fogo de Nível I enquanto carrega esta incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Aumenta em 100% o dano a alvos do elemento Água.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JinLianShenZuo" sParam="Item">
-			<ThingName>Golden Lotus Stand</ThingName>
+			<ThingName>Suporte de Lótus Dourado</ThingName>
 			<Desc>Artefato de Legado Perdido da Tradição Budista. Usando o Lótus Prismático como a incubação, ele é infundido com trinta e seis Escamas Negras do Dragão do Dilúvio, e então nutrido com sua própria essência para se tornar espiritual. Este artefato tem uma capacidade de Qi tão grande que, embora não possa ser usado para atacar, ele pode proteger o corpo de qualquer dano de artefato.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Gaste 100.000 stamina enquanto carrega este artefato.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Envolvendo todo o corpo, foca na defesa e não ataca.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TunLingShenJian" sParam="Item">
-			<ThingName>Spellbound Scissors</ThingName>
+			<ThingName>Tesouras Encantadas</ThingName>
 			<Desc>Incrível artefato criado pela antiga escola taoísta que imitava as Bestas Encantadas. Este artefato foi criado usando 2 Chifres de Dragão de Inundação como base e, em seguida, fundindo dez mil libras de Pedra do Espírito para extingui-lo. Quanto mais Qi é gasto ao usar este artefato, mais poderoso ele se torna.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Gaste um total de 100.000.000 Qi durante a incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Para cada 10.000 Qi consumidos, o dano aumenta em 10%, até um máximo de 1000%. O efeito é redefinido ao reabastecer o Qi no artefato.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShenNongDing" sParam="Item">
-			<ThingName>Cauldron of the Harvest</ThingName>
-			<Desc>Diz-se que é uma imitação do caldeirão usado pelo Fazendeiro Divino de antigamente. O corpo do caldeirão é esculpido em Jade Divino e forjado usando o Phoenix Fire Jade como a Centelha de fogo enquanto combinado com a poderosa potência de dez mil libras de Folha do Espírito. Ao usar este artefato, quanto mais tipos de Elixir o usuário tiver, mais ele poderá estimular seu poder.</Desc>
+			<ThingName>Caldeirão da Colheita</ThingName>
+			<Desc>Diz-se que é uma imitação do caldeirão usado pelo Fazendeiro Divino de antigamente. O corpo do caldeirão é esculpido em Jade Divino e forjado usando o Jade do Fogo da Fênix como a Centelha de fogo enquanto combinado com a poderosa potência de dez mil libras de Folha do Espírito. Ao usar este artefato, quanto mais tipos de Elixir o usuário tiver, mais ele poderá estimular seu poder.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Faça 36 Elixires durante a incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Para cada tipo de Elixir consumido, seu poder é aumentado em 5%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_QingNingFeiYu" sParam="Item">
-			<ThingName>Feather of Agility</ThingName>
-			<Desc>Artefato precioso do Outro Mundo. Combine o Oblivion Feather e o Mantle Feather da Phoenix, e então neutralize sua chama com a essência de dez mil libras de Purity Leaf para criar a incubação. Que então precisa passar por um processo de autotreinamento a portas fechadas em um local calmo e tranquilo para se tornar espiritual. Ao usar este artefato para atacar, há uma chance de ativar Breath of Tranquility para compensar a si mesmo, reduzindo o Atraso de Conjuração de Feitiços em 1 segundo.</Desc>
+			<ThingName>Pena da Agilidade</ThingName>
+			<Desc>Artefato precioso do Outro Mundo. Combine a Pena do Oblívio e a Pena do Manto da Fênix, e então neutralize sua chama com a essência de dez mil libras de Folha da Pureza para criar a incubação. Que então precisa passar por um processo de autotreinamento a portas fechadas em um local calmo e tranquilo para se tornar espiritual. Ao usar este artefato para atacar, há uma chance de ativar o Sopro da Tranquilidade para compensar a si mesmo, reduzindo o Atraso de Conjuração de Feitiços em 1 segundo.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Permaneça no Pico Heavenstep por 36 dias enquanto realiza a incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>A cada 2 ataques reduz a recarga da habilidade em 1 segundo.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YuanShenXinJian" sParam="Item">
-			<ThingName>Truthbringer</ThingName>
+			<ThingName>Portador da Verdade</ThingName>
 			<Desc>Artefato secreto da tradição budista de acordo com as lendas. Restos de esqueleto deixados por imortais ascendidos são usados como núcleo, que é então infundido em 99 espadas. São necessários mais de cem anos de meditação com um Coração de Espada para que ele se torne um espírito. Melhora significativamente a compreensão do domínio da espada.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Medite por 360 anos durante a incubação.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Nível de habilidade de domínio da espada aumentado em 10.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ZhuXianJian" sParam="Item">
-			<ThingName>Ragestriker</ThingName>
+			<ThingName>Golpe da Raiva</ThingName>
 			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou o Chifre do Dragão de Inundação como o núcleo, combinado com nove Núcleos Lumina para criar a incubação do elemento Metal, que então absorve os Trovões Celestiais para se tornar espiritual. Seu poder se multiplica ao lutar contra inimigos que também estão usando artefatos. (Uma vez equipado, clique com o botão direito para tentar absorver a Tempestade)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorver Trovoada 9 vezes.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Causa 1,5x de dano ao lutar contra outros artefatos.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_LuXianJian" sParam="Item">
-			<ThingName>Deathbringer</ThingName>
+			<ThingName>Portador da Morte</ThingName>
 			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou Chifre do Dragão de Inundação como o núcleo, combinado com cem libras de minério de Essência de Fogo para criar a incubação do elemento Fogo, que então absorve o Vento Foehn para se tornar espiritual. Há uma chance de ocorrer um pico de poder espiritual ao atacar com ele, causando dano multiplicado. (Uma vez equipado, clique com o botão direito para tentar absorver o Vento Foehn)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorva Foehn Wind 9 vezes.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Ao causar dano, há 10% de chance de causar 5x de dano.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_XianXianJian" sParam="Item">
-			<ThingName>Endless Fury</ThingName>
-			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou o Chifre do Dragão de Inundação como o núcleo, combinado com nove ramos de Phoenixwood para criar a incubação do elemento Madeira, que então absorve o Ar Nocivo para se tornar espiritual. Seus ataques são acompanhados por um poder de corrosão, causando dano adicional à Barreira Qi. (Uma vez equipado, clique com o botão direito para tentar absorver o Ar Nocivo)</Desc>
+			<ThingName>Fúria Infinita</ThingName>
+			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou o Chifre do Dragão de Inundação como o núcleo, combinado com nove ramos de Madeira do Fênix para criar a incubação do elemento Madeira, que então absorve o Ar Nocivo para se tornar espiritual. Seus ataques são acompanhados por um poder de corrosão, causando dano adicional à Barreira Qi. (Uma vez equipado, clique com o botão direito para tentar absorver o Ar Nocivo)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorver Ar Nocivo 9 vezes.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Causa 1,5x de dano ao atacar o próprio corpo do inimigo.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JueXianJian" sParam="Item">
-			<ThingName>Wrathbringer</ThingName>
-			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou o Chifre do Dragão de Inundação como o núcleo, combinado com nove Pedras Sagradas para criar a incubação do elemento Terra, que então absorve as Tempestades de Areia para se tornar espiritual. Ao lançar um ataque, há uma pequena chance de causar um dano especial, cuja quantidade é relativa ao Qi do inimigo. (Uma vez equipado, clique com o botão direito para tentar absorver Sandstorm)</Desc>
+			<ThingName>Portador da Ira</ThingName>
+			<Desc>Lâmina divina transmitida desde os tempos antigos. Embora este seja uma cópia, possui poder de matar mortal, no entanto. Esta espada usou o Chifre do Dragão de Inundação como o núcleo, combinado com nove Pedras Sagradas para criar a incubação do elemento Terra, que então absorve as Tempestades de Areia para se tornar espiritual. Ao lançar um ataque, há uma pequena chance de causar um dano especial, cuja quantidade é relativa ao Qi do inimigo. (Uma vez equipado, clique com o botão direito para tentar absorver Tempestade de Areia)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorva Tempestade de Areia 9 vezes.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Ao atacar o próprio corpo do inimigo, há 1% de chance de causar um dano adicional igual a 30% do Qi do alvo atual.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianLangDing" sParam="Item">
-			<ThingName>Sirius Spike</ThingName>
-			<Desc>Artefato perverso de outro reino. Usando a maldade restante deixada pelo imortal ascendido como catalisador, a essência do poder de Gnarled Vine é condensada em uma Presa de um Lobo Demônio. Alimente-o com sua própria essência para torná-lo espiritual. Este artefato é extremamente fino e sensível ao ser usado em batalha. Uma vez acionado, ele se dividirá em 9 aparições para atacar o inimigo. É uma arma cruel. (Uma vez equipado, clique com o botão direito para alimentar a essência)</Desc>
+			<ThingName>Pico de Sirius</ThingName>
+			<Desc>Artefato perverso de outro reino. Usando a maldade restante deixada pelo imortal ascendido como catalisador, a essência do poder de Vinha Enfeitiçada é condensada em uma Presa de um Lobo Demônio. Alimente-o com sua própria essência para torná-lo espiritual. Este artefato é extremamente fino e sensível ao ser usado em batalha. Uma vez acionado, ele se dividirá em 9 aparições para atacar o inimigo. É uma arma cruel. (Uma vez equipado, clique com o botão direito para alimentar a essência)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Alimente o artefato 18 vezes com sua essência.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Para cada 3 ataques, gera 9 aparições de pico que duram 3 segundos.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianShu" sParam="Item">
-			<ThingName>Sword of Dubhe</ThingName>
-			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente seu Poder de Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<ThingName>Espada de Dubhe</ThingName>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente seu Poder de Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Luz Estelar da Grande Carruagem)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta seu bônus de poder de artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianQuan" sParam="Item">
-			<ThingName>Sword of Megrez</ThingName>
-			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente seu Qi de Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<ThingName>Espada de Megrez</ThingName>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente seu Qi de Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Luz Estelar da Grande Carruagem)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta seu bônus de Qi de artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianJi" sParam="Item">
-			<ThingName>Sword of Phegda</ThingName>
-			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar a Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente a Resistência de Repulsão do Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<ThingName>Espada de Phegda</ThingName>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar a Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente a Resistência de Repulsão do Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Luz Estelar da Grande Carruagem)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta a Resistência de Repulsão do seu Artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianXuan" sParam="Item">
-			<ThingName>Sword of Merak</ThingName>
-			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente sua Velocidade de Turno do Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<ThingName>Espada de Merak</ThingName>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente sua Velocidade de Turno do Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Luz Estelar da Grande Carruagem)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta a velocidade de giro do artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YuHeng" sParam="Item">
-			<ThingName>Sword of Alioth</ThingName>
-			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente sua Taxa de Recuperação de Qi do Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<ThingName>Espada de Alioth</ThingName>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente sua Taxa de Recuperação de Qi do Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Luz Estelar da Grande Carruagem)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta sua taxa de recuperação de Qi de artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_KaiYang" sParam="Item">
-			<ThingName>Sword of Mizar</ThingName>
-			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente seu Artifact Knockback. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<ThingName>Espada de Mizar</ThingName>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente seu Artifact Knockback. (Uma vez equipado, clique com o botão direito para tentar absorver a Luz Estelar da Grande Carruagem)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta seu Repulsão de Artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YaoGuang" sParam="Item">
-			<ThingName>Sword of Elkeid</ThingName>
-			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente sua Velocidade de Voo de Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Grand Chariot Starlight)</Desc>
+			<ThingName>Espada de Elkeid</ThingName>
+			<Desc>Uma das armas divinas da Grande Carruagem transmitida desde os tempos antigos. Pode-se usar Garra do Dragão de Inundação junto com quarenta e nove unidades de Aço Negro para criar a incubação e, em seguida, aproveitar o poder das estrelas da Grande Carruagem para torná-la espiritual, melhorando fundamentalmente sua Velocidade de Voo de Artefato. (Uma vez equipado, clique com o botão direito para tentar absorver a Luz Estelar da Grande Carruagem)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorva a Luz Estelar da Grande Carruagem continuamente por 7 dias.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentalmente aumenta a Velocidade de Voo do Artefato em 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_KuiHuaShenJian" sParam="Item">
 			<ThingName>Unus</ThingName>
-			<Desc>Espada secreta forjada de acordo com a Lei de Refinação do Girassol, é feita esculpindo e juntando 3 Jade Divina e montada com 1 Semente da Fortuna. Ele então precisa absorver o sopro do Ouroboros da Noite Polar para se tornar um espírito. Toda vez que esta espada é usada contra o inimigo, o primeiro golpe é várias vezes de seu poder original. (Uma vez equipado, clique com o botão direito para tentar absorver Breath of Polar Night)</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Absorva Breath of Polar Night 12 vezes.</Item.Fabao.ActiveCondition.0.des>
+			<Desc>Espada secreta forjada de acordo com a Lei de Refinação do Girassol, é feita esculpindo e juntando 3 Jade Divina e montada com 1 Semente da Fortuna. Ele então precisa absorver o sopro do Ouroboros da Noite Polar para se tornar um espírito. Toda vez que esta espada é usada contra o inimigo, o primeiro golpe é várias vezes de seu poder original. (Uma vez equipado, clique com o botão direito para tentar absorver o Sopro da Noite Polar)</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Absorva o Sopro da Noite Polar 12 vezes.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>O poder do primeiro golpe de espada aumentou em 500%. O efeito é redefinido ao reabastecer o Qi no artefato.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ZhuXianZhenTu" sParam="Item">
-			<ThingName>Slayer's Formation</ThingName>
+			<ThingName>Formação do Matador</ThingName>
 			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação do Ragestriker. Diz-se que é a formação mais implacável de todas nos campos de batalha antigos, sendo praticamente invencível e imparável.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_QiXingZhenTu" sParam="Item">
-			<ThingName>Conqueror's Formation</ThingName>
+			<ThingName>Formação do Conquistador</ThingName>
 			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação do Conquistador. Diz-se que é capaz de aproveitar a luz divina de distanciamento da Grande Carruagem, que lhe concede poderes oniscientes de matar demônios.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianDiWuFangZhenTu" sParam="Item">
-			<ThingName>Impregnable Formation</ThingName>
+			<ThingName>Formação Inexpugnável</ThingName>
 			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação Inexpugnável. Diz-se que é capaz de implantar um campo indestrutível com as Cinco Bandeiras Direcionais do Céu e da Terra para proteger qualquer coisa no universo.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_LiuYuZhenTu" sParam="Item">
-			<ThingName>Divine Law Formation</ThingName>
+			<ThingName>Formação da Lei Divina</ThingName>
 			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação da Lei Divina. Diz-se que é uma Formação de divinadores dos seis deuses da Corte Celestial, capazes de transformar o Reino Mortal em um paraíso e fazer as pessoas viverem em harmonia espiritual.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_LongXingZhenTu" sParam="Item">
-			<ThingName>Dragonrider Formation</ThingName>
+			<ThingName>Formação do Cavaleiro do Dragão</ThingName>
 			<Desc>Diagrama de Formação Secreta que registra a Formação do Cavaleiro do Dragão. Diz-se que é um dragão que controla a Formação. Quando implantado, pode-se extrair o poder de Dragonsoul para realizar alguns poderosos milagres de Formação.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_FengHunZhenTu" sParam="Item">
-			<ThingName>Phoenix Sword Formation</ThingName>
+			<ThingName>Formação da Espada da Fênix</ThingName>
 			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação da Espada da Fênix. Diz-se que é uma formação controladora da fênix. Quando implantado, pode-se extrair o poder de Phoenixsoul para realizar alguns milagres poderosos de Formação.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YinYangZhenTu" sParam="Item">
-			<ThingName>Yin Yang Formation</ThingName>
+			<ThingName>Formação Yin Yang</ThingName>
 			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação Yin Yang. Diz-se que esta Formação é implantada de acordo com a Regra do Yin e Yang. Utilizando a transformação de Yin e Yang, a Formação se torna extremamente flexível.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_SanYinZhenTu" sParam="Item">
-			<ThingName>Dark Force Formation</ThingName>
+			<ThingName>Formação da Força Negra</ThingName>
 			<Desc>Diagrama de Formação Secreta que registra a Formação da Força Negra. Diz-se que é uma Formação formada por pura energia Yin, que pode aumentar muito seu poder.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_BaMenZhenTu" sParam="Item">
-			<ThingName>Abyssal Sword Formation</ThingName>
+			<ThingName>Formação da Espada Abissal</ThingName>
 			<Desc>Diagrama de Formação Secreta que registra a Formação da Espada Abissal. Diz-se que é uma formação que é implantada de acordo com as regras dos Oito Trigramas, com capacidades ofensivas e defensivas. Muito milagroso.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShenMuZhenTu" sParam="Item">
-			<ThingName>Wood Spirit Formation</ThingName>
+			<ThingName>Formação do Espírito da Madeira</ThingName>
 			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação dos Espíritos da Madeira. Diz-se que é uma Formação capaz de despertar o Qi da vitalidade entre o céu e a terra, rejuvenescendo todos os seres vivos.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_WuYueZhenTu" sParam="Item">
-			<ThingName>Convergence Formation</ThingName>
+			<ThingName>Formação de Convergência</ThingName>
 			<Desc>Gráfico secreto do Diagrama de Formação que registra a Formação de Convergência. Diz-se que uma vez implantada, esta Formação apresenta a forma dos Cinco Picos para proteger um local, tornando-o indestrutível.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
+			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente meditar no Diagrama de Formação.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Wonder_BaBaoGongDe" sParam="Item">
-			<ThingName>Heart of Merit</ThingName>
+			<ThingName>Coração do Mérito</ThingName>
 			<Desc>A verdadeira essência formada na Piscina das Oito Virtudes, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_WanDaoZunFaZuo" sParam="Item">
-			<ThingName>Heart of Law</ThingName>
+			<ThingName>Coração da Lei</ThingName>
 			<Desc>A verdadeira essência formada no Trono dos Dez Mil Taos, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_QiQingQingTongShu" sParam="Item">
-			<ThingName>Heart of Emotion</ThingName>
+			<ThingName>Coração da Emoção</ThingName>
 			<Desc>A verdadeira essência formada na Madeira Sagrada das Emoções, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_ZhouTianXingDouPan" sParam="Item">
-			<ThingName>Heart of the Stars</ThingName>
+			<ThingName>Coração das Estrelas</ThingName>
 			<Desc>A verdadeira essência formada na Placa Astral do Ciclo Universal, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_WuLongXuanJinTa" sParam="Item">
-			<ThingName>Heart of the Sun</ThingName>
+			<ThingName>Coração do Sol</ThingName>
 			<Desc>A verdadeira essência formada no Pagode Dracônico do Yang, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_ShuShanJianChi" sParam="Item">
-			<ThingName>Heart of the Sword</ThingName>
+			<ThingName>Coração da Espada</ThingName>
 			<Desc>A verdadeira essência formada no Blue Lotus Pool of Sword, que também é a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_LingYuFeng" sParam="Item">
-			<ThingName>Heart of Jade</ThingName>
+			<ThingName>Coração de Jade</ThingName>
 			<Desc>A verdadeira essência formada no Pico Numinoso, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_WanGuXieFaTan" sParam="Item">
-			<ThingName>Heart of Crimson</ThingName>
+			<ThingName>Coração Carmesim</ThingName>
 			<Desc>A verdadeira essência formada no Altar da Feitiçaria Mortal, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_XuanCiTianKeng" sParam="Item">
-			<ThingName>Heart of Stone</ThingName>
+			<ThingName>Coração de Pedra</ThingName>
 			<Desc>A verdadeira essência formada na Cratera do Metamagnético, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_QiShaShenBei" sParam="Item">
-			<ThingName>Heart of the Seven-Slaughtering</ThingName>
+			<ThingName>Coração das Sete Matanças</ThingName>
 			<Desc>A verdadeira essência formada na Estela Divina das Sete Matanças, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_XuanYinShengQuan" sParam="Item">
-			<ThingName>Heart of the Moon</ThingName>
+			<ThingName>Coração da Lua</ThingName>
 			<Desc>A verdadeira essência formada na Fonte Sagrada do Yin, que é também a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_YaoZuYiHai" sParam="Item">
-			<ThingName>Ancestral Yaoguai's Remains</ThingName>
+			<ThingName>Restos do Ancestral Yaoguai</ThingName>
 			<Desc>A substância concentrada formada pelo espírito remanescente dentro dos Restos do Ancestral Yaoguai, que também é a raiz de toda a sua profundidade.</Desc>
 		</Text>
 		<Text Name="Item_Wonder_QianKunLingJing" sParam="Item">
-			<ThingName>Universe Spirit Crystal</ThingName>
+			<ThingName>Cristal do Espírito do Universo</ThingName>
 			<Desc>Um estranho cristal com um misterioso poder do espaço habitando dentro dele. Parece ter alguns usos especiais.</Desc>
 		</Text>
 	</List>

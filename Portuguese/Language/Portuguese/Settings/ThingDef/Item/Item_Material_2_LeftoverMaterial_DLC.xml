@@ -1,9 +1,9 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_BambooLeftover" sParam="Item">
-			<ThingName>Bamboo Offcut</ThingName>
+			<ThingName>Retalho de Bambu</ThingName>
 			<Desc>Restos de material de construção misturados com restos de bambu. Pode ser usado para colocar pisos ou construir beirais.</Desc>
-			<Item.BeMaterial.NamePrefix>Bamboo</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Bambu</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>

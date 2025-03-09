@@ -1,58 +1,58 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="LeatherBase" sParam="Item">
-			<Item.FabaoSuffix>Leather, Cover, Barrier</Item.FabaoSuffix>
-			<Item.BeMaterial.NamePrefix>Hide</Item.BeMaterial.NamePrefix>
+			<Item.FabaoSuffix>Couro, Capa, Barreira</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Couro</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_BoarLeather" sParam="Item">
-			<ThingName>Boar Hide</ThingName>
+			<ThingName>Pele de Javali</ThingName>
 			<Desc>Pele de javali com textura áspera, mas relativamente firme.</Desc>
-			<Item.BeMaterial.NamePrefix>Boar Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele de Javali</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_RabbitLeather" sParam="Item">
-			<ThingName>Rabbit Hide</ThingName>
+			<ThingName>Pele de Coelho</ThingName>
 			<Desc>Pelo de coelho, muito macio e quente.</Desc>
-			<Item.BeMaterial.NamePrefix>Rabbit Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele de Coelho</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_BearLeather" sParam="Item">
-			<ThingName>Bear Hide</ThingName>
+			<ThingName>Pele de Urso</ThingName>
 			<Desc>Pelo de urso, muito macio e quente.</Desc>
-			<Item.BeMaterial.NamePrefix>Bear Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele de Urso</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_WolfLeather" sParam="Item">
-			<ThingName>Wolf Hide</ThingName>
+			<ThingName>Pele de Lobo</ThingName>
 			<Desc>Um pedaço de couro de lobo, firme e durável.</Desc>
-			<Item.BeMaterial.NamePrefix>Wolf Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele de Lobo</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_FeiLeather" sParam="Item">
-			<ThingName>Fei Hide</ThingName>
+			<ThingName>Pele de Fei</ThingName>
 			<Desc>Esconderijo da besta demoníaca Fei com poder mágico habitando nele. Quente no inverno e fresco no verão. É ainda capaz de bloquear danos de Qi.</Desc>
-			<Item.BeMaterial.NamePrefix>Fei Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele de Fei</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LuShuLeather" sParam="Item">
-			<ThingName>Lushu Hide</ThingName>
+			<ThingName>Pele de Lushu</ThingName>
 			<Desc>Esconderijo da besta espiritual Lushu, com poder mágico habitando dentro dele. Quente no inverno e fresco no verão. É ainda capaz de bloquear danos de Qi.</Desc>
-			<Item.BeMaterial.NamePrefix>Lushu Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele de Lushu</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CattleLeather" sParam="Item">
-			<ThingName>Bull Hide</ThingName>
+			<ThingName>Pele de Touro</ThingName>
 			<Desc>Um pedaço de couro de touro, firme e durável.</Desc>
-			<Item.BeMaterial.NamePrefix>Bull Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele de Touro</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_TigerLeather" sParam="Item">
-			<ThingName>Tiger Hide</ThingName>
+			<ThingName>Pele de Tigre</ThingName>
 			<Desc>Um pedaço de pele de tigre, firme e durável.</Desc>
-			<Item.BeMaterial.NamePrefix>Tiger Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele de Tigre</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_YaoLeather" sParam="Item">
-			<ThingName>Demon Beast Hide</ThingName>
+			<ThingName>Pele de Besta Demoníaca</ThingName>
 			<Desc>Esconderijo de uma besta demoníaca, com poder demoníaco dentro dela. Quente no inverno e fresco no verão. É até capaz de bloquear o dano do Qi.</Desc>
-			<Item.BeMaterial.NamePrefix>Demon Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele Demoníaca</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_YaoLeather1" sParam="Item">
-			<ThingName>Tough Demon Beast Hide</ThingName>
+			<ThingName>Pele de Besta Demoníaca Resistente</ThingName>
 			<Desc>Esconderijo de uma grande besta demoníaca, com um poderoso poder demoníaco habitando dentro dela. Quente no inverno e fresco no verão. É até capaz de bloquear efetivamente o dano do Qi.</Desc>
-			<Item.BeMaterial.NamePrefix>Tough Demon Hide</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>Pele Demoníaca Resistente</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>

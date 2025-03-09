@@ -1,322 +1,322 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="DanBase" sParam="Item">
-			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Conta, Bolo, Bola</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BasePracticeDrug" sParam="Item">
-			<ThingName>Forming Pill</ThingName>
-			<Desc>Pílula feita por cultivadores imortais, ela pode regular os cinco Qi dentro do corpo e estimular seu potencial, aumentando temporariamente a Percepção, Constituição e Inteligência em 30% por 48 horas. Aumenta significativamente o progresso do Treinamento Básico para discípulos externos quando consumidos.</Desc>
+			<ThingName>Pílula de Formação</ThingName>
+			<Desc>Pílula feita por cultivadores imortais, ela pode regular os cinco Qi dentro do corpo e estimular seu potencial, aumentando temporariamente a Percepção, Constituição e Inteligência em 30% por 48 horas. Aumenta significativamente o progresso do Treinamento Básico para discípulos externos quando consumida.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan" sParam="Item">
-			<ThingName>Stamina Pill</ThingName>
+			<ThingName>Pílula de Vigor</ThingName>
 			<Desc>Melhora a capacidade do corpo de gerar Vigor, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor por 7 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan2" sParam="Item">
-			<ThingName>Ginseng Pill</ThingName>
+			<ThingName>Pílula de Ginseng</ThingName>
 			<Desc>Melhora a capacidade do corpo de gerar Vigor, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor por 14 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan3" sParam="Item">
-			<ThingName>Resin Essence Powder</ThingName>
+			<ThingName>Pó Essência de Resina</ThingName>
 			<Desc>Melhora a capacidade do corpo de gerar Vigor, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor por 28 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling" sParam="Item">
-			<ThingName>Qi Regen Pill</ThingName>
-			<Desc>Pílula rica em Qi. Consuma-o para restaurar 3.000 Qi e aumentar a taxa de recuperação de Qi por 6 horas. Geralmente, é aconselhável esperar com o consumo após atingir a fase de modelagem do núcleo, caso contrário, o usuário pode se machucar ou até morrer por não ser capaz de suportar sua potência.</Desc>
+			<ThingName>Pílula de Regen Qi</ThingName>
+			<Desc>Pílula rica em Qi. Consuma-a para restaurar 3.000 Qi e aumentar a taxa de recuperação de Qi por 6 horas. Geralmente, é aconselhável esperar com o consumo após atingir a fase de modelagem do núcleo, caso contrário, o usuário pode se machucar ou até morrer por não ser capaz de suportar sua potência.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling2" sParam="Item">
-			<ThingName>Sun Pill</ThingName>
-			<Desc>Pílula de elixir roxa escura. Consuma-o para recuperar uma grande quantidade de Qi e aumentar o Max Qi. Consumi-lo em grandes quantidades diminui significativamente o efeito. Só deve ser consumido após atingir a fase Golden Core, caso contrário o usuário pode se machucar ou até morrer por não conseguir suportar sua potência.</Desc>
+			<ThingName>Pílula Solar</ThingName>
+			<Desc>Pílula de elixir roxa escura. Consuma-a para recuperar uma grande quantidade de Qi e aumentar o Max Qi. Consumir em grandes quantidades diminui significativamente o efeito. Só deve ser consumida após atingir a fase Golden Core, caso contrário, o usuário pode se machucar ou até morrer por não conseguir suportar sua potência.</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeRate" sParam="Item">
-			<ThingName>Thought Pill</ThingName>
-			<Desc>Pílula feita de Frutos de Sálvia e Folhas de Pureza, é capaz de acelerar muito o processo de pensamento, dobrando a probabilidade de alcançar a Ruptura. Dura 24 horas. Consumi-lo em grandes quantidades diminui significativamente o efeito.</Desc>
+			<ThingName>Pílula do Pensamento</ThingName>
+			<Desc>Pílula feita de Frutos de Sálvia e Folhas de Pureza, é capaz de acelerar muito o processo de pensamento, dobrando a probabilidade de alcançar a Ruptura. Dura 24 horas. Consumir em grandes quantidades diminui significativamente o efeito.</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeSpeed" sParam="Item">
-			<ThingName>Sprout Pill</ThingName>
+			<ThingName>Pílula Broto</ThingName>
 			<Desc>Pílula feita de Fruta Carmesim, é capaz de aumentar a Velocidade de Cultivo em 30%. Dura 24 horas.</Desc>
 		</Text>
 		<Text Name="Item_Dan_CalmDown" sParam="Item">
-			<ThingName>Purity Pill</ThingName>
+			<ThingName>Pílula da Pureza</ThingName>
 			<Desc>Pílula feita de Folhas de Pureza e Pó de Cristal de Gelo, pode estabilizar o Estado Mental.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Happiness" sParam="Item">
-			<ThingName>Euphoria Pill</ThingName>
+			<ThingName>Pílula de Euforia</ThingName>
 			<Desc>Pílula que pode fazer uma pessoa se sentir feliz por 2 dias, mas também diminui a eficiência de fazer tudo em 50%.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger" sParam="Item">
-			<ThingName>Inedia Pill</ThingName>
-			<Desc>Consuma Inedia Pill para ganhar a habilidade de Absorção de Qi por 2 dias, recuperando automaticamente a Fome.</Desc>
+			<ThingName>Pílula Inedia</ThingName>
+			<Desc>Consuma a Pílula Inedia para ganhar a habilidade de Absorção de Qi por 2 dias, recuperando automaticamente a Fome.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger2" sParam="Item">
-			<ThingName>Fasting Pill</ThingName>
+			<ThingName>Pílula de Jejum</ThingName>
 			<Desc>Tome a pílula de jejum para ficar imune à fome por 2 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger1" sParam="Item">
-			<ThingName>Nourish Pill</ThingName>
+			<ThingName>Pílula de Nutrição</ThingName>
 			<Desc>Consumir para repor nutrientes, reduzindo a taxa de fome e a taxa de fadiga por 2 dias.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LostSoul" sParam="Item">
-			<ThingName>Sedation Pill</ThingName>
+			<ThingName>Pílula de Sedação</ThingName>
 			<Desc>Pílula mineral muito básica. Consumir esta pílula fará com que as funções cerebrais sejam reprimidas, colocando o usuário em coma por 3 dias inteiros.</Desc>
 		</Text>
 		<Text Name="Item_Dan_DredgeQi1" sParam="Item">
-			<ThingName>Spirit Powder</ThingName>
-			<Desc>Pó medicinal feito de Ginseng e Ganoderma, pode estimular os canais meridianos e curar lesões com a etiqueta "Spirit".</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<ThingName>Pó Espiritual</ThingName>
+			<Desc>Pó medicinal feito de Ginseng e Ganoderma, pode estimular os canais meridianos e curar lesões com a etiqueta "Espírito".</Desc>
+			<Item.FabaoSuffix>Areia, Cristal, Pó, Pólen, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_DredgeQi" sParam="Item">
-			<ThingName>Qi Flow Pill</ThingName>
+			<ThingName>Pílula de Fluxo de Qi</ThingName>
 			<Desc>Pílula que pode neutralizar o Qi desordenado dentro do corpo, é capaz de curar lesões de forma eficaz com a etiqueta "Espírito".</Desc>
 		</Text>
 		<Text Name="Item_Dan_WuLingSan" sParam="Item">
-			<ThingName>Heal Powder</ThingName>
+			<ThingName>Pó Curativo</ThingName>
 			<Desc>Elixir capaz de curar Lesões Internas com as etiquetas "Metal", "Madeira", "Água", "Fogo" e "Terra"; trabalho relativamente lento.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Pó, Pólen, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_CureJinDamage" sParam="Item">
-			<ThingName>Wood Pill</ThingName>
-			<Desc>Cure instantaneamente Lesões Internas com a etiqueta "Madeira".</Desc>
+			<ThingName>Pílula de Madeira</ThingName>
+			<Desc>Cura instantaneamente Lesões Internas com a etiqueta "Madeira".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureMuDamage" sParam="Item">
-			<ThingName>Earth Pill</ThingName>
-			<Desc>Cure instantaneamente Lesões Internas com a tag "Earth".</Desc>
+			<ThingName>Pílula de Terra</ThingName>
+			<Desc>Cura instantaneamente Lesões Internas com a etiqueta "Terra".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureShuiDamage" sParam="Item">
-			<ThingName>Fire Powder</ThingName>
-			<Desc>Cure instantaneamente Lesões Internas com a tag "Fogo".</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<ThingName>Pó de Fogo</ThingName>
+			<Desc>Cura instantaneamente Lesões Internas com a etiqueta "Fogo".</Desc>
+			<Item.FabaoSuffix>Areia, Cristal, Pó, Pólen, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_CureHuoDamage" sParam="Item">
-			<ThingName>Metal Pill</ThingName>
-			<Desc>Cure instantaneamente Lesões Internas com a etiqueta "Metal".</Desc>
+			<ThingName>Pílula de Metal</ThingName>
+			<Desc>Cura instantaneamente Lesões Internas com a etiqueta "Metal".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureTuDamage" sParam="Item">
-			<ThingName>Water Pill</ThingName>
-			<Desc>Cure instantaneamente Lesões Internas com a etiqueta "Água".</Desc>
+			<ThingName>Pílula da Água</ThingName>
+			<Desc>Cura instantaneamente Lesões Internas com a etiqueta "Água".</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureFiveElementDamage" sParam="Item">
-			<ThingName>Remedy Pill</ThingName>
+			<ThingName>Pílula do Remédio</ThingName>
 			<Desc>Pílula capaz de curar Lesões Internas com as etiquetas "Metal", "Madeira", "Água", "Fogo" e "Terra"; trabalho relativamente rápido.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Restore" sParam="Item">
-			<ThingName>Cure Powder</ThingName>
+			<ThingName>Pó de Cura</ThingName>
 			<Desc>Estimular o potencial do corpo, reparando a maioria das cicatrizes antigas.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_ExtremeLofty" sParam="Item">
-			<ThingName>Panacea Pill</ThingName>
+			<ThingName>Pílula Panaceia</ThingName>
 			<Desc>Pílula milagrosa que pode explorar os caminhos do céu, é capaz de trazer alguém de volta à beira da morte, mesmo quando o alvo tem apenas um fôlego. (Não pode ser usado ao morrer)</Desc>
 		</Text>
 		<Text Name="Item_Dan_HundredRefine" sParam="Item">
-			<ThingName>Samsara Pill</ThingName>
+			<ThingName>Pílula da Roda da Vida</ThingName>
 			<Desc>Supremo elixir taoísta que só funciona na primeira vez que é consumido. Ele aumenta muito o cultivo, mas deve ser consumido após a fase Golden Core, caso contrário, o usuário pode se machucar ou até morrer por não ser capaz de suportar sua potência.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife1" sParam="Item">
-			<ThingName>Life Pill</ThingName>
+			<ThingName>Pílula da Vida</ThingName>
 			<Desc>Pílula que pode prolongar 180 anos de vida. Ele só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife2" sParam="Item">
-			<ThingName>Vitata Elixir</ThingName>
+			<ThingName>Elixir Vitata</ThingName>
 			<Desc>Elixir que pode prolongar 200 anos de vida. Ele só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife3" sParam="Item">
-			<ThingName>Eternity Pill</ThingName>
+			<ThingName>Pílula da Eternidade</ThingName>
 			<Desc>Consumir para prolongar 500 anos de vida, além de aumentar os Cinco Atributos em 10% cada. Só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife4" sParam="Item">
-			<ThingName>Regen Pill</ThingName>
+			<ThingName>Pílula de Regen</ThingName>
 			<Desc>Pílula que pode prolongar 256 anos de vida. Ele só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife5" sParam="Item">
-			<ThingName>Morrow Pill</ThingName>
+			<ThingName>Pílula da Manhã</ThingName>
 			<Desc>Pílula que pode prolongar 490 anos de vida, além de adiar a vinda da Tribulação Celestial por 49 dias. Só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseNeckCountdown1" sParam="Item">
-			<ThingName>Harmony Pill</ThingName>
+			<ThingName>Pílula da Harmonia</ThingName>
 			<Desc>Pílula que pode adiar a vinda da Tribulação Celestial por 108 dias. Só funciona completamente na primeira vez que é consumido, com a potência dos consumos subsequentes diminuindo rapidamente.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseNeckCountdown2" sParam="Item">
-			<ThingName>Justice Pill</ThingName>
+			<ThingName>Pílula da Justiça</ThingName>
 			<Desc>Engane os caminhos do Céu usando os espíritos das bestas dentro das nove Pérolas da Alma, e adia a Tribulação Celestial por 27 dias. Pode ser consumido várias vezes.</Desc>
 		</Text>
 		<Text Name="Item_Dan_SwordBall" sParam="Item">
-			<ThingName>Blade Pill</ThingName>
+			<ThingName>Pílula da Lâmina</ThingName>
 			<Desc>Pílula de elixir conforme registrada em Seven-Slaughtering Sword, ela pode ser criada refinando a essência dos cinco metais com o Alchemy Furnace. Não engula—nunca.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Defense" sParam="Item">
-			<ThingName>Shield Pill</ThingName>
-			<Desc>Consumir para melhorar o Qi de Proteção Corporal por 24 horas.</Desc>
+			<ThingName>Pílula do Escudo</ThingName>
+			<Desc>Consuma para melhorar a barreira de Qi por 24 horas.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling3" sParam="Item">
-			<ThingName>Divine Powder</ThingName>
+			<ThingName>Pó Divino</ThingName>
 			<Desc>Consumir para restaurar 300.000 Qi, além de aumentar o Qi Máximo em 100.000 por 48 horas. Se o Cultivo for muito baixo, o usuário pode morrer pela explosão da reserva de Qi.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase1" sParam="Item">
-			<ThingName>Heavenly Pill</ThingName>
+			<ThingName>Pílula Celestial</ThingName>
 			<Desc>Consumir para ativar seu Qi primitivo, aumentando a Percepção em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase2" sParam="Item">
-			<ThingName>Earthly Pill</ThingName>
+			<ThingName>Pílula Terrena</ThingName>
 			<Desc>Consumir para ativar seu Qi primitivo, aumentando a Constituição em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase3" sParam="Item">
-			<ThingName>Ether Pill</ThingName>
+			<ThingName>Pílula Éter</ThingName>
 			<Desc>Consumir para ativar seu Qi primitivo, aumentando o Carisma em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase4" sParam="Item">
-			<ThingName>Wisdom Pill</ThingName>
+			<ThingName>Pílula da Sabedoria</ThingName>
 			<Desc>Consumir para ativar seu Qi primitivo, aumentando a Inteligência em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase5" sParam="Item">
-			<ThingName>Blessed Pill</ThingName>
+			<ThingName>Pílula Abençoada</ThingName>
 			<Desc>Consumir para ativar seu Qi primitivo, aumentando a Sorte em 30% por 48 horas. No entanto, 3 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBaseFromLife" sParam="Item">
-			<ThingName>Bane Pill</ThingName>
+			<ThingName>Pílula Maldita</ThingName>
 			<Desc>Consumir para ativar seu Qi primitivo, aumentando Cinco Atributos em 10% cada. No entanto, 60 anos de vida serão perdidos como resultado.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail1" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
+			<ThingName>Pílula de Lixo</ThingName>
 			<Desc>Restos de um processo de fabricação de pílula que falhou. Há um poder estranho surgindo dentro, Deus sabe o que aconteceria com quem os consumisse.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail2" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
+			<ThingName>Pílula de Lixo</ThingName>
 			<Desc>Restos de um processo de fabricação de pílula que falhou. Há um poder estranho surgindo dentro, Deus sabe o que aconteceria com quem os consumisse.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail3" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
+			<ThingName>Pílula de Lixo</ThingName>
 			<Desc>Restos de um processo de fabricação de pílula que falhou. Há um poder estranho surgindo dentro, Deus sabe o que aconteceria com quem os consumisse.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail4" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
+			<ThingName>Pílula de Lixo</ThingName>
 			<Desc>Pílula defeituosa que parece ter absorvido muito do fogo da Fornalha de Alquimia. Consumi-lo fará com que as cinco vísceras da pessoa queimem e o tempo de vida diminua. Mas se alguém conseguisse sobreviver a tal lesão, ainda poderia trazer alguns benefícios.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail5" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
+			<ThingName>Pílula de Lixo</ThingName>
 			<Desc>Restos de um processo de fabricação de pílula que falhou. Há um poder estranho surgindo dentro, Deus sabe o que aconteceria com quem os consumisse.</Desc>
 		</Text>
 		<Text Name="Item_Dan_TreeEXP" sParam="Item">
-			<ThingName>Eureka Pill</ThingName>
+			<ThingName>Pílula Eureka</ThingName>
 			<Desc>Elixir que contém o poder celestial da criação. Consumi-lo permite sentir o movimento do Tao e obter dele inspiração. A quantidade de Inspiração obtida é relativa à Inteligência e Estado Mental da pessoa no momento do consumo.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Thin" sParam="Item">
-			<ThingName>Fitness Pill</ThingName>
+			<ThingName>Pílula da Aptidão</ThingName>
 			<Desc>Elixir feito por cultivadores imortais. Consumi-lo torna o corpo de um personagem mais magro.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock" sParam="Item">
-			<ThingName>Fixing Pill</ThingName>
+			<ThingName>Pílula de Fixação</ThingName>
 			<Desc>Elixir feito por cultivadores imortais. Consumi-lo bloqueia a aparência atual de um personagem.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceUnLock" sParam="Item">
-			<ThingName>Truth Pill</ThingName>
+			<ThingName>Pílula da Verdade</ThingName>
 			<Desc>Pílula feita por cultivadores imortais. Consumi-lo restaura a verdadeira aparência de um personagem.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock1" sParam="Item">
-			<ThingName>Child Face Drug</ThingName>
+			<ThingName>Pílula do Rosto de Criança</ThingName>
 			<Desc>Pílula feita por cultivadores imortais. Consumindo-o para moldar um rosto tão inocente quanto o de um bebê.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock2" sParam="Item">
-			<ThingName>Adult Face Drug</ThingName>
+			<ThingName>Pílula do Rosto de Adulto</ThingName>
 			<Desc>Pílula feita por cultivadores imortais. Consumi-lo para moldar o rosto com tanta energia quanto o de um adulto.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock3" sParam="Item">
-			<ThingName>Elder Face Drug</ThingName>
+			<ThingName>Pílula do Rosto de Ancião</ThingName>
 			<Desc>Pílula feita por cultivadores imortais. Consumindo-o para moldar o rosto tão profundamente quanto o de um ancião.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fat" sParam="Item">
-			<ThingName>Power Pill</ThingName>
+			<ThingName>Pílula do Poder</ThingName>
 			<Desc>Elixir feito por cultivadores imortais. Consumi-lo torna o corpo de um personagem mais volumoso.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul1" sParam="Item">
-			<ThingName>Anguish Pill</ThingName>
+			<ThingName>Pílula da Angústia</ThingName>
 			<Desc>Elixir feito utilizando a Gema da Alma da Angústia como catalisador. Consumi-lo concede Inspiração. No entanto, 9 anos de sua vida útil serão perdidos devido à sua potência fria e sinistra.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul2" sParam="Item">
-			<ThingName>Soulrend Pill</ThingName>
-			<Desc>Elixir feito utilizando Spirit Soul Gem como catalisador. Consumi-lo concede Inspiração. No entanto, sua reserva de Qi será danificada devido à sua potência intensiva. Diminui o Qi Máximo em 10.</Desc>
+			<ThingName>Pílula do Rasgamento da Alma</ThingName>
+			<Desc>Elixir feito utilizando a Gema da Alma Espiritual como catalisador. Consumi-lo concede Inspiração. No entanto, sua reserva de Qi será danificada devido à sua potência intensiva. Diminui o Qi Máximo em 10.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul3" sParam="Item">
-			<ThingName>Serene Pill</ThingName>
-			<Desc>Pílula feita utilizando Serenity Soul Gem como catalisador. Consumi-lo concede Inspiração. Múltiplos consumos aumentarão gradualmente sua potência. No entanto, o usuário ficará chocado com a consciência residual do caos, resultando em danos cerebrais.</Desc>
+			<ThingName>Pílula Serena</ThingName>
+			<Desc>Pílula feita utilizando a Gema da Alma da Serenidade como catalisador. Consumi-lo concede Inspiração. Múltiplos consumos aumentarão gradualmente sua potência. No entanto, o usuário ficará chocado com a consciência residual do caos, resultando em danos cerebrais.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul4" sParam="Item">
-			<ThingName>Scorch Pill</ThingName>
-			<Desc>Pílula feita utilizando Serenity Soul Gem como catalisador. Consumi-lo queimará cem anos de vida útil, concedendo sabedoria extraordinária por 2 horas e aumentando enormemente a eficiência de ganhar inspiração. No entanto, após a pílula fazer efeito, ela causará danos graves à mente, reduzindo permanentemente a Inteligência em 20%. Consumir grandes quantidades diminui gradualmente sua potência.</Desc>
+			<ThingName>Pílula Escaldante</ThingName>
+			<Desc>Pílula feita utilizando a Gema da Alma da Serenidade como catalisador. Consumi-lo queimará cem anos de vida útil, concedendo sabedoria extraordinária por 2 horas e aumentando enormemente a eficiência de ganhar inspiração. No entanto, após a pílula fazer efeito, ela causará danos graves à mente, reduzindo permanentemente a Inteligência em 20%. Consumir grandes quantidades diminui gradualmente sua potência.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LunHui1" sParam="Item">
-			<ThingName>Sealed-Away Memory: Stardom</ThingName>
-			<Desc>Após o consumo, você pode ganhar inspiração e ser movido por esta sequência de memória. \n[color=#D06508]Este é um agradecimento à série de vídeos Stardom feita por Xiaoyaosanren por me dar força e alegria![/color]</Desc>
+			<ThingName>Memória Selada: Estrelato</ThingName>
+			<Desc>Após o consumo, você pode ganhar inspiração e ser movido por esta sequência de memória. \n[color=#D06508]Este é um agradecimento à série de vídeos Estrelato feita por Xiaoyaosanren por me dar força e alegria![/color]</Desc>
 		</Text>
 		<Text Name="Item_Dan_ReBorn" sParam="Item">
-			<ThingName>Rebirth Pill</ThingName>
-			<Desc>Após o consumo de memória, para você ganhar motivação e memória. \n[color=#D0508]Este é um agradecimento à série de vídeos Stardom feito por Xiaoyaosanren por mim dar força e alegria![/color]</Desc>
+			<ThingName>Pílula do Renascimento</ThingName>
+			<Desc>Após o consumo de memória, para você ganhar motivação e memória. \n[color=#D0508]Este é um agradecimento à série de vídeos Estrelato feita por Xiaoyaosanren por me dar força e alegria![/color]</Desc>
 		</Text>
 		<Text Name="Item_Dan_ReBorn_4" sParam="Item">
-			<ThingName>Nirvana Pill</ThingName>
+			<ThingName>Pílula do Nirvana</ThingName>
 			<Desc>Um elixir criado pelo aproveitamento de energias que ressoam de ciclos de reencarnação. Consumi-lo permite renascer em um novo corpo, mantendo toda a inspiração anterior.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LingYuanZhong" sParam="Item">
-			<ThingName>Spirit Seed</ThingName>
+			<ThingName>Semente Espiritual</ThingName>
 			<Desc>Item precioso criado pela combinação da Medicina Elemental com a Semente da Fortuna, tem muitos usos maravilhosos. Quando enterrado no solo, ele se transformará automaticamente em veias espirituais e se estenderá para todas as direções, convertendo lentamente o terreno circundante em Solo Espiritual ou Água Espiritual. Usá-lo torna a pessoa imune ao frio e ao calor, embora ao custo de uma diminuição na Realização devido a enganar os caminhos do Céu. Consumi-lo aumenta muito o Qi Max.</Desc>
-			<StoryBnts.0.Name>Bury</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Bury this item in the ground.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Enterrar</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Enterrar este item no chão.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Dan_LingYuanSha" sParam="Item">
-			<ThingName>Fortune Sand</ThingName>
-			<Desc>Através de um método secreto, transforme Fortune Seed em pó. Embora seu efeito seja reduzido, ele pode ser usado como meio para realizar milagres várias vezes para criar um solo fértil.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<ThingName>Areia da Fortuna</ThingName>
+			<Desc>Através de um método secreto, transforme a Semente da Fortuna em pó. Embora seu efeito seja reduzido, ele pode ser usado como meio para realizar milagres várias vezes para criar um solo fértil.</Desc>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_LongDan1" sParam="Item">
-			<ThingName>Dragon Elixir</ThingName>
+			<ThingName>Elixir do Dragão</ThingName>
 			<Desc>Elixir feito do espírito primordial de um Dragão da Inundação, consuma para convertê-lo em um de seus subespíritos, permitindo que você controle um Artefato extra. Só funciona na primeira vez que é consumido.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FengDan1" sParam="Item">
-			<ThingName>Phoenix Elixir</ThingName>
+			<ThingName>Elixir da Fênix</ThingName>
 			<Desc>Elixir feito do espírito primordial da Fênix, consuma para convertê-lo em um de seus subespíritos, permitindo que você controle um Artefato extra. Só funciona na primeira vez que é consumido.</Desc>
 		</Text>
 		<Text Name="Item_Dan_ZhuLongDan1" sParam="Item">
-			<ThingName>Torch Elixir</ThingName>
+			<ThingName>Elixir da Tocha</ThingName>
 			<Desc>Elixir feito do espírito primordial do Dragão da Tocha, consuma para convertê-lo em um de seus subespíritos, permitindo que você controle um Artefato extra. Só funciona na primeira vez que é consumido.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen1" sParam="Item">
-			<ThingName>Prime Pill</ThingName>
+			<ThingName>Pílula Primordial</ThingName>
 			<Desc>Pílula divina dos tempos antigos que se diz ser feita de um fio de Qi primordial de clareza e turbidez da criação do mundo. Seu método de fabricação está perdido há muito tempo. Ao consumir esta pílula, pode-se reencenar a criação do céu e da terra dentro de seu Espírito Primordial, obtendo assim dois sub-espíritos. Esta pílula só pode ser tomada uma vez na vida. Só é eficaz quando o Cultivo está no nível do Espírito Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen2" sParam="Item">
-			<ThingName>Unison Pill</ThingName>
+			<ThingName>Pílula da Unicidade</ThingName>
 			<Desc>Pílula divina dos tempos antigos, seu método de fabricação há muito perdido. Ao consumir esta pílula torna-se consciente de um outro eu, gerando um novo sub-espírito. Esta pílula só pode ser tomada uma vez na vida. Só é eficaz quando o Cultivo está no nível do Espírito Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen3" sParam="Item">
-			<ThingName>Division Pill</ThingName>
+			<ThingName>Pílula da Divisão</ThingName>
 			<Desc>Pílula divina dos tempos antigos, seu método de fabricação há muito perdido. Ao consumir esta pílula, pode-se fazer uso de sua forte potência para gerar com força um novo sub-espírito. No entanto, causará danos permanentes ao Estado Mental do cultivador. Só é eficaz quando o Cultivo está no nível do Espírito Primordial.</Desc>
 		</Text>
 		<Text Name="Item_Dan_TiShen" sParam="Item">
-			<ThingName>Clone Pill</ThingName>
+			<ThingName>Pílula do Clone</ThingName>
 			<Desc>Depois de consumi-lo, você pode usar um duplo para participar de um leilão, o que permite que você escape imediatamente caso não traga Pedras Espirituais suficientes.</Desc>
 		</Text>
 		<Text Name="Item_QiZhi" sParam="Item">
-			<ThingName>Enlightening Pill</ThingName>
+			<ThingName>Pílula Iluminadora</ThingName>
 			<Desc>Pode ser dado como alimento a animais selvagens, tornando-os iluminados e entrando no Estado do Despertar.</Desc>
 		</Text>
 		<Text Name="Item_Fall_LingZhi" sParam="Item">
-			<ThingName>Autumn Pill</ThingName>
+			<ThingName>Pílula do Outono</ThingName>
 			<Desc>Melhora o elemento Qi do Metal, para que o animal possa obter uma compreensão mais profunda do outono e sentir seu pensamento correspondente.</Desc>
 		</Text>
 		<Text Name="Item_Winter_LingZhi" sParam="Item">
-			<ThingName>Winter Pill</ThingName>
+			<ThingName>Pílula do Inverno</ThingName>
 			<Desc>Melhora o elemento Qi da Água, para que o animal possa obter uma compreensão mais profunda do inverno e sentir seu pensamento correspondente.</Desc>
 		</Text>
 		<Text Name="Item_Spring_LingZhi" sParam="Item">
-			<ThingName>Spring Pill</ThingName>
+			<ThingName>Pílula da Primavera</ThingName>
 			<Desc>Melhora o elemento Qi da Madeira, para que o animal possa obter uma compreensão mais profunda da primavera e sentir seu pensamento correspondente.</Desc>
 		</Text>
 		<Text Name="Item_Summer_LingZhi" sParam="Item">
-			<ThingName>Summer Pill</ThingName>
+			<ThingName>Pílula do Verão</ThingName>
 			<Desc>Melhora o elemento Qi do Fogo, para que o animal possa obter uma compreensão mais profunda do verão e sentir seu pensamento correspondente.</Desc>
 		</Text>
 		<Text Name="Item_Earth_LingZhi" sParam="Item">
-			<ThingName>Ground Pill</ThingName>
+			<ThingName>Pílula Terrestre</ThingName>
 			<Desc>Melhora o elemento Qi da Terra, para que o animal possa obter uma compreensão mais profunda da terra e sentir seu pensamento correspondente.</Desc>
 		</Text>
 	</List>

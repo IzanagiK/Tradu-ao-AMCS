@@ -1,33 +1,33 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Modifier_BodyPractice_Boss_BaseValue">
-			<DisplayName>Sage Physical Training Starting Stats</DisplayName>
+			<DisplayName>Estatísticas Iniciais do Treinamento Físico do Sábio</DisplayName>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Boss_BaseFightValue">
-			<DisplayName>Sage Physical Training Starting Stats in Battle</DisplayName>
+			<DisplayName>Estatísticas Iniciais do Treinamento Físico do Sábio em Batalha</DisplayName>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Boss_Atk">
-			<DisplayName>Might</DisplayName>
+			<DisplayName>Poder</DisplayName>
 			<Desc>O corpo secreto desta pessoa é incrivelmente poderoso que pode quebrar pedras e derrubar oceanos.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Boss_Def">
-			<DisplayName>Pliability</DisplayName>
+			<DisplayName>Flexibilidade</DisplayName>
 			<Desc>O corpo secreto dessa pessoa é tão resistente que nada pode atravessá-lo.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Boss_Dodge">
-			<DisplayName>Dodge</DisplayName>
+			<DisplayName>Esquiva</DisplayName>
 			<Desc>Esta pessoa é muito ágil e rápida que ninguém é capaz de pegá-la.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Boss_CatchFabao">
-			<DisplayName>Snatch</DisplayName>
+			<DisplayName>Captura</DisplayName>
 			<Desc>Esta pessoa tem mãos muito habilidosas e se destaca em suprimir artefatos.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Boss_ArmorPenetration">
-			<DisplayName>Puncture</DisplayName>
+			<DisplayName>Perfuração</DisplayName>
 			<Desc>Esta pessoa é muito inteligente com seu poder e se destaca em penetrar barreiras de Qi e causar dano.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Boss_Strong">
-			<DisplayName>Strong</DisplayName>
+			<DisplayName>Forte</DisplayName>
 			<Desc>O corpo físico dessa pessoa é muito forte e sua mente também é resiliente que nenhuma dor a detém.</Desc>
 		</Text>
 	</List>

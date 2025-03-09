@@ -1,22 +1,22 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="LostPart">
-			<DisplayName>Lost Item</DisplayName>
+			<DisplayName>Item Perdido</DisplayName>
 		</Text>
 		<Text Name="SYS_ATK">
-			<DisplayName>Attack Stance</DisplayName>
+			<DisplayName>Postura de Ataque</DisplayName>
 			<Desc>O cultivador físico atacará o corpo físico do inimigo com força total, mas a capacidade de defesa do corpo secreto será reduzida.</Desc>
 		</Text>
 		<Text Name="SYS_NORMAL">
-			<DisplayName>Common Stance</DisplayName>
+			<DisplayName>Postura Comum</DisplayName>
 			<Desc>A postura de batalha padrão para cultivadores físicos. Ele primeiro lida com o artefato do inimigo e depois ataca seu corpo físico. Essa postura é igualmente boa no ataque e na defesa e bem equilibrada em diferentes habilidades.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_ManJi">
-			<DisplayName>Barbarian Will</DisplayName>
+			<DisplayName>Vontade Bárbara</DisplayName>
 			<Desc>Usa a forte vontade de batalha para comandar todo o corpo para se mover e atacar diretamente o corpo físico do inimigo, aumentando drasticamente a capacidade de ataque enquanto mantém a defesa instintiva.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_WangZhe">
-			<DisplayName>Will of the King</DisplayName>
+			<DisplayName>Vontade do Rei</DisplayName>
 			<Desc>Permanece calmo e composto enquanto enfrenta a batalha com o coração de um rei. Reduz o consumo secreto do corpo.</Desc>
 		</Text>
 	</List>

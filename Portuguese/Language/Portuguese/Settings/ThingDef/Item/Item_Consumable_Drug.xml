@@ -1,286 +1,286 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="Item_Fruit" sParam="Item">
-			<ThingName>Amber Fruit</ThingName>
+			<ThingName>Fruta Âmbar</ThingName>
 			<Desc>Um punhado de frutas âmbar. Consumi-los permite ficar imune à fome e ao cansaço por meio dia. Porém, os frutos apodrecem rapidamente após serem colhidos.</Desc>
-			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Fruta, Pérola, Bolus, Bola</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LingWater" sParam="Item">
-			<ThingName>Spirit Dew</ThingName>
+			<ThingName>Orvalho Espiritual</ThingName>
 			<Desc>Uma gota de orvalho na Grama Espiritual, rica em força vital. Ele se dispersará rapidamente após ser separado da Grama Espiritual. Consumi-lo reabastece muita resistência, além de melhorar muito a taxa de recuperação do corpo por um curto período de tempo.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Líquido, Água, Névoa, Fumaça, Bruma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_ZaoHuaYuLu" sParam="Item">
-			<ThingName>Fortune Dew</ThingName>
+			<ThingName>Orvalho da Fortuna</ThingName>
 			<Desc>Orvalho com o poder da criação formado em uma Raiz Espiritual. Ele se dispersará rapidamente após ser separado da Raiz Espiritual. Quando consumido, o espírito primordial perecerá e cairá em um estado de morte simulada por 81 dias, recuperando-se de todos os ferimentos. A carne e os ossos de uma pessoa serão completamente remodelados depois, aumentando Cinco Atributos em 20% cada, mas sua Realização é significativamente reduzida. Só pode ser tomado uma vez por cada pessoa. O consumo repetido fará com que o espírito primordial seja permanentemente extinto e se disperse no esquecimento.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Líquido, Água, Névoa, Fumaça, Bruma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SilverGrit" sParam="Item">
-			<ThingName>Frost Powder</ThingName>
+			<ThingName>Pó de Geada</ThingName>
 			<Desc>Pó mineral moído de Minério de Cristal de Gelo, pode ser usado como ingrediente medicinal.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_CopperGrit" sParam="Item">
-			<ThingName>Igne Powder</ThingName>
+			<ThingName>Pó de Igneocobre</ThingName>
 			<Desc>Pó mineral moído de minério de igneocobre, pode ser usado como ingrediente medicinal.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Cinnabar" sParam="Item">
-			<ThingName>Cinnabar</ThingName>
+			<ThingName>Cinábrio</ThingName>
 			<Desc>Este mineral especial é comumente usado como meio de alquimia e ao desenhar talismãs.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_JinEssence" sParam="Item">
-			<ThingName>Sage Fruit</ThingName>
+			<ThingName>Fruta Sábia</ThingName>
 			<Desc>Medicina milagrosa do elemento Metal, com Qi turbulento morando dentro dele. Dizem que a fruta pode ser encontrada no Nimbus Ravine do Heavenstep Peak.</Desc>
-			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Pérola, Bolus, Bola</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plantar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MuEssence" sParam="Item">
-			<ThingName>Gnarled Vine</ThingName>
+			<ThingName>Videira Enrolada</ThingName>
 			<Desc>Medicina milagrosa do elemento Madeira, com Qi turbulento morando dentro dele. Não pode ser consumido diretamente. Diz-se que a videira pode ser encontrada no Monte Tiger Paw e no Vale Wormwrought do Sul Selvagem.</Desc>
-			<Item.FabaoSuffix>Vine, Lock, Chain, Rope, Cord</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Videira, Cadeado, Corrente, Corda, Fio</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plantar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ShuiEssence" sParam="Item">
-			<ThingName>Prism Lotus</ThingName>
-			<Desc>Medicina milagrosa do elemento Água, com Qi impetuoso residindo nele. Não pode ser consumido diretamente. Dizem que um Prism Lotus pode ser encontrado no Five Dragons Pond de Mt. Sunshade.</Desc>
-			<Item.FabaoSuffix>Lotus, Platform, Seal, Cover, Field</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
+			<ThingName>Lótus Prismático</ThingName>
+			<Desc>Medicina milagrosa do elemento Água, com Qi impetuoso residindo nele. Não pode ser consumido diretamente. Dizem que um Lótus Prismático pode ser encontrado no Five Dragons Pond de Mt. Sunshade.</Desc>
+			<Item.FabaoSuffix>Lótus, Plataforma, Selo, Cobertura, Campo</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plantar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_HuoEssence" sParam="Item">
-			<ThingName>Crimson Fruit</ThingName>
+			<ThingName>Fruta Carmesim</ThingName>
 			<Desc>Medicina milagrosa do elemento Fogo, com Qi impetuoso residindo nele. Não pode ser consumido diretamente. Diz-se que a fruta cresce no penhasco de Jadestone de Mt. Shu e no Blazenest do Great Western Desert.</Desc>
-			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Pérola, Bolus, Bola</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plantar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_TuEssence" sParam="Item">
-			<ThingName>Ocher Essence</ThingName>
+			<ThingName>Essência Ocre</ThingName>
 			<Desc>Medicina milagrosa do elemento Terra, com Qi turbulento morando dentro dele. Não pode ser consumido diretamente. Diz-se que a Essência Ocre cresce na Caverna Drake de Mt. Kunlun.</Desc>
-			<Item.FabaoSuffix>Idol, Puppet, Root, Seal</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Ídolo, Marionete, Raiz, Selo</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Plantar</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plante para cultivar uma Planta Espiritual.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_LingMuXueJie" sParam="Item">
-			<ThingName>Resin Essence</ThingName>
+			<ThingName>Essência de Resina</ThingName>
 			<Desc>Substância gelatinosa extraída da Raiz Espiritual quando nutrida, pode reabastecer o vigor do corpo humano diretamente.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence" sParam="Item">
-			<ThingName>Earth Flux</ThingName>
+			<ThingName>Fluxo Terrestre</ThingName>
 			<Desc>Essência do que está nas profundezas da crosta terrestre, é um líquido de aparência branca leitosa e um ingrediente que pode ser usado para fazer vários tipos de elixires milagrosos. Consumi-lo diretamente reabastece uma grande quantidade de Vigor e expande a Reserva de Qi, aumentando o Qi Max. Consumi-lo em grandes quantidades diminui significativamente o efeito da expansão da Reserva Qi. Dizem que uma fonte de Fluxo Terrestre pode ser encontrada na Ilha Exultante e na Caverna Gemspring de Mt. Shu.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Líquido, Água, Névoa, Fumaça, Vapor</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1" sParam="Item">
-			<ThingName>Wicked Flux</ThingName>
+			<ThingName>Fluxo Maligno</ThingName>
 			<Desc>Essência do que está nas profundezas da crosta terrestre com uma cor vermelha brilhante. Consumi-lo diretamente reabastece uma grande quantidade de Vigor e expande a Reserva de Qi, aumentando o Qi Max. Esta substância tem refluxo de medicamento fraco e pode ser tomada várias vezes. No entanto, fará com que o Qi negativo se concentre no interior, o que tem uma influência permanente na mente. Consumi-lo em grandes quantidades afeta muito o cultivo.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Líquido, Água, Névoa, Fumaça, Vapor</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence_1" sParam="Item">
-			<ThingName>Holy Essence</ThingName>
+			<ThingName>Essência Sagrada</ThingName>
 			<Desc>Substância semelhante a creme formada por fluxo de terra coagulado. Ele pode converter o Qi em essência vital, diminuindo o Max Qi. No entanto, pode curar qualquer lesão e aumentar Percepção, Constituição e Inteligência em 10% cada. Só funciona na primeira vez que é consumido.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Líquido, Água, Névoa, Fumaça, Vapor</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1_1" sParam="Item">
-			<ThingName>Evil Essence</ThingName>
+			<ThingName>Essência Maligna</ThingName>
 			<Desc>Substância semelhante a creme formada por Fluxo Corrompido coagulado. Ele pode converter a essência vital em Qi, aumentando o Max Qi. No entanto, a força vital primitiva será danificada como resultado, diminuindo Percepção, Constituição e Inteligência em 10% cada. Pode ser consumido várias vezes.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Líquido, Água, Névoa, Fumaça, Vapor</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LifeStream" sParam="Item">
-			<ThingName>Life Spring</ThingName>
+			<ThingName>Fonte da Vida</ThingName>
 			<Desc>Diz-se que a água de nascente divina concede imortalidade quando bebida, é um ingrediente que pode ser usado para fazer vários tipos de elixires milagrosos. Beber diretamente prolonga a vida útil em 99 anos. Consumi-lo em grandes quantidades diminui significativamente o efeito. Dizem que a fonte pode ser encontrada na Piscina Celestial do Monte Nelumbo.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Líquido, Água, Névoa, Fumaça, Vapor</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Ginseng" sParam="Item">
 			<ThingName>Ginseng</ThingName>
 			<Desc>Erva cara que pode melhorar a resiliência natural das pessoas por 2 horas se consumida diretamente. Pode impulsionar o processo de construção da Fundação quando consumido por discípulos externos. Muitas vezes usado como ingrediente medicinal. No entanto, consumi-lo em grandes quantidades diminui significativamente o efeito.</Desc>
-			<Item.FabaoSuffix>Idol, Puppet, Doll</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ídolo, Marionete, Boneca</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_GanodermaLucidum" sParam="Item">
 			<ThingName>Lingzhi</ThingName>
 			<Desc>Erva cara que pode prolongar a vida útil de uma pessoa em 3 anos se consumida diretamente. Pode impulsionar o processo de construção da Fundação quando consumido por discípulos externos. Muitas vezes usado como ingrediente medicinal. No entanto, consumi-lo em grandes quantidades diminui significativamente o efeito.</Desc>
-			<Item.FabaoSuffix>Boongiver, Ganoderma, Powder, Umbrella</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Boongiver, Ganoderma, Pó, Guarda-chuva</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_RedGinseng" sParam="Item">
-			<ThingName>Red Ginseng</ThingName>
+			<ThingName>Ginseng Vermelho</ThingName>
 			<Desc>O melhor do Ginseng com uma cor vermelha carmesim. Ele pode aumentar significativamente o processo de Treinamento da Fundação quando consumido por discípulos externos ou reabastecer uma pequena quantidade de Vigor para discípulos internos. Muitas vezes usado como ingrediente de elixir. Quando consumido diretamente, pode melhorar significativamente a resiliência natural das pessoas por 2 horas e aumentar o Max Qi em uma pequena quantidade. Mas consumi-lo em grandes quantidades diminui significativamente o efeito.</Desc>
-			<Item.FabaoSuffix>Idol, Puppet, Doll</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ídolo, Marionete, Boneca</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PurpleGanodermaLucidum" sParam="Item">
 			<ThingName>Ganoderma</ThingName>
 			<Desc>O melhor de Lingzhi com uma cor vermelha púrpura. Ele pode aumentar significativamente o processo de Treinamento da Fundação quando consumido por discípulos externos ou reabastecer uma pequena quantidade de Vigor para discípulos internos. Pode ser usado para fazer alguns elixires preciosos e raros. Ele prolonga a vida útil da pessoa em 10 anos e aumenta ligeiramente o Max Qi se consumido diretamente, mas consumi-lo em grandes quantidades diminui significativamente o efeito.</Desc>
-			<Item.FabaoSuffix>Boongiver, Ganoderma, Powder, Umbrella</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Boongiver, Ganoderma, Pó, Guarda-chuva</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SoulPearl" sParam="Item">
-			<ThingName>Soul Pearl</ThingName>
+			<ThingName> Pérola da Alma</ThingName>
 			<Desc>Núcleo Interno de uma Besta, com enorme Qi de Yin morando dentro dele. Dizem que o orbe pode ser encontrado na Caverna Deathknell de Mt. Hundred Insects.</Desc>
-			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
-			<Item.BeMaterial.NamePrefix>Beast Embryo</Item.BeMaterial.NamePrefix>
+			<Item.FabaoSuffix>Conta, Bolus, Esfera</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Embrião de Besta</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_MonsterBlood" sParam="Item">
-			<ThingName>Beast blood</ThingName>
+			<ThingName>Sangue de Besta</ThingName>
 			<Desc>Sangue de uma Besta, com Qi energético morando dentro. Mesmo contido em uma garrafa, ainda parece fervendo. Diz-se que o sangue da Besta pode ser obtido no Poço da Serpente do Monte Cem Insetos e na Vila das Dunas no Grande Deserto Ocidental.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Líquido, Água, Névoa, Fumaça, Vapor</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Mint" sParam="Item">
-			<ThingName>Purity Leaf</ThingName>
+			<ThingName>Folha da Pureza</ThingName>
 			<Desc>Erva comum de qualidade arrepiante, consumida diretamente pode acalmar o espírito e o Qi. Também aumenta o estado mental se o tomador for um discípulo interno.</Desc>
-			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Flor, Estame</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_MagicHerb" sParam="Item">
-			<ThingName>Spirit Leaf</ThingName>
-			<Desc>Erva rica em poder espiritual, é de qualidade quente e é amplamente utilizada. Pode ser utilizado junto com uma variedade de outros materiais para fazer elixires.</Desc>
-			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
+			<ThingName>Folha Espiritual</ThingName>
+			<Desc>Erva rica em poder espiritual, é de qualidade quente e é amplamente utilizada. Pode ser utilizada junto com uma variedade de outros materiais para fazer elixires.</Desc>
+			<Item.FabaoSuffix>Flor, Estame</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Ginkgo" sParam="Item">
-			<ThingName>Ginkgo Fruit</ThingName>
+			<ThingName>Fruto de Ginkgo</ThingName>
 			<Desc>O fruto de uma árvore Ginkgo, pode ser transformado em vários medicamentos tranquilizantes.</Desc>
-			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball, Dome</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Fruto, Conta, Bolus, Esfera, Cúpula</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SnakeGallbladder" sParam="Item">
-			<ThingName>Snake Gall</ThingName>
+			<ThingName>Bile de Cobra</ThingName>
 			<Desc>A vesícula biliar de uma cobra, pode reabastecer uma pequena quantidade de Vigor ou ser usada como ingrediente medicinal. Engolir por mortais pode melhorar seu corpo e aumentar a eficiência do Treinamento da Fundação.</Desc>
 			<Item.FabaoSuffix>Bolus, Bile</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BearGallbladder" sParam="Item">
-			<ThingName>Bear Gall</ThingName>
+			<ThingName>Bile de Urso</ThingName>
 			<Desc>A vesícula biliar de um urso, pode reabastecer Vigor ou ser usada como ingrediente medicinal. Engolir por mortais pode melhorar seu corpo e aumentar a eficiência do Treinamento da Fundação.</Desc>
 			<Item.FabaoSuffix>Bolus, Bile</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Healroot" sParam="Item">
-			<ThingName>Herb</ThingName>
+			<ThingName>Erva</ThingName>
 			<Desc>Substância medicinal comum que pode ser usada para tratar uma variedade de doenças, mas com efeito limitado.</Desc>
-			<Item.FabaoSuffix>Leaf</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Folha</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Hemostatics" sParam="Item">
-			<ThingName>Healing Balm</ThingName>
+			<ThingName>Pomada Curativa</ThingName>
 			<Desc>Medicina comum que pode ser usada para tratar feridas abertas, com aparentes efeitos curativos.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SmallCycle" sParam="Item">
-			<ThingName>Healing Pill</ThingName>
+			<ThingName>Pílula Curativa</ThingName>
 			<Desc>Medicina comum que pode ser usada para tratar lesões viscerais, com aparentes efeitos curativos.</Desc>
-			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Conta, Bolus, Esfera</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Plaster" sParam="Item">
-			<ThingName>Bonemend Balm</ThingName>
+			<ThingName>Pomada de Osso</ThingName>
 			<Desc>Medicamentos comuns que podem ser usados para tratar fraturas ósseas, com aparentes efeitos curativos.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_StoneEssenceDrug" sParam="Item">
-			<ThingName>Stone Powder</ThingName>
+			<ThingName>Pó de Pedra</ThingName>
 			<Desc>Substância medicinal feita pela combinação de ervas com essência de pedra moída. Incrivelmente eficaz no tratamento de feridas e doenças.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Anodyne" sParam="Item">
-			<ThingName>Painreliever</ThingName>
+			<ThingName>Alívio da Dor</ThingName>
 			<Desc>Medicina comum que pode efetivamente aliviar a dor.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Laxative" sParam="Item">
-			<ThingName>Laxative</ThingName>
+			<ThingName>Laxante</ThingName>
 			<Desc>Medicina comum que acelera a defecação, pode ser usada para tratar sintomas como inchaço e ingestão de sujeira. No entanto, o usuário do medicamento se sentirá extremamente fraco depois que seu efeito passar.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Areia, Cristal, Poeira, Pó, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_ThunderAir" sParam="Item">
-			<ThingName>Heaven's Breath</ThingName>
+			<ThingName>Respiração do Céu</ThingName>
 			<Desc>Um sopro de tribulação roubado por enganar os caminhos do céu. Há um poder aterrorizante fluindo dentro dele.</Desc>
-			<Item.FabaoSuffix>Breath, Tribulation</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Respiração, Tribulação</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianBone" sParam="Item">
-			<ThingName>Divine Bones</ThingName>
+			<ThingName>Ossos Divinos</ThingName>
 			<Desc>Os ossos restantes com poder divino após a destruição do Corpo Mortal de um Imortal. Se você for capaz de suportar seu poder e integrá-lo em seu corpo, você terá assimilado o Qi celestial, reduzindo significativamente sua Realização.</Desc>
-			<Item.FabaoSuffix>Bone, Skeleton</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Osso, Esqueleto</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianBoneBall" sParam="Item">
 			<ThingName>Sarira</ThingName>
 			<Desc>Os ossos restantes com o poder da Crença recuperados do Corpo da Divindade destruído. Se você for capaz de suportar seu poder e integrá-lo ao seu corpo, ele pode aumentar significativamente sua Divindade, melhorar o Estado Mental permanentemente, bem como aumentar o limite máximo de residentes divinos. Concede um efeito menor se usado no corpo.</Desc>
 		</Text>
 		<Text Name="Item_ZaoHuaYuZi" sParam="Item">
-			<ThingName>Fortune Seed</ThingName>
+			<ThingName>Semente da Fortuna</ThingName>
 			<Desc>Essência do que está nas profundezas da Caverna Drake de Mt.Kunlun se condensa. Uma substância muito compacta, só pode ser usada com um método secreto especial.</Desc>
-			<Item.FabaoSuffix>Jade, Seal</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Jade, Selo</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BenYuan_None" sParam="Item">
-			<ThingName>Origin (None)</ThingName>
+			<ThingName>Origem (Nenhuma)</ThingName>
 			<Desc>Cristal contendo a mais pura essência de Raiz Natural. Somente cultivando habilidades indefinidas pode-se refiná-la. O refinamento bem-sucedido reduz a Realização, enquanto o fracasso resultará em ferimentos e um aumento na Condenação. Quanto maior a sua Realização, maior a taxa de sucesso do refinamento. Vários refinamentos diminuirão gradualmente o efeito.</Desc>
-			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
-			<StoryBnts.0.Name>Refinement</StoryBnts.0.Name>
+			<Item.FabaoSuffix>Cristal</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Refinamento</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente refinar a Raiz Natural..</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Jin" sParam="Item">
-			<ThingName>Origin (Metal)</ThingName>
+			<ThingName>Origem (Metal)</ThingName>
 			<Desc>Cristal contendo o elemento Raiz Natural do Metal. Somente cultivando habilidades do tipo Metal pode-se refiná-la. O refinamento bem-sucedido reduz a Realização, enquanto o fracasso resultará em ferimentos e um aumento na Condenação. Quanto maior a sua Realização, maior a taxa de sucesso do refinamento. Vários refinamentos diminuirão gradualmente o efeito.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Mu" sParam="Item">
-			<ThingName>Origin (Wood)</ThingName>
+			<ThingName>Origem (Madeira)</ThingName>
 			<Desc>Cristal contendo o elemento Raiz Natural da Madeira. Somente cultivando habilidades do tipo Madeira é possível refiná-la. O refinamento bem-sucedido reduz a Realização, enquanto o fracasso resultará em ferimentos e um aumento na Condenação. Quanto maior a sua Realização, maior a taxa de sucesso do refinamento. Vários refinamentos diminuirão gradualmente o efeito.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Shui" sParam="Item">
-			<ThingName>Origin (Water)</ThingName>
+			<ThingName>Origem (Água)</ThingName>
 			<Desc>Cristal contendo o elemento Raiz Natural da Água. Somente cultivando habilidades do tipo Água pode-se refiná-la. O refinamento bem-sucedido reduz a Realização, enquanto o fracasso resultará em ferimentos e um aumento na Condenação. Quanto maior a sua Realização, maior a taxa de sucesso do refinamento. Vários refinamentos diminuirão gradualmente o efeito.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Huo" sParam="Item">
-			<ThingName>Origin (Fire)</ThingName>
+			<ThingName>Origem (Fogo)</ThingName>
 			<Desc>Cristal contendo o elemento Raiz Natural do Fogo. Somente cultivando habilidades do tipo Fogo pode-se refiná-la. O refinamento bem-sucedido reduz a Realização, enquanto o fracasso resultará em ferimentos e um aumento na Condenação. Quanto maior a sua Realização, maior a taxa de sucesso do refinamento. Vários refinamentos diminuirão gradualmente o efeito.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Tu" sParam="Item">
-			<ThingName>Origin (Earth)</ThingName>
+			<ThingName>Origem (Terra)</ThingName>
 			<Desc>Cristal contendo o elemento Raiz Natural da Terra. Somente cultivando habilidades do tipo Terra pode-se refiná-la. O refinamento bem-sucedido reduz a Realização, enquanto o fracasso resultará em ferimentos e um aumento na Condenação. Quanto maior a sua Conquista, maior a taxa de sucesso do refinamento.</Desc>
 		</Text>
 		<Text Name="Item_YuanHunLu" sParam="Item">
-			<ThingName>Holy Nectar</ThingName>
+			<ThingName>Néctar Sagrado</ThingName>
 			<Desc>Orvalho contendo a essência da alma de uma Besta. Consumi-lo retardará o processo de pensamento, reparando danos no Espírito Primordial. No entanto, a desaceleração dos pensamentos afetará negativamente as habilidades mentais, diminuindo a Inteligência em 10%.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquido, Água, Névoa, Fumaça, Bruma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XieHunLu" sParam="Item">
-			<ThingName>Evil Nectar</ThingName>
+			<ThingName>Néctar Maligno</ThingName>
 			<Desc>Orvalho contendo a essência da alma de uma Besta. Consumi-lo acelerará o processo de pensamento por um período de uma temporada, aumentando a Inteligência em 10% e melhorando as habilidades de aprendizado. Tal ato esgotará o poder da alma, no entanto, causando danos ao seu Espírito Primordial.</Desc>
-			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Liquido, Água, Névoa, Fumaça, Bruma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_YanDaoGuo" sParam="Item">
-			<ThingName>Insight Fruit</ThingName>
+			<ThingName>Fruto da Perspicácia</ThingName>
 			<Desc>Frutas peculiares contendo Sopro Celestial. Consumi-lo permite observar a evolução dos caminhos do céu e tornar-se um com eles em harmonia, aumentando muito a Realização e diminuindo muito a Condenação.</Desc>
-			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Contém, Bolus, Bola</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_QieDaoGuo" sParam="Item">
-			<ThingName>Impose Fruit</ThingName>
+			<ThingName>Fruto da Imposição</ThingName>
 			<Desc>Frutas peculiares contendo Sopro Celestial. Consumi-lo permite roubar dos caminhos do céu e, consequentemente, tornar-se uma ameaça para eles, diminuindo muito a Realização e aumentando muito a Condenação.</Desc>
-			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Contém, Bolus, Bola</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianDaoShenNian" sParam="Item">
-			<ThingName>Divine Mind</ThingName>
+			<ThingName>Mente Divina</ThingName>
 			<Desc>Um fio de consciência divina vazado dos Ossos Divinos pode ser utilizado por cultivadores para remodelar sua mente e corpo. Devido à bênção da consciência do imortal, pode-se reter uma pequena parte de sua inspiração anterior ao renascer. Ao usar este item para renascer pela primeira vez, seu Potencial também será aprimorado devido à nutrição da consciência divina.</Desc>
-			<Item.FabaoSuffix>Spirit, Soul</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Espírito, Alma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianDaoXieNian" sParam="Item">
-			<ThingName>Maligned Mind</ThingName>
+			<ThingName>Mente Maligna</ThingName>
 			<Desc>Um fragmento de consciência maligna vazou dos Restos do Imortal, pode ser utilizado por cultivadores para remodelar sua mente e corpo. Devido à bênção da consciência do imortal, pode-se reter a maior parte de sua inspiração anterior após o renascimento. Tal coisa é de propriedades negativas, no entanto, fazendo com que a pessoa extraia seu Potencial ao usá-lo para renascer pela primeira vez.</Desc>
-			<Item.FabaoSuffix>Spirit, Soul</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Espírito, Alma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WinterWarm" sParam="Item">
-			<ThingName>Winter Worm</ThingName>
-			<Desc>A forma madura de Caterpillar Fungus no inverno. O consumo concede um ligeiro aumento na resistência ao frio.</Desc>
-			<Item.FabaoSuffix>Worm</Item.FabaoSuffix>
+			<ThingName>Worm do Inverno</ThingName>
+			<Desc>A forma madura do Fungus Lagarta no inverno. O consumo concede um ligeiro aumento na resistência ao frio.</Desc>
+			<Item.FabaoSuffix>Vermes</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SummerHerb" sParam="Item">
-			<ThingName>Summer Herb</ThingName>
-			<Desc>A forma madura de Caterpillar Fungus no verão. O consumo concede um ligeiro aumento na resistência ao calor.</Desc>
-			<Item.FabaoSuffix>Hay</Item.FabaoSuffix>
+			<ThingName>Erva de Verão</ThingName>
+			<Desc>A forma madura do Fungus Lagarta no verão. O consumo concede um ligeiro aumento na resistência ao calor.</Desc>
+			<Item.FabaoSuffix>Feno</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_God_ZhiNianJieJing" sParam="Item">
-			<ThingName>Obsession Gem</ThingName>
+			<ThingName>Jóia da Obsessão</ThingName>
 			<Desc>Cristalização gerada pela obsessão na mente humana, contém todos os tipos de emoções intensas, desejos e pensamentos diversos. Efeitos desconhecidos.</Desc>
-			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Cristal</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_God_JieHui" sParam="Item">
-			<ThingName>Tribulation Ashe</ThingName>
-			<Desc>Uma espécie de Ashe especial criada por cultivadores mortos por tribulações. Diz-se que esse tipo de cinza é condensado das condenações do proprietário.</Desc>
-			<Item.FabaoSuffix>Powder</Item.FabaoSuffix>
+			<ThingName>Cinzas da Tribulação</ThingName>
+			<Desc>Uma espécie de cinzas especiais criadas por cultivadores mortos por tribulações. Diz-se que esse tipo de cinza é condensado das condenações do proprietário.</Desc>
+			<Item.FabaoSuffix>Pó</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>

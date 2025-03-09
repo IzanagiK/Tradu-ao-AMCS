@@ -1,113 +1,113 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Dan_BasePracticeDrug">
-			<DisplayName>Forming Pill</DisplayName>
+			<DisplayName>Pílula de Formação</DisplayName>
 			<Desc>Desbloqueie o potencial do seu corpo, aumentando temporariamente Percepção, Constituição e Inteligência em 30% cada.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_JingYuan">
-			<DisplayName>Stamina Pill</DisplayName>
-			<Desc>Ao consumir a Pílula de Vigor, a capacidade do corpo de gerar Vigor é melhorada em 7 dias, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor..</Desc>
+			<DisplayName>Pílula de Vigor</DisplayName>
+			<Desc>Ao consumir a Pílula de Vigor, a capacidade do corpo de gerar Vigor é melhorada em 7 dias, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_JingYuan2">
-			<DisplayName>Ginseng Pill</DisplayName>
+			<DisplayName>Pílula de Ginseng</DisplayName>
 			<Desc>Ao consumir a Pílula de Ginseng, a capacidade do corpo de gerar Vigor é melhorada em 14 dias, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_JingYuan3">
-			<DisplayName>Resin Essence Powder</DisplayName>
+			<DisplayName>Pó de Essência de Resina</DisplayName>
 			<Desc>Ao consumir o Pó de Essência de Resina, a capacidade do corpo de gerar Vigor é melhorada em 28 dias, aumentando a Taxa de Consumo de Fome e a Taxa de Conversão de Vigor.</Desc>
 		</Text>
 		<Text Name="Dan_Ling1">
-			<DisplayName>Qi Regen Pill</DisplayName>
+			<DisplayName>Pílula de Regeneração de Qi</DisplayName>
 			<Desc>Aumenta a taxa de recuperação de Qi em 2.000%.</Desc>
 		</Text>
 		<Text Name="Dan_Ling2">
-			<DisplayName>Sun Pill</DisplayName>
+			<DisplayName>Pílula do Sol</DisplayName>
 		</Text>
 		<Text Name="Dan_Ling3">
-			<DisplayName>Divine Powder</DisplayName>
+			<DisplayName>Pó Divino</DisplayName>
 			<Desc>Aumenta o Qi Máximo em 100.000.</Desc>
 		</Text>
 		<Text Name="Dan_Defense">
-			<DisplayName>Shield Pill</DisplayName>
+			<DisplayName>Pílula de Escudo</DisplayName>
 			<Desc>Aumenta sua força base de proteção em 30%.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBaseFromLife">
-			<DisplayName>Pill of the Five Clingings</DisplayName>
+			<DisplayName>Pílula dos Cinco Envolvimentos</DisplayName>
 		</Text>
 		<Text Name="Dan_FiveBase1">
-			<DisplayName>Heavenly Pill</DisplayName>
+			<DisplayName>Pílula Celestial</DisplayName>
 			<Desc>Aumenta a Percepção em 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase2">
-			<DisplayName>Earthly Pill</DisplayName>
+			<DisplayName>Pílula Terrestre</DisplayName>
 			<Desc>Aumenta Constituição em 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase3">
-			<DisplayName>Ether Pill</DisplayName>
+			<DisplayName>Pílula do Éter</DisplayName>
 			<Desc>Carisma aumenta 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase4">
-			<DisplayName>Wisdom Pill</DisplayName>
+			<DisplayName>Pílula da Sabedoria</DisplayName>
 			<Desc>Aumenta a Inteligência em 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase5">
-			<DisplayName>Blessed Pill</DisplayName>
+			<DisplayName>Pílula Abençoada</DisplayName>
 			<Desc>Aumenta a Sorte em 30% por 48 horas.</Desc>
 		</Text>
 		<Text Name="Dan_PracticeRate">
-			<DisplayName>Increases the chance of successfully breakthroughing.</DisplayName>
+			<DisplayName>Aumenta a chance de sucesso no avanço.</DisplayName>
 		</Text>
 		<Text Name="Dan_PracticeSpeed">
-			<DisplayName>Increases Cultivation speed (Yellowbud).</DisplayName>
+			<DisplayName>Aumenta a velocidade de Cultivo (Broto Amarelo).</DisplayName>
 		</Text>
 		<Text Name="Dan_HundredRefine">
-			<DisplayName>Increases Cultivation speed (Samsara).</DisplayName>
+			<DisplayName>Aumenta a velocidade de Cultivo (Samsara).</DisplayName>
 		</Text>
 		<Text Name="Dan_CalmDown">
-			<DisplayName>Purity Pill</DisplayName>
+			<DisplayName>Pílula da Pureza</DisplayName>
 			<Desc>O consumo da Pílula da Pureza acalmará o Estado Mental até certo ponto e reduzirá a flutuação do humor em um dia.</Desc>
 		</Text>
 		<Text Name="Dan_Happiness">
-			<DisplayName>Euphoria Pill</DisplayName>
-			<Desc>O consumo da Euphoria Pill vai mergulhar a pessoa na felicidade em dois dias, mas atrapalha muito a eficiência do trabalho.</Desc>
+			<DisplayName>Pílula da Euforia</DisplayName>
+			<Desc>O consumo da Pílula da Euforia vai mergulhar a pessoa na felicidade em dois dias, mas atrapalha muito a eficiência do trabalho.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger">
-			<DisplayName>Inedia Pill</DisplayName>
+			<DisplayName>Pílula de Inedia</DisplayName>
 			<Desc>O consumo de Pílula de Inedia concede a habilidade de Absorção de Qi por dois dias, permitindo o reabastecimento automático da Fome.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger1">
-			<DisplayName>Nourish Pill</DisplayName>
-			<Desc>O consumo da pílula de nutrição diminui as taxas de fome e fadiga em dois dias.</Desc>
+			<DisplayName>Pílula de Nutrição</DisplayName>
+			<Desc>O consumo da Pílula de Nutrição diminui as taxas de fome e fadiga em dois dias.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger2">
-			<DisplayName>Fasting Pill</DisplayName>
+			<DisplayName>Pílula de Jejum</DisplayName>
 			<Desc>O consumo de pílula de jejum diminuirá significativamente a velocidade com que se consome comida e água.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger3">
-			<DisplayName>Qi Fasting Pill</DisplayName>
-			<Desc>O consumo de Qi Fasting Pill diminuirá significativamente a velocidade com que se consome comida e água.</Desc>
+			<DisplayName>Pílula de Jejum de Qi</DisplayName>
+			<Desc>O consumo de Pílula de Jejum de Qi diminuirá significativamente a velocidade com que se consome comida e água.</Desc>
 		</Text>
 		<Text Name="Dan_LostSoul">
-			<DisplayName>Sedation Pill</DisplayName>
+			<DisplayName>Pílula de Sedação</DisplayName>
 			<Desc>Pílula mineral muito básica. Consumir esta pílula fará com que a função cerebral seja reprimida e caia em coma por 3 dias inteiros.</Desc>
 		</Text>
 		<Text Name="Dan_IncreaseLife1">
-			<DisplayName>Life Pill</DisplayName>
+			<DisplayName>Pílula da Vida</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife2">
-			<DisplayName>Vitata Elixir</DisplayName>
+			<DisplayName>Elixir de Vitata</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife3">
-			<DisplayName>Eternity Pill</DisplayName>
+			<DisplayName>Pílula da Eternidade</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife4">
-			<DisplayName>Regen Pill</DisplayName>
+			<DisplayName>Pílula de Regeneração</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife5">
-			<DisplayName>Morrow Pill</DisplayName>
+			<DisplayName>Pílula do Amanhã</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife6">
-			<DisplayName>Life Spring</DisplayName>
+			<DisplayName>Fonte da Vida</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife7">
 			<DisplayName>Lingzhi</DisplayName>
@@ -116,163 +116,163 @@
 			<DisplayName>Ganoderma</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_Anodyne">
-			<DisplayName>Painkiller</DisplayName>
+			<DisplayName>Analgésico</DisplayName>
 			<Desc>Aliviar a dor. Seu efeito durará cerca de 5 dias.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Mint">
-			<DisplayName>Purity Leaf</DisplayName>
+			<DisplayName>Folha de Pureza</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence">
-			<DisplayName>Earth Flux</DisplayName>
+			<DisplayName>Fluxo Terrestre</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_SanHuaHuangJing">
-			<DisplayName>Trimerous Essence</DisplayName>
+			<DisplayName>Essência Trimerosa</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence1">
-			<DisplayName>Wicked Flux</DisplayName>
+			<DisplayName>Fluxo Maligno</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence_1">
-			<DisplayName>Holy Essence</DisplayName>
+			<DisplayName>Essência Sagrada</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence1_1">
-			<DisplayName>Evil Essence</DisplayName>
+			<DisplayName>Essência Maligna</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_Ginseng">
 			<DisplayName>Ginseng</DisplayName>
 			<Desc>Melhora a resiliência natural por um curto período de tempo.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_RedGinseng">
-			<DisplayName>Red Ginseng</DisplayName>
+			<DisplayName>Ginseng Vermelho</DisplayName>
 			<Desc>Melhora significativamente a resiliência natural por um curto período de tempo.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_RedGinseng1">
-			<DisplayName>Red Ginseng (Fruit)</DisplayName>
-			<Desc>Increases Max Qi.</Desc>
+			<DisplayName>Ginseng Vermelho (Fruta)</DisplayName>
+			<Desc>Aumenta o Qi Máximo.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Laxative">
-			<DisplayName>Laxative Pill</DisplayName>
+			<DisplayName>Pílula Laxante</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_Laxative1">
-			<DisplayName>Weakening</DisplayName>
+			<DisplayName>Enfraquecimento</DisplayName>
 			<Desc>Depois de tomar a Pílula Laxante, a pessoa fica consideravelmente enfraquecida e tem uma eficiência de trabalho muito baixa.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_LongXianGuo">
-			<DisplayName>Amber Fruit</DisplayName>
+			<DisplayName>Fruta Âmbar</DisplayName>
 			<Desc>Ao consumir a fruta âmbar, a pessoa se torna imune à fome e à fadiga em meio dia.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_LingWater">
-			<DisplayName>Spirit Dew</DisplayName>
-			<Desc>O consumo de Spirit Dew melhorará muito a taxa de recuperação de um ferimento por um curto período de tempo.</Desc>
+			<DisplayName>Orvalho Espiritual</DisplayName>
+			<Desc>O consumo de Orvalho Espiritual melhorará muito a taxa de recuperação de um ferimento por um curto período de tempo.</Desc>
 		</Text>
 		<Text Name="Dan_LingStone">
-			<DisplayName>Advanced Qi Resonance</DisplayName>
+			<DisplayName>Ressonância Avançada de Qi</DisplayName>
 			<Desc>Use a pedra espiritual no cultivo para ressoar com as energias do Qi, aumentando muito a Taxa de Recuperação do Qi e a Velocidade de Cultivo.</Desc>
 		</Text>
 		<Text Name="Dan_LingCrystal">
-			<DisplayName>Advanced Qi Resonance</DisplayName>
+			<DisplayName>Ressonância Avançada de Qi</DisplayName>
 			<Desc>Use o Cristal Espiritual no cultivo para ressoar profundamente com as energias do Qi, aumentando muito a Taxa de Recuperação do Qi e a Velocidade de Cultivo.</Desc>
 		</Text>
 		<Text Name="Dan_IncreaseNeckCountdown1">
-			<DisplayName>Harmony Pill</DisplayName>
+			<DisplayName>Pílula da Harmonia</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseNeckCountdown2">
-			<DisplayName>Justice Pill</DisplayName>
+			<DisplayName>Pílula da Justiça</DisplayName>
 		</Text>
 		<Text Name="Dan_Fail1">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>Pílula Lixo</DisplayName>
 			<Desc>Depois de tomar aquela estranha pílula de elixir, meu corpo de repente encolheu.</Desc>
 		</Text>
 		<Text Name="Dan_Fail2">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>Pílula Lixo</DisplayName>
 			<Desc>Depois de tomar aquela estranha pílula de elixir, meu corpo de repente aumentou.</Desc>
 		</Text>
 		<Text Name="Dan_Fail3">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>Pílula Lixo</DisplayName>
 		</Text>
 		<Text Name="Dan_Fail4">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>Pílula Lixo</DisplayName>
 		</Text>
 		<Text Name="Dan_Fail5">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>Pílula Lixo</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul1">
-			<DisplayName>Anguish Pill</DisplayName>
+			<DisplayName>Pílula da Angústia</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul2">
-			<DisplayName>Soulrend Pill</DisplayName>
+			<DisplayName>Pílula Dilacera-Alma</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul3">
-			<DisplayName>Serene Pill</DisplayName>
+			<DisplayName>Pílula Sereno</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul4">
-			<DisplayName>Scorch Pill</DisplayName>
+			<DisplayName>Pílula Ardente</DisplayName>
 			<Desc>Consuma parte de sua vida útil para ganhar inteligência soberba por 2 horas, mas isso deixará danos permanentes à inteligência depois.</Desc>
 		</Text>
 		<Text Name="Dan_Soul4_D">
-			<DisplayName>Scorch Pill Negative</DisplayName>
+			<DisplayName>Pílula Ardente Negativa</DisplayName>
 		</Text>
 		<Text Name="Dan_LunHui1">
-			<DisplayName>Touched</DisplayName>
+			<DisplayName>Tocado</DisplayName>
 			<Desc>Tocado por esta seção da memória de um mundo diferente.</Desc>
 		</Text>
 		<Text Name="Dan_XianBone">
-			<DisplayName>Divine Bones</DisplayName>
+			<DisplayName>Ossos Divinos</DisplayName>
 		</Text>
 		<Text Name="Dan_XianBoneBall">
 			<DisplayName>Sarira</DisplayName>
 		</Text>
 		<Text Name="Dan_LingYuanZhong">
-			<DisplayName>Spirit Seed (Consumable)</DisplayName>
+			<DisplayName>Semente Espiritual (Consumível)</DisplayName>
 		</Text>
 		<Text Name="Dan_LingYuanZhong_Equip">
-			<DisplayName>Spirit Seed (Equipment)</DisplayName>
+			<DisplayName>Semente Espiritual (Equipamento)</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_YuanHunLu">
-			<DisplayName>Holy Nectar</DisplayName>
+			<DisplayName>Néctar Sagrado</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_XieHunLu">
-			<DisplayName>Evil Nectar</DisplayName>
-			<Desc>Ao consumir o Nectar do Mal, a inteligência e a capacidade de aprendizado aumentam.</Desc>
+			<DisplayName>Néctar Maligno</DisplayName>
+			<Desc>Ao consumir o Néctar Maligno, a inteligência e a capacidade de aprendizado aumentam.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_XieHunLu1">
-			<DisplayName>Evil Nectar (Damage)</DisplayName>
+			<DisplayName>Néctar Maligno (Dano)</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_YanDaoGuo">
-			<DisplayName>Insight Fruit</DisplayName>
+			<DisplayName>Fruta da Percepção</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_QieDaoGuo">
-			<DisplayName>Impose Fruit</DisplayName>
+			<DisplayName>Fruta da Imposição</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_ZaoHuaYuLu">
-			<DisplayName>Fortune Nectar</DisplayName>
+			<DisplayName>Néctar da Fortuna</DisplayName>
 			<Desc>Ao consumir o Néctar da Fortuna, o Espírito Primordial de alguém entra em um estado de esquecimento.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_ZaoHuaYuLu1">
-			<DisplayName>Fortune Nectar Effects</DisplayName>
+			<DisplayName>Efeitos do Néctar da Fortuna</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_XianShiChongSheng">
-			<DisplayName>Rebirth of Divine Consciousness</DisplayName>
+			<DisplayName>Renascimento da Consciência Divina</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_XieShiChongSheng">
-			<DisplayName>Rebirth of Wicked Consciousness</DisplayName>
+			<DisplayName>Renascimento da Consciência Maligna</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_Boss_Meat">
-			<DisplayName>Divine Beast Flesh</DisplayName>
+			<DisplayName>Carne de Besta Divina</DisplayName>
 			<Desc>Aumenta muito o Max Qi e a vida útil.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_BossZhuLong_Meat">
-			<DisplayName>Primeval Flesh</DisplayName>
+			<DisplayName>Carne Primeva</DisplayName>
 			<Desc>Diminui a realização e aumenta a vida útil.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Dan_FabaoNumAdd">
-			<DisplayName>Increases number of Artifacts by 1.</DisplayName>
+			<DisplayName>Aumenta o número de Artefatos em 1.</DisplayName>
 			<Desc>Aumenta o número máximo de artefatos em 1.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_LieShenDan">
-			<DisplayName>Division Pill</DisplayName>
+			<DisplayName>Pílula de Divisão</DisplayName>
 		</Text>
 		<Text Name="Modifier_Dan_TiShen">
-			<DisplayName>Clone Pill</DisplayName>
+			<DisplayName>Pílula Clone</DisplayName>
 			<Desc>Permite escapar de um Leilão.</Desc>
 		</Text>
 	</List>

@@ -1,251 +1,251 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="SYS_LOST">
-			<DisplayName>Empty</DisplayName>
+			<DisplayName>Vazio</DisplayName>
 			<Desc>Uma construção perdida que ninguém reconhece. \n(Vazio)</Desc>
 		</Text>
 		<Text Name="RebornSelf">
-			<DisplayName>Reverie Rebirth</DisplayName>
-			<Desc>Técnica secreta única da Seita Taiyi. Usando a Soul Pearl como catalisador, esta técnica destrói o próprio cultivo e queima seu Golden Core. Assim, o caminho da criação é invertido e a pessoa será reencarnada como mortal.</Desc>
+			<DisplayName>Rebirth da Reverie</DisplayName>
+			<Desc>Técnica secreta única da Seita Taiyi. Usando a Pérola da Alma como catalisador, esta técnica destrói o próprio cultivo e queima seu Núcleo Dourado. Assim, o caminho da criação é invertido e a pessoa será reencarnada como mortal.</Desc>
 		</Text>
 		<Text Name="JieHuiDaoPowerUp">
-			<DisplayName>Tao Refinement</DisplayName>
-			<Desc>Consuma um Tribulation Ashe e use em um item, concedendo uma chance de aumentar o nível do item em 1.</Desc>
+			<DisplayName>Aperfeiçoamento do Tao</DisplayName>
+			<Desc>Consuma [CUICOST] Cinzas de Tribulação e use em um item, concedendo uma chance de aumentar o nível do item em 1.</Desc>
 		</Text>
 		<Text Name="SoulCrystalYouPowerUp">
-			<DisplayName>Specter Refinement</DisplayName>
-			<Desc>Consuma uma Gema da Alma Angústia para usar em um item, com chance de aumentar o nível do item em 1.</Desc>
+			<DisplayName>Aperfeiçoamento do Espectro</DisplayName>
+			<Desc>Consuma [CUICOST] Gema da Alma Angústia para usar em um item, com chance de aumentar o nível do item em 1.</Desc>
 		</Text>
 		<Text Name="SoulCrystalLingPowerUp">
-			<DisplayName>Spiritual Refinement</DisplayName>
-			<Desc>Consuma uma Gema da Alma Espiritual para usar em um item, com a chance de aumentar a Taxa de Contenção de Qi do item (se o item for um artefato, aumenta a capacidade de Qi).</Desc>
+			<DisplayName>Aperfeiçoamento Espiritual</DisplayName>
+			<Desc>Consuma [CUICOST] Gema da Alma Espiritual para usar em um item, com a chance de aumentar a Taxa de Contenção de Qi do item (se o item for um artefato, aumenta a capacidade de Qi).</Desc>
 		</Text>
 		<Text Name="MakeSoulCrystal">
-			<DisplayName>Soul Chant</DisplayName>
+			<DisplayName>Cântico da Alma</DisplayName>
 			<Desc>Use em um personagem inculto, personagem moribundo ou espíritos sencientes para coletar sua joia da alma. Só pode ser usado uma vez em cada alvo.</Desc>
 		</Text>
 		<Text Name="MakePuppet">
-			<DisplayName>Soul Mastery</DisplayName>
+			<DisplayName>Mestre da Alma</DisplayName>
 			<Desc>Use no corpo morto para despertá-lo. O corpo desperto pode realizar trabalho físico simples, com qualidade relacionada ao seu estado de cultivo enquanto estava vivo. \n[color=#D06508]Cada cultivador só pode controlar um vaso.[/color]</Desc>
 		</Text>
 		<Text Name="BuidPuppet">
-			<DisplayName>Ensoulment</DisplayName>
+			<DisplayName>Dotação de Alma</DisplayName>
 			<Desc>Solte sobre um vaso para dotá-lo de alma. A embarcação com alma pode realizar trabalho físico simples, com qualidade relacionada ao seu nível quando trabalhada. \n[color=#D06508]Cada cultivador só pode controlar um vaso.[/color]</Desc>
 		</Text>
 		<Text Name="SeachSoul">
-			<DisplayName>Soul Inquiry</DisplayName>
+			<DisplayName>Inquérito da Alma</DisplayName>
 			<Desc>Use em um personagem moribundo e você terá uma certa chance de obter seu manual secreto ou outros conhecimentos. Realizá-lo em um local com Feng Shui maligno pode aumentar a chance de obter informações.</Desc>
 		</Text>
 		<Text Name="ClosedDoor">
-			<DisplayName>Meditation</DisplayName>
+			<DisplayName>Meditação</DisplayName>
 			<Desc>Entre em um estado meditativo para se auto-cultivar. Ele consumirá rapidamente a vida útil e a resistência de uma pessoa. Ganhe Cultivo rapidamente e aumenta o Qi máximo.</Desc>
 		</Text>
 		<Text Name="ClosedDoor_Gong1">
-			<DisplayName>Zen Reflection</DisplayName>
+			<DisplayName>Reflexão Zen</DisplayName>
 			<Desc>Método de meditação secreta registrado na Lei dos Dezesseis Passos Supremos. Visualize um espelho de água no reino espiritual para entrar no estado de meditação dentro da meditação, gerando rapidamente resistência ao consumir a vida útil. Nesse estado, o espírito do praticante entra no vazio. Como tal, até seus pensamentos são interrompidos; portanto, o Cultivo não é aumentado durante esse período.</Desc>
 		</Text>
 		<Text Name="ClosedDoor_Gong4">
-			<DisplayName>Astral Meditation</DisplayName>
+			<DisplayName>Meditação Astral</DisplayName>
 			<Desc>Método de meditação secreta registrado na Lei Imortal da Pureza de Jade, permitindo que o espírito viaje para o Reino Primordial no início do céu e da terra. É mais eficiente e custa menos tempo de vida em comparação com as técnicas regulares de meditação.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Aoe">
-			<DisplayName>Spiritual Breath Chant</DisplayName>
+			<DisplayName>Cântico do Sopro Espiritual</DisplayName>
 			<Desc>Vá para o local designado para absorver o Qi em seu ambiente.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Live">
-			<DisplayName>Way of the Reaper</DisplayName>
+			<DisplayName>Caminho do Ceifador</DisplayName>
 			<Desc>Use em um ser vivo sem experiência de cultivo, consumindo sua vida útil para aumentar seu Qi.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Body">
-			<DisplayName>Sanguine Absorption</DisplayName>
+			<DisplayName>Absorção Sanguínea</DisplayName>
 			<Desc>Transmute o sangue e a carne de um corpo para aumentar seu Qi.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Thing">
-			<DisplayName>One with Mountain</DisplayName>
+			<DisplayName>Um com a Montanha</DisplayName>
 			<Desc>Use em edifícios, plantas e minerais no mapa para absorver seu Qi. Quanto mais Qi o alvo possuir e quanto maior for o seu Qi máximo, mais rápida será a sua velocidade de absorção.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Item">
-			<DisplayName>Palm of Absorption</DisplayName>
+			<DisplayName>Palma da Absorção</DisplayName>
 			<Desc>Use em um item para absorver seu Qi para seu próprio uso.</Desc>
 		</Text>
 		<Text Name="Healing_Damage">
-			<DisplayName>Panacea</DisplayName>
+			<DisplayName>Panaceia</DisplayName>
 			<Desc>Coloque seu poder em movimento para curar as Lesões Internas de um alvo. O efeito de cura está relacionado com a quantidade de Qi do curador.</Desc>
 		</Text>
 		<Text Name="BuildBody">
-			<DisplayName>Reconstruction</DisplayName>
+			<DisplayName>Reconstrução</DisplayName>
 			<Desc>Regenera o membro de um alvo, reforjando todas as partes do corpo perdidas.</Desc>
 		</Text>
 		<Text Name="RobBodyLow">
-			<DisplayName>Yin God Possession</DisplayName>
+			<DisplayName>Possessão do Deus Yin</DisplayName>
 			<Desc>Técnica de processamento de baixo nível. Pegue o corpo de um ser vivo sem experiência de cultivo. No entanto, uma grande parte da experiência de cultivo do usuário será perdida, causando incompatibilidade de alma como resultado.</Desc>
 		</Text>
 		<Text Name="RobBodyHigh">
-			<DisplayName>Yang God Possession</DisplayName>
+			<DisplayName>Possessão do Deus Yang</DisplayName>
 			<Desc>Técnica avançada de posse. Apodere-se completamente do corpo de um ser vivo sem experiência de cultivo, mas a maior parte da experiência de cultivo do usuário será perdida.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_1">
-			<DisplayName>Qi Absorption Cauldron</DisplayName>
+			<DisplayName>Caldeirão de Absorção de Qi</DisplayName>
 			<Desc>Absorva o tempo de vida de um ser vivo sem experiência de cultivo, aumentando sua própria experiência de cultivo e inspiração. Mais eficaz em alvos com melhor físico.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_1_Gong9">
-			<DisplayName>Alleviation of Singularity</DisplayName>
+			<DisplayName>Alívio da Singularidade</DisplayName>
 			<Desc>Aproveite o poder dos seis reinos da existência para iniciar a magia de absorção do Caldeirão Interior, permitindo absorver com mais eficiência o tempo de vida de um ser vivo sem experiência de cultivo, aumentando sua própria experiência e ganhando inspiração. Mais eficaz em alvos com melhor físico.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_2">
-			<DisplayName>Alluring Illusion</DisplayName>
+			<DisplayName>Ilusão Atraente</DisplayName>
 			<Desc>Crie um reino ilusório para seduzir um ser vivo da mesma raça que o usuário sem experiência de cultivo do sexo oposto, absorvendo sua expectativa de vida para aumentar sua própria experiência e ganhando inspiração. Mais eficaz em alvos com maior Carisma.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_2_Gong7">
-			<DisplayName>Illusory Realm</DisplayName>
+			<DisplayName>Reino Ilusório</DisplayName>
 			<Desc>Crie um reino ilusório para seduzir um ser vivo da mesma raça que o usuário sem experiência de cultivo do sexo oposto, absorvendo sua expectativa de vida para aumentar sua própria experiência e ganhando inspiração. Mais eficaz em alvos com maior Carisma.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_3">
-			<DisplayName>Soul Snatcher</DisplayName>
+			<DisplayName>Captura de Alma</DisplayName>
 			<Desc>Pegue o corpo de um ser vivo sem experiência de cultivo, transmute e aproveite seu poder para aumentar sua própria experiência de cultivo enquanto ganha inspiração. Mais eficaz com alvos de Inteligência superior.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_3_Gong11">
-			<DisplayName>Nether Spirit Forging</DisplayName>
-			<Desc>Aproveite as forças do Nether para transmutar a alma de um ser vivo sem experiência de cultivo, aumentando assim a própria experiência e ganhando inspiração. Mais eficaz com alvos de Inteligência superior.</Desc>
+			<DisplayName>Forjamento do Espírito Infernal</DisplayName>
+			<Desc>Aproveite as forças do Inferno para transmutar a alma de um ser vivo sem experiência de cultivo, aumentando assim a própria experiência e ganhando inspiração. Mais eficaz com alvos de Inteligência superior.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_4">
-			<DisplayName>Refine Soul</DisplayName>
+			<DisplayName>Aperfeiçoar Alma</DisplayName>
 			<Desc>Realize torturas de fundição de alma em um ser vivo sem experiência de cultivo da mesma raça que o usuário, infligindo uma enorme dor neles. e tem grande prazer nisso.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_5">
-			<DisplayName>Exploitation of External Pleasures</DisplayName>
+			<DisplayName>Explotação de Prazeres Externos</DisplayName>
 			<Desc>Alveje um ser vivo sem experiência de cultivo da mesma raça que o usuário. Se o alvo estiver com humor extremo (barra de humor acima de 160 ou abaixo de 40), ganhe inspiração e experiência de cultivo com ele. Uma vez realizado o milagre, seu efeito persistirá indefinidamente. Quanto mais extremo for o Humor do alvo, mais forte será o efeito do milagre. \nPara cada alvo em que você o executa, o valor básico de seu próprio Estado Mental e Humor é reduzido, e seu alvo se torna mais propenso à raiva. Você pode parar de realizar o milagre reutilizando-o no mesmo alvo.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_6">
-			<DisplayName>Soul Infection</DisplayName>
+			<DisplayName>Infecção da Alma</DisplayName>
 			<Desc>Aprenda o Milagre: Infecção da Alma\nLibere um ser inculto do mesmo tipo que o seu, anexe um fio de seu espírito primordial a ele e converta a Fundação do alvo infectado em seu Cultivo e Inspiração de número equivalente todos os dias às 0:00. \nPara cada unidade que você infectar, sua mente será danificada e sua alma dividida, e o alvo ficará enfraquecido devido ao parasita. Você pode parar de realizar o milagre reutilizando-o no mesmo alvo.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_7">
-			<DisplayName>Sacrifice Offering</DisplayName>
+			<DisplayName>Oferta de Sacrifício</DisplayName>
 			<Desc>Ofereça um ser vivo sem experiência de cultivo da mesma raça que o usuário como sacrifício à alma demoníaca, que levará vários órgãos do sacrifício aleatoriamente e concederá ao usuário uma grande quantidade de experiência e inspiração em troca. Quanto mais fortes forem os Cinco Atributos do alvo, maiores serão os efeitos do sacrifício.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_8">
-			<DisplayName>Incantation of Mind Cleansing</DisplayName>
-			<Desc>Lance um feitiço e conceda um ser vivo sem experiência de cultivo da mesma raça que o usuário com um status de humor positivo.</Desc>
+			<DisplayName>Encantamento de Limpeza Mental</DisplayName>
+			<Desc>Lance um feitiço e conceda um ser vivo sem experiência de cultivo da mesma raça que o usuário com um estatus de humor positivo.</Desc>
 		</Text>
 		<Text Name="PlantGrowUp">
-			<DisplayName>Chant of Wood Mastery</DisplayName>
+			<DisplayName>Cântico da Maestria Vegetal</DisplayName>
 			<Desc>Concentre seu Qi primitivo e infunda-o em uma planta alvo, aumentando significativamente sua taxa de crescimento. Dura 1 dia. Menos eficaz em plantas de níveis mais altos. Este método é extremamente prejudicial ao seu Qi primitivo, use com cuidado.</Desc>
 		</Text>
 		<Text Name="PlantGrowUp_Gong1">
-			<DisplayName>Rainchant</DisplayName>
+			<DisplayName>Encantamento da Chuva</DisplayName>
 			<Desc>Estimula o Qi do céu e da terra e infunde-o na planta alvo, aumentando ligeiramente sua taxa de crescimento em 7 dias. Menos eficaz em plantas de níveis mais altos.</Desc>
 		</Text>
 		<Text Name="PlantGrowUp_Gong9">
-			<DisplayName>Botanic Revitalization</DisplayName>
+			<DisplayName>Revitalização Botânica</DisplayName>
 			<Desc>Utilizando Qi puro e refinado do elemento Madeira para vitalizar totalmente a força vital de uma planta, aumentando significativamente sua taxa de crescimento por 1 dia. Menos eficaz em plantas de níveis mais altos.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_9_1">
-			<DisplayName>Way of Celestial Heart</DisplayName>
+			<DisplayName>Caminho do Coração Celestial</DisplayName>
 			<Desc>Consuma 10 anos da vida útil do usuário para melhorar suas habilidades por um curto período de tempo e recuperar o Qi.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_9_2">
-			<DisplayName>Inner Demons Unchained</DisplayName>
+			<DisplayName>Demônios Internos Libertados</DisplayName>
 			<Desc>Consuma 10 anos da vida útil do usuário para melhorar suas habilidades por um curto período de tempo e recuperar o Qi.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_9_3">
-			<DisplayName>Incredible Force</DisplayName>
+			<DisplayName>Força Incrível</DisplayName>
 			<Desc>Consuma 10 anos da vida útil do usuário para melhorar suas habilidades por um curto período de tempo e recuperar o Qi.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_10">
-			<DisplayName>Wise Detachment</DisplayName>
+			<DisplayName>Desapego Sábio</DisplayName>
 			<Desc>Lança um feitiço em um ser vivo sem experiência de cultivo, removendo todo o seu estado de humor temporário.</Desc>
 		</Text>
 		<Text Name="LingStoneMake">
-			<DisplayName>Spirit Stone Refinement</DisplayName>
+			<DisplayName>Refinamento da Pedra Espiritual</DisplayName>
 			<Desc>Condense cada 5000 Qi em uma Pedra Espiritual. Este processo continuará indefinidamente até que você o interrompa ou haja Qi insuficiente.</Desc>
 		</Text>
 		<Text Name="LingCrystalMake">
-			<DisplayName>Spirit Crystal Refinement</DisplayName>
+			<DisplayName>Refinamento do Cristal Espiritual</DisplayName>
 			<Desc>Condense o Qi em Cristal Espiritual.</Desc>
 		</Text>
 		<Text Name="PrayForRain">
-			<DisplayName>Rainmaking</DisplayName>
+			<DisplayName>Fazendo Chuva</DisplayName>
 			<Desc>Traga uma chuva através do milagre. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.</Desc>
 		</Text>
 		<Text Name="PrayForSun">
-			<DisplayName>Chant of Cloud Dispelling</DisplayName>
+			<DisplayName>Cântico da Dissipação das Nuvens</DisplayName>
 			<Desc>Traga um clima ensolarado através do milagre. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.</Desc>
 		</Text>
 		<Text Name="PrayForRain_FeiHorse">
-			<DisplayName>Rain making(Fei)</DisplayName>
-			<Desc>Aperte Fei'talent e faça uma chuva.</Desc>
+			<DisplayName>Fazendo Chuva (Fei)</DisplayName>
+			<Desc>Aperte o talento de Fei e faça uma chuva.</Desc>
 		</Text>
 		<Text Name="PrayForSun_LuShuHorse">
-			<DisplayName>Cloud Dispelling(LuShu)</DisplayName>
+			<DisplayName>Dissipação das Nuvens (LuShu)</DisplayName>
 			<Desc>Pressione o talento de Lushu e dissipe as nuvens.</Desc>
 		</Text>
 		<Text Name="PrayForRainstorm">
-			<DisplayName>Rainstorm</DisplayName>
+			<DisplayName>Tempestade de Chuva</DisplayName>
 			<Desc>Traga uma tempestade através do milagre no inverno e no verão. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.</Desc>
 		</Text>
 		<Text Name="PrayForZhenShuiJieJie_Gong1">
-			<DisplayName>Qi Aquasphere</DisplayName>
+			<DisplayName>Esfera Aquática de Qi</DisplayName>
 			<Desc>Utilize um grande poder mágico para colocar um campo d'água dentro da área designada, diminuindo significativamente a temperatura do ambiente. Aumenta significativamente a resiliência natural e a taxa de recuperação de Qi de todos os personagens amigáveis. Apenas um campo pode existir em um determinado momento.</Desc>
 		</Text>
 		<Text Name="PrayForFohn">
-			<DisplayName>Foehn Wind</DisplayName>
+			<DisplayName>Vento Foehn</DisplayName>
 			<Desc>Convoque uma rajada de vento foehn através do milagre no verão e no outono. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.</Desc>
 		</Text>
 		<Text Name="PrayForZhenHuoJieJie_Gong10">
-			<DisplayName>Qi Ignosphere</DisplayName>
+			<DisplayName>Esfera de Ignis de Qi</DisplayName>
 			<Desc>Utilize um grande poder mágico para colocar um campo em chamas na área designada, aumentando significativamente a temperatura do ambiente. Aumenta significativamente o Poder Mágico de todos os personagens aliados. Apenas um campo pode existir em um determinado momento.</Desc>
 		</Text>
 		<Text Name="PrayForDustStorm">
-			<DisplayName>Dust Devil</DisplayName>
-			<Desc>Bring about a sandstorm through miracle in winter and spring. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.</Desc>
+			<DisplayName>Diabo da Poeira</DisplayName>
+			<Desc>Traga uma tempestade de areia através do milagre no inverno e na primavera. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.</Desc>
 		</Text>
 		<Text Name="PrayForMiasma">
-			<DisplayName>Toxic Miasma</DisplayName>
+			<DisplayName>Miasma Tóxico</DisplayName>
 			<Desc>Traga uma nuvem de miasma através do milagre na primavera e no verão. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.</Desc>
 		</Text>
 		<Text Name="PrayForLightningStorm">
-			<DisplayName>Thunderstorm</DisplayName>
+			<DisplayName>Tempestade Elétrica</DisplayName>
 			<Desc>Traga uma tempestade através do milagre no verão e no outono. No entanto, esse curso de ação interfere nos caminhos do céu e diminuirá a vida útil da pessoa.</Desc>
 		</Text>
 		<Text Name="PrayForBeiDouJianJie_Gong8">
-			<DisplayName>Grand Chariot Bladezone</DisplayName>
+			<DisplayName>Zona de Espadas do Grande Carro</DisplayName>
 			<Desc>Utilize um grande poder mágico para colocar um campo de espadas na área designada, aumentando significativamente o poder dos artefatos para todos os personagens amigáveis. Apenas um campo pode existir em um determinado momento.</Desc>
 		</Text>
 		<Text Name="Healing_Physique">
-			<DisplayName>Resilient</DisplayName>
+			<DisplayName>Resiliente</DisplayName>
 			<Desc>Consuma 60 anos de vida e uma grande quantidade de Qi para realizar uma limpeza completa para um ser vivo sem experiência de cultivo, aumentando sua Constituição em pelo menos 20%. Quanto menor o valor inicial, maior será o efeito. Só pode ser executado uma vez em um alvo durante sua vida útil.</Desc>
 		</Text>
 		<Text Name="Healing_Intelligence">
-			<DisplayName>Enlightened</DisplayName>
+			<DisplayName>Iluminado</DisplayName>
 			<Desc>Consuma 60 anos de vida e uma grande quantidade de Qi para iluminar completamente um ser vivo sem experiência de cultivo, aumentando sua Inteligência em pelo menos 20%. Quanto menor o valor inicial, maior será o efeito. Só pode ser executado uma vez em um alvo durante sua vida útil.</Desc>
 		</Text>
 		<Text Name="Healing_Charisma">
-			<DisplayName>Charismatic</DisplayName>
+			<DisplayName>Carismático</DisplayName>
 			<Desc>Consuma 60 anos de vida e uma grande quantidade de Qi para reconstruir o corpo e o espírito de um ser vivo sem experiência de cultivo, aumentando seu Carisma em pelo menos 20%. Quanto menor o valor inicial, maior será o efeito. Só pode ser executado uma vez em um alvo durante sua vida útil.</Desc>
 		</Text>
 		<Text Name="Healing_Perception">
-			<DisplayName>Perceptive</DisplayName>
+			<DisplayName>Perceptivo</DisplayName>
 			<Desc>Consuma 60 anos de vida e uma grande quantidade de Qi para ativar o Terceiro Olho em um ser vivo sem experiência de cultivo, aumentando sua Percepção em pelo menos 20%. Quanto menor o valor inicial, maior será o efeito. Só pode ser executado uma vez em um alvo durante sua vida útil.</Desc>
 		</Text>
 		<Text Name="Magic_Plant_Pee">
-			<DisplayName>Irrigate</DisplayName>
+			<DisplayName>Irrigar</DisplayName>
 			<Desc>Regue as plantas e faça-as amadurecer mais rápido. Apenas utilizável através do comportamento de um animal de estimação, não pode ser usado manualmente.</Desc>
 		</Text>
 		<Text Name="Magic_Healing_LingShou">
-			<DisplayName>Panacea</DisplayName>
+			<DisplayName>Panaceia</DisplayName>
 			<Desc>Cura os ferimentos internos de um discípulo. Apenas utilizável através do comportamento de um animal de estimação, não pode ser usado manualmente.</Desc>
 		</Text>
 		<Text Name="Magic_Healing_Hot">
-			<DisplayName>Chilly Wind</DisplayName>
+			<DisplayName>Vento Frio</DisplayName>
 			<Desc>Cura o golpe de calor de um discípulo. Apenas utilizável através do comportamento de um animal de estimação, não pode ser usado manualmente.</Desc>
 		</Text>
 		<Text Name="Magic_Healing_Freeze">
-			<DisplayName>Furnace Spell</DisplayName>
+			<DisplayName>Feitiço da Fornalha</DisplayName>
 			<Desc>Cura o congelamento de um discípulo. Apenas utilizável através do comportamento de um animal de estimação, não pode ser usado manualmente.</Desc>
 		</Text>
 		<Text Name="Magic_ClearElixirGas">
-			<DisplayName>Five Qi Dispel</DisplayName>
+			<DisplayName>Dispersão dos Cinco Qi</DisplayName>
 			<Desc>Limpe todo o Qi de Alquimia aqui.</Desc>
 		</Text>
 	</List>

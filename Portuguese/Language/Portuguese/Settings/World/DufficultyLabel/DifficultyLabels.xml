@@ -49,7 +49,7 @@
 		</Text>
 		<Text Name="BaseMood">
 			<DisplayName>Humor Base</DisplayName>
-			<Desc>O valor de humor base para personagens durante seu status padrão.</Desc>
+			<Desc>O valor de humor base para personagens durante seu estatus padrão.</Desc>
 			<Values.0.Name>Muito Alto</Values.0.Name>
 			<Values.0.Desc>2x Humor Base</Values.0.Desc>
 			<Values.1.Name>Alto</Values.1.Name>
