@@ -1,0 +1,58 @@
+Name	IsAddp	Level1	Level2	Level3	Level4	Desc
+属性名	Is it Addp?	Value 1	Value 2	Value 3	Value 4	Note: No logical meaning
+GlobalEfficiency						Overall Work Efficiency
+DrugProductSpeed						Healing Speed
+TreatmentExpectQuality						Healing
+CookingSpeed						Cooking Speed
+ButcherSpeed						Butchering Speed
+ButcherYieldEfficiency						Butchering Yield
+StoneWorkSpeed						Stoneworking Speed
+ConstructionSpeed						Building Speed
+PlantWorkSpeed						Farming Speed
+PlantHarvestSpeed						Harvesting Speed
+PlantHarvestYieldEfficiency						Harvest Yield
+MiningSpeed						Mining Speed
+MiningYieldEfficiency						Mining Yield
+MadeQualityAddValue						Crafting Quality Gains
+SmithingSpeed						Forging Speed
+HandworkSpeed						Handicraft Speed
+TailoringSpeed						Sewing Speed
+CuttingSpeed						Cutting Speed
+DisasterFightingSpeed						Firefighting Speed
+CleanSpeed						Cleaning Speed
+BaseEmotionAddV						base Mood value
+MoveSpeed						Move Speed
+ToleranceTMin						Lowest Temperature Tolerance
+ToleranceTMax						Highest Temperature Tolerance
+RecoveryPower						Natural Resilience
+PainTolerance						Pain Tolerance
+IntelligenceSkillEXPConstant						Learning Speed
+NightmareHappenPercent						Nightmare Occurring Chance
+NiceDreamHappenPercent						Sweetdream Occurring Chance
+FatigueConsumeConstant						Energy Consumption Rate Bonus
+FatigueRecoveryConstant						Energy Replenishment Bonus
+NutritionConsumeConstant						Food Consumption Rate Bonus
+NutritionRecoveryConstant						Food Replenishment Bonus
+WaterConsumeConstant						Water Consumption Rate Bonus
+WaterRecoveryConstant						Water Replenishment Bonus
+HappyConsumeConstant						Recreation Consumption Rate Bonus
+HappyRecoveryConstant						Recreation Replenishment Bonus
+PracticeFoodConsumeConstant						Stamina Refinement Speed Bonus
+PracticeFoodRecoveryConstant						Stamina Replenishment Bonus
+PotentialOfBasepracticeAddValue						Potential Bonus
+DeepPracticeSpeedSpecialCoefficient						Cultivation Speed Bonus
+MindStateBaseValue						Mental State Bonus
+InspirationCoefficient						Chance of Insight
+FabaoMake_SpeedAddV						Artifact Crafting Speed Bonus
+FabaoMake_SuccessRateAddV						Artifact Crafting Success Rate Bonus
+FabaoMake_LingInheritRateAddV						Artifact Crafting Grade Bonus
+FabaoMake_QualityAddV						Artifact Crafting Quality Bonus
+FabaoMake_TwelveRateChance						Grand Artifacts Chance Bonus
+DanMake_SpeedAddV						Alchemy Speed Bonus
+DanMake_SuccessRateAddV						Alchemy Success Rate Bonus
+DanMake_YieldAddP						Alchemy Yield Bonus
+PracticeRateAddPFromDan						Breakthrough Chance Bonus
+WorldMapFlySpeedAddP						Adventuring Flying Speed
+AbilityLvAddV						Attainment Bonus
+NpcFight_BaseHitChance						Accuracy in Battles
+NpcFight_BaseDodgeChance						Dodge in Battles

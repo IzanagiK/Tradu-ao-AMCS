@@ -58,7 +58,7 @@
 			<DisplayName>Fraturado</DisplayName>
 		</Text>
 		<Text Name="Fracture4">
-			<DisplayName>Pulverizado</DisplayName>
+			<DisplayName>Fragmentado</DisplayName>
 		</Text>
 		<Text Name="Fabao_CutOff">
 			<DisplayName>Cortado</DisplayName>
@@ -118,13 +118,13 @@
 			<DisplayName>Infecção</DisplayName>
 		</Text>
 		<Text Name="Cut1">
-			<DisplayName>Corte (Leve)</DisplayName>
+			<DisplayName>Divisão (Leveira)</DisplayName>
 		</Text>
 		<Text Name="Cut2">
-			<DisplayName>Corte (Normal)</DisplayName>
+			<DisplayName>Divisão (Normal)</DisplayName>
 		</Text>
 		<Text Name="Cut3">
-			<DisplayName>Corte (Sério)</DisplayName>
+			<DisplayName>Divisão (Séria)</DisplayName>
 		</Text>
 		<Text Name="Puncture">
 			<DisplayName>Puncionado</DisplayName>
@@ -142,7 +142,7 @@
 			<DisplayName>Estilhaçado</DisplayName>
 		</Text>
 		<Text Name="VisceralCut">
-			<DisplayName>Corte</DisplayName>
+			<DisplayName>Divisão</DisplayName>
 		</Text>
 		<Text Name="Destroy">
 			<DisplayName>Destruição</DisplayName>

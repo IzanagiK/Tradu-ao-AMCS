@@ -85,7 +85,7 @@
 		</Text>
 		<Text Name="Item_SysSickle" sParam="Item">
 			<ThingName>Ferramenta Agrícola</ThingName>
-			<Desc>Um conjunto de ferramentas agrícolas pode aumentar enormemente sua velocidade de cultivo e de colheita.</Desc>
+			<Desc>Um conjunto de ferramentas de cultivo que aumenta consideravelmente a velocidade de plantio e colheita.</Desc>
 			<Item.FabaoSuffix>Enxada</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SysAcupuncture" sParam="Item">
@@ -395,11 +395,18 @@
 			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_ChunYangWuJiGong" sParam="Item">
-			<ThingName>Habilidade Pure Yang Wuji</ThingName>
-			<Desc>O segredo não revelado da Seita Wudang, é o seu método de habilidade interna mais elevado. Este livro secreto tem dois métodos de refinamento: a prática correta pode aumentar fundamentalmente o limite superior da energia espiritual, e a prática reversa pode reduzir o Taoísmo, mas causará ferimentos internos no Dantian. Os praticantes podem escolher um para praticar.</Desc>
-			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
+			<ThingName>Lei Suprema do Yang Puro</ThingName>
+			<Desc>A arte esotérica da Seita Wudang é sua técnica interna mais avançada. Este manual oferece dois métodos de prática: o método ortodoxo aumenta fundamentalmente o limite de Qi, enquanto o método reverso reduz o alcance, mas causa desordem dentro do Dantian. Os cultivadores podem escolher um para praticar.</Desc>
+			<Item.FabaoSuffix>Livro</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Inspiração</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Compreender o livro secreto</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Manual de Estudo</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_SupplyBox" sParam="Item">
+			<ThingName>Caixa de Suprimentos</ThingName>
+			<Desc>Um presente do Dao Celestial!</Desc>
+			<Item.FabaoSuffix>Caixa</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Abrir</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tente abrir este baú</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

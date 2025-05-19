@@ -216,10 +216,10 @@
 				[img]ui/Help_en/018[/img]]]></Text>
 		</Help>
 		<Help Name="36" Root="3">
-			<Title>Planejamento de Área</Title>
+			<Title>Planejamento de Area</Title>
 			<Text><![CDATA[
 				À medida que o jogo avança, você pode planejar três tipos de áreas, incluindo depósitos, campos e jardins de ervas.
-				[color=#9e6404]Área de armazenamento[/color]
+				[color=#9e6404]Area de armazenamento[/color]
 				[img]ui\Help2_pt\021[/img]
 				Depois que uma área de armazenamento for planejada, os personagens responsáveis pelo transporte moverão qualquer item que atenda aos requisitos de armazenamento para a área de armazenamento.
 				Você pode selecionar uma área de armazenamento e definir suas regras de filtro, que podem classificar os itens em diferentes categorias e torná-los mais fáceis de encontrar.
@@ -520,8 +520,8 @@
 				Um discípulo interno pode ser designado como líder de seita ou líder de ramo.
 				Diferentes posições exigem diferentes níveis de habilidade. Por exemplo, o ramo de alquimia requer habilidades adequadas de alquimia, enquanto o ramo de criação requer habilidades adequadas de criação de artefatos.
 				Um discípulo com melhores habilidades terá melhor desempenho na posição.
-			[color=#9e6404]2. Área de Filial[/color]
-				Você pode planejar uma área em 'Área de Ramificação' da guia de área no menu de construção.
+			[color=#9e6404]2. Area de Filial[/color]
+				Você pode planejar uma área em 'Area de Ramificação' da guia de área no menu de construção.
 				Após o planejamento de uma área, você pode atribuir essa área a uma filial específica.
 				Um discípulo sob o ramo terá um bônus de estatísticas enquanto estiver nesta área.
 			[color=#9e6404]3. Pressão, Distração e Habilidade do Líder da Seita[/color]
@@ -531,7 +531,7 @@
 			[color=#9e6404]4. Experiência de Filial e Habilidade do Líder de Filial[/color]
 				Depois que uma seita tiver um ramo com uma especialização selecionada, os discípulos sob este ramo terão um bônus de estatísticas em relação à habilidade do líder do ramo.
 				Os discípulos do ramo podem ter dois tipos de bônus de estatísticas.
-					1. Bônus de Área: Concedido apenas em uma área atribuída à filial.
+					1. Bônus de Area: Concedido apenas em uma área atribuída à filial.
 					2. Bônus Normal: Concedido enquanto o discípulo estiver sob este ramo.
 			[color=#9e6404]5. Aposentadoria e Fadiga[/color] 
 				Quando dispensado de todos os deveres, um personagem experimentará uma fadiga duradoura.
@@ -701,8 +701,8 @@
 			<Title>Comércio da Seita</Title>
 			<Text><![CDATA[
 			Você pode caminhar com outras Seitas assim que estabelecer sua própria Seita.
-			[color=#9e6404]1. Área Comercial[/color]
-				Antes de negociar com NPC Sects, você deve planejar uma área de comércio. Apenas itens colocados em uma Área de Comércio podem ser vendidos para outras Seitas. Itens que você obtém através da negociação também aparecerão aqui.
+			[color=#9e6404]1. Area Comercial[/color]
+				Antes de negociar com NPC Sects, você deve planejar uma área de comércio. Apenas itens colocados em uma Area de Troca podem ser vendidos para outras Seitas. Itens que você obtém através da negociação também aparecerão aqui.
 			[color=#9e6404]2. Visite seu parceiro comercial[/color]
 				Você tem que fazer uma visita formal primeiro para negociar com uma Seita. Clique no ícone da Seita e clique em "Visitar" para fazê-lo. Os presentes devem ser preparados para formar uma parceria.
 			[color=#9e6404]3. Comércio[/color]
@@ -711,8 +711,8 @@
 				Alguns itens de alto nível exigem alta conexão entre sua seita e o parceiro comercial para estar disponível no comércio.
 			[color=#9e6404]5. Presente[/color]
 				Clique em "Give Gift" para dar itens a uma NPC Sect. Você pode completar Missões da Seita ou simplesmente atender às necessidades do Líder da Seita enviando presentes.
-			[color=#9e6404]6. Área restrita[/color]
-				As áreas coloridas em vermelho no mapa são restritas. Você pode comprar autorização para entrar nessas áreas negociando com as Seitas correspondentes. Personagem que entrar na Área Restrita com autorização será penalizado depois de um tempo.
+			[color=#9e6404]6. Area restrita[/color]
+				As áreas coloridas em vermelho no mapa são restritas. Você pode comprar autorização para entrar nessas áreas negociando com as Seitas correspondentes. Personagem que entrar na Area Restrita com autorização será penalizado depois de um tempo.
 			[color=#9e6404]7. Favoritos[/color]
 				Cada Líder da Seita tem seus presentes favoritos. Você ganhará Conexão e Favor de uma Seita depois de dar ao Líder da Seita seus itens Favoritos visitando e trocando. No entanto, um presente favorito funciona apenas na primeira vez que é dado.
 			[color=#9e6404]8. Aluguel de artefatos[/color]
@@ -760,7 +760,7 @@
 			[color=#9e6404]4. Eventos de política[/color]
 				Depois de selecionar uma Política para uma Agência, um Evento ocorrerá de vez em quando. Quando ocorrer um evento, você verá notificações coloridas em vermelho no lado esquerdo da tela e um ponto de exclamação vermelho no botão "Power" à direita. Os Eventos produzirão resultados diferentes dependendo da sua escolha.
 			[color=#9e6404]5. Despache mais discípulos externos[/color]
-				Você pode enviar mais discípulos externos para agências estabelecidas para um bônus de status para o agente. As estatísticas do agente afetarão as recompensas e os resultados dos eventos de política. Uma vez despachado, um discípulo Externo não poderá retornar à sua Seita.
+				Você pode enviar mais discípulos externos para agências estabelecidas para um bônus de estatus para o agente. As estatísticas do agente afetarão as recompensas e os resultados dos eventos de política. Uma vez despachado, um discípulo Externo não poderá retornar à sua Seita.
 			[color=#9e6404]6. Recrute Discípulos[/color]
 				Selecione Spirit Master Hall e clique em "Recruit" para recrutar discípulos. Você pode enviar o discípulo recrutado para sua Seita ou qualquer uma das Agências.
 			[color=#9e6404]7. Outras seitas[/color]
@@ -1163,7 +1163,7 @@
 			Comestível sensível: naturalmente possui alta capacidade de absorção de Qi e taxa de conversão de resistência.
 			Elixir Sentiente: Não haverá Tolerância à Medicina produzida na primeira vez que você tomar uma pílula.
 			Sentient Dark Soul Gem: Aumenta a taxa de sucesso de refinamento de espectro e refinamento espiritual em 100%.
-			Sentient Spirit Stone: Naturalmente possui uma quantidade maior de Base Qi.
+			Sentient Pedra Espiritual: Naturalmente possui uma quantidade maior de Base Qi.
 			Sentient Talisman: Permite o uso de um talismã adicional.
 			Sentient Gear: Aumenta o efeito do equipamento equipado em 100%.
 			Sentient Relic: Aumenta o efeito de Feng Shui Relics em 100%.

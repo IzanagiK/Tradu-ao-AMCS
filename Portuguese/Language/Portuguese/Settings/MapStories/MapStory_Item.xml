@@ -204,26 +204,34 @@
 			<Selections.10.Display>Esqueça, dedico minha fé ao Credo do Céu e nada busco em troca!</Selections.10.Display>
 		</Text>
 		<Text Name="Story_ZhuLongXuYuan_3">
-			<DisplayName>Desejar equipamentos requintados</DisplayName>
-			<Desc>Sob a influência dos caminhos celestiais do Outro Mundo, algumas mudanças temporárias também ocorreram nos caminhos celestiais deste mundo. Até o Torch Dragon, a manifestação da Regra do Yin e Yang, tem agido menos freneticamente do que antes, ao se interessar por uma espécie de disco de metal chamado "moedas" do Outromundo. Como esta moeda abrigou muitos desejos por roupas novas, o Torch Dragon pode aproveitar o poder do desejo para trazer a você a manifestação de um conjunto de equipamentos de proteção.</Desc>
-			<Selections.0.Display>Roupa que pode te ajudar na defesa</Selections.0.Display>
-			<Selections.1.Display>Roupa que pode te ajudar com feitiços</Selections.1.Display>
-			<Selections.2.Display>Roupa que pode te ajudar com criação\construção e psicocinese</Selections.2.Display>
-			<Selections.3.Display>Roupa que pode ajudá-lo a explorar os caminhos do Céu</Selections.3.Display>
-			<Selections.4.Display>Roupa que pode ajudá-lo a exorcizar demônios e manter uma mente tranquila</Selections.4.Display>
-			<Selections.5.Display>Saia que pode te ajudar na defesa</Selections.5.Display>
-			<Selections.6.Display>Saia que pode te ajudar com feitiços</Selections.6.Display>
-			<Selections.7.Display>Saia que pode ajudá-lo com criação\construção e psicocinese</Selections.7.Display>
-			<Selections.8.Display>Saia que pode ajudá-lo a explorar os caminhos do Céu</Selections.8.Display>
-			<Selections.9.Display>Saia que pode ajudá-lo a exorcizar demônios e manter uma mente tranquila</Selections.9.Display>
-			<Selections.10.Display>Esqueça, dedico minha fé ao Credo do Céu e nada busco em troca!</Selections.10.Display>
+			<DisplayName>Desejo por Equipamentos Exquisitos</DisplayName>
+			<Desc>Sob a influência dos caminhos celestiais do Outro Mundo, algumas mudanças temporárias também ocorreram nos caminhos celestiais deste mundo. Até mesmo o Dragão da Tocha, a manifestação da Regra do Yin e Yang, tem agido de forma menos frenética do que antes, pois ficou interessado em um tipo de disco metálico chamado "moedas" do Outro Mundo. Como essa moeda carregou muitos desejos por roupas novas, o Dragão da Tocha pode usar o poder do desejo nela para trazer a você uma manifestação de um conjunto de equipamentos de proteção.</Desc>
+			<Selections.0.Display>Roupa que pode ajudar com defesa</Selections.0.Display>
+			<Selections.1.Display>Roupa que pode ajudar com feitiços</Selections.1.Display>
+			<Selections.2.Display>Roupa que pode ajudar com artesanato e Psicocinese</Selections.2.Display>
+			<Selections.3.Display>Roupa que pode ajudar com a exploração dos caminhos do Céu</Selections.3.Display>
+			<Selections.4.Display>Roupa que pode ajudar a exorcizar demônios e manter a mente tranquila</Selections.4.Display>
+			<Selections.5.Display>Saia que pode ajudar com defesa</Selections.5.Display>
+			<Selections.6.Display>Saia que pode ajudar com feitiços</Selections.6.Display>
+			<Selections.7.Display>Saia que pode ajudar com artesanato e Psicocinese</Selections.7.Display>
+			<Selections.8.Display>Saia que pode ajudar com a exploração dos caminhos do Céu</Selections.8.Display>
+			<Selections.9.Display>Saia que pode ajudar a exorcizar demônios e manter a mente tranquila</Selections.9.Display>
+			<Selections.10.Display>Esqueça, eu dedico minha fé ao Credo do Céu e não busco nada em troca!</Selections.10.Display>
 		</Text>
 		<Text Name="Story_Item_ChunYangWuJiGong">
-			<DisplayName>Compreender o manual secreto</DisplayName>
+			<DisplayName>Manual de Estudo</DisplayName>
 			<Desc>Tente compreender este manual secreto.</Desc>
-			<Selections.0.Display>Prática normal</Selections.0.Display>
-			<Selections.1.Display>Prática reversa</Selections.1.Display>
-			<Selections.2.Display>Não importa</Selections.2.Display>
+			<Selections.0.Display>Cultivo Ortodoxo</Selections.0.Display>
+			<Selections.1.Display>Cultivo Reverso</Selections.1.Display>
+			<Selections.2.Display>Não</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_SupplyBox">
+			<DisplayName>Caixa de Suprimentos</DisplayName>
+			<Desc>Esta é uma caixa luminosa e excepcional.</Desc>
+			<Selections.0.Display>Abrir Cuidadosamente</Selections.0.Display>
+			<Selections.1.Display>Quebrar Diretamente</Selections.1.Display>
+			<Selections.2.Display>Abrir</Selections.2.Display>
+			<Selections.3.Display>Não</Selections.3.Display>
 		</Text>
 	</List>
 </Texts>

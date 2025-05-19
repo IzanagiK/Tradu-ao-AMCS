@@ -25,15 +25,15 @@
 			<Desc>[NAME] teve uma súbita epifania e pareceu ter encontrado uma maneira de fazer aquele avanço prolongado na Lei de cultivo de [ITS]. [IT] sentou-se apressadamente e rapidamente entrou em um estado de meditação.</Desc>
 		</Text>
 		<Text Name="Story_SoulSeach">
-			<DisplayName>Inquisição da Alma</DisplayName>
-			<Desc>[NAME] realizou uma Inquisição da Alma no cultivador moribundo, tentando salvar algumas informações úteis.</Desc>
+			<DisplayName>Busca da Alma</DisplayName>
+			<Desc>[NAME] realizou uma Busca da Alma no cultivador moribundo, tentando salvar algumas informações úteis.</Desc>
 		</Text>
 		<Text Name="Story_JiangDao">
 			<DisplayName>Epifania Súbita</DisplayName>
 			<Desc>[NAME] estava imerso na profundidade do Tao.</Desc>
 		</Text>
 		<Text Name="Story_TitleGold">
-			<DisplayName>Núcleo Dourado</DisplayName>
+			<DisplayName>Maturidade</DisplayName>
 			<Desc>Tendo alcançado o estado de cultivo de núcleo dourado, [NAME] recebeu um título dos colegas cultivadores.</Desc>
 		</Text>
 		<Text Name="Story_TitleRandom">
@@ -130,7 +130,7 @@
 			<DisplayName>Competição Amistosa</DisplayName>
 			<Desc>Peça aos discípulos para fazer uma competição amistosa aqui.</Desc>
 			<Selections.0.Display>Lutar</Selections.0.Display>
-			<Selections.1.Display>Deixa pra lá</Selections.1.Display>
+			<Selections.1.Display>Não</Selections.1.Display>
 		</Text>
 	</List>
 </Texts>

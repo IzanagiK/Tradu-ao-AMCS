@@ -1,14 +1,14 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="MainMenuEnv">
-			<Notes>Comentário sobre o Ambiente da UI do Menu Principal</Notes>
+			<Notes>Comentário sobre o Ambiente da Interface do Menu Principal</Notes>
 			<Title>Ambiente</Title>
-			<Desc>Ao escolher monstros, morada, relíquias para mudar o ambiente, torna o jogo diferente desde o início.</Desc>
+			<Desc>Escolher monstros, Moradia e Relíquias para alterar o ambiente torna o jogo diferente desde o início.</Desc>
 		</Text>
 		<Text Name="MainMenuImmortal">
-			<Notes>Comentário sobre o Modo Imortal da UI do Menu Principal</Notes>
-			<Title>Modo Imortal</Title>
-			<Desc>Aumente a dificuldade do jogo em algumas seleções. Também há uma variedade de desafios e conquistas.</Desc>
+			<Notes>Comentário sobre o Ambiente da Interface do Menu Principal</Notes>
+			<Title>Imortal</Title>
+			<Desc>Aumenta a dificuldade do jogo através de algumas seleções. Também há uma variedade de desafios e conquistas.</Desc>
 		</Text>
 	</List>
 </Texts>

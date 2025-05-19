@@ -106,11 +106,11 @@
 			<Desc>Cenário icônico da Seita Exultante, diz-se que incorporou segredos relativos aos caminhos da fortuna.</Desc>
 		</Text>
 		<Text Name="Building_YaoZuYiHai" sParam="Building">
-			<ThingName>Restos do Demônio Ancestral</ThingName>
+			<ThingName>Restos do Yaoguai Ancestral</ThingName>
 			<Desc>Cenário icônico do Templo Daemonia, diz-se que incorporou memórias do Demônio Ancestral.</Desc>
 		</Text>
 		<Text Name="Building_YaoZuYiHai_Our" sParam="Building">
-			<ThingName>Restos do Demônio Ancestral</ThingName>
+			<ThingName>Restos do Yaoguai Ancestral</ThingName>
 			<Desc>Cenário icônico do Templo Daemonia, diz-se que incorporou memórias do Demônio Ancestral.</Desc>
 		</Text>
 		<Text Name="Building_QiShi1" sParam="Building">
@@ -240,31 +240,31 @@
 			<ThingName>Camelthorn</ThingName>
 		</Text>
 		<Text Name="Building_ShiCheJu1" sParam="Building">
-			<ThingName>Centáurea</ThingName>
+			<ThingName>Flores de Centáurea</ThingName>
 		</Text>
 		<Text Name="Building_ShiCheJu2" sParam="Building">
-			<ThingName>Centáurea</ThingName>
+			<ThingName>Flores de Centáurea</ThingName>
 		</Text>
 		<Text Name="Building_ShiCheJu3" sParam="Building">
-			<ThingName>Centáurea</ThingName>
+			<ThingName>Flores de Centáurea</ThingName>
 		</Text>
 		<Text Name="Building_GuMu1" sParam="Building">
-			<ThingName>Stump Antigo</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu2" sParam="Building">
-			<ThingName>Stump Antigo</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu3" sParam="Building">
-			<ThingName>Stump Antigo</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu4" sParam="Building">
-			<ThingName>Stump Antigo</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu5" sParam="Building">
-			<ThingName>Stump Antigo</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_GuMu6" sParam="Building">
-			<ThingName>Stump Antigo</ThingName>
+			<ThingName>Tronco Antigo</ThingName>
 		</Text>
 		<Text Name="Building_ShangGuCanJi1" sParam="Building">
 			<ThingName>Ruínas Antigas</ThingName>
@@ -292,7 +292,7 @@
 		</Text>
 		<Text Name="Build_KunLunFang" sParam="Building">
 			<ThingName>Portão de Kunlun</ThingName>
-			<Desc>Um portão majestoso da sect.</Desc>
+			<Desc>Um portão majestoso da Seita.</Desc>
 			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Tente aprender o método de construção deste edifício.</StoryBnts.0.Desc>
 		</Text>

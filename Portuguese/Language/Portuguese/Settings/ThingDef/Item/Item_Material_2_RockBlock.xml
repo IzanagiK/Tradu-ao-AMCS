@@ -4,37 +4,37 @@
 			<Item.FabaoSuffix>Pedra, Selo, Estela, Jade Duplo, Tablet, Torre, Rocha</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BrownRockBlock" sParam="Item">
-			<ThingName>Tijolo de Arenito</ThingName>
+			<ThingName>Pedra Marrom (B)</ThingName>
 			<Desc>Tijolo muito comum feito de Arenito. Pode ser usado de forma mais eficaz na criação, mas sua atratividade é muito baixa.</Desc>
 			<Item.BeMaterial.NamePrefix>Arenito</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_GrayRockBlock" sParam="Item">
-			<ThingName>Tijolo de Pedra Cinza</ThingName>
+			<ThingName>Pedra Cinza (B)</ThingName>
 			<Desc>Tijolo feito de Pedra Cinza. Pode ser usado de forma mais eficaz na criação, mas sua atratividade é bastante média.</Desc>
 			<Item.BeMaterial.NamePrefix>Pedra Cinza</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_MarbleBlock" sParam="Item">
-			<ThingName>Tijolo de Mármore</ThingName>
+			<ThingName>Mármore (B)</ThingName>
 			<Desc>Tijolo feito de mármore. Pode ser usado de forma mais eficaz na criação. Sua textura é bastante atraente.</Desc>
 			<Item.BeMaterial.NamePrefix>Mármore</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_JadeBlock" sParam="Item">
-			<ThingName>Tijolo de Jade</ThingName>
+			<ThingName>Jade (B)</ThingName>
 			<Desc>Tijolo feito de Pedra Jade. Pode ser usado de forma mais eficaz na criação.</Desc>
 			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SkyStoneBlock" sParam="Item">
-			<ThingName>Tijolo de Pedra Sagrada</ThingName>
+			<ThingName>Pedra Sagrada (B)</ThingName>
 			<Desc>Tijolo feito de Pedra Sagrada. Pode ser usado de forma mais eficaz na criação.</Desc>
 			<Item.BeMaterial.NamePrefix>Pedra Sagrada</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingStoneBlock" sParam="Item">
-			<ThingName>Tijolo de Pedra Espiritual</ThingName>
+			<ThingName>Pedra Espiritual (B)</ThingName>
 			<Desc>Tijolo feito de Pedra Espiritual. Pode ser usado de forma mais eficaz na criação.</Desc>
 			<Item.BeMaterial.NamePrefix>Pedra Espiritual</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingCrystalBlock" sParam="Item">
-			<ThingName>Tijolo de Cristal Espiritual</ThingName>
+			<ThingName>Cristal Espiritual (B)</ThingName>
 			<Desc>Tijolo feito de Cristal Espiritual. Pode ser usado de forma mais eficaz na criação.</Desc>
 			<Item.BeMaterial.NamePrefix>Cristal Espiritual</Item.BeMaterial.NamePrefix>
 		</Text>

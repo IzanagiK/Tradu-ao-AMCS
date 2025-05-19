@@ -146,7 +146,7 @@
 		</Text>
 		<Text Name="Item_Dan_Defense" sParam="Item">
 			<ThingName>Pílula do Escudo</ThingName>
-			<Desc>Consumir para melhorar o Qi de Proteção Corporal por 24 horas.</Desc>
+			<Desc>Consuma para melhorar a barreira de Qi por 24 horas.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling3" sParam="Item">
 			<ThingName>Pó Divino</ThingName>
@@ -316,7 +316,7 @@
 			<Desc>Melhora o elemento Qi do Fogo, para que o animal possa obter uma compreensão mais profunda do verão e sentir seu pensamento correspondente.</Desc>
 		</Text>
 		<Text Name="Item_Earth_LingZhi" sParam="Item">
-			<ThingName>Pílula da Terra</ThingName>
+			<ThingName>Pílula Terrestre</ThingName>
 			<Desc>Melhora o elemento Qi da Terra, para que o animal possa obter uma compreensão mais profunda da terra e sentir seu pensamento correspondente.</Desc>
 		</Text>
 	</List>

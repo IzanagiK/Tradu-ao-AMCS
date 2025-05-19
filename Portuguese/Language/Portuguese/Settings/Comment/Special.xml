@@ -1,19 +1,24 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="SpecialZhen">
-			<Notes>Painel de Comentários sobre Formação</Notes>
+			<Notes>Painel de Comentário da Formação</Notes>
 			<Title>Formação</Title>
-			<Desc>Combine a força das pessoas em uma. Essa é a verdade sobre o caminho das formações.</Desc>
+			<Desc>Combine a força das pessoas em uma só. Essa é a verdade suprema sobre o caminho das formações.</Desc>
 		</Text>
 		<Text Name="SpecialElixirGas">
-			<Notes>Comentário sobre Alquimia Qi</Notes>
-			<Title>Alquimia Qi</Title>
-			<Desc>A Alquimia Qi na Seita</Desc>
+			<Notes>Comentário sobre o Qi da Alquimia</Notes>
+			<Title>Qi da Alquimia</Title>
+			<Desc>O Qi da Alquimia na Seita</Desc>
 		</Text>
 		<Text Name="SpecialSacrific">
 			<Notes>Comentário sobre Sacrifício Demoníaco</Notes>
 			<Title>Sacrifício Demoníaco</Title>
 			<Desc>Painel de Sacrifício Demoníaco</Desc>
+		</Text>
+		<Text Name="SpecialMutation">
+			<Notes>Painel para Comentários sobre o Caos Celestial</Notes>
+			<Title>Caos Celestial</Title>
+			<Desc>O Dao Celestial neste reino entrou em sua fase final, desestabilizando ainda mais as já caóticas leis celestiais.</Desc>
 		</Text>
 	</List>
 </Texts>

@@ -2,10 +2,10 @@
 		
 DisplayName	Name	Item Name
 Desc	Description	Item Description
-Element	Os cinco elementos	Estatísticas de cinco elementos do item
+Element	Cinco Elementos	Estatísticas de cinco elementos do item
 Rate	Camada	Nível do item
 Zhuji	Fundação	Fundação aumentada usando/consumindo este item. (Intervalo: 0-30.000) (Somente para discípulos externos)
-Fesistance	Resistência a medicamentos	Taxa de enfraquecimento dos efeitos medicinais do item devido a múltiplos usos. Tolerância a medicamentos de 1 significa que na próxima vez que o item for usado, ele não terá nenhum efeito. (Intervalo: 0-1; Suporte de precisão: 0,01)
+Fesistance	Tolerância à Medicina	Taxa de enfraquecimento dos efeitos medicinais do item devido a múltiplos usos. Tolerância a medicamentos de 1 significa que na próxima vez que o item for usado, ele não terá nenhum efeito. (Intervalo: 0-1; Suporte de precisão: 0,01)
 Ling	Qi	Qi aumentado usando/consumindo este item. (Intervalo: 0-999.999.999)
 Nutrition	Valor nutricional	Fome reabastecida consumindo este item. (Intervalo: 0-100)
 Water	Sede	Sede reabastecida consumindo este item. (Intervalo: 0-100)
@@ -44,10 +44,10 @@ StuffSelect	Materiais Secundários	Escolha os materiais para fazer o item.
 EsoDropRate	Taxa de Drop	A chance de obter o Manual quando uma recompensa aleatória do Manual é acionada durante a Aventura.
 StartUnlock	Desbloqueado por padrão	Obtido automaticamente ao iniciar um novo jogo.
 EsoWorldDrop	Drop Mundial	É possível obter o Manual quando uma recompensa aleatória do Manual é acionada durante a Aventura.
-EquipModifier	Efeito do Gear	Os efeitos especiais concedidos ao equipar o equipamento.
+EquipModifier	Efeito do Equipamento	Os efeitos especiais concedidos ao equipar o equipamento.
 EsoModifier	Efeito Manual	Os Efeitos Especiais concedidos pelo estudo do Manual.
 MaterialSelect	Material Principal	Os tipos de Materiais Principais necessários para fazer o Item.
-BuildSelect	Edifícios necessários	Os edifícios necessários para criar o item.
+BuildSelect	Estrutura de Produção	Os edifícios necessários para criar o item.
 MainCostItemCount	Quantidade de material principal	A quantidade base de Materiais Principais necessários para fazer o Item. (Intervalo: 1-999)
 DanSelect	Receita de Elixir	A Fórmula do Elixir que pode ser aprendida estudando o Manual.
 ModSelect	Modelo	O modelo da arma.

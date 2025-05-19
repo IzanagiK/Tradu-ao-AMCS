@@ -963,7 +963,7 @@
 		</Text>
 		<Text Name="AreaStorage">
 			<Type>Area</Type>
-			<Display>Armazenamento</Display>
+			<Display>Armazém</Display>
 			<Desc>Arraste e selecione uma área para armazenamento; um personagem levará os itens para a área de armazenamento selecionada. \nTipo de trabalho: Mão de obra</Desc>
 		</Text>
 		<Text Name="AreaPlant">
@@ -983,7 +983,7 @@
 		</Text>
 		<Text Name="AreaTrade">
 			<Type>Area</Type>
-			<Display>Área de Comércio</Display>
+			<Display>Area de Troca</Display>
 			<Desc>Arraste para selecionar uma área de comércio</Desc>
 		</Text>
 		<Text Name="RemoveStorageArea">
@@ -1008,7 +1008,7 @@
 		</Text>
 		<Text Name="RemoveAreaTrade">
 			<Type>Area</Type>
-			<Display>Remover Área de Comércio</Display>
+			<Display>Remover Area de Troca</Display>
 			<Desc>Demolir a área de comércio.</Desc>
 		</Text>
 		<Text Name="AreaTang">
@@ -1070,11 +1070,11 @@
 		</Text>
 		<Text Name="Explore">
 			<Display>Explorar</Display>
-			<Desc>[color=#0000FF]Explorar Área[/color]([keycode]Explorar[/keycode])\nExplorar uma área coberta por uma camada de nuvem; um personagem gastará mais energia durante a exploração. \nTipo de Trabalho: Caça</Desc>
+			<Desc>[color=#0000FF]Explorar Area[/color]([keycode]Explorar[/keycode])\nExplorar uma área coberta por uma camada de nuvem; um personagem gastará mais energia durante a exploração. \nTipo de Trabalho: Caça</Desc>
 		</Text>
 		<Text Name="Hunting">
 			<Display>Caçar</Display>
-			<Desc>[color=#0000FF]Caçar Animal[/color]([keycode]Caça[/keycode])\nCaçar e remover a carne de um animal selvagem. \nTipo de Trabalho: Caça</Desc>
+			<Desc>[color=#0000FF]Caçar Animal[/color]([keycode]Caçar[/keycode])\nCaçar e remover a carne de um animal selvagem. \nTipo de Trabalho: Caça</Desc>
 		</Text>
 		<Text Name="Melting">
 			<Display>Fundir</Display>

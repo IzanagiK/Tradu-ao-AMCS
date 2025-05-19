@@ -1,7 +1,7 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Lv4_ProtectTime">
-			<DisplayName>Duração da Guarda</DisplayName>
+			<DisplayName>Período de Segurança</DisplayName>
 			<Desc>Eventos fortuitos de aventura não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
 			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
@@ -35,7 +35,7 @@
 			<Values.2.Desc>Intervalo Máximo: 75 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="EnemyLv2_ProtectTime">
-			<DisplayName>Duração da Guarda</DisplayName>
+			<DisplayName>Período de Segurança</DisplayName>
 			<Desc>Poderosos eventos de inimigos não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
 			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
@@ -71,7 +71,7 @@
 			<Values.2.Desc>Intervalo Máximo: 50 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Lv3_ProtectTime">
-			<DisplayName>Duração da Guarda</DisplayName>
+			<DisplayName>Período de Segurança</DisplayName>
 			<Desc>Eventos raros não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
 			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
@@ -107,7 +107,7 @@
 			<Values.2.Desc>Intervalo máximo: 70 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Secrets_ProtectTime">
-			<DisplayName>Duração de Proteção</DisplayName>
+			<DisplayName>Período de Segurança</DisplayName>
 			<Desc>Eventos secretos não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
 			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
@@ -141,7 +141,7 @@
 			<Values.2.Desc>Intervalo máximo: 15 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Join_ProtectTime">
-			<DisplayName>Duração de Proteção</DisplayName>
+			<DisplayName>Período de Segurança</DisplayName>
 			<Desc>Os eventos dos visitantes não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
 			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
@@ -175,7 +175,7 @@
 			<Values.2.Desc>Intervalo máximo: 15 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Enemy_ProtectTime">
-			<DisplayName>Duração de Proteção</DisplayName>
+			<DisplayName>Período de Segurança</DisplayName>
 			<Desc>Os eventos inimigos não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
 			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
@@ -209,7 +209,7 @@
 			<Values.2.Desc>Intervalo máximo: 24 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Lv1_ProtectTime">
-			<DisplayName>Duração de Proteção</DisplayName>
+			<DisplayName>Período de Segurança</DisplayName>
 			<Desc>Eventos comuns não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
 			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>
@@ -243,7 +243,7 @@
 			<Values.2.Desc>Intervalo máximo: 10 dias.</Values.2.Desc>
 		</Text>
 		<Text Name="Lv2_ProtectTime">
-			<DisplayName>Duração de Proteção</DisplayName>
+			<DisplayName>Período de Segurança</DisplayName>
 			<Desc>Eventos avançados não ocorrerão durante o período de segurança.</Desc>
 			<Values.0.Name>Nenhum</Values.0.Name>
 			<Values.0.Desc>Não haverá período de segurança.</Values.0.Desc>

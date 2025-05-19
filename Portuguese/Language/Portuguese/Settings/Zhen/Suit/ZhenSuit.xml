@@ -1,11 +1,11 @@
 ﻿<Texts Type="Other">
 	<List>
-			<Text Name="Sys_Lost">
+		<Text Name="Sys_Lost">
 			<DisplayName>Vazio</DisplayName>
 		</Text>
 		<Text Name="zhuxianzhen">
-			<DisplayName>Formação do Guerreiro Furioso</DisplayName>
 			<Description>Desde tempos imemoriais, esta tem sido a formação com maior poder ofensivo.  Quando implantado, ele se transformará em quatro portões de banner, cada um com uma espada pendurada acima dele, cercando completamente o centro.  Uma vez ativado com o espírito primordial, as quatro espadas irão vibrar, e a formação é imediatamente preenchida com Aura de Espada.  Mesmo o mais verdadeiro imortal achará difícil sobreviver.</Description>
+			<DisplayName>Formação do Guerreiro Furioso</DisplayName>
 			<NodeName.0>Plano Guerreiro Furioso</NodeName.0>
 			<NodeName.1>Guerreiro Furioso</NodeName.1>
 			<NodeName.2>Portador da Morte</NodeName.2>
@@ -17,8 +17,8 @@
 			<SuitEffect.3.Description>Nova habilidade: Guerreiro Furioso</SuitEffect.3.Description>
 		</Text>
 		<Text Name="qixingzhen">
-			<DisplayName>Formação do Conquistador</DisplayName>
 			<Description>Uma formação imortal que se diz ter sido transmitida pelo Malvado Guerreiro Aperfeiçoado Exorcista do Nono Paraíso Celestial.  Ele pode direcionar o poder de sete estrelas para formar a luz divina de distanciamento da Grande Carruagem, um poder capaz de obliterar todo o mal.</Description>
+			<DisplayName>Formação do Conquistador</DisplayName>
 			<NodeName.0>Garra de Ursae Megrez</NodeName.0>
 			<NodeName.1>Garra de Ursae Dubhe</NodeName.1>
 			<NodeName.2>Garra de Ursae Merak</NodeName.2>
@@ -33,8 +33,8 @@
 			<SuitEffect.4.Description>Nova Habilidade: Distância de Batalha</SuitEffect.4.Description>
 		</Text>
 		<Text Name="wufangbumiezhen">
-			<DisplayName>Formação Impenetrável</DisplayName>
 			<Description>Uma grande formação baseada nas cinco Vastas Bandeiras que existem desde o início dos tempos.  O estandarte do norte é referido como Abutre Negro, o sul como Chama Ascendente, o estandarte central como Damasco Amarelo, o ocidental como Nuvem Branca e o oriental como Lótus Verde.  A combinação dos Cinco Elementos forma o Domínio da Vastidão, que não pode ser invadido apesar da mudança das leis naturais.</Description>
+			<DisplayName>Formação Impenetrável</DisplayName>
 			<NodeName.0>Formação Impenetrável</NodeName.0>
 			<NodeName.1>Bandeira da Nuvem Branca</NodeName.1>
 			<NodeName.2>Bandeira do Lótus Verde</NodeName.2>
@@ -47,8 +47,8 @@
 			<SuitEffect.3.Description>Nova Habilidade: Domínio da Vastidão</SuitEffect.3.Description>
 		</Text>
 		<Text Name="liuyuzhen">
-			<DisplayName>Formação da Lei Divina</DisplayName>
 			<Description>Uma formação cerimonial da Corte Celestial.  Ao formar essa formação, ela se desdobrará em uma morada primitiva dos seis deuses da Corte Celestial, transformando o Reino Mortal em um paraíso, concedendo harmonia espiritual às pessoas.</Description>
+			<DisplayName>Formação da Lei Divina</DisplayName>
 			<NodeName.0>Formação do Imperador de Jade</NodeName.0>
 			<NodeName.1>Formação do Imperador Polaris</NodeName.1>
 			<NodeName.2>Formação do Imperador da Estrela do Norte</NodeName.2>
@@ -59,8 +59,8 @@
 			<SuitEffect.1.Description>Nova Habilidade: Domínio da Serenidade Celestial</SuitEffect.1.Description>
 		</Text>
 		<Text Name="longxingzhen">
-			<DisplayName>Formação do Cavaleiro do Dragão</DisplayName>
 			<Description>Uma formação fascinante que utiliza o corpo do Dragão Dilúvio como base.  Diz-se que é uma formação controladora de dragões.  Quando usado, pode-se recorrer ao poder das almas do dragão para realizar milagres.</Description>
+			<DisplayName>Formação do Cavaleiro do Dragão</DisplayName>
 			<NodeName.0>Escama Proibida do Dragão</NodeName.0>
 			<NodeName.1>Chifre do Dragão</NodeName.1>
 			<NodeName.2>Chifre do Dragão</NodeName.2>
@@ -75,8 +75,8 @@
 			<SuitEffect.2.Description>Nova habilidade: Obliteração da Divindade</SuitEffect.2.Description>
 		</Text>
 		<Text Name="fengjianzhen">
-			<DisplayName>Formação da Espada da Fênix</DisplayName>
 			<Description>Uma formação fascinante que utiliza o corpo da Fênix como base.  Diz-se que é uma formação controladora da fênix.  Quando usada, pode-se recorrer ao poder das almas da fênix para realizar milagres.</Description>
+			<DisplayName>Formação da Espada da Fênix</DisplayName>
 			<NodeName.0>Jade de Fogo</NodeName.0>
 			<NodeName.1>Pena do Oblívio</NodeName.1>
 			<NodeName.2>Pena do Manto</NodeName.2>
@@ -91,8 +91,8 @@
 			<SuitEffect.2.Description>Nova habilidade: Nirvana</SuitEffect.2.Description>
 		</Text>
 		<Text Name="yinyangzhen">
-			<DisplayName>Formação Yin Yang</DisplayName>
 			<Description>Uma formação que se inspirava no fluxo de energias entre o Céu e a Terra.  Diz-se que esta formação é usada de acordo com as leis do Yin e Yang.  Utilizando a transformação do Yin e Yang, a formação torna-se extremamente flexível.</Description>
+			<DisplayName>Formação Yin Yang</DisplayName>
 			<NodeName.0>Credo Caótico do Céu</NodeName.0>
 			<NodeName.1>Lei do Yin</NodeName.1>
 			<NodeName.2>Lei do Yang</NodeName.2>
@@ -103,8 +103,8 @@
 			<SuitEffect.4.Description>Eficiência de Formação Aumentada</SuitEffect.4.Description>
 		</Text>
 		<Text Name="sanyinzhen">
-			<DisplayName>Formação da Força Sombria</DisplayName>
 			<Description>Uma formação utilizada utilizando a ideia dos Três Talentos: Céu, Terra e Humanidade.  Diz-se que é capaz de concentrar todas as energias Yin puras do mundo, o que aumenta muito seu poder.</Description>
+			<DisplayName>Formação da Força Sombria</DisplayName>
 			<NodeName.0>Força Yin do Céu</NodeName.0>
 			<NodeName.1>Força Yin da Terra</NodeName.1>
 			<NodeName.2>Força Yin da Humanidade</NodeName.2>
@@ -112,31 +112,31 @@
 			<SuitEffect.1.Description>Habilidade de Magia Aprimorada</SuitEffect.1.Description>
 		</Text>
 		<Text Name="bamen_ji">
-			<DisplayName>Formação da Espada Abissal: Auspicioso</DisplayName>
 			<Description>Diz-se que é uma formação usada de acordo com as regras dos Oito Portais do Trigrama. Aumenta a capacidade de proteção da formação utilizando o Portão da Vida.</Description>
+			<DisplayName>Formação da Espada Abissal: Auspicioso</DisplayName>
 			<NodeName.0>Abertura</NodeName.0>
 			<NodeName.1>Descanso</NodeName.1>
 			<NodeName.2>Vida</NodeName.2>
 			<SuitEffect.0.Description>Eficiência de Formação Aumentada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="bamen_xiong">
-			<DisplayName>Formação da Espada Abissal: Ominoso</DisplayName>
 			<Description>Diz-se que é uma formação usada de acordo com as regras dos Oito Portais do Trigrama. Aprimora a capacidade de domínio do artefato da formação, utilizando o Portão da Morte.</Description>
+			<DisplayName>Formação da Espada Abissal: Ominoso</DisplayName>
 			<NodeName.0>Morte</NodeName.0>
 			<NodeName.1>Ameaça</NodeName.1>
 			<NodeName.2>Dano</NodeName.2>
 			<SuitEffect.0.Description>Habilidade de Maestria de Artefato Aprimorada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="bamen_zhong">
-			<DisplayName>Formação da Espada Abissal: Central</DisplayName>
 			<Description>Diz-se que é uma formação usada de acordo com as regras dos Oito Portais do Trigrama, tornando a formação mais compacta.</Description>
+			<DisplayName>Formação da Espada Abissal: Central</DisplayName>
 			<NodeName.0>Seclusão</NodeName.0>
 			<NodeName.1>Beleza</NodeName.1>
 			<SuitEffect.0.Description>Estabilidade Aprimorada</SuitEffect.0.Description>
 		</Text>
 		<Text Name="jiayimushenzhen">
-			<DisplayName>Formação do Espírito da Madeira</DisplayName>
 			<Description>Formado pela concentração da essência do Espírito Primordial da Madeira Oriental, é dito ser uma formação capaz de despertar o Qi da vitalidade tanto do Céu quanto da Terra, rejuvenescendo todos os seres vivos.</Description>
+			<DisplayName>Formação do Espírito da Madeira</DisplayName>
 			<NodeName.0>Coroa da Árvore Espiritual</NodeName.0>
 			<NodeName.1>Ramo da Árvore Espiritual</NodeName.1>
 			<NodeName.2>Folha da Árvore Espiritual</NodeName.2>
@@ -147,8 +147,8 @@
 			<SuitEffect.2.Description>Nova Habilidade: Domínio da Essência da Madeira</SuitEffect.2.Description>
 		</Text>
 		<Text Name="wuyuezhen">
-			<DisplayName>Formação de Convergência</DisplayName>
 			<Description>Uma formação formada pela essência espiritual dos Cinco Picos.  Quando usada, apresentará a forma dos Cinco Picos para proteger um local, tornando-o indestrutível.</Description>
+			<DisplayName>Formação de Convergência</DisplayName>
 			<NodeName.0>Forma do Pico Esmeralda</NodeName.0>
 			<NodeName.1>Forma do Precipício</NodeName.1>
 			<NodeName.2>Forma da Ilha Plana</NodeName.2>

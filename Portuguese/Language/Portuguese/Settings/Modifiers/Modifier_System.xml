@@ -20,7 +20,7 @@
 			<Desc>Um monstro de sorte que traria um ano inteiro de boa sorte.</Desc>
 		</Text>
 		<Text Name="SysWuDiYa">
-			<DisplayName>Pato Invencível</DisplayName>
+			<DisplayName>Pato Invulnerável</DisplayName>
 		</Text>
 		<Text Name="SysExploreModifier">
 			<DisplayName>Explorando...</DisplayName>
@@ -168,7 +168,7 @@
 			<DisplayName>Terra Abençoada</DisplayName>
 		</Text>
 		<Text Name="FengShui2">
-			<DisplayName>Very Auspicious</DisplayName>
+			<DisplayName>Muito auspicioso</DisplayName>
 		</Text>
 		<Text Name="FengShui3">
 			<DisplayName>Levemente Auspicioso</DisplayName>
@@ -177,7 +177,7 @@
 			<DisplayName>Levemente Ominoso</DisplayName>
 		</Text>
 		<Text Name="FengShui5">
-			<DisplayName>Very Ominous</DisplayName>
+			<DisplayName>Muito ominoso</DisplayName>
 		</Text>
 		<Text Name="FengShui6">
 			<DisplayName>Terra Maldita</DisplayName>
@@ -218,16 +218,16 @@
 			<Desc>O Líder do Ramo está sentindo muito estresse devido ao pesado fardo de ter que gerenciar os discípulos do ramo, o que causa uma diminuição nas estatísticas relacionadas ao cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Descoberta. Quanto mais discípulos o ramo tiver, mais pesado será o estresse. Pode ser reduzido até certo ponto dependendo das habilidades de gerenciamento do Líder da Seita.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_ZangMenDebuff_Old">
-			<DisplayName>Cansado</DisplayName>
+			<DisplayName>Fadiga</DisplayName>
 			<Desc>Embora não seja mais o Líder da Seita, o estresse pesado que você suportou ao administrar a seita não deve ser aliviado tão facilmente em um curto período de tempo. Diminui as estatísticas relacionadas ao Cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Descoberta.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_TangZhuDebuff_Old">
-			<DisplayName>Cansado</DisplayName>
+			<DisplayName>Fadiga</DisplayName>
 			<Desc>Embora não seja mais o Líder de Filial, o grande estresse que você suportou gerenciando a filial não deve ser aliviado tão facilmente em um curto período de tempo. Diminui as estatísticas relacionadas ao cultivo, incluindo estado mental, velocidade de cultivo, velocidade de obtenção de inspiração e chance de descoberta.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_NoAreaBuff">
-			<DisplayName>Sem Bônus de Área</DisplayName>
-			<Desc>Devido à incapacidade do Líder de Ramo, os discípulos deste ramo não podem receber o Bônus de Área.</Desc>
+			<DisplayName>Sem Bônus de Area</DisplayName>
+			<Desc>Devido à incapacidade do Líder de Ramo, os discípulos deste ramo não podem receber o Bônus de Area.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_NoAllBuff">
 			<DisplayName>Sem Bônus Normal</DisplayName>
@@ -298,7 +298,7 @@
 			<Desc>Quando algo está prestes a acontecer, uma dica será dada com antecedência.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_CanNotExperience">
-			<DisplayName>Distraído</DisplayName>
+			<DisplayName>Meditar</DisplayName>
 			<Desc>Este discípulo acaba de voltar de uma longa Aventura e precisa de algum tempo para meditar para estabilizar seu Cultivo.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_CanNotExperienceHide">

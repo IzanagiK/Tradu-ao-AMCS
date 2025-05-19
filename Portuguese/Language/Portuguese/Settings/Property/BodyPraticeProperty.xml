@@ -4,7 +4,7 @@
 			<DisplayName>Taxa de autocura do cultivador físico</DisplayName>
 			<Desc>A velocidade de autocura dos cultivadores físicos quando feridos.</Desc>
 			<DisplayValue>{0:P2}/sec</DisplayValue>
-			<FunctionKind>Estatísticas Base</FunctionKind>
+			<FunctionKind>Estatísticas Gerais</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_MaxZhenQi">
 			<DisplayName>Qi verdadeiro máximo</DisplayName>
@@ -19,17 +19,17 @@
 		<Text Name="BodyPratice_DefenseRecoverZhenQi">
 			<DisplayName>Taxa de recuperação True Qi do modo de recuperação</DisplayName>
 			<Desc>A porcentagem de Qi Verdadeiro a ser recuperada por segundo quando o Qi Verdadeiro de um cultivador físico está esgotado.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_CatchFaboValue">
 			<DisplayName>Taxa de Supressão de Consumo</DisplayName>
 			<Desc>A quantidade de Qi Verdadeiro adicional a ser consumida quando um cultivador físico está suprimindo um artefato.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_BodyStrong">
 			<DisplayName>Força do corpo</DisplayName>
 			<Desc>A habilidade do corpo de um cultivador físico de resistir a danos. Quanto mais forte o corpo, menor a probabilidade de morrer de lesões.</Desc>
-			<FunctionKind>Estatísticas Base</FunctionKind>
+			<FunctionKind>Estatísticas Gerais</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_QuenchingSpeed">
 			<DisplayName>Velocidade de Remoção</DisplayName>
@@ -59,88 +59,88 @@
 		<Text Name="BodyPratice_SuperPartCostAddP">
 			<DisplayName>Taxa de consumo de corpo secreto</DisplayName>
 			<Desc>O bônus aplicado à Taxa de Consumo de Qi Verdadeiro de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_SuperPartRecoverAddP">
 			<DisplayName>Taxa de recuperação do Qi verdadeiro do corpo secreto</DisplayName>
 			<Desc>O bônus aplicado à Taxa de Recuperação do Qi Verdadeiro de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_AtkPower">
 			<DisplayName>Poder Corporal Secreto Global</DisplayName>
 			<Desc>O bônus aplicado ao poder de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_DefPower">
 			<DisplayName>Resistência Corporal Secreta Global</DisplayName>
 			<Desc>O bônus aplicado à Resistência de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_AtkRate">
 			<DisplayName>Precisão global do corpo secreto</DisplayName>
 			<Desc>O bônus aplicado à Precisão de Ataque de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_DefRate">
 			<DisplayName>Taxa Global de Defesa Corporal Secreta</DisplayName>
 			<Desc>O bônus aplicado à Taxa de Sucesso de Defesa de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_ArmorPenetration">
 			<DisplayName>Penetração Global do Corpo Secreto</DisplayName>
 			<Desc>O bônus aplicado à Penetração da Barreira de Qi de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_CatchFabao">
 			<DisplayName>Supressão global de corpos secretos</DisplayName>
 			<Desc>O bônus aplicado à Chance de Supressão de Artefato de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_AtkPower">
 			<DisplayName>Poder Corporal Secreto Global</DisplayName>
 			<Desc>O valor do bônus aplicado ao poder de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_DefPower">
 			<DisplayName>Resistência Corporal Secreta Global</DisplayName>
 			<Desc>O valor do bônus aplicado à Resistência de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_AtkRate">
 			<DisplayName>Precisão global do corpo secreto</DisplayName>
 			<Desc>O valor de bônus aplicado à Precisão de Ataque de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_DefRate">
 			<DisplayName>Taxa Global de Defesa Corporal Secreta</DisplayName>
 			<Desc>O valor do bônus aplicado à Taxa de Sucesso de Defesa de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_ArmorPenetration">
 			<DisplayName>Penetração Global do Corpo Secreto</DisplayName>
 			<Desc>O valor do bônus aplicado à Penetração da Barreira de Qi de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_CatchFabao">
 			<DisplayName>Supressão global de corpos secretos</DisplayName>
 			<Desc>O valor de bônus aplicado à Chance de Supressão de Artefato de todos os Corpos Secretos atualmente ativados.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_AngerFireNum">
 			<DisplayName>Máximo de memórias dolorosas</DisplayName>
 			<Desc>O número máximo de memórias que os cultivadores físicos podem lembrar como suas memórias dolorosas.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_AngerFireDuration">
 			<DisplayName>Duração do Furioso Furioso</DisplayName>
 			<Desc>O tempo de duração de um Furioso Furioso quando o Cultivador Físico o iniciou.</Desc>
 			<DisplayValue>{0:N} sec</DisplayValue>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_AngerFireEffectAddp">
 			<DisplayName>Multiplicador de Efeito Furioso Furioso</DisplayName>
 			<Desc>A força efetiva de um Furioso Furioso quando o Cultivador Físico o inicia.</Desc>
-			<FunctionKind>Estatísticas da Batalha</FunctionKind>
+			<FunctionKind>Batalha</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_EatItemMaxRate">
 			<DisplayName>Nível máximo de itens de devorar</DisplayName>
@@ -184,7 +184,7 @@
 		<Text Name="BodyPractice_MaxFoodAddtion">
 			<DisplayName>Bônus Máximo de Fome</DisplayName>
 			<Desc>Bônus Máximo de Fome do Cultivador Físico</Desc>
-			<FunctionKind>Estatísticas Base</FunctionKind>
+			<FunctionKind>Estatísticas Gerais</FunctionKind>
 		</Text>
 	</List>
 </Texts>

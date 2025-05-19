@@ -47,7 +47,7 @@
 		</Text>
 		<Text Name="Guard_BaBuZhong_1">
 			<DisplayName>Deva</DisplayName>
-			<Names>Di</Names>
+			<Names>Imperador</Names>
 			<Desc>Chefe das Oito Legiões. A adoração a ele melhora de forma abrangente todas as suas habilidades e faz você aprender a seguinte Milagre: Meditação da Divindade.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_2">
@@ -67,7 +67,7 @@
 		</Text>
 		<Text Name="Guard_LeiBu_1">
 			<DisplayName>Pai do Trovão</DisplayName>
-			<Names>Ying</Names>
+			<Names>Demônio</Names>
 			<Desc>Guardião que pode empunhar o poder do trovão. A adoração a ele melhora de forma abrangente todas as suas habilidades, com bônus extras ao nível de habilidade de Domínio de Artefato e Poder do Artefato. No entanto, isso diminui sua Taxa de Recuperação de Qi do Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_2">
@@ -246,33 +246,33 @@
 			<Desc>Guarda com enorme força física. A adoração a ele pode melhorar ligeiramente todas as suas habilidades, com bônus extras para o Recuo de Artefatos e Resistência ao Recuo de Artefatos.</Desc>
 		</Text>
 		<Text Name="Guard_Base_1">
-			<DisplayName>Sprite Metálico</DisplayName>
+			<DisplayName>Espirito Metálico</DisplayName>
 			<Names>Ren</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu nível de habilidade de Artefato, Poder de Artefato, Limite de Qi de Artefato e Taxa de Recuperação de Qi de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_2">
-			<DisplayName>Sprite de Madeira</DisplayName>
+			<DisplayName>Espirito de Madeira</DisplayName>
 			<Names>Ye</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu Qi Máximo.</Desc>
 		</Text>
 		<Text Name="Guard_Base_3">
-			<DisplayName>Sprite de Água</DisplayName>
+			<DisplayName>Espirito de Água</DisplayName>
 			<Names>Liu</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar sua Percepção de Qi.</Desc>
 		</Text>
 		<Text Name="Guard_Base_4">
-			<DisplayName>Sprite de Fogo</DisplayName>
+			<DisplayName>Espirito de Fogo</DisplayName>
 			<Names>Yan</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu nível de habilidade de Feitiço e Poder de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Base_5">
-			<DisplayName>Sprite da Terra</DisplayName>
+			<DisplayName>Espirito da Terra</DisplayName>
 			<Names>Chen</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu nível de habilidade de Proteção e Poder de Barreira.</Desc>
 		</Text>
 		<Text Name="Guard_Base_6">
 			<DisplayName>Demônio da Terra</DisplayName>
-			<Names>Can</Names>
+			<Names>P</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar sua Longevidade.</Desc>
 		</Text>
 		<Text Name="Guard_Base_7">
@@ -286,17 +286,17 @@
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu Poder de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_9">
-			<DisplayName>Sprite do Lago</DisplayName>
+			<DisplayName>Espirito do Lago</DisplayName>
 			<Names>Yu</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar sua Taxa de Recuperação de Qi de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_10">
-			<DisplayName>Sprite de Cristal</DisplayName>
+			<DisplayName>Espirito de Cristal</DisplayName>
 			<Names>Ming</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu Qi de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_11">
-			<DisplayName>Sprite de Rocha</DisplayName>
+			<DisplayName>Espirito de Rocha</DisplayName>
 			<Names>Hou</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar seu Poder de Barreira.</Desc>
 		</Text>
@@ -311,7 +311,7 @@
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode reduzir seu Tempo de Lançamento de Feitiço.</Desc>
 		</Text>
 		<Text Name="Guard_Base_14">
-			<DisplayName>Sprite do Vento</DisplayName>
+			<DisplayName>Espirito do Vento</DisplayName>
 			<Names>Xiao</Names>
 			<Desc>Guarda não reclamado que pode ser visto em todo o mundo. A adoração a este Guarda pode aumentar a Velocidade de Voo do Artefato de Feitiço.</Desc>
 		</Text>
@@ -342,7 +342,7 @@
 		</Text>
 		<Text Name="Guard_Base_20">
 			<DisplayName>Guardião Metálico</DisplayName>
-			<Names>Tong</Names>
+			<Names>Cobre</Names>
 			<Desc>Guardião não reclamado que pode ser visto em todo o mundo. Adorar este Guardião pode aumentar seu nível de habilidade de Maestria de Artefato.</Desc>
 		</Text>
 		<Text Name="Guard_Base_21">

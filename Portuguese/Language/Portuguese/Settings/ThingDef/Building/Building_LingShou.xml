@@ -5,51 +5,51 @@
 			<Desc>Selecione um local para os seus pets defecarem.</Desc>
 		</Text>
 		<Text Name="LSEnemyCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Inimigos</ThingName>
+			<ThingName>Area de Estágio de Inimigos</ThingName>
 			<Desc>Os pets podem mover inimigos inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSWaiCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Discípulos Exteriores</ThingName>
+			<ThingName>Area de Estágio de Discípulos Exteriores</ThingName>
 			<Desc>Os pets podem mover Discípulos Exteriores inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSNeiCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Discípulos Interiores</ThingName>
+			<ThingName>Area de Estágio de Discípulos Interiores</ThingName>
 			<Desc>Os pets podem mover Discípulos Interiores inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSVistorCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Visitantes</ThingName>
+			<ThingName>Area de Estágio de Visitantes</ThingName>
 			<Desc>Os pets podem mover Visitantes inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSIncomingCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Convidados</ThingName>
+			<ThingName>Area de Estágio de Convidados</ThingName>
 			<Desc>Os pets podem mover Convidados inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSEnemyBodyCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Cadáveres de Inimigos</ThingName>
+			<ThingName>Area de Estágio de Cadáveres de Inimigos</ThingName>
 			<Desc>Os pets podem mover cadáveres inimigos para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSWaiBodyCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Cadáveres de Discípulos Exteriores</ThingName>
+			<ThingName>Area de Estágio de Cadáveres de Discípulos Exteriores</ThingName>
 			<Desc>Os pets podem mover os cadáveres dos Discípulos Exteriores para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSNeiBodyCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Cadáveres de Discípulos Interiores</ThingName>
+			<ThingName>Area de Estágio de Cadáveres de Discípulos Interiores</ThingName>
 			<Desc>Os pets podem mover os cadáveres dos Discípulos Interiores para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSVistorBodyCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Cadáveres de Visitantes</ThingName>
+			<ThingName>Area de Estágio de Cadáveres de Visitantes</ThingName>
 			<Desc>Os pets podem mover os cadáveres de visitantes para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSIncomingBodyCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Cadáveres de Convidados</ThingName>
+			<ThingName>Area de Estágio de Cadáveres de Convidados</ThingName>
 			<Desc>Os pets podem mover os cadáveres de visitantes para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSMortalBodyCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Cadáveres de Mortais Estranhos</ThingName>
+			<ThingName>Area de Estágio de Cadáveres de Mortais Estranhos</ThingName>
 			<Desc>Os pets podem mover os cadáveres de mortais para esta área, transportando-os. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LSMortalCarryPlace" sParam="Building">
-			<ThingName>Área de Estágio de Mortais Estranhos</ThingName>
+			<ThingName>Area de Estágio de Mortais Estranhos</ThingName>
 			<Desc>Os pets podem mover mortais inconscientes para esta área, transportando os seus corpos. Os corpos transportados não são empilhados, e a área de transporte mais próxima do pet será escolhida.</Desc>
 		</Text>
 		<Text Name="LsDogHouse" sParam="Building">

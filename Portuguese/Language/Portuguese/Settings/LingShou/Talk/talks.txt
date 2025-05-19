@@ -1,464 +1,464 @@
-﻿talk	notarget	int	string	float	thing
-NotEatShit	Eu não sonharia em comer fezes				
-NotEatEssence	Eu não comeria materiais raros, a menos que me alimentassem				
-NotEatDrug	Eu nem comeria Elixirs se minha vida dependesse disso, a menos que eles me dessem				
-NotEatWheat	Eu só como trigo quando estou bem e com fome				
-NotEatDryMeat	Eu realmente não comeria Carne Seca				
-NotEatPear	O que é uma "pêra"? Você pode comê-lo				
-NotEatMeat	Carne crua é nojenta, só comeria se minha vida dependesse disso				
-NotEatCook	Não há comida que eu queira comer menos do que Comida Cozida				
-NotBiteBuilding	Eu realmente não quero atacar edifícios				
-NotBiteClothes	eu não brincaria com roupas				
-NotBiteOuter	Eu não atacaria os Discípulos Exteriores				
-NotBiteInner	Eu não atacaria Discípulos Interiores				
-NotBiteVisitor	eu não atacaria visitantes				
-NotBiteIncoming	Eu não atacaria um mortal que passou				
-NotAtkEnemy	Eu não vou atacar os inimigos, a menos que eles tenham feito o primeiro movimento				
-NotShitAtShitPlace	Eu não vou defecar onde você deveria				
-NotShitAtPlants	Eu não vou defecar por plantas				
-NotShitAtDogHouse	eu não vou defecar na minha cama				
-NotShitAtStorage	Eu não vou defecar em um Armazém				
-NotShitOnBed	Eu não vou defecar em uma cama				
-NotShitInFarm	Eu não vou defecar em um Campo				
-NotCarryOuterToBed	Eu não moveria discípulos inconscientes para uma cama				
-NotCarryVisitorToDest	Não vou mover visitantes inconscientes para uma Área de Encenação				
-NotCarryEnemyToDest	Não vou mover inimigos inconscientes para uma área de preparação				
-NotCarryIncomingToDest	Eu não vou mover mortais inconscientes para uma Área de Encenação				
-NotCarryEnemyBodyToDest	Não vou mover cadáveres inimigos para uma área de preparação				
-NotCarryVisitorBodyToDest	Eu não vou mover os cadáveres dos visitantes para uma Área de Encenação				
-NotCarryIncomingBodyToDest	Eu não vou mover os cadáveres dos mortais para uma Área de Encenação				
-NotHelpCarry	Eu não ajudaria a organizar itens				
-NotHelpTimber	eu não ajudaria a derrubar árvores				
-NotHelpMine	eu não ajudaria o meu				
-NotHelpFind	Eu não ajudaria a furtar itens				
-NotHelpKill	Eu não ajudaria a abater animais				
-NotHelpPlant	Eu não ajudaria a fertilizar plantas				
-NotCureFreeze	Eu não ajudaria a curar Frostbite				
-NotCureHot	Eu não ajudaria a curar a insolação				
-NotHelpCook	eu não ajudaria a cozinhar				
-NotHeatEndure	Eu não ajudaria a aumentar a resistência ao calor				
-NotColdEndure	Eu não ajudaria a aumentar a resistência ao frio				
-NotHelpPlay	Eu não jogaria junto com Discípulos				
-NotPlayToy	eu não iria brincar com brinquedos				
-NotTrainQiGan	eu não iria afiar Qi				
-NotTrainNeiDan	Eu não praticaria Core				
-NotTrainHuTi	Eu não aprimoraria Proteção				
-NotTrainLingZhi	Eu não aprimoraria a Inteligência				
-NotTrainShuFa	Eu não praticaria feitiços				
-WannaEatShit					Este {0}, é bom
-WannaEatEssence					Este {0} está me deixando com água na boca
-WannaEatDrug					Eu quero petiscar Elixirs
-WannaEatWheat					Este {0} parece simplesmente divino
-WannaEatDryMeat					Não consigo resistir à fragrância de {0}
-WannaEatPear					Não aguento mais, quero comer {0}
-WannaEatMeat					eu vou comer isso {0}
-WannaEatCook					Eu realmente quero comer {0}
-WannaBiteBuilding					{0}, eu aguento você há bastante tempo
-WannaBiteClothes					Este {0} deve ser bom para ranger os dentes
-WannaBiteOuter					Gostaria de saber qual é o gosto do Discipulo Externo {0}
-WannaBiteInner					Hora de mostrar ao Discípulo Interno {0} meu verdadeiro poder
-WannaBiteVisitor					O visitante {0} parece uma boa pessoa para praticar habilidades
-WannaBiteIncoming					O convidado {0} parece ser uma boa pessoa para praticar habilidades
-WannaAtkEnemy					{0}, sua hora chegou
-WannaShitAtShitPlace					Eu quero defecar onde eu deveria
-WannaShitAtPlants					Eu quero defecar por plantas
-WannaShitAtDogHouse					Eu quero defecar na cama
-WannaShitAtStorage					Minhas fezes são preciosas, o Armazém seria um ótimo lugar para elas
-WannaShitOnBed					Seria interessante defecar em uma cama
-WannaShitInFarm					Defecar no campo deve ajudar, certo
-WannaCarryOuterToBed					Eu deveria ajudar inconsciente {0}
-WannaCarryVisitorToDest					Quero mover o visitante inconsciente {0} para uma área de preparação
-WannaCarryEnemyToDest					Eu quero mover o inimigo inconsciente {0} para uma área de preparação
-WannaCarryIncomingToDest					Quero mover o convidado inconsciente {0} para uma área de preparação
-WannaCarryEnemyBodyToDest					Quero mover o cadáver do inimigo {0} para uma área de preparação
-WannaCarryVisitorBodyToDest					Quero mover o cadáver do visitante {0} para uma área de preparação
-WannaCarryIncomingBodyToDest					Quero mover o cadáver do convidado {0} para uma área de preparação
-WannaHelpCarry	Quero ajudar a organizar itens				
-WannaHelpTimber	Parece que essas árvores precisam ser cortadas, deixe-me ajudar				Parece que essas árvores precisam ser cortadas, deixe-me ajudar
-WannaHelpMine	Essas pedras parecem valiosas, pegue isso!				Essas pedras parecem valiosas, pegue isso!
-WannaHelpFind	Deixe-me ver o que esses caras tem neles				Deixe-me ver o que esses caras têm sobre eles
-WannaHelpKill	Os cadáveres não devem ser deixados para apodrecer, deixe-me dar uma mão				Os cadáveres não devem ser deixados para apodrecer, deixe-me dar uma mão
-WannaHelpPlant	As plantas no campo parecem úteis, deixe-me ajudar a fertilizá-las				As plantas no campo parecem úteis, deixe-me ajudar a fertilizá-las
-WannaCureFreeze	O Frostbite de {0} é sério, deixe-me curá-lo				O Frostbite de {0} é sério, deixe-me curá-lo
-WannaCureHot	A insolação de {0} é grave, deixe-me curá-la				A insolação de {0} é grave, deixe-me curá-la
-WannaHeatEndure	Eu quero ajudar a aumentar a Resistência ao Calor				Quero ajudar a aumentar a resistência ao calor
-WannaColdEndure	Eu quero ajudar a aumentar a Resistência ao Frio				Quero ajudar a aumentar a resistência ao frio
-WannaHelpPlay	Parece que {0} não está de bom humor				Parece que {0} não está de bom humor
-WannaPlayToy	Eu quero brincar com {0} como se não houvesse amanhã				Eu quero brincar com {0} como se não houvesse amanhã
-DoTalkEatShit					Atualmente estou comendo {0}
-DoTalkEatEssence					Atualmente estou comendo {0}
-DoTalkEatDrug					Atualmente estou comendo {0}
-DoTalkEatWheat					Atualmente estou comendo {0}
-DoTalkEatDryMeat					Atualmente estou comendo {0}
-DoTalkEatPear					Atualmente estou comendo {0}
-DoTalkEatMeat					Atualmente estou comendo {0}
-DoTalkEatCook					Atualmente estou comendo {0}
-DoTalkEat					Atualmente estou gostando de {0}
-DoTalkBiteBuilding					Estou rangendo os dentes com {0}
-DoTalkBiteClothes					Atualmente estou atacando {0}
-DoTalkBiteOuter					Atualmente estou atacando {0}
-DoTalkBiteInner					Estou mordendo o visitante {0}
-DoTalkBiteVisitor					Estou mordendo o convidado {0}
-DoTalkBiteIncoming					estou mordendo {0}
-DoTalkBiteBuildingEx					Estou mordendo impiedosamente {0}
-DoTalkBiteClothesEx					estou tentando mastigar {0}
-DoTalkBiteOuterEx					Estou mordendo {0} o mais forte que posso
-DoTalkBiteInnerEx					Estou mordendo {0} o mais forte que posso
-DoTalkBiteVisitorEx					Estou mordendo o Visitante {0} o mais forte que posso
-DoTalkBiteIncomingEx					Estou mordendo o convidado {0} o mais forte que posso
-DoTalkAtkEnemy					Atualmente estou atacando {0}!
-DoTalkShitAtShitPlace					estou usando o banheiro
-DoTalkShitAtPlants					Estou defecando ao lado de {0}
-DoTalkShitAtDogHouse					estou defecando na minha cama
-DoTalkShitAtStorage					Estou defecando em um Armazém
-DoTalkShitOnBed					Estou defecando em uma cama
-DoTalkShitInFarm					Estou defecando em um campo
-DoTalkCarryOuterToBed					Estou me movendo inconsciente {0} para uma cama
-DoTalkCarryVisitorToDest					No momento, estou movendo o visitante inconsciente {0} para uma área de preparação
-DoTalkCarryEnemyToDest					No momento, estou movendo o inimigo inconsciente {0} para uma área de preparação
-DoTalkCarryIncomingToDest					No momento, estou movendo o convidado inconsciente {0} para uma área de preparação
-DoTalkCarryEnemyBodyToDest					No momento, estou movendo o cadáver de {0} para uma área de preparação
-DoTalkCarryVisitorBodyToDest					No momento, estou movendo o cadáver de {0} para uma área de preparação
-DoTalkCarryIncomingBodyToDest					No momento, estou movendo o cadáver de {0} para uma área de preparação
-DoTalkHelpCarry					Estou ajudando a organizar itens
-DoTalkHelpTimber					Estou ajudando a derrubar árvores
-DoTalkHelpMine					estou ajudando o meu
-DoTalkHelpFind					estou roubando itens
-DoTalkHelpKill					estou matando animais
-DoTalkHelpPlant					estou fertilizando plantas
-DoTalkCureFreeze					Estou curando o Frostbite de {0}
-DoTalkCureHot					Estou curando a Insolação de {0}
-DoTalkHelpCook					estou ajudando a cozinhar
-DoTalkHeatEndure					Estou ajudando a aumentar a resistência ao calor
-DoTalkColdEndure					Estou ajudando a aumentar a resistência ao frio
-DoTalkHelpPlay					Estou me divertindo junto com {0}
-DoTalkPlayToy					estou jogando {0}
-DoTalkPlaySelf					estou me divertindo sozinho
-DoTalkTrainQiGan	Estou praticando habilidades baseadas em Qi				
-DoTalkTrainNeiDan	Estou praticando o Nucleo				
-DoTalkTrainHuTi	Estou praticando habilidades baseadas em proteção				
-DoTalkTrainLingZhi	Estou praticando habilidades baseadas em Inteligência				
-DoTalkTrainShuFa	Estou praticando habilidades baseadas em feitiços				
-DoTalkFollow					
-DoTalkLay					
-DoTalkWander					
-CantEatShit	não tenho fezes para comer				
-CantEatEssence	Não há material raro para eu comer				
-CantEatDrug	Não há Elixir para eu tomar				
-CantEatWheat	Não há trigo para eu comer				
-CantEatDryMeat	Não há Carne Seca para eu comer				
-CantEatPear	Não há peras para eu comer				
-CantEatMeat	Não há Carne Crua para eu comer				
-CantEatCook	Não há Carne Cozida para eu comer				
-CantBiteBuilding	Não há edifícios para eu morder				
-CantBiteClothes	Não há roupa para eu morder				
-CantBiteOuter	Não há Discípulos Exteriores para eu morder				
-CantBiteInner	Não há Discípulos Interiores para eu morder				
-CantBiteVisitor	Não há visitantes para eu morder				
-CantBiteIncoming	Não há mortais para eu morder				
-CantAtkEnemy	Não há inimigos para eu atacar				
-CantShitAtShitPlace	Não há banheiros para usar				
-CantShitAtPlants	Não há plantas para eu defecar				
-CantShitAtDogHouse	Não há ninhos para eu defecar				
-CantShitAtStorage	Não há Armazéns para eu defecar				
-CantShitOnBed	Não há camas para eu defecar				
-CantShitInFarm	Não há Campos para eu defecar				
-CantCarryOuterToBed	Não há Discípulos para eu mudar para uma Cama				
-CantCarryVisitorToDest	Não há visitantes que eu possa mover para uma área de preparação				
-CantCarryEnemyToDest	Não há inimigos que eu possa mover para uma área de preparação				
-CantCarryIncomingToDest	Não há mortais que eu possa mover para uma Área de Encenação				
-CantCarryEnemyBodyToDest	Não há cadáveres inimigos que eu possa mover para uma área de preparação				
-CantCarryVisitorBodyToDest	Não há cadáveres de visitantes que possam ser movidos para uma área de preparação				
-CantCarryIncomingBodyToDest	Não há cadáveres de visitantes que possam ser movidos para uma área de preparação				
-CantHelpCarry	Não há itens para eu ajudar a organizar				
-CantHelpTimber	Não há árvores para eu ajudar a cortar				
-CantHelpMine	Não há minas para eu ajudar a minha				
-CantHelpFind	Não há ninguém para eu roubar				
-CantHelpKill	Não há inimigos para eu abater				
-CantHelpPlant	Não há colheitas para regar				
-CantCureFreeze	Não há ninguém com Frostbite para curar				
-CantCureHot	Não há ninguém com Heatstroke para curar				
-CantHelpCook	Ainda não estou pronto para ajudar a cozinhar				
-CantHeatEndure	Ainda não estou pronto para aumentar a resistência ao calor				
-CantColdEndure	Ainda não estou pronto para curar a Resistência ao Frio				
-CantHelpPlay	Não há Discípulos para brincar				
-CantPlayToy	Não há brinquedos para brincar				
-NoParam2CarryVisitorToDest					Não encontrei uma área de preparação para a qual o visitante {0} possa ser movido
-NoParam2CarryEnemyToDest					Não encontrei uma área de preparação para a qual o inimigo {0} pudesse ser movido
-NoParam2CarryIncomingToDest					Não encontrei uma Área de Encenação para a qual o mortal {0} pudesse ser movido
-NoParam2CarryEnemyBodyToDest					Não encontrei uma área de preparação para a qual o cadáver do inimigo {0} pudesse ser movido
-NoParam2CarryVisitorBodyToDest					Não encontrei uma área de preparação para a qual o cadáver do visitante {0} pudesse ser movido
-NoParam2CarryIncomingBodyToDest					Não encontrei uma Área de Encenação para onde o cadáver do mortal {0} pudesse ser movido
-NoParam2HelpCarry	Ainda não estou pronto para ajudar a mover nada				
-NoParam2HelpTimber	Ainda não estou pronto para ajudar a derrubar árvores				
-NoParam2HelpMine	Eu ainda não estou pronto para ajudar o meu				
-NoParam2HelpPlant	Ainda não estou pronto para ajudar a espalhar fertilizantes				
-NoParam2CureFreeze	Eu ainda não estou pronto para curar Frostbite				
-NoParam2CureHot	Eu ainda não estou pronto para curar Insolação				
-NoParam2HelpCook	Ainda não estou pronto para ajudar a cozinhar				
-DrinkTalk1	Eu quero beber um pouco de água				
-DrinkTalk2	Estou com sede				
-DrinkTalk3	estou bebendo agua				
-NotAtkDizzyOuter	Eu não atacaria Discípulos Interiores inconscientes				
-NotAtkDizzyInner	Eu não atacaria Discípulos Interiores inconscientes				
-NotAtkDizzyComing	eu não atacaria um mortal inconsciente				
-NotAtkDizzyVisitor	Eu não atacaria um visitante inconsciente				
-NoTongXie	Não consigo encontrar nenhum laxante				
-WannaAtkDizzyOuter					Eu quero acabar com o sofrimento de Outer Disciple {0}
-WannaAtkDizzyInner					Eu quero acabar com o sofrimento do Discípulo Interior {0}
-WannaAtkDizzyComing					O convidado inconsciente {0} está com a costura rompida, felizmente estou aqui
-WannaAtkDizzyVisitor					O visitante inconsciente {0} parece estar com dor, eu gostaria de fazer algo sobre isso
-DoTalkAtkDizzyOuter					Atualmente estou atacando o Discípulo Externo inconsciente {0}
-DoTalkAtkDizzyInner					Atualmente estou atacando o Discípulo Interior inconsciente {0}
-DoTalkAtkDizzyComing					Atualmente estou atacando um mortal inconsciente {0}
-DoTalkAtkDizzyVisitor					No momento, estou atacando o visitante inconsciente {0}
-CantAtkDizzyOuter	Não há Discípulos Exteriores inconscientes que eu possa atacar				
-CantAtkDizzyInner	Não há Discípulos Interiores inconscientes que eu possa atacar				
-CantAtkDizzyComing	Não há mortais inconscientes que eu possa atacar				
-CantAtkDizzyVisitor	Não há visitantes inconscientes que eu possa atacar				
-NotFeedTongXie	Eu não daria Outer Disciples Laxative para comer				
-NotCureInner	Eu não posso curar as feridas dos Discípulos Interiores				
-WannaFeedTongXie	Eu quero dar um pouco de Laxante para os Discípulos Externos para comer				Eu quero dar um pouco de Laxante ao Discípulo Externo {0} para comer
-WannaCureInner	Eu não posso curar as feridas dos Discípulos Interiores				Eu quero curar as feridas do Discípulo Interior {0}
-DoTalkFeedTongXie					Estou dando Outer Disciple {0} Laxante para comer
-DoTalkCureInner					Estou curando as feridas do Discípulo Interior {0}
-CantFeedTongXie	Não há Discípulos Externos que eu possa alimentar com Laxante				
-CantCureInner	Não há Discípulos Interiores para eu curar				
-NoParam2FeedTongXie					Eu gostaria de dar a Outer Disciple {0} Laxative para comer, mas não tenho nenhum
-NoParam2CureInner					Eu quero curar as feridas do Discípulo Interior {0}, mas não é o momento
-NotHelpPlantD	Eu não urinaria em um jardim de ervas				
-WannaHelpPlantD	Quero ajudar a regar um jardim de ervas				
-DoTalkHelpPlantD	Estou ajudando a regar um jardim de ervas				
-CantHelpPlantD	Não há como eu ajudar a regar os Jardins de Ervas				
-NoParam2HelpPlantD	Ainda não estou pronto para regar				
-NotCarryOuterBodyToDest	Eu não vou mover os cadáveres dos Discípulos Externos para uma Área de Encenação				
-NotCarryInnerBodyToDest	Eu não vou mover os cadáveres dos Discípulos Interiores para uma Área de Encenação				
-WannaCarryOuterBodyToDest	Eu quero mover os cadáveres dos Discípulos Externos para uma Área de Encenação				
-WannaCarryInnerBodyToDest	Eu quero mover os cadáveres dos Discípulos Interiores para uma Área de Encenação				
-DoTalkCarryOuterBodyToDest	No momento, estou movendo o cadáver do Discípulo Externo {0} para uma Área de Encenação				
-DoTalkCarryInnerBodyToDest	No momento, estou movendo o cadáver do Discípulo Interno {0} para uma Área de Encenação				
-CantCarryOuterBodyToDest	Não há como eu mover os cadáveres dos Discípulos Externos para uma Área de Encenação				
-CantCarryInnerBodyToDest	Não há como eu mover os cadáveres dos Discípulos Interiores para uma Área de Encenação				
-Sleep1	Quero dormir				
-Sleep2	Eu mal posso manter meus olhos abertos				
-Sleep3	Eu posso ouvir a terra dos sonhos me chamando				
-Wonder1	Dê uma olhada ao redor				
-Wonder2	Dê uma olhada no cenário				
-Wonder3	Sair para passear!				
-Lay1	Aproveite a brisa				
-Lay2	Hora de descansar um pouco				
-Lay3	eu não quero me mover				
-Follow1	Confira o que essa pessoa está fazendo				
-Follow2	Essa pessoa cheira engraçado				
-Follow3	Essa pessoa chamou minha atenção				
-Eat1	estou morrendo de fome				
-Eat2	Estou com tanta fome que não posso dar mais um passo				
-Eat3	Hora de comer				
-NotFeed_Item_Dan_Happiness	Eu ocasionalmente dou Pílulas de Euforia para Discípulos Interiores para tomar				
-NotFeed_Item_Dan_PracticeSpeed	Eu não daria Pílulas Broto para Discípulos Interiores tomarem				
-NotFeed_Item_Dan_CalmDown	Eu não daria Pílulas de Pureza para Discípulos Interiores para tomar				
-NotFeed_Item_LingStone	Eu não daria Pedras Espirituais aos Discípulos Interiores para pegar				
-NotFeed_Item_LingCrystal	Eu não daria Cristais Espirituais aos Discípulos Interiores para pegar				
-WannaFeed_Item_Dan_Happiness	Eu quero dar Pílulas de Euforia para os Discípulos Interiores tomarem				
-WannaFeed_Item_Dan_PracticeSpeed	Eu quero dar Pílulas Broto para Discípulos Interiores tomarem				
-WannaFeed_Item_Dan_CalmDown	Eu quero dar Pílulas de Pureza aos Discípulos Interiores para tomar				
-WannaFeed_Item_LingStone	Eu quero dar Pedras Espirituais aos Discípulos Interiores para				
-WannaFeed_Item_LingCrystal	Eu quero dar Cristais Espirituais aos Discípulos Interiores para tomar				
-DoTalkFeed_Item_Dan_Happiness	Estou dando Pílulas de Euforia para os Discípulos Interiores tomarem				
-DoTalkFeed_Item_Dan_PracticeSpeed	Estou dando Pílulas Broto para Discípulos Interiores para tomar				
-DoTalkFeed_Item_Dan_CalmDown	Estou dando Pílulas de Pureza aos Discípulos Interiores para tomar				
-DoTalkFeed_Item_LingStone	Estou dando Pedras Espirituais aos Discípulos Interiores para levar				
-DoTalkFeed_Item_LingCrystal	Estou dando Cristais Espirituais aos Discípulos Interiores para tomar				
-CantFeed_Item_Dan_Happiness	Não há nenhuma maneira que eu poderia dar Pílulas de Euforia aos Discípulos Interiores para tomar				
-CantFeed_Item_Dan_PracticeSpeed	Não há nenhuma maneira que eu poderia dar Pílulas Broto aos Discípulos Interiores para tomar				
-CantFeed_Item_Dan_CalmDown	Não há como eu dar Pílulas de Pureza aos Discípulos Interiores para tomar				
-CantFeed_Item_LingStone	Não há como eu dar Pedras Espirituais aos Discípulos Interiores para				
-CantFeed_Item_LingCrystal	Não há como eu dar Cristais Espirituais aos Discípulos Interiores para				
-NoParam2Feed_Item_Dan_Happiness	Não consigo encontrar nenhuma Pílula de Euforia				
-NoParam2Feed_Item_Dan_PracticeSpeed	Não consigo encontrar nenhuma Pílula Broto				
-NoParam2Feed_Item_Dan_CalmDown	Não consigo encontrar nenhuma pílula de pureza				
-NoParam2Feed_Item_LingStone	Não consigo encontrar nenhuma Pedra Espiritual				
-NoParam2Feed_Item_LingCrystal	Não consigo encontrar nenhum Cristal Espiritual				
-QiGanResult_Low	A habilidade de Qi aumentou um pouco				
-NeiDanResult_Low	Core aumentou um pouco				
-HuTiResult_Low	A capacidade de proteção aumentou um pouco				
-LingZhiResult_Low	A capacidade de inteligência aumentou um pouco				
-ShuFaResult_Low	A habilidade de conjuração aumentou um pouco				
-QiGanResult_Mid	A habilidade do Qi aumentou bastante				
-NeiDanResult_Mid	Core aumentou bastante				
-HuTiResult_Mid	A capacidade de proteção aumentou bastante				
-LingZhiResult_Mid	A capacidade de inteligência aumentou bastante				
-ShuFaResult_Mid	A habilidade de conjuração aumentou bastante				
-QiGanResult_High	A habilidade do Qi aumentou significativamente				
-NeiDanResult_High	O Núcleo Interno aumentou significativamente				
-HuTiResult_High	A capacidade de proteção aumentou significativamente				
-LingZhiResult_High	A capacidade de inteligência aumentou significativamente				
-ShuFaResult_High	A habilidade de conjuração aumentou significativamente				
-NotBiteExpel	Eu não posso morder mortais que eu não conheço				
-WannaBiteExpel					Eu quero morder um mortal desconhecido {0}!
-DoTalkBiteExpel					Atualmente estou mordendo um mortal desconhecido {0}
-CantBiteExpel	Não tenho como morder mortais que não conheço!				
-NotCarryMortalToDest	Eu não vou mover mortais inconscientes para uma Área de Encenação				
-NotCarryMortalBodyToDest	Eu não vou mover os cadáveres dos mortais para uma Área de Encenação				
-WannaCarryMortalToDest					O mortal {0} desmaiou, quero movê-los
-WannaCarryMortalBodyToDest					Mortal {0} morreu, quero movê-los
-DoTalkCarryMortalToDest					No momento estou movendo um mortal inconsciente {0} para uma Área de Encenação
-DoTalkCarryMortalBodyToDest					No momento, estou movendo o cadáver do mortal {0} para uma área de preparação
-CantCarryMortalToDest	Não há como eu mover mortais inconscientes para uma Área de Encenação				
-CantCarryMortalBodyToDest	Não há como eu mover os cadáveres dos mortais para uma Área de Encenação				
-Nothing	Nada aconteceu				
-No_NutritionQiGan	Não há nutrição para o Qi, não adianta praticar				
-No_NutritionNeiDan	Não há nutrição para o Núcleo Interno, não adianta praticar				
-No_NutritionHuTi	Não há alimento para Proteger, não adianta praticar				
-No_NutritionLingZhi	Não há alimento para a Inteligência, não adianta praticar				
-No_NutritionShufa	Não há nutrição para Spellcasting, não adianta praticar				
-WannaEat					Com base no meu plano de dieta, decidi comer algo
-WannaTrainShuFa	Eu quero praticar habilidades baseadas em feitiços				
-WannaTrainLingZhi	Eu quero praticar habilidades baseadas em Inteligência				
-WannaTrainHuTi	Eu quero praticar habilidades baseadas em proteção				
-WannaTrainNeiDan	Quero praticar Núcleo Interno				
-WannaTrainQiGan	Eu quero praticar habilidades baseadas em Qi				
-NothingToEat	Não há nada para comer! com certeza estou com fome				
-NotEat_Item_SnakeGallbladder	Eu não comeria Bile de Cobra				
-NotEat_Item_BearGallbladder	Eu não comeria Bile de Urso				
-NotEat_Item_RedGinseng	Eu não comeria Ginseng Vermelho				
-NotEat_Item_PurpleGanodermaLucidum	Eu não comeria Ganoderma Roxo				
-NotEat_Item_TuEssence	Eu não comeria Essência Ocre				
-NotEat_Item_HuoEssence	Eu não comeria Frutas Vermelhas								
-NotEat_Item_ShuiEssence	Eu não comeria Lótus Prismático				
-NotEat_Item_JinEssence	Eu não comeria Fruto da Sabedoria				
-NotEat_Item_MuEssence	Eu não comeria Vinha Encaracolada				
-NotEat_Item_LifeStream	Eu não beberia Fonte da Vida				
-NotEat_Item_LongEgg	Eu não comeria Ovos de Dragão da Inundação				
-NotEat_Item_FengEgg	Eu não comeria Ovos de Fênix				
-NotEat_Item_DragonShit	Eu não comeria Fezes de Dragão				
-NotEat_Item_Jiaozi	Eu não comeria Bolinhos				
-NotEat_Item_BossFeng_Meat	Eu não comeria Carne de Fênix				
-NotEat_Item_BossLong_Meat	Eu não comeria Carne de Dragão				
-NotEat_Item_BossZhuLong_Meat	Eu não comeria Carne Primordial				
-NotEat_Item_Cake	Eu não comeria Pão				
-NotEat_Item_MonsterBlood	Eu não comeria Sangue de Besta				
-NotEat_Item_EarthEssence	Eu não beberia Fluxo da Terra				
-NotEat_Item_SilverGrit	Eu não comeria Pó de Cristal de Gelo				
-NotEat_Item_CopperGrit	Eu não comeria Pó de Igneocobre				
-NotEat_Item_Cinnabar	Eu não comeria Cinnabar				
-NotEat_Item_LingMuXueJie	Eu não comeria Essência de Resina				
-NotEat_Item_EarthEssence_1	Eu não comeria Essência Sagrada				
-NotEat_Item_EarthEssence1_1	Eu não comeria Essência do Mal				
-NotEat_Item_Healroot	Eu não comeria Erva de Cura				
-NotEat_Item_Mint	Eu não comeria Folha Pura				
-NotEat_Item_MagicHerb	Eu não comeria a Folha do Espírito				
-NotEat_Item_Laxative	Eu não comeria Laxante			
-WannaEat_Item_SnakeGallbladder					Eu realmente quero comer Bile de Cobra
-WannaEat_Item_BearGallbladder					Eu realmente quero comer Bile de Urso
-WannaEat_Item_RedGinseng					Eu realmente quero comer Ginseng Vermelho
-WannaEat_Item_PurpleGanodermaLucidum					Eu realmente quero comer Ganoderma Roxo
-WannaEat_Item_TuEssence					Eu realmente quero comer Essência Ocre
-WannaEat_Item_HuoEssence					Eu realmente quero comer Frutas Vermelhas
-WannaEat_Item_ShuiEssence					Eu quero muito comer Lótus Prismático
-WannaEat_Item_JinEssence					Eu quero muito comer Fruto da Sabedoria
-WannaEat_Item_MuEssence					Eu realmente quero comer Vinha Encaracolada
-WannaEat_Item_LifeStream					Eu realmente quero beber Fonte da Vida
-WannaEat_Item_LongEgg					Eu realmente quero comer Ovos de Dragão da Inundação
-WannaEat_Item_FengEgg					Eu realmente quero comer Ovos de Fênix
-WannaEat_Item_DragonShit					Eu realmente quero comer Fezes de Dragão
-WannaEat_Item_Jiaozi					quero muito comer bolinhos
-WannaEat_Item_BossFeng_Meat					Eu realmente quero comer Carne de Fênix
-WannaEat_Item_BossLong_Meat					Eu realmente quero comer Carne de Dragão
-WannaEat_Item_BossZhuLong_Meat					Eu realmente quero comer Carne Primordial
-WannaEat_Item_Cake					Eu quero muito comer Pão
-WannaEat_Item_MonsterBlood					Eu realmente quero comer Sangue de Besta
-WannaEat_Item_EarthEssence					Eu realmente quero beber Fluxo da Terra
-WannaEat_Item_SilverGrit					Eu realmente quero comer Pó de Cristal de Gelo
-WannaEat_Item_CopperGrit					Eu realmente quero comer Pó de Igneocobre
-WannaEat_Item_Cinnabar					Eu realmente quero comer Cinnabar
-WannaEat_Item_LingMuXueJie					Eu realmente quero comer Essência de Resina
-WannaEat_Item_EarthEssence_1					Eu realmente quero comer Essência Sagrada
-WannaEat_Item_EarthEssence1_1					Eu realmente quero comer Essência do Mal
-WannaEat_Item_Healroot					Eu realmente quero comer Erva de Cura
-WannaEat_Item_Mint					Eu realmente quero comer Folha Pura
-WannaEat_Item_MagicHerb					Eu realmente quero comer Folha do Espírito
-WannaEat_Item_Laxative					Eu realmente quero comer Laxante
-DoTalkEat_Item_SnakeGallbladder					Eu estou comendo Bile de Cobra
-DoTalkEat_Item_BearGallbladder					Eu estou comendo Bile de Urso
-DoTalkEat_Item_RedGinseng					Eu estou comendo Ginseng Vermelho
-DoTalkEat_Item_PurpleGanodermaLucidum					Estou comendo Ganoderma Roxo
-DoTalkEat_Item_TuEssence					Estou comendo Essência Ocre
-DoTalkEat_Item_HuoEssence					Estou comendo Frutas Vermelhas
-DoTalkEat_Item_ShuiEssence					Eu estou comendo Lótus Prismático
-DoTalkEat_Item_JinEssence					Estou comendo Fruto da Sabedoria
-DoTalkEat_Item_MuEssence					Estou comendo Vinha Encaracolada
-DoTalkEat_Item_LifeStream					Estou bebendo Fonte da Vida
-DoTalkEat_Item_LongEgg					Estou comendo Ovos de Dragão da Inundação
-DoTalkEat_Item_FengEgg					Estou comendo Ovos de Fênix
-DoTalkEat_Item_DragonShit					Estou comendo Fezes de Dragão
-DoTalkEat_Item_Jiaozi					Estou comendo Bolinhos
-DoTalkEat_Item_BossFeng_Meat					Eu estou comendo Carne de Fênix
-DoTalkEat_Item_BossLong_Meat					Estou comendo Carne de Dragão
-DoTalkEat_Item_BossZhuLong_Meat					Estou comendo Carne Primordial
-DoTalkEat_Item_Cake					Estou comendo Pão
-DoTalkEat_Item_MonsterBlood					Estou comendo Sangue de Besta
-DoTalkEat_Item_EarthEssence					Estou bebendo Fluxo da Terra
-DoTalkEat_Item_SilverGrit					Estou comendo Pó de Cristal de Gelo
-DoTalkEat_Item_CopperGrit					Estou comendo Pó de Igneocobre
-DoTalkEat_Item_Cinnabar					Estou comendo Cinábrio
-DoTalkEat_Item_LingMuXueJie					Estou comendo Essência de Resina
-DoTalkEat_Item_EarthEssence_1					Estou comendo Essência Sagrada
-DoTalkEat_Item_EarthEssence1_1					Estou comendo Essência do Mal
-DoTalkEat_Item_Healroot					Estou comendo Erva de Cura
-DoTalkEat_Item_Mint					Eu estou comendo Folha Pura
-DoTalkEat_Item_MagicHerb					Eu estou comendo Folha do Espírito
-DoTalkEat_Item_Laxative					estou comendo laxante
-CantEat_Item_SnakeGallbladder	Não consigo encontrar nenhum Bile de Cobra para comer				
-CantEat_Item_BearGallbladder	Não consigo encontrar nenhum Bile de Urso para comer				
-CantEat_Item_RedGinseng	Não consigo encontrar nenhum Ginseng Vermelho para comer				
-CantEat_Item_PurpleGanodermaLucidum	Não consigo encontrar nenhum Ganoderma Roxo para comer				
-CantEat_Item_TuEssence	Não consigo encontrar nenhuma Essência Ocre para comer				
-CantEat_Item_HuoEssence	Não consigo encontrar nenhuma Fruta Vermelha para comer				
-CantEat_Item_ShuiEssence	Não consigo encontrar nenhum Lótus Prismático para comer				
-CantEat_Item_JinEssence	Não consigo encontrar nenhuma Fruto da Sabedoria para comer				
-CantEat_Item_MuEssence	Não consigo encontrar nenhuma Vinha Encaracolada para comer				
-CantEat_Item_LifeStream	Não consigo encontrar nenhuma Fonte da Vida para beber				
-CantEat_Item_LongEgg	Não consigo encontrar nenhum Ovo de Dragão da Inundação para comer				
-CantEat_Item_FengEgg	Não consigo encontrar nenhum Ovo de Fênix para comer				
-CantEat_Item_DragonShit	Não consigo encontrar fezes de dragão para comer				
-CantEat_Item_Jiaozi	Não consigo encontrar Bolinhos para comer				
-CantEat_Item_BossFeng_Meat	Não consigo encontrar Carne de Fênix para comer				
-CantEat_Item_BossLong_Meat	Não consigo encontrar nenhuma Carne de Dragão para comer				
-CantEat_Item_BossZhuLong_Meat	Não consigo encontrar nenhuma Carne Primordial para comer				
-CantEat_Item_Cake	Não consigo encontrar nenhum Pão para comer				
-CantEat_Item_MonsterBlood	Não consigo encontrar Sangue de Besta para comer				
-CantEat_Item_EarthEssence	Não consigo encontrar nenhum Fluxo da Terra para beber				
-CantEat_Item_SilverGrit	Não consigo encontrar nenhum Pó de Cristal de Gelo para comer				
-CantEat_Item_CopperGrit	Não consigo encontrar nenhum Pó de Igneocobre para comer				
-CantEat_Item_Cinnabar	Não consigo encontrar nenhum Cinnabar para comer				
-CantEat_Item_LingMuXueJie	Não consigo encontrar nenhuma Essência de Resina para comer				
-CantEat_Item_EarthEssence_1	Não consigo encontrar nenhuma Essência Sagrada para comer				
-CantEat_Item_EarthEssence1_1	Não consigo encontrar nenhuma Essência do Mal para comer				
-CantEat_Item_Healroot	Não consigo encontrar nenhuma Erva de Cura para comer				
-CantEat_Item_Mint	Não consigo encontrar nenhuma Folha Pura para comer				
-CantEat_Item_MagicHerb	Não consigo encontrar nenhuma Folha do Espírito para comer				
-CantEat_Item_Laxative	Não consigo encontrar nenhum Laxante para comer				
-Leave1					{0}, tenha cuidado na estrada
-Leave2					Volte em breve, {0}
-Leave3					Viagens seguras, {0}
-Back1					{0}, você finalmente voltou
-Back2					Bem-vindo ao lar, {0}
-Back3					senti sua falta, {0}
-NotBack1					{0}, como você ainda não voltou
-NotBack2					{0}, o que você foi fazer
-NotBack3					Gostaria de saber como {0} está indo
-BackComa1					O que há de errado, {0}
-BackComa2					{0} precisa de ajuda
-BackComa3					{0}, continue assim
-SleepHelp1					Melhore logo, {0}!
-SleepHelp2					Melhore logo, {0}!
-SleepHelp3					Melhore logo, {0}!
-Lacrimosa1		...			
-Lacrimosa2		...			
-Lacrimosa3		...			
-QiGan_FullTalk	Meu Qi está no limite				
-NeiDan_FullTalk	Meu Núcleo Interno está no limite				
-HuTi_FullTalk	Minha proteção está no limite				
-LingZhi_FullTalk	Minha inteligência está no limite				
-ShuFa_FullTalk	Minha habilidade de conjuração está no limite				
+﻿talk	notarget	thing	int
+NotEatShit	Eu jamais sonharia em comer fezes		
+NotEatEssence	Eu não comeria materiais raros, a menos que me fossem servidos		
+NotEatDrug	Eu nem petiscaria Elixirs se minha vida dependesse disso, a menos que me fossem servidos		
+NotEatWheat	Eu só como Trigo quando estou bem e com fome		
+NotEatDryMeat	Eu realmente não comeria Carne Seca		
+NotEatPear	O que é uma "Pera"? Você pode comê-la		
+NotEatMeat	Carne Crua é ASQUEROSA, eu só comeria se minha vida dependesse disso		
+NotEatCook	Não há comida que eu queira comer menos do que Comida Cozida		
+NotBiteBuilding	Eu realmente não quero atacar edifícios		
+NotBiteClothes	Eu não brincaria com roupas		
+NotBiteOuter	Eu não atacaria Discípulos Externos		
+NotBiteInner	Eu não atacaria Discípulos Internos		
+NotBiteVisitor	Eu não atacaria visitantes		
+NotBiteIncoming	Eu não atacaria um mortal que tenha passado por aqui		
+NotAtkEnemy	Eu não vou atacar inimigos, a menos que eles tenham dado o primeiro movimento		
+NotShitAtShitPlace	Eu não vou defecar onde se deve		
+NotShitAtPlants	Eu não vou defecar em Plantas		
+NotShitAtDogHouse	Eu não vou defecar ao lado da minha cama		
+NotShitAtStorage	Eu não vou defecar em um Depósito		
+NotShitOnBed	Eu não vou defecar em uma Cama		
+NotShitInFarm	Eu não vou defecar em um Campo		
+NotCarryOuterToBed	Eu não moveria discípulos inconscientes para uma Cama		
+NotCarryVisitorToDest	Eu não vou mover visitantes inconscientes para uma Área de Estágio		
+NotCarryEnemyToDest	Eu não vou mover inimigos inconscientes para uma Área de Estágio		
+NotCarryIncomingToDest	Eu não vou mover mortais inconscientes para uma Área de Estágio		
+NotCarryEnemyBodyToDest	Eu não vou mover os corpos dos inimigos para uma Área de Estágio		
+NotCarryVisitorBodyToDest	Eu não vou mover os corpos dos visitantes para uma Área de Estágio		
+NotCarryIncomingBodyToDest	Eu não vou mover os corpos dos mortais para uma Área de Estágio		
+NotHelpCarry	Eu não ajudaria a organizar itens		
+NotHelpTimber	Eu não ajudaria a derrubar árvores		
+NotHelpMine	Eu não ajudaria a minerar		
+NotHelpFind	Eu não ajudaria a furtar itens		
+NotHelpKill	Eu não ajudaria a abater animais		
+NotHelpPlant	Eu não ajudaria a fertilizar plantas		
+NotCureFreeze	Eu não ajudaria a curar congelamento		
+NotCureHot	Eu não ajudaria a curar golpe de calor		
+NotHelpCook	Eu não ajudaria a cozinhar		
+NotHeatEndure	Eu não ajudaria a aumentar a Resistência ao Calor		
+NotColdEndure	Eu não ajudaria a aumentar a Resistência ao Frio		
+NotHelpPlay	Eu não brincaria com os Discípulos		
+NotPlayToy	Eu não brincaria com brinquedos		
+NotTrainQiGan	Eu não lapidaria meu Qi		
+NotTrainNeiDan	Eu não praticaria Core		
+NotTrainHuTi	Eu não lapidaria minha Proteção		
+NotTrainLingZhi	Eu não lapidaria meu Intelecto		
+NotTrainShuFa	Eu não praticaria Feitiços		
+WannaEatShit		Este {0}, é bom?	
+WannaEatEssence		Este {0} está me fazendo salivar	
+WannaEatDrug		Eu quero petiscar Elixirs	
+WannaEatWheat		Este {0} parece simplesmente divino	
+WannaEatDryMeat		Eu não consigo resistir à fragrância de {0}	
+WannaEatPear		Eu não aguento mais, eu quero comer {0}	
+WannaEatMeat		Eu vou comer este {0}	
+WannaEatCook		Eu realmente quero comer {0}	
+WannaBiteBuilding		{0}, já aguento você há bastante tempo	
+WannaBiteClothes		Este {0} deve ser bom para ranger os dentes	
+WannaBiteOuter		Eu me pergunto como é o gosto do Discípulo Externo {0}	
+WannaBiteInner		Hora de mostrar ao Discípulo Interno {0} o meu verdadeiro poder	
+WannaBiteVisitor		O Visitante {0} parece uma boa pessoa para praticar habilidades	
+WannaBiteIncoming		O Convidado {0} parece uma boa pessoa para praticar habilidades	
+WannaAtkEnemy		{0}, sua hora chegou	
+WannaShitAtShitPlace		Eu quero defecar onde devo	
+WannaShitAtPlants		Eu quero defecar em Plantas	
+WannaShitAtDogHouse		Eu quero defecar ao lado da cama	
+WannaShitAtStorage		Minhas fezes são preciosas, o Depósito seria um ótimo lugar para elas	
+WannaShitOnBed		Seria interessante defecar em uma Cama	
+WannaShitInFarm		Defecar no Campo deve ajudar, certo	
+WannaCarryOuterToBed		Eu devo ajudar os {0} inconscientes	
+WannaCarryVisitorToDest		Eu quero mover o visitante inconsciente {0} para uma Área de Estágio	
+WannaCarryEnemyToDest		Eu quero mover o inimigo inconsciente {0} para uma Área de Estágio	
+WannaCarryIncomingToDest		Eu quero mover o convidado inconsciente {0} para uma Área de Estágio	
+WannaCarryEnemyBodyToDest		Eu quero mover o corpo do inimigo {0} para uma Área de Estágio	
+WannaCarryVisitorBodyToDest		Eu quero mover o corpo do visitante {0} para uma Área de Estágio	
+WannaCarryIncomingBodyToDest		Eu quero mover o corpo do convidado {0} para uma Área de Estágio	
+WannaHelpCarry	Eu quero ajudar a organizar itens		
+WannaHelpTimber	Parece que estas árvores precisam ser derrubadas, deixe-me ajudar	Parece que estas árvores precisam ser derrubadas, deixe-me ajudar	
+WannaHelpMine	Estas Pedras parecem valiosas, pegue isto!	Estas Pedras parecem valiosas, pegue isto!	
+WannaHelpFind	Deixe-me ver o que esses caras têm	Deixe-me ver o que esses caras têm	
+WannaHelpKill	Cadáveres não deveriam ser deixados apodrecer, deixe-me ajudar	Cadáveres não deveriam ser deixados apodrecer, deixe-me ajudar	
+WannaHelpPlant	As plantas no campo parecem úteis, deixe-me ajudar a fertilizá-las	As plantas no campo parecem úteis, deixe-me ajudar a fertilizá-las	
+WannaCureFreeze	O congelamento de {0} é sério, deixe-me curá-lo	O congelamento de {0} é sério, deixe-me curá-lo	
+WannaCureHot	O golpe de calor de {0} é sério, deixe-me curá-lo	O golpe de calor de {0} é sério, deixe-me curá-lo	
+WannaHeatEndure	Eu quero ajudar a aumentar a Resistência ao Calor	Eu quero ajudar a aumentar a Resistência ao Calor	
+WannaColdEndure	Eu quero ajudar a aumentar a Resistência ao Frio	Eu quero ajudar a aumentar a Resistência ao Frio	
+WannaHelpPlay	Parece que {0} não está de bom humor	Parece que {0} não está de bom humor	
+WannaPlayToy	Eu quero brincar com {0} como se não houvesse amanhã	Eu quero brincar com {0} como se não houvesse amanhã	
+DoTalkEatShit		Eu estou atualmente comendo {0}	
+DoTalkEatEssence		Eu estou atualmente comendo {0}	
+DoTalkEatDrug		Eu estou atualmente comendo {0}	
+DoTalkEatWheat		Eu estou atualmente comendo {0}	
+DoTalkEatDryMeat		Eu estou atualmente comendo {0}	
+DoTalkEatPear		Eu estou atualmente comendo {0}	
+DoTalkEatMeat		Eu estou atualmente comendo {0}	
+DoTalkEatCook		Eu estou atualmente comendo {0}	
+DoTalkEat		Eu estou atualmente apreciando {0}	
+DoTalkBiteBuilding		Estou rangendo os dentes com {0}	
+DoTalkBiteClothes		Eu estou atualmente atacando {0}	
+DoTalkBiteOuter		Eu estou atualmente atacando {0}	
+DoTalkBiteInner		Estou mordendo visitante {0}	
+DoTalkBiteVisitor		Estou mordendo convidado {0}	
+DoTalkBiteIncoming		Estou mordendo {0}	
+DoTalkBiteBuildingEx		Estou impiedosamente mordendo {0}	
+DoTalkBiteClothesEx		Estou tentando mastigar {0}	
+DoTalkBiteOuterEx		Estou mordendo {0} com toda a força que posso	
+DoTalkBiteInnerEx		Estou mordendo {0} com toda a força que posso	
+DoTalkBiteVisitorEx		Estou mordendo Visitante {0} com toda a força que posso	
+DoTalkBiteIncomingEx		Estou mordendo convidado {0} com toda a força que posso	
+DoTalkAtkEnemy		Estou atualmente atacando {0}!	
+DoTalkShitAtShitPlace		Estou usando o banheiro	
+DoTalkShitAtPlants		Estou defecando ao lado de {0}	
+DoTalkShitAtDogHouse		Estou defecando ao lado da minha cama	
+DoTalkShitAtStorage		Estou defecando em um Depósito	
+DoTalkShitOnBed		Estou defecando em uma Cama	
+DoTalkShitInFarm		Estou defecando em um Campo	
+DoTalkCarryOuterToBed		Estou movendo {0} inconscientes para uma Cama	
+DoTalkCarryVisitorToDest		Estou atualmente movendo visitante inconsciente {0} para uma Área de Estágio	
+DoTalkCarryEnemyToDest		Estou atualmente movendo inimigo inconsciente {0} para uma Área de Estágio	
+DoTalkCarryIncomingToDest		Estou atualmente movendo convidado inconsciente {0} para uma Área de Estágio	
+DoTalkCarryEnemyBodyToDest		Estou atualmente movendo o cadáver de {0}'s para uma Área de Estágio	
+DoTalkCarryVisitorBodyToDest		Estou atualmente movendo o cadáver de {0}'s para uma Área de Estágio	
+DoTalkCarryIncomingBodyToDest		Estou atualmente movendo o cadáver de {0}'s para uma Área de Estágio	
+DoTalkHelpCarry		Estou ajudando a organizar itens	
+DoTalkHelpTimber		Estou ajudando a derrubar árvores	
+DoTalkHelpMine		Estou ajudando a minerar	
+DoTalkHelpFind		Estou furtando itens	
+DoTalkHelpKill		Estou abatendo animais	
+DoTalkHelpPlant		Estou fertilizando plantas	
+DoTalkCureFreeze		Estou curando o congelamento de {0}	
+DoTalkCureHot		Estou curando o golpe de calor de {0}	
+DoTalkHelpCook		Estou ajudando a cozinhar	
+DoTalkHeatEndure		Estou ajudando a aumentar a Resistência ao Calor	
+DoTalkColdEndure		Estou ajudando a aumentar a Resistência ao Frio		
+DoTalkHelpPlay		Estou me divertindo com {0}	
+DoTalkPlayToy		Estou brincando com {0}	
+DoTalkPlaySelf		Estou me divertindo sozinho	
+DoTalkTrainQiGan	Estou praticando habilidades baseadas em Qi		
+DoTalkTrainNeiDan	Estou praticando Core		
+DoTalkTrainHuTi	Estou praticando habilidades baseadas em Proteção		
+DoTalkTrainLingZhi	Estou praticando habilidades baseadas em Intelecto		
+DoTalkTrainShuFa	Estou praticando habilidades baseadas em Feitiços		
+DoTalkFollow			
+DoTalkLay			
+DoTalkWander			
+CantEatShit	Eu não tenho fezes para comer		
+CantEatEssence	Não há material raro para eu comer		
+CantEatDrug	Não há Elixir para eu tomar		
+CantEatWheat	Não há Trigo para eu comer		
+CantEatDryMeat	Não há Carne Seca para eu comer		
+CantEatPear	Não há Peras para eu comer		
+CantEatMeat	Não há Carne Crua para eu comer		
+CantEatCook	Não há Carne Cozida para eu comer		
+CantBiteBuilding	Não há edifícios para eu morder		
+CantBiteClothes	Não há roupas para eu morder		
+CantBiteOuter	Não há Discípulos Externos para eu morder		
+CantBiteInner	Não há Discípulos Internos para eu morder		
+CantBiteVisitor	Não há visitantes para eu morder		
+CantBiteIncoming	Não há mortais para eu morder		
+CantAtkEnemy	Não há inimigos para eu atacar		
+CantShitAtShitPlace	Não há banheiros para usar		
+CantShitAtPlants	Não há plantas para eu defecar sobre		
+CantShitAtDogHouse	Não há ninhos para eu defecar		
+CantShitAtStorage	Não há Depósitos para eu defecar em		
+CantShitOnBed	Não há Camas para eu defecar em		
+CantShitInFarm	Não há Campos para eu defecar em		
+CantCarryOuterToBed	Não há Discípulos para eu mover para uma Cama		
+CantCarryVisitorToDest	Não há visitantes para eu mover para uma Área de Estágio		
+CantCarryEnemyToDest	Não há inimigos para eu mover para uma Área de Estágio		
+CantCarryIncomingToDest	Não há mortais para eu mover para uma Área de Estágio		
+CantCarryEnemyBodyToDest	Não há cadáveres de inimigos para eu mover para uma Área de Estágio		
+CantCarryVisitorBodyToDest	Não há cadáveres de visitantes que possam ser movidos para uma Área de Estágio		
+CantCarryIncomingBodyToDest	Não há cadáveres de visitantes que possam ser movidos para uma Área de Estágio		
+CantHelpCarry	Não há itens para eu ajudar a organizar		
+CantHelpTimber	Não há árvores para eu ajudar a derrubar		
+CantHelpMine	Não há minas para eu ajudar a minerar		
+CantHelpFind	Não há ninguém para eu furtar		
+CantHelpKill	Não há inimigos para eu abater		
+CantHelpPlant	Não há culturas para eu regar		
+CantCureFreeze	Não há ninguém com congelamento para eu curar		
+CantCureHot	Não há ninguém com golpe de calor para eu curar		
+CantHelpCook	Eu ainda não estou pronto para ajudar a cozinhar		
+CantHeatEndure	Eu ainda não estou pronto para aumentar a Resistência ao Calor		
+CantColdEndure	Eu ainda não estou pronto para aumentar a Resistência ao Frio		
+CantHelpPlay	Não há Discípulos para eu brincar		
+CantPlayToy	Não há brinquedos para eu brincar		
+NoParam2CarryVisitorToDest		Não encontrei uma Área de Estágio para a qual o visitante {0} pudesse ser movido	
+NoParam2CarryEnemyToDest		Não encontrei uma Área de Estágio para a qual o inimigo {0} pudesse ser movido	
+NoParam2CarryIncomingToDest		Não encontrei uma Área de Estágio para a qual o mortal {0} pudesse ser movido	
+NoParam2CarryEnemyBodyToDest		Não encontrei uma Área de Estágio para a qual o cadáver do inimigo {0} pudesse ser movido	
+NoParam2CarryVisitorBodyToDest		Não encontrei uma Área de Estágio para a qual o cadáver do visitante {0} pudesse ser movido	
+NoParam2CarryIncomingBodyToDest		Não encontrei uma Área de Estágio para a qual o cadáver do mortal {0} pudesse ser movido	
+NoParam2HelpCarry	Eu ainda não estou pronto para ajudar a mover nada		
+NoParam2HelpTimber	Eu ainda não estou pronto para ajudar a derrubar árvores		
+NoParam2HelpMine	Eu ainda não estou pronto para ajudar a minerar		
+NoParam2HelpPlant	Eu ainda não estou pronto para ajudar a espalhar fertilizante		
+NoParam2CureFreeze	Eu ainda não estou pronto para curar o congelamento		
+NoParam2CureHot	Eu ainda não estou pronto para curar o golpe de calor		
+NoParam2HelpCook	Eu ainda não estou pronto para ajudar a cozinhar		
+DrinkTalk1	Eu quero beber um pouco de água		
+DrinkTalk2	Estou com sede		
+DrinkTalk3	Eu estou bebendo água		
+NotAtkDizzyOuter	Eu não atacaria Discípulos Internos inconscientes		
+NotAtkDizzyInner	Eu não atacaria Discípulos Internos inconscientes		
+NotAtkDizzyComing	Eu não atacaria um mortal inconsciente		
+NotAtkDizzyVisitor	Eu não atacaria um visitante inconsciente		
+NoTongXie	Não consigo encontrar nenhum laxante		
+WannaAtkDizzyOuter		Quero acabar com o sofrimento do Discípulo Externo {0}	
+WannaAtkDizzyInner		Quero acabar com o sofrimento do Discípulo Interno {0}	
+WannaAtkDizzyComing		O convidado inconsciente {0} tem uma costura estourada, felizmente estou aqui	
+WannaAtkDizzyVisitor		O visitante inconsciente {0} parece estar com dor, gostaria de fazer algo a respeito	
+DoTalkAtkDizzyOuter		Estou atualmente atacando o Discípulo Externo inconsciente {0}	
+DoTalkAtkDizzyInner		Estou atualmente atacando o Discípulo Interno inconsciente {0}	
+DoTalkAtkDizzyComing		Estou atualmente atacando o mortal inconsciente {0}	
+DoTalkAtkDizzyVisitor		Estou atualmente atacando o visitante inconsciente {0}	
+CantAtkDizzyOuter	Não há Discípulos Externos inconscientes que eu possa atacar		
+CantAtkDizzyInner	Não há Discípulos Internos inconscientes que eu possa atacar		
+CantAtkDizzyComing	Não há mortais inconscientes que eu possa atacar		
+CantAtkDizzyVisitor	Não há visitantes inconscientes que eu possa atacar		
+NotFeedTongXie	Eu não daria laxante para os Discípulos Externos comerem		
+NotCureInner	Eu não consigo curar as feridas dos Discípulos Internos		
+WannaFeedTongXie	Eu quero dar um laxante para os Discípulos Externos comerem	Eu quero dar um laxante para o Discípulo Externo {0} comer	
+WannaCureInner	Eu não consigo curar as feridas dos Discípulos Internos	Eu quero curar as feridas do Discípulo Interno {0}	
+DoTalkFeedTongXie		Estou dando laxante para o Discípulo Externo {0} comer	
+DoTalkCureInner		Estou curando as feridas do Discípulo Interno {0}	
+CantFeedTongXie	Não há Discípulos Externos para os quais eu possa dar laxante		
+CantCureInner	Não há Discípulos Internos para eu curar		
+NoParam2FeedTongXie		Gostaria de dar laxante para o Discípulo Externo {0} comer, mas não tenho nenhum	
+NoParam2CureInner		Quero curar as feridas do Discípulo Interno {0}, mas não é o momento	
+NotHelpPlantD	Eu não urinaria em um Jardim de Ervas		
+WannaHelpPlantD	Eu quero ajudar a regar um Jardim de Ervas		
+DoTalkHelpPlantD	Estou ajudando a regar um Jardim de Ervas		
+CantHelpPlantD	Não há como eu ajudar a regar Jardins de Ervas		
+NoParam2HelpPlantD	Ainda não estou pronto para regar		
+NotCarryOuterBodyToDest	Eu não vou mover os cadáveres dos Discípulos Externos para uma Área de Estágio		
+NotCarryInnerBodyToDest	Eu não vou mover os cadáveres dos Discípulos Internos para uma Área de Estágio		
+WannaCarryOuterBodyToDest	Eu quero mover os cadáveres dos Discípulos Externos para uma Área de Estágio		
+WannaCarryInnerBodyToDest	Eu quero mover os cadáveres dos Discípulos Internos para uma Área de Estágio		
+DoTalkCarryOuterBodyToDest	Estou atualmente movendo o cadáver do Discípulo Externo {0} para uma Área de Estágio		
+DoTalkCarryInnerBodyToDest	Estou atualmente movendo o cadáver do Discípulo Interno {0} para uma Área de Estágio		
+CantCarryOuterBodyToDest	Não há como eu mover os cadáveres dos Discípulos Externos para uma Área de Estágio		
+CantCarryInnerBodyToDest	Não há como eu mover os cadáveres dos Discípulos Internos para uma Área de Estágio		
+Sleep1	Eu quero dormir		
+Sleep2	Eu mal consigo manter os olhos abertos		
+Sleep3	Eu posso ouvir o chamado do mundo dos sonhos		
+Wonder1	Olhe ao redor		
+Wonder2	Olhe a paisagem		
+Wonder3	Saindo para um passeio!		
+Lay1	Aproveite a brisa		
+Lay2	Hora de descansar		
+Lay3	Eu não quero me mover		
+Follow1	Veja o que essa pessoa está fazendo		
+Follow2	Essa pessoa tem um cheiro estranho		
+Follow3	Essa pessoa chamou minha atenção		
+Eat1	Estou morrendo de fome		
+Eat2	Estou com tanta fome que não consigo dar outro passo		
+Eat3	Hora de comer		
+NotFeed_Item_Dan_Happiness	Eu ocasionalmente dou Pílulas de Euforia para os Discípulos Internos tomarem		
+NotFeed_Item_Dan_PracticeSpeed	Eu não daria Pílulas de Broto para os Discípulos Internos tomarem		
+NotFeed_Item_Dan_CalmDown	Eu não daria Pílulas de Pureza para os Discípulos Internos tomarem		
+NotFeed_Item_LingStone	Eu não daria Pedras Espirituais para os Discípulos Internos tomarem		
+NotFeed_Item_LingCrystal	Eu não daria Cristais Espirituais para os Discípulos Internos tomarem		
+WannaFeed_Item_Dan_Happiness	Eu quero dar Pílulas de Euforia para os Discípulos Internos tomarem		
+WannaFeed_Item_Dan_PracticeSpeed	Eu quero dar Pílulas de Broto para os Discípulos Internos tomarem		
+WannaFeed_Item_Dan_CalmDown	Eu quero dar Pílulas de Pureza para os Discípulos Internos tomarem		
+WannaFeed_Item_LingStone	Eu quero dar Pedras Espirituais para os Discípulos Internos tomarem		
+WannaFeed_Item_LingCrystal	Eu quero dar Cristais Espirituais para os Discípulos Internos tomarem		
+DoTalkFeed_Item_Dan_Happiness	Eu estou dando Pílulas de Euforia para os Discípulos Internos tomarem		
+DoTalkFeed_Item_Dan_PracticeSpeed	Eu estou dando Pílulas de Broto para os Discípulos Internos tomarem		
+DoTalkFeed_Item_Dan_CalmDown	Eu estou dando Pílulas de Pureza para os Discípulos Internos tomarem		
+DoTalkFeed_Item_LingStone	Eu estou dando Pedras Espirituais para os Discípulos Internos tomarem		
+DoTalkFeed_Item_LingCrystal	Eu estou dando Cristais Espirituais para os Discípulos Internos tomarem		
+CantFeed_Item_Dan_Happiness	Não tem como eu dar Pílulas de Euforia para os Discípulos Internos tomarem		
+CantFeed_Item_Dan_PracticeSpeed	Não tem como eu dar Pílulas de Broto para os Discípulos Internos tomarem		
+CantFeed_Item_Dan_CalmDown	Não tem como eu dar Pílulas de Pureza para os Discípulos Internos tomarem		
+CantFeed_Item_LingStone	Não tem como eu dar Pedras Espirituais para os Discípulos Internos tomarem		
+CantFeed_Item_LingCrystal	Não tem como eu dar Cristais Espirituais para os Discípulos Internos tomarem		
+NoParam2Feed_Item_Dan_Happiness	Eu não consigo encontrar nenhuma Pílula de Euforia		
+NoParam2Feed_Item_Dan_PracticeSpeed	Eu não consigo encontrar nenhuma Pílula de Broto		
+NoParam2Feed_Item_Dan_CalmDown	Eu não consigo encontrar nenhuma Pílula de Pureza		
+NoParam2Feed_Item_LingStone	Eu não consigo encontrar nenhuma Pedra Espiritual		
+NoParam2Feed_Item_LingCrystal	Eu não consigo encontrar nenhum Cristal Espiritual		
+QiGanResult_Low	A habilidade de Qi aumentou um pouco		
+NeiDanResult_Low	O Núcleo aumentou um pouco		
+HuTiResult_Low	A habilidade de Proteção aumentou um pouco		
+LingZhiResult_Low	A habilidade de Inteligência aumentou um pouco		
+ShuFaResult_Low	A habilidade de Conjuração aumentou um pouco		
+QiGanResult_Mid	A habilidade de Qi aumentou consideravelmente		
+NeiDanResult_Mid	O Núcleo aumentou consideravelmente		
+HuTiResult_Mid	A habilidade de Proteção aumentou consideravelmente		
+LingZhiResult_Mid	A habilidade de Inteligência aumentou consideravelmente		
+ShuFaResult_Mid	A habilidade de Conjuração aumentou consideravelmente		
+QiGanResult_High	A habilidade de Qi aumentou significativamente		
+NeiDanResult_High	O Núcleo Interno aumentou significativamente		
+HuTiResult_High	A habilidade de Proteção aumentou significativamente		
+LingZhiResult_High	A habilidade de Inteligência aumentou significativamente		
+ShuFaResult_High	A habilidade de Conjuração aumentou significativamente		
+NotBiteExpel	Eu não posso morder mortais que eu não conheço		
+WannaBiteExpel		Eu quero morder o mortal desconhecido {0}!	
+DoTalkBiteExpel		Eu estou mordendo o mortal desconhecido {0}	
+CantBiteExpel	Não tem como eu morder mortais que eu não conheço!		
+NotCarryMortalToDest	Eu não vou mover mortais inconscientes para uma Área de Estágio		
+NotCarryMortalBodyToDest	Eu não vou mover os corpos dos mortais para uma Área de Estágio		
+WannaCarryMortalToDest		O mortal {0} desmaiou, eu quero movê-lo	
+WannaCarryMortalBodyToDest		O mortal {0} morreu, eu quero movê-lo	
+DoTalkCarryMortalToDest		Eu estou movendo o mortal inconsciente {0} para uma Área de Estágio	
+DoTalkCarryMortalBodyToDest		Eu estou movendo o corpo do mortal {0} para uma Área de Estágio	
+CantCarryMortalToDest	Não tem como eu mover mortais inconscientes para uma Área de Estágio		
+CantCarryMortalBodyToDest	Não tem como eu mover os corpos dos mortais para uma Área de Estágio		
+Nothing	Nada aconteceu		
+No_NutritionQiGan	Não há nutrição para Qi, não adianta praticar		
+No_NutritionNeiDan	Não há nutrição para o Núcleo Interno, não adianta praticar		
+No_NutritionHuTi	Não há nutrição para Proteção, não adianta praticar		
+No_NutritionLingZhi	Não há nutrição para Inteligência, não adianta praticar		
+No_NutritionShufa	Não há nutrição para Conjuração, não adianta praticar		
+WannaEat		De acordo com meu plano alimentar, decidi comer algo	
+WannaTrainShuFa	Eu quero praticar habilidades baseadas em Conjuração		
+WannaTrainLingZhi	Eu quero praticar habilidades baseadas em Inteligência		
+WannaTrainHuTi	Eu quero praticar habilidades baseadas em Proteção		
+WannaTrainNeiDan	Eu quero praticar o Núcleo Interno		
+WannaTrainQiGan	Eu quero praticar habilidades baseadas em Qi		
+NothingToEat	Não há nada para comer! Eu estou morrendo de fome		
+NotEat_Item_SnakeGallbladder	Eu não comeria Vesícula Biliar de Cobra		
+NotEat_Item_BearGallbladder	Eu não comeria Vesícula Biliar de Urso		
+NotEat_Item_RedGinseng	Eu não comeria Ginseng Vermelho		
+NotEat_Item_PurpleGanodermaLucidum	Eu não comeria Ganoderma Púrpura		
+NotEat_Item_TuEssence	Eu não comeria Essência de Ocre		
+NotEat_Item_HuoEssence	Eu não comeria Fruto Carmesim		
+NotEat_Item_ShuiEssence	Eu não comeria Lótus Prismático		
+NotEat_Item_JinEssence	Eu não comeria Fruto da Sagacidade		
+NotEat_Item_MuEssence	Eu não comeria Videira Retorcida		
+NotEat_Item_LifeStream	Eu não beberia Fonte da Vida		
+NotEat_Item_LongEgg	Eu não comeria Ovos de Dragão das Inundações		
+NotEat_Item_FengEgg	Eu não comeria Ovos de Fênix		
+NotEat_Item_DragonShit	Eu não comeria Fezes de Dragão		
+NotEat_Item_Jiaozi	Eu não comeria Jiaozi		
+NotEat_Item_BossFeng_Meat	Eu não comeria Carne de Fênix		
+NotEat_Item_BossLong_Meat	Eu não comeria Carne de Dragão		
+NotEat_Item_BossZhuLong_Meat	Eu não comeria Carne Primordial		
+NotEat_Item_Cake	Eu não comeria Pão		
+NotEat_Item_MonsterBlood	Eu não comeria Sangue de Monstro		
+NotEat_Item_EarthEssence	Eu não beberia Fluxo da Terra		
+NotEat_Item_SilverGrit	Eu não comeria Pó de Cristal de Gelo		
+NotEat_Item_CopperGrit	Eu não comeria Pó de Cobre Igniógeno		
+NotEat_Item_Cinnabar	Eu não comeria Cinnabar		
+NotEat_Item_LingMuXueJie	Eu não comeria Essência de Resina		
+NotEat_Item_EarthEssence_1	Eu não comeria Essência Sagrada		
+NotEat_Item_EarthEssence1_1	Eu não comeria Essência Maléfica		
+NotEat_Item_Healroot	Eu não comeria Erva Curativa		
+NotEat_Item_Mint	Eu não comeria Folha de Pureza		
+NotEat_Item_MagicHerb	Eu não comeria Folha Espiritual		
+NotEat_Item_Laxative	Eu não comeria Laxante		
+WannaEat_Item_SnakeGallbladder		Eu realmente quero comer Vesícula Biliar de Cobra	
+WannaEat_Item_BearGallbladder		Eu realmente quero comer Vesícula Biliar de Urso	
+WannaEat_Item_RedGinseng		Eu realmente quero comer Ginseng Vermelho	
+WannaEat_Item_PurpleGanodermaLucidum		Eu realmente quero comer Ganoderma Púrpura	
+WannaEat_Item_TuEssence		Eu realmente quero comer Essência de Ocre	
+WannaEat_Item_HuoEssence		Eu realmente quero comer Fruto Carmesim	
+WannaEat_Item_ShuiEssence		Eu realmente quero comer Lótus Prismático	
+WannaEat_Item_JinEssence		Eu realmente quero comer Fruto da Sagacidade	
+WannaEat_Item_MuEssence		Eu realmente quero comer Videira Retorcida	
+WannaEat_Item_LifeStream		Eu realmente quero beber Fonte da Vida	
+WannaEat_Item_LongEgg		Eu realmente quero comer Ovos de Dragão das Inundações	
+WannaEat_Item_FengEgg		Eu realmente quero comer Ovos de Fênix	
+WannaEat_Item_DragonShit		Eu realmente quero comer Fezes de Dragão	
+WannaEat_Item_Jiaozi		Eu realmente quero comer Jiaozi	
+WannaEat_Item_BossFeng_Meat		Eu realmente quero comer Carne de Fênix	
+WannaEat_Item_BossLong_Meat		Eu realmente quero comer Carne de Dragão	
+WannaEat_Item_BossZhuLong_Meat		Eu realmente quero comer Carne Primordial	
+WannaEat_Item_Cake		Eu realmente quero comer Pão	
+WannaEat_Item_MonsterBlood		Eu realmente quero comer Sangue de Monstro	
+WannaEat_Item_EarthEssence		Eu realmente quero beber Fluxo da Terra	
+WannaEat_Item_SilverGrit		Eu realmente quero comer Pó de Cristal de Gelo	
+WannaEat_Item_CopperGrit		Eu realmente quero comer Pó de Cobre Igniógeno	
+WannaEat_Item_Cinnabar		Eu realmente quero comer Cinnabar	
+WannaEat_Item_LingMuXueJie		Eu realmente quero comer Essência de Resina	
+WannaEat_Item_EarthEssence_1		Eu realmente quero comer Essência Sagrada	
+WannaEat_Item_EarthEssence1_1		Eu realmente quero comer Essência Maléfica	
+WannaEat_Item_Healroot		Eu realmente quero comer Erva Curativa	
+WannaEat_Item_Mint		Eu realmente quero comer Folha de Pureza	
+WannaEat_Item_MagicHerb		Eu realmente quero comer Folha Espiritual	
+WannaEat_Item_Laxative		Eu realmente quero comer Laxante	
+DoTalkEat_Item_SnakeGallbladder		Eu estou comendo Vesícula Biliar de Cobra	
+DoTalkEat_Item_BearGallbladder		Eu estou comendo Vesícula Biliar de Urso	
+DoTalkEat_Item_RedGinseng		Eu estou comendo Ginseng Vermelho	
+DoTalkEat_Item_PurpleGanodermaLucidum		Eu estou comendo Ganoderma Púrpura	
+DoTalkEat_Item_TuEssence		Eu estou comendo Essência de Ocre	
+DoTalkEat_Item_HuoEssence		Eu estou comendo Fruto Carmesim	
+DoTalkEat_Item_ShuiEssence		Eu estou comendo Lótus Prismático	
+DoTalkEat_Item_JinEssence		Eu estou comendo Fruto da Sagacidade	
+DoTalkEat_Item_MuEssence		Eu estou comendo Videira Retorcida	
+DoTalkEat_Item_LifeStream		Eu estou bebendo Fonte da Vida	
+DoTalkEat_Item_LongEgg		Eu estou comendo Ovos de Dragão das Inundações	
+DoTalkEat_Item_FengEgg		Eu estou comendo Ovos de Fênix	
+DoTalkEat_Item_DragonShit		Eu estou comendo Fezes de Dragão	
+DoTalkEat_Item_Jiaozi		Eu estou comendo Jiaozi	
+DoTalkEat_Item_BossFeng_Meat		Eu estou comendo Carne de Fênix	
+DoTalkEat_Item_BossLong_Meat		Eu estou comendo Carne de Dragão	
+DoTalkEat_Item_BossZhuLong_Meat		Eu estou comendo Carne Primordial	
+DoTalkEat_Item_Cake		Eu estou comendo Pão	
+DoTalkEat_Item_MonsterBlood		Eu estou comendo Sangue de Monstro	
+DoTalkEat_Item_EarthEssence		Eu estou bebendo Fluxo da Terra	
+DoTalkEat_Item_SilverGrit		Eu estou comendo Pó de Cristal de Gelo	
+DoTalkEat_Item_CopperGrit		Eu estou comendo Pó de Cobre Igniógeno	
+DoTalkEat_Item_Cinnabar		Eu estou comendo Cinnabar	
+DoTalkEat_Item_LingMuXueJie		Eu estou comendo Essência de Resina	
+DoTalkEat_Item_EarthEssence_1		Eu estou comendo Essência Sagrada	
+DoTalkEat_Item_EarthEssence1_1		Eu estou comendo Essência Maléfica	
+DoTalkEat_Item_Healroot		Eu estou comendo Erva Curativa	
+DoTalkEat_Item_Mint		Eu estou comendo Folha de Pureza	
+DoTalkEat_Item_MagicHerb		Eu estou comendo Folha Espiritual	
+DoTalkEat_Item_Laxative		Eu estou comendo Laxante	
+CantEat_Item_SnakeGallbladder	Não consigo encontrar Vesícula Biliar de Cobra para comer		
+CantEat_Item_BearGallbladder	Não consigo encontrar Vesícula Biliar de Urso para comer		
+CantEat_Item_RedGinseng	Não consigo encontrar Ginseng Vermelho para comer		
+CantEat_Item_PurpleGanodermaLucidum	Não consigo encontrar Ganoderma Púrpura para comer		
+CantEat_Item_TuEssence	Não consigo encontrar Essência de Ocre para comer		
+CantEat_Item_HuoEssence	Não consigo encontrar Fruto Carmesim para comer		
+CantEat_Item_ShuiEssence	Não consigo encontrar Lótus Prismático para comer		
+CantEat_Item_JinEssence	Não consigo encontrar Fruto da Sagacidade para comer		
+CantEat_Item_MuEssence	Não consigo encontrar Videira Retorcida para comer		
+CantEat_Item_LifeStream	Não consigo encontrar Fonte da Vida para beber		
+CantEat_Item_LongEgg	Não consigo encontrar Ovos de Dragão das Inundações para comer		
+CantEat_Item_FengEgg	Não consigo encontrar Ovos de Fênix para comer		
+CantEat_Item_DragonShit	Não consigo encontrar Fezes de Dragão para comer		
+CantEat_Item_Jiaozi	Não consigo encontrar Jiaozi para comer		
+CantEat_Item_BossFeng_Meat	Não consigo encontrar Carne de Fênix para comer		
+CantEat_Item_BossLong_Meat	Não consigo encontrar Carne de Dragão para comer		
+CantEat_Item_BossZhuLong_Meat	Não consigo encontrar Carne Primordial para comer		
+CantEat_Item_Cake	Não consigo encontrar Pão para comer		
+CantEat_Item_MonsterBlood	Não consigo encontrar Sangue de Monstro para comer		
+CantEat_Item_EarthEssence	Não consigo encontrar Fluxo da Terra para beber		
+CantEat_Item_SilverGrit	Não consigo encontrar Pó de Cristal de Gelo para comer		
+CantEat_Item_CopperGrit	Não consigo encontrar Pó de Cobre Igniógeno para comer		
+CantEat_Item_Cinnabar	Não consigo encontrar Cinnabar para comer		
+CantEat_Item_LingMuXueJie	Não consigo encontrar Essência de Resina para comer		
+CantEat_Item_EarthEssence_1	Não consigo encontrar Essência Sagrada para comer		
+CantEat_Item_EarthEssence1_1	Não consigo encontrar Essência Maléfica para comer		
+CantEat_Item_Healroot	Não consigo encontrar Erva Curativa para comer		
+CantEat_Item_Mint	Não consigo encontrar Folha de Pureza para comer		
+CantEat_Item_MagicHerb	Não consigo encontrar Folha Espiritual para comer		
+CantEat_Item_Laxative	Não consigo encontrar Laxante para comer		
+Leave1		{0}, tome cuidado na estrada	
+Leave2		Volte logo, {0}	
+Leave3		Viaje em segurança, {0}	
+Back1		{0}, você finalmente voltou	
+Back2		Bem-vindo de volta, {0}	
+Back3		Senti sua falta, {0}	
+NotBack1		{0}, como você ainda não voltou?	
+NotBack2		{0}, o que você foi fazer?	
+NotBack3		Eu me pergunto como está {0}	
+BackComa1		O que aconteceu, {0}?	
+BackComa2		{0} precisa de ajuda	
+BackComa3		{0}, continue assim	
+SleepHelp1		Melhoras logo, {0}!	
+SleepHelp2		Melhoras logo, {0}!	
+SleepHelp3		Melhoras logo, {0}!	
+Lacrimosa1			...
+Lacrimosa2			...
+Lacrimosa3			...
+QiGan_FullTalk	My Qi is at its limit		
+NeiDan_FullTalk	My Internal Core is at its limit		
+HuTi_FullTalk	My Protection is at its limit		
+LingZhi_FullTalk	My Intelligence is at its limit		
+ShuFa_FullTalk	My casting ability is at its limit		

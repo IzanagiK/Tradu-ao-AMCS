@@ -28,7 +28,7 @@
 			<StoryDesc>Ventos quentes e secos sopram.</StoryDesc>
 		</Text>
 		<Text Name="DustStorm_AllSeason">
-			<DisplayName>Tempestade de Poeira</DisplayName>
+			<DisplayName>Diabo da Poeira</DisplayName>
 			<StoryDesc>O céu escurece enquanto poeira e areia enchem o ar.</StoryDesc>
 		</Text>
 		<Text Name="Miasma_AllSeason">
@@ -92,7 +92,7 @@
 			<StoryDesc>O pôr do sol brilha.</StoryDesc>
 		</Text>
 		<Text Name="DustPlace">
-			<DisplayName>Tempestade de Poeira</DisplayName>
+			<DisplayName>Diabo da Poeira</DisplayName>
 			<StoryDesc>O céu escurece enquanto poeira e areia enchem o ar.</StoryDesc>
 		</Text>
 		<Text Name="EverSnow">
@@ -110,6 +110,46 @@
 		<Text Name="Weather_Magic_ZhenHuoJieJie">
 			<DisplayName>Ignosfera de Qi</DisplayName>
 			<StoryDesc>Existe uma área dentro de uma Ignosfera de Qi.</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Mutation">
+			<DisplayName>Explosão de Qi</DisplayName>
+			<StoryDesc>As forças de Qi aumentam e se espalham por toda a terra</StoryDesc>
+		</Text>
+		<Text Name="Yang_Mutation">
+			<DisplayName>Local de Yang Extremo</DisplayName>
+			<StoryDesc>Local de Yang Supremo</StoryDesc>
+		</Text>
+		<Text Name="Yin_Mutation">
+			<DisplayName>Local de Yin Extremo</DisplayName>
+			<StoryDesc>Local de Yin Supremo</StoryDesc>
+		</Text>
+		<Text Name="MouldRains_Mutation">
+			<DisplayName>Temporada de Chuvas</DisplayName>
+			<StoryDesc>Chuvas prolongadas caem sobre a terra</StoryDesc>
+		</Text>
+		<Text Name="Drought_Mutation">
+			<DisplayName>Seca</DisplayName>
+			<StoryDesc>O sol queima tudo abaixo com seu olhar ardente</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Mutation">
+			<DisplayName>Tempestade de Chuva</DisplayName>
+			<StoryDesc>A tempestade de chuva está causando destruição</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_Mutation">
+			<DisplayName>Diabo da Poeira</DisplayName>
+			<StoryDesc>O céu escurece enquanto poeira e areia preenchem o ar</StoryDesc>
+		</Text>
+		<Text Name="Miasma_Mutation">
+			<DisplayName>Ar Nocivo</DisplayName>
+			<StoryDesc>Uma atmosfera nociva se espalha</StoryDesc>
+		</Text>
+		<Text Name="LightningStormNoLong_Mutation">
+			<DisplayName>Tempestade Elétrica</DisplayName>
+			<StoryDesc>Raios trovejantes percorrem a terra enquanto relâmpagos dançam entre as nuvens</StoryDesc>
+		</Text>
+		<Text Name="FohnNoFeng_Mutation">
+			<DisplayName>Vento Foehn</DisplayName>
+			<StoryDesc>Ventos quentes e secos sopram</StoryDesc>
 		</Text>
 	</List>
 </Texts>

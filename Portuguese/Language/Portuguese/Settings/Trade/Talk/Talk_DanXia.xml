@@ -3,39 +3,37 @@
 		<Text Name="Talk_DanXia">
 			<Hate.1>Você não é bem-vindo aqui.</Hate.1>
 			<Hate.2>Fale.</Hate.2>
-			<Hate.3>Como você se atreve! Eu permiti que você olhasse para mim?</Hate.3>
-			<Normal.0>Posso ajudá-lo?</Normal.0>
+			<Hate.3>Como ousa! Eu te permiti olhar para mim?</Hate.3>
+			<Normal.0>Posso te ajudar?</Normal.0>
 			<Normal.1>O que você quer?</Normal.1>
-			<Like.0> Está indo bem ultimamente? Acho que devemos conversar.</Like.0>
-			<Submiss.0>Qual ​​tesouro você prefere? O que você quiser.</Submiss.0>
-			<ValueableTrade.0>Seu preço pelos recursos é muito alto, mas não mudarei minha opinião em relação a você.</ValueableTrade.0>
-			<ValueableTrade.1>Na verdade, você está com prejuízo neste negócio, mas já que fizemos um negócio, é isso.</ValueableTrade.1>
-			<TryOkTrade.0>Sim, podemos fechar este negócio.</TryOkTrade.0>
-			<TryOkTrade.1>Bom, aceito esta sugestão.</TryOkTrade.1>
+			<Like.0>Como tem estado ultimamente? Acho que devemos conversar.</Like.0>
+			<Submiss.0>Qual tesouro você prefere? O que você quiser.</Submiss.0>
+			<ValueableTrade.0>O seu preço pelos recursos está muito alto, mas não mudarei minha opinião sobre você.</ValueableTrade.0>
+			<ValueableTrade.1>Na verdade, você está perdendo nesse negócio, mas já que fizemos um acordo, está feito.</ValueableTrade.1>
+			<TryOkTrade.0>Sim, podemos fazer esse acordo.</TryOkTrade.0>
+			<TryOkTrade.1>Bom, aceito essa sugestão.</TryOkTrade.1>
 			<NoTrade.0>Não.</NoTrade.0>
 			<NoTrade.1>De jeito nenhum.</NoTrade.1>
-			<NoTrade.2>Desculpe, mas acho que não.</NoTrade.2>
+			<NoTrade.2>Desculpe, mas não acho que seja possível.</NoTrade.2>
 			<OkTrade.0>Espero negociar com você novamente.</OkTrade.0>
-			<OkTrade.1>Este é um bom negócio.</OkTrade.1>
-			<OkTrade.2>Negócio.</OkTrade.2>
+			<OkTrade.1>Este é um bom acordo.</OkTrade.1>
+			<OkTrade.2>Acordo fechado.</OkTrade.2>
 			<GiftLike.0>Isso é realmente um presente para mim? Eu queria isso há tantos anos.</GiftLike.0>
-			<Task.0>Muito obrigado. Isso é realmente o que precisamos.</Task.0>
-			<Task.1>Estou salvo. Muito obrigado.</Task.1>
-			<TaskNeed.0>Muito obrigado, mas isso não é suficiente para nós.</TaskNeed.0>
+			<TaskNeed.0>Muito obrigado, mas isso não é o suficiente para nós.</TaskNeed.0>
 			<TaskNeed.1>Essas coisas são realmente úteis, mas precisamos de mais.</TaskNeed.1>
-			<Task.0>Chegou na hora. Muito obrigado.</Task.0>
+			<Task.0>Isso veio na hora certa. Muito obrigado.</Task.0>
 			<Task.1>Ótimo, isso resolveu nossa necessidade urgente.</Task.1>
-			<Task.2>Que alívio. É exatamente disso que precisamos.</Task.2>
+			<Task.2>Que alívio. Isso é exatamente o que precisamos.</Task.2>
 			<LowValueGift.0>Isso é completamente inútil. Não precisamos disso.</LowValueGift.0>
 			<LowValueGift.1>Você não acha ofensivo nos dar isso?</LowValueGift.1>
-			<MidValueGift.0>Este item é útil para cultivadores iniciantes. Mas não preciso disso.</MidValueGift.0>
+			<MidValueGift.0>Este item é útil para cultivadores iniciantes. Mas eu não preciso disso.</MidValueGift.0>
 			<MidValueGift.1>Obrigado, mas nossa seita não precisa disso.</MidValueGift.1>
-			<HighValueGift.0>Não posso dizer não a um tesouro tão precioso. Mas seu excesso de entusiasmo não fará nada por mim.</HighValueGift.0>
-			<NoEnoughFriendPoint.0>Não lhe devo nada. Você não pode ter isso.</NoEnoughFriendPoint.0>
-			<NoEnoughFriendPoint.1>Nossos tesouros de seita não podem ser comprados apenas por pedras espirituais.</NoEnoughFriendPoint.1>
-			<NoEnoughFriendPoint.2>Você não pode comprar facilmente esse tipo de tesouro.</NoEnoughFriendPoint.2>
-			<Invalid.0>Acho que não estamos em termos amigáveis.</Invalid.0>
-			<Invalid.1>Não, não venderemos para você.</Invalid.1>
+			<HighValueGift.0>Eu não posso dizer não para um tesouro tão precioso. Mas seu entusiasmo excessivo não fará nada por mim.</HighValueGift.0>
+			<NoEnoughFriendPoint.0>Eu não te devo nada. Você não pode ter isso.</NoEnoughFriendPoint.0>
+			<NoEnoughFriendPoint.1>Os tesouros da nossa seita não podem ser comprados apenas com pedras espirituais.</NoEnoughFriendPoint.1>
+			<NoEnoughFriendPoint.2>Você não pode facilmente comprar esse tipo de tesouro.</NoEnoughFriendPoint.2>
+			<Invalid.0>Não acho que estamos em bons termos.</Invalid.0>
+			<Invalid.1>Não, não vamos vender isso para você.</Invalid.1>
 		</Text>
 	</List>
 </Texts>

@@ -1,5 +1,5 @@
 ID	Name	Desc
-ID	Achievement Title	Description
+
 1	Primeira Ascensão	1 pessoa ascendeu
 2	Adepto da Ascensão	3 pessoas ascenderam
 3	Ascensão Frequente	5 pessoas ascenderam
@@ -48,7 +48,7 @@ ID	Achievement Title	Description
 46	Bibliófilo	100 manuais aprendidos através da leitura
 47	Acidente Infeliz	1 discípulo falecido
 48	Desgraças Nunca Vêm Sozinhas	5 discípulos falecidos
-49	Quando Chove, Transborda	10 discípulos falecidos
+49	"Quando Chove, Transborda"	10 discípulos falecidos
 50	Fragilidade da Vida	50 discípulos falecidos
 51	Grande Perda	1 discípulo interno falecido
 52	Perda Significativa	5 discípulos internos falecidos
@@ -76,7 +76,7 @@ ID	Achievement Title	Description
 74	Mestre de Almas	100 almas tomadas
 75	Absorção Sanguínea	Absorção Sanguínea feita uma vez
 76	Ciclo da Vida	Absorção Sanguínea feita 10 vezes
-77	Regra Yin-Yang	Absorção Sanguínea feita 50 vezes
+77	Regra do Yin e Yang	Absorção Sanguínea feita 50 vezes
 78	O Rei da Morte	Absorção Sanguínea feita 100 vezes
 79	Transgressor	1 sacrifício concluído
 80	Fé do Mal	10 sacrifícios concluídos
@@ -215,17 +215,17 @@ ID	Achievement Title	Description
 2020	Repulsão	Primeira vez comendo fezes
 2021	Indiferença	Primeira vez comendo sujeira
 2022	Eu Rejeito Minha Humanidade	Possuir um animal
-2023	Hora de Dormir, Não Cultivar!	O jogo está em execução há mais de 4 horas e o horário atual é entre 0:00 e 5:00 AM.
+2023	Hora de Dormir!	O jogo está em execução há mais de 4 horas e o horário atual é entre 0:00 e 5:00 AM.
 2024	Morto	Matar o Dragão da Inundação
 2025	Caído	Matar Fênix
-2026	Regra do Yin-Yang	Dragão da tocha morto
+2026	Lei do Yin e Yang	Dragão da tocha morto
 2027	Acelerado	Faça o Flood Dragon se transformar em sua verdadeira forma em menos de 60 segundos
 2028	Quebra de Chifre	Mate o Flood Dragon depois de destruir seu chifre
 2029	Cortador de Cauda	Mate o Flood Dragon depois de destruir sua cauda
 2030	Furioso	Mate o Flood Dragon depois de destruir sua Escala Proibida
 2031	Enraivecido	Mate o Flood Dragon antes que ele conjure Dragon's Rage
 2032	Hidratado	Mate o Flood Dragon antes que ele conjure Deadly Flood
-2033	Impacto Solar! Impacto Solar!	5 pessoas absorvem o derretimento de Phoenix e ninguém fica ferido
+2033	Fogo Celestial	5 pessoas absorvem o derretimento de Phoenix e ninguém fica ferido
 2034	Encara	Aguente o Flame Eyes por 20 segundos sem se machucar
 2035	Radiando	Mate Phoenix após lançar Cristal do Sol
 2036	Beleza da Fera	Mate Phoenix depois de destruir sua pena da coroa
@@ -240,8 +240,8 @@ ID	Achievement Title	Description
 2045	Raiz Espiritual	Primeira vez plantando uma Raiz Espiritual
 2046	Coleita	Colher uma raiz de cinco elementos
 2047	Extremidade	Raiz dos Cinco Elementos atinge seu limite abençoado ou amaldiçoado
-2048	Lei Natural	Primeira vez compreendendo uma lei natural
-2049	Lei Divergente	Primeira vez compreendendo uma Lei divergente
+2048	Caminho Natural	Primeira vez compreendendo uma lei natural
+2049	Caminho Divergente	Primeira vez compreendendo uma Lei divergente
 2050	Descanse em Paz	Mate um sábio antigo
 2051	Treinador de Animais	Primeira vez domar um animal
 2052	Rebelde!	Primeira vez que um animal se transforma em uma fera
@@ -341,7 +341,7 @@ ID	Achievement Title	Description
 3098	Conquista: Seita dos Sete Abates	Conquiste a Seita dos Sete Abates.
 3099	Conquista: Seita Exultante	Conquiste a Seita Exultante.
 3100	Conquista: Templo Daemonia	Conquiste o Templo Daemonia.
-3101	Conquista do Mundo	Conquiste todas as seitas de cultivo.
+3101	Conquista	Conquiste todas as seitas de cultivo.
 3102	Vencedor do Mundo	Conquiste todas as seitas NPC e faça com que 40% ou mais da população de cada cidade ou área se torne um seguidor de sua seita.
 3103	Olá!	Socialize com os outros pela primeira vez.
 3104	Nossos Problemas Respectivos	Saiba da obsessão de alguém pela primeira vez.
@@ -400,7 +400,7 @@ ID	Achievement Title	Description
 3157	10.000 Peixes	Pegue 10.000 peixes.
 3158	Isca Pegada	Pegue um animal durante a pesca.
 3159	Eu Escolho Você!	Pegue um monstro enquanto pesca.
-3160	Objeto Brilhante	Pegue uma Spirit Stone enquanto estiver pescando.
+3160	Objeto Brilhante	Pegue uma Pedra Espiritual enquanto estiver pescando.
 3161	Pescador Mestre	Pegue todas as espécies de peixes.
 3162	Caçador de Kraken	Pegar um peixe pesava mais de 25 catties.
 3163	Engenhosidade da Conquista	Obtenha todos os tesouros secretos das estelas em Purple Cloud Palace

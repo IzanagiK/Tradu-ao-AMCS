@@ -6,7 +6,7 @@
 		<Text Name="GlobalEfficiency">
 			<DisplayName>Eficiência geral do trabalho</DisplayName>
 			<Desc>A taxa básica de trabalho dos cultivadores, que afeta todo o trabalho que eles fazem.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="SmithingInjuredChance">
 			<DisplayName>Chance de ferimento por falsificação</DisplayName>
@@ -23,23 +23,23 @@
 		<Text Name="DrugProductSpeed">
 			<DisplayName>Velocidade de fabricação de medicamentos</DisplayName>
 			<Desc>A taxa de trabalho associada à fabricação de remédios, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="TreatSpeed">
 			<DisplayName>Velocidade de Cura</DisplayName>
 			<Desc>A taxa de trabalho associada à cura, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="TreatSuccessChance">
 			<DisplayName>Taxa de sucesso de cura</DisplayName>
 			<Desc>A probabilidade de cura ser realizada com sucesso. A falha pode levar ao agravamento da lesão.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="TreatmentExpectQuality">
 			<DisplayName>Estimativa de recuperação</DisplayName>
 			<DisplayValue>{0}%/sec</DisplayValue>
-			<Desc>O valor estimado de quanto tempo uma lesão levará para se recuperar após o tratamento. Pode variar um pouco de acordo com o status do médico.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<Desc>O valor estimado de quanto tempo uma lesão levará para se recuperar após o tratamento. Pode variar um pouco de acordo com o estatus do médico.</Desc>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="TreatmentRealQualityPercentMin">
 			<DisplayName>Cura Mínima</DisplayName>
@@ -52,32 +52,32 @@
 		<Text Name="CookingSpeed">
 			<DisplayName>Velocidade de cozimento</DisplayName>
 			<Desc>A taxa de trabalho associada à culinária, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="ButcherSpeed">
 			<DisplayName>Velocidade de corte</DisplayName>
 			<Desc>A taxa de trabalho associada ao abate, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="ButcherYieldEfficiency">
 			<DisplayName>Rendimento de corte</DisplayName>
 			<Desc>A proporção de pele e carne produzida pelo abate.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="CookingSuccessChance">
 			<DisplayName>Taxa de sucesso na cozinha</DisplayName>
 			<Desc>A taxa de sucesso na preparação de alimentos. A falha pode resultar em uma refeição estragada.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="StoneWorkSpeed">
 			<DisplayName>Velocidade de trabalho em pedra</DisplayName>
 			<Desc>A taxa de trabalho associada ao processamento e polimento de materiais de pedra, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="ConstructionSpeed">
 			<DisplayName>Velocidade de construção</DisplayName>
 			<Desc>A taxa de trabalho associada à construção, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="ConstructSuccessChance">
 			<DisplayName>Taxa de sucesso de construção</DisplayName>
@@ -86,32 +86,32 @@
 		<Text Name="PlantWorkSpeed">
 			<DisplayName>Velocidade de cultivo</DisplayName>
 			<Desc>A taxa de trabalho associada à agricultura, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="PlantHarvestSpeed">
 			<DisplayName>Velocidade de colheita</DisplayName>
 			<Desc>A taxa de trabalho associada à colheita, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="PlantHarvestYieldEfficiency">
 			<DisplayName>Rendimento da colheita</DisplayName>
 			<Desc>O rendimento da colheita obtido com a colheita.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="MiningSpeed">
 			<DisplayName>Velocidade de Mineração</DisplayName>
 			<Desc>A taxa de trabalho associada à mineração, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="MiningYieldEfficiency">
 			<DisplayName>Rendimento de mineração</DisplayName>
 			<Desc>O rendimento obtido com a mineração de minerais.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="MadeQualityAddValue">
 			<DisplayName>Criando Ganhos de Qualidade</DisplayName>
 			<Desc>A qualidade adicionada aos itens ao transformá-los em produtos finais.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="ArtRateValue">
 			<DisplayName>Valor estimado da arte</DisplayName>
@@ -120,22 +120,22 @@
 		<Text Name="SmithingSpeed">
 			<DisplayName>Velocidade de Forjamento</DisplayName>
 			<Desc>A taxa de trabalho associada ao forjamento, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="HandworkSpeed">
 			<DisplayName>Velocidade de artesanato</DisplayName>
 			<Desc>A taxa de trabalho associada ao artesanato, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="TailoringSpeed">
 			<DisplayName>Velocidade de costura</DisplayName>
 			<Desc>A taxa de trabalho associada à costura, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="ManufactureExpectQuality">
 			<DisplayName>Estimativa de qualidade do produto</DisplayName>
 			<Desc>A qualidade estimada de um produto que está sendo criado. O valor do produto final estará dentro de uma margem em torno dessa estimativa.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="ManufactureRealQualityPercentMin">
 			<DisplayName>Qualidade Mínima de Artesanato</DisplayName>
@@ -160,27 +160,27 @@
 		<Text Name="CuttingSpeed">
 			<DisplayName>Velocidade de corte</DisplayName>
 			<Desc>A taxa de trabalho associada ao corte de madeira, corte de grama e assim por diante, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="DisasterFightingSpeed">
 			<DisplayName>Velocidade de combate a incêndio</DisplayName>
 			<Desc>A taxa de trabalho associada aos comportamentos de combate a incêndios, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="DisasterFightingSuccessChance">
 			<DisplayName>Taxa de sucesso no combate a incêndios</DisplayName>
 			<Desc>A chance de sucesso ao se envolver em manobras de combate a incêndios. A falha pode resultar em ferimentos.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="CleanSpeed">
 			<DisplayName>Velocidade de limpeza</DisplayName>
 			<Desc>A taxa de trabalho associada à limpeza, afetada pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 		<Text Name="SocialInclination">
 			<DisplayName>Tendência Social</DisplayName>
 			<Desc>A tendência a ter diferentes tipos de comportamentos sociais, afetados pelo humor.</Desc>
-			<FunctionKind>Status de Produção</FunctionKind>
+			<FunctionKind>Estatus de Produção</FunctionKind>
 		</Text>
 	</List>
 </Texts>

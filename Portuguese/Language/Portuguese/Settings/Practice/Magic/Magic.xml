@@ -10,15 +10,15 @@
 		</Text>
 		<Text Name="JieHuiDaoPowerUp">
 			<DisplayName>Aperfeiçoamento do Tao</DisplayName>
-			<Desc>Consuma um Cinzas de Tribulação e use em um item, concedendo uma chance de aumentar o nível do item em 1.</Desc>
+			<Desc>Consuma [CUICOST] Cinzas de Tribulação e use em um item, concedendo uma chance de aumentar o nível do item em 1.</Desc>
 		</Text>
 		<Text Name="SoulCrystalYouPowerUp">
 			<DisplayName>Aperfeiçoamento do Espectro</DisplayName>
-			<Desc>Consuma uma Gema da Alma Angústia para usar em um item, com chance de aumentar o nível do item em 1.</Desc>
+			<Desc>Consuma [CUICOST] Gema da Alma Angústia para usar em um item, com chance de aumentar o nível do item em 1.</Desc>
 		</Text>
 		<Text Name="SoulCrystalLingPowerUp">
 			<DisplayName>Aperfeiçoamento Espiritual</DisplayName>
-			<Desc>Consuma uma Gema da Alma Espiritual para usar em um item, com a chance de aumentar a Taxa de Contenção de Qi do item (se o item for um artefato, aumenta a capacidade de Qi).</Desc>
+			<Desc>Consuma [CUICOST] Gema da Alma Espiritual para usar em um item, com a chance de aumentar a Taxa de Contenção de Qi do item (se o item for um artefato, aumenta a capacidade de Qi).</Desc>
 		</Text>
 		<Text Name="MakeSoulCrystal">
 			<DisplayName>Cântico da Alma</DisplayName>
@@ -126,7 +126,7 @@
 		</Text>
 		<Text Name="AbsorbGong_8">
 			<DisplayName>Encantamento de Limpeza Mental</DisplayName>
-			<Desc>Lance um feitiço e conceda um ser vivo sem experiência de cultivo da mesma raça que o usuário com um status de humor positivo.</Desc>
+			<Desc>Lance um feitiço e conceda um ser vivo sem experiência de cultivo da mesma raça que o usuário com um estatus de humor positivo.</Desc>
 		</Text>
 		<Text Name="PlantGrowUp">
 			<DisplayName>Cântico da Maestria Vegetal</DisplayName>
