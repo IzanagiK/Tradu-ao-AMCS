@@ -1940,7 +1940,7 @@ NpcEatThing_丹药耐药性=>{0}	NpcEatThing_Resistência a Elixir=>{0}
 结丹	Formação do Núcleo
 {0}{1}  {2}经验	{0}{1}  {2} EXP
 不知道，但是我敢肯定，一定不是因为师兄你……	Não sei, mas tenho certeza de que não foi por sua causa...
-化形天劫: {0}	Tribulação da Transformação: {0}
+化形天劫: {0}	Tribulação: {0}
 被击	Atacado
 尊掌门法旨！可是弟子尚为外门弟子，修为不足以忍受寒晶矿附近的酷寒。	Às ordens do Mestre! Mas ainda sou apenas um discípulo externo. Não suportarei o frio próximo da Mina de Cristal de Gelo.
 撰写内容	Escrever Conteúdo
@@ -2385,7 +2385,7 @@ _结局	_Fim
 金属性	Elemento Metal
 剩余时间:{0}天{1}时{2}分{3}秒	Tempo restante: {0}d {1}h {2}min {3}seg
 肉类	Carnes
-四境:入化		Lv IV: Refino
+四境:入化	Lv IV: Refino
 \n参悟不足：{0:F0}/{1:F0}	\nInspiração muito baixa {0:F0}/{1:F0}
 精美	Bonito
 键位的编码已被使用，请更换编码！	A codificação da tecla já foi usada, por favor, escolha outra codificação!
@@ -2488,7 +2488,7 @@ _结局	_Fim
 植物成长值增加	Aumento no valor de crescimento da planta
 当前品阶：{1} 幽淬成功率：{0} {2}	Classe atual: {1} Taxa de Sucesso do Refinamento Espectral: {0} {2}
 失败！	Falhou!
-\t无	\t Nenhum
+\t无	\t None
 \n进度：{0:F0}/{1:F0}	\nProgresso: {0:F0}/{1:F0}
 姓名	Nome
 美景	Beleza cênica
@@ -2828,7 +2828,7 @@ Tipo:{0}没有找到字段:{1}请检查配置文件	Tipo: {0} Campo não encontr
 需要选择一个阳效果！	É necessário escolher um efeito Yang!
 群仙册	Manual dos Cultivadores
 正一脸不痛快的喝着什么	Beber de forma insatisfeita
-[temperature]{0:N0}[/temperature]至[temperature]{1:N0}[/temperature]	[temperatura]{0:N0}[/temperature] até [temperatura]{1:N0}[/temperature]
+[temperature]{0:N0}[/temperature]至[temperature]{1:N0}[/temperature]	[temperature]{0:N0}[/temperature] até [temperature]{1:N0}[/temperature]
 查看	Inspecionar
 \n<font color=#0000FF>[右击可指定原材料]</font>	\n<font color=#0000FF>[Clique com o botão direito para selecionar material bruto]</font>
 信仰圣物一生只能炼制一次，确定要使用[{0}]炼制吗？	Relíquia Sagrada pode ser forjada apenas uma vez na vida. Tem certeza de que deseja usar [{0}] para forjar?
@@ -3281,7 +3281,7 @@ Trap编辑。	Edição de Armadilhas.
 二境:凝练	Lv II: Condensar
 心境层次对神国面积的影响。	A influência do estado mental sobre o tamanho do Reino Divino.
 时节加成	Bônus sazonal
-自定义快捷键	Teclas de atalho personalizadas
+自定义快捷键	Teclas de atalho
 被施法	Foi lançado um feitiço.
 制作者：	Criador:
 等待角色完成开采	Aguarde até que seu personagem termine de minerar.
@@ -3923,7 +3923,7 @@ defName=>{0} npc.name=>{1} 随机删除的耐性数据为=>{2} {3}	defName=>{0} 
 {0}近期将会前往门派做客	{0} visitará sua seita em breve.
 门派掌门	Líder da Seita
 满神民	Maximizar Habitantes Divinos
-(吃饭)	(Cendo)
+(吃饭)	(Comer)
 正在下载 ： 0	Baixando: 0
 吸引他人。	Atrair outros.
 准备开始练习御剑术	Prepara-se para treinar maestria com a espada
