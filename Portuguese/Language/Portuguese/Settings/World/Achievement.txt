@@ -223,8 +223,8 @@ ID	Name	Desc
 2028	Quebra de Chifre	Mate o Flood Dragon depois de destruir seu chifre
 2029	Cortador de Cauda	Mate o Flood Dragon depois de destruir sua cauda
 2030	Furioso	Mate o Flood Dragon depois de destruir sua Escala Proibida
-2031	Enraivecido	Mate o Flood Dragon antes que ele conjure Dragon's Rage
-2032	Hidratado	Mate o Flood Dragon antes que ele conjure Deadly Flood
+2031	Enraivecido	Mate o Dragão da Enchente antes que ele conjure Fúria do Dragão
+2032	Hidratado	Mate o Dragão da Enchente antes que ele conjure Enchente Mortal
 2033	Fogo Celestial	5 pessoas absorvem o derretimento de Phoenix e ninguém fica ferido
 2034	Encara	Aguente o Flame Eyes por 20 segundos sem se machucar
 2035	Radiando	Mate Phoenix após lançar Cristal do Sol
@@ -233,8 +233,8 @@ ID	Name	Desc
 2038	Condensador de Qi	Mantenha um ovo de Phoenix sem incubar nem morrer por mais de 36 dias
 2039	Limpeza Completa	Mais de 9 ovos são subjugados derrotando o Dragão da Tocha
 2040	Irreverência	Derrote o Dragão da Tocha depois de destruir sua escama divina
-2041	Caos	Derrote o Torch Dragon depois de destruir seu jade
-2042	Paradoxo	Derrote o Torch Dragon com um personagem em Mind Mask e Wild Fire
+2041	Caos	Derrote o Dragão da Tocha depois de destruir seu jade
+2042	Paradoxo	Derrote o Dragão da Tocha com um personagem sob Máscara Mental e Fogo Selvagem
 2043	Subjugador	Derrote o Dragão da Tocha sem nenhum ovo chocado
 2044	De tirar o fôlego	Derrote o Dragão da Tocha sem que ninguém seja atingido por seu sopro
 2045	Raiz Espiritual	Primeira vez plantando uma Raiz Espiritual
@@ -254,7 +254,7 @@ ID	Name	Desc
 10006	Fora do Céu	Conheça a verdade do mundo
 3000	Educação em Primeiro Lugar	Construa um Pavilhão Manual pela primeira vez.
 3001	Compartilhamento de Conhecimento	Transcreva um manual usando o Manual Pavilion pela primeira vez.
-3002	Estude Muito	Aprenda um manual na coleção do Manual Pavilion pela primeira vez.
+3002	Estude Muito	Aprenda um manual da coleção do Pavilhão de Manuais pela primeira vez.
 3003	Uma Grande Coleção	Atingimento total da coleção do Pavilhão Manual chega a 500.
 3004	Uma Vasta Coleção	Atingimento total do acervo do Pavilhão Manual chega a 2000.
 3005	Uma Imensa Coleção	Atingimento total do acervo do Pavilhão Manual chega a 5.000.
@@ -293,7 +293,7 @@ ID	Name	Desc
 3038	Mata Imortais	Faça todas as seitas se renderem sob a configuração de poder da seita NPC mais alta.
 3039	Mata Yin	Mate o Jiao-dragão sob a configuração de poder mais alta do Jiao-dragão.
 3040	Mata Yang	Mate Phoenix sob a configuração de energia mais alta de Phoenix.
-3041	Mata Tao	Mate o Torch Dragon sob a configuração de poder mais alta do Torch Dragon.
+3041	Exterminador Tao	Derrote o Dragão da Tocha com o nível máximo de poder do Dragão da Tocha.
 3042	Confronto Final	Derrote os inimigos atacando no 1000º dia com a opção Fica mais difícil ativada.
 3043	Iniciante em Ascensão	Faça um discípulo ascender na dificuldade Tribulação I ou superior.
 3046	Profissional em Ascensão	Faça um discípulo subir na dificuldade Tribulação IV ou superior.
@@ -331,14 +331,14 @@ ID	Name	Desc
 3088	Agora ou Nunca	Pegue um tesouro no mapa de uma seita enquanto se esconde.
 3089	Conquista: Morada do Guarda-Sol	Conquiste a morada do guarda-sol.
 3090	Conquista: Palácio Kunlun	Conquiste o Palácio Kunlun.
-3091	Conquista: Palácio Skydome	Conquiste o Palácio Skydome.
-3092	Conquista: Templo da Nuvem Roxa	Conquiste o Templo da Nuvem Roxa.
+3091	Conquista: Palácio da Cúpula Celeste	Conquiste o Palácio da Cúpula Celeste.
+3092	Conquista: Templo da Nuvem Púrpura	Conquiste o Templo da Nuvem Púrpura.
 3093	Conquista: Seita da Unidade Mística	Conquiste a Seita da Unidade Mística.
 3094	Conquista: Templo do Lótus Azul	Conquiste o Templo do Lótus Azul.
-3095	Conquista: Morada do Entardecer	Conquiste a Morada do Entardecer.
-3096	Conquista: Mt. Cem Insetos	Conquiste Mt. Cem Insetos.
-3097	Conquista: Poço da Perdição	Conquiste o Poço da Perdição.
-3098	Conquista: Seita dos Sete Abates	Conquiste a Seita dos Sete Abates.
+3095	Conquista: Morada do Poente	Conquiste a Morada do Poente.
+3096	Conquista: Monte dos Cem Insetos	Conquiste o Monte dos Cem Insetos.
+3097	Conquista: Abismo da Perdição	Conquiste o Abismo da Perdição.
+3098	Conquista: Seita dos Sete Massacres	Conquiste a Seita dos Sete Massacres.
 3099	Conquista: Seita Exultante	Conquiste a Seita Exultante.
 3100	Conquista: Templo Daemonia	Conquiste o Templo Daemonia.
 3101	Conquista	Conquiste todas as seitas de cultivo.
@@ -396,8 +396,8 @@ ID	Name	Desc
 3153	Panda Imortal	Transforme um panda em humano e ajude-o a ascender à imortalidade.
 3154	Um Peixe	Pegue um peixe.
 3155	100 Peixes	Pegue 100 peixes.
-3156	1.000 Peixes	Pegue 1.000 peixes.
-3157	10.000 Peixes	Pegue 10.000 peixes.
+3156	1,000 Peixes	Pegue 1,000 peixes.
+3157	10,000 Peixes	Pegue 10,000 peixes.
 3158	Isca Pegada	Pegue um animal durante a pesca.
 3159	Eu Escolho Você!	Pegue um monstro enquanto pesca.
 3160	Objeto Brilhante	Pegue uma Pedra Espiritual enquanto estiver pescando.

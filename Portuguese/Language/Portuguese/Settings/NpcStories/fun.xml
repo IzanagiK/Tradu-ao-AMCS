@@ -1,109 +1,109 @@
-﻿<Texts Type="Other">
+<Texts Type="Other">
 	<List>
 		<Text Name="NormalFun">
-			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudades de casa quando [obj].</Events.2.Story>
-			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a vagar em direção a [obj_friend] quando [obj].</Events.3.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudade de casa quando [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a divagar em direção a [obj_friend] quando [obj].</Events.3.Story>
 			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se interessou pelo [obj_nearthing] próximo quando [obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria comer [obj_food] quando [obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em sua [obj_relation] quando silenciosamente [obj].</Events.6.Story>
-			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a encher a mente de [name] quando [obj] estava sozinho.</Events.7.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente quis comer [obj_food] quando [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em seu [obj_relation] enquanto silenciosamente [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a preencher a mente de [name] quando [obj] sozinho.</Events.7.Story>
 			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a chorar quando [obj].</Events.8.Story>
 			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu ansioso quando [obj].</Events.9.Story>
-			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] when [obj].</Events.10.Story>
-			<Events.11.Story>Incomodado por [obj], [name] só conseguiu [obj_badmood] para relaxar sua mente.</Events.11.Story>
-			<Events.12.Story>[name] estava exultante por causa de [obj_goodmood], e não pôde deixar de [obj] feliz.</Events.12.Story>
-			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente soltou um longo suspiro quando [obj].</Events.13.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] quando [obj].</Events.10.Story>
+			<Events.11.Story>Incomodado por [obj], [name] só pôde [obj_badmood] para relaxar a mente.</Events.11.Story>
+			<Events.12.Story>[name] estava jubiloso por causa de [obj_goodmood], e não conseguiu deixar de [obj] felizmente.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente deixou escapar um longo suspiro quando [obj].</Events.13.Story>
 		</Text>
 		<Text Name="Fun_Dance">
-			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudades de casa quando [obj].</Events.1.Story>
-			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a vagar em direção a [obj_friend] quando [obj].</Events.2.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudade de casa quando [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a divagar em direção a [obj_friend] quando [obj].</Events.2.Story>
 			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se interessou pelo [obj_nearthing] próximo quando [obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria comer [obj_food] quando [obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em sua [obj_relation] quando silenciosamente [obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a encher a mente de [name] quando [obj] estava sozinho.</Events.6.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente quis comer [obj_food] quando [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em seu [obj_relation] enquanto silenciosamente [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a preencher a mente de [name] quando [obj] sozinho.</Events.6.Story>
 			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a chorar quando [obj].</Events.7.Story>
 			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu ansioso quando [obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu dificuldade para respirar quando [obj].</Events.9.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente teve dificuldade para respirar quando [obj].</Events.9.Story>
 			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] quando [obj].</Events.10.Story>
-			<Events.11.Story>Incomodado por [obj], [name] só conseguiu [obj_badmood] para relaxar a mente.</Events.11.Story>
-			<Events.12.Story>[name] estava exultante por causa de [obj_goodmood], e não pôde deixar de [obj] feliz.</Events.12.Story>
-			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] chutou acidentalmente o [obj_nearthing] próximo quando [obj].</Events.13.Story>
+			<Events.11.Story>Incomodado por [obj], [name] só pôde [obj_badmood] para relaxar a mente.</Events.11.Story>
+			<Events.12.Story>[name] estava jubiloso por causa de [obj_goodmood], e não conseguiu deixar de [obj] felizmente.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] acidentalmente chutou o [obj_nearthing] próximo quando [obj].</Events.13.Story>
 			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] acidentalmente torceu o tornozelo quando [obj].</Events.14.Story>
 		</Text>
 		<Text Name="Fun_Music">
-			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudades de casa quando [obj].</Events.1.Story>
-			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a vagar em direção a [obj_friend] quando [obj].</Events.2.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudade de casa quando [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a divagar em direção a [obj_friend] quando [obj].</Events.2.Story>
 			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se interessou pelo [obj_nearthing] próximo quando [obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria comer [obj_food] quando [obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em sua [obj_relation] quando silenciosamente [obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a encher a mente de [name] quando [obj] estava sozinho.</Events.6.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente quis comer [obj_food] quando [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em seu [obj_relation] enquanto silenciosamente [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a preencher a mente de [name] quando [obj] sozinho.</Events.6.Story>
 			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a chorar quando [obj].</Events.7.Story>
 			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu ansioso quando [obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu dificuldade para respirar quando [obj].</Events.9.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente teve dificuldade para respirar quando [obj].</Events.9.Story>
 			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] quando [obj].</Events.10.Story>
-			<Events.11.Story>Incomodado por [obj], [name] só conseguiu [obj_badmood] para relaxar a mente.</Events.11.Story>
-			<Events.12.Story>[name] estava exultante por causa de [obj_goodmood], e não pôde deixar de [obj] feliz.</Events.12.Story>
-			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] não podia deixar de cantarolar uma música baixinho quando [obj].</Events.13.Story>
+			<Events.11.Story>Incomodado por [obj], [name] só pôde [obj_badmood] para relaxar a mente.</Events.11.Story>
+			<Events.12.Story>[name] estava jubiloso por causa de [obj_goodmood], e não conseguiu deixar de [obj] felizmente.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] não conseguiu deixar de cantarolar uma melodia suavemente quando [obj].</Events.13.Story>
 		</Text>
 		<Text Name="Fun_PlayBird">
-			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudades de casa quando [obj].</Events.1.Story>
-			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a vagar em direção a [obj_friend] quando [obj].</Events.2.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudade de casa quando [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a divagar em direção a [obj_friend] quando [obj].</Events.2.Story>
 			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se interessou pelo [obj_nearthing] próximo quando [obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria comer [obj_food] quando [obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em sua [obj_relation] quando silenciosamente [obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a encher a mente de [name] quando [obj] estava sozinho.</Events.6.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente quis comer [obj_food] quando [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em seu [obj_relation] enquanto silenciosamente [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a preencher a mente de [name] quando [obj] sozinho.</Events.6.Story>
 			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a chorar quando [obj].</Events.7.Story>
 			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu ansioso quando [obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu dificuldade para respirar quando [obj].</Events.9.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente teve dificuldade para respirar quando [obj].</Events.9.Story>
 			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] quando [obj].</Events.10.Story>
-			<Events.11.Story>Incomodado por [obj], [name] só conseguiu [obj_badmood] para relaxar a mente.</Events.11.Story>
-			<Events.12.Story>[name] estava exultante por causa de [obj_goodmood], e não pôde deixar de [obj] feliz.</Events.12.Story>
-			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] não pôde deixar de gorjear ao longo do pássaro na gaiola quando [obj].</Events.13.Story>
+			<Events.11.Story>Incomodado por [obj], [name] só pôde [obj_badmood] para relaxar a mente.</Events.11.Story>
+			<Events.12.Story>[name] estava jubiloso por causa de [obj_goodmood], e não conseguiu deixar de [obj] felizmente.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] não conseguiu deixar de chilrear junto com o pássaro na gaiola quando [obj].</Events.13.Story>
 		</Text>
 		<Text Name="Fun_Calligraphy">
-			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudades de casa quando [obj].</Events.1.Story>
-			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a vagar em direção a [obj_friend] quando [obj].</Events.2.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudade de casa quando [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a divagar em direção a [obj_friend] quando [obj].</Events.2.Story>
 			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se interessou pelo [obj_nearthing] próximo quando [obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria comer [obj_food] quando [obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em sua [obj_relation] quando silenciosamente [obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a encher a mente de [name] quando [obj] estava sozinho.</Events.6.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente quis comer [obj_food] quando [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em seu [obj_relation] enquanto silenciosamente [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a preencher a mente de [name] quando [obj] sozinho.</Events.6.Story>
 			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a chorar quando [obj].</Events.7.Story>
 			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu ansioso quando [obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu dificuldade para respirar quando [obj].</Events.9.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente teve dificuldade para respirar quando [obj].</Events.9.Story>
 			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] quando [obj].</Events.10.Story>
-			<Events.11.Story>Incomodado por [obj], [name] só conseguiu [obj_badmood] para relaxar a mente.</Events.11.Story>
-			<Events.12.Story>[name] estava exultante por causa de [obj_goodmood], e não pôde deixar de [obj] feliz.</Events.12.Story>
+			<Events.11.Story>Incomodado por [obj], [name] só pôde [obj_badmood] para relaxar a mente.</Events.11.Story>
+			<Events.12.Story>[name] estava jubiloso por causa de [obj_goodmood], e não conseguiu deixar de [obj] felizmente.</Events.12.Story>
 			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] acidentalmente derrubou a tinta quando [obj].</Events.13.Story>
 		</Text>
 		<Text Name="Fun_PlayChess">
-			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudades de casa quando [obj].</Events.1.Story>
-			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a vagar em direção a [obj_friend] quando [obj].</Events.2.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudade de casa quando [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a divagar em direção a [obj_friend] quando [obj].</Events.2.Story>
 			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se interessou pelo [obj_nearthing] próximo quando [obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria comer [obj_food] quando [obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em sua [obj_relation] quando silenciosamente [obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a encher a mente de [name] quando [obj] estava sozinho.</Events.6.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente quis comer [obj_food] quando [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em seu [obj_relation] enquanto silenciosamente [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a preencher a mente de [name] quando [obj] sozinho.</Events.6.Story>
 			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a chorar quando [obj].</Events.7.Story>
 			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu ansioso quando [obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu dificuldade para respirar quando [obj].</Events.9.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente teve dificuldade para respirar quando [obj].</Events.9.Story>
 			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] quando [obj].</Events.10.Story>
-			<Events.11.Story>Incomodado por [obj], [name] só conseguiu [obj_badmood] para relaxar a mente.</Events.11.Story>
-			<Events.12.Story>[name] estava exultante por causa de [obj_goodmood], e não pôde deixar de [obj] feliz.</Events.12.Story>
-			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente percebeu que eles cometeram um erro mais cedo e pisou com raiva quando [obj].</Events.13.Story>
+			<Events.11.Story>Incomodado por [obj], [name] só pôde [obj_badmood] para relaxar a mente.</Events.11.Story>
+			<Events.12.Story>[name] estava jubiloso por causa de [obj_goodmood], e não conseguiu deixar de [obj] felizmente.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente percebeu que havia cometido um erro antes e bateu o pé de raiva quando [obj].</Events.13.Story>
 		</Text>
 		<Text Name="Fun_PlayTicTacToe">
-			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudades de casa quando [obj].</Events.1.Story>
-			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a vagar em direção a [obj_friend] quando [obj].</Events.2.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] está com saudade de casa quando [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. A mente de [name] começou a divagar em direção a [obj_friend] quando [obj].</Events.2.Story>
 			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se interessou pelo [obj_nearthing] próximo quando [obj].</Events.3.Story>
-			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente queria comer [obj_food] quando [obj].</Events.4.Story>
-			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em sua [obj_relation] quando silenciosamente [obj].</Events.5.Story>
-			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a encher a mente de [name] quando [obj] estava sozinho.</Events.6.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente quis comer [obj_food] quando [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a pensar em seu [obj_relation] enquanto silenciosamente [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Muitos pensamentos e sentimentos começaram a preencher a mente de [name] quando [obj] sozinho.</Events.6.Story>
 			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente começou a chorar quando [obj].</Events.7.Story>
 			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente se sentiu ansioso quando [obj].</Events.8.Story>
-			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu dificuldade para respirar quando [obj].</Events.9.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente teve dificuldade para respirar quando [obj].</Events.9.Story>
 			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] quando [obj].</Events.10.Story>
-			<Events.11.Story>Incomodado por [obj], [name] só conseguiu [obj_badmood] para relaxar a mente.</Events.11.Story>
-			<Events.12.Story>[name] estava exultante por causa de [obj_goodmood], e não pôde deixar de [obj] feliz.</Events.12.Story>
-			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente tem areia soprada em seus olhos quando [obj].</Events.13.Story>
+			<Events.11.Story>Incomodado por [obj], [name] só pôde [obj_badmood] para relaxar a mente.</Events.11.Story>
+			<Events.12.Story>[name] estava jubiloso por causa de [obj_goodmood], e não conseguiu deixar de [obj] felizmente.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] de repente levou areia nos olhos quando [obj].</Events.13.Story>
 		</Text>
 	</List>
 </Texts>

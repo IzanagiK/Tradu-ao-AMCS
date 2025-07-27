@@ -1,172 +1,172 @@
-﻿<Texts Type="Other">
+<Texts Type="Other">
 	<List>
 		<Text Name="OutFire">
 			<Events.0.Story>Enquanto apagava um incêndio, [name] de repente começou a sentir saudades de casa.</Events.0.Story>
-			<Events.1.Story>Enquanto apagava um incêndio, a mente de [name] começou a vagar em direção [obj_friend].</Events.1.Story>
-			<Events.2.Story>Enquanto apagava um incêndio, [name] de repente se interessou pelas [obj_nearthing]...</Events.2.Story>
-			<Events.3.Story>Enquanto apagava um incêndio, [name] de repente queria comer [obj_food].</Events.3.Story>
-			<Events.4.Story>Enquanto apagava um incêndio, [name] de repente começou a pensar em seus [obj_relation].</Events.4.Story>
-			<Events.5.Story>Ao apagar um incêndio, muitos pensamentos e sentimentos começaram a encher [name]'s mind.</Events.5.Story>
-			<Events.6.Story>Ao apagar um incêndio, [name] de repente percebeu que eles estavam chorando.</Events.6.Story>
-			<Events.7.Story>Ao apagar um incêndio, [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.7.Story>
-			<Events.8.Story>Ao apagar um incêndio, [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.8.Story>
+			<Events.1.Story>Enquanto apagava um incêndio, a mente de [name] começou a divagar em direção a [obj_friend].</Events.1.Story>
+			<Events.2.Story>Enquanto apagava um incêndio, [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.2.Story>
+			<Events.3.Story>Enquanto apagava um incêndio, [name] de repente quis comer [obj_food].</Events.3.Story>
+			<Events.4.Story>Enquanto apagava um incêndio, [name] de repente começou a pensar em seu(sua) [obj_relation].</Events.4.Story>
+			<Events.5.Story>Enquanto apagava um incêndio, muitos pensamentos e sentimentos começaram a preencher a mente de [name].</Events.5.Story>
+			<Events.6.Story>Enquanto apagava um incêndio, [name] de repente percebeu que estava chorando.</Events.6.Story>
+			<Events.7.Story>Enquanto apagava um incêndio, [name] de repente sentiu uma irritação inexplicável com alguma coisa.</Events.7.Story>
+			<Events.8.Story>Enquanto apagava um incêndio, [name] de repente sentiu vontade de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.8.Story>
 			<Events.9.Story>Enquanto apagava um incêndio, [name] de repente começou a pensar no pôr do sol.</Events.9.Story>
 		</Text>
 		<Text Name="Treat">
-			<Events.1.Story>Enquanto cura [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Enquanto cura [obj], [name] a mente de começou a vagar em direção [obj_friend].</Events.2.Story>
-			<Events.3.Story>Enquanto cura [obj], [name] subitamente se interessou pelo próximo [obj_nearthing]...</Events.3.Story>
-			<Events.4.Story>Enquanto cura [obj], [name] de repente quis comer [obj_food].</Events.4.Story>
-			<Events.5.Story>Enquanto cura [obj], [name] de repente começou a pensar em seus [obj_relation].</Events.5.Story>
-			<Events.6.Story>Enquanto cura [obj], muitos pensamentos e sentimentos começaram a preencher a mente de [name]</Events.6.Story>
-			<Events.7.Story>Enquanto cura [obj], [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Enquanto cura [obj], [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
-			<Events.9.Story>Enquanto cura [obj], [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Apesar de seu humor ser afetado por [obj_badmood], [name] manteve seus espíritos e fez o seu melhor para curar [obj].</Events.10.Story>
-			<Events.11.Story>Seu humor afetado por [obj_badmood], [name] não conseguia manter a mente no assunto enquanto curava [obj], causando [hename] gritar de repente.</Events.11.Story>
-			<Events.12.Story>Seu humor afetado por [obj_badmood], [name] foi intencionalmente pesado na cura [obj], seu tratamento provocou um grito repentino de [hename].</Events.12.Story>
-			<Events.13.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto curava [obj], deixando [hename] sem palavras.</Events.13.Story>
-			<Events.14.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto curava [obj], elevando o ânimo de [hename].</Events.14.Story>
-			<Events.15.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto curava [obj], fazendo a expressão de [hename] escurecer.</Events.15.Story>
-			<Events.16.Story>Enquanto curava [obj], [name] de repente usou muita força. [hename] soltou um grito.</Events.16.Story>
-			<Events.17.Story>Enquanto curava [obj], [name] teve pena de [hename] e se sentiu triste.</Events.17.Story>
+			<Events.1.Story>Enquanto curava [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
+			<Events.2.Story>Enquanto curava [obj], a mente de [name] começou a divagar em direção a [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto curava [obj], [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.3.Story>
+			<Events.4.Story>Enquanto curava [obj], [name] de repente quis comer [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto curava [obj], [name] de repente começou a pensar em seu(sua) [obj_relation].</Events.5.Story>
+			<Events.6.Story>Enquanto curava [obj], muitos pensamentos e sentimentos começaram a preencher a mente de [name].</Events.6.Story>
+			<Events.7.Story>Enquanto curava [obj], [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto curava [obj], [name] de repente sentiu uma irritação inexplicável com alguma coisa.</Events.8.Story>
+			<Events.9.Story>Enquanto curava [obj], [name] de repente sentiu vontade de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Apesar de seu humor estar afetado por [obj_badmood], [name] manteve o ânimo e fez o melhor para curar [obj].</Events.10.Story>
+			<Events.11.Story>Com o humor afetado por [obj_badmood], [name] não conseguiu manter o foco enquanto curava [obj], fazendo com que [hename] gritasse de repente.</Events.11.Story>
+			<Events.12.Story>Com o humor afetado por [obj_badmood], [name] foi propositalmente bruto(a) ao curar [obj], e o tratamento fez [hename] soltar um grito repentino.</Events.12.Story>
+			<Events.13.Story>[name] estava de bom humor por causa de [obj_goodmood] e não conseguiu evitar cantarolar alegremente enquanto curava [obj], deixando [hename] sem palavras.</Events.13.Story>
+			<Events.14.Story>[name] estava de bom humor por causa de [obj_goodmood] e não conseguiu evitar cantarolar alegremente enquanto curava [obj], levantando o ânimo de [hename].</Events.14.Story>
+			<Events.15.Story>[name] estava de bom humor por causa de [obj_goodmood] e não conseguiu evitar cantarolar alegremente enquanto curava [obj], fazendo a expressão de [hename] escurecer.</Events.15.Story>
+			<Events.16.Story>Enquanto curava [obj], [name] de repente usou força demais. [hename] soltou um grito.</Events.16.Story>
+			<Events.17.Story>Enquanto curava [obj], [name] teve pena de [hename] e se sentiu entristecido(a).</Events.17.Story>
 			<Events.18.Story>Enquanto curava [obj], [name] conversou com [hename] sobre [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.18.Story>
 		</Text>
 		<Text Name="Feed">
-			<Events.1.Story>Durante a alimentação [hename] [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Durante a alimentação [hename] [obj], [name]a mente de começou a vagar em direção [obj_friend].</Events.2.Story>
-			<Events.3.Story>Durante a alimentação [hename] [obj], [name] de repente se interessou pelas proximidades [obj_nearthing]...</Events.3.Story>
-			<Events.4.Story>Durante a alimentação [hename] [obj], [name] de repente queria comer [obj_food].</Events.4.Story>
-			<Events.5.Story>Durante a alimentação [hename] [obj], [name] de repente começou a pensar em seus [obj_relation].</Events.5.Story>
-			<Events.6.Story>Durante a alimentação [hename] [obj], muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.6.Story>
-			<Events.7.Story>Durante a alimentação [hename] [obj], [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Durante a alimentação [hename] [obj], [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
-			<Events.9.Story>Durante a alimentação [hename] [obj], [name] de repente sentiu o desejo de visitar[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Apesar de seu humor ser afetado por [obj_badmood], [name] manteve o ânimo e fez o possível para cuidar de [hename].</Events.10.Story>
-			<Events.11.Story>Seu humor afetado por [obj_badmood], [name] não conseguia manter sua mente no assunto enquanto alimentava [hename] [obj], queimando [hename] e fazendo-os gritar de repente.</Events.11.Story>
-			<Events.12.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto alimentava [hename] [obj], deixando [hename] sem palavras.</Events.12.Story>
-			<Events.13.Story>[name] estava de bom humor por causa de [obj_goodmood], e não podia deixar de cantarolar alegremente enquanto alimentava [hename] [obj], elevando o ânimo de [hename].</Events.13.Story>
-			<Events.14.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto alimentava [hename] [obj], fazendo a expressão de [hename] escurecer.</Events.14.Story>
-			<Events.15.Story>[name] estava de bom humor por causa de [obj_goodmood], e não podia deixar de cantarolar alegremente enquanto alimentava [hename] [obj], o que realmente irritou [hename].</Events.15.Story>
-			<Events.16.Story>While feeding [hename] [obj], [name]'s mind began to wander. They managed to get [obj] all over [hename]'s face.</Events.16.Story>
-			<Events.17.Story>Enquanto alimentava [hename] [obj], [name] começou a querer experimentar alguns [obj], também.</Events.17.Story>
-			<Events.18.Story>Enquanto alimentava [hename] [obj], [name] conversou com [hename] sobre [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.18.Story>
+			<Events.1.Story>Enquanto alimentava [hename] com [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
+			<Events.2.Story>Enquanto alimentava [hename] com [obj], a mente de [name] começou a divagar em direção a [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto alimentava [hename] com [obj], [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.3.Story>
+			<Events.4.Story>Enquanto alimentava [hename] com [obj], [name] de repente quis comer [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto alimentava [hename] com [obj], [name] de repente começou a pensar em seu(sua) [obj_relation].</Events.5.Story>
+			<Events.6.Story>Enquanto alimentava [hename] com [obj], muitos pensamentos e sentimentos começaram a preencher a mente de [name].</Events.6.Story>
+			<Events.7.Story>Enquanto alimentava [hename] com [obj], [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto alimentava [hename] com [obj], [name] de repente sentiu uma irritação inexplicável com alguma coisa.</Events.8.Story>
+			<Events.9.Story>Enquanto alimentava [hename] com [obj], [name] de repente sentiu vontade de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Apesar de seu humor estar afetado por [obj_badmood], [name] manteve o ânimo e fez o melhor para cuidar de [hename].</Events.10.Story>
+			<Events.11.Story>Com o humor afetado por [obj_badmood], [name] não conseguiu manter o foco enquanto alimentava [hename] com [obj], queimando [hename] e fazendo-o(a) gritar de repente.</Events.11.Story>
+			<Events.12.Story>[name] estava de bom humor por causa de [obj_goodmood] e não conseguiu evitar cantarolar alegremente enquanto alimentava [hename] com [obj], deixando [hename] sem palavras.</Events.12.Story>
+			<Events.13.Story>[name] estava de bom humor por causa de [obj_goodmood] e não conseguiu evitar cantarolar alegremente enquanto alimentava [hename] com [obj], levantando o ânimo de [hename].</Events.13.Story>
+			<Events.14.Story>[name] estava de bom humor por causa de [obj_goodmood] e não conseguiu evitar cantarolar alegremente enquanto alimentava [hename] com [obj], fazendo a expressão de [hename] escurecer.</Events.14.Story>
+			<Events.15.Story>[name] estava de bom humor por causa de [obj_goodmood] e não conseguiu evitar cantarolar alegremente enquanto alimentava [hename] com [obj], o que irritou profundamente [hename].</Events.15.Story>
+			<Events.16.Story>Enquanto alimentava [hename] com [obj], a mente de [name] começou a divagar. [name] acabou espalhando [obj] por todo o rosto de [hename].</Events.16.Story>
+			<Events.17.Story>Enquanto alimentava [hename] com [obj], [name] começou a querer provar um pouco também.</Events.17.Story>
+			<Events.18.Story>Enquanto alimentava [hename] com [obj], [name] conversou com [hename] sobre [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.18.Story>
 		</Text>
 		<Text Name="Hunting">
 			<Events.1.Story>Enquanto caçava [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Enquanto caçava [obj], a mente de [name] começou a vagar em direção a [obj_friend].</Events.2.Story>
-			<Events.3.Story>Enquanto caçava [obj], [name] de repente se interessou por[obj_nearthing]...</Events.3.Story>
-			<Events.4.Story>While hunting [obj], [name] suddenly wanted to eat [obj_food].</Events.4.Story>
-			<Events.5.Story>Enquanto caçava [obj], [name] de repente começou a pensar em seus [obj_relation].</Events.5.Story>
-			<Events.6.Story>Enquanto caçava [obj], muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.6.Story>
-			<Events.7.Story>Enquanto caçava [obj], [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Enquanto caçava [obj], [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
-			<Events.9.Story>Enquanto caçava [obj], [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Apesar de seu humor ser afetado por [obj_badmood], [name] manteve o ânimo e fez o possível para caçar [obj].</Events.10.Story>
+			<Events.2.Story>Enquanto caçava [obj], a mente de [name] começou a vagar até [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto caçava [obj], [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.3.Story>
+			<Events.4.Story>Enquanto caçava [obj], [name] de repente quis comer [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto caçava [obj], [name] começou a pensar repentinamente em seu(sua) [obj_relation].</Events.5.Story>
+			<Events.6.Story>Enquanto caçava [obj], uma grande quantidade de pensamentos e sentimentos começaram a preencher a mente de [name].</Events.6.Story>
+			<Events.7.Story>Enquanto caçava [obj], [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto caçava [obj], [name] de repente se sentiu inexplicavelmente irritado com algo.</Events.8.Story>
+			<Events.9.Story>Enquanto caçava [obj], [name] de repente sentiu vontade de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Apesar de seu humor ter sido afetado por [obj_badmood], [name] manteve o ânimo e fez o seu melhor para caçar [obj].</Events.10.Story>
 			<Events.11.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto caçava [obj].</Events.11.Story>
-			<Events.12.Story>Enquanto caçava [obj], [name] sentiu pena do [obj] por algum motivo.</Events.12.Story>
+			<Events.12.Story>Enquanto caçava [obj], [name] se sentiu com pena do(a) [obj] por algum motivo.</Events.12.Story>
 		</Text>
 		<Text Name="Build">
-			<Events.1.Story>Enquanto construía o [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Enquanto construía o [obj], a mente de [name] começou a vagar em direção a [obj_friend].</Events.2.Story>
-			<Events.3.Story>Ao construir o [obj], [name] de repente se interessou pelo [obj_nearthing] próximo...</Events.3.Story>
-			<Events.4.Story>Enquanto construía o [obj], [name] de repente queria comer [obj_food].</Events.4.Story>
-			<Events.5.Story>Ao construir o [obj], [name] de repente começou a pensar em sua [obj_relation].</Events.5.Story>
-			<Events.6.Story>Enquanto construía o [obj], muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.6.Story>
-			<Events.7.Story>Enquanto construía o [obj], [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Ao construir o [obj], [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
-			<Events.9.Story>Ao construir o [obj], [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Apesar de seu humor ser afetado por [obj_badmood], [name] manteve seu ânimo e fez o seu melhor para construir o [obj].</Events.10.Story>
-			<Events.11.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto construía o [obj].</Events.11.Story>
-			<Events.12.Story>[name] sentiu-se especialmente dedicado à sua tarefa ao construir o [obj], deixando-os realmente impressionados com o [it] como resultado.</Events.12.Story>
+			<Events.1.Story>Enquanto construía o(a) [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
+			<Events.2.Story>Enquanto construía o(a) [obj], a mente de [name] começou a vagar até [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto construía o(a) [obj], [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.3.Story>
+			<Events.4.Story>Enquanto construía o(a) [obj], [name] de repente quis comer [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto construía o(a) [obj], [name] começou a pensar repentinamente em seu(sua) [obj_relation].</Events.5.Story>
+			<Events.6.Story>Enquanto construía o(a) [obj], uma grande quantidade de pensamentos e sentimentos começaram a preencher a mente de [name].</Events.6.Story>
+			<Events.7.Story>Enquanto construía o(a) [obj], [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto construía o(a) [obj], [name] de repente se sentiu inexplicavelmente irritado com algo.</Events.8.Story>
+			<Events.9.Story>Enquanto construía o(a) [obj], [name] de repente sentiu vontade de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Apesar de seu humor ter sido afetado por [obj_badmood], [name] manteve o ânimo e fez o seu melhor para construir o(a) [obj].</Events.10.Story>
+			<Events.11.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto construía o(a) [obj].</Events.11.Story>
+			<Events.12.Story>[name] sentiu-se especialmente dedicado à tarefa enquanto construía o(a) [obj], ficando realmente impressionado com o(a) [it] como resultado.</Events.12.Story>
 		</Text>
 		<Text Name="Plant">
 			<Events.1.Story>Enquanto plantava [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Enquanto plantava [obj], a mente de [name] começou a vagar em direção [obj_friend].</Events.2.Story>
-			<Events.3.Story>Enquanto plantava [obj], [name] de repente se interessou pelo [obj_nearthing] próximo...</Events.3.Story>
-			<Events.4.Story>Enquanto plantava [obj], [name] de repente queria comer [obj_food].</Events.4.Story>
-			<Events.5.Story>Enquanto plantava [obj], [name] de repente começou a pensar em sua [obj_relation].</Events.5.Story>
-			<Events.6.Story>Enquanto plantava [obj], muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.6.Story>
-			<Events.7.Story>Enquanto plantava [obj], [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Ao plantar [obj], [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
-			<Events.9.Story>Ao plantar [obj], [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Apesar de seu humor ser afetado por [obj_badmood], [name] manteve o ânimo e fez o possível para plantar [obj].</Events.10.Story>
+			<Events.2.Story>Enquanto plantava [obj], a mente de [name] começou a vagar até [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto plantava [obj], [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.3.Story>
+			<Events.4.Story>Enquanto plantava [obj], [name] de repente quis comer [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto plantava [obj], [name] começou a pensar repentinamente em seu(sua) [obj_relation].</Events.5.Story>
+			<Events.6.Story>Enquanto plantava [obj], uma grande quantidade de pensamentos e sentimentos começaram a preencher a mente de [name].</Events.6.Story>
+			<Events.7.Story>Enquanto plantava [obj], [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto plantava [obj], [name] de repente se sentiu inexplicavelmente irritado com algo.</Events.8.Story>
+			<Events.9.Story>Enquanto plantava [obj], [name] de repente sentiu vontade de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Apesar de seu humor ter sido afetado por [obj_badmood], [name] manteve o ânimo e fez o seu melhor para plantar [obj].</Events.10.Story>
 			<Events.11.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto plantava [obj].</Events.11.Story>
-			<Events.12.Story>[name] encheu-se de esperança ao plantar [obj]: "Desejo que a colheita desta temporada seja boa", pensaram.</Events.12.Story>
+			<Events.12.Story>[name] estava cheio(a) de esperança enquanto plantava [obj]: "Espero que a colheita desta estação seja boa", pensou.</Events.12.Story>
 		</Text>
 		<Text Name="Mine">
 			<Events.1.Story>Enquanto minerava [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Enquanto minerava [obj], a mente de [name] começou a vagar em direção a [obj_friend].</Events.2.Story>
-			<Events.3.Story>Enquanto minerava [obj], [name] de repente se interessou pelo [obj_nearthing] próximo...</Events.3.Story>
-			<Events.4.Story>Enquanto minerava [obj], [name] de repente queria comer [obj_food].</Events.4.Story>
-			<Events.5.Story>Enquanto minerava [obj], [name] de repente começou a pensar em sua [obj_relation].</Events.5.Story>
-			<Events.6.Story>Enquanto minerava [obj], muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.6.Story>
-			<Events.7.Story>Enquanto minerava [obj], [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Enquanto minerava [obj], [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
-			<Events.9.Story>Enquanto minerava [obj], [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Apesar de seu humor ser afetado por [obj_badmood], [name] manteve o ânimo e fez o seu melhor para o meu [obj].</Events.10.Story>
+			<Events.2.Story>Enquanto minerava [obj], a mente de [name] começou a vagar até [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto minerava [obj], [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.3.Story>
+			<Events.4.Story>Enquanto minerava [obj], [name] de repente quis comer [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto minerava [obj], [name] começou a pensar repentinamente em seu(sua) [obj_relation].</Events.5.Story>
+			<Events.6.Story>Enquanto minerava [obj], uma grande quantidade de pensamentos e sentimentos começaram a preencher a mente de [name].</Events.6.Story>
+			<Events.7.Story>Enquanto minerava [obj], [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto minerava [obj], [name] de repente se sentiu inexplicavelmente irritado com algo.</Events.8.Story>
+			<Events.9.Story>Enquanto minerava [obj], [name] de repente sentiu vontade de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Apesar de seu humor ter sido afetado por [obj_badmood], [name] manteve o ânimo e fez o seu melhor para minerar [obj].</Events.10.Story>
 			<Events.11.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto minerava [obj].</Events.11.Story>
-			<Events.12.Story>[name] se encheu de esperança enquanto minerava [obj]. "Se ao menos eu conseguisse cavar meu caminho em algum lugar místico habitado por fadas e imortais..."</Events.12.Story>
-			<Events.13.Story>Enquanto minerava [obj], [name] foi subitamente dominado por uma onda de exaustão. "Quando finalmente serei promovido a discípulo interior?", eles ponderaram.</Events.13.Story>
-			<Events.14.Story>[name] começou a se sentir mais motivado enquanto minerava [obj]. [ela] pensou consigo mesma que isso também era uma parte importante do cultivo de alguém.</Events.14.Story>
+			<Events.12.Story>[name] estava cheio(a) de esperança enquanto minerava [obj]. "Se ao menos eu conseguisse cavar até algum lugar místico habitado por fadas e imortais..."</Events.12.Story>
+			<Events.13.Story>Enquanto minerava [obj], [name] foi tomado(a) por uma onda de exaustão. "Quando é que finalmente serei promovido a discípulo interno?", ponderou.</Events.13.Story>
+			<Events.14.Story>[name] começou a se sentir especialmente motivado(a) enquanto minerava [obj]. [it] pensou consigo mesmo(a) que isso também fazia parte do cultivo.</Events.14.Story>
 		</Text>
 		<Text Name="CutOff">
 			<Events.1.Story>Enquanto cortava [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Enquanto cortava [obj], a mente de [name] começou a vagar em direção a [obj_friend].</Events.2.Story>
-			<Events.3.Story>Enquanto cortava [obj], [name] de repente se interessou pelo [obj_nearthing] próximo...</Events.3.Story>
-			<Events.4.Story>Enquanto cortava [obj], [name] de repente queria comer [obj_food].</Events.4.Story>
-			<Events.5.Story>Enquanto cortava [obj], [name] de repente queria comer [obj_food].</Events.5.Story>
+			<Events.2.Story>Enquanto cortava [obj], a mente de [name] começou a divagar em direção a [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto cortava [obj], [name] de repente se interessou por [obj_nearthing] nas proximidades...</Events.3.Story>
+			<Events.4.Story>Enquanto cortava [obj], [name] de repente teve vontade de comer [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto cortava [obj], [name] de repente começou a pensar em seu/sua [obj_relation].</Events.5.Story>
 			<Events.6.Story>Enquanto cortava [obj], muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.6.Story>
-			<Events.7.Story>Enquanto cortava [obj], [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Ao cortar [obj], [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
-			<Events.9.Story>Ao cortar [obj], [name] de repente sentiu o desejo de visitar[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Apesar de seu humor ser afetado por [obj_badmood], [name] manteve o ânimo e fez o possível para cortar [obj].</Events.10.Story>
-			<Events.11.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar alegremente enquanto cortava [obj].</Events.11.Story>
-			<Events.12.Story>[name] começou a se sentir mais motivado durante a colheita [obj]. [ela] pensou consigo mesma que isso também era uma parte importante do cultivo de alguém.</Events.12.Story>
+			<Events.7.Story>Enquanto cortava [obj], [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto cortava [obj], [name] de repente se sentiu inexplicavelmente irritado(a) com algo.</Events.8.Story>
+			<Events.9.Story>Enquanto cortava [obj], [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Apesar de seu humor estar afetado por [obj_badmood], [name] manteve o ânimo e fez o melhor para cortar [obj].</Events.10.Story>
+			<Events.11.Story>[name] estava de bom humor por causa de [obj_goodmood], e não pôde deixar de cantarolar feliz enquanto cortava [obj].</Events.11.Story>
+			<Events.12.Story>[name] começou a se sentir especialmente motivado(a) ao colher [obj]. [it] pensou consigo mesmo(a) que isso também fazia parte importante da própria cultivação.</Events.12.Story>
 		</Text>
 		<Text Name="Eat">
 			<Events.1.Story>Enquanto comia [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Enquanto comia [obj], a mente de [name] começou a vagar em direção a [obj_friend].</Events.2.Story>
-			<Events.3.Story>Enquanto comia [obj], [name] de repente se interessou pelo [obj_nearthing] próximo...</Events.3.Story>
-			<Events.4.Story>Enquanto comia [obj], [name] de repente queria comer [obj_food].</Events.4.Story>
-			<Events.5.Story>Enquanto comia [obj], [name] de repente começou a pensar em sua [obj_relation].</Events.5.Story>
+			<Events.2.Story>Enquanto comia [obj], a mente de [name] começou a divagar em direção a [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto comia [obj], [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.3.Story>
+			<Events.4.Story>Enquanto comia [obj], [name] de repente teve vontade de comer [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto comia [obj], [name] de repente começou a pensar em seu/sua [obj_relation].</Events.5.Story>
 			<Events.6.Story>Enquanto comia [obj], muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.6.Story>
-			<Events.7.Story>Enquanto comia [obj], [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Enquanto comia [obj], [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
+			<Events.7.Story>Enquanto comia [obj], [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto comia [obj], [name] de repente se sentiu inexplicavelmente irritado(a) com algo.</Events.8.Story>
 			<Events.9.Story>Enquanto comia [obj], [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Seu humor afetado por [obj_badmood], [name] sentiu que o [obj] era tão saboroso quanto um pedaço de cera de vela, completamente sem sabor.</Events.10.Story>
-			<Events.11.Story>[name] estava de bom humor por causa de [obj_goodmood], fazendo-os sentir que o [obj] parecia ter um gosto muito melhor do que o normal.</Events.11.Story>
+			<Events.10.Story>Com o humor afetado por [obj_badmood], [name] achou que [obj] estava com gosto de cera de vela, completamente sem sabor.</Events.10.Story>
+			<Events.11.Story>[name] estava de bom humor por causa de [obj_goodmood], fazendo com que sentisse que [obj] parecia estar muito mais saboroso que o normal.</Events.11.Story>
 		</Text>
 		<Text Name="Drink">
 			<Events.1.Story>Enquanto bebia [obj], [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Enquanto bebia [obj], a mente de [name] começou a vagar em direção a [obj_friend].</Events.2.Story>
-			<Events.3.Story>Enquanto bebia [obj], [name] de repente se interessou pelo [obj_nearthing] próximo...</Events.3.Story>
-			<Events.4.Story>Enquanto bebia [obj], [name] de repente queria beber [obj_food].</Events.4.Story>
-			<Events.5.Story>Enquanto bebia [obj], [name] de repente começou a pensar em sua [obj_relation].</Events.5.Story>
+			<Events.2.Story>Enquanto bebia [obj], a mente de [name] começou a divagar em direção a [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto bebia [obj], [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.3.Story>
+			<Events.4.Story>Enquanto bebia [obj], [name] de repente teve vontade de beber [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto bebia [obj], [name] de repente começou a pensar em seu/sua [obj_relation].</Events.5.Story>
 			<Events.6.Story>Enquanto bebia [obj], muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.6.Story>
-			<Events.7.Story>Enquanto bebia [obj], [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Enquanto bebia [obj], [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
+			<Events.7.Story>Enquanto bebia [obj], [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto bebia [obj], [name] de repente se sentiu inexplicavelmente irritado(a) com algo.</Events.8.Story>
 			<Events.9.Story>Enquanto bebia [obj], [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
 		</Text>
 		<Text Name="Fighting">
 			<Events.1.Story>Enquanto lutava, [name] de repente começou a sentir saudades de casa.</Events.1.Story>
-			<Events.2.Story>Enquanto lutava, a mente de [name] começou a vagar em direção a [obj_friend].</Events.2.Story>
-			<Events.3.Story>Enquanto lutava, [name] de repente se interessou pelo [obj_nearthing] próximo...</Events.3.Story>
-			<Events.4.Story>Enquanto lutava, [name] de repente queria comer [obj_food].</Events.4.Story>
-			<Events.5.Story>Enquanto lutava, [name] de repente começou a pensar em sua [obj_relation].</Events.5.Story>
+			<Events.2.Story>Enquanto lutava, a mente de [name] começou a divagar em direção a [obj_friend].</Events.2.Story>
+			<Events.3.Story>Enquanto lutava, [name] de repente se interessou pelo(a) [obj_nearthing] próximo(a)...</Events.3.Story>
+			<Events.4.Story>Enquanto lutava, [name] de repente teve vontade de comer [obj_food].</Events.4.Story>
+			<Events.5.Story>Enquanto lutava, [name] de repente começou a pensar em seu/sua [obj_relation].</Events.5.Story>
 			<Events.6.Story>Enquanto lutava, muitos pensamentos e sentimentos começaram a encher a mente de [name].</Events.6.Story>
-			<Events.7.Story>Enquanto lutavam, [name] de repente percebeu que eles estavam chorando.</Events.7.Story>
-			<Events.8.Story>Enquanto lutava, [name] de repente se sentiu inexplicavelmente irritado com alguma coisa.</Events.8.Story>
+			<Events.7.Story>Enquanto lutava, [name] de repente percebeu que estava chorando.</Events.7.Story>
+			<Events.8.Story>Enquanto lutava, [name] de repente se sentiu inexplicavelmente irritado(a) com algo.</Events.8.Story>
 			<Events.9.Story>Enquanto lutava, [name] de repente sentiu o desejo de visitar [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
-			<Events.10.Story>Enquanto lutavam, [name] decidiu que, assim que a batalha terminasse, eles gostariam de voltar para casa para visitar sua família.</Events.10.Story>
-			<Events.11.Story>Enquanto lutavam, [name] decidiu que, uma vez que essa batalha terminasse, eles gostariam de começar a procurar o amor.</Events.11.Story>
-			<Events.12.Story>Enquanto lutavam, [name] decidiu que, uma vez que a batalha terminasse, eles gostariam de se reunir com os amigos e tomar algumas bebidas.</Events.12.Story>
+			<Events.10.Story>Enquanto lutava, [name] decidiu que, assim que essa batalha terminasse, gostaria de voltar para casa visitar a família.</Events.10.Story>
+			<Events.11.Story>Enquanto lutava, [name] decidiu que, assim que essa batalha terminasse, gostaria de procurar o amor.</Events.11.Story>
+			<Events.12.Story>Enquanto lutava, [name] decidiu que, assim que essa batalha terminasse, gostaria de reunir os amigos e beber um pouco.</Events.12.Story>
 		</Text>
 		<Text Name="Fishing">
-			<Events.1.Story>[name] está com saudades de casa ao pescar.</Events.1.Story>
-			<Events.2.Story>A mente de [name] começou a vagar em direção a [obj_friend] enquanto pescava.</Events.2.Story>
-			<Events.3.Story>Ao pescar, [name] de repente se interessou pelo [obj_nearthing] nas proximidades.</Events.3.Story>
-			<Events.4.Story>[name] de repente queria comer [obj_food] enquanto pescava.</Events.4.Story>
+			<Events.1.Story>[name] estava com saudades de casa enquanto pescava.</Events.1.Story>
+			<Events.2.Story>A mente de [name] começou a divagar em direção a [obj_friend] enquanto pescava.</Events.2.Story>
+			<Events.3.Story>Ao pescar, [name] de repente se interessou por [obj_nearthing] próximo(a).</Events.3.Story>
+			<Events.4.Story>[name] de repente teve vontade de comer [obj_food] enquanto pescava.</Events.4.Story>
 		</Text>
 	</List>
 </Texts>
