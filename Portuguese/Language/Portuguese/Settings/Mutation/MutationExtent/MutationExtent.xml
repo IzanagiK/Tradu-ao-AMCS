@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Extent_Shallow">
+			<DisplayName>Turbulento</DisplayName>
+			<Desc>O efeito de caos desaparece após o número de ativações ser esgotado.</Desc>
+			<ExpireDesc>{0} vezes.</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Middle">
+			<DisplayName>Yin Yang</DisplayName>
+			<Desc>O efeito de caos desaparece após 112 dias.</Desc>
+			<ExpireDesc>{0} dias.</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Deep">
+			<DisplayName>Constante</DisplayName>
+			<Desc>O efeito de caos tem efeito permanente neste mundo.</Desc>
+			<ExpireDesc>Permanente</ExpireDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,178 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Constant_AnimalToMonster">
+			<DisplayName>Conversão de Bestas</DisplayName>
+			<Desc>Animais mortos podem se transformar em monstros.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ElixirGas">
+			<DisplayName>Plenitude do Qi da Alquimia</DisplayName>
+			<Desc>Alquimia bem-sucedida aumenta o Qi da Alquimia dos Cinco Elementos na área, oferecendo efeitos variados com base nas proporções.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_LifeLost">
+			<DisplayName>Destino Abrupto</DisplayName>
+			<Desc>Consumir remédios resulta em menor Tolerância à Medicina, mas a Longevidade do personagem se esgota a 100 vezes a velocidade.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_AncientStoneChest">
+			<DisplayName>Maldição da Rocha Profunda</DisplayName>
+			<Desc>Aumenta consideravelmente a chance de cavar um caixão antigo, mas fazer isso matará o discípulo minerador.</Desc>
+			<Effects.0.sParam1>Maldição da Rocha Profunda</Effects.0.sParam1>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_LinQiSurge">
+			<DisplayName>Poder do Fenômeno Celestial</DisplayName>
+			<Desc>Cada mudança de clima é acompanhada por uma Explosão de Qi, mas mudar o clima custará uma vida.</Desc>
+			<Effects.0.sParam1>Poder do Fenômeno Celestial</Effects.0.sParam1>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GoodsExpensiveButSuppliesCheaper">
+			<DisplayName>O Povo Busca Lucro</DisplayName>
+			<Desc>O preço de venda dos mercadores é reduzido pela metade, o preço de compra é dobrado, mas dentro de um único ciclo de mercador, os produtos se tornam mais caros quanto mais você comprar, e os materiais ficam mais baratos quanto mais você vender.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_FiveElementsRelationChange">
+			<DisplayName>Reversão dos Cinco Elementos</DisplayName>
+			<Desc>A relação de geração e superação dos Cinco Elementos é revertida uma vez.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_CantDrawFuAndRandomFu">
+			<DisplayName>Colapso do Caminho do Talismã</DisplayName>
+			<Desc>Não é possível desenhar talismãs manualmente, mas desenhar talismãs resultará em efeitos aleatórios. Personagens podem ativar mais talismãs.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_RefineMustSuccess">
+			<DisplayName>Artefato Ordenado Divinamente</DisplayName>
+			<Desc>A refinamento é garantido, mas consome mais recursos.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_NpcAvoidDangerAutomatically">
+			<DisplayName>Mundo Harmonioso</DisplayName>
+			<Desc>Aumenta muito a chance de ganhar o favor de outros cultivadores, e pode-se romper diretamente as defesas mentais, mas outros cultivadores também evitarão automaticamente o perigo.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_RealTime">
+			<DisplayName>Ajuste do Eixo do Tempo</DisplayName>
+			<Desc>Os dias de disparo para todos os eventos secretos são reduzidos para 1/3, e o tempo dos discípulos estacionados fora se tornará tempo real.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_SupplyBox">
+			<DisplayName>Restos Apocalípticos</DisplayName>
+			<Desc>A névoa do mapa é automaticamente eliminada. Não é possível obter rendimentos de abate, colheita, mineração ou corte, mas caixas de suprimentos cairão do céu diariamente.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetGoodBadScoreRandom">
+			<DisplayName>Conexão Mundial</DisplayName>
+			<Desc>Ao adquirir reputação por diversos meios, a reputação adquirida é aleatoriamente positiva ou negativa, e o multiplicador para adquirir reputação varia aleatoriamente de 0,1 a 10.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_UnlockGong">
+			<DisplayName>Fruto do Dao em Risco</DisplayName>
+			<Desc>O valor da fundação necessário para o Treinamento de Fundação e o valor de cultivo necessário para a prática são multiplicados por 5. Todas as leis agora estão abertas para todos os cultivadores.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Yang">
+			<DisplayName>Local de Yang Extremo</DisplayName>
+			<Desc>O Feng Shui da seita está permanentemente no seu nível mais alto, o efeito base de coleta de espírito aumenta em 100 pontos, todos os terrenos ganham atributos de fogo e madeira, mas a temperatura base do mapa aumenta em 20°.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Yin">
+			<DisplayName>Local de Yin Extremo</DisplayName>
+			<Desc>O Feng Shui da seita está permanentemente no seu nível mais alto, o efeito base de coleta de espírito aumenta em 100 pontos, todos os terrenos ganham atributos de metal e água, mas a temperatura base do mapa diminui em 20°.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_1">
+			<DisplayName>Caçador de Monstros</DisplayName>
+			<Desc>Após caçar vários coelhos, um item raro apareceu.</Desc>
+			<SpecialDesc>Após vários coelhos caçados pelos discípulos da seita, um [TARGET] apareceu!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_2">
+			<DisplayName>Caçador de Monstros</DisplayName>
+			<Desc>Após caçar vários lobos, um item raro apareceu.</Desc>
+			<SpecialDesc>Após discípulos da seita caçarem vários lobos, um [TARGET] surge!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_3">
+			<DisplayName>Caçador de Monstros</DisplayName>
+			<Desc>Após caçar vários ursos, um item raro apareceu.</Desc>
+			<SpecialDesc>Após discípulos da seita caçarem vários ursos, um [TARGET] surge!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_4">
+			<DisplayName>Caçador de Monstros</DisplayName>
+			<Desc>Após caçar várias tartarugas, um item raro apareceu.</Desc>
+			<SpecialDesc>Após discípulos da seita caçarem várias tartarugas, um [TARGET] surge!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_5">
+			<DisplayName>Caçador de Monstros</DisplayName>
+			<Desc>Após caçar vários tigres, um item raro apareceu.</Desc>
+			<SpecialDesc>Após discípulos da seita caçarem vários tigres, um [TARGET] surge!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_6">
+			<DisplayName>Caçador de Monstros</DisplayName>
+			<Desc>Após caçar várias vacas, um item raro apareceu.</Desc>
+			<SpecialDesc>Após discípulos da seita caçarem várias vacas, um [TARGET] surge!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_7">
+			<DisplayName>Caçador de Monstros</DisplayName>
+			<Desc>Após caçar vários galos, um item raro apareceu.</Desc>
+			<SpecialDesc>Após discípulos da seita caçarem vários galos, um [TARGET] surge!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_8">
+			<DisplayName>Caçador de Monstros</DisplayName>
+			<Desc>Após caçar várias cobras, um item raro apareceu.</Desc>
+			<SpecialDesc>Após discípulos da seita caçarem várias cobras, um [TARGET] surge!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetItem_1">
+			<DisplayName>Crime de Posse</DisplayName>
+			<Desc>Adquiridos vários tesouros raros, mas a favor de todas as seitas para conosco despencou.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_OuterDiscipleRoomDemand">
+			<Desc>Os discípulos externos ganham a habilidade de voar, mas seus requisitos de quarto aumentam.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetItem_2">
+			<Desc>Obter um Item Raro</Desc>
+			<SpecialDesc>Com o aumento da Reputação da Seita, um [TARGET] se materializa!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Sacrific">
+			<Desc>Iniciar Sacrifício de Bestas</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetSchoolRelation">
+			<Desc>Provocar a ira do Palácio dos Dez Mil Demônios</Desc>
+			<SpecialDesc>Sacrificar demônios enfurece o Palácio dos Demônios</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_FengShuiChange">
+			<Desc>Todos os discípulos da seita são dotados por natureza, com todas as habilidades +2 (aumento do limite), mas sua seita sofre de inveja divina, tornando todos os artefatos permanentemente adversos.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_1">
+			<Desc>A habilidade de aprendizado dos discípulos da seita aumenta, habilidades de alquimia +5 (limite aumentado)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_2">
+			<Desc>As habilidades relacionadas a aventuras dos discípulos da seita diminuem consideravelmente, mas a habilidade de forjar armas +5 (limite superior aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_3">
+			<Desc>A habilidade de Artesanato dos discípulos da seita +5 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_4">
+			<Desc>O bônus de estado mental diminui significativamente; habilidade social +5 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_5">
+			<Desc>As habilidades manuais dos discípulos da seita diminuíram consideravelmente, habilidade de construção +10, habilidade de mineração +10.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_6">
+			<Desc>As habilidades sociais dos discípulos da seita -5, habilidades de batalha +5 (limite aumentado)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_7">
+			<Desc>Os discípulos da seita estão mais propensos à fome e fadiga (Percepção Qi +10).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_8">
+			<Desc>Os discípulos da seita ganham +50 de longevidade, tolerância à temperatura ótima/máxima -10/-20.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_9">
+			<Desc>O limite de Qi dos discípulos da seita aumenta, avançando todas as tribulações celestiais em 70%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_10">
+			<Desc>As habilidades de batalha dos discípulos da seita -5, habilidades de proteção +5 (limite aumentado)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_11">
+			<Desc>A velocidade de prática dos discípulos da seita diminui consideravelmente, mas as habilidades técnicas +10 (aumenta o limite superior).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_12">
+			<Desc>Os discípulos da seita aumentam significativamente sua velocidade de Fundação e cultivo em um curto período.</Desc>
+			<SpecialDesc>A ascensão de [NPC] aumenta significativamente a velocidade de estabelecimento da fundação e a velocidade de cultivo de todos os discípulos da seita em curto prazo.</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_13">
+			<Desc>Os discípulos da seita experimentam uma redução significativa na velocidade de treinamento de fundação e cultivo.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_14">
+			<Desc>A velocidade de aprendizado dos discípulos da seita diminui consideravelmente, habilidades de maestria em artefatos +5 (limite aumentado)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetStageValue_1">
+			<Desc>Ganhar Cultivo</Desc>
+			<SpecialDesc>O cultivo de [NPC] aumenta consideravelmente após completar o abate.</SpecialDesc>
+		</Text>
+	</List>
+</Texts>

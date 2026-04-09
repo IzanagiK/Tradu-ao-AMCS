@@ -1,0 +1,26 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Other_BuryObject">
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+		<Text Name="Other_CreateLingPlant">
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+		<Text Name="Other_BuildMine">
+			<DisplayName>Modelagem de Montanha do Sistema</DisplayName>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+		<Text Name="Item_TrackNpc">
+			<DisplayName>Rastreamento</DisplayName>
+			<TargetDesc>Selecione um personagem que precisa ser rastreado.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_Firecracker">
+			<DisplayName>Fogos de Artifício</DisplayName>
+			<TargetDesc>Selecione um local para acendê-lo.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_FirecrackerShit">
+			<DisplayName>Fogos de Artifício Sujos</DisplayName>
+			<TargetDesc>Selecione um local para acendê-lo.</TargetDesc>
+		</Text>
+	</List>
+</Texts>

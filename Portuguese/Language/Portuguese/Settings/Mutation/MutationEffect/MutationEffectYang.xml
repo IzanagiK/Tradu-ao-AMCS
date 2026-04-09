@@ -1,0 +1,360 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin">
+			<DisplayName>Moeda de Comer Fora</DisplayName>
+			<Desc>Toda comida tem uma chance muito baixa de gerar moedas.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin2">
+			<DisplayName>Moeda de Comer Fora</DisplayName>
+			<Desc>Toda comida tem uma pequena chance de produzir moedas quando consumida.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FoodsDropCoin3">
+			<DisplayName>Moeda de Comer Fora</DisplayName>
+			<Desc>Toda comida tem uma alta chance de gerar moedas.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_FaBaoSpecialAbility">
+			<DisplayName>Efeito de Ganhos do Artefato</DisplayName>
+			<Desc>Ganha um efeito aleatório de artefato raro quando um artefato é completado.</Desc>
+			<Effects.0.SpecialAbilities.0.Desc>Aumenta o dano contra alvos do elemento Terra em 80%.</Effects.0.SpecialAbilities.0.Desc>
+			<Effects.0.SpecialAbilities.1.Desc>Para cada 15º ataque, atacará o corpo do cultivador, penetrando o escudo e causando dano adicional.</Effects.0.SpecialAbilities.1.Desc>
+			<Effects.0.SpecialAbilities.2.Desc>Para cada 3 ataques, gera 9 aparições de espinhos que duram 3 segundos.</Effects.0.SpecialAbilities.2.Desc>
+			<Effects.0.SpecialAbilities.3.Desc>O poder base do artefato é aumentado em 1% para cada 1 segundo em que a espada permanecer voando. O efeito é zerado quando ela retorna.</Effects.0.SpecialAbilities.3.Desc>
+			<Effects.0.SpecialAbilities.4.Desc>Para cada 12 ataques em um mesmo artefato, pode incapacitar o alvo por um tempo correspondente ao seu nível.</Effects.0.SpecialAbilities.4.Desc>
+			<Effects.0.SpecialAbilities.5.Desc>Para cada 1% de Vida abaixo, o Poder do Artefato é aumentado em 5%.</Effects.0.SpecialAbilities.5.Desc>
+			<Effects.0.SpecialAbilities.6.Desc>Cada ser vivo morto aumenta seu poder em 10%, até um máximo de 36 pilhas. O efeito é zerado se não beber sangue por 1 dia.</Effects.0.SpecialAbilities.6.Desc>
+			<Effects.0.SpecialAbilities.7.Desc>Cada 9º ataque lança um feitiço sobre o inimigo alvo.</Effects.0.SpecialAbilities.7.Desc>
+			<Effects.0.SpecialAbilities.8.Desc>O nível da habilidade de Proteção é aumentado em 10.</Effects.0.SpecialAbilities.8.Desc>
+			<Effects.0.SpecialAbilities.9.Desc>Com o custo de ser destruído, desafia a morte uma vez e restaura todo o dano recebido.</Effects.0.SpecialAbilities.9.Desc>
+			<Effects.0.SpecialAbilities.10.Desc>Quanto mais próximo o usuário estiver da longevidade máxima, mais poderoso será o artefato.</Effects.0.SpecialAbilities.10.Desc>
+			<Effects.0.SpecialAbilities.11.Desc>10% do dano causado será restaurado para o Qi do artefato.</Effects.0.SpecialAbilities.11.Desc>
+			<Effects.0.SpecialAbilities.12.Desc>Para cada 7 ataques, gera um espírito de espada que dura 7 segundos.</Effects.0.SpecialAbilities.12.Desc>
+			<Effects.0.SpecialAbilities.13.Desc>O nível de habilidade de Magia é aumentado em 10.</Effects.0.SpecialAbilities.13.Desc>
+			<Effects.0.SpecialAbilities.14.Desc>Aumenta o dano contra alvos do elemento Madeira em 100%.</Effects.0.SpecialAbilities.14.Desc>
+			<Effects.0.SpecialAbilities.15.Desc>Aumenta o dano contra alvos do elemento Terra em 100%.</Effects.0.SpecialAbilities.15.Desc>
+			<Effects.0.SpecialAbilities.16.Desc>Aumenta o dano contra alvos do elemento Fogo em 100%.</Effects.0.SpecialAbilities.16.Desc>
+			<Effects.0.SpecialAbilities.17.Desc>Aumenta o dano contra alvos do elemento Metal em 100%.</Effects.0.SpecialAbilities.17.Desc>
+			<Effects.0.SpecialAbilities.18.Desc>Aumenta o dano contra alvos do elemento Água em 100%.</Effects.0.SpecialAbilities.18.Desc>
+			<Effects.0.SpecialAbilities.19.Desc>Ao redor de todo o corpo, foca na defesa e não atacará.</Effects.0.SpecialAbilities.19.Desc>
+			<Effects.0.SpecialAbilities.20.Desc>Para cada 10.000 Qi consumidos, o dano é aumentado em 10%, até um máximo de 1000%. O efeito é zerado ao repor o Qi do artefato.</Effects.0.SpecialAbilities.20.Desc>
+			<Effects.0.SpecialAbilities.21.Desc>Para cada tipo de Elixir consumido, seu poder é aumentado em 5%.</Effects.0.SpecialAbilities.21.Desc>
+			<Effects.0.SpecialAbilities.22.Desc>Cada 2 ataques reduz o tempo de recarga de habilidade em 1 segundo.</Effects.0.SpecialAbilities.22.Desc>
+			<Effects.0.SpecialAbilities.23.Desc>O nível de Maestria de Espada é aumentado em 10.</Effects.0.SpecialAbilities.23.Desc>
+			<Effects.0.SpecialAbilities.24.Desc>Causa 1,5x de dano ao lutar contra outros artefatos.</Effects.0.SpecialAbilities.24.Desc>
+			<Effects.0.SpecialAbilities.25.Desc>Ao causar dano, há 10% de chance de causar 5x o dano.</Effects.0.SpecialAbilities.25.Desc>
+			<Effects.0.SpecialAbilities.26.Desc>Causa 1,5x de dano ao atacar o corpo do inimigo.</Effects.0.SpecialAbilities.26.Desc>
+			<Effects.0.SpecialAbilities.27.Desc>Ao atacar o corpo do inimigo, há 1% de chance de causar dano adicional igual a 30% do Qi atual do alvo.</Effects.0.SpecialAbilities.27.Desc>
+			<Effects.0.SpecialAbilities.28.Desc>Aumenta fundamentalmente o Bônus de Poder do Artefato em 30%.</Effects.0.SpecialAbilities.28.Desc>
+			<Effects.0.SpecialAbilities.29.Desc>Aumenta fundamentalmente o Bônus de Qi do Artefato em 30%.</Effects.0.SpecialAbilities.29.Desc>
+			<Effects.0.SpecialAbilities.30.Desc>Aumenta fundamentalmente a Resistência ao Recuo do Artefato em 30%.</Effects.0.SpecialAbilities.30.Desc>
+			<Effects.0.SpecialAbilities.31.Desc>Aumenta fundamentalmente a Velocidade de Giro do Artefato em 30%.</Effects.0.SpecialAbilities.31.Desc>
+			<Effects.0.SpecialAbilities.32.Desc>Aumenta fundamentalmente a Taxa de Recuperação de Qi do Artefato em 30%.</Effects.0.SpecialAbilities.32.Desc>
+			<Effects.0.SpecialAbilities.33.Desc>Aumenta fundamentalmente o Recuo do Artefato em 30%.</Effects.0.SpecialAbilities.33.Desc>
+			<Effects.0.SpecialAbilities.34.Desc>Aumenta fundamentalmente a Velocidade de Voo do Artefato em 30%.</Effects.0.SpecialAbilities.34.Desc>
+			<Effects.0.SpecialAbilities.35.Desc>O poder do primeiro golpe da espada é aumentado em 500%. O efeito é zerado ao repor o Qi do artefato.</Effects.0.SpecialAbilities.35.Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_PlantIgnoreTemp">
+			<DisplayName>Plantas Ignoram Condições de Temperatura</DisplayName>
+			<Desc>As plantas da seita ignoram as condições de temperatura para o crescimento.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion">
+			<Desc>Aumenta ligeiramente a taxa de sucesso de persuasão dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion2">
+			<Desc>Aumenta a taxa de sucesso de persuasão dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Persuasion3">
+			<Desc>Aumenta significativamente a taxa de sucesso de persuasão dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_PuppetDropHPStop">
+			<Desc>O fantoche deixa de degradar.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_1">
+			<Desc>Aumenta ligeiramente a velocidade de recuperação de Qi dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_2">
+			<Desc>Aumenta a velocidade de recuperação de Qi dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_3">
+			<Desc>Aumenta significativamente a velocidade de recuperação de Qi dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_4">
+			<Desc>Melhora a velocidade de cultivo dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_5">
+			<Desc>Aumenta significativamente a velocidade de cultivo dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_6">
+			<Desc>Os discípulos da seita ficam menos propensos à fome.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_7">
+			<Desc>Os discípulos da seita ficam menos propensos à fadiga.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_8">
+			<Desc>Os discípulos da seita ficam menos propensos à sede.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_9">
+			<Desc>Aumenta ligeiramente a força da barreira de Qi dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_10">
+			<Desc>Aumenta a força da barreira de Qi dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_11">
+			<Desc>Aumenta ligeiramente a probabilidade de os discípulos da seita quebrarem bloqueios.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_12">
+			<Desc>Aumenta a probabilidade de os discípulos da seita quebrarem bloqueios.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_13">
+			<Desc>Aumenta significativamente a probabilidade de os discípulos da seita quebrarem bloqueios.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_14">
+			<Desc>Aumenta ligeiramente a capacidade dos discípulos da seita de praticar inédia.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_15">
+			<Desc>Melhora a capacidade dos discípulos da seita de abster-se de comida e bebida.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_16">
+			<Desc>Melhora significativamente a capacidade dos discípulos da seita de abster-se de comida e bebida.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_17">
+			<Desc>Aumenta ligeiramente o bônus de realização dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_18">
+			<Desc>Reduz o bônus de realização dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_19">
+			<Desc>Reduz significativamente o bônus de mérito do Dao dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_20">
+			<Desc>Aumenta ligeiramente o limite de vida útil dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_21">
+			<Desc>Aumenta o limite de vida útil dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_22">
+			<Desc>Aumenta significativamente o limite de vida útil dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_23">
+			<Desc>Aumenta ligeiramente a velocidade de movimento dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_24">
+			<Desc>Aumenta a velocidade de movimento dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_25">
+			<Desc>Aumenta significativamente a velocidade de movimento dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_26">
+			<Desc>Melhora a velocidade de construção de fundação dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_27">
+			<Desc>Melhora significativamente a velocidade de treinamento da fundação dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_28">
+			<Desc>Melhora a velocidade de aprendizado dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_29">
+			<Desc>Melhora significativamente a velocidade de aprendizado dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_30">
+			<Desc>Aumenta ligeiramente a velocidade geral de trabalho dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_31">
+			<Desc>Aumenta a velocidade geral de trabalho dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_32">
+			<Desc>Aumenta significativamente a velocidade geral de trabalho dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_33">
+			<Desc>Aumenta ligeiramente o valor base do estado mental dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_34">
+			<Desc>Aumenta o valor base do estado mental dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_35">
+			<Desc>Aumenta significativamente o valor base do estado mental dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_36">
+			<Desc>A capacidade de carga de formação dos discípulos da seita foi significativamente aumentada.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_37">
+			<Desc>A capacidade de carga de formação dos discípulos da seita foi significativamente aumentada.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_40">
+			<Desc>Nível de habilidade de Batalha dos discípulos da seita +1 (aumenta o limite).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_41">
+			<Desc>Nível de habilidade de Batalha dos discípulos da seita +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_42">
+			<Desc>Nível de habilidade de Batalha do discípulo da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_43">
+			<Desc>Nível de habilidade Social dos discípulos da seita +1 (aumenta o limite).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_44">
+			<Desc>Nível de habilidade Social do discípulo da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_45">
+			<Desc>Nível de habilidade Social do discípulo da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_46">
+			<Desc>Nível de habilidade de Artesanato dos discípulos da seita +1 (aumenta o limite).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_47">
+			<Desc>Nível de habilidade de Artesanato do discípulo da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_48">
+			<Desc>Nível de habilidade de Arte dos discípulos da seita +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_49">
+			<Desc>Nível de habilidade de Percepção de Qi dos discípulos da seita +1 (aumenta o limite).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_50">
+			<Desc>Nível de habilidade de Percepção de Qi do discípulo da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_51">
+			<Desc>Nível de habilidade de Percepção de Qi dos discípulos da seita +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_52">
+			<Desc>Nível de habilidade de Criação de Artefatos/Artesanato dos discípulos da seita +1 (aumenta o limite).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_53">
+			<Desc>Nível de habilidade de Criação de Artefatos/Artesanato do discípulo da seita +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_54">
+			<Desc>Nível de habilidade de Criação de Artefatos/Artesanato dos discípulos da seita +2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_55">
+			<Desc>Nível de habilidade de Medicina/Criação de Alquimia dos discípulos da seita +1 (aumenta o limite).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_56">
+			<Desc>Nível de habilidade de Medicina/Alquimia dos discípulos da seita +1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_57">
+			<Desc>O nível de habilidade de Medicina/Alquimia dos discípulos da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_58">
+			<Desc>O nível de habilidade de Mestre de Artefatos dos discípulos da seita aumenta em 1 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_59">
+			<Desc>O nível de habilidade de Mestre de Artefatos dos discípulos da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_60">
+			<Desc>O nível de habilidade de Mestre de Artefatos dos discípulos da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_61">
+			<Desc>O nível de habilidade de Magia dos discípulos da seita aumenta em 1 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_62">
+			<Desc>O nível de habilidade de Magia dos discípulos da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_63">
+			<Desc>O nível de habilidade de Magia do discípulo da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_64">
+			<Desc>O nível de habilidade de Proteção dos discípulos da seita aumenta em 1 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_65">
+			<Desc>O nível de habilidade de Proteção do discípulo da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_66">
+			<Desc>O nível de habilidade de Proteção do discípulo da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_67">
+			<Desc>O nível de habilidade de Formação dos discípulos da seita aumenta em 1 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_68">
+			<Desc>O nível de habilidade de Formação do discípulo da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_69">
+			<Desc>O nível de habilidade de Formação do discípulo da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_70">
+			<Desc>O nível de habilidade de Mineração dos discípulos da seita aumenta em 1 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_71">
+			<Desc>O nível de habilidade de Mineração do discípulo da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_72">
+			<Desc>O nível de habilidade de Mineração do discípulo da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_73">
+			<Desc>O nível de habilidade de Agricultura dos discípulos da seita aumenta em 1 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_74">
+			<Desc>O nível de habilidade de Agricultura dos discípulos da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_75">
+			<Desc>O nível de habilidade de Agricultura dos discípulos da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_76">
+			<Desc>O nível de habilidade de Construção dos discípulos da seita aumenta em 1 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_77">
+			<Desc>O nível de habilidade de Construção do discípulo da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_78">
+			<Desc>O nível de habilidade de Construção do discípulo da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_79">
+			<Desc>O nível de habilidade de Cozinha dos discípulos da seita aumenta em 1 (limite aumentado).</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_80">
+			<Desc>O nível de habilidade de Cozinha do discípulo da seita aumenta em 1.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_81">
+			<Desc>O nível de habilidade de Cozinha do discípulo da seita aumenta em 2.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_82">
+			<Desc>A carisma dos discípulos da seita aumenta em 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_83">
+			<Desc>A carisma dos discípulos da seita aumenta em 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_84">
+			<Desc>A carisma dos discípulos da seita aumenta em 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_85">
+			<Desc>A inteligência dos discípulos da seita aumenta em 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_86">
+			<Desc>A inteligência dos discípulos da seita aumenta em 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_87">
+			<Desc>A inteligência dos discípulos da seita aumenta em 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_88">
+			<Desc>A oportunidade dos discípulos da seita aumenta em 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_89">
+			<Desc>A sorte dos discípulos da seita aumenta em 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_90">
+			<Desc>A sorte dos discípulos da seita aumenta em 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_91">
+			<Desc>A percepção dos discípulos da seita aumenta em 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_92">
+			<Desc>A percepção dos discípulos da seita aumenta em 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_93">
+			<Desc>A percepção dos discípulos da seita aumenta em 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_94">
+			<Desc>A constituição dos discípulos da seita aumenta em 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_95">
+			<Desc>A constituição dos discípulos da seita aumenta em 30%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_96">
+			<Desc>A constituição dos discípulos da seita aumenta em 50%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_97">
+			<Desc>Os cinco atributos dos discípulos da seita aumentam em 10%.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yang_Modifier_38">
+			<Desc>Os cinco atributos dos discípulos da seita aumentam em 30%.</Desc>
+		</Text>
+	</List>
+</Texts>

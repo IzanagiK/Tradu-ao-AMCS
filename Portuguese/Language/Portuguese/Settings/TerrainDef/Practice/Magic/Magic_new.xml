@@ -1,0 +1,144 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="BuildMine">
+			<DisplayName>Modelagem de Montanha</DisplayName>
+			<Desc>Consome uma grande quantidade de poder psíquico para extrair minerais das profundezas da terra.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+		<Text Name="BuildRain">
+			<DisplayName>Chuva Oportuna</DisplayName>
+			<Desc>Convoca chuva em uma certa área, extinguindo o fogo e aumentando ligeiramente a taxa de crescimento das plantas.</Desc>
+			<TargetDesc>Selecione um local.</TargetDesc>
+		</Text>
+		<Text Name="Prophesy">
+			<DisplayName>Previsão Universal.</DisplayName>
+			<Desc>Consome vida útil para calcular os caminhos do céu, tentando obter a habilidade de previsão no próximo mês. Quanto maior a sua Realização, Inteligência e Sorte, maior a taxa de sucesso.</Desc>
+		</Text>
+		<Text Name="Prophesy_MapStory">
+			<DisplayName>Cálculo Derivativo</DisplayName>
+			<Desc>Consome vida útil para calcular os caminhos do céu, tentando obter um segredo. Quanto maior a sua Realização, Inteligência e Sorte, maior a taxa de sucesso.</Desc>
+		</Text>
+		<Text Name="BuildSea">
+			<DisplayName>Modelagem de Lago</DisplayName>
+			<Desc>Realiza um milagre e transforma uma área em um local com água rasa.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+		<Text Name="BuildLand">
+			<DisplayName>Modelagem de Terra</DisplayName>
+			<Desc>Realiza um milagre e transforma uma área em terra.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+		<Text Name="BuildLing">
+			<DisplayName>Solo Espiritual do Criador</DisplayName>
+			<Desc>Realiza um milagre que estimula a Semente da Fortuna ao seu máximo efeito e transforma uma área em Solo Espiritual.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+		<Text Name="BuildLingWater">
+			<DisplayName>Poço do Destino</DisplayName>
+			<Desc>Realiza um milagre que estimula a Semente da Fortuna ao seu máximo efeito e transforma uma área em Água Espiritual.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+		<Text Name="BuildFertileSoil">
+			<DisplayName>Solo Fértil</DisplayName>
+			<Desc>Realiza um milagre que estimula a Areia da Fortuna ao seu máximo efeito e transforma uma área em Solo Fértil.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+		<Text Name="FengshuiItemOpen">
+			<DisplayName>Identificação de Feng Shui</DisplayName>
+			<Desc>Consome pedras espirituais e ativa a Relíquia para identificar sua característica.</Desc>
+			<TargetDesc>Selecione uma Relíquia não identificada.</TargetDesc>
+		</Text>
+		<Text Name="FengshuiItemCreate">
+			<DisplayName>Feng Shui Focado</DisplayName>
+			<Desc>Consome essência de sangue para transformar um item em uma Relíquia de Feng Shui. No entanto, como não resistiu ao teste do tempo, a Relíquia gerada por esta habilidade é relativamente fraca e não pode se tornar Relíquias Espirituais. \n[color=#FF0000]À medida que os caminhos do Céu evoluíram ao longo do tempo, este Milagre parece ter perdido sua eficácia.[/color]</Desc>
+			<TargetDesc>Selecione um item que não seja uma Relíquia.</TargetDesc>
+		</Text>
+		<Text Name="LingXiZhou">
+			<DisplayName>Incantação de Consonância</DisplayName>
+			<Desc>Ao se comunicar com a consciência espiritual, tente persuadir o oponente a se juntar ao seu lado. Quanto maior a sua realização, maior a diferença entre seu estado e a Percepção do oponente, mais fácil será o sucesso. O alvo com experiência em Cultivo deve estar inconsciente. Pode ser usado apenas uma vez em cada alvo.</Desc>
+			<TargetDesc>Selecione um inimigo que não tenha sido alvo da Incantação de Consonância.</TargetDesc>
+		</Text>
+		<Text Name="XinYinJue">
+			<DisplayName>Canto da Ressonância</DisplayName>
+			<Desc>Conecte-se e ressoe com a mente do oponente, tentando persuadi-lo a se juntar ao seu lado. Quanto maior a sua realização, maior a diferença entre seu estado e o do oponente, mais fácil será o sucesso. A taxa de sucesso é significativamente maior se ambas as partes tiverem Trait de Adolescência similar ou forem parentes de sangue. O alvo com experiência em Cultivo deve estar inconsciente. Esta é uma magia muito arriscada. Se falhar, o alvo morrerá e você será ferido.</Desc>
+			<TargetDesc>Selecione um inimigo.</TargetDesc>
+		</Text>
+		<Text Name="TianMoWu">
+			<DisplayName>Dança do Demônio Celestial</DisplayName>
+			<Desc>Realize uma Dança do Demônio Celestial e converta o alvo para o seu lado. À medida que o tempo passa, a possibilidade de o alvo acordar aumenta. Quanto maior a diferença entre seu estado e o do oponente, menor a possibilidade de acordar. O alvo com experiência em Cultivo deve estar inconsciente. A mente do alvo é danificada toda vez que esta magia é realizada.</Desc>
+			<TargetDesc>Selecione um inimigo.</TargetDesc>
+		</Text>
+		<Text Name="WuYinKeShen">
+			<DisplayName>Cinco Impressões Espirituais</DisplayName>
+			<Desc>Lava o alvo com uma magia forte, convertendo-o para o seu lado por um período de tempo. Quanto maior a diferença entre seu estado e a Inteligência do oponente, mais tempo durará. O alvo com experiência em Cultivo deve estar inconsciente. O tempo de duração da magia aumenta a cada vez que é realizada, mas causará danos irreparáveis à Percepção do alvo.</Desc>
+			<TargetDesc>Selecione um inimigo.</TargetDesc>
+		</Text>
+		<Text Name="FenShenZhiShu">
+			<DisplayName>Divisão Espiritual</DisplayName>
+			<Desc>Manipule seu Espírito Primordial e force-o a se dividir para obter um sub-espírito adicional. Você perderá Qi Máx nesse processo e envelhecerá rapidamente. Quanto mais vezes você realizar a divisão, maior será o preço que pagará.</Desc>
+		</Text>
+		<Text Name="LinghunKaowen">
+			<DisplayName>Interrogatório da Alma</DisplayName>
+			<Desc>Realize um Interrogatório da Alma em personagens moribundos para tentar aprender seus segredos.</Desc>
+			<TargetDesc>Selecione um personagem que precisa ser interrogado.</TargetDesc>
+		</Text>
+		<Text Name="LiuRenShensuan">
+			<DisplayName>Previsão Astrológica</DisplayName>
+			<Desc>Selecione um personagem para tentar aprender seus locais. Quanto maior a sua Realização e mais informações você tiver, maior a taxa de sucesso para aprender o paradeiro do alvo.</Desc>
+		</Text>
+		<Text Name="Linghunwenzhong">
+			<DisplayName>Rastreamento Divino</DisplayName>
+			<Desc>Selecione um personagem para tentar aprender seus locais. Quanto mais Residentes Divinos e informações você tiver, maior a taxa de sucesso para aprender o paradeiro do alvo.</Desc>
+		</Text>
+		<Text Name="YouTongLing_Item">
+			<DisplayName>Gênese da Alma Sombria</DisplayName>
+			<Desc>Custa 7 Gemas da Alma de Angústia, 3 Gemas da Alma e 1 Gema da Alma Primordial, tenta se comunicar e iluminar o item alvo através do poder psíquico. O resultado da iluminação precisará de algum tempo para aparecer. O item não pode ser iluminado com poder psíquico novamente enquanto estiver em uma sessão de iluminação. Quanto maior a realização do conjurador, e mais vezes o item tiver sido iluminado, mais fácil será a iluminação do item com sucesso.</Desc>
+			<TargetDesc>Selecione um item.</TargetDesc>
+		</Text>
+		<Text Name="LingTongLing_Building">
+			<DisplayName>Gênese da Força Vital</DisplayName>
+			<Desc>Custa 10 anos de Vida Útil e 1 Gema da Alma Primordial, tenta se comunicar e iluminar o edifício alvo através do poder psíquico. O resultado da iluminação precisará de algum tempo para aparecer. O edifício não pode ser iluminado com poder psíquico novamente enquanto estiver em uma sessão de iluminação. Quanto maior a realização do conjurador, e mais vezes o edifício tiver sido iluminado, mais fácil será a iluminação do edifício com sucesso.</Desc>
+			<TargetDesc>Selecione um edifício.</TargetDesc>
+		</Text>
+		<Text Name="ZaoHuaSuTi">
+			<DisplayName>Corpo da Gênese</DisplayName>
+			<Desc>Custa 1 Semente da Fortuna, rejuvenesce o alvo de volta ao estado em que tinha 14 anos, e restaura todas as partes do corpo perdidas. Se usado em um espírito senciente, criará um novo corpo para ele.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
+		</Text>
+		<Text Name="DianHua">
+			<DisplayName>Qi da Gênese</DisplayName>
+			<Desc>Lança feitiços para simular as várias mudanças da natureza e fazer o animal sentir a magnificência das criações para despertar sua inteligência. Este feitiço é prejudicial para o Credo do Céu e custa vida útil.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
+		</Text>
+		<Text Name="Magic_Angry">
+			<DisplayName>Compreensão: Ressentimento</DisplayName>
+			<Desc>Usa Qi de Madeira para fazer o animal sentir ressentimento e despertar sua inteligência. Este feitiço é prejudicial para o Credo do Céu e custa vida útil.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
+		</Text>
+		<Text Name="Magic_Happy">
+			<DisplayName>Compreensão: Alegria</DisplayName>
+			<Desc>Usa Qi de Fogo para fazer o animal sentir alegria e despertar sua inteligência. Este feitiço é prejudicial para o Credo do Céu e custa vida útil.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
+		</Text>
+		<Text Name="Magic_Miss">
+			<DisplayName>Compreensão: Pensamentos</DisplayName>
+			<Desc>Usa Qi de Terra para fazer o animal ter pensamentos e despertar sua inteligência. Este feitiço é prejudicial para o Credo do Céu e custa vida útil.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
+		</Text>
+		<Text Name="Magic_Afraid">
+			<DisplayName>Compreensão: Medo</DisplayName>
+			<Desc>Usa Qi de Água para fazer o animal ter medo e despertar sua inteligência. Este feitiço é prejudicial para o Credo do Céu e custa vida útil.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
+		</Text>
+		<Text Name="Magic_Worry">
+			<DisplayName>Compreensão: Ansiedade</DisplayName>
+			<Desc>Usa Qi de Metal para fazer o animal ter ansiedade e despertar sua inteligência. Este feitiço é prejudicial para o Credo do Céu e custa vida útil.</Desc>
+			<TargetDesc>Selecione um alvo.</TargetDesc>
+		</Text>
+		<Text Name="Magic_YuanLing">
+			<DisplayName>Canto de Restauração do Céu</DisplayName>
+			<Desc>Custa 1 Gema da Alma Primordial. Use em uma incubação de artefato para atender imediatamente às suas condições de ativação.</Desc>
+			<TargetDesc>Selecione uma incubação de artefato.</TargetDesc>
+		</Text>
+	</List>
+</Texts>

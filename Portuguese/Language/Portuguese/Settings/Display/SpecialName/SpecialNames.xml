@@ -1,0 +1,402 @@
+﻿<SpecialNames>
+<List>
+	<SpecialItem Name="Item_HomeFood">
+		<Item_TurtleEgg>
+			<li Name="Pudim de Ovo de Tartaruga" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Sopa de Ovo de Tartaruga" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Sopa de Ovo de Tartaruga Azeda e Picante" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Tartaruga Frito com Cebolinha Chinesa" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Arroz Misturado com Ovo de Tartaruga Cru" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Arroz Frito com Ovo de Tartaruga" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Tartaruga Cozido" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Balut de Tartaruga" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+		</Item_TurtleEgg>
+		<Item_SnakeEgg>
+			<li Name="Pudim de Ovo de Cobra" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Sopa de Ovo de Cobra" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Sopa de Ovo de Cobra Azeda e Picante" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Cobra Frito com Cebolinha Chinesa" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Arroz Misturado com Ovo de Cobra Cru" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Arroz Frito com Ovo de Cobra" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Cobra Cozido" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Balut de Cobra" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+		</Item_SnakeEgg>
+		<Item_ChickenEgg>
+			<li Name="Pudim de Ovo de Galinha" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Sopa de Ovo de Galinha" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Sopa de Ovo de Galinha Azeda e Picante" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Galinha Frito com Cebolinha Chinesa" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Arroz Misturado com Ovo de Galinha Cru" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Arroz Frito com Ovo de Galinha" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Galinha Cozido" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Balut de Galinha" Desc="【Obrigado testador beta: 人境庐 por fornecer esta receita.】" />
+		</Item_ChickenEgg>
+		<Item_BoarMeat>
+			<li Name="Sopa de Osso de Porco com Arroz" Desc="" />
+			<li Name="Panqueca de Porco" Desc="" />
+			<li Name="Arroz Frito com Carne de Javali" Desc="" />
+			<li Name="Rolinho de Porco" Desc="" />
+			<li Name="Porco Brazeado com Daikon" Desc="" />
+			<li Name="Porco Brazeado com Macarrão de Vidro" Desc="" />
+			<li Name="Porco Refogado com Pimenta Verde" Desc="" />
+			<li Name="Costela de Porco Empanada" Desc="" />
+			<li Name="Perna de Javali Grelhada" Desc="" />
+		</Item_BoarMeat>
+		<Item_ChickenMeat>
+			<li Name="Sopa de Frango" Desc="" />
+			<li Name="Panqueca de Frango" Desc="" />
+			<li Name="Arroz Frito com Frango" Desc="" />
+			<li Name="Asas de Frango Assadas" Desc="" />
+			<li Name="Arroz com Asas de Frango" Desc="" />
+			<li Name="Macarrão com Frango Desfiado" Desc="" />
+		</Item_ChickenMeat>
+		<Item_Beef>
+			<li Name="Arroz com Carne de Faca" Desc="" />
+			<li Name="Carne de Faca Temperada" Desc="" />
+			<li Name="Sopa de Carne de Faca" Desc="" />
+			<li Name="Carne de Faca Brazeada com Batatas" Desc="" />
+			<li Name="Carne de Faca Crocante com Pimenta" Desc="" />
+			<li Name="Perna de Carne de Faca Grelhada" Desc="" />
+			<li Name="Carne de Faca Crocante e Picante" Desc="" />
+			<li Name="Arroz Frito com Carne de Faca" Desc="" />
+			<li Name="Sopa de Osso de Carne de Faca" Desc="" />
+		</Item_Beef>
+		<Item_RabbitMeat>
+			<li Name="Carne de Coelho Assada" Desc="" />
+			<li Name="Rolinho de Carne de Coelho" Desc="" />
+			<li Name="Arroz Frito com Carne de Coelho" Desc="" />
+			<li Name="Carne de Coelho Temperada" Desc="" />
+			<li Name="Carne de Coelho Brazeada com Daikon" Desc="" />
+			<li Name="Carne de Coelho Cozida" Desc="" />
+			<li Name="Carne de Coelho Apimentada" Desc="" />
+			<li Name="Carne de Coelho com Mel" Desc="" />
+			<li Name="Carne de Coelho Grelhada" Desc="" />
+		</Item_RabbitMeat>
+		<Item_WolfMeat>
+			<li Name="Carne de Lobo Assada" Desc="" />
+			<li Name="Carne de Lobo com Sal Grosso" Desc="" />
+			<li Name="Costela de Lobo Assada" Desc="" />
+			<li Name="Carne de Lobo Cozida" Desc="" />
+			<li Name="Carne de Lobo Cozida" Desc="" />
+			<li Name="Carne de Lobo Brazeada" Desc="" />
+			<li Name="Perna de Lobo Grelhada" Desc="" />
+		</Item_WolfMeat>
+		<Item_FishMeat>
+			<li Name="Fish Risotto" Desc="" />
+			<li Name="Fish Pancake" Desc="" />
+			<li Name="Fish Rolls" Desc="" />
+			<li Name="Roasted Fish" Desc="" />
+			<li Name="Deep-fried Fish" Desc="" />
+			<li Name="Boiled Fish" Desc="" />
+			<li Name="Steamed Fish" Desc="" />
+			<li Name="Braised Fish" Desc="" />
+		</Item_FishMeat>
+		<Item_SnakeMeat>
+			<li Name="Sopa de Carne de Cobra" Desc="" />
+			<li Name="Carne de Cobra Empanada" Desc="" />
+			<li Name="Carne de Cobra Temperada" Desc="" />
+			<li Name="Carne de Cobra Brazeada" Desc="" />
+			<li Name="Carne de Cobra Secamente Frita" Desc="" />
+			<li Name="Carne de Cobra Apimentada" Desc="" />
+			<li Name="Pele de Cobra Com Molho" Desc="" />
+		</Item_SnakeMeat>
+		<Item_Wheat>
+			<li Name="Pãezinhos ao Vapor" Desc="" />
+			<li Name="Pãezinhos de Cebolinha ao Vapor" Desc="" />
+			<li Name="Macarrão Dandan" Desc="" />
+			<li Name="Macarrão Ramen" Desc="" />
+			<li Name="Macarrão com Molho Chinês" Desc="" />
+			<li Name="Crepes Chineses" Desc="" />
+			<li Name="Ramen com Óleo de Gergelim" Desc="" />
+			<li Name="Ramen de Cebolinha" Desc="" />
+			<li Name="Macarrão com Frango Desfiado" Desc="" />
+		</Item_Wheat>
+		<Item_Flour>
+			<li Name="Pãezinhos ao Vapor" Desc="" />
+			<li Name="Pãezinhos de Cebolinha ao Vapor" Desc="" />
+			<li Name="Macarrão Dandan" Desc="" />
+			<li Name="Macarrão Ramen" Desc="" />
+			<li Name="Macarrão com Molho Chinês" Desc="" />
+			<li Name="Crepes Chineses" Desc="" />
+			<li Name="Ramen com Óleo de Gergelim" Desc="" />
+			<li Name="Ramen de Cebolinha" Desc="" />
+			<li Name="Macarrão com Frango Desfiado" Desc="" />
+		</Item_Flour>
+		<Item_Mushroom>
+			<li Name="Sopa de Cogumelo" Desc="" />
+			<li Name="Cogumelo Refogado" Desc="" />
+			<li Name="Cogumelo Empanado" Desc="" />
+			<li Name="Arroz Frito com Cogumelo" Desc="" />
+			<li Name="Porco Refogado com Cogumelo" Desc="" />
+		</Item_Mushroom>
+		<Item_Lotusroot>
+			<li Name="Lótus Refogado" Desc="" />
+			<li Name="Lótus Crocante" Desc="" />
+			<li Name="Lótus Temperado" Desc="" />
+			<li Name="Sopa de Lótus com Ossos de Porco" Desc="" />
+			<li Name="Costelas de Porco Brazeadas com Lótus" Desc="" />
+			<li Name="Amido de Lótus" Desc="" />
+		</Item_Lotusroot>
+		<Item_Pear>
+			<li Name="Sopa de Frango com Pera" Desc="" />
+			<li Name="Arroz ao Vapor com Pera" Desc="" />
+			<li Name="Sopa de Pera do Outono" Desc="" />
+			<li Name="Sopa de Pera com Bagas de Espinheiro e Tâmaras" Desc="" />
+			<li Name="Sopa de Pera com Epiphyllum" Desc="" />
+		</Item_Pear>
+		<Item_Fruit>
+			<li Name="Bagas de Espinheiro Cozidas com Tofu" Desc="" />
+			<li Name="Sopa de Inhame Chinês com Bagas de Espinheiro" Desc="" />
+			<li Name="Arroz com Bagas de Espinheiro" Desc="" />
+			<li Name="Suco de Bagas de Espinheiro" Desc="" />
+			<li Name="Suco de Cranberry" Desc="" />
+			<li Name="Arroz Frito com Cranberries" Desc="" />
+			<li Name="Sopa de Peixe com Cranberries" Desc="" />
+		</Item_Fruit>
+		<Item_FrogMeat>
+			<li Name="Carne de Sapo Secamente Brazeada" Desc="" />
+			<li Name="Pernas de Sapo Crocantes e Apimentadas" Desc="" />
+		</Item_FrogMeat>
+		<Item_TurtleMeat>
+			<li Name="Carne de Tartaruga Brazeada" Desc="" />
+			<li Name="Sopa de Carne de Tartaruga" Desc="" />
+		</Item_TurtleMeat>
+		<Item_BearMeat>
+			<li Name="Carne de Urso Brazeada" Desc="" />
+			<li Name="Fatias de Carne de Urso Refogadas com Pimenta" Desc="" />
+		</Item_BearMeat>
+	</SpecialItem>
+	<SpecialItem Name="Item_DeliciousFood">
+		<Item_TurtleEgg>
+			<li Name="Ovo de Tartaruga com Especiarias" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Tartaruga Salgado Especial" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Tartaruga Assado com Ervas" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Tartaruga Frito" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Tartaruga Grelhado" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Tartaruga Empanado" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+		</Item_TurtleEgg>
+		<Item_SnakeEgg>
+			<li Name="Ovo de Cobra com Especiarias" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Cobra Salgado Especial" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Cobra Assado com Ervas" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Cobra Frito" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Cobra Grelhado" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Cobra Empanado" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+		</Item_SnakeEgg>
+		<Item_ChickenEgg>
+			<li Name="Ovo de Galinha com Especiarias" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Galinha Salgado Especial" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Galinha Assado com Ervas" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Galinha Frito" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Galinha Grelhado" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+			<li Name="Ovo de Galinha Empanado" Desc="【Obrigado ao testador beta: 人境庐 por fornecer esta receita.】" />
+		</Item_ChickenEgg>
+		<Item_BoarMeat>
+			<li Name="Orelhas de Porco com Especiarias" Desc="" />
+			<li Name="Almôndegas de Porco" Desc="" />
+			<li Name="Pés de Porco Brazeados" Desc="" />
+			<li Name="Carne de Javali Refogada com Pimenta Vermelha" Desc="" />
+			<li Name="Bolinho de Carne de Porco" Desc="" />
+			<li Name="Carne de Porco Estufada com Mel" Desc="" />
+			<li Name="Filés de Porco Assados com Cebolinha" Desc="" />
+			<li Name="Porco ao Molho Pequim" Desc="" />
+			<li Name="Carne de Porco Estufada com Mel" Desc="" />
+		</Item_BoarMeat>
+		<Item_ChickenMeat>
+			<li Name="Frango Kung Pao" Desc="" />
+			<li Name="Bife de Frango Frito" Desc="" />
+			<li Name="Coxas de Frango Fritas" Desc="" />
+		</Item_ChickenMeat>
+		<Item_Beef>
+			<li Name="Fatias de Carne Bovina ao Óleo de Pimenta" Desc="" />
+			<li Name="Fatias de Carne Bovina em Caldo" Desc="" />
+			<li Name="Ensopado de Tendão de Carne" Desc="" />
+			<li Name="Almôndegas de Carne Bovina" Desc="" />
+			<li Name="Bolinho de Carne de Vaca" Desc="" />
+			<li Name="Carne Bovina Refogada" Desc="" />
+			<li Name="Ensopado de Carne Bovina" Desc="" />
+			<li Name="Carne Bovina Brazeada com Vegetais" Desc="" />
+			<li Name="Ovos Refogados com Carne Bovina" Desc="" />
+		</Item_Beef>
+		<Item_RabbitMeat>
+			<li Name="Cabeça de Coelho Apimentada" Desc="" />
+			<li Name="Coelho Assado" Desc="" />
+			<li Name="Carne de Coelho Refogada com Pimenta" Desc="" />
+			<li Name="Carne de Coelho Crocante" Desc="" />
+			<li Name="Carne de Coelho com Sal de Especiarias" Desc="" />
+			<li Name="Carne de Coelho Estufada com Cebolinha e Gengibre" Desc="" />
+			<li Name="Carne de Coelho com Pimenta" Desc="" />
+			<li Name="Carne de Coelho ao Óleo de Pimenta" Desc="" />
+			<li Name="Carne de Coelho com Molho para Mergulho" Desc="" />
+		</Item_RabbitMeat>
+		<Item_WolfMeat>
+			<li Name="Carne de Lobo Brazeada" Desc="" />
+			<li Name="Carne de Lobo Refogada com Pimenta Silvestre" Desc="" />
+			<li Name="Carne de Lobo Assada com Cominho" Desc="" />
+			<li Name="Carne de Lobo Refogada com Fatias de Gengibre" Desc="" />
+		</Item_WolfMeat>
+		<Item_FishMeat>
+			<li Name="Peixe ao Óleo de Pimenta" Desc="" />
+			<li Name="Bolinhos de Peixe" Desc="" />
+			<li Name="Bolinhos de Peixe Assados" Desc="" />
+			<li Name="Ensopado de Peixe com Especiarias" Desc="" />
+			<li Name="Sopa de Peixe Azeda" Desc="" />
+			<li Name="Peixe Cozido no Vinho de Arroz" Desc="" />
+			<li Name="Filés de Peixe Fritos" Desc="" />
+			<li Name="Peixe Estufado no Caldo" Desc="" />
+			<li Name="Cabeça de Peixe Cozida no Vapor com Pimenta" Desc="" />
+		</Item_FishMeat>
+		<Item_SnakeMeat>
+			<li Name="Carne de Cobra Apimentada" Desc="" />
+			<li Name="Canja de Carne de Cobra" Desc="" />
+			<li Name="Ensopado de Carne de Cobra" Desc="" />
+			<li Name="Carne de Cobra Estufada" Desc="" />
+			<li Name="Carne de Cobra Refogada com Cebolinha" Desc="" />
+			<li Name="Carne de Cobra com Cogumelo Enoki" Desc="" />
+			<li Name="Sopa de Cobra com Cebolinha" Desc="" />
+			<li Name="Carne de Cobra Refogada com Pimentão" Desc="" />
+			<li Name="Carne de Cobra Refogada com Cogumelos" Desc="" />
+		</Item_SnakeMeat>
+		<Item_Wheat>
+			<li Name="Macarrão Barba de Dragão" Desc="" />
+			<li Name="Macarrão Batido" Desc="" />
+			<li Name="Macarrão Amassado" Desc="" />
+			<li Name="Macarrão Brazeado" Desc="" />
+			<li Name="Macarrão Esticado à Mão" Desc="" />
+			<li Name="Macarrão Largo" Desc="" />
+			<li Name="Pães de Feijão Vermelho" Desc="" />
+			<li Name="Pães de Creme" Desc="" />
+			<li Name="Pães de Açúcar" Desc="" />
+			<li Name="Pão Sírio" Desc="" />
+		</Item_Wheat>
+		<Item_Flour>
+			<li Name="Macarrão Barba de Dragão" Desc="" />
+			<li Name="Macarrão Batido" Desc="" />
+			<li Name="Macarrão Amassado" Desc="" />
+			<li Name="Macarrão Brazeado" Desc="" />
+			<li Name="Macarrão Esticado à Mão" Desc="" />
+			<li Name="Macarrão Largo" Desc="" />
+			<li Name="Pães de Feijão Vermelho" Desc="" />
+			<li Name="Pães de Creme" Desc="" />
+			<li Name="Pães de Açúcar" Desc="" />
+			<li Name="Pão Sírio" Desc="" />
+		</Item_Flour>
+		<Item_Mushroom>
+			<li Name="Cogumelo Brazeado com Feijões" Desc="" />
+			<li Name="Arroz com Cogumelos no Caldo" Desc="" />
+			<li Name="Cogumelo Assado" Desc="" />
+			<li Name="Cogumelo Brazeado com Batatas" Desc="" />
+			<li Name="Rolinhos de Cogumelo" Desc="" />
+			<li Name="Salada de Cogumelo com Pimentão" Desc="" />
+			<li Name="Cogumelo Enoki Grelhado com Alho" Desc="" />
+		</Item_Mushroom>
+		<Item_Lotusroot>
+			<li Name="Raiz de Lótus Empanada" Desc="" />
+			<li Name="Sopa de Raiz de Lótus com Ameixas Azedas" Desc="" />
+			<li Name="Raiz de Lótus Agridoce" Desc="" />
+			<li Name="Arroz no Vapor com Raiz de Lótus" Desc="" />
+			<li Name="Raiz de Lótus Picante" Desc="" />
+		</Item_Lotusroot>
+		<Item_Pear>
+			<li Name="Fatias de Pera com Bulbos de Lírio" Desc="" />
+			<li Name="Suco de Pera Doce" Desc="" />
+			<li Name="Sopa de Pera com Fungo Branco" Desc="" />
+			<li Name="Xarope de Pera com Especiarias" Desc="" />
+		</Item_Pear>
+		<Item_Fruit>
+			<li Name="Bolo de Espinheiro-Marinho" Desc="" />
+			<li Name="Leite de Espinheiro-Marinho com Feijão Verde" Desc="" />
+			<li Name="Espinheiro-Marinho Cristalizado" Desc="" />
+			<li Name="Carne Assada com Molho de Cranberry" Desc="" />
+			<li Name="Panqueca de Cranberry" Desc="" />
+			<li Name="Peixe Estufado com Cranberries" Desc="" />
+		</Item_Fruit>
+		<Item_FrogMeat>
+			<li Name="Carne de Rã Brazeada" Desc="" />
+			<li Name="Pernas de Rã Crocantes e Picantes" Desc="" />
+		</Item_FrogMeat>
+		<Item_TurtleMeat>
+			<li Name="Carne de Tartaruga Brazeada" Desc="" />
+			<li Name="Sopa de Carne de Tartaruga" Desc="" />
+		</Item_TurtleMeat>
+		<Item_BearMeat>
+			<li Name="Pata de Urso no Vapor" Desc="" />
+			<li Name="Pata de Urso Brazeada" Desc="" />
+		</Item_BearMeat>
+	</SpecialItem>
+	<SpecialItem Name="Item_DelicacyFood">
+		<Item_TurtleEgg>
+			<li Name="Ovo Brazeado Prismático" Desc="Ferva o ingrediente na água, reabasteça a panela até ficar bem cozido e, em seguida, corte-o em fatias. Polvilhe pó de Fruta Prismática moído e refogue com um método especial. Este prato é doce, saboroso, mas não gorduroso. (Agradecimento ao beta tester: 人境庐 por fornecer esta receita.)" />
+			<li Name="Ovo de Respiração de Dragão" Desc="Cozinhe lentamente o ingrediente em cinzas de sicômoro queimadas extremamente quentes por 14/h sem qualquer tempero, realçando o sabor máximo do ovo. Com o aroma combinado de ervas e elemento de fogo explosivo, este prato tem um sabor persistente que agrada o paladar. (Agradecimento ao beta tester: 人境庐 por fornecer esta receita.)" />
+		</Item_TurtleEgg>
+		<Item_SnakeEgg>
+			<li Name="Ovo Brazeado Prismático" Desc="Ferva o ingrediente na água, reabasteça a panela até ficar bem cozido e, em seguida, corte-o em fatias. Polvilhe pó de Fruta Prismática moído e refogue com um método especial. Este prato é doce, saboroso, mas não gorduroso. (Agradecimento ao beta tester: 人境庐 por fornecer esta receita.)" />
+			<li Name="Ovo de Respiração de Dragão" Desc="Cozinhe lentamente o ingrediente em cinzas de sicômoro queimadas extremamente quentes por 14/h sem qualquer tempero, realçando o sabor máximo do ovo. Com o aroma combinado de ervas e elemento de fogo explosivo, este prato tem um sabor persistente que agrada o paladar. (Agradecimento ao beta tester: 人境庐 por fornecer esta receita.)" />
+		</Item_SnakeEgg>
+		<Item_ChickenEgg>
+			<li Name="Ovo Brazeado Prismático" Desc="Ferva o ingrediente na água, reabasteça a panela até ficar bem cozido e, em seguida, corte-o em fatias. Polvilhe pó de Fruta Prismática moído e refogue com um método especial. Este prato é doce, saboroso, mas não gorduroso. (Agradecimento ao beta tester: 人境庐 por fornecer esta receita.)" />
+			<li Name="Ovo de Respiração de Dragão" Desc="Cozinhe lentamente o ingrediente em cinzas de sicômoro queimadas extremamente quentes por 14/h sem qualquer tempero, realçando o sabor máximo do ovo. Com o aroma combinado de ervas e elemento de fogo explosivo, este prato tem um sabor persistente que agrada o paladar. (Agradecimento ao beta tester: 人境庐 por fornecer esta receita.)" />
+		</Item_ChickenEgg>
+		<Item_BoarMeat>
+			<li Name="Vento Selvagem" Desc="Use uma técnica difícil para assar as coxas do javali em fogo alto, resultando em três sabores e texturas drasticamente diferentes: o exterior é crocante e picante, a camada intermediária é crocante e mastigável, e o interior é macio e suculento. Comer este prato é como adentrar na natureza selvagem; possui uma característica nômade." />
+			<li Name="24 Pontes sob a Luz do Luar Brilhante" Desc="Corte o lombo de javali em fatias finas, marine-as com tempero, recheie-as em 24 bolas feitas de tofu e, em seguida, cozinhe-as lentamente no caldo; uma delicadeza única." />
+		</Item_BoarMeat>
+		<Item_Beef>
+			<li Name="Salgueiro ao Vento" Desc="Corte a carne em fatias finas, use uma técnica difícil para refogá-las e, em seguida, coloque cuidadosamente o prato. É levemente temperado, mas ainda possui um delicioso sabor residual. A carne tem o sabor perfeito, mas pode ser facilmente cozida demais por serem todas fatias finas." />
+			<li Name="Delícia de Língua de Boi" Desc="A língua de boi é uma carne extremamente macia que possui um sabor naturalmente adocicado, e este prato destaca sua melhor qualidade ao usar poucos temperos para preservar o sabor e aroma originais do ingrediente." />
+		</Item_Beef>
+		<Item_RabbitMeat>
+			<li Name="Coelho Cristalino" Desc="Cozinhe a carne de coelho com um método especial, tornando-a translúcida como cristal. A carne fica macia e com uma fragrância especial, um prato que é não só bonito, mas também delicioso." />
+			<li Name="Carne de Coelho com Cinco Especiarias" Desc="Refogue cubos de carne de coelho com cinco especiarias diferentes, cujos sabores se complementam, criando uma experiência de sabor em camadas. O importante é controlar a temperatura e o tempo. As especiarias se misturam e perdem as camadas de sabor se o equilíbrio não for mantido." />
+		</Item_RabbitMeat>
+		<Item_WolfMeat>
+			<li Name="Lobo Devorador de Sol" Desc="Ensopado de carne de lobo cozido com molho de feijão e dezenas de ingredientes. O rico conteúdo se revela lentamente conforme se bebe a sopa aos poucos, e cada ingrediente possui um sabor especial." />
+			<li Name="Chama Ardente" Desc="Refogue repetidamente a melhor carne das costas do lobo com pimenta ardente. Mesmo no auge do inverno, este prato picante e irresistível aquece intensamente o corpo inteiro após ser consumido." />
+		</Item_WolfMeat>
+		<Item_FishMeat>
+			<li Name="Sopa do Dragão" Desc="Inspirada na imagem da carpa saltando sobre o portão do dragão, esta sopa depende de uma ordem intrincada de preparo e uso de especiarias, tornando o sabor muito superior ao dos pratos de peixe comuns." />
+			<li Name="Peixe Oculto no Cordeiro" Desc="Recheie um peixe dentro de um grande pedaço de cordeiro aberto e cozinhe com condimentos, criando um sabor delicado. O sabor do peixe combinado com o do cordeiro torna o prato ainda mais delicioso. O cordeiro fica macio e suculento, com o peixe delicado e tenro recheado dentro." />
+		</Item_FishMeat>
+		<Item_SnakeMeat>
+			<li Name="Prosperidade do Dragão e Fênix" Desc="Marine a carne de cobra misturada com frango, cozinhe lentamente em uma panela de caldo até que a sopa engrosse. Os sabores das duas carnes se complementam, criando o sabor perfeito." />
+			<li Name="Tartaruga e Cobra" Desc="Coloque as carnes de tartaruga e cobra para cozinhar lentamente juntas em uma panela de caldo. Ambas as carnes são saborosas e consistentes, tornando-se um excelente prato para complementar nutrientes." />
+		</Item_SnakeMeat>
+		<Item_Flour>
+			<li Name="Cabelos de Preocupação" Desc="Macarrão tão fino quanto cabelo, acompanhado de quatro tipos especiais de molho, saboroso e tão macio que derrete na boca; é o macarrão supremo." />
+			<li Name="Dumplings de Moralidade" Desc="Um prato herdado das famílias reais. Divida o interior do dumpling em cinco câmaras, recheando cada uma com um sabor especial representando cinco tipos de moralidade — benevolência, retidão, boas maneiras, sabedoria e confiabilidade. Cozinhe a vapor em fogo baixo para manter os cinco sabores separados; em fogo alto, a massa interna do dumpling se rompe, misturando os recheios e criando sabores imprevisíveis e interessantes." />
+			<li Name="Pão para Dividir e Compartilhar" Desc="Um tipo especial de pão originário de uma cidade costeira ao sul, macio, fofinho e doce; derrete na boca com um sabor maravilhoso. O pão guarda todas as memórias daquela cidade." />
+		</Item_Flour>
+		<Item_Wheat>
+			<li Name="Cabelos de Preocupação" Desc="Macarrão tão fino quanto cabelo, acompanhado de quatro tipos especiais de molho, saboroso e tão macio que derrete na boca; é o macarrão supremo." />
+			<li Name="Dumplings de Moralidade" Desc="Um prato herdado das famílias reais. Divida o interior do dumpling em cinco câmaras, recheando cada uma com um sabor especial representando cinco tipos de moralidade — benevolência, retidão, boas maneiras, sabedoria e confiabilidade. Cozinhe a vapor em fogo baixo para manter os cinco sabores separados; em fogo alto, a massa interna do dumpling se rompe, misturando os recheios e criando sabores imprevisíveis e interessantes." />
+		</Item_Wheat>
+		<Item_Mushroom>
+			<li Name="Gotas de Creme Suave" Desc="Coloque cogumelos bem modelados em pé sobre um pedaço de tofu branco e continue derramando uma sopa especial sobre eles enquanto cozinha no vapor. Ainda há gotas de sopa no topo do cogumelo, daí o nome do prato." />
+		</Item_Mushroom>
+		<Item_Lotusroot>
+			<li Name="Raiz de Lótus Cozida no Vapor com Sete Recheios" Desc="Este prato era usado em cerimônias de sacrifício e, depois, foi introduzido nas casas comuns, tornando-se famoso. Utilize uma raiz de lótus com sete buracos como ingrediente principal, recheie cada buraco com carne moída especial de sete tipos diferentes de gado, cozinhe no vapor e corte em fatias. Os passos não são complicados, mas requer ingredientes de alta qualidade e um cozinheiro habilidoso." />
+			<li Name="Sobre o Portão do Dragão" Desc="Corte as extremidades de uma raiz de lótus inteira e retire o interior. Coloque-a em uma panela de hot pot de dois sabores especialmente feita; adicione caldo e gelo de um lado, sopa clara e pequenos peixes do Lago das Nuvens do outro, em fogo alto, e então sirva." />
+		</Item_Lotusroot>
+		<Item_Pear>
+			<li Name="Pera de Cristal" Desc="Congele peras de alta qualidade a uma temperatura extremamente baixa, descasque para revelar a polpa que se torna translúcida durante o processo. Esculpa rapidamente em diferentes formas e sirva; peras translúcidas esculpidas são parcialmente escondidas e parcialmente visíveis na névoa, trazendo uma sensação fria e doce ao paladar. Um prato que é não só bonito, mas também delicioso." />
+			<li Name="Asas de Cigarra" Desc="Descasque peras de alta qualidade, corte em fatias finas como asas de cigarra e cole-as uma a uma na parede de uma tigela de gelo feita de xarope de gengibre. As fatias de pera finas como asas de cigarra são doces, crocantes e deliciosas; após comer todas as fatias, o xarope de gengibre derretido estará pronto para beber. Embora frio, é uma bebida saborosa em qualquer estação." />
+		</Item_Pear>
+		<Item_Fruit>
+			<li Name="Selva de Frutas" Desc="Use as frutas silvestres mais comuns como ingrediente principal, criando vários sabores de frutas com a técnica de culinária mais complicada e diferentes condimentos, e então coloque-as em um prato grande. Este prato não pode ser replicado sem um cozinheiro altamente qualificado que consiga transformar pó em ouro." />
+		</Item_Fruit>
+		<Item_FrogMeat>
+			<li Name="Carne de Rã Refogada a Seco" Desc="" />
+			<li Name="Pernas de Rã Crocantes e Picantes" Desc="" />
+		</Item_FrogMeat>
+		<Item_TurtleMeat>
+			<li Name="Tartaruga e Cobra" Desc="Coloque as carnes de tartaruga e cobra para cozinhar lentamente juntas em uma panela de caldo. Ambas as carnes são saborosas e consistentes, tornando-se um excelente prato para complementar nutrientes." />
+		</Item_TurtleMeat>
+		<Item_BearMeat>
+			<li Name="Pata de Urso Cristalina" Desc="" />
+		</Item_BearMeat>
+		<Item_ChickenMeat>
+			<li Name="Galo Dourado Cantando" Desc="" />
+		</Item_ChickenMeat>
+	</SpecialItem>
+</List>
+</SpecialNames>

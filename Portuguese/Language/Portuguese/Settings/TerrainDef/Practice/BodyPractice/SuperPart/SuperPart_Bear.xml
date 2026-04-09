@@ -1,0 +1,22 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Bear_1">
+			<Prefix>Anárquico</Prefix>
+			<Suffix>Órgão</Suffix>
+			<Desc>Um corpo secreto transmitido pela linhagem do antigo urso Yaoguai que usa energia para remodelar o coração e os pulmões. Uma vez alcançado, pode gerar True Qi continuamente.</Desc>
+			<Levels.0.Title>Primeira Camada</Levels.0.Title>
+			<Levels.0.Desc>Aumenta moderadamente a taxa de recuperação do Qi verdadeiro do corpo secreto.</Levels.0.Desc>
+			<Levels.1.Title>Segunda Camada</Levels.1.Title>
+			<Levels.1.Desc>Aumenta drasticamente a taxa de recuperação do Qi verdadeiro do corpo secreto.</Levels.1.Desc>
+			<Levels.2.Title>Terceira camada</Levels.2.Title>
+			<Levels.2.Desc>Aumenta a taxa de recuperação do Qi verdadeiro do corpo secreto em uma quantidade enorme.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Bear_2">
+			<Prefix>Aniquilação</Prefix>
+			<Suffix>Garra</Suffix>
+			<Desc>Um corpo secreto transmitido pela linhagem do antigo urso Yaoguai que usa a Força da Destruição nas Tribulações Celestiais para remodelar as garras. Tão poderoso que pode aniquilar tudo.</Desc>
+			<Levels.0.Title>Primeira Camada</Levels.0.Title>
+			<Levels.0.Desc>Fundamentalmente aumenta o poder do corpo secreto em uma quantidade enorme.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

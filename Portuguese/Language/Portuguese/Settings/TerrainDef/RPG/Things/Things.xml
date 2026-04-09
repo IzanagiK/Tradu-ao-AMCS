@@ -1,0 +1,72 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Camp">
+			<DisplayName>Facção</DisplayName>
+			<ValuesDesc.0>Amigável</ValuesDesc.0>
+			<ValuesDesc.1>Neutro</ValuesDesc.1>
+			<ValuesDesc.2>Hostil</ValuesDesc.2>
+		</Text>
+		<Text Name="MoveAI">
+			<DisplayName>Modo de Movimento</DisplayName>
+			<ValuesDesc.0>Parado</ValuesDesc.0>
+			<ValuesDesc.1>Livre</ValuesDesc.1>
+			<ValuesDesc.2>Explorando</ValuesDesc.2>
+			<ValuesDesc.3>Rota Fixa</ValuesDesc.3>
+		</Text>
+		<Text Name="MoveRoute">
+			<DisplayName>Chave para rota fixa</DisplayName>
+		</Text>
+		<Text Name="GuradRange">
+			<DisplayName>Alcance de Alerta</DisplayName>
+		</Text>
+		<Text Name="IsStepRuning">
+			<DisplayName>Callback de Quadro</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
+		</Text>
+		<Text Name="IsFrameStep">
+			<DisplayName>Callback a cada quadro</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
+		</Text>
+		<Text Name="IsRenderRuning">
+			<DisplayName>Callback de Quadro de Renderização</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
+		</Text>
+		<Text Name="IsGod">
+			<DisplayName>Invulnerável ou não</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
+		</Text>
+		<Text Name="ChouHenLianDong">
+			<DisplayName>Ódio compartilhado da equipe</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
+		</Text>
+		<Text Name="AutoNext">
+			<DisplayName>Derrotar Todos os Inimigos</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
+		</Text>
+		<Text Name="PickAndRemove">
+			<DisplayName>Recursos esgotáveis ou não</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFog">
+			<DisplayName>Revelar névoa ou não</DisplayName>
+			<ValuesDesc.0>Não</ValuesDesc.0>
+			<ValuesDesc.1>Sim</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFogDis">
+			<DisplayName>Alcance da névoa revelada</DisplayName>
+		</Text>
+		<Text Name="Param1">
+			<DisplayName>Parâmetro 1 (RpgParam1)</DisplayName>
+		</Text>
+		<Text Name="Param2">
+			<DisplayName>Parâmetro 2 (RpgParam2)</DisplayName>
+		</Text>
+	</List>
+</Texts>

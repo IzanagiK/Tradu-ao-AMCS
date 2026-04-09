@@ -1,0 +1,65 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="God_Xiuwei">
+			<DisplayName>Meditação Celestial</DisplayName>
+			<Desc>Sente-se em silêncio enquanto converte sua Crença acumulada em Cultivo.</Desc>
+		</Text>
+		<Text Name="God_Xiuwei1">
+			<DisplayName>Meditação da Divindade</DisplayName>
+			<Desc>Sente-se em silêncio enquanto converte sua Crença acumulada em Cultivo, mas com uma taxa de conversão bastante baixa.</Desc>
+		</Text>
+		<Text Name="God_Xiuwei2">
+			<DisplayName>Meditação da Unificação</DisplayName>
+			<Desc>Sente-se em silêncio enquanto converte sua Crença acumulada em Cultivo, mas com uma taxa de conversão ligeiramente baixa.</Desc>
+		</Text>
+		<Text Name="God_XinZhai">
+			<DisplayName>Jejum Mental</DisplayName>
+			<Desc>Entre em Jejum Mental, que reduz gradualmente o impacto das emoções em seu Humor, e continua por um período de tempo após a conclusão. O tempo que o efeito persiste após a sua conclusão é equivalente ao tempo que você passou em Jejum Mental.</Desc>
+		</Text>
+		<Text Name="God_ResurrectionA">
+			<DisplayName>Feitiço de Ressurreição</DisplayName>
+			<Desc>Ressuscita um personagem morrendo ou morto. Você recebe 10 Divindade.</Desc>
+			<TargetDesc>Selecione um personagem morto ou morrendo.</TargetDesc>
+		</Text>
+		<Text Name="God_ResurrectionB">
+			<DisplayName>Reversão Yin Yang</DisplayName>
+			<Desc>Ressuscita todos os personagens morrendo e caídos do seu lado dentro da cena. Você recebe 100 Divindade.</Desc>
+		</Text>
+		<Text Name="God_DefuseZhinian">
+			<DisplayName>Mente Limpa</DisplayName>
+			<Desc>Resolve uma Obsessão para o personagem e obtém uma Joia de Obsessão.</Desc>
+			<TargetDesc>Selecione um personagem cuja Obsessão já tenha se manifestado.</TargetDesc>
+		</Text>
+		<Text Name="God_GodLike">
+			<DisplayName>Deificação</DisplayName>
+			<Desc>Lança um feitiço para aumentar temporariamente sua Divindade ao extremo. No entanto, cada uso aumentará permanentemente sua Divindade em 1.</Desc>
+		</Text>
+		<Text Name="God_BeliveMe">
+			<DisplayName>Persuasão</DisplayName>
+			<Desc>Persuadir personagens aliados ou discípulos internos neutros a tentar convertê-los em Seguidores Centrais.</Desc>
+			<TargetDesc>Selecione um personagem que precisa de persuasão.</TargetDesc>
+		</Text>
+		<Text Name="God_Jingxin">
+			<DisplayName>Pacificação</DisplayName>
+			<Desc>Libere sobre um personagem não cultivador Shendao e reduza seu multiplicador de Humor em 25%, durando 7 dias.</Desc>
+			<TargetDesc>Selecione um personagem não Shendao para liberar.</TargetDesc>
+		</Text>
+		<Text Name="God_ProductUp1">
+			<DisplayName>Feitiço de Reunião Divina</DisplayName>
+			<Desc>Aumenta a produção base de materiais da sua área possuída por deus em 100% dentro de 10 dias.</Desc>
+		</Text>
+		<Text Name="God_ProductUp2">
+			<DisplayName>Feitiço de Realização de Desejos</DisplayName>
+			<Desc>Aumenta a produção base de materiais da sua área possuída por deus em 200% dentro de 4 dias.</Desc>
+		</Text>
+		<Text Name="God_ProductUp3">
+			<DisplayName>Feitiço de Reverência Solemne</DisplayName>
+			<Desc>Aumenta a produção base de materiais da sua área possuída por deus em 500% dentro de 1 dia.</Desc>
+		</Text>
+		<Text Name="God_TongLing_Plant">
+			<DisplayName>Divina Misericórdia</DisplayName>
+			<Desc>As plantas estão vivas, mas não têm misericórdia. Para iluminar uma planta, são necessários 1 Humanidade como primer. Custa 9 Joias de Obsessão e 1 Joia de Alma Primordial para tentar iluminar seu poder psíquico. O resultado da iluminação levará algum tempo para aparecer. A planta não pode ser iluminada com poder psíquico novamente enquanto estiver em uma sessão de iluminação. Quanto maior a divindade do lançador do feitiço, e mais vezes a planta tiver sido iluminada, mais fácil será para o item ser iluminado com sucesso.</Desc>
+			<TargetDesc>Selecione uma planta.</TargetDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Body_ModifierTest">
+			<Desc>Demonstre um milagre com modificadores adicionados, que serão removidos se liberados novamente.</Desc>
+		</Text>
+		<Text Name="Magic_Body_JingXi">
+			<DisplayName>Respiração da Baleia</DisplayName>
+			<Desc>Começa a respiração intensa no local designado com uma eficiência 100x maior do que o método normal. O peito e os pulmões ficarão sobrecarregados após o uso deste feitiço e a eficiência respiratória será drasticamente reduzida nos próximos dez dias.</Desc>
+			<TargetDesc>Selecione um local para começar a respiração.</TargetDesc>
+		</Text>
+		<Text Name="Magic_Body_TuJin">
+			<DisplayName>Boca Devoradora</DisplayName>
+			<Desc>Liberta a Boca Devoradora. Usar este corpo secreto pode acelerar as funções do corpo e devorar diretamente a energia do céu e da terra para reabastecimento. Solte a habilidade novamente para parar este efeito.</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi1">
+			<DisplayName>Vida passageira</DisplayName>
+			<Desc>Usa o Qi Verdadeiro gerado pelo Corpo Rejeitado para percorrer o corpo e aumentar drasticamente a taxa de consumo de tempo de vida e velocidade de remodelação. Solte a habilidade novamente para parar este efeito.</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi2">
+			<DisplayName>Vida falaciosa</DisplayName>
+			<Desc>Usa o Qi Verdadeiro gerado pelo Corpo Rejeitado para percorrer o corpo e aumentar drasticamente a taxa de consumo da vida útil e a eficiência do remodelamento. Solte a habilidade novamente para parar este efeito.</Desc>
+		</Text>
+		<Text Name="Magic_Body_Banyunqixue">
+			<DisplayName>Transportando energia</DisplayName>
+			<Desc>Custa 50 Essências de Vida para direcionar a energia de todo o corpo para curar os próprios ferimentos, dura 100 segundos.</Desc>
+		</Text>
+	</List>
+</Texts>

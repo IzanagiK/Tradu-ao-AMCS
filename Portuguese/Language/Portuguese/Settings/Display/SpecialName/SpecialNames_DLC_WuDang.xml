@@ -1,0 +1,87 @@
+﻿<SpecialNames>
+<List>
+	<SpecialItem Name="Item_HomeFood">
+		<Fish_SkyCrab>
+			<li Name="Steamed Crab" Desc=""></li>
+			<li Name="Crab Soup" Desc=""></li>
+			<li Name="Stir-fried Crab" Desc=""></li>
+			<li Name="Crab Meat Porridge" Desc=""></li>
+			<li Name="Braised Crab with Tofu" Desc=""></li>
+			<li Name="Spicy Crab" Desc=""></li>
+			<li Name="Spiced Crab" Desc=""></li>
+			<li Name="Fried Rice with Crab Meat" Desc=""></li>
+		</Fish_SkyCrab>
+		<Fish_SkySnake>
+			<li Name="Risoto de Peixe" Desc=""></li>
+			<li Name="Panqueca de Peixe" Desc=""></li>
+			<li Name="Rolinho de Peixe" Desc=""></li>
+			<li Name="Peixe Assado" Desc=""></li>
+			<li Name="Peixe Frito" Desc=""></li>
+			<li Name="Peixe Cozido" Desc=""></li>
+			<li Name="Peixe ao Vapor" Desc=""></li>
+			<li Name="Peixe Guisado" Desc=""></li>
+		</Fish_SkySnake>
+		<Fish_SkyFish>
+			<li Name="Risoto de Peixe" Desc=""></li>
+			<li Name="Panqueca de Peixe" Desc=""></li>
+			<li Name="Rolinho de Peixe" Desc=""></li>
+			<li Name="Peixe Assado" Desc=""></li>
+			<li Name="Peixe Frito" Desc=""></li>
+			<li Name="Peixe Cozido" Desc=""></li>
+			<li Name="Peixe ao Vapor" Desc=""></li>
+			<li Name="Peixe Guisado" Desc=""></li>
+		</Fish_SkyFish>
+	</SpecialItem>
+	<SpecialItem Name="Item_DeliciousFood">
+		<Fish_SkyCrab>
+			<li Name="Carne de Caranguejo Cozida" Desc=""></li>
+			<li Name="Caranguejo Picante" Desc=""></li>
+			<li Name="Garras de Caranguejo ao Vapor" Desc=""></li>
+			<li Name="Ovas de Caranguejo Cozidas com Macarrão de Vidro" Desc=""></li>
+			<li Name="Caranguejo Embriagado" Desc=""></li>
+			<li Name="Carne de Caranguejo com Tofu" Desc=""></li>
+			<li Name="Carne de Caranguejo Frita Rápida" Desc=""></li>
+		</Fish_SkyCrab>
+		<Fish_SkySnake>
+			<li Name="Peixe Frito" Desc=""></li>
+			<li Name="Arroz de Panela com Peixe" Desc=""></li>
+			<li Name="Peixe no Óleo de Pimenta" Desc=""></li>
+			<li Name="Bolinhas de Peixe" Desc=""></li>
+			<li Name="Bolos de Peixe" Desc=""></li>
+			<li Name="Ensopado de Peixe Picante" Desc=""></li>
+			<li Name="Sopa de Peixe Azeda" Desc=""></li>
+			<li Name="Peixe ao Vapor em Vinho de Arroz" Desc=""></li>
+			<li Name="Filés de Peixe Fritos" Desc=""></li>
+			<li Name="Peixe Cozido em Caldo" Desc=""></li>
+			<li Name="Cabeça de Peixe ao Vapor com Pimenta" Desc=""></li>
+		</Fish_SkySnake>
+		<Fish_SkyFish>
+			<li Name="Peixe Frito" Desc=""></li>
+			<li Name="Arroz de Panela com Peixe" Desc=""></li>
+			<li Name="Peixe no Óleo de Pimenta" Desc=""></li>
+			<li Name="Bolinhas de Peixe" Desc=""></li>
+			<li Name="Bolos de Peixe" Desc=""></li>
+			<li Name="Ensopado de Peixe Picante" Desc=""></li>
+			<li Name="Sopa de Peixe Azeda" Desc=""></li>
+			<li Name="Peixe ao Vapor em Vinho de Arroz" Desc=""></li>
+			<li Name="Filés de Peixe Fritos" Desc=""></li>
+			<li Name="Peixe Cozido em Caldo" Desc=""></li>
+			<li Name="Cabeça de Peixe ao Vapor com Pimenta" Desc=""></li>
+		</Fish_SkyFish>
+	</SpecialItem>
+	<SpecialItem Name="Item_DelicacyFood">
+		<Fish_SkyCrab>
+			<li Name="Pão de Sopa do Imperador" Desc="Misture a fresca gema de caranguejo com carne e envolva tudo em uma massa fina e fermentada. O interior ficará cheio de óleo de caranguejo dourado após o cozimento. Dizem que havia um imperador que desistiria de sua túnica real para comer este pão."></li>
+			<li Name="Caranguejo ao Vapor com Vinho Shaoxing" Desc="Use o melhor vinho Shaoxing para cozinhar caranguejos no final do outono. O vinho pode expulsar a frieza dos caranguejos. O sabor suave do vinho Shaoxing se mistura perfeitamente com a doçura da carne de caranguejo."></li>
+		</Fish_SkyCrab>
+		<Fish_SkySnake>
+			<li Name="Peixe Ralado Frito" Desc="Corte enguias frescas em tiras e frite-as com ingredientes de tempero. Requer habilidades meticulosas de corte e velocidade."></li>
+			<li Name="Peixe Frito com Cebolas" Desc="Ferva enguias frescas até que estejam cozidas e, em seguida, frite com cebolas para remover o cheiro de peixe. Comida gourmet que é saudável e saborosa."></li>
+		</Fish_SkySnake>
+		<Fish_SkyFish>
+			<li Name="Sopa do Dragão" Desc="Tomando a imagem de carpas pulando sobre o portão do dragão, esta sopa depende principalmente da ordem intricada de cozimento e uso de especiarias, tornando-a muito melhor do que pratos normais de peixe."></li>
+			<li Name="Peixe Escondido em Cordeiro" Desc="Recheie o peixe dentro de um cordeiro grande, aberto em fatias, e cozinhe-o com condimentos, criando um sabor delicado. O sabor do peixe combinado com o do cordeiro torna tudo ainda mais delicioso. O cordeiro é macio e suculento, com peixe tenro e delicado recheado dentro."></li>
+		</Fish_SkyFish>
+	</SpecialItem>
+</List>
+</SpecialNames>

@@ -1,0 +1,18 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<DisplayName>Item Perdido</DisplayName>
+		</Text>
+		<Text Name="SYS_DamageMethod">
+			<DisplayName>Feitiço de Remoldagem de Ferimento</DisplayName>
+		</Text>
+		<Text Name="SYS_RebuildMethod">
+			<DisplayName>Feitiço de Reconstrução</DisplayName>
+			<Desc>Reconstrói a parte perdida.</Desc>
+		</Text>
+		<Text Name="SYS_yishan">
+			<DisplayName>Centelha de Inspiração</DisplayName>
+			<Desc>Centelha de inspiração</Desc>
+		</Text>
+	</List>
+</Texts>

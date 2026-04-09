@@ -1,0 +1,448 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MutationCondition_Debug">
+			<DisplayName>Sensação de Perda</DisplayName>
+			<Desc>Significado desconhecido…………</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_1">
+			<DisplayName>Comer Qualquer Item</DisplayName>
+			<Desc>Um único discípulo consome 49 itens aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_2">
+			<Desc>Um único discípulo consome 124 itens aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_3">
+			<Desc>Um único discípulo consome 99 itens de 7º nível ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_4">
+			<DisplayName>Consumir Itens com Tags Específicas</DisplayName>
+			<Desc>Um único discípulo consome 36 alimentos aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_5">
+			<Desc>Um único discípulo consome qualquer alimento 81 vezes</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_6">
+			<Desc>Um único discípulo consome 10 alimentos diferentes</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_7">
+			<Desc>Um único discípulo consome 3 alimentos diferentes com atributo Terra</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_8">
+			<Desc>Um único discípulo consome 5 alimentos diferentes com atributo Terra</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_9">
+			<Desc>Um único discípulo consome 8 alimentos diferentes com atributo Terra</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_10">
+			<DisplayName>Consumir Itens com Atributo Metal</DisplayName>
+			<Desc>Um único discípulo consome 3 itens com atributo Metal</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_11">
+			<Desc>Um único discípulo consome itens com atributo Metal 7 vezes</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_12">
+			<Desc>Um único discípulo consome 5 itens diferentes com atributo Metal</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_13">
+			<DisplayName>Consumir Itens com Atributo Madeira</DisplayName>
+			<Desc>Um único discípulo consome 21 itens com atributo Madeira</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_14">
+			<Desc>Um único discípulo consome 55 itens com atributo Madeira</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_15">
+			<Desc>Um único discípulo consome 7 drogas diferentes com atributo Madeira</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_16">
+			<DisplayName>Consumir Itens com Atributo Água</DisplayName>
+			<Desc>Um discípulo consome 5 ou mais itens de 2º nível (ou superior) com atributo Água</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_17">
+			<Desc>Um discípulo consome 16 itens com atributo Água de 3º nível ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_18">
+			<Desc>Um único discípulo consome 7 drogas diferentes com atributo Água</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_19">
+			<DisplayName>Consumir Itens com Atributo Fogo</DisplayName>
+			<Desc>Um único discípulo consome itens com atributo Fogo 5 vezes</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_20">
+			<Desc>Um único discípulo consome 16 itens do elemento Fogo</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_21">
+			<Desc>Um único discípulo consome 7 itens diferentes com atributo Fogo</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_22">
+			<DisplayName>Consumir Itens com Atributo Terra</DisplayName>
+			<Desc>Um discípulo consome 10 itens com atributo Terra de 2º nível ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_23">
+			<Desc>Um discípulo consome 30 ou mais itens com atributo Terra de 3º nível ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_24">
+			<Desc>Um único discípulo consome 7 drogas diferentes com atributo Terra</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_25">
+			<DisplayName>Consumir Itens sem Atributo</DisplayName>
+			<Desc>Um único discípulo consome 30 itens sem atributo</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_26">
+			<Desc>Um único discípulo consome 99 itens sem atributo</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_27">
+			<Desc>Um único discípulo consome 4 itens diferentes com atributo indefinido</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_1">
+			<DisplayName>Consumir Qualquer Item Globalmente</DisplayName>
+			<Desc>Os discípulos da seita consomem coletivamente 500 itens aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_2">
+			<Desc>Os discípulos da seita consomem coletivamente 1000 itens aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_3">
+			<Desc>Os discípulos da seita consomem coletivamente 100 itens únicos</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_4">
+			<DisplayName>Consumir Qualquer Alimento Globalmente</DisplayName>
+			<Desc>Os discípulos da seita consomem coletivamente 400 alimentos aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_5">
+			<DisplayName>Consumir Qualquer Alimento Globalmente</DisplayName>
+			<Desc>Os discípulos da seita consomem coletivamente 800 alimentos aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_6">
+			<Desc>Um único discípulo consome 12 alimentos diferentes</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_7">
+			<DisplayName>Consumir Itens com Atributo Ouro Globalmente</DisplayName>
+			<Desc>Os discípulos da seita consomem coletivamente 30 itens com atributo Metal</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_8">
+			<Desc>Os discípulos da seita consomem coletivamente 80 itens com atributo Metal</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_9">
+			<Desc>Os discípulos da seita consomem coletivamente 10 itens diferentes com atributo Metal</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_10">
+			<DisplayName>Consumo Global de Drogas com Atributo Madeira</DisplayName>
+			<Desc>Discípulos da seita consomem coletivamente 30 medicamentos com atributo Madeira,</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_11">
+			<Desc>Discípulos da seita consomem coletivamente 80 medicamentos com atributo Madeira</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_12">
+			<Desc>Discípulos da seita consomem coletivamente 10 drogas diferentes com atributo Madeira</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_13">
+			<DisplayName>Consumo Global de Drogas com Atributo Água</DisplayName>
+			<Desc>Discípulos da seita consomem coletivamente 30 pílulas com atributo Água</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_14">
+			<Desc>Discípulos da seita consomem coletivamente 80 pílulas com atributo Água</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_15">
+			<Desc>Discípulos da seita consomem coletivamente 10 drogas diferentes com atributo Água</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_16">
+			<DisplayName>Consumo Global de Itens com Atributo Fogo</DisplayName>
+			<Desc>Discípulos da seita consomem coletivamente 30 itens com atributo Fogo</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_17">
+			<Desc>Discípulos da seita consomem coletivamente 80 itens com atributo Fogo</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_18">
+			<Desc>Discípulos da seita consomem coletivamente 10 itens diferentes com atributo Fogo</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_19">
+			<DisplayName>Consumo Global de Drogas com Atributo Terra</DisplayName>
+			<Desc>Discípulos da seita consomem coletivamente 30 medicamentos com atributo Terra</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_20">
+			<Desc>Discípulos da seita consomem coletivamente 80 medicamentos com atributo Terra</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_21">
+			<Desc>Discípulos da seita consomem coletivamente 10 itens diferentes com atributo Terra</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_22">
+			<DisplayName>Consumo Global de Itens sem Atributo</DisplayName>
+			<Desc>Discípulos da seita consomem coletivamente 300 itens sem atributo</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_23">
+			<Desc>Discípulos da seita consomem coletivamente 800 itens indefinidos</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_24">
+			<Desc>Discípulos da seita consomem coletivamente 7 itens diferentes sem atributo</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_BrokenNeck_1">
+			<DisplayName>Avanço</DisplayName>
+			<Desc>Um único discípulo completa o Treinamento Fundamental</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_BrokenNeck_2">
+			<Desc>Um único discípulo forma um Núcleo Dourado</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_BrokenNeck_3">
+			<Desc>Um único discípulo alcança o estágio do Espírito Primordial</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_BrokenNeck_1">
+			<DisplayName>Avanço Global</DisplayName>
+			<Desc>Discípulos da seita constroem fundações 3 vezes coletivamente</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_BrokenNeck_2">
+			<Desc>Discípulos da seita alcançam o Núcleo Dourado 3 vezes cumulativamente</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_BrokenNeck_3">
+			<Desc>Discípulos da seita alcançam o estado do Espírito Primordial 3 vezes cumulativamente</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_JustTalkJH_1">
+			<DisplayName>Conversa</DisplayName>
+			<Desc>A seita conclui conversas com 10 seres diferentes.</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_JustTalkJH_2">
+			<Desc>A seita conclui conversas com 20 seres diferentes</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_JustTalkJH_3">
+			<Desc>A seita conclui conversas com 30 seres diferentes</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_UnlockJHHeart_1">
+			<DisplayName>Conversa</DisplayName>
+			<Desc>A seita conversou cumulativamente com 3 seres únicos, quebrando suas defesas mentais</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_UnlockJHHeart_2">
+			<Desc>A seita conversou coletivamente com 8 seres diferentes e quebrou suas defesas mentais</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_UnlockJHHeart_3">
+			<Desc>A seita conversou coletivamente com 24 seres diferentes e quebrou suas defesas mentais</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_1">
+			<DisplayName>Convite</DisplayName>
+			<Desc>A seita convidou cumulativamente 3 mortais para visitar a seita</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_2">
+			<Desc>A seita convidou 12 pessoas comuns para visitar</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_3">
+			<Desc>A seita convidou 3 ou mais cultivadores do estágio de Formação do Núcleo para visitar</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_4">
+			<Desc>A seita convidou 10 ou mais cultivadores do estágio do Núcleo Dourado para visitar</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_5">
+			<Desc>A seita convidou 1 cultivador do estágio de Modelagem do Qi ou superior para visitar</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SendGiftToJH_1">
+			<DisplayName>Presente</DisplayName>
+			<Desc>A seita presenteia qualquer item a 3 cultivadores diferentes</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SendGiftToJH_2">
+			<Desc>A seita presenteou qualquer item a 12 cultivadores diferentes</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SendGiftToJH_3">
+			<Desc>A seita presenteou 36 cultivadores únicos</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_1">
+			<DisplayName>Meditação Acumulativa de um Único Discípulo</DisplayName>
+			<Desc>Um único discípulo acumula 3 dias de meditação</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_2">
+			<Desc>Um único discípulo acumula 12 dias de meditação</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_3">
+			<Desc>Um único discípulo acumula 36 dias de meditação</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_4">
+			<DisplayName>Contagem da Meditação Contínua de um Único Discípulo</DisplayName>
+			<Desc>Um único discípulo medita continuamente por 12 horas</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_5">
+			<Desc>Um único discípulo medita continuamente por 30 horas</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_6">
+			<Desc>Um único discípulo medita continuamente por 30 dias</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_DaZuo_1">
+			<DisplayName>Meditacao Acumulativa da Seita</DisplayName>
+			<Desc>A seita acumula 30 dias de meditação</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_DaZuo_2">
+			<Desc>A seita acumula 120 dias de meditação</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_DaZuo_3">
+			<Desc>A seita acumula 360 dias de meditação</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_1">
+			<DisplayName>Sono Pessoal</DisplayName>
+			<Desc>Um único discípulo completa 5 noites de sono em uma cama</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_2">
+			<Desc>Um único discípulo completa 20 noites de sono em uma cama</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_4">
+			<Desc>Um único discípulo acumula 12 horas de sono no chão</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_5">
+			<Desc>Um único discípulo acumula 36 horas de sono no chão</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_6">
+			<Desc>Um único discípulo acumula 180 horas de sono no chão</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Sleep_1">
+			<DisplayName>Sono Acumulado da Seita</DisplayName>
+			<Desc>Quando a seita acumular 120 horas de sono</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Sleep_2">
+			<Desc>Quando a seita acumular 360 horas de sono</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_1">
+			<DisplayName>Amor</DisplayName>
+			<Desc>Um discípulo recebe uma confissão uma vez</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_2">
+			<DisplayName>Amor</DisplayName>
+			<Desc>Um único discípulo recebe uma confissão 3 vezes</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_3">
+			<DisplayName>Amor</DisplayName>
+			<Desc>Um único discípulo confessa uma vez</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_4">
+			<DisplayName>Amor</DisplayName>
+			<Desc>Um único discípulo confessa três vezes</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_5">
+			<DisplayName>Amor</DisplayName>
+			<Desc>Um único discípulo confessa uma vez e tem sucesso</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_6">
+			<DisplayName>Amor</DisplayName>
+			<Desc>Um único discípulo recebe uma confissão e aceita</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_1">
+			<DisplayName>Ferido</DisplayName>
+			<Desc>Um único discípulo sofre qualquer ferimento leve 5 vezes</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_2">
+			<Desc>Um único discípulo sofre 10 ferimentos leves</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_3">
+			<Desc>Um único discípulo sofre um ferimento leve no osso uma vez</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_4">
+			<Desc>Um único discípulo sofre ferimentos leves no osso 3 vezes</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_5">
+			<Desc>Um único discípulo sofre um ferimento grave no osso uma vez</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_1">
+			<DisplayName>Reputação da Seita</DisplayName>
+			<Desc>Os pontos de reputação da seita ultrapassam 5000</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_2">
+			<Desc>Os pontos de reputação da seita ultrapassam 20000</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_3">
+			<Desc>Os pontos de reputação da seita ultrapassam 180000</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_4">
+			<Desc>A reputação da seita aumenta em 500 pontos em uma única ocorrência</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_5">
+			<Desc>A reputação da seita atinge 2000 pontos em uma única ocorrência</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_6">
+			<Desc>Os ganhos de reputação da seita atingem 10000 pontos em uma única ocorrência</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_1">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Um único discípulo mata 10 alvos aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_2">
+			<Desc>Um único discípulo mata 30 alvos aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_3">
+			<Desc>Um único discípulo mata 3 cultivadores do estágio Core Shaping ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_4">
+			<Desc>Um único discípulo mata 5 cultivadores do estágio Golden Core ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_5">
+			<Desc>Um discípulo mata 15 alvos do estágio Primordial Spirit ou superior.</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_6">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Um único discípulo mata 3 monstros</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_7">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Um único discípulo mata 5 ou mais feras no estágio Golden Core</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_1">
+			<Desc>A seita mata cumulativamente 100 alvos aleatórios</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_2">
+			<Desc>A seita acumula 300 mortes de qualquer alvo</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_3">
+			<Desc>A seita mata 18 cultivadores do estágio Core Shaping ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_4">
+			<Desc>A seita mata 30 cultivadores do estágio Golden Core ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_5">
+			<Desc>A seita mata coletivamente 81 alvos do estágio Primordial Spirit ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_6">
+			<Desc>A seita mata cumulativamente 18 monstros</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_7">
+			<Desc>A seita mata 30 monstros no estágio Golden Core ou superior</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_1">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Mate 7 coelhos, na próxima vez o número dobra</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_2">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Mate 5 lobos, na próxima vez o número dobra</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_3">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Mate 3 ursos, na próxima vez o número dobra</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_4">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Mate 7 tartarugas, na próxima vez o número dobra</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_5">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Mate 5 tigres, na próxima vez o número dobra</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_6">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Mate 5 vacas, na próxima vez o número dobra</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_7">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Mate 7 galinhas, na próxima vez o número dobra</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_8">
+			<DisplayName>Matar</DisplayName>
+			<Desc>Mate 5 cobras, na próxima vez o número dobra</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Sacrific_1">
+			<DisplayName>Sacrifício de Feras</DisplayName>
+			<Desc>Fazer sacrifícios para demônios provoca a ira do Templo Daemonia.</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_SchoolLevelUp_1">
+			<DisplayName>Reputação da Seita</DisplayName>
+			<Desc>O nível de reputação da seita aumenta em um nível</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_BrokenNeck_1">
+			<DisplayName>Avanço Global</DisplayName>
+			<Desc>Um discípulo da seita ascende</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_One_Kill_1">
+			<Desc>Um único discípulo mata um cultivador do estágio Golden Core ou superior</Desc>
+		</Text>
+	</List>
+</Texts>

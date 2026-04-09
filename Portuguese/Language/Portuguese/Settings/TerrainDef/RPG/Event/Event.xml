@@ -1,0 +1,44 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Initialize">
+			<DisplayName>Inicializar</DisplayName>
+		</Text>
+		<Text Name="StayInTrap">
+			<DisplayName>Permanecer no Ponto de Armadilha</DisplayName>
+			<PDisplayName>Tempo de Permanência (seg)</PDisplayName>
+		</Text>
+		<Text Name="EnterTrap">
+			<DisplayName>Entrar no Ponto de Armadilha</DisplayName>
+		</Text>
+		<Text Name="LeaveTrap">
+			<DisplayName>Sair do Ponto de Armadilha</DisplayName>
+		</Text>
+		<Text Name="BeenAttack">
+			<DisplayName>Sob Ataque</DisplayName>
+		</Text>
+		<Text Name="BeenDestroy">
+			<DisplayName>Destruído</DisplayName>
+		</Text>
+		<Text Name="Dead">
+			<DisplayName>Morto</DisplayName>
+		</Text>
+		<Text Name="InSocial">
+			<DisplayName>Durante a Interação</DisplayName>
+		</Text>
+		<Text Name="LeaveSocial">
+			<DisplayName>Após a Interação</DisplayName>
+		</Text>
+		<Text Name="NpcEnterWorkSpace">
+			<DisplayName>Personagem entra no ponto de construção</DisplayName>
+		</Text>
+		<Text Name="NpcLeaveWorkSpace">
+			<DisplayName>Personagem sai do ponto de construção</DisplayName>
+		</Text>
+		<Text Name="OnStep">
+			<DisplayName>Callback de Quadro Lógico</DisplayName>
+		</Text>
+		<Text Name="OnRender">
+			<DisplayName>Callback de Quadro de Renderização</DisplayName>
+		</Text>
+	</List>
+</Texts>

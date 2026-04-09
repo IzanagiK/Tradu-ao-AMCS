@@ -1,0 +1,240 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Spell_SYSLOST">
+			<DisplayName>Vazio</DisplayName>
+			<Desc>Uma construção perdida que ninguém reconhece. \n(Vázio)</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed1">
+			<DisplayName>Talismã de agilidade</DisplayName>
+			<Desc>Talismã usado para aumentar a velocidade de movimento.</Desc>
+		</Text>
+		<Text Name="Spell_TempLow1">
+			<DisplayName>Talismã resistente ao frio</DisplayName>
+			<Desc>O talismã usado para aumentar a resistência ao frio.</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh1">
+			<DisplayName>Talismã resistente ao calor</DisplayName>
+			<Desc>O talismã usado para aumentar a resistência ao calor.</Desc>
+		</Text>
+		<Text Name="Spell_ReadNovel">
+			<DisplayName>Talismã de História</DisplayName>
+			<Desc>Um estranho talismã de lugar nenhum. É fácil de desenhar, mas tem um efeito estranho, por isso é amplamente difundido entre o reino de cultivo. Depois de equipado, pode-se focar neste talismã e ver muitas histórias maravilhosas da Webnovel e ser lançado. No entanto, ele chamará facilmente a atenção e diminuirá a velocidade de trabalho e cultivo.\n[color=#D06508]Agradeça ao Webnovel APP por apoiar nosso jogo.[/color]</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed2">
+			<DisplayName>Talismã da Viagem Espiritual</DisplayName>
+			<Desc>Talismã usado para aumentar a velocidade de movimento, bem como a velocidade durante as aventuras.</Desc>
+		</Text>
+		<Text Name="Spell_RecoveryPower">
+			<DisplayName>Talismã of Curer</DisplayName>
+			<Desc>O talismã usado para aumentar a taxa de recuperação natural.</Desc>
+		</Text>
+		<Text Name="Spell_VisionRadius">
+			<DisplayName>Talismã do Foreer</DisplayName>
+			<Desc>O Talismã era usado para melhorar o alcance das visualizações e reduzir o tempo gasto na descoberta de um novo local na aventura.</Desc>
+		</Text>
+		<Text Name="Spell_Fatigue">
+			<DisplayName>Talismã da Limpeza Espiritual</DisplayName>
+			<Desc>O talismã usado para melhorar a qualidade do sono e reduzir a tendência à fadiga.</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition">
+			<DisplayName>Talismã da Absorção de Qi</DisplayName>
+			<Desc>Usado para aumentar a eficiência da absorção de Qi e jejum.</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition1">
+			<DisplayName>Talismã do Jejum</DisplayName>
+			<Desc>Usado para reduzir a taxa de consumo de alimentos.</Desc>
+		</Text>
+		<Text Name="Spell_Hide">
+			<DisplayName>Talismã da Invisibilidade</DisplayName>
+			<Desc>O talismã costumava esconder sua presença até certo ponto, tornar-se menos identificável por outras pessoas durante a aventura e reduzir as chances de obter reputação.</Desc>
+		</Text>
+		<Text Name="Spell_Happy">
+			<DisplayName>Talismã da Alegria Duradoura</DisplayName>
+			<Desc>O talismã usado para melhorar o humor e reduzir a necessidade de entretenimento.</Desc>
+		</Text>
+		<Text Name="Spell_LunHui_ShenShen">
+			<DisplayName>Talismã de Oração</DisplayName>
+			<Desc>Talismã formado por orações de outras pessoas, usado para melhorar o humor e estabilizar o estado mental.</Desc>
+		</Text>
+		<Text Name="Spell_TempLow2">
+			<DisplayName>Talismã do Yang Supremo</DisplayName>
+			<Desc>O talismã costumava aumentar drasticamente a resistência ao frio.</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh2">
+			<DisplayName>Talismã do Supremo Yin</DisplayName>
+			<Desc>O talismã costumava aumentar drasticamente a resistência ao calor.</Desc>
+		</Text>
+		<Text Name="Spell_Intelligence">
+			<DisplayName>Talismã da Prosperidade Civil</DisplayName>
+			<Desc>Usado para limpar a mente e melhorar as habilidades de aprendizado.</Desc>
+		</Text>
+		<Text Name="Spell_Fight">
+			<DisplayName>Talismã da Prosperidade Militar</DisplayName>
+			<Desc>Usado para melhorar as habilidades de luta e resistência à dor.</Desc>
+		</Text>
+		<Text Name="Spell_GlobalEfficiency">
+			<DisplayName>Talismã da Diligência</DisplayName>
+			<Desc>Usado para melhorar a eficiência do trabalho.</Desc>
+		</Text>
+		<Text Name="Spell_MadeQualityAddValue">
+			<DisplayName>Talismã do artesanato</DisplayName>
+			<Desc>Usado para melhorar a qualidade de itens criados.</Desc>
+		</Text>
+		<Text Name="Spell_Yield">
+			<DisplayName>Talismã da Fertilidade</DisplayName>
+			<Desc>Usado para aumentar o rendimento durante a caça, agricultura e colheita.</Desc>
+		</Text>
+		<Text Name="Spell_Treatment">
+			<DisplayName>Domínio médico</DisplayName>
+			<Desc>Usado para aumentar a taxa de sucesso de cura e seu efeito.</Desc>
+		</Text>
+		<Text Name="Spell_MindState1">
+			<DisplayName>Coração Tranquilo</DisplayName>
+			<Desc>O talismã costumava melhorar um pouco o estado mental.</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
+			<DisplayName>Coração Celestial</DisplayName>
+			<Desc>Talismã usado para melhorar ligeiramente a velocidade de cultivo.</Desc>
+		</Text>
+		<Text Name="Spell_MindState2">
+			<DisplayName>Compreensão Divina</DisplayName>
+		<Desc>O talismã usado para melhorar o estado mental.</Desc>
+		</Text>
+		<Text Name="Spell_MindState2_LunHui">
+			<DisplayName>Mente Divina</DisplayName>
+			<Desc>Talismã escasso passado de milhares de anos atrás, criado pelo antigo imortal Yuan reescrevendo o Talismã das Cavernas Divinas. \n[color=#D06508]Esta é uma homenagem ao primeiro jogador a desenhar com sucesso um talismã de 100% de qualidade: Na verdade, não eu[/color]</Desc>
+		</Text>
+		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>Compreensão da verdade</DisplayName>
+			<Desc>Usado para aumentar a chance de avanço.</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
+			<DisplayName>Compreensão do esquecimento</DisplayName>
+			<Desc>Usado para aumentar a velocidade de cultivo.</Desc>
+		</Text>
+		<Text Name="Spell_WorldMapFlySpeed">
+			<DisplayName>Sombra de partida</DisplayName>
+			<Desc>Usado para aumentar a velocidade de vôo de longa distância com um artefato.</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_SuccessRateAddV">
+			<DisplayName>Talismã das Riquezas</DisplayName>
+			<Desc>Talismã usado para melhorar a taxa de sucesso na criação de artefatos.</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_LingInheritRateAddV">
+			<DisplayName>Talismã Maravilha</DisplayName>
+			<Desc>Usado para aumentar ligeiramente o nível do artefato criado.</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_SuccessRateAddV">
+			<DisplayName>Tusita Talismã</DisplayName>
+			<Desc>Usado para melhorar a taxa de sucesso da Alquimia.</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_YieldAddP">
+			<DisplayName>Talismã da Impermanência</DisplayName>
+			<Desc>Usado para aumentar ligeiramente o rendimento da Alquimia.</Desc>
+		</Text>
+		<Text Name="Spell_Fu">
+			<DisplayName>Ilustração da prosperidade eterna</DisplayName>
+			<Desc>Usado para melhorar o humor e estado mental de quem o usa e dar boa sorte. Feliz Festival da Primavera e tudo de bom!</Desc>
+		</Text>
+		<Text Name="Spell_Lu">
+			<DisplayName>Ilustração do estatus eterno</DisplayName>
+			<Desc>Usado para melhorar a saúde e os ganhos materiais de quem o usa. Feliz Festival da Primavera e tudo de bom!</Desc>
+		</Text>
+		<Text Name="Spell_Shou">
+			<DisplayName>Ilustração da Longevidade Eterna</DisplayName>
+			<Desc>Usado para aumentar a vida útil e imunidade a doenças para quem o usa. Feliz Festival da Primavera e tudo de bom!</Desc>
+		</Text>
+		<Text Name="Spell_Shield1">
+			<DisplayName>Talismã de Darkarmor</DisplayName>
+			<Desc>Aumenta a proteção do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_Shield2">
+			<DisplayName>Talismã Armadura Celestial</DisplayName>
+			<Desc>Aumenta o nível de habilidade de proteção do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Jin">
+			<DisplayName>Talismã Metalarmor</DisplayName>
+			<Desc>Aumenta a resistência do usuário a Dano de Metal.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Mu">
+			<DisplayName>Talismã Woodarmor</DisplayName>
+			<Desc>Aumenta a resistência do usuário a dano de madeira.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Shui">
+			<DisplayName>Talismã Waterarmor</DisplayName>
+			<Desc>Aumenta a resistência do usuário a Dano de Água.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Huo">
+			<DisplayName>Talismã Armadura de Fogo</DisplayName>
+			<Desc>Aumenta a resistência do usuário a Dano de Fogo.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Tu">
+			<DisplayName>Talismã Earthharmor</DisplayName>
+			<Desc>Aumenta a resistência do usuário a Dano de Terra.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao1">
+			<DisplayName>Talismã da espada afiada</DisplayName>
+			<Desc>Aumenta o poder do artefato.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao2">
+			<DisplayName>Talismã da Espada Divina</DisplayName>
+			<Desc>Aumenta o nível de habilidade de Domínio de Artefato do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao3">
+			<DisplayName>Talismã da Espada Espiritual</DisplayName>
+			<Desc>Aumenta o Multiplicador de Recuperação de Qi do Artefato do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao4">
+			<DisplayName>Talismã da Espada Sagrada</DisplayName>
+			<Desc>Aumenta fundamentalmente o Poder do Artefato do usuário e melhora de forma abrangente as habilidades do Artefato.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill1">
+			<DisplayName>Talismã Vilecurse</DisplayName>
+			<Desc>Aumenta o Poder Mágico do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill2">
+			<DisplayName>Talismã da Maldição Divina</DisplayName>
+			<Desc>Aumenta o nível de habilidade de Feitiço do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill3">
+			<DisplayName>Talismã da Maldição Espiritual</DisplayName>
+			<Desc>Fundamentalmente diminui o custo de Qi dos feitiços do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill4">
+			<DisplayName>Talismã da Maldição Sagrada</DisplayName>
+			<Desc>Fundamentalmente aumenta o poder mágico e o custo de Qi do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian1">
+			<DisplayName>Talismã do Céu</DisplayName>
+			<Desc>Aumenta os Cinco Atributos do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian2">
+			<DisplayName>Talismã Encoberto do Céu</DisplayName>
+			<Desc>Diminui a Conquista do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian3">
+			<DisplayName>Talismã Latente</DisplayName>
+			<Desc>Aumenta o Potencial do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_JieTian1">
+			<DisplayName>Talismã Celestial</DisplayName>
+			<Desc>Aumenta a Conquista do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice1">
+			<DisplayName>Residência Divina</DisplayName>
+			<Desc>Aumenta o limite máximo de residentes divinos para o usuário.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice2">
+			<DisplayName>Percepção Divina</DisplayName>
+			<Desc>Aumenta o Bônus de Ganhos de Crença do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice3">
+			<DisplayName>Autoridade Divina</DisplayName>
+			<Desc>Aumenta a Divindade do usuário.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice4">
+			<DisplayName>Ocultação Divina</DisplayName>
+			<Desc>Diminui a Divindade do usuário.</Desc>
+		</Text>
+	</List>
+</Texts>

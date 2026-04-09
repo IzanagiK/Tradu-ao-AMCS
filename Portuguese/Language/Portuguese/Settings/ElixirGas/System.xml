@@ -1,0 +1,128 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="single_jin">
+			<Display>Plenitude de Metal</Display>
+			<Desc>Aumenta o elemento metal no ambiente e a taxa de avanço das leis de metal.</Desc>
+		</Text>
+		<Text Name="single_mu">
+			<Display>Plenitude de Madeira</Display>
+			<Desc>Aumenta o elemento madeira no ambiente e a taxa de avanço das leis de madeira.</Desc>
+		</Text>
+		<Text Name="single_shui">
+			<Display>Plenitude de Água</Display>
+			<Desc>Aumenta o elemento água no ambiente e a taxa de avanço das leis de água.</Desc>
+		</Text>
+		<Text Name="single_huo">
+			<Display>Plenitude de Fogo</Display>
+			<Desc>Aumenta o elemento fogo no ambiente e a taxa de avanço das leis de fogo.</Desc>
+		</Text>
+		<Text Name="single_tu">
+			<Display>Plenitude de Terra</Display>
+			<Desc>Aumenta o elemento terra no ambiente e a taxa de avanço das leis de terra.</Desc>
+		</Text>
+		<Text Name="jin_mu">
+			<Display>Impulso de Madeira</Display>
+			<Desc>Aumenta significativamente a coleta de madeira e a velocidade de colheita dos discípulos.</Desc>
+		</Text>
+		<Text Name="jin_shui">
+			<Display>Impulso de Artes</Display>
+			<Desc>Aumenta significativamente a velocidade de artesanato e costura dos discípulos.</Desc>
+		</Text>
+		<Text Name="jin_huo">
+			<Display>Impulso de Mineração</Display>
+			<Desc>Aumenta significativamente o rendimento de mineração dos discípulos.</Desc>
+		</Text>
+		<Text Name="jin_tu">
+			<Display>Plenitude de Mineração</Display>
+			<Desc>Aumenta significativamente o ganho de recursos de mineração dos discípulos.</Desc>
+		</Text>
+		<Text Name="mu_shui">
+			<Display>Criação</Display>
+			<Desc>Aumenta significativamente o rendimento e a fertilidade no mapa da seita.</Desc>
+		</Text>
+		<Text Name="mu_huo">
+			<Display>Chama Intensa</Display>
+			<Desc>Aumenta significativamente a velocidade de forja e culinária dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="mu_tu">
+			<Display>Estabilização</Display>
+			<Desc>Aumenta significativamente a velocidade de construção dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="shui_huo">
+			<Display>Chama Desvanecente</Display>
+			<Desc>Aumenta significativamente a velocidade e taxa de sucesso no alívio de desastres dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="shui_tu">
+			<Display>Transbordamento</Display>
+			<Desc>Aumenta significativamente os efeitos de cura esperados e a recuperação natural dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="huo_tu">
+			<Display>Cinzas</Display>
+			<Desc>Aumenta significativamente a velocidade de demolição e o trabalho com pedras dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="jin_mu_shui">
+			<Display>Exuberante</Display>
+			<Desc>Aumenta significativamente a compatibilidade com as leis de madeira dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="jin_mu_huo">
+			<Display>Esverdeado</Display>
+			<Desc>Aumenta significativamente o rendimento em alquimia dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="jin_mu_tu">
+			<Display>Sombrio</Display>
+			<Desc>Aumenta significativamente a velocidade de cultivo, construção de fundações e valor de estado mental dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="jin_shui_huo">
+			<Display>Luzente</Display>
+			<Desc>Aumenta significativamente a taxa de sucesso na refinação de artefatos dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="jin_shui_tu">
+			<Display>Cascata</Display>
+			<Desc>Aumenta significativamente a compatibilidade com as leis de água dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="jin_huo_tu">
+			<Display>Lustroso</Display>
+			<Desc>Aumenta significativamente a compatibilidade com as leis de metal dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="mu_shui_huo">
+			<Display>Fervoroso</Display>
+			<Desc>Aumenta significativamente a compatibilidade com as leis de fogo dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="mu_shui_tu">
+			<Display>Equilibrado</Display>
+			<Desc>Aumenta significativamente a velocidade de alquimia dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="mu_huo_tu">
+			<Display>Grim</Display>
+			<Desc>Aumenta significativamente a compatibilidade com as leis de terra dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="shui_huo_tu">
+			<Display>Ardente</Display>
+			<Desc>Aumenta significativamente a velocidade de forja de artefatos dos discípulos da seita.</Desc>
+		</Text>
+		<Text Name="no_jin">
+			<Display>Corte de Metal</Display>
+			<Desc>Aumenta a redução de dano de Metal. (global)</Desc>
+		</Text>
+		<Text Name="no_mu">
+			<Display>Corte de Madeira</Display>
+			<Desc>Aumenta a redução de dano de Madeira. (global)</Desc>
+		</Text>
+		<Text Name="no_shui">
+			<Display>Corte de Água</Display>
+			<Desc>Aumenta a redução de dano de Água. (global)</Desc>
+		</Text>
+		<Text Name="no_huo">
+			<Display>Corte de Fogo</Display>
+			<Desc>Aumenta a redução de dano de Fogo. (global)</Desc>
+		</Text>
+		<Text Name="no_tu">
+			<Display>Corte de Terra</Display>
+			<Desc>Aumenta a redução de dano de Terra. (global)</Desc>
+		</Text>
+		<Text Name="hunyuan">
+			<Display>Primordial</Display>
+			<Desc>Diminui a realização, aumenta a velocidade de aprendizado.</Desc>
+		</Text>
+	</List>
+</Texts>

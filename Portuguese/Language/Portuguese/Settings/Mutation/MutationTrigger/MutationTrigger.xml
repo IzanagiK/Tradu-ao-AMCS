@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_TaiShi">
+			<DisplayName>Taishi</DisplayName>
+			<Desc>Inicie um novo jogo com 3 eventos constantes de Caos Celestial.</Desc>
+			<Trigger.StartGame.Extent.Desc>Uma nova história se desenrola, o Taishi Dao Celestial se agita...</Trigger.StartGame.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiZhong">
+			<DisplayName>Taizhong</DisplayName>
+			<Desc>A cada 10/50/100 dias, desencadeia 1 Caos Celestial Turbulento/Yin Yang/Constante.</Desc>
+			<Trigger.Time.Days.0.Extent.Desc>Com o passar do tempo, algumas mudanças ocorreram no mundo..</Trigger.Time.Days.0.Extent.Desc>
+			<Trigger.Time.Days.1.Extent.Desc>Com o passar do tempo, o mundo passou por mudanças..</Trigger.Time.Days.1.Extent.Desc>
+			<Trigger.Time.Days.2.Extent.Desc>Com o passar do tempo, o mundo passa por mudanças drásticas...</Trigger.Time.Days.2.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiZhen">
+			<DisplayName>Taizhen</DisplayName>
+			<Desc>Cada aumento de 1 nível na reputação da seita desencadeia 1 caos celestial Yin Yang; a cada 6 ativações resulta em um caos celestial constante.</Desc>
+			<TriggerInfo.Desc>O nível da seita aumentou, desencadeando o Dao Celestial Taizhen</TriggerInfo.Desc>
+			<Trigger.School.Score.0.Extent.Desc>A reputação de [SCHOOL] aumentou, desencadeando o Dao Celestial Taizhen...</Trigger.School.Score.0.Extent.Desc>
+			<Trigger.School.Score.1.Extent.Desc>A reputação de [SCHOOL] aumentou significativamente, tornando-se mundialmente renomada e ativando inesperadamente o Taizhen, um dos Daos Celestiais.</Trigger.School.Score.1.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiXu">
+			<DisplayName>Taixu</DisplayName>
+			<Desc>Cada avanço de discípulo na seita tem uma chance de desencadear o Caos Celestial uma vez</Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] acabou de embarcar no caminho da imortalidade, desencadeando o Dao Celestial Taixu...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>[NPC] avançou em seu cultivo, desencadeando o Dao Celestial Taixu...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] vislumbrou o grande caminho, causando um movimento incomum no Dao Celestial Taixu...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] alcança a iluminação e ascende, desencadeando um caos no Dao Celestial Taixu...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
+		</Text>
+		<Text Name="Mutation_TaiXuan">
+			<DisplayName>Taixuan</DisplayName>
+			<Desc>Não é possível selecionar manualmente os efeitos do Caos Celestial Turbulento ou Yin Yang.</Desc>
+		</Text>
+		<Text Name="Mutation_TaiYi">
+			<DisplayName>Taiyi</DisplayName>
+			<Desc>Após o efeito do Caos Celestial Turbulento ser ativado, há uma chance de redefinir um efeito.</Desc>
+		</Text>
+		<Text Name="Mutation_TaiJi">
+			<DisplayName>Taiji</DisplayName>
+			<Desc>Ao obter Caos Celestial Turbulento ou Yin Yang, expande o alcance aleatório dos efeitos do caos.</Desc>
+		</Text>
+	</List>
+</Texts>

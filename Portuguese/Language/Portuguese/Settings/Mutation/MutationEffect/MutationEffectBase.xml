@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Debug">
+			<DisplayName>Sentimento de Perda</DisplayName>
+			<Desc>…………Nada acontece.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_ConstantBase">
+			<DisplayName>Modelo de Efeito Constante</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_UnstableBase">
+			<DisplayName>Modelo de Efeito Turbulento</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_YinBase">
+			<DisplayName>Modelo de Efeito Yin</DisplayName>
+		</Text>
+		<Text Name="Mutation_Effect_YangBase">
+			<DisplayName>Modelo de Efeito Yang</DisplayName>
+		</Text>
+	</List>
+</Texts>

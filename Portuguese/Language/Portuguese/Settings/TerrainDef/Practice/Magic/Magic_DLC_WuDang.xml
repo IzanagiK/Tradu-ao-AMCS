@@ -1,0 +1,19 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LsCalmHeart">
+			<DisplayName>Respiração Pacífica</DisplayName>
+			<Desc>Use em um personagem aliado para que eles não precisem de comida, água ou sono por 3 dias, mas seus movimentos ficarão lentos.</Desc>
+			<TargetDesc>Selecione um aliado.</TargetDesc>
+		</Text>
+		<Text Name="LsShapeshift">
+			<DisplayName>Bloqueio Celestial</DisplayName>
+			<Desc>Atrasa a Tribulação de Mudança de Forma de um personagem aliado ao custo de sua vida útil.</Desc>
+			<TargetDesc>Selecione um aliado que tenha a tribulação de mudança de forma.</TargetDesc>
+		</Text>
+		<Text Name="LsLingWater">
+			<DisplayName>Solo Natura</DisplayName>
+			<Desc>Transforma uma área em Solo Espiritual ao custo de seu próprio crescimento e nutrição. No entanto, a água nas proximidades se tornará água normal.</Desc>
+			<TargetDesc>Selecione uma área vazia no chão.</TargetDesc>
+		</Text>
+	</List>
+</Texts>
