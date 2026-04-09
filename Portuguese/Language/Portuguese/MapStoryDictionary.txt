@@ -84,10 +84,10 @@ Key	Value
 邀请对方到你的门派做客，需要好感度大于等于60。	Convide a outra parte para sua seita. É necessário ter Favor de pelo menos 60.
 目标境界过高	O nível do alvo é muito alto.
 可蕴养，当前目标:%s	Pode ser nutrido, alvo atual: %s.
-[NAME]来到此地便感觉到一种亲近的气息，一番寻觅，竟然真的找到了天地灵根的踪迹！	[NAME] sentiu algo familiar no ar ao chegar aqui. Após procurar, [IT] de repente percebeu que encontrou a Raiz Espiritual que conecta céu e terra!
-[NAME]来到此地便感觉到一种亲近的气息，但似乎欠缺了一些机缘，最终一无所获，只能空手而归。	[NAME] sentiu algo familiar no ar ao chegar aqui, mas parece que lhe faltou sorte. No final, [ITS] voltou de mãos vazias.
-[NAME]来到此地便感觉到一种同出一源的气息，一番寻觅，竟然真的找到了天地灵根的踪迹！	[NAME] sentiu algo no ar como se compartilhasse origens com isso. Após procurar, [IT] encontrou a Raiz Espiritual que conecta céu e terra!
-[NAME]来到此地便感觉到一种同出一源的气息，但似乎欠缺了一些机缘，最终一无所获，只能空手而归。	[NAME] sentiu algo no ar como se [IT] compartilhasse a mesma origem de alguma forma. Infelizmente, parece que a sorte de [ITS] não estava à altura, e no final [IT] só conseguiu voltar de mãos vazias.
+[NAME]来到此地便感觉到一种亲近的气息，一番寻觅，竟然真的找到了天地灵根的踪迹！	[NAME] sentiu algo familiar no ar ao chegar aqui. Após procurar,  de repente percebeu que encontrou a Raiz Espiritual que conecta céu e terra!
+[NAME]来到此地便感觉到一种亲近的气息，但似乎欠缺了一些机缘，最终一无所获，只能空手而归。	[NAME] sentiu algo familiar no ar ao chegar aqui, mas parece que lhe faltou sorte. No final,  voltou de mãos vazias.
+[NAME]来到此地便感觉到一种同出一源的气息，一番寻觅，竟然真的找到了天地灵根的踪迹！	[NAME] sentiu algo no ar como se compartilhasse origens com isso. Após procurar,  encontrou a Raiz Espiritual que conecta céu e terra!
+[NAME]来到此地便感觉到一种同出一源的气息，但似乎欠缺了一些机缘，最终一无所获，只能空手而归。	[NAME] sentiu algo no ar como se  compartilhasse a mesma origem de alguma forma. Infelizmente, parece que a sorte de  não estava à altura, e no final  só conseguiu voltar de mãos vazias.
 [NAME]凭着感觉一番寻觅，最终一无所获，只能空手而归。	[NAME] seguiu seus instintos e procurou ao redor, mas no final voltou de mãos vazias.
 心魔化形	Transformação Demoníaca.
 等待移动	Aguarde o movimento.
@@ -223,7 +223,7 @@ Key	Value
 乱界夹缝-火之界	Rachadura no Caos: Reino do Fogo
 %s 败于 %s 之手！	%s foi derrotado por %s!
 因天道崩碎而衰亡的小千世界碎片，仅凭一株天地灵根勉强维系火行之力而存。\n此界充满天地破碎时万物死亡的冤孽，他们因乱界而生，只有火行之力对其有效。	Um fragmento de Pequeno Mundo que entrou em declínio após a desintegração do Dao Celestial, existindo apenas graças a uma única Raiz Espiritual que mal consegue sustentar a força do Fogo.\nEste reino está repleto de espíritos malignos que pereceram quando o céu e a terra colapsaram. Eles nasceram do Caos e só são vulneráveis à força do Fogo.
-[NAME]悄悄追踪这些弟子的踪迹。发现这是一群{0}的内门弟子在掳掠根基不错的凡人修炼魔功。\n[NAME]表明来意，愿意帮忙，只是需要分润一些好处。{0}的弟子略一沉吟答应[NAME]的请求。[NAME]面色一喜，却没想到对面突然出手偷袭，[NAME]瞬间被重创，拼了全力才逃得性命。	[NAME] seguiu discretamente o rastro desses discípulos e descobriu que eram discípulos do núcleo de {0}, que estavam saqueando mortais talentosos para cultivar suas artes demoníacas.\n[NAME] revelou suas intenções, oferecendo ajuda em troca de uma parte dos benefícios. Os discípulos de {0} hesitaram por um momento antes de aceitar a proposta. O rosto de [NAME] se iluminou de alegria, mas de repente foi atacado de surpresa. Gravemente ferido, teve que usar todas as suas forças para escapar com vida.
+[NAME]悄悄追踪这些弟子的踪迹。发现这是一群{0}的内门弟子在掳掠根基不错的凡人修炼魔功。\n[NAME]表明来意，愿意帮忙，只是需要分润一些好处。{0}的弟子略一沉吟答应[NAME]的请求。[NAME]面色一喜，却没想到对面突然出手偷袭，[NAME]瞬间被重创，拼了全力才逃得性命。	[NAME] seguiu discretamente o rastro desses discípulos. Descobriu que era um grupo de discípulos internos de {0} sequestrando mortais com boa base para praticar artes demoníacas.\n[NAME] explicou suas intenções e disse que estava disposto a ajudar, mas exigia uma parte dos benefícios. Os discípulos de {0} hesitaram por um instante e aceitaram o pedido de [NAME]. [NAME] chegou a esboçar um sorriso, mas não esperava que o outro lado atacasse de surpresa; [NAME] foi gravemente ferido e só escapou com vida após lutar com todas as forças.
 业火吐息	Sopro do Fogo do Karma
 心魔吐息	Sopro do Demônio Interior
 这是技能的tip	Isto é uma dica de habilidade.
@@ -291,10 +291,10 @@ Key	Value
 咕咕~~咕咕~~\n神鸟快乐的鸣叫着———\n如珠玉落盘，轻语低吟。\n我知道，这是万物烬灭的声音……	*Piu*\nO pássaro divino canta alegremente.\nSussurros suaves como gotas de chuva caindo na janela.\nEu sei, este é o som da destruição de todas as coisas…
 烬灭的轻语	Sussurro da Destruição
 法宝反噬	Recarga Mágica
-天地开辟以降，悄然湮灭者众，留名青史者寡。\n被尽数遗忘后的残留下些许顽固的执念，随意的聚合。\n化作茫然的无名者徘徊在历史的缝隙。\n化作残渣. Desde o princípio dos tempos, a maioria viveu e morreu sem deixar legado.\nA obsessão permaneceu após esses passados esquecidos, acumulando forças lentamente.\nAlmas sem nome pairaram nas margens da história.\nDeixando apenas restos.
+天地开辟以降，悄然湮灭者众，留名青史者寡。\n被尽数遗忘后的残留下些许顽固的执念，随意的聚合。\n化作茫然的无名者徘徊在历史的缝隙。\n化作残渣.	Desde o princípio dos tempos, a maioria viveu e morreu sem deixar legado.\nA obsessão permaneceu após esses passados esquecidos, acumulando forças lentamente.\nAlmas sem nome pairaram nas margens da história.\nDeixando apenas restos.
 残渣	Fragmentos Restantes
 哇哇，兔子，兔子吃人了……！！	Ah! Um co-coelho está comendo pessoas!
-说话气泡 fParam1为时间 sParam1为对象 sParam2为文本 Bubble. fParam1 is time. sParam1 is target. sParam2 is text.
+说话气泡 fParam1为时间 sParam1为对象 sParam2为文本	Bubble. fParam1 is time. sParam1 is target. sParam2 is text.
 [NAME]靠近蕴灵树后感受其中玄妙，自身灵气运转更加流畅了。	[NAME] sentiu o mistério próximo à Árvore Iluminada, a energia fluiu mais suavemente.
 他们说了好半天话，最终给了我们一朵纸做的红花，奇观建设被耽误了。	Eles conversaram por um bom tempo e nos deram uma flor vermelha feita de papel, a construção da maravilha foi atrasada.
 [NAME]于战场之上降下雷霆震怒，将两军兵士镇压，强行制止了这场战争。[NAME]之神威因此深深刻印在亲见此幕的凡人脑海，他们口口相传，使[NAME]收获了不少信徒和信仰。	[NAME] parou a guerra com a força de um trovão, subjugando os soldados das duas tropas e forçando o fim do conflito. O poder de [NAME] ficou gravado nas mentes dos mortais que testemunharam o feito, espalhando-se entre eles, fazendo com que [NAME] ganhasse muitos seguidores e fé.
@@ -310,7 +310,7 @@ Key	Value
 该物品只能在野外地图使用	Este item só pode ser usado em mapas de campo
 狸	Tanuki
 快跑啊！	Corra!
-[NAME]悄悄追踪这些弟子的踪迹。发现这是一群{0}的内门弟子在掳掠根基不错的凡人修炼魔功。\n[NAME]含怒出手，毫不容情，双方苦斗半日，[NAME]渐渐感到真气不济，暗暗叫苦。敌人却仿佛看穿了[NAME]的窘境，合力一击击碎了[NAME]的护体真气。[NAME]鲜血狂喷，勉强护住心脉，逃离战场。但这群邪派妖人并不打算放过[NAME]，他们循着气息一路追来。	[NAME] rastreou silenciosamente o rastro desses discípulos. Descobriu que era um grupo de discípulos internos de {0} saqueando mortais promissores para praticar sua magia demoníaca。\n[NAME], tomado pela fúria, atacou sem piedade. Ambos lutaram ferozmente por meio dia, mas [NAME] começou a sentir sua energia se esgotar e lamentou ter se envolvido. Os inimigos perceberam sua fraqueza e, em um golpe conjunto, quebraram sua barreira protetora de Qi. [NAME] cuspiu sangue violentamente, mas conseguiu proteger seu coração e fugir do campo de batalha. No entanto, aqueles cultivadores malignos não pretendiam deixá-lo escapar e continuaram a persegui-lo seguindo seu rastro de Qi.
+[NAME]悄悄追踪这些弟子的踪迹。发现这是一群{0}的内门弟子在掳掠根基不错的凡人修炼魔功。\n[NAME]含怒出手，毫不容情，双方苦斗半日，[NAME]渐渐感到真气不济，暗暗叫苦。敌人却仿佛看穿了[NAME]的窘境，合力一击击碎了[NAME]的护体真气。[NAME]鲜血狂喷，勉强护住心脉，逃离战场。但这群邪派妖人并不打算放过[NAME]，他们循着气息一路追来。	[NAME] seguiu discretamente o rastro desses discípulos. Descobriu que era um grupo de discípulos internos de {0} sequestrando mortais com boa base para praticar artes demoníacas.\nTomado pela ira, [NAME] atacou sem a menor misericórdia. Os dois lados travaram uma batalha feroz por metade do dia; aos poucos, [NAME] sentiu o verdadeiro qi se esgotar e amaldiçoou a própria situação em silêncio. O inimigo, porém, parecia ter percebido a dificuldade de [NAME] e, num ataque conjunto, despedaçou o qi protetor que envolvia seu corpo. [NAME] vomitou sangue em jorros; mal conseguiu resguardar o meridiano do coração e fugiu do campo de batalha. Mas esse bando de demônios de seita maligna não pretendia deixar [NAME] escapar — eles seguiram seu rastro de aura e vieram em perseguição.
 天苍%s年第%s天，%s将%s%s%s封印，化为灵契。	Ano %s de Tiancang, dia %s, %s selou %s %s em um contrato espiritual.
 等待	Aguardar
 融断	Derreter
@@ -397,112 +397,112 @@ Key	Value
 [NAME]与%s交感多年，借其灵性衍变，竟然领悟出一门秘法。	Após %s anos de Ressonância Qi com [NAME], eles aprenderam uma magia secreta graças à sua Benção.
 心印诀反噬	Reversão do Canto da Ressonância
 经过多番尝试，%s与%s之间依旧无法心灵相通，此刻%s已经魂飞魄散，%s也因此遭受重创	Depois de várias tentativas, %s e %s ainda não conseguiram estabelecer uma conexão mental. Nesse momento, %s perdeu sua alma e %s sofreu grandes danos.
-{0}大显神通，又招来一些洪水，灾难加剧了。	{0} realizou um milagre, houve mais inundações, e a calamidade piorou.
-心印诀	Canto da Ressonância
-代理人发挥口才，给他们挨个讲道，劝说他们去做平民。花费了好一阵子之后，他们实在受不了，决定放了代理人。	Os agentes usaram sua eloquência, falando com eles um por um e persuadindo-os a agir de forma civilizada. Depois de um tempo, eles não aguentaram mais e decidiram liberar o agente.
-耽误了一些时间。	Houve um atraso.
-%s灵秘法-	Magia Abençoada de %s
-天地灵根无法移植，[NAME]为防止被他人所获，便想布置一道阵法隐藏其踪迹。	Como a Raiz Espiritual que conecta o céu e a terra não pode ser transplantada, [NAME] pensou em esconder seus rastros com um feitiço para evitar que outros a obtivessem.
-然而[NAME]尝试之下，却发现天地灵根上通天机，普通阵法完全无法遮蔽其气息。	No entanto, [NAME] tentou, mas infelizmente e inexplicavelmente, [IT] descobriu que a presença da raiz não poderia ser ocultada com magia comum.
-[NAME]略一思索，便拿出自身携带的四象遮天图，借助大千世界四季运转之力成功隐藏了灵植的痕迹。	Após uma breve reflexão, [NAME] pegou o Pintura dos Quatro Símbolos que carregava e, com a ajuda da força dos ciclos das quatro estações do mundo, conseguiu esconder os rastros da planta espiritual.
-然而[NAME]尝试之下，却发现天地灵根上通天机，普通阵法完全无法遮蔽其气息。看来需要以某种遮蔽天机的宝物为引，才能布置完成这一阵法。	No entanto, [NAME] tentou, mas infelizmente e inexplicavelmente, [IT] descobriu que a presença da raiz não poderia ser ocultada com magia comum. Parecia que seria necessário usar um tesouro capaz de esconder um mistério natural para completar o feitiço.
+{0}大显神通，又招来一些洪水，灾难加剧了。	{0} exibiu grande poder sobrenatural e ainda trouxe mais inundações; a calamidade se agravou.
+心印诀	Mantra do Selo do Coração
+代理人发挥口才，给他们挨个讲道，劝说他们去做平民。花费了好一阵子之后，他们实在受不了，决定放了代理人。	O agente usou toda a sua lábia: falou com eles um por um, pregou seus “ensinamentos” e tentou convencê-los a virar gente comum. Depois de um bom tempo, eles não aguentaram mais e decidiram soltar o agente.
+耽误了一些时间。	Isso atrasou um pouco.
+%s灵秘法-	Arte Espiritual Secreta de %s -
+天地灵根无法移植，[NAME]为防止被他人所获，便想布置一道阵法隐藏其踪迹。	Como a Raiz Espiritual do Céu e da Terra não pode ser transplantada, [NAME] quis montar uma formação para ocultar seus rastros e impedir que outros a encontrassem.
+然而[NAME]尝试之下，却发现天地灵根上通天机，普通阵法完全无法遮蔽其气息。	Porém, ao tentar, [NAME] percebeu que a Raiz Espiritual do Céu e da Terra está ligada aos desígnios do Céu; formações comuns simplesmente não conseguem ocultar sua aura.
+[NAME]略一思索，便拿出自身携带的四象遮天图，借助大千世界四季运转之力成功隐藏了灵植的痕迹。	Após pensar por um instante, [NAME] tirou o Diagrama dos Quatro Símbolos que carregava consigo e, usando o poder do ciclo das quatro estações do mundo, conseguiu ocultar com sucesso os rastros da planta espiritual.
+然而[NAME]尝试之下，却发现天地灵根上通天机，普通阵法完全无法遮蔽其气息。看来需要以某种遮蔽天机的宝物为引，才能布置完成这一阵法。	Porém, ao tentar, [NAME] percebeu que a Raiz Espiritual do Céu e da Terra está ligada aos desígnios do Céu; formações comuns simplesmente não conseguem ocultar sua aura. Ao que parece, será preciso usar como “chave” algum tesouro capaz de encobrir os desígnios do Céu para concluir essa formação.
 [NAME]与%s交感多年，借其煞性衍变，竟然领悟出一门秘法。	[NAME] teve ressonância de Qi com %s por muitos anos, e, aproveitando a evolução de sua maldição, acabou por compreender uma magia secreta.
-[NAME]尝试将环绕在秘卷周围的法印拓下，与之前在合欢派与昆仑宫发现的残缺法印结合，果然拼成了一个完整而复杂的印记。[NAME]以此印为秘钥，运用古代秘印解印法解读残卷，只见幽深的气息流转，文字变幻之下，已然展现出一段被当今修行界列为禁忌的惊天之秘！	[NAME] tentou combinar o selo ao redor do pergaminho com os selos incompletos encontrados na Seita do Prazer e no Palácio Kunlun, e conseguiu formar um selo completo e complexo. Usando esse selo como chave, [NAME] usou a antiga técnica de interpretação de selos para decifrar o pergaminho e descobriu um segredo proibido no mundo dos cultivadores!
-据《金船残卷》记载，千年之前，东皇宫突然在修行界掀起一场大乱，欲毁天下修行者根基。世传东皇宫掌门在仙魔大战中感染魔息，暗自修改东皇所传五行大法，吸纳魔息修炼，因此坠入魔道，欲颠覆人间。东皇宫掌教更是号称魔中之魔，以绝代修为睥睨天下，无人可敌。\n天下修行者为求生存，不论正邪联合起来，血战十数年，终于覆灭了东皇宫。	De acordo com o "Pergaminho do Navio Dourado", mil anos atrás, o Palácio Oriental causou um grande caos no mundo dos cultivadores com a intenção de destruir a base de todos os cultivadores. O Palácio Oriental foi infectado pela energia demoníaca durante a guerra e acabou querendo subverter o mundo. O líder do Palácio Oriental foi conhecido como o Demônio entre os Demônios, dominando o mundo com um cultivo incomparável. \nPara sobreviver, cultivadores de todo o mundo se uniram, independentemente de serem bons ou maus, e travaram uma batalha sangrenta por mais de uma década, até finalmente destruírem o Palácio Oriental.
-[NAME]想了想，决定还是不冒险了，转身离去。	[NAME] pensou melhor, decidiu não correr riscos e se virou para sair.
-%s煞秘法-	Magia %s Amaldiçoada
+[NAME]尝试将环绕在秘卷周围的法印拓下，与之前在合欢派与昆仑宫发现的残缺法印结合，果然拼成了一个完整而复杂的印记。[NAME]以此印为秘钥，运用古代秘印解印法解读残卷，只见幽深的气息流转，文字变幻之下，已然展现出一段被当今修行界列为禁忌的惊天之秘！	[NAME] tentou copiar os selos ao redor do pergaminho secreto e juntá-los aos selos incompletos encontrados antes na Seita do Prazer e no Palácio Kunlun; de fato, formou-se um emblema completo e complexo. Usando esse selo como chave, [NAME] aplicou a antiga técnica de decifração de selos secretos para interpretar o fragmento. Uma aura profunda circulou e, conforme os caracteres mudavam, revelou-se um segredo estarrecedor — hoje considerado tabu no mundo do cultivo!
+据《金船残卷》记载，千年之前，东皇宫突然在修行界掀起一场大乱，欲毁天下修行者根基。世传东皇宫掌门在仙魔大战中感染魔息，暗自修改东皇所传五行大法，吸纳魔息修炼，因此坠入魔道，欲颠覆人间。东皇宫掌教更是号称魔中之魔，以绝代修为睥睨天下，无人可敌。\n天下修行者为求生存，不论正邪联合起来，血战十数年，终于覆灭了东皇宫。	Segundo o “Fragmento do Navio Dourado”, há mil anos o Palácio Oriental de repente causou um grande caos no mundo do cultivo, querendo destruir o fundamento de todos os cultivadores. Diz-se que o líder do Palácio Oriental foi contaminado por aura demoníaca durante a Guerra entre Imortais e Demônios e, às escondidas, alterou a Grande Arte dos Cinco Elementos transmitida pelo Imperador Oriental, absorvendo essa aura demoníaca para cultivar; assim, caiu no Caminho Demoníaco e tentou subverter o mundo mortal. O Patriarca do Palácio Oriental chegou a se intitular “o demônio entre demônios”, com um cultivo incomparável — ninguém era páreo.\nPara sobreviver, os cultivadores do mundo inteiro — justos e perversos — uniram forças e travaram uma guerra sangrenta por mais de uma década, até finalmente aniquilarem o Palácio Oriental.
+[NAME]想了想，决定还是不冒险了，转身离去。	[NAME] pensou melhor, decidiu não se arriscar e se virou para ir embora.
+%s煞秘法-	Magia Maldita de %s-
 乱界仙孽	Imortal do Caos
-[NAME]施展仙法，将瘟疫感染的人集中起来，彻底封闭，瘟疫无法传播自然消弭无形。此举虽不完美，但也算成功制止的瘟疫，让[NAME]之名远播，亦因此收获了不少信徒和信仰。	[NAME] invocou um Milagre, reuniu os infectados e impediu a propagação da peste. Embora não tenha sido perfeito, a peste foi parada, e o nome de [NAME] se espalhou, trazendo muitos seguidores e fé.
-除了因为摩擦变得有些微热，硬币毫无反应……	Além de um leve aquecimento devido ao atrito, a moeda não reagiu…
+[NAME]施展仙法，将瘟疫感染的人集中起来，彻底封闭，瘟疫无法传播自然消弭无形。此举虽不完美，但也算成功制止的瘟疫，让[NAME]之名远播，亦因此收获了不少信徒和信仰。	[NAME] conjurou uma Arte Imortal, reuniu os infectados e os isolou por completo; sem poder se espalhar, a peste acabou se extinguindo naturalmente. Embora não fosse um método perfeito, ainda assim conteve a epidemia com sucesso. O nome de [NAME] se espalhou por toda parte, rendendo muitos seguidores e fé.
+除了因为摩擦变得有些微热，硬币毫无反应……	Além de ficar levemente quente por causa do atrito, a moeda não reagiu em nada…
 摩擦硬币	Esfregar a moeda
-[rand_lable=desc_time,desc_place,desc_weather]，[name]在翻阅古书时，突然发现封页厚度有些不正常。[name]挑开封页，竟然从中找到一张古朴的符咒。	[rand_lable=desc_time,desc_place,desc_weather], enquanto folheava livros antigos, [name] descobriu que uma página selada estava um pouco mais espessa que as outras. [name] abriu a página selada e encontrou um talismã antigo.
+[rand_lable=desc_time,desc_place,desc_weather]，[name]在翻阅古书时，突然发现封页厚度有些不正常。[name]挑开封页，竟然从中找到一张古朴的符咒。	[rand_lable=desc_time,desc_place,desc_weather], enquanto folheava livros antigos, [name] notou que a folha selada estava mais espessa do que o normal. [name] levantou a folha e encontrou nela um talismã antigo.
 乱界尸孽	Cadáver do Caos
-硬币发生了微微的振动，似乎有什么事情发生了……	A moeda vibrou levemente, parece que algo aconteceu…
-上古秘术-	Segredos Ancestrais
-巨量的	Massivamente
-一无所获	Infrutífero
-\n<font color=#D06508>[神秘洞穴]</font>\n不满：%d\n强化：%d	\n<font color=#D06508>[Mysterious Cavern]</font>\nNão satisfatório: %d\nFortalecer: %d
+硬币发生了微微的振动，似乎有什么事情发生了……	A moeda vibrou levemente; parecia que algo havia acontecido…
+上古秘术-	Técnicas Secretas Ancestrais-
+巨量的	Uma quantidade gigantesca
+一无所获	Nada encontrado
+\n<font color=#D06508>[神秘洞穴]</font>\n不满：%d\n强化：%d	\n<font color=#D06508>[神秘洞穴]</font>\nInsatisfação: %d\nAprimoramento: %d
 %s零	%s Zero
 乱界妖孽	Monstro do Caos
-代理人给了他们一点灵石，说道：“跟我走吧，前方就是{0}”。他们感谢了代理人，大约{1}人跟随其一同前往。	Os agentes deram-lhes algumas Pedras Espirituais e disseram: "Venham comigo, {0} está à frente." Eles agradeceram ao agente, e cerca de {1} pessoas seguiram junto.
-[NAME]贪婪地拜了拜，感受到了不祥的气息。	[NAME] rezou de forma gana
-[NAME]的五维大幅降低了。	As cinco propriedades básicas de [NAME] diminuíram significativamente.
-[NAME]化身为凡人，故意被妖邪摄走，趁其不备将其斩杀，成功消除了妖邪之害。此举手段温和，虽无人知晓，但却顺应天道，[NAME]获得了许多功德。	[NAME] transformou-se em um mortal e foi deliberadamente capturado pelos perversos, aproveitando-se da distração deles para exterminá-los, eliminando com sucesso a ameaça maligna. Embora ninguém soubesse, essa ação estava em conformidade com o Céu, e [NAME] obteve grande mérito por isso.
-%s灵煞之性已达极致，一股晦涩难明的气息浮现在四周，灵性交感之下,[NAME]福至心灵，竟然从中悟出一门绝世秘法。	A aura mágica de %s atingiu sua intensidade máxima. Em ressonância espiritual com ela, [NAME] teve uma iluminação e compreendeu uma técnica secreta suprema.
-这株位于卢山的金灵根-琅琊神木	Esta Raiz Espiritual de Metal está localizada no Monte Lu - Árvore Langya
-这株位于虫谷的木灵根-木枯藤	Esta Raiz Espiritual de Madeira está localizada no Vale dos Insetos - Videira Seca
-这株位于玉晶潭的水灵根-五色金莲	Esta Raiz Espiritual de Água está localizada no Lago Jade Cristal - Lótus das Cinco Cores
-这株位于火穴的火灵根-朱果树	Esta Raiz Espiritual de Fogo está localizada no Ninho Flamejante - Árvore do Fruto Escarlate
-这株位于炼丹峰的土灵根-赭黄精	Esta Raiz Espiritual de Terra está localizada no Pico do Alquimista - Essência Ocre
-[NAME]小心翼翼的将天地灵根的果实采摘而下。	[NAME] cuidadosamente colheu o fruto da Raiz Espiritual que conecta o Céu e a Terra。
-[NAME]来到此处，进入阵法，发现天地灵根已然成熟。[NAME]小心翼翼的将天地灵根的果实采摘而下。	[NAME] chegou até aqui, entrou na formação e descobriu que o fruto da Raiz Espiritual que conecta o Céu e a Terra já estava maduro。[NAME] cuidadosamente colheu o fruto。
-[NAME]来到此处，按照记忆中的位置找到灵植，结果发现已然来迟了一步，天地灵根的果实已经消失殆尽。	[NAME] chegou até aqui e encontrou a planta espiritual seguindo sua memória, mas percebeu que chegou tarde demais, pois o fruto da Raiz Espiritual já havia desaparecido。
-[NAME]来到此处，按照记忆中的位置找到灵植，结果发现天地灵根的果实似乎被路过的灵兽嚼吃了一些。	[NAME] chegou até aqui e encontrou a planta espiritual seguindo sua memória, mas percebeu que algumas das frutas haviam sido mordiscadas por uma besta espiritual que passou pelo local。
-[NAME]来到此处，按照记忆中的位置找到灵植，发现天地灵根已然成熟。[NAME]小心翼翼的将天地灵根的果实采摘而下。	[NAME] chegou até aqui e encontrou a planta espiritual seguindo sua memória, descobrindo que os frutos estavam maduros。[NAME] cuidadosamente colheu o fruto da Raiz Espiritual que conecta o Céu e a Terra。
-[NAME]来到此处，发现天地灵根尚未成熟。看上去大概还需要%s天左右的生长时间。	[NAME] chegou até aqui e percebeu que o fruto da Raiz Espiritual que conecta o Céu e a Terra ainda não estava maduro。Parece que precisará de mais %s dias para amadurecer。
-随着[NAME]的领悟，这股玄奥的气息也消散殆尽。	Com a compreensão de [NAME], essa aura mística se dissipou quase por completo。
-[rand_lable=desc_time,desc_place,desc_weather]，[name]在[obj_action][obj]时，突然心中一动，对%s一道又有感悟。	[rand_lable=desc_time,desc_place,desc_weather], enquanto [obj_action] [obj], [name] de repente teve um pressentimento e compreendeu algo sobre %s。
-代理人发挥口才，劝他们跟随其前往{0}。但无法解决他们的生存问题，并不愿意去。	O agente usou sua persuasão para convencê-los a ir para {0}。No entanto, sem uma solução para sua sobrevivência, eles recusaram。
-[NAME]想了想，还是算了。	[NAME] pensou um pouco e decidiu deixar para lá。
-[NAME]虽然听的似懂非懂，但依然大有所获。	Embora [NAME] não tenha compreendido completamente, ainda assim obteve muitos benefícios。
-[NAME]渐渐听得入迷，条条玄妙流淌中大有参悟。	[NAME] ficou cada vez mais envolvido, absorvendo os mistérios e obtendo grandes insights。
-[NAME]从玄妙的声音中竟然领悟出一套秘法。	[NAME] conseguiu compreender uma técnica secreta a partir da misteriosa voz。
-[NAME]听得仙人讲法，竟然福至心灵的领悟到一丝偷天机的法门。	Enquanto ouvia os ensinamentos dos imortais, [NAME] teve uma iluminação e compreendeu um vislumbre dos mistérios celestiais。
-[NAME]道行降低了%s点。	O nível de cultivo de [NAME] diminuiu em %s pontos。
-指定交互角色	Selecione o personagem para interagir。
-[NAME]见状大怒，直接当空施展仙法，逼迫妖邪露面。双发在天际各展神通，血战当场，最终[NAME]成功斩杀了妖邪。此举虽波及不少凡人意外丧命，但[NAME]的神威却广为流传，使其收获了许多信仰和信徒。	Vendo a situação, [NAME] enfureceu-se e conjurou uma técnica celestial no ar, forçando os perversos a se revelarem。Ambos demonstraram seus poderes no céu, travando uma batalha sangrenta。No fim, [NAME] conseguiu derrotar os perversos。Embora alguns mortais tenham perdido suas vidas no caos, a reputação de [NAME] se espalhou amplamente, ganhando muitos seguidores e fé。
-[NAME]见状大怒，直接当空施展仙法，逼迫妖邪露面。双发在天际各展神通，血战当场。然而没想到的是，[NAME]的修为不足，竟然败于妖邪之手。虽然妖邪因此惊走，但此举也使得[NAME]声名大损。	Vendo a situação, [NAME] enfureceu-se e conjurou uma técnica celestial no ar, forçando os perversos a se revelarem。Ambos demonstraram seus poderes no céu, travando uma batalha sangrenta。No entanto, [NAME] não tinha cultivo suficiente e acabou sendo derrotado pelos perversos。Embora tenham fugido assustados, essa derrota custou caro à reputação de [NAME]。
+代理人给了他们一点灵石，说道：“跟我走吧，前方就是{0}”。他们感谢了代理人，大约{1}人跟随其一同前往。	O agente lhes deu algumas Pedras Espirituais e disse: “Venham comigo, {0} fica logo à frente.” Eles agradeceram ao agente, e cerca de {1} pessoas o acompanharam.
+[NAME]贪婪地拜了拜，感受到了不祥的气息。	[NAME] se curvou gananciosamente e sentiu uma aura sinistra.
+[NAME]的五维大幅降低了。	Os cinco atributos básicos de [NAME] diminuíram drasticamente.
+[NAME]化身为凡人，故意被妖邪摄走，趁其不备将其斩杀，成功消除了妖邪之害。此举手段温和，虽无人知晓，但却顺应天道，[NAME]获得了许多功德。	[NAME] assumiu a forma de um mortal e se deixou capturar de propósito pelos perversos. Pegando-os desprevenidos, [NAME] os abateu e eliminou com sucesso a ameaça maligna. Foi um método brando; embora ninguém tenha visto, ainda assim estava em harmonia com o Dao Celestial, e [NAME] ganhou muitos méritos.
+%s灵煞之性已达极致，一股晦涩难明的气息浮现在四周，灵性交感之下,[NAME]福至心灵，竟然从中悟出一门绝世秘法。	A natureza espiritual-maléfica de %s chegou ao limite. Uma aura obscura e indescritível surgiu ao redor e, em ressonância espiritual, [NAME] teve uma iluminação e compreendeu uma técnica secreta incomparável.
+这株位于卢山的金灵根-琅琊神木	Esta Raiz Espiritual de Metal fica no Monte Lu - Árvore Divina de Langya
+这株位于虫谷的木灵根-木枯藤	Esta Raiz Espiritual de Madeira fica no Vale dos Insetos - Videira da Madeira Seca
+这株位于玉晶潭的水灵根-五色金莲	Esta Raiz Espiritual de Água fica no Lago de Cristal de Jade - Lótus Dourado das Cinco Cores
+这株位于火穴的火灵根-朱果树	Esta Raiz Espiritual de Fogo fica no Ninho Flamejante - Árvore do Fruto Escarlate
+这株位于炼丹峰的土灵根-赭黄精	Esta Raiz Espiritual de Terra fica no Pico da Alquimia - Essência Ocre
+[NAME]小心翼翼的将天地灵根的果实采摘而下。	[NAME] colheu cuidadosamente o fruto da Raiz Espiritual do Céu e da Terra.
+[NAME]来到此处，进入阵法，发现天地灵根已然成熟。[NAME]小心翼翼的将天地灵根的果实采摘而下。	[NAME] chegou até aqui, entrou na formação e descobriu que a Raiz Espiritual do Céu e da Terra já havia amadurecido. [NAME] colheu cuidadosamente o fruto.
+[NAME]来到此处，按照记忆中的位置找到灵植，结果发现已然来迟了一步，天地灵根的果实已经消失殆尽。	[NAME] chegou até aqui e encontrou a planta espiritual seguindo sua memória, mas percebeu que chegou tarde demais: os frutos da Raiz Espiritual do Céu e da Terra já haviam desaparecido por completo.
+[NAME]来到此处，按照记忆中的位置找到灵植，结果发现天地灵根的果实似乎被路过的灵兽嚼吃了一些。	[NAME] chegou até aqui e encontrou a planta espiritual seguindo sua memória, mas percebeu que alguns frutos da Raiz Espiritual do Céu e da Terra pareciam ter sido mordiscados por uma besta espiritual que passou por ali.
+[NAME]来到此处，按照记忆中的位置找到灵植，发现天地灵根已然成熟。[NAME]小心翼翼的将天地灵根的果实采摘而下。	[NAME] chegou até aqui e encontrou a planta espiritual seguindo sua memória, descobrindo que os frutos já estavam maduros. [NAME] colheu cuidadosamente o fruto da Raiz Espiritual do Céu e da Terra.
+[NAME]来到此处，发现天地灵根尚未成熟。看上去大概还需要%s天左右的生长时间。	[NAME] chegou até aqui e descobriu que a Raiz Espiritual do Céu e da Terra ainda não estava madura. Parece que ainda vai precisar de cerca de %s dias de crescimento.
+随着[NAME]的领悟，这股玄奥的气息也消散殆尽。	Com a compreensão de [NAME], essa aura profunda se dissipou por completo.
+[rand_lable=desc_time,desc_place,desc_weather]，[name]在[obj_action][obj]时，突然心中一动，对%s一道又有感悟。	[rand_lable=desc_time,desc_place,desc_weather], enquanto [name] [obj_action] [obj], de repente teve um pressentimento e compreendeu algo novo sobre %s.
+代理人发挥口才，劝他们跟随其前往{0}。但无法解决他们的生存问题，并不愿意去。	O agente usou sua lábia para convencê-los a seguir para {0}. Porém, sem resolver o problema de sobrevivência deles, eles não quiseram ir.
+[NAME]想了想，还是算了。	[NAME] pensou um pouco e decidiu deixar para lá.
+[NAME]虽然听的似懂非懂，但依然大有所获。	Embora [NAME] tenha entendido apenas parcialmente, ainda assim obteve muitos benefícios.
+[NAME]渐渐听得入迷，条条玄妙流淌中大有参悟。	[NAME] foi se deixando envolver e, com cada fio de mistério que fluía, obteve grandes percepções.
+[NAME]从玄妙的声音中竟然领悟出一套秘法。	[NAME] conseguiu compreender um conjunto de técnicas secretas a partir da voz misteriosa.
+[NAME]听得仙人讲法，竟然福至心灵的领悟到一丝偷天机的法门。	Ao ouvir os ensinamentos de um imortal, [NAME] teve uma iluminação e compreendeu um vislumbre de um método para “roubar os segredos do Céu”.
+[NAME]道行降低了%s点。	O nível de cultivo de [NAME] diminuiu em %s pontos.
+指定交互角色	Selecionar personagem para interagir
+[NAME]见状大怒，直接当空施展仙法，逼迫妖邪露面。双发在天际各展神通，血战当场，最终[NAME]成功斩杀了妖邪。此举虽波及不少凡人意外丧命，但[NAME]的神威却广为流传，使其收获了许多信仰和信徒。	Vendo isso, [NAME] ficou furioso e conjurou uma Arte Imortal no ar, forçando os perversos a se revelarem. Ambos exibiram seus poderes no céu e travaram uma batalha sangrenta; no fim, [NAME] conseguiu abater os perversos. Embora vários mortais tenham morrido acidentalmente no caos, o poder divino de [NAME] se espalhou amplamente, rendendo muitos seguidores e fé.
+[NAME]见状大怒，直接当空施展仙法，逼迫妖邪露面。双发在天际各展神通，血战当场。然而没想到的是，[NAME]的修为不足，竟然败于妖邪之手。虽然妖邪因此惊走，但此举也使得[NAME]声名大损。	Vendo isso, [NAME] ficou furioso e conjurou uma Arte Imortal no ar, forçando os perversos a se revelarem. Ambos exibiram seus poderes no céu e travaram uma batalha sangrenta; porém, o cultivo de [NAME] era insuficiente e [NAME] acabou derrotado pelos perversos. Embora eles tenham fugido assustados, isso causou grande dano à reputação de [NAME].
 万	Dez mil
 亿	Cem milhões
-{0}大显神通，加热了此地的空气，灾难缓解了不少。	{0} demonstrou um grande poder divino, aquecendo o ar local e reduzindo significativamente os efeitos do desastre。
-{0}与群众进行讨论，安抚了一下他们。{0}悟道了一些处世之道。	{0} conversou com as pessoas para acalmá-las e, no processo, compreendeu alguns princípios de convivência。
-{0}想使用蛮力处理石桥，但收效甚微。	{0} tentou usar força bruta para lidar com a ponte de pedra, mas obteve pouco sucesso。
-{0}对众人说：“你们都来做我们的信徒，我就把桥修好！”众人认为{0}在骗人，没有理他。	{0} disse à multidão: "Se vocês se tornarem nossos seguidores, eu consertarei a ponte!" No entanto, todos pensaram que era um truque e ignoraram {0}。
-{0}动脑筋寻找搭桥的方法，但巧妇难为无米之炊。	{0} tentou pensar em um método para construir a ponte, mas sem os recursos necessários, era impossível.
-{0}带了些食物，但附近无人需要食物。	{0} trouxe um pouco de comida, mas ninguém por perto precisava dela。
-{0}带了些灵石，但附近无人认识灵石。	{0} trouxe algumas Pedras Espirituais, mas ninguém nas proximidades sabia o que eram。
-{0}带了些木材，但石桥使用木头还不足以支撑。	{0} trouxe um pouco de madeira, mas não se pode construir uma ponte de pedra com madeira.  
-{0}稍微拿了点石料，并命令弟子将桥修好。此事正好被路过的官人看见，他对{0}赞许有加。	{0} pegou um pouco de pedra e ordenou que seus discípulos consertassem a ponte. Um oficial que passava elogiou {0}.  
-[NAME]观摩良久，似乎略有所悟	[NAME] observou por um longo tempo e pareceu ter compreendido algo.  
-[NAME]静坐观想，从中参悟良多	[NAME] sentou-se em meditação e obteve grande inspiração.  
-平	Empate  
-不分高低！	Empate!  
-%s 与 %s 不分高低！	%s e %s terminaram em empate!  
-[NAME]的元神随着阴阳流转，对其中蕴含的大道有了更深的体悟	[NAME] acompanhou o fluxo do Yin e Yang, alcançando uma compreensão mais profunda das leis universais.  
-[NAME]生长过程中，似乎与环境达成某种契合，灵性活泼了许多！	Durante o crescimento de [NAME], parece ter atingido certa harmonia com o ambiente, tornando-se muito mais espirituoso!  
-灵石伴随附近地面的养分一起被地母石碑收入其中，眨眼之间便凝聚出了{0}枚灵石，同时也多出一丝不祥的气息。	A Estela da Mãe Terra absorveu as Pedras Espirituais junto com os nutrientes do solo próximo, condensando {0} Pedras Espirituais num piscar de olhos, ao mesmo tempo liberando uma aura sinistra.  
-[rand_lable=desc_time,desc_place,desc_weather]，[name]在[obj_action][obj]时，突然心中一动，捕捉到一丝灵感，居然成功创造出一件艺术品。	[rand_lable=desc_time,desc_place,desc_weather], enquanto [obj_action] [obj], [name] de repente teve um estalo, capturou um lampejo de inspiração e criou com sucesso uma obra de arte.  
-零	Zero  
-[NAME]生长过程中，似乎沾染了一些杀伐之气，煞性增强了许多！	Durante o crescimento de [NAME], parece ter sido contaminado por uma aura assassina, aumentando muito sua ferocidade!  
-[NAME]神识沉浸其中，霎那犹如千年，从中悟出万千大道	[NAME] mergulhou sua consciência, e num instante que pareceu mil anos, compreendeu inúmeras verdades universais.  
-{0}大显神通，又降低了温度，灾难加剧了。	{0} demonstrou seus grandes poderes, baixando ainda mais a temperatura e agravando a calamidade.  
-[NAME]突然摇了摇枝叶，似乎在释放善意。灵性交感中的众人似乎都觉得心境一亮，似乎通明了许多。	[NAME] de repente sacudiu suas folhas, como se estivesse expressando boa vontade. Aqueles em ressonância espiritual sentiram sua mente se iluminar, como se tivessem alcançado maior clareza.  
-负	Menos  
-[NAME]脑海中出现了真武大帝年幼时参悟大道的景象。恍惚之间，身边多了一张神符，应该是真武神念所化。	Na mente de [NAME] surgiu a visão do Grande Imperador Zhenwu em sua juventude contemplando o Dao. Num instante de devaneio, surgiu ao seu lado um talismã, provavelmente formado pelo pensamento divino de Zhenwu.  
-代理人地给了他们一点灵石，说道“算了算了，这些灵石你们拿去修炼吧，从他们身上也拿不到什么好东西。”散修看了他一眼，拿了灵石就走了。那几个农民其实是{0}的居民，有大约{1}人成为了我们的信徒。	O agente entregou algumas Pedras Espirituais a eles e disse: "Esqueçam, esqueçam, levem essas pedras para treinar. Não há nada de valioso neles." O cultivador errante olhou para ele, pegou as Pedras Espirituais e foi embora. Aqueles camponeses eram, na verdade, moradores de {0}, e cerca de {1} deles se tornaram nossos seguidores.  
-其中已没有了回应。	Não houve resposta.
-鸿蒙	Vasto Primordial
+{0}大显神通，加热了此地的空气，灾难缓解了不少。	{0} demonstrou grande poder divino, aquecendo o ar do local e aliviando bastante o desastre.
+{0}与群众进行讨论，安抚了一下他们。{0}悟道了一些处世之道。	{0} conversou com a população e os acalmou. No processo, {0} compreendeu alguns princípios de convivência.
+{0}想使用蛮力处理石桥，但收效甚微。	{0} tentou usar força bruta para lidar com a ponte de pedra, mas com pouco resultado.
+{0}对众人说：“你们都来做我们的信徒，我就把桥修好！”众人认为{0}在骗人，没有理他。	{0} disse à multidão: “Se vocês virarem nossos seguidores, eu conserto a ponte!” A multidão achou que {0} estava enganando e o ignorou.
+{0}动脑筋寻找搭桥的方法，但巧妇难为无米之炊。	{0} tentou pensar em um jeito de construir a ponte, mas até o melhor artesão não faz nada sem materiais.
+{0}带了些食物，但附近无人需要食物。	{0} trouxe um pouco de comida, mas ninguém por perto precisava.
+{0}带了些灵石，但附近无人认识灵石。	{0} trouxe algumas Pedras Espirituais, mas ninguém nas proximidades sabia o que eram.
+{0}带了些木材，但石桥使用木头还不足以支撑。	{0} trouxe um pouco de madeira, mas madeira não é suficiente para sustentar uma ponte de pedra.
+{0}稍微拿了点石料，并命令弟子将桥修好。此事正好被路过的官人看见，他对{0}赞许有加。	{0} pegou um pouco de pedra e ordenou que seus discípulos consertassem a ponte. Um oficial que passava por ali viu a cena e elogiou muito {0}.
+[NAME]观摩良久，似乎略有所悟	[NAME] observou por um bom tempo e parece ter compreendido algo.
+[NAME]静坐观想，从中参悟良多	[NAME] sentou-se em meditação contemplativa e obteve muitos insights.
+平	Empate
+不分高低！	Empate!
+%s 与 %s 不分高低！	%s e %s ficaram empatados!
+[NAME]的元神随着阴阳流转，对其中蕴含的大道有了更深的体悟	Com o fluxo do Yin e Yang, o Espírito Primordial de [NAME] alcançou uma compreensão mais profunda do Grande Dao contido nisso.
+[NAME]生长过程中，似乎与环境达成某种契合，灵性活泼了许多！	Durante o crescimento, [NAME] parece ter entrado em harmonia com o ambiente, ficando muito mais espirituoso!
+灵石伴随附近地面的养分一起被地母石碑收入其中，眨眼之间便凝聚出了{0}枚灵石，同时也多出一丝不祥的气息。	A Estela da Mãe Terra absorveu as Pedras Espirituais junto com os nutrientes do solo ao redor. Num piscar de olhos, condensou {0} Pedras Espirituais — e também surgiu um leve traço de aura sinistra.
+[rand_lable=desc_time,desc_place,desc_weather]，[name]在[obj_action][obj]时，突然心中一动，捕捉到一丝灵感，居然成功创造出一件艺术品。	[rand_lable=desc_time,desc_place,desc_weather], enquanto [name] [obj_action] [obj], de repente teve um estalo e capturou um lampejo de inspiração, criando com sucesso uma obra de arte.
+零	Zero
+[NAME]生长过程中，似乎沾染了一些杀伐之气，煞性增强了许多！	Durante o crescimento, [NAME] parece ter sido contaminado por uma aura de massacre, e sua natureza maligna se intensificou bastante!
+[NAME]神识沉浸其中，霎那犹如千年，从中悟出万千大道	[NAME] mergulhou a consciência espiritual; num instante que pareceu mil anos, compreendeu inúmeros aspectos do Grande Dao.
+{0}大显神通，又降低了温度，灾难加剧了。	{0} demonstrou grande poder divino e baixou ainda mais a temperatura, agravando a calamidade.
+[NAME]突然摇了摇枝叶，似乎在释放善意。灵性交感中的众人似乎都觉得心境一亮，似乎通明了许多。	[NAME] de repente sacudiu seus ramos e folhas, como se expressasse boa vontade. Todos em ressonância espiritual sentiram a mente se iluminar, ficando muito mais serena e clara.
+负	Derrota
+[NAME]脑海中出现了真武大帝年幼时参悟大道的景象。恍惚之间，身边多了一张神符，应该是真武神念所化。	Na mente de [NAME] surgiu a visão do Grande Imperador Zhenwu, ainda jovem, contemplando o Dao. Num lampejo de devaneio, apareceu ao seu lado um Talismã Divino — provavelmente condensado da intenção espiritual de Zhenwu.
+代理人地给了他们一点灵石，说道“算了算了，这些灵石你们拿去修炼吧，从他们身上也拿不到什么好东西。”散修看了他一眼，拿了灵石就走了。那几个农民其实是{0}的居民，有大约{1}人成为了我们的信徒。	O agente lhes deu algumas Pedras Espirituais e disse: “Deixa pra lá. Levem essas Pedras Espirituais para cultivar; não dá pra tirar nada de valioso deles.” O cultivador errante olhou para ele, pegou as Pedras Espirituais e foi embora. Aqueles camponeses eram, na verdade, moradores de {0}, e cerca de {1} deles se tornaram nossos seguidores.
+其中已没有了回应。	Não houve mais resposta.
+鸿蒙	Caos Primordial
 混沌	Caos
 玄黄	Céu e Terra
-太昊	Infinito Ilimitado
-太初	Primordial
-元初	Primórdio Ancestral
-太始	Início dos Tempos
-玄穹	Imensidão Celestial
-通天	Conjuração
-玄德	Xuan De
-造化	Destino
-万灵	Panteão
-紫薇	Mirta Roxa
-周天	Ciclo Universal
-阴阳	Yin Yang
-六道	Os Seis Caminhos
-%s真人	%s Espiritualista
-结丹超品，冠绝当世！	Modelagem de núcleo suprema, isso é o melhor do melhor!
-结丹一品！	Formação do Núcleo Nível 1!
-结丹上品！	Formação do Núcleo Nível Superior!
-结丹中品！	Formação do Núcleo Nível Médio!
-结丹下品！	Formação do Núcleo Nível Inferior!
+太昊	Taihao
+太初	Primórdio
+元初	Origem Primordial
+太始	Início Primordial
+玄穹	Firmamento Místico
+通天	Que Alcança o Céu
+玄德	Virtude Mística
+造化	Criação
+万灵	Miríades de Espíritos
+紫薇	Ziwei
+周天	Ciclo Celestial
+阴阳	Yin-Yang
+六道	Seis Caminhos
+%s真人	%s Zhenren
+结丹超品，冠绝当世！	Formação do Núcleo Supremíssima, incomparável nesta era!
+结丹一品！	Formação do Núcleo – 1ª Classe!
+结丹上品！	Formação do Núcleo – Qualidade Superior!
+结丹中品！	Formação do Núcleo – Qualidade Média!
+结丹下品！	Formação do Núcleo – Qualidade Inferior!
 [NAME]突然摇了摇枝叶，似乎在释放善意。可惜附近并没有人修炼，无人察觉此事。	[NAME] sacudiu os galhos, como se estivesse expressando boa vontade. Infelizmente, ninguém nas proximidades estava cultivando, então ninguém percebeu.
 顺着石匣的裂缝，[NAME]轻松的打开了匣子	Seguindo a rachadura no baú de pedra, [NAME] conseguiu abri-lo facilmente.
 打开的石匣中发现一本小册子和一枚丹药，翻开一看竟然是一本可以修行的功法。	Dentro do baú havia um manual e uma pílula. Ao folhear o manual, revelou-se ser uma técnica de cultivo.
@@ -534,9 +534,9 @@ Key	Value
 {0}大显神通，直接修复了一些人家的房屋，灾难缓解了不少。	{0} fez um milagre, restaurou algumas casas e a ajuda no alívio da desgraça foi considerável.
 %s个小时	%s hora(s)
 [NAME]生长过程中，突然像受了某些刺激，猛烈吸收起周围的灵气，煞性大增！	[NAME] parecia ter sido estimulado de repente enquanto crescia, absorveu Qi violentamente e teve um aumento significativo de Maldade.
-[NAME]对着神秘洞穴祈求，希望能获得一些修行界的秘闻。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了[NAME]的祈求。	[NAME] rezou diante da misteriosa caverna e esperava obter alguns segredos do mundo da prática. A misteriosa caverna parecia ter algumas exigências antes de atender às preces de [NAME].
-    %s对着神秘洞穴祈求，希望能获得一些修行界的秘闻。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了%s的祈求。	    %s rezou diante da misteriosa caverna e esperava obter alguns segredos do mundo da prática. A misteriosa caverna parecia ter algumas exigências antes de atender às preces de %s.
-神秘洞穴	Misteriosa Caverna
+[NAME]对着神秘洞穴祈求，希望能获得一些修行界的秘闻。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了[NAME]的祈求。	[NAME] rezou diante da Caverna Misteriosa, esperando obter alguns segredos do mundo do cultivo. A Caverna Misteriosa aproveitou para impor algumas exigências; se forem atendidas, ela responderá à prece de [NAME].
+    %s对着神秘洞穴祈求，希望能获得一些修行界的秘闻。神秘洞穴趁机提出一些要求，如果得到满足，它将会回应了%s的祈求。	    %s rezou diante da Caverna Misteriosa, esperando obter alguns segredos do mundo do cultivo. A Caverna Misteriosa aproveitou para impor algumas exigências; se forem atendidas, ela responderá à prece de %s.
+神秘洞穴	Caverna Misteriosa
 [NAME]没有收集到任何参悟。	[NAME] não obteve nenhuma inspiração.
 {0}尝试安抚他们，展现了处世之道：“那好啊，你们叫它的名字，看它答应谁？”果然，其中一人开始支支吾吾了。群众投来赞许的目光。	{0} tentou apaziguá-los mostrando habilidades sociais: "Certo, chamem pelo nome dela, vejam se ela vai atender alguém?" Como esperado, um deles começou a gaguejar. A multidão olhou com aprovação.
 {0}朝他们喊到：“区区一条狗有什么好争的？我拿走了！”威慑力十足，其中一人被吓得直接逃跑。另一个人开始也很慌张，但还是说狗是她的。{0}将狗还给了她。群众感到此处更加安定。	{0} gritou para eles: "Qual é o grande problema com um cachorro? Eu vou levar!" A intimidante força fez com que um deles fugisse imediatamente. O outro parecia assustado, mas ainda dizia que o cachorro era dela. {0} devolveu o cachorro para ela. A multidão sentiu o local mais seguro.
@@ -605,7 +605,7 @@ Key	Value
 [NAME]悄悄追踪这些弟子的踪迹。发现这是一群{0}的内门弟子在下山历练。\n[NAME]表明来意，想加入他们同行，也好交流心得，有个照应。对方略一思索，同意了你的要求。双方互相切磋心得，你觉得修为有了长足进步。	[NAME] quietamente seguiu o rastro desses discípulos. Descobriu que se tratava de um grupo de discípulos internos de {0} que estavam descendo a montanha para praticar. \n[NAME] expressou seu desejo de se juntar a eles, para trocar ideias ou se ajudar mutuamente. Após uma breve reflexão, eles concordaram com seu pedido. Ambos trocaram experiências e você sentiu que sua prática avançou significativamente.
 贪婪之息：法宝从使用者上吸取灵力时加倍。	Respiração da Ganância: O artefato absorve o dobro de Qi de seu usuário.
 界间幻景·衰亡之世界	Visão da Fenda: Mundo Decrepito
-    神秘洞穴对祭祀很满意，它实现了%s的愿望。	 A caverna misteriosa estava satisfeita com o rito realizado e assim cumpriu o desejo de %s.
+    神秘洞穴对祭祀很满意，它实现了%s的愿望。	    A caverna misteriosa estava satisfeita com o rito realizado e assim cumpriu o desejo de %s.
 金行之界：只有金属性的攻击能造成伤害。	Reino do Metal: Apenas ataques de Metal podem causar dano.
 木行之界：只有木属性的攻击能造成伤害。	Reino da Madeira: Apenas ataques de Madeira podem causar dano.
 水行之界：只有水属性的攻击能造成伤害。	Reino da Água: Apenas ataques de Água podem causar dano.
@@ -727,7 +727,7 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 [NAME]成熟之际，剧烈的煞气震荡九霄，天道震荡。方圆百里的灵气瞬间被抽取一空。灵性交感下，众人也被此异像所动，根基大损。虽说如此，借助天道震荡的机会修炼乃是罕见的机缘，众人亦大有所获。	Enquanto [NAME] amadurecia, uma poderosa energia maligna sacudiu os céus, fazendo o Caminho Celestial vibrar. O Qi a uma grande distância foi imediatamente drenado. Sob essa bênção, todos foram afetados, suas fundações espirituais gravemente danificadas. Mesmo assim, a vibração do Caminho Celestial ofereceu uma rara oportunidade de cultivo, e todos obtiveram grandes ganhos.
 [NAME]成熟之际，剧烈的煞气震荡九霄，天道震荡。方圆百里的灵气瞬间被抽取一空。借助天道震荡的机会修炼虽然十分危险，但亦是罕见的机缘。可惜附近并没有人修炼，无人抓到这一机会。	Enquanto [NAME] amadurecia, um espírito maligno vibrava na estratosfera, assim como o Céu vibrava. O Qi em um raio de várias centenas de milhas foi sugado. Embora fosse extremamente perigoso aproveitar a vibração do Céu para cultivar, também era uma oportunidade rara. Infelizmente, não havia ninguém por perto cultivando, ninguém aproveitou essa oportunidade.
 [NAME]运转元神，尝试参悟%s中蕴含的大道。竟然从中领悟出一套功法。	[NAME] usou o Espírito Primordial e tentou meditar sobre o ensinamento dentro de %s, acabando por perceber um Caminho.
-[%s]·[%s]的袭击即将到来。	[[%s]]·[[%s]]'s ataque está chegando.
+[%s]·[%s]的袭击即将到来。	[%s]·[%s]'s ataque está chegando.
 [NAME]悄悄追踪这几位长老的踪迹。发现这是一群{0}的内门长老在下山历练。\n[NAME]表明来意，想加入他们同行，也好交流心得，有个照应。对方略一思索，同意了你的要求。双方互相切磋心得，你觉得修为有了长足进步。	[NAME] seguiu silenciosamente o rastro desses anciãos. Descobriu que se tratava de um grupo de anciãos internos de {0} que estavam descendo a montanha para treinar. \n[NAME] expressou sua intenção e quis se juntar a eles para trocar ideias e obter companhia. Depois de uma breve reflexão, eles concordaram com o pedido. Ambos trocaram experiências e você sentiu um grande progresso no cultivo.
 [NAME]生长过程中，树干之上忽有异状。竟然不知何时分泌出一些事物。	Enquanto [NAME] crescia, algo estranho apareceu no tronco da árvore. Quem sabe quando, mas algumas coisas foram secretadas.
 请选择跟随目标	Escolha um alvo para seguir
@@ -988,16 +988,16 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 <font color=#FFF3D0>献祭要求：	<font color=#FFF3D0>Requisitos de Sacrifício:
 %d岁以下	Até %d anos.
 的	's
-[SCHOOL]的弟子勃然大怒，祭出法宝斩向[NAME]。[NAME]以一对多，不慌不忙，施展出师门所传的剑法对敌。一时间天空剑气纵横。	Os discípulos de [SCHOOL] ficaram furiosos, sacaram seus artefatos e os brandiram contra [NAME]。[NAME] enfrentou vários oponentes sem pressa, demonstrando a esgrima transmitida por sua seita. Em um instante, a espada qi preencheu o céu.  
-[NAME]技高一筹，瞅准一个破绽，将对方领头的弟子一剑枭首，对方溃败，作鸟兽散。	[NAME] tinha uma habilidade superior, encontrou uma brecha e, com um único golpe de espada, decapitou o líder adversário. Sem liderança, o restante fugiu em debandada.  
-有约{0}位流民加入了{1}。	Cerca de {0} refugiados se juntaram a {1}。  
-[SCHOOL]的弟子勃然大怒，祭出法宝斩向[NAME]。[NAME]也祭出法宝对敌，双方战作一团。	Os discípulos de [SCHOOL] ficaram furiosos, sacaram seus artefatos e os brandiram contra [NAME]。[NAME] também invocou um artefato para se defender, e as duas partes entraram em combate.  
-双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。	Os dois lados lutaram por vários turnos. [NAME] sentiu uma queda em seu Qi e, em um momento de descuido, seu feitiço foi quebrado. Em meio ao caos, [NAME] fugiu, sendo atingido por dois golpes inimigos, mas conseguiu escapar com vida.  
-[NAME]打开了信笺，发现信上只写了“仙途之约，轮回再续”这八个让人一头雾水的字。信笺最后并附了一张地图，似乎是去某个地点的路。	[NAME] abriu a carta e descobriu que continha apenas oito palavras enigmáticas: "O pacto do caminho imortal será renovado na próxima reencarnação." No final da carta, havia um mapa, aparentemente indicando um destino.  
-期间，约{0}人死亡，{1}人失踪，{2}人逃离了{3}。	Durante esse período, cerca de {0} morreram, {1} desapareceram e {2} fugiram de {3}。  
-即便如此，还是有约{0}人死亡，{1}人失踪，{2}人逃离了{3}。	Ainda assim, cerca de {0} morreram, {1} desapareceram e {2} fugiram de {3}。  
-[SCHOOL]的弟子勃然大怒，挥手放出七八道阴森森的剑光向[NAME]杀来。[NAME]以一对多，不慌不忙，施展出师门所传的剑法对敌。一时间天空剑气纵横。	Os discípulos de [SCHOOL] ficaram furiosos e conjuraram sete ou oito raios sombrios de espada contra [NAME]。[NAME] enfrentou vários oponentes sem pressa, demonstrando a esgrima transmitida por sua seita. Em um instante, a espada qi preencheu o céu.  
-[SCHOOL]的弟子勃然大怒，挥手放出七八道阴森森的剑光向[NAME]杀来。[NAME]也祭出法宝对敌，双方战作一团。	Os discípulos de [SCHOOL] ficaram furiosos e conjuraram sete ou oito raios sombrios de espada contra [NAME]。[NAME] também invocou um artefato para se defender, e as duas partes entraram em combate.  
+[SCHOOL]的弟子勃然大怒，祭出法宝斩向[NAME]。[NAME]以一对多，不慌不忙，施展出师门所传的剑法对敌。一时间天空剑气纵横。	Os discípulos de [SCHOOL] ficaram furiosos, sacaram seus artefatos e os brandiram contra [NAME]。[NAME] enfrentou vários oponentes sem pressa, demonstrando a esgrima transmitida por sua seita. Em um instante, a espada qi preencheu o céu.
+[NAME]技高一筹，瞅准一个破绽，将对方领头的弟子一剑枭首，对方溃败，作鸟兽散。	[NAME] tinha uma habilidade superior, encontrou uma brecha e, com um único golpe de espada, decapitou o líder adversário. Sem liderança, o restante fugiu em debandada.
+有约{0}位流民加入了{1}。	Cerca de {0} refugiados se juntaram a {1}。
+[SCHOOL]的弟子勃然大怒，祭出法宝斩向[NAME]。[NAME]也祭出法宝对敌，双方战作一团。	Os discípulos de [SCHOOL] ficaram furiosos, sacaram seus artefatos e os brandiram contra [NAME]。[NAME] também invocou um artefato para se defender, e as duas partes entraram em combate.
+双方斗了几个回合，[NAME]感觉灵气不继，一时疏忽被对方破了法术。[NAME]慌乱中夺路逃窜，虽然中了对方两招，但顺利逃脱了性命。	Os dois lados lutaram por vários turnos. [NAME] sentiu uma queda em seu Qi e, em um momento de descuido, seu feitiço foi quebrado. Em meio ao caos, [NAME] fugiu, sendo atingido por dois golpes inimigos, mas conseguiu escapar com vida.
+[NAME]打开了信笺，发现信上只写了“仙途之约，轮回再续”这八个让人一头雾水的字。信笺最后并附了一张地图，似乎是去某个地点的路。	[NAME] abriu a carta e descobriu que continha apenas oito palavras enigmáticas: "O pacto do caminho imortal será renovado na próxima reencarnação." No final da carta, havia um mapa, aparentemente indicando um destino.
+期间，约{0}人死亡，{1}人失踪，{2}人逃离了{3}。	Durante esse período, cerca de {0} morreram, {1} desapareceram e {2} fugiram de {3}。
+即便如此，还是有约{0}人死亡，{1}人失踪，{2}人逃离了{3}。	Ainda assim, cerca de {0} morreram, {1} desapareceram e {2} fugiram de {3}。
+[SCHOOL]的弟子勃然大怒，挥手放出七八道阴森森的剑光向[NAME]杀来。[NAME]以一对多，不慌不忙，施展出师门所传的剑法对敌。一时间天空剑气纵横。	Os discípulos de [SCHOOL] ficaram furiosos e conjuraram sete ou oito raios sombrios de espada contra [NAME]。[NAME] enfrentou vários oponentes sem pressa, demonstrando a esgrima transmitida por sua seita. Em um instante, a espada qi preencheu o céu.
+[SCHOOL]的弟子勃然大怒，挥手放出七八道阴森森的剑光向[NAME]杀来。[NAME]也祭出法宝对敌，双方战作一团。	Os discípulos de [SCHOOL] ficaram furiosos e conjuraram sete ou oito raios sombrios de espada contra [NAME]。[NAME] também invocou um artefato para se defender, e as duas partes entraram em combate.
 有约{0}名群众逃离了{1}。	Cerca de {0} pessoas da multidão fugiram de {1}。
 [SCHOOL]的弟子恨恨的看了看你，但摄于你的修为，并没有做什么过激的事。	Os discípulos de [SCHOOL] olharam amargamente para [NAME], mas foram surpreendidos pela habilidade de [ITS] e não tomaram nenhuma ação precipitada。
 [NAME]以神念仔细查看,发现凤纹玉佩之上的纹理似乎隐藏着一些几乎湮没的残余信息，其中似乎提到了此物是某种封印的一部分……凶险异常之类的信息。	[NAME] concentrou-se enquanto examinava e descobriu que a textura da peça ocultava algumas informações indicando que este objeto fazia parte de um selo… informações extremamente perigosas.
@@ -1173,22 +1173,22 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 [NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将一本上古时期人类炼体大能所创的功法赠予[NAME]。希望两派可以在将来继续守望相助，友谊长存。	[NAME] visitou o líder de [SCHOOL], que agradeceu profundamente pelos cuidados que [NAME] e sua seita tiveram com os discípulos de [SCHOOL] ao longo dos anos. Em nome de [SCHOOL], [HE] presenteou [NAME] com um antigo manual de cultivo corporal criado por um mestre da antiguidade. Ele espera que as duas seitas continuem a se apoiar mutuamente no futuro, preservando uma amizade duradoura.
 [NAME]拜访了[SCHOOL]的掌门，掌门十分感谢[NAME]的门派这些年对[SCHOOL]的弟子的关照。他代表[SCHOOL]将一枚玄武灵玉赠予[NAME]。希望两派可以在将来继续守望相助，友谊长存。	[NAME] visitou o líder de [SCHOOL], que agradeceu profundamente pelos cuidados que [NAME] e sua seita tiveram com os discípulos de [SCHOOL] ao longo dos anos. Em nome de [SCHOOL], [HE] presenteou [NAME] com uma Jade Espiritual da Tartaruga Negra. Ele espera que as duas seitas continuem a se apoiar mutuamente no futuro, preservando uma amizade duradoura.
 {0}收编中断了。	A incorporação de {0} foi interrompida.
-[NAME]根本无法忍受洞府中的真火，只得无奈离去。	[NAME] não conseguiu suportar o calor extremo e teve que partir.  
-[size=12][color=#000000]口…口口口…口……此物名为“沙发”，凡人以此为休憩之所，其柔软舒适，可坐可卧，确有妙用……口口口……口……[/color][/size]	[size=12][color=#000000]Este item é chamado de "Sofá". Os mortais o usam para descansar ou até mesmo para dormir.[/color][/size]  
-[size=12][color=#000000]口…口口口…口……此界有些凡人颇有闲趣，竟会为宠物打造床铺，吾寻思若能送二师兄养的那只火灵猫一个猫床，想必有趣……口口口……口……[/color][/size]	[size=12][color=#000000]Neste mundo, alguns mortais gostam de fazer camas para seus animais de estimação. Talvez fosse interessante dar uma cama para o gato de fogo do segundo irmão aprendiz…[/color][/size]  
-[size=12][color=#000000]口…口口口…口……此物叫做“电灯”，以“雷霆之力”灌注可以发光照明，比烛火之流明亮不知多少，有趣有趣………口口口……口……[/color][/size]	[size=12][color=#000000]Este item é chamado de "Lâmpada". Ele usa o "poder do trovão" para iluminar os ambientes. É bastante interessante.[/color][/size]  
-[size=12][color=#000000]口…口口口…口……这里的凡人似乎特别喜欢猫这种动物，就连地毯都画有猫爪印记，在我们世界，只有神力超群的凶兽神兽才会得人喜爱，真的不能理解……口口口……口……[/color][/size]	[size=12][color=#000000]Os mortais aqui parecem gostar muito de gatos. Até mesmo os tapetes têm pegadas de gatos desenhadas. No nosso mundo, apenas feras divinas ou bestas ferozes são admiradas. Não consigo entender…[/color][/size]  
-[size=12][color=#000000]口…口口口…口……此物名为“电风扇”，注入“雷霆之力”便会飞速旋转，产生凉风，虽不如灵符有效，但也让人聊以自慰……口口口……口……[/color][/size]	[size=12][color=#000000]Este item é chamado de "Ventilador Elétrico". Ele usa o poder do trovão para girar rapidamente e gerar uma brisa fresca. Embora não seja tão eficaz quanto um talismã espiritual, ainda traz um certo alívio.[/color][/size]  
-[size=12][color=#000000]口…口口口…口……此界凡人颇爱许愿祈祷之行为，此物名唤“祈愿灯”，便是祈祷的器具之一…有点像我们的孔明灯不是嘛？……口口口……口……[/color][/size]	[size=12][color=#000000]Os mortais deste mundo gostam muito de fazer preces e desejos. Este item é chamado de "Lanterna dos Desejos" e é usado para orações… Se parece um pouco com nossas lanternas Kongming, não é?[/color][/size]  
-[size=12][color=#000000]口…口口口…口……此界凡人使用“汽车”来长途奔波，此物就是所谓的“车站”，好似我们世界的驿站一般，吾见之有趣，便使了个法术偷偷摄走一座车站，给你们见识见识……口口口……口……[/color][/size]	[size=12][color=#000000]Os mortais deste mundo usam "carros" para viajar longas distâncias. Este local é chamado de "Estação", semelhante a uma estação de correios em nosso mundo. Achei interessante e usei um feitiço para levá-la e mostrar a vocês…[/color][/size]  
-[size=12][color=#000000]口…口口口…口……此物名为“保险箱”，凡人用来保管私密之物。说实话，真觉得没什么用……随随便便就能被打开……口口口……口……[/color][/size]	[size=12][color=#000000]Este item é chamado de "Cofre". Os mortais o usam para guardar seus pertences mais valiosos. Para ser honesto, não parece muito útil… Pode ser facilmente aberto…[/color][/size]  
-[size=12][color=#000000]口…口口口…口……自从修行有成，便再也没有尝试过堆雪人这种凡人的游戏了，反而被困在此界动了尘思，罢了，便将此物封印，也算留个念想……口口口……口……[/color][/size]	[size=12][color=#000000]Desde que alcancei sucesso na cultivação, nunca mais fiz um boneco de neve, como fazem os mortais. Mas estando preso neste mundo, senti um desejo repentino… Enfim, selarei este aqui como lembrança.[/color][/size]  
-[size=12][color=#000000]口…口口口…口……这个铁镐倒是让我想起外门弟子的那些日子，姑且留个纪念吧……口口口……口……[/color][/size]	[size=12][color=#000000]Este picareta me lembra dos dias em que fui um discípulo externo. Guardarei como recordação…[/color][/size]  
-[size=12][color=#000000]口…口口口…口……这里的凡人确实有趣，总是能在各种地方找到乐趣，比如这把叫“自宫匕首”玩具剑，哈哈……口口口……口……[/color][/size]	[size=12][color=#000000]Os mortais daqui são realmente interessantes. Conseguem encontrar diversão em qualquer coisa. Como essa espada de brinquedo chamada "Adaga de Autocastração". Hahaha![/color][/size]  
-[size=12][color=#000000]口…口口口…口……木头做的剑啊，倒是让我回忆起刚学剑术时候的日子……口口口……口……[/color][/size]	[size=12][color=#000000]Uma espada de madeira? Isso me faz lembrar dos dias em que comecei a aprender esgrima…[/color][/size]  
-[size=12][color=#000000]口…口口口…口……此界的兵器冶炼之术倒是也别出机杼，至少我们世界若不用法力淬炼，很难将青铜剑打造到这个地步……口口口……口……[/color][/size]	[size=12][color=#000000]A arte da forja de armas neste mundo é bastante única. Sem o uso de magia, seria difícil criar uma espada de bronze como esta no nosso mundo…[/color][/size]  
-[size=12][color=#000000]口…口口口…口……这是我在这个世界上第一个朋友阿迪特送的礼物，和凡人交朋友，真的是很久之前的记忆了……口口口……口……[/color][/size]	[size=12][color=#000000]Este é um presente do primeiro amigo que fiz neste mundo. Já faz muito tempo desde a última vez que fiz amizade com um mortal…[/color][/size]  
-[size=12][color=#000000]口…口口口…口……这是我在这个世界上第一个朋友阿迪特送的礼物，和凡人交朋友，真的是很久之前的记忆了……口口口……口……[/color][/size]	[size=12][color=#000000]Este é um presente do primeiro amigo que fiz neste mundo. Faz tanto tempo desde que fiz amizade com mortais…[/color][/size]
+[NAME]根本无法忍受洞府中的真火，只得无奈离去。	[NAME] não conseguiu suportar o calor extremo e teve que partir.
+[size=12][color=#000000]口…口口口…口……此物名为“沙发”，凡人以此为休憩之所，其柔软舒适，可坐可卧，确有妙用……口口口……口……[/color][/size]	[size=12][color=#000000]Este item é chamado de "Sofá". Os mortais o usam para descansar ou até mesmo para dormir.[/color][/size]
+[size=12][color=#000000]口…口口口…口……此界有些凡人颇有闲趣，竟会为宠物打造床铺，吾寻思若能送二师兄养的那只火灵猫一个猫床，想必有趣……口口口……口……[/color][/size]	[size=12][color=#000000]Neste mundo, alguns mortais gostam de fazer camas para seus animais de estimação. Talvez fosse interessante dar uma cama para o gato de fogo do segundo irmão aprendiz…[/color][/size]
+[size=12][color=#000000]口…口口口…口……此物叫做“电灯”，以“雷霆之力”灌注可以发光照明，比烛火之流明亮不知多少，有趣有趣………口口口……口……[/color][/size]	[size=12][color=#000000]Este item é chamado de "Lâmpada". Ele usa o "poder do trovão" para iluminar os ambientes. É bastante interessante.[/color][/size]
+[size=12][color=#000000]口…口口口…口……这里的凡人似乎特别喜欢猫这种动物，就连地毯都画有猫爪印记，在我们世界，只有神力超群的凶兽神兽才会得人喜爱，真的不能理解……口口口……口……[/color][/size]	[size=12][color=#000000]Os mortais aqui parecem gostar muito de gatos. Até mesmo os tapetes têm pegadas de gatos desenhadas. No nosso mundo, apenas feras divinas ou bestas ferozes são admiradas. Não consigo entender…[/color][/size]
+[size=12][color=#000000]口…口口口…口……此物名为“电风扇”，注入“雷霆之力”便会飞速旋转，产生凉风，虽不如灵符有效，但也让人聊以自慰……口口口……口……[/color][/size]	[size=12][color=#000000]Este item é chamado de "Ventilador Elétrico". Ele usa o poder do trovão para girar rapidamente e gerar uma brisa fresca. Embora não seja tão eficaz quanto um talismã espiritual, ainda traz um certo alívio.[/color][/size]
+[size=12][color=#000000]口…口口口…口……此界凡人颇爱许愿祈祷之行为，此物名唤“祈愿灯”，便是祈祷的器具之一…有点像我们的孔明灯不是嘛？……口口口……口……[/color][/size]	[size=12][color=#000000]Os mortais deste mundo gostam muito de fazer preces e desejos. Este item é chamado de "Lanterna dos Desejos" e é usado para orações… Se parece um pouco com nossas lanternas Kongming, não é?[/color][/size]
+[size=12][color=#000000]口…口口口…口……此界凡人使用“汽车”来长途奔波，此物就是所谓的“车站”，好似我们世界的驿站一般，吾见之有趣，便使了个法术偷偷摄走一座车站，给你们见识见识……口口口……口……[/color][/size]	[size=12][color=#000000]Os mortais deste mundo usam "carros" para viajar longas distâncias. Este local é chamado de "Estação", semelhante a uma estação de correios em nosso mundo. Achei interessante e usei um feitiço para levá-la e mostrar a vocês…[/color][/size]
+[size=12][color=#000000]口…口口口…口……此物名为“保险箱”，凡人用来保管私密之物。说实话，真觉得没什么用……随随便便就能被打开……口口口……口……[/color][/size]	[size=12][color=#000000]Este item é chamado de "Cofre". Os mortais o usam para guardar seus pertences mais valiosos. Para ser honesto, não parece muito útil… Pode ser facilmente aberto…[/color][/size]
+[size=12][color=#000000]口…口口口…口……自从修行有成，便再也没有尝试过堆雪人这种凡人的游戏了，反而被困在此界动了尘思，罢了，便将此物封印，也算留个念想……口口口……口……[/color][/size]	[size=12][color=#000000]Desde que alcancei sucesso na cultivação, nunca mais fiz um boneco de neve, como fazem os mortais. Mas estando preso neste mundo, senti um desejo repentino… Enfim, selarei este aqui como lembrança.[/color][/size]
+[size=12][color=#000000]口…口口口…口……这个铁镐倒是让我想起外门弟子的那些日子，姑且留个纪念吧……口口口……口……[/color][/size]	[size=12][color=#000000]Este picareta me lembra dos dias em que fui um discípulo externo. Guardarei como recordação…[/color][/size]
+[size=12][color=#000000]口…口口口…口……这里的凡人确实有趣，总是能在各种地方找到乐趣，比如这把叫“自宫匕首”玩具剑，哈哈……口口口……口……[/color][/size]	[size=12][color=#000000]Os mortais daqui são realmente interessantes. Conseguem encontrar diversão em qualquer coisa. Como essa espada de brinquedo chamada "Adaga de Autocastração". Hahaha![/color][/size]
+[size=12][color=#000000]口…口口口…口……木头做的剑啊，倒是让我回忆起刚学剑术时候的日子……口口口……口……[/color][/size]	[size=12][color=#000000]Uma espada de madeira? Isso me faz lembrar dos dias em que comecei a aprender esgrima…[/color][/size]
+[size=12][color=#000000]口…口口口…口……此界的兵器冶炼之术倒是也别出机杼，至少我们世界若不用法力淬炼，很难将青铜剑打造到这个地步……口口口……口……[/color][/size]	[size=12][color=#000000]A arte da forja de armas neste mundo é bastante única. Sem o uso de magia, seria difícil criar uma espada de bronze como esta no nosso mundo…[/color][/size]
+[size=12][color=#000000]口…口口口…口……此物倒是让我想起外门弟子的那些日子，姑且留个纪念吧……口口口……口……[/color][/size]	[size=12][color=#000000]Este item me faz lembrar dos tempos em que eu era um discípulo externo, então deixei uma pequena lembrança...[/color][/size]
+[size=12][color=#000000]口…口口口…口……这是我在这个世界上第一个朋友阿迪特送的礼物，和凡人交朋友，真的是很久之前的记忆了……口口口……口……[/color][/size]	[size=12][color=#000000]Este é um presente do primeiro amigo que fiz neste mundo, Adit. Faz tanto tempo desde que fiz amizade com mortais...[/color][/size]
 [size=12][color=#000000]口…口口口…口……此物名为“光盘”，据说在此界也算是上古遗物，这东西小小一片就能记录无穷的消息，比元神高人的神念留影都不遑多让，而且代价极其低廉，不需要任何法力就能批量生产，真的是神妙无比，没想到凡人居然能做到仙人都做不到的事，有趣有趣…口口口……口……[/color][/size]	[size=12][color=#000000]Este objeto é chamado de “DVD”, dizem que neste mundo também é considerado uma relíquia antiga. Um pequeno disco capaz de armazenar infinitas informações, rivalizando até mesmo as memórias espirituais dos mestres imortais. Além disso, seu custo é incrivelmente baixo e pode ser produzido em massa sem o uso de qualquer energia mágica. Realmente maravilhoso… Nunca pensei que mortais pudessem fazer algo que nem mesmo os imortais conseguem. Interessante, interessante…[/color][/size]
 [size=12][color=#000000]口…口口口…口……此界凡人多以此物长途跋涉，省却了饲养骡马的繁琐，构思确实巧妙……口口口……口……[/color][/size]	[size=12][color=#000000]Os mortais deste mundo usam esse objeto para viajar longas distâncias sem a necessidade de criar mulas ou cavalos. Um conceito verdadeiramente engenhoso…[/color][/size]
 [size=12][color=#000000]口…口口口…口……此玩偶是名唤“羊驼”的奇特动物，确实闻所未闻的物种……口口口……口……[/color][/size]	[size=12][color=#000000]Este boneco representa um animal peculiar chamado “Alpaca”. Realmente uma espécie que nunca ouvi falar…[/color][/size]
@@ -1366,18 +1366,18 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 [NAME]充满好奇的在离恨海中前进，却因为神识太低而迷了路，最终饶了好久才从中脱离出来。[NAME]对此地感到十分恐惧，慌乱的跑回了门派。	[NAME], cheio de curiosidade, avançou para o Mar do Desgosto, mas acabou se perdendo devido à falta de percepção. Depois de andar em círculos por horas, a saída finalmente apareceu. [NAME] ficou aterrorizado com o lugar e fugiu de volta para o secto.
 [NAME]充满好奇的在离恨海中前进，但他却无法抵御此地神秘的雾气的侵蚀，随着深入其中，[NAME]越来越难受，最终还是无法忍受这痛苦，慌乱的跑回了门派。	[NAME], cheio de curiosidade, avançou para o Mar do Desgosto, mas não conseguiu resistir à corrosão da névoa presente. À medida que se aprofundava, a dor se tornava insuportável e, no final, [IT] teve que fugir de volta para o secto.
 [NAME]充满好奇的在离恨海中前进，竟然在离恨海的中心发现了一具仙人遗蜕。[NAME]对仙人遗蜕充满兴趣，但是修为太低，被遗蜕遗留的神秘力量排斥而不得靠近。[NAME]十分不开心，对着遗蜕吐了口口水，气呼呼的离开了此地。	[NAME], cheio de curiosidade, avançou para o Mar do Desgosto. Ao chegar no centro da área, encontrou os restos de um Imortal. [NAME] estava muito intrigado pelos restos do Imortal, mas devido ao cultivo insuficiente, não pôde se aproximar devido à força intensa que os restos exalavam. [NAME] ficou extremamente irritado e cuspiu nos restos com desgosto antes de partir.
-[NAME]充满好奇的在离恨海中前进，竟然在离恨海的中心发现了一具仙人遗蜕。可惜[NAME]悟性太差，他根本没有意识到这是一场天大的奇遇，只是笑嘻嘻的摸了摸仙人遗蜕的脸，扭头离开了此地。	[NAME], cheio de curiosidade, avançou para o Mar do Desgosto. Ao chegar no centro da área, encontrou os restos de um Imortal. A inteligência de [NAME] era insuficiente para perceber a incrível oportunidade que havia encontrado e, por isso, apenas beliscou o rosto do Imortal, sorrindo como um tolo, antes de partir.
-[NAME]渐渐深入水下，却因为神识太低而迷了路，最终饶了好久才从中脱离出来。[NAME]无奈，只能离开此地。	[NAME] penetrou cada vez mais fundo na água, mas devido à falta de percepção, acabou se perdendo. Depois de andar em círculos por horas, a saída finalmente apareceu. [NAME] percebeu que continuar seria um esforço fútil e não teve outra escolha senão partir.
-[NAME]渐渐深入水下，但他的体质却无法抵御此地神秘的雾气的侵蚀，随着深入其中，痛苦逐渐无法忍受。[NAME]无奈，只能离开此地。	[NAME] foi se aprofundando na água, mas não conseguiu resistir à corrosão da névoa presente. À medida que se aprofundava, a dor se tornava cada vez mais insuportável. [NAME] percebeu que continuar seria um esforço fútil e não teve outra escolha senão partir.
-[NAME]渐渐深入水下，竟然在离恨海的中心发现了一具仙人遗蜕。但是[NAME]修为太低，被遗蜕遗留的神秘力量排斥而不得靠近，无奈之下只能离开此地。	[NAME] penetrou cada vez mais fundo na água e, ao chegar ao centro do Mar do Desgosto, encontrou o corpo mortal de um Imortal. Como o cultivo de [NAME] era insuficiente, a força intensa exalada pelos restos o impediu de se aproximar, e sem outra opção, [IT] teve que partir.
-[NAME]渐渐深入水下，竟然在离恨海的中心发现一片鱼虫绝迹之地。[NAME]颇感奇怪，但没有多想便路过此处。最终一无所获，离开此地。	[NAME] foi se aprofundando na água e encontrou o lugar onde peixes e insetos haviam desaparecido no centro do Mar do Desgosto. [NAME] achou isso estranho, mas não deu muita atenção e passou reto. No final, não obteve nenhum resultado e teve que partir.
-[NAME]进入离恨海之中，瞬间陷入了层层叠叠的幻境里。[NAME]沉浸在自己的过去中，无法突破那些反复轮回的喜怒哀乐，终于心智崩溃，失去了意识。	Assim que [NAME] entrou no Mar do Desgosto, foi como se tivesse entrado em uma ilusão. [NAME] se imergiu no passado e não conseguiu quebrar os ciclos recorrentes de emoções. No final, teve um colapso mental e perdeu a consciência.
-等[NAME]再次醒来，发现自己躺在离恨海边缘，竟然连一步都没有踏入其中。	Quando [NAME] acordou, percebeu que estava deitado na borda do Mar do Desgosto, sem sequer ter dado um passo para dentro dele.
-[NAME]心知龙崖石刻现世不会超过五天，赶忙找了一块空地坐下，施展法力抵御真火，以神念参悟石刻。	[NAME] sabia que as inscrições do Penhasco do Dragão não ficariam por mais de cinco dias, então rapidamente encontrou um espaço vazio, lançou um feitiço para resistir ao calor extremo e sentou-se para meditar sobre as inscrições.
-[NAME]觉得有点奇怪，怎么又遇到一个磨针的老太太。	[NAME] achou um pouco estranho como encontrou outra velha polindo agulhas.
-[NAME]懒得搭话，转身离去了。	[NAME] não estava com vontade de conversar, então virou-se e partiu.
-{0}啥都没说。群众认为{0}是怕了。	{0} não disse nada. A multidão achou que {0} estava com medo.
-{0}尝试使用处世手段安抚他，但他看起来就是来找茬的，毫无办法。	{0} tentou acalmá-lo com habilidades sociais, mas ele parecia ali apenas para arranjar confusão, então não houve jeito.
+[NAME]充满好奇的在离恨海中前进，竟然在离恨海的中心发现了一具仙人遗蜕。可惜[NAME]悟性太差，他根本没有意识到这是一场天大的奇遇，只是笑嘻嘻的摸了摸仙人遗蜕的脸，扭头离开了此地。	[NAME], cheio de curiosidade, avançou pelo Mar do Desgosto e, no centro, acabou encontrando a relíquia mortal de um Imortal. Infelizmente, a compreensão de [NAME] era péssima; ele nem percebeu que aquilo era uma chance raríssima. Só deu risadinhas, tocou o rosto da relíquia do Imortal e foi embora.
+[NAME]渐渐深入水下，却因为神识太低而迷了路，最终饶了好久才从中脱离出来。[NAME]无奈，只能离开此地。	[NAME] foi se aprofundando debaixo d’água, mas, por ter a Consciência Espiritual muito baixa, acabou se perdendo. Depois de vagar por um bom tempo, conseguiu se desvencilhar e sair. Sem alternativa, [NAME] teve que deixar o local.
+[NAME]渐渐深入水下，但他的体质却无法抵御此地神秘的雾气的侵蚀，随着深入其中，痛苦逐渐无法忍受。[NAME]无奈，只能离开此地。	[NAME] foi se aprofundando debaixo d’água, mas sua constituição não conseguiu resistir à corrosão da névoa misteriosa deste lugar. À medida que avançava, a dor foi ficando insuportável. Sem alternativa, [NAME] teve que deixar o local.
+[NAME]渐渐深入水下，竟然在离恨海的中心发现了一具仙人遗蜕。但是[NAME]修为太低，被遗蜕遗留的神秘力量排斥而不得靠近，无奈之下只能离开此地。	[NAME] foi se aprofundando debaixo d’água e, no centro do Mar do Desgosto, encontrou a relíquia mortal de um Imortal. Porém, o cultivo de [NAME] era baixo demais e ele foi repelido pela força misteriosa deixada ali, sem conseguir se aproximar. Sem alternativa, [NAME] teve que deixar o local.
+[NAME]渐渐深入水下，竟然在离恨海的中心发现一片鱼虫绝迹之地。[NAME]颇感奇怪，但没有多想便路过此处。最终一无所获，离开此地。	[NAME] foi se aprofundando debaixo d’água e, no centro do Mar do Desgosto, encontrou uma área onde nem peixes nem insetos existiam. [NAME] achou bem estranho, mas não pensou muito e apenas passou por ali. No fim, não encontrou nada e deixou o local.
+[NAME]进入离恨海之中，瞬间陷入了层层叠叠的幻境里。[NAME]沉浸在自己的过去中，无法突破那些反复轮回的喜怒哀乐，终于心智崩溃，失去了意识。	Assim que [NAME] entrou no Mar do Desgosto, caiu instantaneamente em ilusões sobrepostas. [NAME] afundou no próprio passado, incapaz de romper o ciclo repetido de alegria, raiva, tristeza e prazer. No fim, sua mente colapsou e ele perdeu a consciência.
+等[NAME]再次醒来，发现自己躺在离恨海边缘，竟然连一步都没有踏入其中。	Quando [NAME] acordou novamente, percebeu que estava deitado na margem do Mar do Desgosto — sem sequer ter dado um passo para dentro dele.
+[NAME]心知龙崖石刻现世不会超过五天，赶忙找了一块空地坐下，施展法力抵御真火，以神念参悟石刻。	[NAME] sabia que as Inscrições do Penhasco do Dragão não permaneceriam no mundo por mais de cinco dias. Então, apressou-se em encontrar um lugar livre para se sentar, usou seu poder para resistir ao Fogo Verdadeiro e, com a Consciência Espiritual, contemplou as inscrições.
+[NAME]觉得有点奇怪，怎么又遇到一个磨针的老太太。	[NAME] achou um pouco estranho: como assim, outra velha polindo agulhas?
+[NAME]懒得搭话，转身离去了。	[NAME] não estava a fim de conversar e foi embora.
+{0}啥都没说。群众认为{0}是怕了。	{0} não disse nada. A multidão achou que {0} ficou com medo.
+{0}尝试使用处世手段安抚他，但他看起来就是来找茬的，毫无办法。	{0} tentou acalmá-lo com artifícios sociais, mas ele claramente estava ali só para arrumar confusão; não havia o que fazer.
 {0}说：“居然敢侮辱我神，让我消灭你！”说完就与他打了起来。最后总算是战胜了他。但转眼一看，大家都逃走了。	{0} disse: "Você se atreve a insultar meu Deus, deixe-me acabar com você!" Então começaram a brigar. No final, {0} o derrotou. Quando virou, percebeu que todos tinham fugido.
 {0}摆出邀请的手势：“既然你有意见，何不上台来直抒胸臆？”那人不好意思地走了。传道进行顺利。	{0} fez um gesto convidativo: "Já que você tem algo a dizer, por que não sobe aqui e expressa seus pensamentos?" A pessoa, sem jeito, saiu correndo. A pregação seguiu sem problemas.
 {0}说：“你这么做很没有道理，我要和你辩一辩。”但他不理不睬，就是大喊大叫。	{0} disse: "O que você está fazendo não faz sentido, quero debater com você." Mas o outro não deu ouvidos e só ficou gritando.
@@ -1465,50 +1465,50 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 [NAME]进入仙府在大殿发现一尊栩栩如生，盘膝而坐的塑像，塑像前有一小桌，桌上摆放有一本秘籍与一张符箓。[NAME]知道这便是袁若雪的仙人遗蜕，对遗蜕鞠躬致敬，而后收起桌上的宝物，恭敬离去。	[NAME] entrou no Abode Celestial e encontrou uma estátua vívida, sentada com as pernas cruzadas. Na frente da estátua havia uma pequena mesa, sobre a qual estavam um manual e um talismã. [NAME] sabia que se tratava dos restos imortais de Yuan Ruoxue, então fez uma reverência respeitosa, pegou os tesouros da mesa e partiu com respeito.
 [NAME]刚进入仙府，浑身的灵气突然沸腾，竟然有失控的迹象。好像整座仙府的禁制在排斥身负天谴之人的窥探。[NAME]无可奈何，只能离去。	[NAME] entrou no Abode Celestial e de repente sua energia espiritual começou a ferver, parecendo haver sinais de perda de controle. Parecia que todas as restrições do Abode estavam rejeitando a presença de alguém marcado pela maldição celestial. [NAME] não teve escolha a não ser partir.
 在众人合力施法的关键时刻，[NAME]突然发难，剧烈的法力反噬重创了其他参与者，也让整个城镇化为尸山血海。[NAME]不费吹灰之力的击杀了这些[SCHOOL]的弟子，搜刮了他们的宝物。	No momento crucial, quando todos estavam unindo seus poderes, [NAME] de repente atacou. Uma forte reação mágica atingiu os outros participantes e transformou a cidade inteira em um mar de corpos e sangue. [NAME] matou facilmente os discípulos de [SCHOOL] e então saqueou seus tesouros.
-{0}没有阻止她。大妈声音越来越大，群众觉得很讨厌，纷纷离去了。	{0} não a impediu. A voz da mulher foi ficando cada vez mais alta, e a multidão achou irritante, então foi embora.
-{0}尝试安抚她，但他看起来就是来找茬的，毫无办法。	{0} tentou acalmá-la, mas parecia que ela estava ali só para arranjar confusão, então não teve jeito.
-{0}说：“住口！你竟敢妄议神明？让你尝尝神的……”大妈居然没等话说完就骂了回来：“你们居然欺负一个弱女子？就这样还想让别人供奉？我呸！”群众对{0}同样表示唾弃。	{0} disse: "Cale a boca! Você ousa falar sobre os deuses? Vamos ver o que o divino..." A mulher o interrompeu no meio da frase: "Vocês estão se aproveitando de uma mulher fraca? E ainda querem que os outros venerem vocês? Que vergonha!" A multidão também expressou desdém por {0}.
-{0}摆出邀请的手势：“既然你觉得好，来加入我们吧。”大妈好像没听见一样，还在叫好。	{0} fez um gesto de convite: "Já que você acha que está bom, venha se juntar a nós." A mulher pareceu não ouvir nada e continuou a gritar.
-{0}说道：“啊，这不是翠花吗？你儿子收入多少啊？结婚了吗？生孩子了吗？为什么要来这里啊，看破红尘了吗？”大妈不堪受辱，只能离去。传道顺利进行。	{0} disse: "Ah, não é a Senhora Cuihua? Quanto o seu filho ganha? Ele é casado? Tem filhos? Por que ele está vindo aqui? Está cansado da vida mundana?" A mulher não suportou mais a humilhação e foi embora. A pregação seguiu sem problemas.
-{0}拿了一碗面给她，但她并不饿。群众不解，大部分都离去了。	{0} deu uma tigela de macarrão para ela, mas ela não estava com fome. A multidão não entendeu e a maior parte foi embora.
-{0}打算送她灵石，但她不认识灵石。群众不解，大部分都离去了。	{0} tentou oferecer a ela Pedras Espirituais, mas ela não sabia o que eram. A multidão não entendeu e a maior parte foi embora.
-{0}拿了一根棍子，对着大妈说：“你再说一句？”大妈摊在地上，哭喊：“救命啊，杀人啦！”{0}被群众阻止了。	{0} pegou um bastão e disse para a mulher: "Fale mais uma vez?" A mulher caiu no chão e começou a gritar: "Socorro, estão me matando!" {0} foi interrompido pela multidão.
-{0}拿了一块石头，直接砸向大妈，她没来得及反应，被砸晕了过去。群众十分愤怒。	{0} pegou uma pedra e a jogou contra a mulher, que não teve tempo de reagir e foi derrubada. A multidão ficou furiosa.
-在众人合力施法的关键时刻，[NAME]突然发难，然而他人却早有防备，逆转阵法反而重创了[NAME]。[NAME]慌乱中夺路而逃，保住一条性命，但是身负重伤，功力大损。	Quando o momento crucial chegou, [NAME] lançou um ataque repentino, mas os outros já estavam preparados e inverteram o feitiço, causando danos significativos a [NAME]. [NAME] fugiu em pânico, salvando sua vida, mas ficou gravemente ferido e teve grande parte de seu poder perdido.
-[NAME]率先奔向藏经阁，惊喜的发现密室的禁制并没有被毁坏。[NAME]心怀激动的打开密室，心中庆幸太一门五峰传承不绝。	[NAME] correu para a Biblioteca e ficou surpreso ao descobrir que o selo da sala secreta não havia sido destruído. [NAME] abriu a sala secreta, emocionado, e ficou feliz em ver que a linhagem dos Cinco Picos da Seita Taiyi continuava.
-[NAME]收好功法，决定再四处看看，找一些线索。	[NAME] guardou o método e decidiu procurar mais pistas pelos arredores.
-{0}想了想，依靠处世无法密谋。	{0} pensou um pouco e decidiu que não era hora de confiar apenas nas habilidades sociais.
-{0}决定派人去请匪徒来此地扰乱民生。晚上，一群匪徒袭击了这里。	{0} decidiu mandar chamar bandidos para causar distúrbios entre os moradores. À noite, um grupo de bandidos atacou o local.
-{0}决定直接拉拢其他门派的信众。	{0} decidiu tentar coagir os seguidores de outras seitas a traírem.
-此地并无其他势力。	Este lugar não estava sob a influência de nenhuma outra seita.
-{0}决定去做些坏事，降低其他势力的吸引力。	{0} decidiu fazer algo ruim para diminuir a atratividade de outras seitas.
+{{0}没有阻止她。大妈声音越来越大，群众觉得很讨厌，纷纷离去了。	{0} não a impediu. A mulher foi aumentando o tom de voz, e a multidão achou aquilo muito irritante, então acabou se dispersando e indo embora.
+{0}尝试安抚她，但他看起来就是来找茬的，毫无办法。	{0} tentou acalmá-la, mas ela parecia estar ali só para arranjar confusão; não havia o que fazer.
+{0}说：“住口！你竟敢妄议神明？让你尝尝神的……”大妈居然没等话说完就骂了回来：“你们居然欺负一个弱女子？就这样还想让别人供奉？我呸！”群众对{0}同样表示唾弃。	{0} disse: "Cale a boca! Você ousa falar dos deuses? Então prove do poder divino..." A mulher nem deixou {0} terminar e xingou de volta: "Vocês estão intimidando uma mulher fraca? E ainda querem que os outros venerem vocês? Eu cuspo nisso!" A multidão também demonstrou desprezo por {0}.
+{0}摆出邀请的手势：“既然你觉得好，来加入我们吧。”大妈好像没听见一样，还在叫好。	{0} fez um gesto de convite: "Já que você acha tão bom, venha se juntar a nós." A mulher, como se não tivesse ouvido, continuou gritando e aplaudindo.
+{0}说道：“啊，这不是翠花吗？你儿子收入多少啊？结婚了吗？生孩子了吗？为什么要来这里啊，看破红尘了吗？”大妈不堪受辱，只能离去。传道顺利进行。	{0} disse: "Ué, você não é a Cuihua? Quanto seu filho ganha? Já casou? Já teve filhos? Por que veio aqui? Já largou a vida mundana?" A mulher não aguentou a humilhação e foi embora. A pregação seguiu sem problemas.
+{0}拿了一碗面给她，但她并不饿。群众不解，大部分都离去了。	{0} trouxe uma tigela de macarrão para ela, mas ela não estava com fome. A multidão não entendeu, e a maioria foi embora.
+{0}打算送她灵石，但她不认识灵石。群众不解，大部分都离去了。	{0} tentou oferecer Pedras Espirituais, mas ela não sabia o que eram. A multidão não entendeu, e a maioria foi embora.
+{0}拿了一根棍子，对着大妈说：“你再说一句？”大妈摊在地上，哭喊：“救命啊，杀人啦！”{0}被群众阻止了。	{0} pegou um bastão e disse para a mulher: "Repete mais uma vez?" A mulher se jogou no chão, chorando e gritando: "Socorro! Estão me matando!" {0} foi impedido pela multidão.
+{0}拿了一块石头，直接砸向大妈，她没来得及反应，被砸晕了过去。群众十分愤怒。	{0} pegou uma pedra e a arremessou direto contra a mulher. Ela não teve tempo de reagir e desmaiou com o golpe. A multidão ficou furiosa.
+在众人合力施法的关键时刻，[NAME]突然发难，然而他人却早有防备，逆转阵法反而重创了[NAME]。[NAME]慌乱中夺路而逃，保住一条性命，但是身负重伤，功力大损。	No momento crucial em que todos conjuravam juntos, [NAME] atacou de repente. Porém, os outros já estavam prevenidos e inverteram a formação, ferindo gravemente [NAME]. Em pânico, [NAME] fugiu para salvar a própria vida, mas ficou seriamente ferido e teve sua força drasticamente reduzida.
+[NAME]率先奔向藏经阁，惊喜的发现密室的禁制并没有被毁坏。[NAME]心怀激动的打开密室，心中庆幸太一门五峰传承不绝。	[NAME] correu primeiro para o Pavilhão das Escrituras e, com alegria, viu que as restrições da câmara secreta não haviam sido destruídas. Com o coração cheio de emoção, [NAME] abriu a câmara e se sentiu aliviado por ver que a herança dos Cinco Picos da Seita Taiyi não havia se perdido.
+[NAME]收好功法，决定再四处看看，找一些线索。	[NAME] guardou a técnica e decidiu olhar ao redor em busca de mais pistas.
+{0}想了想，依靠处世无法密谋。	{0} pensou um pouco e concluiu que não dava para conspirar apenas com artifícios sociais.
+{0}决定派人去请匪徒来此地扰乱民生。晚上，一群匪徒袭击了这里。	{0} decidiu mandar alguém chamar bandidos para vir até aqui e perturbar a vida do povo. À noite, um grupo de bandidos atacou o local.
+{0}决定直接拉拢其他门派的信众。	{0} decidiu tentar aliciar diretamente os seguidores de outras seitas.
+此地并无其他势力。	Não havia nenhuma outra força atuando neste local.
+{0}决定去做些坏事，降低其他势力的吸引力。	{0} decidiu fazer algumas maldades para reduzir a atratividade das outras forças.
 {0}拿了一碗面。大家不知道他在干什么。	{0} pegou uma tigela de macarrão. Ninguém sabia o que ele estava fazendo.
-{0}拿了一颗灵石，大家不知道他在干什么。	{0} pegou uma Pedra Espiritual, mas ninguém sabia o que ele estava fazendo.
-{0}拿了一根棍子，大家不知道他在干什么。	{0} pegou um bastão, mas ninguém sabia o que ele estava fazendo.
-{0}拿了一块石头，大家不知道他在干什么。	{0} pegou uma pedra, mas ninguém sabia o que ele estava fazendo.
-[NAME]小心翼翼的搜索了太一遗迹，并没有发现什么线索。只是在路过门前广场的[color=#0F0F0F]灵石塔[/color]时，突然察觉塔中似乎有什么不对。就在此刻，一道强烈的气息从天边出现，竟然好似直奔太一门遗迹而来。[NAME]不及细查，连忙离开遗迹，暗中潜伏起来，看看前来的到底是什么人。	[NAME] cuidadosamente procurou nas ruínas de Taiyi, mas não encontrou nenhuma pista. Porém, ao passar pela praça em frente à torre [color=#0F0F0F]Spiritstone Pagoda[/color], percebeu que algo estava errado. Nesse momento, uma aura intensa surgiu no céu, parecendo vir diretamente em direção às ruínas do Taiyi Sect. [NAME] não teve tempo para investigar, então rapidamente deixou as ruínas e se escondeu para ver quem estava chegando.
-片刻之后，那道气息现出身影，竟然是一个貌美女子。远远看去，此人竟然是栖霞洞天的长老月清愁！只见她环顾四周，似乎并未觉得有什么惊讶的神色，应当不是正常的拜访。那么此刻她出现在这里绝不寻常，难道她知道些什么？[NAME]计上心来。	Alguns momentos depois, a figura da aura apareceu, sendo uma mulher bonita. De longe, parecia ser a anciã Yue Qingchou da Morada Evenfall! Ao olhar ao redor, ela não parecia surpresa. Sua aparição ali naquele momento não era nada comum, será que ela sabe de algo? Uma ideia surgiu na mente de [NAME].
-[NAME]知道此地不宜久留，便趁那人四处查看时悄然离开。之前发现[color=#0F0F0F]灵石塔[/color]的异常，只好下次再来查探了。	[NAME] sabia que não era bom permanecer ali por muito tempo, então, enquanto a pessoa olhava ao redor, saiu silenciosamente. A anomalia na [color=#0F0F0F]Spiritstone Pagoda[/color] teria que ser investigada na próxima vez.
-[NAME]仔细探查了阵图，却发现以自己的修为完全不能理解这作阵图的原理。顺着阵法脉络来到阵眼之处，[NAME]竟然发现了四枚凝练而成的天劫之息！	[NAME] examinou cuidadosamente o diagrama, mas percebeu que com seu cultivo não conseguia entender a base do diagrama. Seguindo as linhas do diagrama até o centro, [NAME] encontrou quatro respirações da Tribulação Celestial condensadas!
+{0}拿了一颗灵石，大家不知道他在干什么。	{0} pegou uma Pedra Espiritual. Ninguém sabia o que ele estava fazendo.
+{0}拿了一根棍子，大家不知道他在干什么。	{0} pegou um bastão. Ninguém sabia o que ele estava fazendo.
+{0}拿了一块石头，大家不知道他在干什么。	{0} pegou uma pedra. Ninguém sabia o que ele estava fazendo.
+[NAME]小心翼翼的搜索了太一遗迹，并没有发现什么线索。只是在路过门前广场的[color=#0F0F0F]灵石塔[/color]时，突然察觉塔中似乎有什么不对。就在此刻，一道强烈的气息从天边出现，竟然好似直奔太一门遗迹而来。[NAME]不及细查，连忙离开遗迹，暗中潜伏起来，看看前来的到底是什么人。	[NAME] vasculhou com cuidado as Ruínas de Taiyi, mas não encontrou nenhuma pista. Porém, ao passar pela praça em frente ao portão, perto da [color=#0F0F0F]Torre de Pedras Espirituais[/color], percebeu de repente que havia algo errado dentro da torre. Nesse instante, uma aura poderosa surgiu do horizonte, como se viesse direto rumo às Ruínas da Seita Taiyi. Sem tempo para investigar, [NAME] deixou as ruínas rapidamente e se escondeu nas sombras para ver quem estava chegando.
+片刻之后，那道气息现出身影，竟然是一个貌美女子。远远看去，此人竟然是栖霞洞天的长老月清愁！只见她环顾四周，似乎并未觉得有什么惊讶的神色，应当不是正常的拜访。那么此刻她出现在这里绝不寻常，难道她知道些什么？[NAME]计上心来。	Logo depois, aquela aura revelou sua forma: era uma bela mulher. À distância, [NAME] reconheceu — era a anciã Yue Qingchou, da Morada Qixia! Ela olhou ao redor sem demonstrar surpresa, o que indicava que aquilo não era uma visita comum. Então, sua presença ali era claramente suspeita… será que ela sabia de algo? Uma ideia surgiu na mente de [NAME].
+[NAME]知道此地不宜久留，便趁那人四处查看时悄然离开。之前发现[color=#0F0F0F]灵石塔[/color]的异常，只好下次再来查探了。	[NAME] sabia que não era seguro ficar ali por muito tempo, então aproveitou enquanto ela inspecionava o local e saiu silenciosamente. A anomalia na [color=#0F0F0F]Torre de Pedras Espirituais[/color] teria que ficar para uma próxima investigação.
+[NAME]仔细探查了阵图，却发现以自己的修为完全不能理解这作阵图的原理。顺着阵法脉络来到阵眼之处，[NAME]竟然发现了四枚凝练而成的天劫之息！	[NAME] examinou cuidadosamente o diagrama da formação, mas percebeu que, com seu cultivo, era incapaz de entender seus princípios. Seguindo as linhas da formação até o Olho da Formação, [NAME] encontrou, surpreendentemente, quatro porções condensadas do Sopro da Tribulação Celestial!
 “难道这座阵法的作用便是束缚天劫，并利用其量产天劫之息？”[NAME]被自己的猜测震惊了！	“Será que essa formação tem como objetivo prender a Tribulação Celestial e gerar as respirações da Tribulação Celestial?” [NAME] ficou surpreso com sua própria suposição!
-[NAME]仔细研究阵图，然而依然毫无所获，应当是缺少了什么关键的线索。	[NAME] examinou cuidadosamente o diagrama, mas ainda não conseguiu descobrir nada de útil. Parece que falta alguma pista crucial.
-此阵闻所未闻，当是青莲仙人飞升前毕生心血所布。不知道青莲仙人留在人间的道统中是否有蛛丝马迹的信息存在。	Essa formação nunca foi ouvida antes, deve ser o trabalho de uma vida do Imortal Caerulea antes de sua ascensão. Não se sabe se há alguma pista deixada nas tradições humanas do Imortal Caerulea.
-[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派妖人。\n[NAME]二话不说，施了一个剑诀。法宝如同电光惊龙，斩向这帮{1}的邪魔。\n双方本来势均力敌，[NAME]的加入使得邪魔迅速溃败，他们丢下几具尸体后便四散逃命去了。\n{0}的弟子感谢了[NAME]施以援手，并将战利品拿出来供他挑选。	[NAME] correu até lá e descobriu que os discípulos internos de {0} estavam cercando um grupo de demônios heréticos. \n[NAME] não hesitou e fez um gesto de espada. O artefato voou como um raio cortante, indo na direção dos demônios {1}. \nAmbos os lados estavam igualmente emparelhados, mas a chegada de [NAME] fez os demônios se dissiparem rapidamente, fugindo após deixarem alguns corpos para trás. \nOs discípulos de {0} agradeceram a ajuda de [NAME] e ofereceram os despojos para que [NAME] escolhesse.
-[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派妖人。\n[NAME]二话不说，加入战团。对这群{1}的邪魔发动了攻击。\n一番苦斗，众人各自负伤，邪派妖人见形势不妙，使了个脱身的手段，逃离了此处。\n因[NAME]修为太低，并没有帮上什么实质的忙，{0}的弟子感谢了[NAME]的援手，就告辞离去了。	[NAME] correu até lá e descobriu que os discípulos internos de {0} estavam cercando um grupo de demônios heréticos. \nSem dizer uma palavra, [NAME] se juntou à luta. Um ataque foi lançado contra os demônios {1}. \nDepois de uma luta árdua, todos ficaram feridos. Os demônios, vendo que a situação estava ruim, usaram uma técnica para escapar. \nComo o cultivo de [NAME] era muito baixo, não conseguiu fazer muita diferença, mas os discípulos de {0} agradeceram a ajuda de [NAME] e seguiram seu caminho.
-[NAME]尝试正练这本秘籍。	[NAME] tentou praticar corretamente este livro de técnicas.
-[NAME]已经逆练了秘籍，无法正练了。	[NAME] já havia praticado incorretamente o livro de técnicas, não podia mais praticá-lo corretamente.
-[NAME]已经学会了正练之法。	[NAME] já aprendeu a forma correta de praticar.
-[NAME]展现了仙家气度，张二娃一家对[IT]奉若神明，恭敬的将石匣交给了[NAME]	[NAME] demonstrou o porte de alguém da linhagem imortal, e a família Zhang Erwa tratou [IT] como uma divindade, entregando respeitosamente a caixa de pedra a [NAME].
-事后，南屏村流传出了仙人下红尘的种种传说。	Depois disso, vários mitos sobre Imortais que desceram do mundo celestial começaram a circular por Nanping Village.
-[NAME]展现了仙家气度，张二娃一家却总觉得[IT]是个骗子。	[NAME] demonstrou o porte de alguém da linhagem imortal, mas a família Zhang Erwa sempre teve a sensação de que [IT] era um impostor.
-[NAME]没有办法，只得施展了隔空碎石的强大武力，震慑了众人，得到了石匣。	[NAME] não teve outra opção a não ser usar a poderosa força de esmagamento a distância, intimidando todos e obtendo a caixa de pedra.
-[NAME]尝试逆练这本秘籍。	[NAME] tentou praticar incorretamente este livro de técnicas.
-[NAME]已经正练了秘籍，无法逆练了。	[NAME] já havia praticado corretamente o livro de técnicas, não podia mais praticá-lo incorretamente.
-[NAME]已经学会了逆练之法。	[NAME] já aprendeu a forma incorreta de praticar.
-[NAME]想了想，还是决定不参悟这本秘籍了。	[NAME] pensou um pouco, mas decidiu não compreender mais este livro de técnicas.
-[NAME]从蜀山弟子口中得知，尚有一位妖人往中原方向逃窜而无人追捕。他们为了恢复功力，会寻找灵魂强大的凡人来修炼魔功,若放虎归山，怕是会有极大的杀孽。	[NAME] soube pelos discípulos da Montanha Shu que um demônio ainda fugia em direção ao centro das planícies, sem ser perseguido. Para recuperar seus poderes, eles procuravam humanos com almas fortes para praticar suas artes demoníacas. Se o deixassem escapar, haveria grande matança.
-[NAME]提着妖人首级回报蜀山，蜀山派以一柄上好飞剑与入定之术的秘籍作为谢礼，青莲剑宗因为这件事欠了你一些人情。	[NAME] levou a cabeça do demônio de volta a Montanha Shu. Como recompensa, a seita lhe deu uma excelente espada voadora e um livro de técnicas para meditação. O Clã da Espada Lótus Azul ficou em dívida com você por causa disso.
-指玄剑	Buscador da Escuridão
+[NAME]仔细研究阵图，然而依然毫无所获，应当是缺少了什么关键的线索。	[NAME] estudou o diagrama da formação com cuidado, mas ainda assim não obteve nada. Provavelmente falta alguma pista crucial.
+此阵闻所未闻，当是青莲仙人飞升前毕生心血所布。不知道青莲仙人留在人间的道统中是否有蛛丝马迹的信息存在。	Essa formação é inédita; deve ser a obra de toda uma vida do Imortal Qinglian antes de ascender. Não se sabe se há algum indício, por menor que seja, na linhagem (Dao) que o Imortal Qinglian deixou no mundo mortal.
+[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派妖人。\n[NAME]二话不说，施了一个剑诀。法宝如同电光惊龙，斩向这帮{1}的邪魔。\n双方本来势均力敌，[NAME]的加入使得邪魔迅速溃败，他们丢下几具尸体后便四散逃命去了。\n{0}的弟子感谢了[NAME]施以援手，并将战利品拿出来供他挑选。	[NAME] correu até lá e viu que discípulos internos de {0} estavam cercando um grupo de demônios de uma seita herética.\nSem hesitar, [NAME] executou uma Arte de Espada. O tesouro voador cortou o ar como um relâmpago e avançou contra esses demônios de {1}.\nAs forças estavam equilibradas, mas a entrada de [NAME] fez os demônios ruírem rapidamente. Eles largaram alguns cadáveres e fugiram em debandada.\nOs discípulos de {0} agradeceram a ajuda de [NAME] e trouxeram os despojos para que ele escolhesse.
+[NAME]赶了过去，发现是{0}的内门弟子正在围剿一群邪派妖人。\n[NAME]二话不说，加入战团。对这群{1}的邪魔发动了攻击。\n一番苦斗，众人各自负伤，邪派妖人见形势不妙，使了个脱身的手段，逃离了此处。\n因[NAME]修为太低，并没有帮上什么实质的忙，{0}的弟子感谢了[NAME]的援手，就告辞离去了。	[NAME] correu até lá e viu que discípulos internos de {0} estavam cercando um grupo de demônios de uma seita herética.\nSem dizer nada, [NAME] entrou no combate e atacou esses demônios de {1}.\nApós uma luta árdua, todos ficaram feridos. Vendo que a situação não era favorável, os demônios usaram um método de fuga e escaparam.\nComo o cultivo de [NAME] era baixo demais, ele não ajudou de forma efetiva. Ainda assim, os discípulos de {0} agradeceram o apoio e se despediram.
+[NAME]尝试正练这本秘籍。	[NAME] tentou praticar este manual pelo método correto.
+[NAME]已经逆练了秘籍，无法正练了。	[NAME] já praticou este manual pelo método inverso; não é mais possível praticá-lo pelo método correto.
+[NAME]已经学会了正练之法。	[NAME] já aprendeu o método correto de prática.
+[NAME]展现了仙家气度，张二娃一家对[IT]奉若神明，恭敬的将石匣交给了[NAME]	[NAME] demonstrou porte imortal. A família de Zhang Erwa tratou [IT] como uma divindade e entregou respeitosamente o cofre de pedra a [NAME].
+事后，南屏村流传出了仙人下红尘的种种传说。	Depois disso, começaram a circular em Nanping Village várias histórias sobre um Imortal que desceu ao mundo mortal.
+[NAME]展现了仙家气度，张二娃一家却总觉得[IT]是个骗子。	[NAME] demonstrou porte imortal, mas a família de Zhang Erwa sempre achou que [IT] era um impostor.
+[NAME]没有办法，只得施展了隔空碎石的强大武力，震慑了众人，得到了石匣。	[NAME] não teve escolha: exibiu um grande poder, despedaçando pedras à distância, intimidou a todos e assim obteve o cofre de pedra.
+[NAME]尝试逆练这本秘籍。	[NAME] tentou praticar este manual pelo método inverso.
+[NAME]已经正练了秘籍，无法逆练了。	[NAME] já praticou este manual pelo método correto; não é mais possível praticá-lo pelo método inverso.
+[NAME]已经学会了逆练之法。	[NAME] já aprendeu o método inverso de prática.
+[NAME]想了想，还是决定不参悟这本秘籍了。	[NAME] pensou um pouco e decidiu não estudar mais este manual.
+[NAME]从蜀山弟子口中得知，尚有一位妖人往中原方向逃窜而无人追捕。他们为了恢复功力，会寻找灵魂强大的凡人来修炼魔功,若放虎归山，怕是会有极大的杀孽。	[NAME] soube pelos discípulos de Shushan que ainda havia um demônio fugindo rumo às Planícies Centrais, sem que ninguém o perseguisse. Para recuperar o poder, ele procuraria mortais de alma forte para cultivar artes demoníacas; se o deixarem escapar, a matança será enorme.
+[NAME]提着妖人首级回报蜀山，蜀山派以一柄上好飞剑与入定之术的秘籍作为谢礼，青莲剑宗因为这件事欠了你一些人情。	[NAME] voltou a Shushan levando a cabeça do demônio. A Seita Shushan ofereceu, como agradecimento, uma excelente espada voadora e um manual da Arte de Entrar em Meditação. A Seita da Espada Qinglian ficou te devendo um favor por causa disso.
+指玄剑	Espada Zhixuan
 蜀山派打造的利剑，锋利而有灵性。	Uma espada forjada pela seita de Montanha Shu, afiada e com alma.
 获得青莲剑宗人情2点。	Ganhou 2 pontos de conexão com o Clã da Espada Lótus Azul.
 [NAME]走到木桌前，发现木桌上摆放有一张阵图。阵图之上有四个凹槽似乎是阵眼之类的关键所在。	[NAME] se aproximou da mesa de madeira e viu que havia um diagrama de formação sobre ela. O diagrama tinha quatro recessos que pareciam ser o ponto crucial.
@@ -1533,7 +1533,7 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 [NAME]尝试对发亮的凹槽中注入法力。只见一道道漆黑的条纹从凹槽处快速蔓延，很快就填满了四分之一张阵图。	[NAME] tentou injetar magia no sulco brilhante. Viu uma faixa preta se espalhando rapidamente do sulco, preenchendo rapidamente um quarto do diagrama.
 随着最后一片阵图被点亮，整张阵图光华大放。化做一张图卷投入[NAME]怀中	Com a última seção do diagrama iluminada, o diagrama inteiro brilhou intensamente. Transformou-se em um pergaminho que foi lançado nos braços de [NAME].
 [NAME]尝试对发亮的凹槽中注入法力。没想到阵图上传来一股绝强的反震之力。瞬间将[NAME]的经脉震伤。	[NAME] tentou injetar magia no sulco brilhante. Não esperava que o diagrama reagisse com uma força de contra-choque tão forte, que feriu os meridianos de [NAME].
-真气反震	Qi Shock
+真气反震	Recuo de Qi
 [NAME]尝试对发亮的凹槽中注入法力。然而注入的法力如同泥牛入海，毫无踪迹。	[NAME] tentou injetar magia no sulco brilhante. No entanto, a magia injetada desapareceu sem deixar rastros, como um boi de barro lançado no mar.
 [NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正派弟子。\n[NAME]二话不说，施了一个剑诀。法宝如同电光惊龙，斩向这帮{0}的伪君子。\n双方本来势均力敌，[NAME]的加入使得正道弟子迅速溃败，他们丢下几具尸体后便四散逃命去了。\n{1}的弟子感谢了[NAME]施以援手，并将战利品拿出来供他挑选。	NAME] correu até lá e descobriu que os discípulos de {1} haviam cercado um grupo de discípulos de uma seita justa.\n[NAME] não disse nada e simplesmente desferiu um golpe com a espada. Sua arma cortou o ar como um dragão, dilacerando aquele grupo de hipócritas de {0}.\nOs dois lados estavam igualmente equilibrados, mas a entrada de [NAME] na batalha fez com que os discípulos da Lei justa fossem rapidamente derrotados. Após a queda de alguns de seus membros, eles se dispersaram.\nOs discípulos de {1} agradeceram a [NAME] por ajudar e permitiram que [ENHIM] escolhesse os espólios.
 [NAME]赶了过去，发现是{1}的内门弟子正在围剿一群正道弟子。\n[NAME]二话不说，加入战团。对这群{0}的伪君子发动了攻击。\n一番苦斗，众人各自负伤，正道弟子见形势不妙，使了个脱身的手段，逃离了此处。\n因[NAME]修为太低，并没有帮上什么实质的忙，{1}的弟子冷笑着发出两声讽刺，就离开了此处。	[NAME] correu até lá e descobriu que os discípulos de {1} estavam cercando um grupo de discípulos da Lei Righteous. \nSem dizer uma palavra, [NAME] se juntou à luta. [IT] lançou um ataque contra esse grupo de hipócritas de {0}. \nFoi uma luta difícil, todos se feriram; e, quando os discípulos da Lei Righteous perceberam que a situação não estava a seu favor, usaram um truque para fugir dali. \nComo o cultivo de [NAME] não era suficiente, [IT] não conseguiu ajudar de forma substancial, então os discípulos de {1} zombaram de [ENHIM] e até riram um pouco, antes de deixarem o local.
@@ -1723,7 +1723,7 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 [NAME]不愿意趟这趟浑水，离开了玉晶潭。	[NAME] não quis se envolver nessa confusão e deixou o Lago Jade Cristal.
 [NAME]找到了不少的特产资源，于是施了个唤风的法诀，将之搬回了门派。	[NAME] encontrou muitos recursos raros e usou um feitiço de vento para levá-los de volta à seita.
 [NAME]机缘不错，在一处人迹罕至的山坳里发现了宝物。	[NAME] teve sorte e encontrou um tesouro escondido em um vale isolado.
-[NAME]尝试深入寻找，不过这里实在太冷了，[IT]根本无法忍受，只能遗憾离去。	[NAME] tentou continuar a busca, mas estava frio demais para suportar. Infelizmente, teve que partir.  
+[NAME]尝试深入寻找，不过这里实在太冷了，[IT]根本无法忍受，只能遗憾离去。	[NAME] tentou continuar a busca, mas estava frio demais para suportar. Infelizmente, teve que partir.
 [NAME]念叨着：“大力出奇迹……”	[NAME] murmurou: "Esforço grande gera milagres..."
 随后卯足力气一掰，木匣打开了！	Então, com um grande esforço, o baú de madeira se abriu!
 正准备出手，却敏锐地察觉了木匣的机巧，轻松打开了木匣。	Estava prestes a agir, mas percebeu com agudeza o mecanismo do baú de madeira e o abriu facilmente.
@@ -1804,8 +1804,8 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 [NAME]想了想，觉得还是尊重天极老祖自身的意愿，就让其遗蜕永远坐镇此处吧！	[NAME] refletiu e decidiu que, para respeitar os desejos do Patriarca Celestial, os restos permaneceriam neste local para sempre.
 [NAME]归还天极老祖遗蜕，极天宫全派上下感激万分。	[NAME] devolveu os restos do Patriarca Celestial, e todos no Skydome Palace se reuniram para expressar seus sinceros agradecimentos.
 极天宫表示，昔日老祖留言，如若昔日遗蜕归位，可将此玉匣送与来人。[NAME]接过玉匣一看惊喜万分，竟然是两颗造化玉籽！看极天宫的态度，他们似乎并不知道此物妙用。	O Skydome Palace declarou que, segundo uma antiga mensagem deixada pelo ancião, se os restos fossem devolvidos, esta caixa de jade seria entregue à pessoa que os devolvesse. Ao receber a caixa, [NAME] ficou extremamente surpreso ao descobrir que ela continha duas "Fortune Seed"! Pelas atitudes do Skydome Palace, parecia que eles não tinham conhecimento da utilidade deste item.
-[NAME]虽然对此略感奇怪，但也没有多说，参与完归位大典便回归了宗门。	Embora [NAME] tenha achado isso um tanto estranho, não disse mais nada e, após participar da cerimônia de restituição, retornou à seita.
-[NAME]刚准备加入寻找先天灵宝的队伍，却突然发现识海中竟然多出一封古朴的图卷，宝物有灵，竟然自茫茫人海中选择了[NAME]。	[NAME] estava prestes a se juntar à equipe que procurava pelo Tesouro Numinous, quando de repente descobriu que em seu 识海 havia surgido um antigo pergaminho, e o tesouro, dotado de Qi, escolheu [NAME] dentre a multidão.
+[NAME]虽然对此略感奇怪，但也没有多说，参与完归位大典便回归了宗门。	Embora [NAME] tenha achado isso um pouco estranho, não comentou nada. Após participar da cerimônia de retorno, voltou para a seita.
+[NAME]刚准备加入寻找先天灵宝的队伍，却突然发现识海中竟然多出一封古朴的图卷，宝物有灵，竟然自茫茫人海中选择了[NAME]。	[NAME] estava prestes a se juntar ao grupo que procurava o Tesouro Numinoso Inato quando, de repente, percebeu que havia surgido em seu mar de consciência um antigo pergaminho. O tesouro possuía espírito e, em meio à multidão, escolheu [NAME].
 面对如此机缘，[NAME]狂喜之余却又感到一丝不安，不知这是福是祸……	Diante de tal oportunidade, [NAME] ficou exultante, mas também sentiu uma leve apreensão, sem saber se aquilo traria sorte ou infortúnio…
 [NAME]使了个法术，对蛟龙发起挑衅，成功吸引了蛟龙的注意。	[NAME] lançou um feitiço para provocar o Dragão da Inundação, conseguindo atrair sua atenção.
 见蛟龙被吸引，[NAME]驾起剑光，时不时的挑动蛟龙的怒火，向门派方向飞遁而去。	Ao ver que o Dragão da Inundação havia sido atraído, [NAME] empunhou a luz da espada, atiçando ocasionalmente sua fúria, enquanto voava em direção à seita.
@@ -1853,12 +1853,12 @@ GameUlt.KillBoss(\"Boss_Long\", \"龙穴被毁\	GameUlt.KillBoss(\"Boss_Long\", 
 无形中的声音说道：[NAME]不错不错，看来你已经做好了觉悟。来见识见识我的传承！	Uma voz invisível disse: [NAME], não está mal, parece que você já se preparou. Venha conhecer minha herança!
 像是有个声音说道：[NAME]，养龙的最高境界看来你并没有体会到啊，爱一条龙连那种事都不敢？	Parece que uma voz disse: [NAME], pelo visto você ainda não compreendeu o mais elevado nível de criação de dragões. Você sequer ousou amar um dragão?
 [NAME]上前相认，却没想到七师兄竟然惊恐万分，手脚并用的逃离此地……似乎已经失去了理智。	[NAME] se aproximou para se identificar, mas não esperava que o sétimo mestre ficasse tão apavorado, fugindo usando braços e pernas… Parecia que ele havia perdido a razão.
-[NAME]见状，悲痛交集。愣神之间，七师兄已经消失在铜陵山深处…	Perante isso, [NAME] ficou tomado por choque e tristeza… Entretanto, o sétimo mestre já havia desaparecido nas profundezas do Mt. Coppertomb.
-    （探索铜陵山，寻找七师兄踪迹，请前往[color=#D06508]天下[/color]面板，通过派遣弟子驻扎铜陵山。可以随时派遣驻扎的弟子进入铜陵山内探索。）	    (Ao explorar Mt. Coppertomb, você pode encontrar vestígios do sétimo mestre. Use o [color=#D06508]World[/color] painel para enviar discípulos para acampar em Mt. Coppertomb. Os discípulos acampados podem explorar a montanha a qualquer momento.)
-无形中的声音说道：不错不错，看来你们能耐尚可。这从百兽中领悟的阵法就交给你们传承了！	Uma voz invisível disse: Não está mal, vocês têm alguma habilidade. Tomem esta formação, aprendida entre centenas de bestas!
+[NAME]见状，悲痛交集。愣神之间，七师兄已经消失在铜陵山深处…	Ao ver isso, [NAME] foi tomado por choque e tristeza... Num instante de distração, o Sétimo Irmão Sênior já havia desaparecido nas profundezas do Monte Tuling...
+    （探索铜陵山，寻找七师兄踪迹，请前往[color=#D06508]天下[/color]面板，通过派遣弟子驻扎铜陵山。可以随时派遣驻扎的弟子进入铜陵山内探索。）	    (Ao explorar o Monte Tuling em busca de vestígios do Sétimo Irmão Sênior, vá até o painel [color=#D06508]天下[/color] e envie discípulos para se estabelecerem no Monte Tuling. Os discípulos estacionados podem entrar e explorar a montanha a qualquer momento.)
+无形中的声音说道：不错不错，看来你们能耐尚可。这从百兽中领悟的阵法就交给你们传承了！	Uma voz invisível disse: Nada mal, parece que vocês são capazes. Vou lhes deixar como legado esta formação, compreendida a partir das cem feras!
 没有反应！	Não houve reação!
-无形中的声音说道：你们还未通过百兽的试炼！	Uma voz invisível disse: Vocês ainda não passaram pelo teste das cem bestas!
-我曾是弼兽温，曾领悟了野兽的布阵之法，若你有能耐，就试试去取吧！	Eu já fui 弼兽温, e já compreendi a arte do arranjo das feras. Se você tiver habilidade, tente pegá-la!
+无形中的声音说道：你们还未通过百兽的试炼！	Uma voz invisível disse: Vocês ainda não passaram pela prova das Cem Feras!
+我曾是弼兽温，曾领悟了野兽的布阵之法，若你有能耐，就试试去取吧！	Eu fui Bì Shòu Wēn e compreendi a arte de formar matrizes entre as feras. Se você tem capacidade, tente tomar isso para si!
 时机尚不成熟，无法收获。	Ainda não está maduro o suficiente para ser colhido.
 无形中的声音说道：嗯，这冬虫夏草，冬为虫，夏为草，乃变化之极。赐你这本阵法，你好自为之吧！	Uma voz invisível disse: Hum, este Cordyceps, no inverno é um inseto e no verão é uma erva, revelando a máxima transformação. Receba este diagrama de formação, e faça bom uso dele!
 空中没有任何回应	Não houve qualquer resposta.

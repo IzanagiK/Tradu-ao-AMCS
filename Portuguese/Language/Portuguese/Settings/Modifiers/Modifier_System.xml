@@ -1,23 +1,23 @@
-﻿<Texts Type="Other">
+<Texts Type="Other">
 	<List>
 		<Text Name="SysNpcPuppet">
-			<DisplayName>Navio</DisplayName>
-			<Desc>Um navio que se deteriora no trabalho diário e não pode ser reparado.</Desc>
+			<DisplayName>Receptáculo</DisplayName>
+			<Desc>Um receptáculo que se deteriora no trabalho diário e não pode ser reparado.</Desc>
 		</Text>
 		<Text Name="SysInfiPuppet">
-			<DisplayName>Navio das Seis Leis</DisplayName>
-			<Desc>Este navio é feito de materiais especiais e não se desgastará no trabalho diário. Ele ainda pode ser quebrado se atacado, no entanto.</Desc>
+			<DisplayName>Receptáculo das Seis Leis</DisplayName>
+			<Desc>Este receptáculo é feito de materiais especiais e não se desgasta no trabalho diário. Ainda assim, pode ser destruído se for atacado.</Desc>
 		</Text>
 		<Text Name="SysNewYearLink">
 			<DisplayName>Feliz Festival da Primavera</DisplayName>
 		</Text>
 		<Text Name="SysNewYear">
 			<DisplayName>Feliz Festival da Primavera</DisplayName>
-			<Desc>Um monstro de sorte que traria um ano inteiro de boa sorte.</Desc>
+			<Desc>Um monstro de boa sorte que traz fortuna por todo o ano.</Desc>
 		</Text>
 		<Text Name="SysNewYear2">
 			<DisplayName>Feliz Festival da Primavera</DisplayName>
-			<Desc>Um monstro de sorte que traria um ano inteiro de boa sorte.</Desc>
+			<Desc>Um monstro de boa sorte que traz fortuna por todo o ano.</Desc>
 		</Text>
 		<Text Name="SysWuDiYa">
 			<DisplayName>Pato Invulnerável</DisplayName>
@@ -27,40 +27,40 @@
 		</Text>
 		<Text Name="SysCallUp">
 			<DisplayName>Acordado</DisplayName>
-			<Desc>Acordado de repente e incapaz de voltar a dormir.</Desc>
+			<Desc>Acordou de repente e não consegue voltar a dormir.</Desc>
 		</Text>
 		<Text Name="SysDreamCantSleep">
-			<DisplayName>Não consegue dormir</DisplayName>
-			<Desc>O sono foi interrompido por algum motivo, incapaz de voltar a dormir por um tempo.</Desc>
+			<DisplayName>Insônia</DisplayName>
+			<Desc>O sono foi interrompido por algum motivo; não consegue voltar a dormir por um tempo.</Desc>
 		</Text>
 		<Text Name="SysDemonColdDown">
-			<DisplayName>CD Encantador</DisplayName>
+			<DisplayName>Recarga de Encantamento</DisplayName>
 		</Text>
 		<Text Name="SysGodPractice">
 			<DisplayName>Resistir</DisplayName>
-			<Desc>Medite para resistir e retardar a vinda da Tribulação Celestial.</Desc>
+			<Desc>Medite para resistir e atrasar a chegada da Tribulação Celestial.</Desc>
 		</Text>
 		<Text Name="SysTeacherModifier">
 			<DisplayName>Cultivador Misterioso</DisplayName>
-			<Desc>Ficar temporariamente. Vai sair depois de um tempo.</Desc>
+			<Desc>Estadia temporária. Irá partir após algum tempo.</Desc>
 		</Text>
 		<Text Name="SysVistorModifier">
 			<DisplayName>Visitante</DisplayName>
-			<Desc>Ficar temporariamente. Vai sair depois de um tempo.</Desc>
+			<Desc>Estadia temporária. Irá partir após algum tempo.</Desc>
 		</Text>
 		<Text Name="SysGodMonsterModifier">
-			<DisplayName>Descendente</DisplayName>
-			<Desc>Ficar temporariamente. Vai sair depois de um tempo.</Desc>
+			<DisplayName>Descendo</DisplayName>
+			<Desc>Estadia temporária. Irá partir após algum tempo.</Desc>
 		</Text>
 		<Text Name="SysFlyingModifier">
 			<DisplayName>Voando...</DisplayName>
 		</Text>
 		<Text Name="SysPracticeDie">
 			<DisplayName>Fundação Destruída</DisplayName>
-			<Desc>Uma vez que a fundação é destruída, não se pode progredir mais no Cultivo, não importa o quanto tentem.</Desc>
+			<Desc>Uma vez que a Fundação é destruída, não é possível avançar no Cultivo, por mais que se tente.</Desc>
 		</Text>
 		<Text Name="SysExploreEatModifier">
-			<DisplayName>Aproveitar Comida</DisplayName>
+			<DisplayName>Apreciar Comida</DisplayName>
 		</Text>
 		<Text Name="SysFabao_Positive">
 			<DisplayName>Artefatos Simbióticos</DisplayName>
@@ -69,261 +69,323 @@
 			<DisplayName>Artefatos Idênticos</DisplayName>
 		</Text>
 		<Text Name="SysFabao_Negative">
-			<DisplayName>Artefatos Alelopáticos</DisplayName>
+			<DisplayName>Artefatos AlleloLawic</DisplayName>
 		</Text>
 		<Text Name="SysEndureHunger">
-			<DisplayName>Resistente à fome</DisplayName>
-			<Desc>Tendo comido o alimento seco, torna-se mais tolerante à fome.</Desc>
+			<DisplayName>Resistência à Fome</DisplayName>
+			<Desc>Após comer a comida seca, torna-se mais tolerante à fome.</Desc>
 		</Text>
 		<Text Name="Illusion1">
 			<DisplayName>Alucinação</DisplayName>
-			<Desc>Começou a alucinar depois de comer um cogumelo estranho. Gosta muito de trabalhar.</Desc>
+			<Desc>Começou a alucinar após comer um cogumelo estranho. Ama trabalhar demais.</Desc>
 		</Text>
 		<Text Name="Illusion2">
 			<DisplayName>Alucinação</DisplayName>
-			<Desc>Começou a alucinar depois de comer um cogumelo estranho. Adora correr muito e precisa de muito entretenimento.</Desc>
+			<Desc>Começou a alucinar após comer um cogumelo estranho. Ama correr e precisa de muita diversão.</Desc>
 		</Text>
 		<Text Name="Illusion3">
 			<DisplayName>Alucinação</DisplayName>
-			<Desc>Começou a alucinar depois de comer um cogumelo estranho. Ama muito dormir.</Desc>
+			<Desc>Começou a alucinar após comer um cogumelo estranho. Ama dormir demais.</Desc>
 		</Text>
 		<Text Name="Illusion4">
 			<DisplayName>Alucinação</DisplayName>
-			<Desc>Começou a alucinar depois de comer um cogumelo estranho. A visão dos olhos parece ser a mesma, mas diferente, como se estivesse em um reino de ilusões.</Desc>
+			<Desc>Começou a alucinar após comer um cogumelo estranho. A visão diante dos seus olhos parece a mesma — e ao mesmo tempo diferente — como se você estivesse em um reino de ilusões.</Desc>
 		</Text>
 		<Text Name="NegativeTime">
-			<DisplayName>Relaxado no trabalho.</DisplayName>
-			<Desc>Esse tipo de vida é uma bagunça. Sem vontade de trabalhar. color=#D06508[/color]</Desc>
+			<DisplayName>enrolou no trabalho.</DisplayName>
+			<Desc>Essa vida está uma bagunça. Sem vontade de trabalhar. [color=#D06508](Desaparece quando o Humor está acima de 45)[/color]</Desc>
 		</Text>
 		<Text Name="NegativeTime_Hearten">
 			<DisplayName>Animado</DisplayName>
-			<Desc>A vida continua, vamos nos animar e continuar.</Desc>
+			<Desc>A vida continua; levante a cabeça e siga em frente.</Desc>
 		</Text>
 		<Text Name="Dissatisfaction">
 			<DisplayName>Infeliz</DisplayName>
-			<Desc>Chega dessa vida lamentável...</Desc>
+			<Desc>Já não aguento mais essa vida miserável...</Desc>
 		</Text>
 		<Text Name="SysDoBasePractice">
 			<DisplayName>Treinando Artes Marciais</DisplayName>
 		</Text>
 		<Text Name="SysTooTired">
-			<DisplayName>Esgotado</DisplayName>
+			<DisplayName>Exausto</DisplayName>
 		</Text>
 		<Text Name="Sys_JieNanShenyu">
 			<DisplayName>Maldição do Desejo</DisplayName>
-			<Desc>O consumo básico aumentou 5 vezes</Desc>
+			<Desc>Consumo básico aumentado em 5 vezes</Desc>
 		</Text>
 		<Text Name="Sys_JieNanZhenkong">
 			<DisplayName>Maldição do Vazio</DisplayName>
-			<Desc>Perdeu a capacidade de realizar milagres</Desc>
+			<Desc>Perdeu a capacidade de realizar Milagres</Desc>
 		</Text>
 		<Text Name="Sys_JieNanHuangu">
 			<DisplayName>Maldição do Esqueleto</DisplayName>
-			<Desc>De vez em quando, seu osso sofrerá um novo dano.</Desc>
+			<Desc>De tempos em tempos, seus ossos sofrerão um novo dano.</Desc>
 		</Text>
 		<Text Name="Sys_WorkBroken">
 			<DisplayName>Buscando Inspiração</DisplayName>
-			<Desc>Depois de perder todos os poderes mágicos, medite com os discípulos externos na esperança de encontrar inspiração e alcançar um avanço.</Desc>
+			<Desc>Após perder todos os poderes místicos, medite com os discípulos externos na esperança de encontrar inspiração e alcançar um avanço.</Desc>
 		</Text>
 		<Text Name="Sys_MasterHelp">
 			<DisplayName>Guarda</DisplayName>
-			<Desc>Seu mestre forneceu Guarda para você, aumentando seu Estado Mental e mantendo-o estabilizado.</Desc>
+			<Desc>Seu mestre lhe concedeu Guarda, aumentando seu Estado Mental e mantendo-o estável.</Desc>
 		</Text>
 		<Text Name="Sys_DrugTime">
-			<DisplayName>Buff de Medicina</DisplayName>
+			<DisplayName>Bônus de Medicina</DisplayName>
 		</Text>
 		<Text Name="Sys_FabaoPowerAdd">
-			<DisplayName>Aumenta o Poder do Artefato.</DisplayName>
+			<DisplayName>Aumenta o Poder de Artefato.</DisplayName>
 		</Text>
 		<Text Name="Sys_SkillPowerAdd">
-			<DisplayName>Aumenta o Poder do Feitiço</DisplayName>
+			<DisplayName>Aumenta o Poder de Feitiço</DisplayName>
 		</Text>
 		<Text Name="Sys_SheildPowerAdd">
 			<DisplayName>Aumenta a força da Proteção</DisplayName>
 		</Text>
 		<Text Name="SeeGod">
-			<DisplayName>Limpeza Celestial</DisplayName>
-			<Desc>Tendo testemunhado a Ascensão com seus próprios olhos, seu corpo e sua mente são purificados pelos caminhos do céu. A eficiência do cultivo dobrará durante este período de tempo.</Desc>
+			<DisplayName>Purificação Celestial</DisplayName>
+			<Desc>Após testemunhar a Ascensão com seus próprios olhos, corpo e mente são purificados pelas Vias do Céu. Durante este período, a eficiência de Cultivo será dobrada.</Desc>
 		</Text>
 		<Text Name="BasePracticeAchievements1">
-			<DisplayName>Fundação Levemente Construída</DisplayName>
+			<DisplayName>Fundação Levemente Consolidada</DisplayName>
 		</Text>
 		<Text Name="BasePracticeAchievements2">
-			<DisplayName>Fundação Moderadamente Construída</DisplayName>
+			<DisplayName>Fundação Moderadamente Consolidada</DisplayName>
 		</Text>
 		<Text Name="BasePracticeAchievements3">
-			<DisplayName>Fundação Construída</DisplayName>
+			<DisplayName>Fundação Consolidada</DisplayName>
 		</Text>
 		<Text Name="BasePracticeAchievements4">
-			<DisplayName>Fundação Construída (Crença)</DisplayName>
+			<DisplayName>Fundação Consolidada (Crença)</DisplayName>
 		</Text>
 		<Text Name="BasePracticeAchievements5">
-			<DisplayName>Fundação Construída (Treinamento Físico)</DisplayName>
+			<DisplayName>Fundação Consolidada (Treino Físico)</DisplayName>
 		</Text>
 		<Text Name="Sys_Demon">
 			<DisplayName>Demônio ([TXT])</DisplayName>
-			<Desc>Demoniado por algum motivo.</Desc>
+			<Desc>Demonizado por algum motivo.</Desc>
 		</Text>
 		<Text Name="FengShui1">
 			<DisplayName>Terra Abençoada</DisplayName>
 		</Text>
 		<Text Name="FengShui2">
-			<DisplayName>Muito auspicioso</DisplayName>
+			<DisplayName>muito auspicioso</DisplayName>
 		</Text>
 		<Text Name="FengShui3">
-			<DisplayName>Levemente Auspicioso</DisplayName>
+			<DisplayName>Levemente auspicioso</DisplayName>
 		</Text>
 		<Text Name="FengShui4">
-			<DisplayName>Levemente Ominoso</DisplayName>
+			<DisplayName>Levemente ominoso</DisplayName>
 		</Text>
 		<Text Name="FengShui5">
-			<DisplayName>Muito ominoso</DisplayName>
+			<DisplayName>muito ominoso</DisplayName>
 		</Text>
 		<Text Name="FengShui6">
-			<DisplayName>Terra Maldita</DisplayName>
+			<DisplayName>Terra Amaldiçoada</DisplayName>
 		</Text>
 		<Text Name="Sys_AbsorbGong_5">
-			<DisplayName>Exploitação de Prazeres Externos</DisplayName>
-			<Desc>Este alvo foi conjurado com o feitiço Exploração de Prazeres Externos e, portanto, torna-se mais facilmente afetado pelo Humor. Quando em humor extremo (acima de 160 ou abaixo de 40), continuamente fornece Inspiração e Cultivo para o conjurador.</Desc>
+			<DisplayName>Exploração dos Prazeres Externos</DisplayName>
+			<Desc>Este alvo foi afetado pelo feitiço Exploração dos Prazeres Externos e, por isso, torna-se mais suscetível ao Humor. Quando estiver em Humor extremo (acima de 160 ou abaixo de 40), fornecerá continuamente Inspiração e Cultivo ao conjurador.</Desc>
 		</Text>
 		<Text Name="Sys_AbsorbGong_6">
-			<DisplayName>Infecção por Parasitas</DisplayName>
-			<Desc>Este alvo foi lançado com o feitiço Infecção da Alma, fazendo com que toda a sua Fundação seja convertida em Cultivo e alimentada no lançador todos os dias às 0h. Também enfraquece o personagem, diminuindo seus Cinco Atributos e Eficiência Geral do Trabalho.</Desc>
+			<DisplayName>Infecção Parasitária</DisplayName>
+			<Desc>Este alvo foi afetado pelo feitiço Infecção da Alma, fazendo com que toda a sua Fundação seja convertida em Cultivo e transferida ao conjurador todos os dias à 0h. Além disso, o feitiço enfraquece o personagem, reduzindo seus Cinco Atributos e a Eficiência Geral de Trabalho.</Desc>
 		</Text>
 		<Text Name="Sys_ShenXiu_Magic_JingXin">
 			<DisplayName>Pacificação</DisplayName>
-			<Desc>O humor dessa pessoa está mais calmo agora.</Desc>
+			<Desc>O humor desta pessoa está mais calmo agora.</Desc>
 		</Text>
 		<Text Name="Sys_DaoLv">
-			<DisplayName>Companhia</DisplayName>
-			<Desc>Quando junto com meu companheiro, posso sentir uma forte consonância entre nós, o que aumenta muito a eficiência do Cultivo.</Desc>
+			<DisplayName>Companheirismo</DisplayName>
+			<Desc>Quando estou junto do meu companheiro, sinto uma forte consonância entre nós, o que aumenta muito a eficiência do Cultivo.</Desc>
 		</Text>
 		<Text Name="Sys_Zombie">
 			<DisplayName>Zumbi</DisplayName>
 		</Text>
 		<Text Name="Sys_Jianglingfenshen">
-			<DisplayName>Doppelganger Descendente</DisplayName>
-			<Desc>O doppelganger de um mestre ancestral que serve apenas para lutar em batalha. Vai sair depois de um tempo.</Desc>
+			<DisplayName>Doppelgänger Descendente</DisplayName>
+			<Desc>O doppelgänger de um mestre ancestral que serve apenas para lutar em batalha. Ele irá embora após algum tempo.</Desc>
 		</Text>
 		<Text Name="Sys_Jianglingjiangdao">
-			<DisplayName>Doppelganger Descendente</DisplayName>
-			<Desc>O doppelganger de um mestre ancestral que está dando uma palestra. Vai sair depois de um tempo.</Desc>
+			<DisplayName>Doppelgänger Descendente</DisplayName>
+			<Desc>O doppelgänger de um mestre ancestral que está dando uma aula. Ele irá embora após algum tempo.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_ZangMenDebuff">
-			<DisplayName>Angustiado (Líder da Seita)</DisplayName>
-			<Desc>O Líder da Seita está sentindo muito estresse devido ao pesado fardo de ter que gerenciar a seita, o que causa uma diminuição nas estatísticas relacionadas ao cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Descoberta. Quanto mais ramos a seita tiver, mais pesado será o estresse. Pode ser reduzido até certo ponto dependendo das habilidades de gerenciamento do Líder da Seita.</Desc>
+			<DisplayName>Aflito (Líder da Seita)</DisplayName>
+			<Desc>O Líder da Seita está sob grande estresse devido ao pesado fardo de administrar a seita, o que reduz atributos ligados ao cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Avanço. Quanto mais ramos a seita possuir, maior será o estresse. Esse efeito pode ser aliviado em certa medida, dependendo das habilidades de gestão do Líder da Seita.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_TangZhuDebuff">
-			<DisplayName>Angustiado (Líder do Ramo)</DisplayName>
-			<Desc>O Líder do Ramo está sentindo muito estresse devido ao pesado fardo de ter que gerenciar os discípulos do ramo, o que causa uma diminuição nas estatísticas relacionadas ao cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Descoberta. Quanto mais discípulos o ramo tiver, mais pesado será o estresse. Pode ser reduzido até certo ponto dependendo das habilidades de gerenciamento do Líder da Seita.</Desc>
+			<DisplayName>Aflito (Líder do Ramo)</DisplayName>
+			<Desc>O Líder do Ramo está sob grande estresse devido ao pesado fardo de administrar os discípulos do ramo, o que reduz atributos ligados ao cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Avanço. Quanto mais discípulos o ramo possuir, maior será o estresse. Esse efeito pode ser aliviado em certa medida, dependendo das habilidades de gestão do Líder da Seita.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_ZangMenDebuff_Old">
 			<DisplayName>Fadiga</DisplayName>
-			<Desc>Embora não seja mais o Líder da Seita, o estresse pesado que você suportou ao administrar a seita não deve ser aliviado tão facilmente em um curto período de tempo. Diminui as estatísticas relacionadas ao Cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Descoberta.</Desc>
+			<Desc>Mesmo não sendo mais o Líder da Seita, o grande estresse suportado ao administrar a seita não desaparece tão facilmente em pouco tempo. Reduz atributos ligados ao cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Avanço.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_TangZhuDebuff_Old">
 			<DisplayName>Fadiga</DisplayName>
-			<Desc>Embora não seja mais o Líder de Filial, o grande estresse que você suportou gerenciando a filial não deve ser aliviado tão facilmente em um curto período de tempo. Diminui as estatísticas relacionadas ao cultivo, incluindo estado mental, velocidade de cultivo, velocidade de obtenção de inspiração e chance de descoberta.</Desc>
+			<Desc>Mesmo não sendo mais o Líder do Ramo, o grande estresse suportado ao administrar o ramo não desaparece tão facilmente em pouco tempo. Reduz atributos ligados ao cultivo, incluindo Estado Mental, Velocidade de Cultivo, Velocidade de Obtenção de Inspiração e Chance de Avanço.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_NoAreaBuff">
-			<DisplayName>Sem Bônus de Area</DisplayName>
-			<Desc>Devido à incapacidade do Líder de Ramo, os discípulos deste ramo não podem receber o Bônus de Area.</Desc>
+			<DisplayName>Sem Bônus de Área</DisplayName>
+			<Desc>Devido à incapacidade do Líder do Ramo, os discípulos deste ramo não podem receber o Bônus de Área.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_NoAllBuff">
 			<DisplayName>Sem Bônus Normal</DisplayName>
-			<Desc>Devido à incapacidade do Líder de Ramo, os discípulos deste ramo não podem receber o Bônus Normal.</Desc>
+			<Desc>Devido à incapacidade do Líder do Ramo, os discípulos deste ramo não podem receber o Bônus Normal.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Nei_Dan">
-			<DisplayName>Expertise em Alquimia (discípulo interno)</DisplayName>
-			<Desc>Os discípulos internos aumentaram a velocidade de fabricação de pílulas, a taxa de sucesso e o rendimento dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Alquimia (discípulo interno)</DisplayName>
+			<Desc>Discípulos internos têm maior velocidade de Concoção de Pílulas, taxa de sucesso e rendimento dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Wai_Dan">
-			<DisplayName>Expertise em Alquimia (discípulo externo)</DisplayName>
-			<Desc>Os discípulos externos melhoraram as habilidades de fabricação de remédios e cura dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Alquimia (discípulo externo)</DisplayName>
+			<Desc>Discípulos externos têm melhores habilidades de preparo de remédios e cura dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_All_Dan">
-			<DisplayName>Expertise em Alquimia (Permanente)</DisplayName>
-			<Desc>Aumenta o nível de habilidade de Cura/Alquimia e Percepção. Quanto mais capaz o Líder do Ramo, maiores os bônus. (Os bônus de experiência permanentes são atualizados a cada 1 dia)</Desc>
+			<DisplayName>Especialização em Alquimia (Permanente)</DisplayName>
+			<Desc>Aumenta o nível de Cura/Alquimia e a Percepção. Quanto mais capaz for o Líder do Ramo, maiores os bônus. (Os bônus permanentes de Especialização são atualizados a cada 1 dia)</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Nei_Qi">
-			<DisplayName>Expertise em Criação de Artefatos (discípulo interno)</DisplayName>
-			<Desc>Os discípulos internos aumentaram a velocidade de Criação de Artefatos, a taxa de sucesso, o grau do produto e a qualidade dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Forja de Artefatos (discípulo interno)</DisplayName>
+			<Desc>Discípulos internos têm maior velocidade de Forja de Artefatos, taxa de sucesso, grau do produto e qualidade dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Wai_Qi">
-			<DisplayName>Expertise em Criação de Artefatos (discípulo externo)</DisplayName>
-			<Desc>Os discípulos externos melhoraram as habilidades de criação dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Forja de Artefatos (discípulo externo)</DisplayName>
+			<Desc>Discípulos externos têm habilidades de artesanato aprimoradas dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_All_Qi">
-			<DisplayName>Expertise em Criação de Artefatos (Permanente)</DisplayName>
-			<Desc>Aumenta o nível de habilidade e a Constituição de Criação/Artefato. Quanto mais capaz o Líder do Ramo, maiores os bônus. (Os bônus de experiência permanentes são atualizados a cada 1 dia)</Desc>
+			<DisplayName>Especialização em Forja de Artefatos (Permanente)</DisplayName>
+			<Desc>Aumenta o nível de Artesanato/Forja de Artefatos e a Constituição. Quanto mais capaz for o Líder do Ramo, maiores os bônus. (Os bônus permanentes de Especialização são atualizados a cada 1 dia)</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Nei_Zhan">
-			<DisplayName>Expertise em Batalha (discípulo interno)</DisplayName>
-			<Desc>Os discípulos internos melhoraram a Resiliência e a Resistência à Dor dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Combate (discípulo interno)</DisplayName>
+			<Desc>Discípulos internos têm Resiliência e Tolerância à Dor aprimoradas dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Wai_Zhan">
-			<DisplayName>Expertise em Batalha (discípulo externo)</DisplayName>
-			<Desc>Os discípulos externos melhoraram a Resiliência e a Resistência à Dor dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Combate (discípulo externo)</DisplayName>
+			<Desc>Discípulos externos têm Resiliência e Tolerância à Dor aprimoradas dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_All_Zhan">
-			<DisplayName>Expertise em Batalha (Permanente)</DisplayName>
-			<Desc>Melhora as habilidades relacionadas ao combate, incluindo nível de habilidade de batalha, percepção e constituição. Quanto mais capaz o Líder do Ramo, maiores os bônus. (Os bônus de experiência permanentes são atualizados a cada 1 dia)</Desc>
+			<DisplayName>Especialização em Combate (Permanente)</DisplayName>
+			<Desc>Melhora habilidades ligadas ao combate, incluindo nível de Habilidade de Batalha, Percepção e Constituição. Quanto mais capaz for o Líder do Ramo, maiores os bônus. (Os bônus permanentes de Especialização são atualizados a cada 1 dia)</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Nei_XiuLian">
-			<DisplayName>Expertise em Prática (discípulo interno)</DisplayName>
-			<Desc>Os discípulos internos aumentaram o estado mental, a velocidade de cultivo, a obtenção de inspiração e a chance de descoberta dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Cultivo (discípulo interno)</DisplayName>
+			<Desc>Discípulos internos têm Estado Mental, Velocidade de Cultivo, Obtenção de Inspiração e Chance de Avanço aumentados dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Wai_XiuLian">
-			<DisplayName>Expertise em Prática (discípulo externo)</DisplayName>
-			<Desc>Os discípulos externos aumentaram a velocidade do Treinamento da Fundação dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Cultivo (discípulo externo)</DisplayName>
+			<Desc>Discípulos externos têm maior Velocidade de Treino de Fundação dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_All_XiuLian">
-			<DisplayName>Expertise em Prática (Permanente)</DisplayName>
-			<Desc>Aumenta o nível de Qi Sense e Inteligência. Quanto mais capaz o Líder do Ramo, maiores os bônus. (Os bônus de experiência permanentes são atualizados a cada 1 dia)</Desc>
+			<DisplayName>Especialização em Cultivo (Permanente)</DisplayName>
+			<Desc>Aumenta o nível de Senso de Qi e a Inteligência. Quanto mais capaz for o Líder do Ramo, maiores os bônus. (Os bônus permanentes de Especialização são atualizados a cada 1 dia)</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Nei_WaiShi">
-			<DisplayName>Expertise em Aventura (discípulo interno)</DisplayName>
-			<Desc>Os discípulos internos recebem um bônus geral de eficiência quando dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Aventura (discípulo interno)</DisplayName>
+			<Desc>Discípulos internos recebem um bônus geral de eficiência quando atuam dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Wai_WaiShi">
-			<DisplayName>Expertise em Aventura (discípulo externo)</DisplayName>
-			<Desc>Discípulos externos recebem um bônus geral de eficiência quando dentro do escopo deste ramo. Quanto mais capaz o Líder do Ramo, maiores os bônus.</Desc>
+			<DisplayName>Especialização em Aventura (discípulo externo)</DisplayName>
+			<Desc>Discípulos externos recebem um bônus geral de eficiência quando atuam dentro do escopo deste ramo. Quanto mais capaz for o Líder do Ramo, maiores os bônus.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_All_WaiShi">
-			<DisplayName>Expertise em Aventura (Permanente)</DisplayName>
-			<Desc>Melhora os atributos, incluindo velocidade de aventura, bônus de obtenção de reputação, velocidade de descoberta de aventura, nível de habilidade social, carisma e sorte. Quanto mais capaz o Líder do Ramo, maiores os bônus. (Os bônus de experiência permanentes são atualizados a cada 1 dia)</Desc>
+			<DisplayName>Especialização em Aventura(Permanente)</DisplayName>
+			<Desc>Melhora atributos, incluindo Velocidade de Aventura, Bônus de Obtenção de Reputação, Velocidade de Avanço em Aventuras, nível de Habilidade Social, Carisma e Sorte. Quanto mais capaz for o Líder do Ramo, maiores os bônus. (Os bônus permanentes de Especialização são atualizados a cada 1 dia)</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_Magic_Prophesy">
-			<DisplayName>Previsão Universal.</DisplayName>
-			<Desc>Quando algo está prestes a acontecer, uma dica será dada com antecedência.</Desc>
+			<DisplayName>Presságio Universal.</DisplayName>
+			<Desc>Quando algo estiver prestes a acontecer, um indício será dado com antecedência.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_CanNotExperience">
-			<DisplayName>Meditar</DisplayName>
-			<Desc>Este discípulo acaba de voltar de uma longa Aventura e precisa de algum tempo para meditar para estabilizar seu Cultivo.</Desc>
+			<DisplayName>meditar</DisplayName>
+			<Desc>Este discípulo acabou de voltar de uma longa Aventura e precisa de algum tempo para meditar e estabilizar seu Cultivo.</Desc>
 		</Text>
 		<Text Name="Modifier_Sys_CanNotExperienceHide">
-			<DisplayName>Incapaz de iniciar Aventura</DisplayName>
+			<DisplayName>Não é possível iniciar uma Aventura</DisplayName>
 		</Text>
 		<Text Name="Modifier_Sys_TameCD">
 			<DisplayName>Intervalo de Alimentação</DisplayName>
 			<Desc>Este animal acabou de ser alimentado.</Desc>
 		</Text>
+		<Text Name="Modifier_Sys_GodMode">
+			<DisplayName>Invulnerável</DisplayName>
+			<Desc>Estado Invulnerável</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CantSelect">
+			<DisplayName>Não selecionável</DisplayName>
+		</Text>
+		<Text Name="Mini_Follow">
+			<DisplayName>Mascote</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_Fenshenshang">
+			<DisplayName>Desanimado</DisplayName>
+			<Desc>Caiu em um estado de fraqueza após realizar a Divisão do Espírito.</Desc>
+		</Text>
+		<Text Name="SysConcealmentModifier">
+			<DisplayName>Oculto</DisplayName>
+			<Desc>Oculte sua presença para reduzir a chance de ser descoberto. \nLeva 5 s para desfazer o esconderijo.</Desc>
+		</Text>
+		<Text Name="SysConcealmentRobModifier">
+			<DisplayName>Furtando</DisplayName>
+			<Desc>Chance aumentada de ser descoberto.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_WinterWarm">
+			<DisplayName>Verme de Inverno</DisplayName>
+			<Desc>Resistência ao frio aumentada após comer o Verme de Inverno.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_SummerHerb">
+			<DisplayName>Erva de Verão</DisplayName>
+			<Desc>Resistência ao calor aumentada após comer a Erva de Verão.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_SuppressGodCall">
+			<DisplayName>Suprimir</DisplayName>
+			<Desc>Suprima a Tribulação Celestial à força.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_CangJingGe">
+			<DisplayName>Ambiente de Cultivo</DisplayName>
+			<Desc>Graças à quantidade de livros na coleção da seita, nossos discípulos podem cultivar e obter Inspiração mais rápido.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_ShaLu">
+			<DisplayName>Coração da Matança</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_ZiQi">
+			<DisplayName>Coração da Desistência</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_TanLan">
+			<DisplayName>Coração da Ganância</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_XiangLe">
+			<DisplayName>Coração do Hedonismo</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_AoMan">
+			<DisplayName>Coração da Arrogância</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_WeiShan">
+			<DisplayName>Coração da Hipocrisia</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_JiaoLv">
+			<DisplayName>Coração da Ansiedade</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_EnianHeart_YiYu">
+			<DisplayName>Coração da Depressão</DisplayName>
+		</Text>
 		<Text Name="SysNewYearZhulong">
 			<DisplayName>Festival da Primavera</DisplayName>
-			<Desc>O Dragão da Tocha está te observando e irá embora depois de um tempo.</Desc>
+			<Desc>O Dragão da Tocha está observando você e irá embora após algum tempo.</Desc>
 		</Text>
 		<Text Name="SysJumpingModifier">
 			<DisplayName>Ascendendo</DisplayName>
 		</Text>
 		<Text Name="Modifier_Dan_ColdDown">
 			<DisplayName>Absorvendo Medicina</DisplayName>
-			<Desc>Leva algum tempo para absorver totalmente a nutrição de todos os medicamentos, durante o qual nenhuma nova nutrição será adquirida através da ingestão de medicamentos.</Desc>
+			<Desc>Leva algum tempo para absorver por completo os nutrientes de todas as medicinas; durante esse período, nenhum novo nutriente será obtido ao ingerir medicina.</Desc>
 		</Text>
 		<Text Name="SysSprintModifier">
-			<DisplayName>Sprint</DisplayName>
+			<DisplayName>Arrancada</DisplayName>
 		</Text>
 		<Text Name="System_CGModifier">
-			<DisplayName>Transformação Especial</DisplayName>
+			<DisplayName>Metamorfose Especial</DisplayName>
 		</Text>
 	</List>
 </Texts>
